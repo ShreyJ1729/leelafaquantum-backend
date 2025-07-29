@@ -12,6 +12,7 @@ A Python script to download all videos, audio, and thumbnails from any YouTube c
 - Resume capability (skips already downloaded files)
 - Robust error handling and logging
 - PO token support for enhanced YouTube access
+- Proxy support for bypassing regional restrictions
 
 ## Installation
 
@@ -24,6 +25,12 @@ pip install -r requirements.txt
 3. Install youtube-po-token-generator (optional but recommended):
 ```bash
 npm install -g youtube-po-token-generator
+```
+
+4. Configure proxy (optional):
+```bash
+cp proxy_config.json.example proxy_config.json
+# Edit proxy_config.json with your proxy settings
 ```
 
 ## Usage
@@ -46,7 +53,8 @@ python scraper.py "https://www.youtube.com/@ChannelName" --format video
 python scraper.py "https://www.youtube.com/@ChannelName" \
     --format audio \
     --output-dir my_downloads \
-    --no-thumbnails
+    --no-thumbnails \
+    --proxy-config my_proxy.json
 ```
 
 ### Command Line Arguments
@@ -55,6 +63,7 @@ python scraper.py "https://www.youtube.com/@ChannelName" \
 - `--format`: Download format - `audio` (default) or `video`
 - `--output-dir`: Output directory (default: `downloads`)
 - `--no-thumbnails`: Skip downloading thumbnails
+- `--proxy-config`: Path to proxy configuration JSON file (default: `proxy_config.json`)
 
 ## Output Structure
 
@@ -85,6 +94,75 @@ python scraper.py "https://www.youtube.com/@SomeChannel" --format video --output
 ```bash
 python scraper.py "https://www.youtube.com/@SomeChannel" --no-thumbnails
 ```
+
+### Download with proxy
+```bash
+python scraper.py "https://www.youtube.com/@SomeChannel" --proxy-config proxy_config.json
+```
+
+## Proxy Configuration
+
+The scraper supports HTTP and SOCKS5 proxies for bypassing regional restrictions or routing traffic through specific servers.
+
+### Setting up Proxy
+
+1. **Copy the example configuration:**
+```bash
+cp proxy_config.json.example proxy_config.json
+```
+
+2. **Edit the configuration file:**
+```json
+{
+  "enabled": true,
+  "proxies": {
+    "http": "socks5://127.0.0.1:1080",
+    "https": "socks5://127.0.0.1:1080"
+  }
+}
+```
+
+### Proxy Configuration Options
+
+- **SOCKS5 Proxy:**
+```json
+{
+  "enabled": true,
+  "proxies": {
+    "http": "socks5://proxy_address:port",
+    "https": "socks5://proxy_address:port"
+  }
+}
+```
+
+- **HTTP Proxy:**
+```json
+{
+  "enabled": true,
+  "proxies": {
+    "http": "http://proxy.example.com:8080",
+    "https": "http://proxy.example.com:8080"
+  }
+}
+```
+
+- **Authenticated Proxy:**
+```json
+{
+  "enabled": true,
+  "proxies": {
+    "http": "socks5://username:password@proxy.example.com:1080",
+    "https": "socks5://username:password@proxy.example.com:1080"
+  }
+}
+```
+
+### Proxy Notes
+
+- The proxy configuration file is automatically excluded from git commits
+- If no proxy configuration is found, the scraper will proceed without proxy
+- Set `"enabled": false` to temporarily disable proxy without changing settings
+- Both thumbnail downloads and video/audio downloads will use the configured proxy
 
 ## Features in Detail
 

@@ -19,11 +19,14 @@ from tqdm import tqdm
 
 
 class YouTubeScraper:
-    def __init__(self, channel_url, output_dir="downloads", format_type="audio", download_thumbnails=True):
+    def __init__(self, channel_url, output_dir="downloads", format_type="audio", download_thumbnails=True, proxy_config_path=None):
         self.channel_url = channel_url
         self.output_dir = Path(output_dir)
         self.format_type = format_type.lower()
         self.download_thumbnails = download_thumbnails
+        
+        # Load proxy configuration
+        self.proxies = self._load_proxy_config(proxy_config_path)
         
         # Create output directories
         self.videos_dir = self.output_dir / "videos"
@@ -47,6 +50,37 @@ class YouTubeScraper:
         
         # Initialize PO token
         self.po_token_data = self._get_po_token()
+    
+    def _load_proxy_config(self, proxy_config_path):
+        """Load proxy configuration from JSON file"""
+        if not proxy_config_path:
+            proxy_config_path = Path(__file__).parent / "proxy_config.json"
+        else:
+            proxy_config_path = Path(proxy_config_path)
+            
+        if not proxy_config_path.exists():
+            self.logger.info("No proxy configuration found, proceeding without proxy")
+            return None
+            
+        try:
+            with open(proxy_config_path, 'r') as f:
+                config = json.load(f)
+                
+            if not config.get("enabled", False):
+                self.logger.info("Proxy disabled in configuration")
+                return None
+                
+            proxies = config.get("proxies", {})
+            if proxies:
+                self.logger.info(f"Using proxy configuration: {proxies}")
+                return proxies
+            else:
+                self.logger.warning("Proxy enabled but no proxy addresses configured")
+                return None
+                
+        except Exception as e:
+            self.logger.warning(f"Failed to load proxy configuration: {e}")
+            return None
     
     def _get_po_token(self):
         """Generate PO token for YouTube access"""
@@ -99,7 +133,8 @@ class YouTubeScraper:
                 return
                 
             try:
-                response = requests.get(thumbnail_url, timeout=30)
+                # Use proxies if configured
+                response = requests.get(thumbnail_url, timeout=30, proxies=self.proxies)
                 if response.status_code == 200:
                     with open(thumbnail_path, 'wb') as f:
                         f.write(response.content)
@@ -170,21 +205,27 @@ class YouTubeScraper:
     def scrape_channel(self):
         """Main method to scrape entire channel"""
         try:
-            # Initialize channel
+            # Initialize channel with proxy support
+            channel_kwargs = {}
+            if self.proxies:
+                channel_kwargs['proxies'] = self.proxies
+                
             if self.po_token_data:
                 channel = Channel(
                     self.channel_url,
                     use_po_token=True,
                     po_token_verifier=self._po_token_verifier,
+                    **channel_kwargs
                 )
             else:
-                channel = Channel(self.channel_url)
+                channel = Channel(self.channel_url, **channel_kwargs)
             
             self.logger.info(f"Starting scrape of channel: {channel.channel_name}")
             self.logger.info(f"Channel URL: {self.channel_url}")
             self.logger.info(f"Output directory: {self.output_dir}")
             self.logger.info(f"Format: {self.format_type}")
             self.logger.info(f"Download thumbnails: {self.download_thumbnails}")
+            self.logger.info(f"Using proxy: {bool(self.proxies)}")
             
             # Get all videos
             videos = list(channel.videos)
@@ -248,6 +289,10 @@ def main():
         action="store_true",
         help="Skip downloading thumbnails"
     )
+    parser.add_argument(
+        "--proxy-config",
+        help="Path to proxy configuration JSON file (default: proxy_config.json)"
+    )
     
     args = parser.parse_args()
     
@@ -262,7 +307,8 @@ def main():
         channel_url=args.channel_url,
         output_dir=args.output_dir,
         format_type=args.format,
-        download_thumbnails=not args.no_thumbnails
+        download_thumbnails=not args.no_thumbnails,
+        proxy_config_path=args.proxy_config
     )
     
     scraper.scrape_channel()

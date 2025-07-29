@@ -1,6 +1,10 @@
 # Environment variables
 .env
 
+# Proxy configuration
+proxy_config.json
+YouTubeScraper/proxy_config.json
+
 # Python
 __pycache__/
 *.py[cod]
