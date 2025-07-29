@@ -1,0 +1,737 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.720",
+        "text": " Hello everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and I have got a super special treat for you in this video. This video will be highlighting one of the Layla Heeler Network healers, and her name is Kruv on Holtzendorf, and I just want to say welcome Kruv. Such an honor and such a treat to speak to you today. Hi, Kay. Hi, everybody. Yes, it's an honor for me to be here with you guys."
+    },
+    {
+        "start": "00:00:28.720",
+        "end": "00:00:53.920",
+        "text": "Yes, so for those of you who aren't familiar with this aspect of Layla Quantum Tech, just to kind of show you that, you know, the idea here is it's not just one individual, it's a group of people. If you go to the About Us section of the website and you click on healers, that's what this is. There's a network of healers that have all come together to share their unique talents and"
+    },
+    {
+        "start": "00:00:53.920",
+        "end": "00:01:23.880",
+        "text": "just the energy that they have as one team of individuals that have been producing and helping develop the products, also helping to produce and share their frequencies with you as part of the products that are sold on the site. So if you go to this page, you'll find the six main healers right now, and there's a couple of guest healers that have been contributing to the frequencies and to the products and the product development that you are experiencing as a member of our Telegram and our member"
+    },
+    {
+        "start": "00:01:23.880",
+        "end": "00:01:48.360",
+        "text": "of our Layla Quantum Group and our Layla Quantum Upgrade Group. So I just want to say, you know, these are the healers behind that. And so now, Philip has been doing interviews of other different healers, and I've kind of jumped in and I'm helping. And so today, we're going to feature Cruev on Health's Endorph Felling. And Cruev happens to be married to Philip, and so Cruev has."
+    },
+    {
+        "start": "00:01:48.360",
+        "end": "00:02:17.360",
+        "text": "And you'll hear about Cruev every now and then, but she does have, you know, obviously every one of the healers has their own, you know, their own thing going on, and they've been doing it for years and years and years. And so here's Cruev's website, and this is her happy face. And by the way, I do follow you on Instagram, and I just love your reels. You know, I think you're just so happy and it's just, I just love following your reels because every reel just is uplifting, and it makes me feel good."
+    },
+    {
+        "start": "00:02:17.360",
+        "end": "00:02:44.000",
+        "text": "And I think one time you're just so at peace and happy on the beach in Costa Rica that I think I posted something like, you know, you just wait to relax and happy. I think you need three toddlers and a puppy come back to earth, give this lady a puppy. Well, I have had those days, my puppies are nine years old, and my toddlers are now 20 and 15."
+    },
+    {
+        "start": "00:02:44.000",
+        "end": "00:03:10.040",
+        "text": "So I have a very different than, you know, so. Oh, yeah, I think, like, yeah, my daughter, my daughter's finally, you know, older in graduate school. And yeah, it is, it's hard to find harmony and peace and your true self when you're surrounded by children and puppies. But yeah, so this is crew on Holton North, and her website's called crew as in."
+    },
+    {
+        "start": "00:03:10.040",
+        "end": "00:03:29.560",
+        "text": "And this video is to kind of share with you who crew is and her journey as a healer. So welcome crew. It is such a pleasure to speak with you. And so I guess my first question is, okay, so you are a healer. So what would, how would you describe, you know, what you do as a healer?"
+    },
+    {
+        "start": "00:03:29.560",
+        "end": "00:03:50.040",
+        "text": "So healer is a big word, you know, like in general, I, I, I actually like to not be identified as anything other than just me being me and doing me and when you, when you meet me in"
+    },
+    {
+        "start": "00:03:50.040",
+        "end": "00:04:14.840",
+        "text": "the context of that you want help, you know, what I like from me, then I will, there's not a concept that I work with. It's really me reading what is what needs to happen for you. And then apply to that. So there's, of course, every one of us comes with a certain skill set, right?"
+    },
+    {
+        "start": "00:04:14.840",
+        "end": "00:04:36.080",
+        "text": "We, we all have core competences, every one of us humans has come here with a set of core competences. And some of us develop those core competences over the course of a, of a lifetime, maybe one, you know, maybe two. The most of us have between six and seven."
+    },
+    {
+        "start": "00:04:36.080",
+        "end": "00:05:05.000",
+        "text": "And I was fortunate enough because I started very early to be able to complete all six of mine, you know, like, and, and, and if you know them all, you know, like, then you kind of see a threat that goes through your own being like you, I think a big part of being a healer is understanding deeply who you are as a, as a self, you know, like, and then live"
+    },
+    {
+        "start": "00:05:05.000",
+        "end": "00:05:29.280",
+        "text": "that and don't try to be anything else than that. This is, this is what it is for me anyway. And I have been very successful with only delivering what my skill set is and leave other things that someone else has a much better skill set for to them, you know, so it's a again, here's the networking aspect."
+    },
+    {
+        "start": "00:05:29.280",
+        "end": "00:05:55.200",
+        "text": "Like I'm not a single healer in this world that needs to do it all alone, like, there's a whole network of amazing skill set out there that should be accessible and, and shared, you know, so, which is also what we're doing with little quantum tech."
+    },
+    {
+        "start": "00:05:55.200",
+        "end": "00:06:14.760",
+        "text": "And that's why we're like, part of, part of what we're doing is to bring this together to bring everybody together because we, we have so much need in this world. So it's great to use everybody's skills and to bring them together and that everybody do what they're really good at."
+    },
+    {
+        "start": "00:06:14.760",
+        "end": "00:06:39.480",
+        "text": "So my theme in, in my being a healer is to really make you understand that you are an abundant being that, that has everything that it needs in order to live an abundant life, which is actually the most natural state of existence is abundance."
+    },
+    {
+        "start": "00:06:39.480",
+        "end": "00:07:05.960",
+        "text": "And in a human life sensory experience, abundance is something that is impossible to fit in because we have the abundance in each one of us is so much more in a hole rather than just in, in something that is so handicapped like the five sensory experience."
+    },
+    {
+        "start": "00:07:05.960",
+        "end": "00:07:34.360",
+        "text": "So there's a lot of walls that we have to break through in the beginning to open yourself up to that there's more to you than just those five senses and that because we are so limited in the way of experiencing it all, we believe that we don't have it, like, and then we are looking to still it with all sorts of things, you know, like, I mean, just to name one is"
+    },
+    {
+        "start": "00:07:34.360",
+        "end": "00:08:00.960",
+        "text": "like partnerships, you know, like we're looking for a partner that fills that hole within us or we're looking for a career that's supposed to fill or consumerism or whatever like there's so many ways how to try to still what is missing. No one comes has this idea to look inside and think, hey, maybe this is actually within me and I just don't know where it is, you know, like, how can I access it."
+    },
+    {
+        "start": "00:08:00.960",
+        "end": "00:08:24.080",
+        "text": "So, so my practice is revolves a lot around understanding first that really it's all within you. You don't need anything from the outside that doesn't mean that you can't have love and career and beautiful things and all of that. It just means that you don't need them, it's more like you have them because your natural"
+    },
+    {
+        "start": "00:08:24.080",
+        "end": "00:08:45.760",
+        "text": "state of abundance is, it's already established within you, you know, the universe is a mirror, so of course it will be the same in the, in your outside world. And so that's really what, what my practice is all about is to make you understand what"
+    },
+    {
+        "start": "00:08:45.760",
+        "end": "00:09:11.840",
+        "text": "the magnificent and divine and abundant being you are and create like the lasting change of mindset towards that and then access those all these storage places where you have been stacking your abundance and level and balance out where to all these places where you have"
+    },
+    {
+        "start": "00:09:11.840",
+        "end": "00:09:35.960",
+        "text": "creative deficit and that's now a very general, you know, like that's very individual for everybody and so that's why there is no concept with me. You are my concept as the client and I will go where we can move things and we will move them as long as they need to be moved until something else is able to move and so most"
+    },
+    {
+        "start": "00:09:35.960",
+        "end": "00:10:00.280",
+        "text": "clients stay with me for a longer period of time, like I don't sign single sessions and you can book a single session to get an impulse but usually people stay with me for a year, it's a very intense, intimate, powerful year that will create a lasting change which is what I really love."
+    },
+    {
+        "start": "00:10:00.280",
+        "end": "00:10:30.160",
+        "text": "I love when things are not just and that's why I love Leela products because this is something that it does the same thing, like if I were to explain what it feels like that does in a non-scientific way, I would say it reminds you constantly of your divine existence and it's like this, if I tell you every single day that you are ugly and stupid and worthless"
+    },
+    {
+        "start": "00:10:30.160",
+        "end": "00:10:51.200",
+        "text": "you will believe me, eventually you will believe me and you will believe to be the truth and if I tell you from the beginning of your life, before you have even any other concepts that you are beautiful and divine and that you can do whatever is within your own self-skills"
+    },
+    {
+        "start": "00:10:51.200",
+        "end": "00:11:16.400",
+        "text": "that power you will also believe me and so you see how much what we believe about ourselves becomes our reality and the quantum field is a constant reminder now that we have heard most of us have not heard that we are powerful, magnificent, divine, abundant beings like we"
+    },
+    {
+        "start": "00:11:16.400",
+        "end": "00:11:43.920",
+        "text": "have to function, we have to listen to so many rules from the beginning like apply to the society that we grow up in which is so different depending on where you are born, so who is right and who is wrong, right like in the end, there is no right and no wrong, there is only what you are and to understand that and to make that work for you and then you will be"
+    },
+    {
+        "start": "00:11:43.920",
+        "end": "00:12:11.320",
+        "text": "a gift to this world, a gift to yourself and you will experience a beautiful life of purpose without intention because all you need to be is you and that is completely different than what someone else needs to be, so to be reminded after we all heard we need to be this and we need to be that and we are worthless if we don't do that and so all of these kind"
+    },
+    {
+        "start": "00:12:11.320",
+        "end": "00:12:36.880",
+        "text": "of things are now in our subconscious mind you know whether you believe in more than one life or not you know like for the ones that do believe in more than one, we carry on those patterns you know we have heard this for lifetimes you know like how incomplete"
+    },
+    {
+        "start": "00:12:36.880",
+        "end": "00:13:03.280",
+        "text": "beings we are and how we need to be certain things in order to be accepted and loved and all of those things and so there is a pretty big iceberg under our underwater surface that believes to be incomplete and like faulty or like I don't know how to say it in English"
+    },
+    {
+        "start": "00:13:03.280",
+        "end": "00:13:30.360",
+        "text": "right but like to be not good enough basically and now here comes a field in that tells you every single moment of presence that you are within this field that you are actually divine and whole and beautiful and worthy that you're pure love basically that's what that does"
+    },
+    {
+        "start": "00:13:30.360",
+        "end": "00:13:54.440",
+        "text": "you know like on a non-scientific way so eventually you start to believe this because it's so strong you know it's not just like a tiny little reminder here and there it's like these fields are extremely strong so they have a presence within your existence"
+    },
+    {
+        "start": "00:13:54.440",
+        "end": "00:14:19.680",
+        "text": "constantly reminding you of this and outnumbering or like maybe out voicing the voice that has learned to believe different you know like within your subconscious mind and so when you start to believe more and more what that field is reflecting to you because that's"
+    },
+    {
+        "start": "00:14:19.680",
+        "end": "00:14:46.920",
+        "text": "what it does it reflects back to you that picture your divine matrix you know like there so the more you understand this on a conscious level as well and then you start to think differently about yourself and and you create a lasting change because really the way how we think about ourselves the way how we treat ourselves the way how we love ourselves determines"
+    },
+    {
+        "start": "00:14:46.920",
+        "end": "00:15:12.680",
+        "text": "the reality in which we live in it determines everything that happens to us oh yeah yeah yeah so this is really my that is what my practice is about it's all about yeah bringing you back to you making you understand that you are all that you need and I am just a bridge"
+    },
+    {
+        "start": "00:15:12.680",
+        "end": "00:15:40.280",
+        "text": "or well I know that you you've got some incredible naturally gifted talents and so I think Philip is I think he's described you as a clairvoyant once and I'm just kind of wondering so have you always had this ability to bring that out within people I mean what did you what did you do like how did you start your journey and discover yourself and your ability to help"
+    },
+    {
+        "start": "00:15:40.280",
+        "end": "00:15:56.880",
+        "text": "people so I I've been born like this and I I was born to a mother that was amazing she was on a spiritual path already and even though she didn't see what I saw when she noticed"
+    },
+    {
+        "start": "00:15:56.880",
+        "end": "00:16:23.720",
+        "text": "that I see the world in a much more complete version you like or like also the energy feels she started to foster this within me like she told me this is not wrong or like I think that a lot of children actually are born like this is just that the parents don't know what"
+    },
+    {
+        "start": "00:16:23.720",
+        "end": "00:16:52.040",
+        "text": "that is and they you know like turn it down with fantasy or with imagination and things like that and eventually you know that they make their kids grow up and say stop fantasizing you know like become real you know like so they lose this ability like I was lucky to have this beautiful mother that helped me to keep this gift alive and not have to forget"
+    },
+    {
+        "start": "00:16:52.040",
+        "end": "00:17:21.320",
+        "text": "myself so that is really been something that has always been with me like even as a child I was already asked by a relative you know when we had family reunions and things like that like adults came to ask me questions what is suddenly started to talk about things that you don't talk normally to a kid about you know like and and I had answers I didn't"
+    },
+    {
+        "start": "00:17:21.320",
+        "end": "00:17:50.880",
+        "text": "know where these answers come from as a child you know like I just answered like I just knew the same thing today you know like I'm never I don't have a concept in my mind like I'm just I'm just answering when you ask me something that you need to know about yourself then I'm in contact with your highest truth and I'll answer from this it's not my opinion that that I'm sharing so it was like this is that as a child it's harder to have an opinion"
+    },
+    {
+        "start": "00:17:50.880",
+        "end": "00:18:20.560",
+        "text": "as a child because as a child you have so little concept so actually children are really good healers very truthful yeah yeah they're truthful and they're they're conceptless you know like it's a very it's the concepts can be big traps on this healing path so it's good to have little intention and I know that a lot of screaming could come from this sentence"
+    },
+    {
+        "start": "00:18:20.560",
+        "end": "00:18:48.960",
+        "text": "that I truly believe that if you're intention if you have one intention it should be you wanting to be you whatever that entails and and to allow what needs to happen in order for this to really unfold you know like and that is not always just nice things you know like if we intent so many beautiful things in our into our lives and then we might miss"
+    },
+    {
+        "start": "00:18:48.960",
+        "end": "00:19:16.280",
+        "text": "this really not so beautiful experience that would have pushed us a grand step forward you know like so like it was for me like that I had with some time I realized that this gift is unique like that there's very little people around me that are like that and of course I didn't want to be different you know like I grew up in a small little village in Germany"
+    },
+    {
+        "start": "00:19:16.280",
+        "end": "00:19:42.880",
+        "text": "like really small like I think we had 2,000 people living in this village and yeah that was a very colorful being in a very monotone setting and that was also not perceived always as very well you know so I struggled with being different even though I had this mom that"
+    },
+    {
+        "start": "00:19:42.880",
+        "end": "00:20:08.480",
+        "text": "told me the whole time different is not worse it's also not better you know like it is what it is and it's just different but I wanted to be like everybody else and for a while I tried to shut that down in my teenage years to maybe also make experiences that everybody else made and not know everything better all the time you know like I have to tell you"
+    },
+    {
+        "start": "00:20:08.480",
+        "end": "00:20:32.680",
+        "text": "like I never really went into these excessive you know like drinking partying none of these things made sense to me because from someplace higher or I don't know what like more awakened within me I knew this is destructive behavior like why should I do this you know like what's"
+    },
+    {
+        "start": "00:20:32.680",
+        "end": "00:21:00.640",
+        "text": "the benefit from this like yeah so so I missed a lot of things that other people experienced because they didn't make sense in a grander picture like a lot of suffering that other people had was missed on me because I just I think something was already so I recreated"
+    },
+    {
+        "start": "00:21:00.640",
+        "end": "00:21:24.680",
+        "text": "suffering you know like on in an artificial way you know like which was my early twenties I was an extreme sport person you know like I went to the edge extremely like this was all my life you know like I was climbing and extreme skiing and things like that just to"
+    },
+    {
+        "start": "00:21:24.680",
+        "end": "00:21:47.760",
+        "text": "test how far I can go so there were there was definitely a time when I didn't want to take any of this on to and and me being me is not what I wanted you know so and and then I got pregnant with my first baby and that called me home like I was about to be a mountain"
+    },
+    {
+        "start": "00:21:47.760",
+        "end": "00:22:12.200",
+        "text": "guide in Shawnee in France and got pregnant very surprisingly and in this moment of knowing that I will have a baby which I never wanted I wanted to be free and not put my feet on the ground and I turned around 180 and put my feet on the ground like the minute that"
+    },
+    {
+        "start": "00:22:12.200",
+        "end": "00:22:39.640",
+        "text": "I knew I was going to be a mother and that was the greatest gift that I have incinerated into my life is this child which is 20 years old now because everything that came out like to be me and to be nothing other than that didn't take away that I can still do all the fun things and that I still had all these beautiful experiences that you can have as"
+    },
+    {
+        "start": "00:22:39.640",
+        "end": "00:23:04.600",
+        "text": "a human it's but it's so full it's so it's so much better than anything that I could have ever thought it could be because being you fully here on earth means also having to be human and I was very arrogant towards that and I got Lyme's disease to humble me which was one of the best things that could have happened to me and that this trained"
+    },
+    {
+        "start": "00:23:04.600",
+        "end": "00:23:32.320",
+        "text": "me on this path of really being the healer that I am today or being that me being me person that helps when it's asked for you know so it's a it's been a very interesting journey but it was a wide awake one all these 49 years that I am old now in one month I'm"
+    },
+    {
+        "start": "00:23:32.320",
+        "end": "00:23:59.160",
+        "text": "49 years old in this life and I think all of it all of it every single experience even the not wanting me to be me is a very vital part of the ability and the power that I have today in the healing that I do so that's what I meant you know like like allow the bad things"
+    },
+    {
+        "start": "00:23:59.160",
+        "end": "00:24:27.340",
+        "text": "to happen as well because they will make they will give you a strength and a muscle that that you will eventually use in a very beautiful way and I think that's the same for everyone and really everybody around me always my whole life as a child as a teenager is a twin you know whenever I was wanting to be myself or not wanting to be myself I've always created"
+    },
+    {
+        "start": "00:24:27.340",
+        "end": "00:24:49.200",
+        "text": "abundance around me like the life was always so vivid and and for everybody surrounding me like people started to change their their lives completely even though I didn't even say anything you know like it's just I think this is so strong in me this this truth of"
+    },
+    {
+        "start": "00:24:49.200",
+        "end": "00:25:11.380",
+        "text": "what it's really like creation and every part of creation is of course that too as always overflow no matter whether I wanted that or not whether I said something or not and so I created a lot of wealth around me but I stayed like I said for a very long time in"
+    },
+    {
+        "start": "00:25:11.380",
+        "end": "00:25:35.440",
+        "text": "this mode of not wanting to do this for myself until I had to do and and yeah and started to put my feet on the ground and make this a business you know like I mean not a business but you know what I mean like to fulfill this yeah it's a life scholar my my my own journey"
+    },
+    {
+        "start": "00:25:35.440",
+        "end": "00:26:02.220",
+        "text": "yeah yes or how long have you been practicing as a healer like I said my whole life but like to really have a business it's about 18 years now okay um before I didn't do this as a business you know like I just was that person that everybody came to to figure out their lives"
+    },
+    {
+        "start": "00:26:02.220",
+        "end": "00:26:27.700",
+        "text": "and and I just gave answers and didn't make this a business you know like I didn't have meat for business because all I wanted was skiing and climbing and and living the life you know so in in my in my way like yeah so this is this is 18 years now in this practice"
+    },
+    {
+        "start": "00:26:27.700",
+        "end": "00:26:51.920",
+        "text": "and of course the practice has changed many times in the last 18 years yeah yeah your older website was called path of love but you're still doing the same thing basically right yeah yeah yeah it's like I mean I'm being me you know like no matter what it looks like in the outside that that's always what it was and this is I don't do anything different"
+    },
+    {
+        "start": "00:26:51.920",
+        "end": "00:27:15.040",
+        "text": "than I did um only years ago you know like it's it's just that I know much better my skill set and I have developed I have completed these competences you know like in in a way that they are stronger more powerful and and the path of love is really also what we did"
+    },
+    {
+        "start": "00:27:15.040",
+        "end": "00:27:40.720",
+        "text": "is a combined work between Holman Philip and I and because the the skills that that we that the three of us have together is just insane like what we three can do together and like each one of us couldn't do in a lifetime alone you know yeah yeah it's it's"
+    },
+    {
+        "start": "00:27:40.720",
+        "end": "00:28:08.880",
+        "text": "really cool and you don't have that so often that something fits so well and creates this triangle in which really magic can happen and that's why we created path of love but the bummer is that real life is there as well and we have all three of us have so busy running businesses that we we don't do enough together like we should actually do more together"
+    },
+    {
+        "start": "00:28:08.880",
+        "end": "00:28:38.240",
+        "text": "and we keep saying that to each other that we are planning to do something we're actually planning a retreat here in Costa Rica and we have lots of retreat here in Costa Rica and that Philip and I run together and that I run alone but we have now one in the in the planning for Holman coming as well and do something grandiose and together here in this"
+    },
+    {
+        "start": "00:28:38.240",
+        "end": "00:29:04.960",
+        "text": "very abundant country oh yeah you know because I sat in on the last session the three of you had for the you know for the members of the community yes yes yes yeah it was so beautiful and thank you for sharing that with everybody and you know I do I can ask you a question though because like there were so many people that couldn't make that time and they kept saying you know are you guys going to record it and can we watch it later"
+    },
+    {
+        "start": "00:29:04.960",
+        "end": "00:29:30.760",
+        "text": "and and the answer was like no this is a live event and it's it's gonna it's like the magic that's happening is gonna happen live and I know but I wasn't able to kind of explain why that was such a unique aspect to those sessions right because there's been two of them now one was actually recorded the first one and that's available on YouTube I believe it's on Philips YouTube channel but then this last one you know it wasn't recorded but could"
+    },
+    {
+        "start": "00:29:30.760",
+        "end": "00:30:00.640",
+        "text": "you kind of elaborate the power of those sessions being live and why you know watching it later you just wouldn't get you know you wouldn't get the true benefit of it or the true feeling of it is there a way you explain how that's so yeah let me let me try to and take it away from this experience and into something else like it's like when you when you watch the movie about love like I mean it's a love it's a romance you know like you watch the movie"
+    },
+    {
+        "start": "00:30:00.640",
+        "end": "00:30:27.340",
+        "text": "you experience it through the you know cinematography like how that works this is a hard one for John yeah and but you know I mean like to do the pictures and the sound and and the beauty of the moment and everything it's like you are experiencing um definitely what's going"
+    },
+    {
+        "start": "00:30:27.340",
+        "end": "00:30:53.220",
+        "text": "on there if you if you open yourself up to it but then is that the same when you when you truly love yourself and you're in this when when you when you experience the the love and the romance and everything and like the beautiful surrounding and everything it's a very different experience when when it's in your own life rather than when you watch it on a movie right"
+    },
+    {
+        "start": "00:30:53.220",
+        "end": "00:31:18.300",
+        "text": "yeah that makes sense yeah oh yeah so and and this is the same thing with this that doesn't mean that the the movie isn't powerful I mean we all know that that sometimes all we need is good to get us in a better place again yeah sometimes things can be so simple um or something inspiring that we need to see you or hear something inspiring and then we"
+    },
+    {
+        "start": "00:31:18.300",
+        "end": "00:31:38.820",
+        "text": "get our hopes up again or so definitely it's totally beneficial to have it recorded and watch it afterwards because it will still do something but it will never do the same thing as if you were experiencing that moment yourself while it is happening okay you know"
+    },
+    {
+        "start": "00:31:38.820",
+        "end": "00:32:08.340",
+        "text": "so that's the difference I don't know why that was not my call to not record this it's I don't know that was between the guys and I was in Germany at that time and I jumped in like a little last minute and so I don't know what if there was any other reasoning then what I have just explained so that would be something we would have to ask Philip but"
+    },
+    {
+        "start": "00:32:08.340",
+        "end": "00:32:35.100",
+        "text": "definitely we want to repeat this we want to do this more often we keep saying that like like I already mentioned you know like we know that this is so powerful when we do things together and then take all of you in there and really create a powerful field that that is that's something we should do on a regular basis and we know that and we're we're on"
+    },
+    {
+        "start": "00:32:35.100",
+        "end": "00:33:02.500",
+        "text": "it you know like to do this more frequently and and I can ask Philip why he and then maybe next time recorded again and put it on YouTube yeah well you know your explanation is spot on I didn't really think about it that way but you're right because I've done it both ways like the first time I couldn't make it I just had an appointment or something but the second one I attended live and you're so right that when you're in the moment and"
+    },
+    {
+        "start": "00:33:02.500",
+        "end": "00:33:31.020",
+        "text": "it's live and you know you are connected to all of these incredible beautiful souls all experiencing the same thing at the same moment everywhere from the world and we're all connected that was so much more powerful in terms of me being connected to that then it was watching the other one like hours or days later you know I still enjoyed it was like when you get to participate that's where the magic really happens for I think for you individually"
+    },
+    {
+        "start": "00:33:31.020",
+        "end": "00:33:56.220",
+        "text": "so yeah you're right you're it is it's it's not bad to record but you're right it is you know because I did it both ways and I got to tell you I got so much more out of it when I was you know it was live and I knew everybody was connected right this moment on the on this planet together and we were just sharing this wow this incredible healing moment so yeah that's a good perspective thanks for sharing that so I got another question for you that"
+    },
+    {
+        "start": "00:33:56.220",
+        "end": "00:34:23.940",
+        "text": "comes up and this has come up quite a bit in the telegram chat group is when Philip has mentioned you know you had a line and that you overcame it and then I also ran across the video or you were up on a stage talking about that once and so that ties into the other thing that you and I were talking about before the video started which was you know take you having a disease like that like yours you know it's it's sort of I guess the"
+    },
+    {
+        "start": "00:34:23.940",
+        "end": "00:34:48.140",
+        "text": "best way to say it's it's part of your life path and it's something you choose right to experience at at at you know at a soul level and it's also something to teach you something so a couple of questions about that the first one was and this is the one that most people ask is like you know how did you overcome that disease and then cure yourself and then"
+    },
+    {
+        "start": "00:34:48.140",
+        "end": "00:35:16.100",
+        "text": "the second one let's elaborate on that on what that suffering teaches people okay so there was not just one thing that helped me to overcome this disease you know like there's that that was a combined effort of many things and many trials and errors you know like there's this not I couldn't name one thing so it did the healing from a disease like this that"
+    },
+    {
+        "start": "00:35:16.100",
+        "end": "00:35:40.460",
+        "text": "also I have arrogant ignore ignored for five years you know like I I I increased the damage quite a bit that I had to then deal with by the ignorance and arrogance that I displayed to its physical reality when you are born the way how I was born it's very easy to disconnect"
+    },
+    {
+        "start": "00:35:40.460",
+        "end": "00:36:08.580",
+        "text": "from physical reality like pain and such and hunger and thirst and those kind of things they're they're so far away when you live in an energetic existence you know so they're more secondary so of course that a temple does not want to be treated secondary you know like but I didn't see that I thought to be free is to be in an energetic existence and"
+    },
+    {
+        "start": "00:36:08.580",
+        "end": "00:36:37.980",
+        "text": "not to be bound towards physical reality and I asked a lot from this body I was always very sporty very energetic like I have extremely much energy and that needed to go somewhere so I was in sports from the beginning of my life and I was always taking everything from my body that it could give and I didn't give back enough you know like because I didn't"
+    },
+    {
+        "start": "00:36:37.980",
+        "end": "00:37:04.180",
+        "text": "see that that needed to happen to like this this was not a cycle for me it was just me taking as I wanted and that that was my reason why I think in the end two years after I had loom I got Lyme's disease so that was already on the path towards me choosing to be in this"
+    },
+    {
+        "start": "00:37:04.180",
+        "end": "00:37:31.340",
+        "text": "human experience and so a very vital part of how to heal your disease is to understand why you have it you know like so no disease can be healed like by if you if you don't if not some part of you understands what what this is for because every single disease that you can get is something that will is is trying to tell you something it was there before that"
+    },
+    {
+        "start": "00:37:31.340",
+        "end": "00:37:58.180",
+        "text": "lesson was already there somewhere outside of your physical reality but you weren't listening because we're not trying to listen to all parts of ourselves we're trying to listen to our physical reality so we this this this issue moves through the energetic body like we call it all right well until it hits home in the physical reality as a disease and then"
+    },
+    {
+        "start": "00:37:58.180",
+        "end": "00:38:26.300",
+        "text": "we are being stopped in our tracks and we have to kind of find new ways you know some of us know that and they then adjust to whatever is trying to be taught from you to you know like because there's no one else it's just you your highest self is trying to tell you something and you weren't listening so now it's making you listen and then you start"
+    },
+    {
+        "start": "00:38:26.300",
+        "end": "00:38:53.500",
+        "text": "to listen and then you start to adjust and change and that's not like one thing you know like this is a path of many many things to apply that changed and there's people like me you know like that try to ignore this and say this is only happening to other people and create more damage so it's a little harder and yeah this is this in the end it was many"
+    },
+    {
+        "start": "00:38:53.500",
+        "end": "00:39:23.100",
+        "text": "things what really made me I can wholeheartedly say that Philip saved my life and because he was there when I wasn't there for myself like he was there he called me five times from work if I had drunk enough water if I had taken all my nutrition like if I had taken care of myself the way how I should have taken care but I have not known how to do this you"
+    },
+    {
+        "start": "00:39:23.100",
+        "end": "00:39:44.780",
+        "text": "know because I never had to do this so because there was always so much energy until you know I needed to learn to to become a human and really embrace that as something beautiful and nourish or nurture that as well and so he was very when I didn't want to do anything"
+    },
+    {
+        "start": "00:39:44.780",
+        "end": "00:40:10.900",
+        "text": "about it anymore he took me by the hair and dragged me to the next you know he had to hear it from me I have to tell you like I was not a sweet little patient you know like I was like leave me alone you were knowing me and I was very ungrateful in fact while I'm while"
+    },
+    {
+        "start": "00:40:10.900",
+        "end": "00:40:37.620",
+        "text": "I was deeply in this process of pain you know like limes disease creates tremendous amounts of pain and even though I was so good at handling a lot of it that was just even more than I could handle and yeah your patience goes down and your gratefulness goes down which is actually unfortunate because if I have to give you one recipe one medicine that can"
+    },
+    {
+        "start": "00:40:37.620",
+        "end": "00:41:01.540",
+        "text": "change your whole life and it costs nothing other than you doing it then it is gratefulness gratitude is a powerful medicine so I have endless amount of gratitude today fulfilled sticking this out it's very hard to see a partner suffer in that way and see them also"
+    },
+    {
+        "start": "00:41:01.540",
+        "end": "00:41:29.900",
+        "text": "not fighting for themselves and yeah getting did handed to him when he was fighting for me so it it was not a not an easy path and I'm endlessly grateful that he did never give up and that eventually his not giving up made me pick up myself and actually surrender to"
+    },
+    {
+        "start": "00:41:29.900",
+        "end": "00:41:58.380",
+        "text": "the physical reality and the funny thing is in this journey of me being so sick Philip discovered his passion for all of these things that can contribute to healing you know like so later quantum tech wouldn't exist if he hadn't or lead us to sixty wouldn't exist if he if I hadn't been so sick and he hadn't tried to find a solution for me so did the"
+    },
+    {
+        "start": "00:41:58.380",
+        "end": "00:42:27.860",
+        "text": "all these things are have have been born because he was so curious and on always searching for something that would help and that would heal and I tried them like I was a really good guinea pig and tried them all and some were more successful and others were not and one of the ones that cured my the last pains that I just couldn't get rid of I changed"
+    },
+    {
+        "start": "00:42:27.860",
+        "end": "00:42:52.540",
+        "text": "to a vegan diet and no sugar yeah no added sugar so you know like I ate fruit and but I had eliminated a lot of carbs as well and that helped me a lot to come back to energy level what the damage in the organs you know I did a lot of work with 10 units frequency"
+    },
+    {
+        "start": "00:42:52.540",
+        "end": "00:43:18.940",
+        "text": "medicine nutrition like combined efforts but also a lot of work with my soul and I went to Dr. Klinghardt's practice in Seattle and he had a protocol that includes like constellation work and I am somebody that works with this tool as well have been for many many I mean"
+    },
+    {
+        "start": "00:43:18.940",
+        "end": "00:43:46.420",
+        "text": "long time before I get sick so I started to do this more for myself as well so it's like a it's a mixture of many things you can't address it only on the body and you can't address it only on your energy system you know you need to really address it as a whole and do it all in order to overcome something so profound like Lyme's disease is a very"
+    },
+    {
+        "start": "00:43:46.420",
+        "end": "00:44:07.860",
+        "text": "difficult one to treat because it's so individual the way how it expresses in a in a in somebody's life you know like and then also what lessons are trying to teach right so for me it was definitely to get humbled towards and surrender towards physical existence and not see that"
+    },
+    {
+        "start": "00:44:07.860",
+        "end": "00:44:32.060",
+        "text": "as a limitation actually see that as yeah in the end this is a maximum freedom is when you're free within anything you know like I mean doesn't matter what it is so that was it for me and then C60 really cured the last pain that I had which which I couldn't get"
+    },
+    {
+        "start": "00:44:32.060",
+        "end": "00:45:00.100",
+        "text": "rid of and that that is something he found fairly at the end of my healing journey I was already back to doing much better and and actually really good at that point except that the winters were brutal because I couldn't get the pain out of my bones and that stopped completely with C60 I started that four months later the winter came it was the hardest winter"
+    },
+    {
+        "start": "00:45:00.100",
+        "end": "00:45:26.980",
+        "text": "in Memphis in a long time hundred years or so and it was I didn't have a single day of pain and since then I've never had ever again so that that really kicked me out of the last little bit and yeah otherwise it was a very like I said great mixture so everybody that is listening and has Lyme's disease what you need to find is somebody that helps you"
+    },
+    {
+        "start": "00:45:26.980",
+        "end": "00:45:53.780",
+        "text": "understand why you have it and what is it that you need to do because that is there's not one cure for Lyme disease I think that there's probably not one disease that has only one cure yes absolutely but but especially with Lyme's disease it's very with many of these autoimmune system diseases you know like you have to look at it very individually"
+    },
+    {
+        "start": "00:45:53.780",
+        "end": "00:46:18.300",
+        "text": "and then follow that path no matter whether it shows success right away or not you know like I had an eight-year healing journey like five years of not knowing that I had Lyme disease suffering tremendously finding all sorts of reasons why I could have that and then eight years to get myself out of that hole so it's not a short term I don't think"
+    },
+    {
+        "start": "00:46:18.300",
+        "end": "00:46:45.140",
+        "text": "it has to be that long today anymore because today we have C60 we do have the quantum feels you know like so there's we are in a very different time today Earth has changed tremendously eleven years ago so we have things available today that we didn't have that I didn't have when I was going through all of this and so it's it doesn't have to be that long of a"
+    },
+    {
+        "start": "00:46:45.140",
+        "end": "00:47:14.900",
+        "text": "journey and also I was very stubborn so that also doesn't have to be you are you yeah definitely you can yeah there's so much so many things available find that person that helps you to find out what works for you and then if you do the work every disease can be overcome"
+    },
+    {
+        "start": "00:47:14.900",
+        "end": "00:47:44.300",
+        "text": "every single disease because diseases and illusion is everything else you know like it's created in order to create an experience a lesson whatever by our highest self and everything that was created can be undone or brought back to whole because really nothing is ever broken there's no one ever really broken we it sometimes looks like it but it's not I've"
+    },
+    {
+        "start": "00:47:44.300",
+        "end": "00:48:08.020",
+        "text": "been in this practice now for so long with so many people with the most diverse issues that what one can come up with and there's never a single session the same like another and I can tell you everything is in truth hold and nothing is broken I totally resonate"
+    },
+    {
+        "start": "00:48:08.020",
+        "end": "00:48:34.100",
+        "text": "with that I mean everything I know is that you know disease states are multifaceted and that it's not just biochemical it's also energetic it's also frequency it's also bioelectric when you're right you need to treat all of that but you ticked it typically though that I think every average person is pre-programmed because of our culture to look for that you"
+    },
+    {
+        "start": "00:48:34.100",
+        "end": "00:49:02.260",
+        "text": "know look for that pill look for that surgery right yes other problems but it's so singular in in in its action that it's never going to be the cure you know that's why of course allopaths don't use the word cure but it's it's your story is beautiful I I just totally resonate with it I'm so glad you're healthy now and keeping busy with all the things you've got going and you've got sons who are are at that age where they really need that direction"
+    },
+    {
+        "start": "00:49:02.260",
+        "end": "00:49:30.100",
+        "text": "as they start finding their own soul mates life and they don't understand women either mother you know the kind of guy so yeah like they I have really managed to be their mother and their friend and their confident you know like so that is a great gift and I have received"
+    },
+    {
+        "start": "00:49:30.100",
+        "end": "00:49:57.420",
+        "text": "from from both those boys I think they have become great great kids you know with also that was not always easy for them and to be open in this journey with them and include them in this journey so hear me parents that have disease don't exclude your children from this journey because there's so much so much they feel it anyways you know like they know"
+    },
+    {
+        "start": "00:49:57.420",
+        "end": "00:50:24.300",
+        "text": "that something is not right with you or that you feel miserable you know like and they can't handle it like they grow to be beautiful adults knowing what was what is going on knowing it being handled you know like knowing it can take time you know like allow them to be strong like because they are kids are not weak you know like they they are extremely"
+    },
+    {
+        "start": "00:50:24.300",
+        "end": "00:50:48.100",
+        "text": "strong if you let them and that doesn't mean just toss them in everything you know like but take them along like don't hide that from them like I have this experience with tool one was very little he was born when I already had Lyme disease so he thankfully didn't get it so for him it was for both of them it had a lot of effect because I was"
+    },
+    {
+        "start": "00:50:48.100",
+        "end": "00:51:18.100",
+        "text": "not functioning like maybe three hours every day I could be on my leg for years and but still like they have become such compassionate and reflected young adults like that knows so much about themselves and the world surrounding them I think part of that is because it was not always everything lollipops sticking out of the ground you know like it was it was hard"
+    },
+    {
+        "start": "00:51:18.100",
+        "end": "00:51:46.580",
+        "text": "and we talked about this and and I allowed them to grow with it and they did grow and they became very strong so that's amazing that it's just it's wonderful that they saw you overcome this challenge and that they know that there's it there is a way you know because they will ultimately they will ultimately find their own challenges but they'll know that there's answer you know yes that's beautiful that's a very valuable lesson for them to learn"
+    },
+    {
+        "start": "00:51:46.580",
+        "end": "00:52:13.700",
+        "text": "well that's been a just amazing story and thank you for you know sharing your time with me today I do have one last question the Philip wanted me to ask to keep it consistent with the other healer videos you know we've interviewed all the different healers between the two of us and that last question is you know there's there's so many people that come to that are attracted right to the quantum energy whether it's for"
+    },
+    {
+        "start": "00:52:13.700",
+        "end": "00:52:44.580",
+        "text": "EMF mitigation or medical problems and all sorts of reasons people seeking performance better performance and their sports or you know but the one thing that I just wanted to kind of ask you and as a healer is the is what do you what is your advice for people who you know I have just a lot of trauma and because that seems to be one of the key you know things that pop up in our telegram community are people seeking to overcome trauma"
+    },
+    {
+        "start": "00:52:44.580",
+        "end": "00:53:07.700",
+        "text": "and you know given the gifts that you have and your experiences you know what would be your advice on how to start that journey so the I think the first step with any trauma release or any kind of hearing is to accept you know like to accept that this is what happened you know like and then"
+    },
+    {
+        "start": "00:53:07.700",
+        "end": "00:53:32.740",
+        "text": "take the judgment out of it like this is this is not an easy thing you know like of course like I do know that like it sounds very easy when I say it you know just accepted and I know this is not but if you set your mind to this you know like if you if you reprogram your mind to think about this as something okay this happened I don't put any judgment on it you know"
+    },
+    {
+        "start": "00:53:32.740",
+        "end": "00:53:55.380",
+        "text": "like I accept this to be part of my reality and then the next step is I can overcome this you know like to really set your mind in not in an intention way but to reprogram oh no this terrible thing has happened to me you if I keep telling something was terrible I know it was terrible you know like"
+    },
+    {
+        "start": "00:53:55.380",
+        "end": "00:54:23.060",
+        "text": "I had a lot of trauma in my childhood it's that was real as real as it can get you know like and every trauma is very real for the person that experienced that trauma so I'm not saying it's not real you know like what I'm saying is stop putting a label on it like it was terrible in that moment but let's not call it that terrible trauma or that awful experience or something like"
+    },
+    {
+        "start": "00:54:23.060",
+        "end": "00:54:49.060",
+        "text": "that anymore because the more we name it the more it stays you know like as that we won't allow it to shift transform into maybe a lesson a chance an evolution you know like a trauma can be a stepping stone you know like it can be something that catapults you into something bigger you know like something that you would have never thought that could be possible you know like but we we will"
+    },
+    {
+        "start": "00:54:49.060",
+        "end": "00:55:13.060",
+        "text": "never get there if we don't allow the trauma to first of all neutralize you know like a in our perception of it and then let it become transformed into this gift that was given to us in in in form of this trauma you know like so really acceptance take the judgment out and then"
+    },
+    {
+        "start": "00:55:13.940",
+        "end": "00:55:41.060",
+        "text": "start to slowly perceive it as a gift and then of course find somebody that helps you to work through this you know like it's but you can do a lot alone like I said gratitude you know like gratitude for everything that ever happened to you because for whatever reason it was meant to be yes it's going to change so much of the way how you experience your trauma and by loosening"
+    },
+    {
+        "start": "00:55:41.060",
+        "end": "00:56:08.100",
+        "text": "all of those really tight ropes that that we create with this judgment on the trauma is something horrible and all of that you know like by loosening those ropes we actually allow the highest self to flow again and to take us out of the trauma world you know the recreation of the trauma constantly because of the judgment that we have on it you know like we're recreating"
+    },
+    {
+        "start": "00:56:08.100",
+        "end": "00:56:37.140",
+        "text": "our mind is constantly creating our reality so if we are thinking constantly about how horrible something was and we are recreating this horrible scenario and we are we are in a catch 22 like we just can't get out of it and by reprogramming into gratitude for what happened and allowing this to become something rather a gift we actually are getting into that stream in this live stream"
+    },
+    {
+        "start": "00:56:37.140",
+        "end": "00:57:06.580",
+        "text": "where it's taking us to be that gift for us and where we get the opportunities and things come our way that help us and so it's really like it starts with the mind and then it's again a journey of taking everything on but the mind is a very vital part and to take that judgment out of any situation you know it doesn't matter if it is a trauma you know like a or if it's just something"
+    },
+    {
+        "start": "00:57:06.580",
+        "end": "00:57:36.500",
+        "text": "that if maybe it's somebody that you that you experience and this person is really really nasty to you and then people get really stuck on the experience of somebody being nasty to them but they could also just release that right away and be grateful I'm grateful that I'm feeling okay and that I don't feel like that person that needs that has a need to be nasty right now because nobody is nasty because they want to be you know like they they are because they feel really bad"
+    },
+    {
+        "start": "00:57:36.500",
+        "end": "00:58:02.340",
+        "text": "you know so oh yeah I'm going to the wrong thing yeah exactly so to to be grateful that I am right now in a place where I don't have to be like this or to be grateful for your bed you know or to be grateful for that you have something to eat or whatever you know it can be anything but gratefulness is such a powerful game changer in the way how you perceive and create the reality that you live in"
+    },
+    {
+        "start": "00:58:02.340",
+        "end": "00:58:29.460",
+        "text": "so I think that's a really good medicine for trauma and a medicine for any situation where maybe trauma also creates you know like yeah that's that's my small little recipe oh that's beautiful yeah it's it's kind of like people are trapped with their self thinking that of being a victim and not realizing that what happened was part of their divine path to teach them something"
+    },
+    {
+        "start": "00:58:29.460",
+        "end": "00:58:54.420",
+        "text": "and I you know I don't realize that as I get older I put your money when you're living in the moment that it's all feary anger and rage but yes and victim you know and then once you release that and find that gratitude I totally resonate with you yeah in fact you know Philip recently on the late attack recently released a new frequency called gratitude and I turned that thing on"
+    },
+    {
+        "start": "00:58:54.420",
+        "end": "00:59:21.220",
+        "text": "for my quantum upgrade and wow what a powerful frequency I thought I was feeling you know gratitude in my life before I turned that on I all of a sudden started you know I was just unconsciously started just thanking universe every morning and talking to trees and stuff it was just the strangest thing but it was just so powerful that the power of gratitude has that it can change"
+    },
+    {
+        "start": "00:59:21.220",
+        "end": "00:59:48.580",
+        "text": "your perspective so totally yeah and that's that's uh that's applicable to any situation in your life no matter what it is yeah you know that's it's really fascinating because who would have thought that the the path out of trauma is gratitude is that so kind of intuitive in our internal world right but yes of course yeah it's just everything is probably going to be counterintuitive"
+    },
+    {
+        "start": "00:59:48.580",
+        "end": "01:00:18.420",
+        "text": "because we're so programmed to think a certain way and then yes absolutely not the natural way and we need to be patient with the world you know like to catch up on those things you know like it's like um if you surround a child by certain ways it will adapt those ways as as the given you know like it's the truth you know like and then you go somewhere else where children were adapted to other ways you know like and then for that these children are"
+    },
+    {
+        "start": "01:00:18.420",
+        "end": "01:00:44.340",
+        "text": "other ways are the given you know like the truth so there is there's so many different ways that we get introduced to so early so we cannot be uh not compassionate to humans that don't know that gratitude could be medicine you know like or that don't know that there's something"
+    },
+    {
+        "start": "01:00:44.340",
+        "end": "01:01:09.300",
+        "text": "else than the pill you know like I mean that that pill that picks or the surgery or whatever like it's it's the ways that they had been introduced to and it's such a dangerous business to allow the world that you know to change because you don't have any if you're not really held within your own truth you know like then it's very you're very reliant relying on outside truth and"
+    },
+    {
+        "start": "01:01:09.300",
+        "end": "01:01:31.060",
+        "text": "and and to let that go without having that internal truth also rise you know like that's a very fakie thing so I think that that's the beauty with the Leela quantum products is that it asks you it's asked so little of you and gives you so much you know like without you having to"
+    },
+    {
+        "start": "01:01:31.060",
+        "end": "01:01:54.740",
+        "text": "and it takes you on that path patiently gently but definitely you know like to awake into something bigger and that takes different time for different people you know like uh not everybody will need the same thing at the same time and and that's the beauty of these fields that they know"
+    },
+    {
+        "start": "01:01:54.740",
+        "end": "01:02:23.860",
+        "text": "exactly where you at and where you need to be yeah picked up yeah well that's the thing you know what I have like I've had all these blocks I've also got the quantum upgrade and uh I'm a totally different being than I was three years ago when all this started yeah it's you know because it like Philip describes it as you know it seeks harmony and balance and that's what quantum energy does it's this natural energy that that basically is the foundation of consciousness"
+    },
+    {
+        "start": "01:02:23.860",
+        "end": "01:02:49.540",
+        "text": "and reality and and when you subject yourself to that and release yourself to it it changes you you just become ingrained to it and it yeah it's again everybody give yourself some time give yourself some time but uh hey crew this has been such a great chat I know you I got to be sensitive to your time I know thank you so much for spending the morning with me and I thank you"
+    },
+    {
+        "start": "01:02:49.540",
+        "end": "01:03:18.420",
+        "text": "for this wonderful opportunity to introduce you to the community the last thing I really want to make sure is that if there's anyone out in the community that wants to you know like touch bases with you or or just chat with you what the best way to reach them is that through your website yes yes that's the best way so the website is I'll go ahead I'm not so active on telegram so there's just too many channels so the website is the best because"
+    },
+    {
+        "start": "01:03:18.420",
+        "end": "01:03:47.220",
+        "text": "those emails I will always see and there's many contact buttons you know you can just click it and reach out okay so the I'll put a link to the website here for crew's website in the video description otherwise it's just crew dash since dot com and again if you wanted to reach out you can right here there's uh this is I guess the schedule a session and then at the very bottom I believe there's a contact me or you can go ahead and email crew so that's how you reach"
+    },
+    {
+        "start": "01:03:47.220",
+        "end": "01:04:11.140",
+        "text": "her right yes okay well thank you so much thank you okay thank you so much wonderful treat I really really thank you for your time it's just lovely to talk to you you too and you have a great rest of your day and everybody else as well or night where whenever you were listening to this okay all right well thank you very much hello huh bye bye"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.760",
+        "text": " Introducing the new Quantum Charged EMF Jacket by Leila Quantum Tech. Perfect for daily commuters, technology professionals, or anyone seeking comprehensive protection in style. This jacket represents the future of protective clothing. Crafted with revolutionary silver fiber technology, this premium jacket combines EMF blocking, wind resistance performance and antibacterial properties. The Advanced Heal 360 frequency technology supports your complete well-being on emotional, energetic, and physical levels. Imagine a soothing and"
+    },
+    {
+        "start": "00:00:29.760",
+        "end": "00:00:59.320",
+        "text": "supportive energy bubble around you while you wear this jacket. This innovative garment represents the perfect fusion of advanced technology and practical functionality designed for the modern man or woman who prioritizes both wellness and style. The heart of this jacket lies in its exceptional construction, featuring a body lining made of 100% silver fiber created from nylon coated 99.99% fierce silver. Stay warm with confidence knowing that the Heal 360 jacket features premium insulation certified through the responsible standard."
+    },
+    {
+        "start": "00:00:59.320",
+        "end": "00:01:28.360",
+        "text": "Well, thank you very much for watching this quick little video. The new jacket will be released for sale the week of December 9, 2024 next week. And just for those of you who have subscribed to the announcements and stuff from Leila Quantum Tech's website, they're going to be sending out an email special offer for only 48 hours for this new jacket. So you want to keep an eye on that for a discount. Also too, for those of you who are interested"
+    },
+    {
+        "start": "00:01:28.360",
+        "end": "00:01:41.960",
+        "text": "in getting the jacket, they do come in sizes small, medium, large, and extra large. So it makes a great gift for the holiday season and also makes a great gift for yourself. So I hope you guys enjoy the new jacket and have a great day. Aloha!"
+    }
+]

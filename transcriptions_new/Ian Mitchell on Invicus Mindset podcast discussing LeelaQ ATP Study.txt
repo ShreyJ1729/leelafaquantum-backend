@@ -1,0 +1,37 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:24.960",
+        "text": " We just did this experiment that I thought was kind of remarkable two weeks ago on quantum entanglement and biological systems. And we've done it, we've repeated it over and over because the results are very bizarre through the conventional lens. So there's a company that I work with called Leela Quantum, and they have a thing called the Heel capsule and the quantum block."
+    },
+    {
+        "start": "00:00:24.960",
+        "end": "00:00:54.000",
+        "text": "And so what we were doing was we were taking these cells and it was a double-blinded study. So we take these cells and the fellow that they work with in Germany would send quantum energy to the cells. And what we would do is we would measure the ATP output of the cells before one group of the cells was charged and then we would measure them on time points, 30 minutes, one hour, two hours, four hours, eight hours a day. And without fail, 100% of the time,"
+    },
+    {
+        "start": "00:00:54.000",
+        "end": "00:01:23.520",
+        "text": "and they didn't, you know, I would send them a picture of the cells to charge. They didn't know which group it was, the guys that were putting them in the incubator and then running the ATP assays on them with the limonometer, they didn't know which was which. I was the only person who actually knew which was the control and which was the experimental group. 100% of the time, beyond statistical doubt, it changed the ATP output just by focusing, you know, quantum energy on these things. So very demonstrably, it's showing that there's an entanglement function"
+    },
+    {
+        "start": "00:01:23.520",
+        "end": "00:01:52.240",
+        "text": "in biological systems, which is remarkable. I mean, well, actually, given the, you know, the Nobel Prize in 2022 for physics, you know, showing, you know, kind of Bell's Theorems that you can transfer information faster than the speed of white and that there is, in fact, entanglement, it's not surprising that that is something that the universe would use when it builds biological systems. It's just when you see it firsthand, it's shocking, right? Because it does"
+    },
+    {
+        "start": "00:01:52.240",
+        "end": "00:02:17.680",
+        "text": "fit, it doesn't fit inside the model. And one of the fellows is a PhD biochemist, really sharp cat that was doing the experiment and running and testing it and putting all the data together. You know, he, you know, compiled and said, well, you know, do we need to do it again? Are we done? Should we write something up? And he said, no, do it, do it a bunch. You know, let's do it a bunch because it's such a bizarre result from the common thought process and what,"
+    },
+    {
+        "start": "00:02:17.680",
+        "end": "00:02:44.000",
+        "text": "you know, what you're always taught that I wanted to make sure that it was just beyond reproach, right? Just incontrovertible preponderance of evidence to say like, okay, we don't know how it works exactly, right? But we can demonstrably say it's doing it, right? It's definitely a quantumly entangled function. It's having an outcome, it's shifting the ATP levels, we can guarantee that that's going to happen 100% of the time in all the experiments we've done so far."
+    },
+    {
+        "start": "00:02:45.200",
+        "end": "00:03:08.080",
+        "text": "It's probably going to continue, but we don't know why. And that's actually, that's the part of science that I love is because it's not a known, it's an unknown, right? Like, I don't know how that works. I'm not sure what's going on there. I know what the out kind of the outcroppings of it are. And I know that we can, we can do like dark field microscopy and look at blood work with the same process and it changes the coagulation of the blood."
+    }
+]

@@ -1,0 +1,1158 @@
+
+[00:00:00.000 --> 00:00:07.280]   Aloha everyone and welcome to another Tinker's Academy video and in this video I have Phillip
+[00:00:07.280 --> 00:00:13.420]   on Holtendorf with me with the Layla Quantum Tech and we're going to be doing a discussion
+[00:00:13.420 --> 00:00:17.220]   about the latest product updates for Layla Quantum Tech.
+[00:00:17.220 --> 00:00:20.400]   So good morning Phillip, how are you today?
+[00:00:20.400 --> 00:00:21.400]   Very good.
+[00:00:21.400 --> 00:00:22.400]   Thank you, Kay.
+[00:00:22.400 --> 00:00:26.180]   Yeah, hey, you know, so everybody, the last time we did an update to just kind of share
+[00:00:26.180 --> 00:00:31.100]   with you the new products and services coming out from Layla Quantum Tech was back in May
+[00:00:31.100 --> 00:00:32.100]   of 2022.
+[00:00:32.100 --> 00:00:36.640]   So now it's November and there's been a lot of great developments, some really cool stuff
+[00:00:36.640 --> 00:00:37.640]   coming.
+[00:00:37.640 --> 00:00:39.140]   So we're going to be talking about all that stuff.
+[00:00:39.140 --> 00:00:40.860]   So you know, stay with us here.
+[00:00:40.860 --> 00:00:45.700]   But first, you know, for anyone who hasn't heard of Phillip, he is the, he is a, he himself
+[00:00:45.700 --> 00:00:51.020]   a healer and he's also the founder, owner and operator of Layla Quantum Tech, which also
+[00:00:51.020 --> 00:00:55.660]   there's a spinoff called Quantum Upgrade, which I've done lots of videos with Phillip
+[00:00:55.660 --> 00:00:57.260]   about that already.
+[00:00:57.260 --> 00:00:58.260]   Links in the, links below.
+[00:00:58.260 --> 00:01:01.080]   I'll put all that stuff in the, in the video description if you're interested.
+[00:01:01.080 --> 00:01:05.820]   And also Layla Labs, which is sort of how Phillip and I met, which is a C60 company.
+[00:01:05.820 --> 00:01:10.180]   So anyway, before we jump into the content, I've got to do this disclaimer.
+[00:01:10.180 --> 00:01:14.420]   So bear with me, neither Layla Quantum Tech nor the Tinkers Academy recommend or endorse
+[00:01:14.420 --> 00:01:18.220]   any specific tests, physicians, procedures, opinions, or other information that may be
+[00:01:18.220 --> 00:01:19.620]   mentioned in this video.
+[00:01:19.620 --> 00:01:23.380]   Reliance on any information appearing and discussed in this video is solely at everyone's
+[00:01:23.380 --> 00:01:29.540]   own risks, statements made have not been evaluated evaluated by the EFSA or FDA or any governmental
+[00:01:29.540 --> 00:01:30.540]   derivatives thereof.
+[00:01:30.540 --> 00:01:35.540]   Layla Quantum Tech products and products that Layla Quantum Tech may represent are not intended
+[00:01:35.540 --> 00:01:38.540]   to diagnose, treat, cure or prevent any disease.
+[00:01:38.540 --> 00:01:39.540]   All righty.
+[00:01:39.540 --> 00:01:40.540]   So thank you very much.
+[00:01:40.540 --> 00:01:47.380]   So first question and of stuff coming up in the near future today is November 10 and
+[00:01:47.380 --> 00:01:52.020]   there have been many, many people saying, Hey, is there going to be a black Friday sale?
+[00:01:52.020 --> 00:01:54.060]   So is there.
+[00:01:54.060 --> 00:01:59.620]   Yes, and the good news is it's supposed to start today.
+[00:01:59.620 --> 00:02:01.620]   How about that?
+[00:02:01.620 --> 00:02:02.620]   Okay.
+[00:02:02.620 --> 00:02:03.620]   Perfect.
+[00:02:03.620 --> 00:02:08.980]   So you're going to add so we decided to do it early this time we decided to do it early.
+[00:02:08.980 --> 00:02:14.900]   People have been asking and asking and then also there's just so much going on around
+[00:02:14.900 --> 00:02:15.900]   black Friday.
+[00:02:15.900 --> 00:02:21.820]   So we said, well, just do it early and we'll have it there for the whole time until Brett
+[00:02:21.820 --> 00:02:24.740]   black Friday, including black Friday.
+[00:02:24.740 --> 00:02:30.260]   And it's also very simple because the code will actually be black Friday.
+[00:02:30.260 --> 00:02:31.260]   Okay.
+[00:02:31.260 --> 00:02:32.780]   All right.
+[00:02:32.780 --> 00:02:38.300]   So details about actual sale, you're going to announce that in the telegram groups.
+[00:02:38.300 --> 00:02:39.300]   Yeah.
+[00:02:39.300 --> 00:02:45.980]   And but I can, I can also share it here, of course, so it's 25 to 30% off of everything
+[00:02:45.980 --> 00:02:52.220]   side white that even includes the four packs of field capsules.
+[00:02:52.220 --> 00:02:56.700]   And so it's 25% off everything.
+[00:02:56.700 --> 00:03:02.620]   And then if anyone pays with crypto, it's an additional 5%.
+[00:03:02.620 --> 00:03:06.900]   That part is always active, by the way, for people that may not know that.
+[00:03:06.900 --> 00:03:12.540]   But so that would, that would add 5% to the 25, which makes it 30%.
+[00:03:12.540 --> 00:03:13.540]   Wow.
+[00:03:13.540 --> 00:03:14.540]   Wow.
+[00:03:14.540 --> 00:03:18.300]   That's a great sale starts today, November 10.
+[00:03:18.300 --> 00:03:23.020]   The code is black Friday and there'll be a lot more details will be posted in the telegram
+[00:03:23.020 --> 00:03:24.020]   chat group.
+[00:03:24.020 --> 00:03:25.020]   So yeah, definitely.
+[00:03:25.020 --> 00:03:27.500]   So the sale is on.
+[00:03:27.500 --> 00:03:29.140]   And by the way, guys, it's November.
+[00:03:29.140 --> 00:03:34.340]   So if you've ever thought about getting a Layla Quantum jacket, this is it.
+[00:03:34.340 --> 00:03:36.980]   It's getting cold and those jackets are awesome.
+[00:03:36.980 --> 00:03:40.420]   I got one from my daughter and she wears it all the time when it's cold.
+[00:03:40.420 --> 00:03:41.420]   She loves that jacket.
+[00:03:41.420 --> 00:03:43.340]   So yeah, it's, it's awesome.
+[00:03:43.340 --> 00:03:48.700]   So yeah, definitely don't forget that there are clothing products out there that are infused
+[00:03:48.700 --> 00:03:52.140]   with quantum energy and, and they're actually pretty cool.
+[00:03:52.140 --> 00:03:56.620]   So yeah, it's cold, it's black Friday, winter's coming and Christmas is coming.
+[00:03:56.620 --> 00:03:58.020]   So there you go.
+[00:03:58.020 --> 00:03:59.100]   There's your sale.
+[00:03:59.100 --> 00:04:00.100]   Any others?
+[00:04:00.100 --> 00:04:03.340]   That is pretty amazing that you're just mentioning the quantum jacket, because I was
+[00:04:03.340 --> 00:04:07.820]   literally just thinking about mentioning that and now you're mentioning it.
+[00:04:07.820 --> 00:04:13.100]   I'm like, this is like true quantum integral and that's quite amazing.
+[00:04:13.100 --> 00:04:15.940]   But I wanted to mention it for different reasons.
+[00:04:15.940 --> 00:04:20.380]   Because this jacket won't be available for much longer, just because we're phasing it
+[00:04:20.380 --> 00:04:21.380]   out.
+[00:04:21.380 --> 00:04:22.380]   Okay.
+[00:04:22.380 --> 00:04:28.060]   And there will be a new jacket that won't be available until in about a year, you know,
+[00:04:28.060 --> 00:04:30.460]   or nine or 10 months.
+[00:04:30.460 --> 00:04:35.500]   So this jacket and we may not even know, we don't even know at this point if we can make
+[00:04:35.500 --> 00:04:39.060]   it because silver is getting so expensive.
+[00:04:39.060 --> 00:04:45.260]   Oh, and as you know, the whole, you know, inner part of that jacket is filled with this
+[00:04:45.260 --> 00:04:47.460]   silver fabric.
+[00:04:47.460 --> 00:04:51.820]   So yeah, there's not many jackets left, but yeah, you can still get them.
+[00:04:51.820 --> 00:04:56.540]   And yeah, I think with this discount, it's actually a huge, huge discount.
+[00:04:56.540 --> 00:04:58.660]   Yeah, that's a pretty steep discount.
+[00:04:58.660 --> 00:04:59.660]   Okay.
+[00:04:59.660 --> 00:05:00.660]   So there you go, everybody.
+[00:05:00.660 --> 00:05:04.100]   And I just want to say that, you know, this thing is an EMF article of clothing.
+[00:05:04.100 --> 00:05:08.820]   So it's EMF shielded or ready with silver and then the silver, the jacket itself, but
+[00:05:08.820 --> 00:05:13.380]   the metal in the jacket has been infused with quantum energy.
+[00:05:13.380 --> 00:05:16.780]   And so it's EMF protective.
+[00:05:16.780 --> 00:05:21.420]   The other, you know, a couple of months ago, my daughter went back home to Hawaii to visit
+[00:05:21.420 --> 00:05:25.700]   her mom and I was telling her, Hey, you know what, I was right when all those massive solar
+[00:05:25.700 --> 00:05:26.860]   flare hitting.
+[00:05:26.860 --> 00:05:31.180]   And so the bottom line is, Hey, I told her to wear your jacket on the airplane because
+[00:05:31.180 --> 00:05:36.340]   the radiation is going to be super high, you know, it's high and it's already high when
+[00:05:36.340 --> 00:05:40.420]   you're flying, but when, you know, put the jacket on so that she didn't, you know, get
+[00:05:40.420 --> 00:05:42.300]   exposed to that much radiation.
+[00:05:42.300 --> 00:05:45.260]   So she complied and she felt great the whole trip.
+[00:05:45.260 --> 00:05:50.700]   So yeah, it's, it's a great, I mean, it's an awesome piece of clothing for EMF.
+[00:05:50.700 --> 00:05:55.100]   And then on top of that, though, you know, the, the effect of the quantum energy is pretty
+[00:05:55.100 --> 00:05:56.100]   good too.
+[00:05:56.100 --> 00:05:57.100]   Okay.
+[00:05:57.100 --> 00:05:58.100]   So there's that.
+[00:05:58.100 --> 00:06:01.540]   So you're phasing out the jackets and new jackets won't be available for a year.
+[00:06:01.540 --> 00:06:06.620]   So if you ever on the fence about one, there's a 25 to 30% off sale for jackets.
+[00:06:06.620 --> 00:06:08.820]   And you might want to pull the trigger on that now.
+[00:06:08.820 --> 00:06:09.820]   Okay.
+[00:06:09.820 --> 00:06:14.380]   So the next big thing that's really created a buzz in our telegram chat group is the new
+[00:06:14.380 --> 00:06:18.540]   product that you've got coming out called the neutral quantum energy capsule.
+[00:06:18.540 --> 00:06:22.620]   I guess that's what you're going to talk to them, you know, you're that's what you mentioned
+[00:06:22.620 --> 00:06:23.620]   in the chat.
+[00:06:23.620 --> 00:06:26.340]   So this is your actual post out there.
+[00:06:26.340 --> 00:06:32.820]   And so I was wondering if maybe you could kind of explain what this new incredible capsule
+[00:06:32.820 --> 00:06:38.500]   is going to be because it's going to be charged with a 2,200, you know, hawken scale level
+[00:06:38.500 --> 00:06:41.760]   block, which doesn't even exist in your product line, right?
+[00:06:41.760 --> 00:06:45.860]   Because right now the, you know, the eye block is, is like, I think, 733.
+[00:06:45.860 --> 00:06:51.700]   So this is some incredibly strong block that Layla owns that you'll be using to create
+[00:06:51.700 --> 00:06:55.660]   these capsules, and also noticed in the chat that you mentioned, it's going to be made
+[00:06:55.660 --> 00:07:00.980]   out of titanium, maybe not brass, and also that there's going to be a sphere.
+[00:07:00.980 --> 00:07:05.740]   So could you kind of just explain what this new product is going to be?
+[00:07:05.740 --> 00:07:10.300]   And then I've got a, you know, Sandy D asked me on the side, if you could kind of explain
+[00:07:10.300 --> 00:07:14.940]   what this means in terms of like, it's going to be important and relevant the next few
+[00:07:14.940 --> 00:07:15.940]   weeks.
+[00:07:15.940 --> 00:07:17.420]   So what, you know, what did you kind of mean by that?
+[00:07:17.420 --> 00:07:22.180]   But yeah, if you could, yeah, talk about this, oh, and there's going to be only 80 of them,
+[00:07:22.180 --> 00:07:24.900]   so there's going to be a line.
+[00:07:24.900 --> 00:07:33.180]   Yeah, so that's to start with, and we, we may make this a regular product in the future.
+[00:07:33.180 --> 00:07:39.200]   Anyway, this, this came from user requests, you know, people asked in the, in the telegram
+[00:07:39.200 --> 00:07:44.460]   groups since multiple months, frankly, if there could be a neutral capsule, and then
+[00:07:44.460 --> 00:07:48.380]   some added, and could this be with strong energy?
+[00:07:48.380 --> 00:07:53.060]   And then at some point, I had to impulse, okay, let's now do it.
+[00:07:53.060 --> 00:08:01.740]   And we will use, you know, this 2,200 block, which isn't just a regular, like if infinity
+[00:08:01.740 --> 00:08:04.580]   block, it has multiple additional features.
+[00:08:04.580 --> 00:08:10.060]   It's pretty much, you know, equivalent to the system that we're using for the quantum
+[00:08:10.060 --> 00:08:20.120]   upgrade, and now we're using that to actually charge these capsules, which will be brass
+[00:08:20.120 --> 00:08:26.980]   and not titanium, so I don't know if I misspoke some, somewhere, but that was never the intention
+[00:08:26.980 --> 00:08:34.500]   to have it in titanium, but it will contain titanium spheres, the five titanium spheres
+[00:08:34.500 --> 00:08:42.940]   as usual, and then the, the addition is that there will be one additional sphere, a titanium
+[00:08:42.940 --> 00:08:49.740]   sphere of a different color, so that you can, you know, always identify it, and that will
+[00:08:49.740 --> 00:08:57.420]   be charged with inner piece, with the inner piece frequency, and that was just the impulse
+[00:08:57.420 --> 00:09:07.100]   that I had to do, because inner piece is obviously the frequency that helps us a lot to be more
+[00:09:07.100 --> 00:09:13.900]   balanced, and if we have a mind that's just spinning the whole time, that it just helps
+[00:09:13.900 --> 00:09:20.740]   us with that, and also if we're in fear, or if we're really in anxiety, and the next
+[00:09:20.740 --> 00:09:29.060]   several months, I think we'll be quite turbulent here in the auto world, that's at least our
+[00:09:29.060 --> 00:09:35.460]   perception, and not that it hasn't been turbulent in the last few years in several months, but
+[00:09:35.460 --> 00:09:43.140]   it may, maybe even more, so and then, you know, the more we can just be balanced within ourselves,
+[00:09:43.140 --> 00:09:48.460]   the better we can deal with everything, so that was the impulse to just add it to that,
+[00:09:48.460 --> 00:09:54.820]   and yeah, so it plays nicely with this feature that the neutral capsule has, that you can
+[00:09:54.820 --> 00:09:58.860]   add different frequencies to it, like this inner piece, and then if you don't want the
+[00:09:58.860 --> 00:10:05.780]   inner piece, you just take that sphere out, and you can then create aluminum foils, your
+[00:10:05.780 --> 00:10:11.700]   frequency foils with your desired frequencies, that you want to have in there, and then just
+[00:10:11.700 --> 00:10:17.860]   add those, remove these, as you want, so this is the most flexible capsule in that sense,
+[00:10:17.860 --> 00:10:21.740]   and it's also the most powerful one we've ever made.
+[00:10:21.740 --> 00:10:27.700]   Yeah, okay, awesome, so I noticed that the price will be like 150, and when do you think
+[00:10:27.700 --> 00:10:31.140]   these will be available on the website?
+[00:10:31.140 --> 00:10:36.980]   I promise it will be available in the beginning of January, if we can make it earlier we will,
+[00:10:36.980 --> 00:10:40.020]   but at the latest in the beginning of January.
+[00:10:40.020 --> 00:10:44.740]   Okay, and since there's only going to be like a limited amount for the initial launch, are
+[00:10:44.740 --> 00:10:48.940]   you going to start a wait list for this?
+[00:10:48.940 --> 00:10:55.020]   That's a good question, yeah, well, let me- I know, over a dozen people already said
+[00:10:55.020 --> 00:11:03.820]   they want it, that was the one, I want to- Yeah, but no worries, we will try to make
+[00:11:03.820 --> 00:11:09.100]   this a regular product, because it seems really people didn't just ask for it, it's
+[00:11:09.100 --> 00:11:16.460]   also that it seems to be something that people really want to have, so- Okay, so most likely
+[00:11:16.460 --> 00:11:20.860]   if there's, you know, the 80s sells out, they'll be more in the future, so it's not like a rush
+[00:11:20.860 --> 00:11:25.620]   to the door, it's not a who concert, so let's go, it'll just be a product, it's just launching
+[00:11:25.620 --> 00:11:27.180]   with 80.
+[00:11:27.180 --> 00:11:31.660]   But you know, I do want to- I asked you last week, but I want to- there was a question
+[00:11:31.660 --> 00:11:37.940]   in the chat a couple of weeks ago that I penned for my next talk with you, and you and
+[00:11:37.940 --> 00:11:41.500]   I, you'd answered that question last week, but it comes up right here, so let me kind
+[00:11:41.500 --> 00:11:45.820]   of make sure it's really clear so that, you know, because I make neutral, I have neutral
+[00:11:45.820 --> 00:11:51.100]   capsules myself and I interchange foils that I create different, you know, stuff.
+[00:11:51.100 --> 00:11:55.860]   But there was a question that said, "Hey, you know, if I put a foil of a frequency into
+[00:11:55.860 --> 00:12:01.660]   my capsule, doesn't the, you know, and the spheres radiate that frequency on the foil
+[00:12:01.660 --> 00:12:06.900]   outward, you know, wouldn't that then imprint the frequency onto the shell of the capsule
+[00:12:06.900 --> 00:12:07.900]   itself?"
+[00:12:07.900 --> 00:12:08.900]   Right?
+[00:12:08.900 --> 00:12:17.100]   And then your answer was- The answer was, "No, that would not happen, that would not happen."
+[00:12:17.100 --> 00:12:25.660]   Well, because the capsule is already charged fully, and there's no aluminum foil that
+[00:12:25.660 --> 00:12:32.900]   can add anything, and also the spheres are not adding anything to the capsule.
+[00:12:32.900 --> 00:12:40.100]   So, you know, if there was that possibility, then that happens already right away.
+[00:12:40.100 --> 00:12:46.980]   And then with this saturation effect, the capsule is already saturated and there can't
+[00:12:46.980 --> 00:12:49.420]   be anything added at that point anymore.
+[00:12:49.420 --> 00:12:50.420]   Yeah.
+[00:12:50.420 --> 00:12:51.420]   Yep.
+[00:12:51.420 --> 00:12:52.420]   So there you go.
+[00:12:52.420 --> 00:12:57.540]   You could add, you know, if you put it in a higher block with an additional frequency,
+[00:12:57.540 --> 00:13:00.100]   that's how you could permanently add it.
+[00:13:00.100 --> 00:13:05.620]   Okay, so the answer bottom line is that's what the whole idea of a neutral energy capsule
+[00:13:05.620 --> 00:13:12.600]   is, is so that you can change that capsule with any frequency you want at any time by
+[00:13:12.600 --> 00:13:17.860]   just simply burning a frequency onto a piece of foil and then putting it into the capsule
+[00:13:17.860 --> 00:13:20.300]   between the spheres and the capsule.
+[00:13:20.300 --> 00:13:25.660]   And then all of a sudden that capsule becomes an inner piece capsule, or that capsule becomes
+[00:13:25.660 --> 00:13:29.180]   like a men's booster capsule, or a heel, or you can just do whatever you want.
+[00:13:29.180 --> 00:13:33.460]   If you have the frequency on a card, or you create your own frequencies from the stuff
+[00:13:33.460 --> 00:13:37.940]   around your home, then you can burn it on, you know, if you have a block or you use spheres,
+[00:13:37.940 --> 00:13:38.940]   either way, right?
+[00:13:38.940 --> 00:13:42.780]   There's different techniques, put it onto a foil, add it to the capsule.
+[00:13:42.780 --> 00:13:43.780]   And there you go.
+[00:13:43.780 --> 00:13:47.860]   You've got your own unique customized capsule, which is totally cool.
+[00:13:47.860 --> 00:13:51.460]   And so I'm glad that you're selling one now because that way more people who don't own
+[00:13:51.460 --> 00:13:53.900]   blocks can start, you know, creating these things for themselves.
+[00:13:53.900 --> 00:13:54.900]   So that'd be really cool.
+[00:13:54.900 --> 00:13:59.460]   I'll come up with a little tutorial on that too, so that everyone is really clear on how
+[00:13:59.460 --> 00:14:00.460]   to go about doing it.
+[00:14:00.460 --> 00:14:01.460]   So there you go.
+[00:14:01.460 --> 00:14:02.460]   I'm looking forward to this one.
+[00:14:02.460 --> 00:14:07.500]   I think it's going to be really, really cool because I think my strongest neutral is because
+[00:14:07.500 --> 00:14:14.860]   I have an IB9 and I made a full titanium capsule with titanium spheres, and it held
+[00:14:14.860 --> 00:14:15.860]   six spheres.
+[00:14:15.860 --> 00:14:21.900]   So that's what I use for a neutral capsule right now is an IB9 level six-fear titanium
+[00:14:21.900 --> 00:14:22.900]   capsule.
+[00:14:22.900 --> 00:14:28.260]   And I'm looking forward to this one because I know even at like IB7 or IB8, right, it's
+[00:14:28.260 --> 00:14:29.500]   only 1150.
+[00:14:29.500 --> 00:14:34.340]   So it's definitely, you know, this one will be quite, quite powerful, which I'm looking
+[00:14:34.340 --> 00:14:39.620]   forward to because I've kind of reached that point now where a little bit more strength
+[00:14:39.620 --> 00:14:43.220]   is good for me to take me to that next level.
+[00:14:43.220 --> 00:14:44.220]   So all right.
+[00:14:44.220 --> 00:14:45.220]   Okay.
+[00:14:45.220 --> 00:14:46.220]   So that's that one.
+[00:14:46.220 --> 00:14:47.460]   Very, a lot of excitement about that.
+[00:14:47.460 --> 00:14:53.660]   The next thing was you threw a poll into the chat room last week asking people if they're
+[00:14:53.660 --> 00:14:55.580]   interested in larger blocks.
+[00:14:55.580 --> 00:15:01.860]   So I kind of took your poll and created this slide where this is the current quantum block.
+[00:15:01.860 --> 00:15:06.420]   It's a, you know, and basically it's eight by eight by almost eight inches, selling for
+[00:15:06.420 --> 00:15:07.660]   1499.
+[00:15:07.660 --> 00:15:12.700]   And then you're asking people, right, if anyone's interested in a larger quantum or if they're
+[00:15:12.700 --> 00:15:16.060]   interested in a larger infinity block.
+[00:15:16.060 --> 00:15:19.300]   So could you kind of just, you know, kind of just, they're not products.
+[00:15:19.300 --> 00:15:20.460]   I think that's what the thing was.
+[00:15:20.460 --> 00:15:21.460]   It's a poll.
+[00:15:21.460 --> 00:15:22.460]   It's not like, hey, we're going to launch these things.
+[00:15:22.460 --> 00:15:26.300]   But could you kind of explain what you're thinking here and what you'd like to have people
+[00:15:26.300 --> 00:15:27.940]   chime in on?
+[00:15:27.940 --> 00:15:28.940]   Yes.
+[00:15:28.940 --> 00:15:31.060]   And I've revised this.
+[00:15:31.060 --> 00:15:37.700]   So I posted something new yesterday because this, this was misunderstood across the board.
+[00:15:37.700 --> 00:15:44.140]   I mean, not by everyone, but so many people had questions, oh, but why is this the same
+[00:15:44.140 --> 00:15:48.740]   level and how can this, like, why infinity block and then you had quantum block and
+[00:15:48.740 --> 00:15:49.740]   infinity block.
+[00:15:49.740 --> 00:15:54.860]   And people were wondering why is there an infinity block that is larger and is stronger.
+[00:15:54.860 --> 00:15:57.820]   And so I completely tossed that.
+[00:15:57.820 --> 00:16:04.580]   And also the 16 by 16 by 16 was actually a miss on my part because we couldn't make it
+[00:16:04.580 --> 00:16:05.820]   at that size.
+[00:16:05.820 --> 00:16:06.820]   Okay.
+[00:16:06.820 --> 00:16:11.260]   At least not in these quantities at this point.
+[00:16:11.260 --> 00:16:18.100]   I mean, we could, but it's just, it's, it's not convenient in any way actually would make
+[00:16:18.100 --> 00:16:21.380]   things way more difficult than it would have to be more expensive.
+[00:16:21.380 --> 00:16:31.780]   So I revised it and just placed sizes there and said, guys, what sizes would you prefer
+[00:16:31.780 --> 00:16:33.220]   for this?
+[00:16:33.220 --> 00:16:35.060]   And that's it.
+[00:16:35.060 --> 00:16:38.220]   And so we're going to wait until the size comes back.
+[00:16:38.220 --> 00:16:47.940]   And then, then we're going to, yeah, make the decision if we can produce it in time, you
+[00:16:47.940 --> 00:16:55.140]   know, the goal is to also have that in January, it definitely will not be before that.
+[00:16:55.140 --> 00:16:57.940]   So that'll be a stretch, but we'll try.
+[00:16:57.940 --> 00:17:00.380]   And then we'll provide more details at that point.
+[00:17:00.380 --> 00:17:05.540]   And then we'll provide also details around what's that on the Hawkins scale.
+[00:17:05.540 --> 00:17:11.300]   Because, yeah, people started to misunderstand my posts and apologize if that didn't help
+[00:17:11.300 --> 00:17:12.300]   with clarification.
+[00:17:12.300 --> 00:17:13.300]   Yeah.
+[00:17:13.300 --> 00:17:14.300]   Yeah.
+[00:17:14.300 --> 00:17:17.500]   There's so many questions about like, okay, well, what's the 12 by 12 inch?
+[00:17:17.500 --> 00:17:18.500]   How big is the field?
+[00:17:18.500 --> 00:17:22.180]   What's the, you know, and I realized when I was reading it, it's like, well, we wouldn't
+[00:17:22.180 --> 00:17:23.900]   know because you haven't made it yet.
+[00:17:23.900 --> 00:17:25.820]   You're asking if people want it.
+[00:17:25.820 --> 00:17:29.780]   And then if they do want it, then you'll make it and then figure this out.
+[00:17:29.780 --> 00:17:30.780]   Right?
+[00:17:30.780 --> 00:17:31.780]   Right?
+[00:17:31.780 --> 00:17:32.780]   Yeah.
+[00:17:32.780 --> 00:17:33.780]   Okay.
+[00:17:33.780 --> 00:17:34.780]   That took me awhile.
+[00:17:34.780 --> 00:17:41.540]   So, so right now then the poll, right, the poll is, is anybody interested in a regular
+[00:17:41.540 --> 00:17:49.420]   product that's a 12 by 12 inch quantum block or a 14 by 14, 14 quantum block, right?
+[00:17:49.420 --> 00:17:53.780]   And is anyone interested in a 12 by 12 inch infinity block?
+[00:17:53.780 --> 00:17:54.780]   Right?
+[00:17:54.780 --> 00:17:55.780]   That's the question.
+[00:17:55.780 --> 00:18:01.580]   And so based on how people, well, the new question is actually not, not, it's not related
+[00:18:01.580 --> 00:18:04.380]   to quantum block or infinity block at all.
+[00:18:04.380 --> 00:18:12.900]   Oh, just asking what size do you want 12 by 12, 14 by 14, 15 by 50 by 15 and just to
+[00:18:12.900 --> 00:18:17.380]   keep it simple because otherwise we're going to get tons of questions again, like that
+[00:18:17.380 --> 00:18:21.780]   and sizes and then we can move to the next step.
+[00:18:21.780 --> 00:18:26.180]   So you've added any, okay, so you've added a 15 by 15?
+[00:18:26.180 --> 00:18:27.180]   Yep.
+[00:18:27.180 --> 00:18:34.060]   Yeah, 15 by 15, 15 and then 12 by 12 and 14 by 14 by 14, if I'm not mistaken.
+[00:18:34.060 --> 00:18:41.500]   Those are the ones and now people can just vote which size is the one that they would
+[00:18:41.500 --> 00:18:42.500]   prefer.
+[00:18:42.500 --> 00:18:43.500]   Okay.
+[00:18:43.500 --> 00:18:44.500]   Okay.
+[00:18:44.500 --> 00:18:45.500]   So these are your right here.
+[00:18:45.500 --> 00:18:48.900]   These are the, whoops, I want to mess it up.
+[00:18:48.900 --> 00:18:54.540]   Right here is these are the three sizes of either block, right?
+[00:18:54.540 --> 00:18:55.540]   So, okay.
+[00:18:55.540 --> 00:19:02.660]   So folks, all members, please chime in, are you interested in a quantum or infinity block,
+[00:19:02.660 --> 00:19:04.820]   which one in a bigger size?
+[00:19:04.820 --> 00:19:09.620]   And if you want that bigger size, which big, which bigger size would you be most interested
+[00:19:09.620 --> 00:19:10.620]   in?
+[00:19:10.620 --> 00:19:11.620]   That's the pole.
+[00:19:11.620 --> 00:19:12.620]   Exactly.
+[00:19:12.620 --> 00:19:16.820]   And don't think of infinity block or quantum block, like completely do not think about that.
+[00:19:16.820 --> 00:19:21.140]   Just think about the size because it's not about infinity block or quantum block.
+[00:19:21.140 --> 00:19:26.940]   It's just about the size and rest assured that whichever size it will be, we'll make
+[00:19:26.940 --> 00:19:32.580]   it a very, very powerful version and that all the information about it will certainly
+[00:19:32.580 --> 00:19:36.260]   be available before anyone can order it.
+[00:19:36.260 --> 00:19:37.260]   Okay.
+[00:19:37.260 --> 00:19:38.260]   All right.
+[00:19:38.260 --> 00:19:39.260]   You know, and here's a great question.
+[00:19:39.260 --> 00:19:42.460]   Someone threw out there and they're like, well, why would I need a bigger one?
+[00:19:42.460 --> 00:19:45.540]   And I didn't answer it because it was kind of stupid, but the first thought in my head
+[00:19:45.540 --> 00:19:51.900]   was it's like, well, so I could stick my head in it without taking a rod out is my head's
+[00:19:51.900 --> 00:19:54.700]   too big to fit into into a regular block.
+[00:19:54.700 --> 00:19:58.100]   It's just, you know, I'm just come from a big, sweet family.
+[00:19:58.100 --> 00:20:00.740]   We got big heads and I can't get my head in it.
+[00:20:00.740 --> 00:20:04.700]   So I have to actually, you know, I use the little screws and separate the plates in order
+[00:20:04.700 --> 00:20:06.220]   to put my head in the block.
+[00:20:06.220 --> 00:20:07.220]   And I do that a lot.
+[00:20:07.220 --> 00:20:08.380]   I do that a lot.
+[00:20:08.380 --> 00:20:09.780]   So yeah, that's my first thought.
+[00:20:09.780 --> 00:20:10.780]   But you know, plates, right?
+[00:20:10.780 --> 00:20:14.660]   If you want to charge a platter of food, you got to separate your plates.
+[00:20:14.660 --> 00:20:15.980]   So that was my first time.
+[00:20:15.980 --> 00:20:19.900]   I mean, do you have any other answer to why would I want a bigger block?
+[00:20:19.900 --> 00:20:23.420]   Yeah, first of all, I mean, I could tell you what I would prefer.
+[00:20:23.420 --> 00:20:27.740]   It's that's a 12 by 12 by 12, because that's the one that we're actually using in our
+[00:20:27.740 --> 00:20:35.140]   kitchen every day, every day, like all the time, yeah, charge stuff, new groceries that
+[00:20:35.140 --> 00:20:36.140]   we get.
+[00:20:36.140 --> 00:20:42.500]   And I had to go with my son yesterday to to a grocery store that we usually don't go to
+[00:20:42.500 --> 00:20:46.820]   do because we try to buy organic and really healthy stuff.
+[00:20:46.820 --> 00:20:55.780]   But you know, sometimes he just wants something else and I'm like, okay, I'll buy whatever
+[00:20:55.780 --> 00:20:57.260]   you want.
+[00:20:57.260 --> 00:21:01.700]   And then I just went charging it before I put it in a fridge.
+[00:21:01.700 --> 00:21:03.100]   That's exactly what I do.
+[00:21:03.100 --> 00:21:04.100]   Everything fits in there.
+[00:21:04.100 --> 00:21:05.100]   Everything fits in there.
+[00:21:05.100 --> 00:21:09.780]   Every bowl fits in there, every salad bowl, every, every plate really.
+[00:21:09.780 --> 00:21:14.140]   And it still doesn't take too much of your counter space at the same time.
+[00:21:14.140 --> 00:21:16.140]   So I find that one very convenient.
+[00:21:16.140 --> 00:21:20.180]   Every head fits in it, honestly.
+[00:21:20.180 --> 00:21:26.100]   And then, you know, the only other addition would be, I mean, if you have a 14 by 14 by
+[00:21:26.100 --> 00:21:33.220]   14 or 15 by 15 by 15, then you can probably put your upper body in it as well.
+[00:21:33.220 --> 00:21:39.580]   I mean, it probably depends, you know, how, you know, but women probably can.
+[00:21:39.580 --> 00:21:45.900]   And that will be the only other addition really and would make it make it easier to, you know,
+[00:21:45.900 --> 00:21:49.020]   put it around your belly and things like that.
+[00:21:49.020 --> 00:21:54.780]   But even this one here works really well, the 12 by 12 by 12.
+[00:21:54.780 --> 00:21:58.540]   So yeah, it's really something to consider again here.
+[00:21:58.540 --> 00:22:04.100]   It's not like, you don't need the biggest blog on earth, you know, it's, it's, does
+[00:22:04.100 --> 00:22:08.980]   it make sense, you know, what do I want to put in and do I have the space for it?
+[00:22:08.980 --> 00:22:14.660]   And that's kind of the question that I want people to vote on so that we know, okay,
+[00:22:14.660 --> 00:22:16.540]   what is really wanted out there.
+[00:22:16.540 --> 00:22:17.540]   Okay.
+[00:22:17.540 --> 00:22:18.540]   All right.
+[00:22:18.540 --> 00:22:19.540]   That makes sense.
+[00:22:19.540 --> 00:22:20.540]   Yeah.
+[00:22:20.540 --> 00:22:22.220]   I actually do the same thing, but I use the screws and I separate the plates on one of
+[00:22:22.220 --> 00:22:24.940]   my IBS and it's in the kitchen all the time.
+[00:22:24.940 --> 00:22:29.380]   I mean, that's, you know, it, that's its job and everything I buy, it sits between the
+[00:22:29.380 --> 00:22:31.580]   plates before I put it away.
+[00:22:31.580 --> 00:22:35.220]   But you know, it's the, it's the regular one though, but I totally get it that, you
+[00:22:35.220 --> 00:22:39.580]   know, it is kind of neat one just for the kitchen.
+[00:22:39.580 --> 00:22:43.580]   And in the same concept too, like if I'm out there looking for organics, certain, you
+[00:22:43.580 --> 00:22:46.820]   know, veggies or something and I can't find it, I'll buy the regular one and I'll just
+[00:22:46.820 --> 00:22:48.940]   put it in the block.
+[00:22:48.940 --> 00:22:50.980]   Just kind of negate all of these.
+[00:22:50.980 --> 00:22:51.980]   Okay.
+[00:22:51.980 --> 00:22:52.980]   Yeah.
+[00:22:52.980 --> 00:22:53.980]   All right.
+[00:22:53.980 --> 00:22:54.980]   So cool.
+[00:22:54.980 --> 00:22:55.980]   There you go.
+[00:22:55.980 --> 00:22:56.980]   So that's the pole.
+[00:22:56.980 --> 00:22:57.980]   Please.
+[00:22:57.980 --> 00:22:58.980]   And I guess you pin the pole, right?
+[00:22:58.980 --> 00:22:59.980]   The pole has been pinned in the group.
+[00:22:59.980 --> 00:23:00.980]   Yes.
+[00:23:00.980 --> 00:23:01.980]   It should be pinned.
+[00:23:01.980 --> 00:23:02.980]   Just double check.
+[00:23:02.980 --> 00:23:03.980]   Let's say there we go.
+[00:23:03.980 --> 00:23:04.980]   Okay.
+[00:23:04.980 --> 00:23:05.980]   Right here.
+[00:23:05.980 --> 00:23:06.980]   Just click on the pin.
+[00:23:06.980 --> 00:23:08.700]   There's your, your question.
+[00:23:08.700 --> 00:23:09.700]   Please vote.
+[00:23:09.700 --> 00:23:11.100]   We got 42 votes.
+[00:23:11.100 --> 00:23:15.700]   Please vote, like your wrap up voting, I guess in a while, but you know, please vote.
+[00:23:15.700 --> 00:23:19.300]   Let us know what, what you're interested in and then we'll, we'll go from there.
+[00:23:19.300 --> 00:23:23.300]   I guess fill up will then develop bigger blocks if you guys are showing that you want
+[00:23:23.300 --> 00:23:24.300]   one.
+[00:23:24.300 --> 00:23:25.300]   Okay.
+[00:23:25.300 --> 00:23:26.300]   So that's that one.
+[00:23:26.300 --> 00:23:30.260]   And then let's talk about the other new products and frequencies that are coming out.
+[00:23:30.260 --> 00:23:35.740]   So here's back in May, our last video that about this subject where we were announcing,
+[00:23:35.740 --> 00:23:39.500]   you were announcing new stuff, you know, the new travel block, the new water bottle,
+[00:23:39.500 --> 00:23:42.180]   all that really great stuff, some new frequencies.
+[00:23:42.180 --> 00:23:46.500]   So now it's November and it's the end of the year and you've got a lot more stuff.
+[00:23:46.500 --> 00:23:50.220]   So a lot more innovation and a lot more really cool stuff coming on.
+[00:23:50.220 --> 00:23:54.100]   So let's go down the list and just kind of share with people, you know, what you've got
+[00:23:54.100 --> 00:23:55.100]   in mind.
+[00:23:55.100 --> 00:23:58.580]   So we already talked about the first one, which, yeah, totally cool.
+[00:23:58.580 --> 00:23:59.820]   I'm looking forward to that.
+[00:23:59.820 --> 00:24:04.900]   But then you've got this other, like, I guess it's a service that you're calling what trauma
+[00:24:04.900 --> 00:24:06.340]   support or have you named it yet?
+[00:24:06.340 --> 00:24:08.460]   But it's, and what is its purpose?
+[00:24:08.460 --> 00:24:09.460]   Yeah.
+[00:24:09.460 --> 00:24:15.700]   So we have not named it yet because we need to be a little bit careful with FDA regulation
+[00:24:15.700 --> 00:24:16.860]   and how we can name it.
+[00:24:16.860 --> 00:24:22.500]   But, you know, in essence, it's about trauma support and trauma release.
+[00:24:22.500 --> 00:24:25.020]   And it's indeed a service.
+[00:24:25.020 --> 00:24:29.300]   However, it's something where you're actively involved, like you need to go through certain
+[00:24:29.300 --> 00:24:39.620]   steps in order to actually bring up the trauma and then to release it.
+[00:24:39.620 --> 00:24:47.060]   And you release it in a few steps in the subconscious, in the conscious.
+[00:24:47.060 --> 00:24:54.020]   And you know, basically bring it to a state of full awareness of it and full release,
+[00:24:54.020 --> 00:24:59.740]   which then ends up freeing a lot of inner energy and power.
+[00:24:59.740 --> 00:25:03.380]   And you'll feel that like it's, it's, it's, it's very noticeable.
+[00:25:03.380 --> 00:25:08.580]   Like if it's like really good trauma work, you notice it.
+[00:25:08.580 --> 00:25:14.900]   You feel lighter afterwards and you feel just energy public up and a blockage just going
+[00:25:14.900 --> 00:25:15.980]   away.
+[00:25:15.980 --> 00:25:18.660]   And that's what's going to happen with this.
+[00:25:18.660 --> 00:25:25.060]   So it's, it's basically a guide, very, very simple, very simple.
+[00:25:25.060 --> 00:25:27.620]   Everyone can do it on the sofa.
+[00:25:27.620 --> 00:25:29.780]   You don't have to be an expert at all.
+[00:25:29.780 --> 00:25:34.500]   It's not even going to take long and that's the whole, whole point about this.
+[00:25:34.500 --> 00:25:41.180]   You know, this, it's, it's developed together with an Austrian healer who has since about
+[00:25:41.180 --> 00:25:46.140]   20 years has been focused solely on trauma work.
+[00:25:46.140 --> 00:25:55.540]   And so he already developed a technology actually with, then together with his guide, would
+[00:25:55.540 --> 00:26:02.900]   enable people to release a trauma within 30 to 45, 50 minutes.
+[00:26:02.900 --> 00:26:12.220]   And now actually what we've done is we combined what he has built with what we've built.
+[00:26:12.220 --> 00:26:17.060]   And for the optimized that the guy will stay the same, but now you can release it in pretty
+[00:26:17.060 --> 00:26:18.820]   much five minutes.
+[00:26:18.820 --> 00:26:20.920]   So wow.
+[00:26:20.920 --> 00:26:27.620]   And it doesn't really matter what type of traumatic experience it is.
+[00:26:27.620 --> 00:26:34.180]   And I don't know when this will be available, but my current guess is by the end of Q one.
+[00:26:34.180 --> 00:26:39.260]   And we will most likely as though make it available on the Lila Q website as well as on
+[00:26:39.260 --> 00:26:41.340]   the quantum upgrade website.
+[00:26:41.340 --> 00:26:45.980]   It's not going to go through the quantum upgrades system.
+[00:26:45.980 --> 00:26:48.180]   It wouldn't really work that way.
+[00:26:48.180 --> 00:26:50.660]   So it's going to be separate, but we'll make it available.
+[00:26:50.660 --> 00:26:53.420]   It's not going to be like a third website.
+[00:26:53.420 --> 00:26:56.940]   You need to go to a pool.
+[00:26:56.940 --> 00:26:59.500]   So it's not like, it's not a product, right?
+[00:26:59.500 --> 00:27:03.780]   It's more like a technique combined with a service.
+[00:27:03.780 --> 00:27:04.780]   Right?
+[00:27:04.780 --> 00:27:09.740]   So yes, it's actually energy that we will make available for like a, but you don't have
+[00:27:09.740 --> 00:27:10.740]   frequency.
+[00:27:10.740 --> 00:27:11.740]   It's not like actually.
+[00:27:11.740 --> 00:27:12.740]   Right.
+[00:27:12.740 --> 00:27:13.740]   There's no physical.
+[00:27:13.740 --> 00:27:14.740]   It's like the quantum upgrade.
+[00:27:14.740 --> 00:27:20.300]   It's like the quantum upgrade, where you will, you will get the energy basically in order
+[00:27:20.300 --> 00:27:21.740]   to do this work.
+[00:27:21.740 --> 00:27:26.740]   And then if you go through these steps, this, that's kind of like the breakthrough.
+[00:27:26.740 --> 00:27:27.740]   Oh, I get it.
+[00:27:27.740 --> 00:27:28.740]   Okay.
+[00:27:28.740 --> 00:27:29.740]   I get it.
+[00:27:29.740 --> 00:27:30.740]   All right.
+[00:27:30.740 --> 00:27:31.740]   So if you did it without the energy, it would work.
+[00:27:31.740 --> 00:27:32.740]   Okay.
+[00:27:32.740 --> 00:27:37.380]   So it's like a trauma release energy frequency is going to be sent to you at the same time
+[00:27:37.380 --> 00:27:41.620]   you're doing these steps as if you were like literally sitting with the healer and the
+[00:27:41.620 --> 00:27:43.700]   healer's doing it right in front of you.
+[00:27:43.700 --> 00:27:44.700]   Right?
+[00:27:44.700 --> 00:27:45.700]   So you kind of like.
+[00:27:45.700 --> 00:27:46.700]   Sort of actually, okay.
+[00:27:46.700 --> 00:27:47.700]   Yes.
+[00:27:47.700 --> 00:27:53.180]   So we will actually, so your phone will receive this energy and you will have it also available
+[00:27:53.180 --> 00:27:55.420]   at all times.
+[00:27:55.420 --> 00:27:59.620]   And then whenever you want, you can do some trauma work.
+[00:27:59.620 --> 00:28:00.620]   Okay.
+[00:28:00.620 --> 00:28:01.620]   No, that's fantastic.
+[00:28:01.620 --> 00:28:02.620]   That's going to work.
+[00:28:02.620 --> 00:28:03.620]   Okay.
+[00:28:03.620 --> 00:28:07.700]   I definitely want to try to, yeah, we're, we're all human beings.
+[00:28:07.700 --> 00:28:13.620]   I mean, I think the first trauma is birth and it just goes downhill from there.
+[00:28:13.620 --> 00:28:14.620]   Right?
+[00:28:14.620 --> 00:28:17.100]   So yeah, I can see where this is going to be real awful.
+[00:28:17.100 --> 00:28:18.100]   Okay.
+[00:28:18.100 --> 00:28:19.260]   So end of Q one.
+[00:28:19.260 --> 00:28:23.420]   So we're like, it's November so up to four months from now, but it's coming.
+[00:28:23.420 --> 00:28:24.700]   It's being developed.
+[00:28:24.700 --> 00:28:25.700]   Stay tuned.
+[00:28:25.700 --> 00:28:26.900]   But that sounds super cool.
+[00:28:26.900 --> 00:28:27.900]   Okay.
+[00:28:27.900 --> 00:28:28.900]   Great.
+[00:28:28.900 --> 00:28:31.700]   Now the next one here are the new frequencies coming out.
+[00:28:31.700 --> 00:28:36.900]   So let's go down the list and let's just talk about like, so now, okay, first, I guess everyone's
+[00:28:36.900 --> 00:28:40.260]   going to want to know like, when will these new frequencies come out?
+[00:28:40.260 --> 00:28:46.020]   I guess, are they all like coming up like January or, or is it each one that has a different
+[00:28:46.020 --> 00:28:47.020]   release?
+[00:28:47.020 --> 00:28:48.020]   We'll just mention.
+[00:28:48.020 --> 00:28:53.660]   Well, that's, so can we call the dark energy, dark energy protection just in case so that
+[00:28:53.660 --> 00:28:57.700]   people don't misunderstand it, you know, they should always like, I learned this now.
+[00:28:57.700 --> 00:28:59.260]   There's always room for me.
+[00:28:59.260 --> 00:29:01.660]   We're not selling dark energy.
+[00:29:01.660 --> 00:29:02.660]   Yeah.
+[00:29:02.660 --> 00:29:03.660]   You're right.
+[00:29:03.660 --> 00:29:04.660]   Yeah.
+[00:29:04.660 --> 00:29:05.660]   Good point.
+[00:29:05.660 --> 00:29:13.800]   And, and then this one will be at some point in, in 2023, I don't know when maybe we can
+[00:29:13.800 --> 00:29:21.340]   make it happen also by the end of Q one and the other ones here that are below that,
+[00:29:21.340 --> 00:29:27.460]   they're targeted to be released and in terms of the seasonal, which is the former allergy
+[00:29:27.460 --> 00:29:29.460]   relief booster.
+[00:29:29.460 --> 00:29:31.740]   We call it maybe seasonal booster, right?
+[00:29:31.740 --> 00:29:34.780]   Because that's, that's your, your frequency, you develop it.
+[00:29:34.780 --> 00:29:37.980]   So we can maybe call it booster again.
+[00:29:37.980 --> 00:29:41.460]   And those are targeted for January.
+[00:29:41.460 --> 00:29:42.460]   Okay.
+[00:29:42.460 --> 00:29:43.460]   So.
+[00:29:43.460 --> 00:29:44.460]   And I can certainly speak to them.
+[00:29:44.460 --> 00:29:45.460]   Like what, what, what?
+[00:29:45.460 --> 00:29:46.460]   Sure.
+[00:29:46.460 --> 00:29:47.460]   Yeah.
+[00:29:47.460 --> 00:29:48.460]   Yeah.
+[00:29:48.460 --> 00:29:49.460]   Yeah.
+[00:29:49.460 --> 00:29:50.460]   I think I'm definitely interested in like, what's the explanation for each one of these?
+[00:29:50.460 --> 00:29:54.700]   So, but I just want to clarify timing wise, dark energy sometime next year.
+[00:29:54.700 --> 00:29:59.620]   And by the way, I, I got a copy of that a year ago when I was having issues in my home
+[00:29:59.620 --> 00:30:02.860]   and believe me folks, it actually works anyway.
+[00:30:02.860 --> 00:30:07.140]   So that's as far as I go with that, but then, and then, but the rest of these new frequencies
+[00:30:07.140 --> 00:30:09.140]   are going to come out in January.
+[00:30:09.140 --> 00:30:12.860]   So let's talk, let's start with what, like, what is the detox support frequency?
+[00:30:12.860 --> 00:30:21.780]   So the detox support frequency actually was developed by one of the members in the group.
+[00:30:21.780 --> 00:30:26.280]   And that member wants to stay anonymous.
+[00:30:26.280 --> 00:30:35.860]   And we respect that, but, but that member, yeah, had, had tried, had worked for several
+[00:30:35.860 --> 00:30:41.380]   months actually on this frequency and sent us, you know, these frequency cards and in
+[00:30:41.380 --> 00:30:48.460]   the beginning, there wasn't a good enough effect and then, and then it improved until
+[00:30:48.460 --> 00:30:54.060]   it was really a frequency that really works very well.
+[00:30:54.060 --> 00:30:57.900]   And so we've, we've tested it along the way and we've, we had provided feedback along
+[00:30:57.900 --> 00:31:04.820]   the way so it could be arriving at a really awesome product, which it, it now is.
+[00:31:04.820 --> 00:31:12.420]   And so thanks to, to the member and yeah, we're, we're making that available now that
+[00:31:12.420 --> 00:31:18.380]   the detox support card, okay, so like support you in your detox efforts.
+[00:31:18.380 --> 00:31:19.380]   Oh, cool.
+[00:31:19.380 --> 00:31:20.380]   Okay.
+[00:31:20.380 --> 00:31:25.860]   So, like, so let's say if someone is adamantly trying to detox, you know, like that's their
+[00:31:25.860 --> 00:31:30.580]   focus for the next month or two doing juices or whatever, right, then this frequency would
+[00:31:30.580 --> 00:31:35.580]   help their body acclimate and, or mitigate the negativity, or they, you know, the negative
+[00:31:35.580 --> 00:31:38.340]   responses is that what the frequency does.
+[00:31:38.340 --> 00:31:41.740]   It would, it would just basically support you as you're going through that process and
+[00:31:41.740 --> 00:31:43.140]   make it not so bad.
+[00:31:43.140 --> 00:31:52.500]   Well, detoxing that is, that is an aspect of it, but it actually makes the detox work
+[00:31:52.500 --> 00:31:53.500]   even better.
+[00:31:53.500 --> 00:31:55.580]   So it really helps detoxing.
+[00:31:55.580 --> 00:31:56.580]   Yeah.
+[00:31:56.580 --> 00:31:57.580]   Wow.
+[00:31:57.580 --> 00:32:02.140]   Even if you don't want to do juices and you have this card, you're going to detox.
+[00:32:02.140 --> 00:32:03.140]   Okay.
+[00:32:03.140 --> 00:32:07.060]   So it's not just a, so, so it's, so it's, so it's for like all the time use it, not just
+[00:32:07.060 --> 00:32:11.380]   specific to people that are going through a detox, right?
+[00:32:11.380 --> 00:32:12.980]   So it's kind of like all the time things.
+[00:32:12.980 --> 00:32:16.460]   So it's like, it supports your body because, you know, we're detoxing every single time
+[00:32:16.460 --> 00:32:22.660]   we XL, you know, and I don't know, I wouldn't, I wouldn't wear this every day to be honest.
+[00:32:22.660 --> 00:32:27.740]   For this would be for me for certain days or certain periods of time.
+[00:32:27.740 --> 00:32:33.700]   When I feel, okay, now, you know, I, I need to detox, you know, I had maybe after Christmas,
+[00:32:33.700 --> 00:32:39.220]   you know, you eat a lot of chocolate and, and, and, and all these fun things.
+[00:32:39.220 --> 00:32:43.120]   And you feel like, oh, you know, I don't need to detox and a little bit quicker.
+[00:32:43.120 --> 00:32:46.020]   And then that's when I would use it as an example.
+[00:32:46.020 --> 00:32:47.020]   Okay.
+[00:32:47.020 --> 00:32:48.020]   Okay.
+[00:32:48.020 --> 00:32:49.020]   No, that's good.
+[00:32:49.020 --> 00:32:50.020]   That's good to know.
+[00:32:50.020 --> 00:32:51.020]   So there you go.
+[00:32:51.020 --> 00:32:52.020]   Um, yeah, that's great.
+[00:32:52.020 --> 00:32:53.020]   So that would, okay.
+[00:32:53.020 --> 00:32:59.020]   Here's, I got just sidebar question, but would that go well with like the weight loss frequency?
+[00:32:59.020 --> 00:33:00.020]   Just out of curiosity.
+[00:33:00.020 --> 00:33:01.020]   Yeah.
+[00:33:01.020 --> 00:33:02.020]   Yeah.
+[00:33:02.020 --> 00:33:03.620]   So those two things going to go together.
+[00:33:03.620 --> 00:33:04.620]   Okay.
+[00:33:04.620 --> 00:33:05.620]   All right.
+[00:33:05.620 --> 00:33:06.620]   Cool.
+[00:33:06.620 --> 00:33:07.620]   You know me, I'm always mixing, matching, creating boosters.
+[00:33:07.620 --> 00:33:11.260]   I'm never just satisfied with just, I got a tinker.
+[00:33:11.260 --> 00:33:12.260]   It's my thing.
+[00:33:12.260 --> 00:33:13.260]   Okay.
+[00:33:13.260 --> 00:33:14.260]   No, cool.
+[00:33:14.260 --> 00:33:15.260]   Okay.
+[00:33:15.260 --> 00:33:16.260]   So that's coming up.
+[00:33:16.260 --> 00:33:17.260]   That's really kind of neat.
+[00:33:17.260 --> 00:33:19.740]   Now, let's the next one here is the, the gratitude.
+[00:33:19.740 --> 00:33:21.660]   So how would you describe this guy?
+[00:33:21.660 --> 00:33:22.660]   Yeah.
+[00:33:22.660 --> 00:33:28.900]   So, and so gratitude actually was already on my list before we released the first frequency
+[00:33:28.900 --> 00:33:29.900]   card.
+[00:33:29.900 --> 00:33:35.940]   And then we didn't do it, obviously, and, and then at some point, every now and then
+[00:33:35.940 --> 00:33:37.980]   I thought about it and I didn't do it.
+[00:33:37.980 --> 00:33:43.140]   And now a member in the group actually asked if we couldn't make a frequency for that.
+[00:33:43.140 --> 00:33:48.260]   And that sparked this, this impulse, yes, we actually need to do this now.
+[00:33:48.260 --> 00:33:52.300]   And gratitude obviously is an amazing state of being.
+[00:33:52.300 --> 00:33:58.220]   And if you, you can, you can certainly help and promote that just by thinking about things
+[00:33:58.220 --> 00:33:59.740]   that you're grateful for, right?
+[00:33:59.740 --> 00:34:05.820]   And then, you know, it, it literally changes your vibration, all state, and having a frequency
+[00:34:05.820 --> 00:34:12.420]   card now that really supports you to be more in this vibrational state.
+[00:34:12.420 --> 00:34:13.980]   That is the point of it.
+[00:34:13.980 --> 00:34:19.380]   And so we've created this just, you know, together with Roman, just a few days ago.
+[00:34:19.380 --> 00:34:23.900]   It's an amazing frequency and yes, so we're going to release it.
+[00:34:23.900 --> 00:34:24.900]   Wow.
+[00:34:24.900 --> 00:34:25.900]   That sounds really cool.
+[00:34:25.900 --> 00:34:26.900]   Yeah.
+[00:34:26.900 --> 00:34:29.020]   And it'll be sometime in, in January.
+[00:34:29.020 --> 00:34:30.020]   Okay.
+[00:34:30.020 --> 00:34:33.140]   So it's the frequency of gratitude, just like the happiness one, right?
+[00:34:33.140 --> 00:34:35.740]   That you released earlier, it's a frequency of happiness.
+[00:34:35.740 --> 00:34:37.700]   Well, that's kind of neat to think about.
+[00:34:37.700 --> 00:34:38.700]   Yeah.
+[00:34:38.700 --> 00:34:42.100]   It's a loop actually works differently because the happiness is not necessarily that you're,
+[00:34:42.100 --> 00:34:45.020]   that you're right away in happiness mode.
+[00:34:45.020 --> 00:34:46.940]   And that would be great, actually.
+[00:34:46.940 --> 00:34:52.340]   And I think we may want to do an upgrade at some point to, to that frequency card.
+[00:34:52.340 --> 00:34:53.540]   That's the expectation.
+[00:34:53.540 --> 00:35:00.740]   But the, the happiness card really helps us to get in contact with these barriers that,
+[00:35:00.740 --> 00:35:03.780]   that stand in between us and the happiness.
+[00:35:03.780 --> 00:35:07.620]   So, so there's work to be done really for us.
+[00:35:07.620 --> 00:35:13.660]   So it's, with the gratitude though, it's, it really helps to bring us into this vibrational
+[00:35:13.660 --> 00:35:15.620]   state relatively quickly.
+[00:35:15.620 --> 00:35:16.620]   Okay.
+[00:35:16.620 --> 00:35:17.620]   All right.
+[00:35:17.620 --> 00:35:18.620]   Pretty neat.
+[00:35:18.620 --> 00:35:19.620]   Okay.
+[00:35:19.620 --> 00:35:22.900]   Let's talk about the next one here, which is the inflammation relief booster.
+[00:35:22.900 --> 00:35:25.500]   You want me to just, you want to describe it?
+[00:35:25.500 --> 00:35:26.500]   Yes.
+[00:35:26.500 --> 00:35:28.140]   So why don't you actually talk about that?
+[00:35:28.140 --> 00:35:30.500]   I just realized I'm the one that made it.
+[00:35:30.500 --> 00:35:31.500]   Okay.
+[00:35:31.500 --> 00:35:35.300]   So I, I actually made a video called how to make a booster and this was what I, this,
+[00:35:35.300 --> 00:35:40.700]   I talked about this specific booster and how I made it and what I went through on it.
+[00:35:40.700 --> 00:35:46.740]   So in brief, I, I'm focusing on molecular frequencies because I'm not as gifted as Philip
+[00:35:46.740 --> 00:35:51.660]   and not even on the same, you know, universes, Roman, just a mortal.
+[00:35:51.660 --> 00:35:56.540]   And so I tinker with a lot of molecular frequencies and, and you know, each one of them, if you
+[00:35:56.540 --> 00:36:01.340]   think of a frequency, it's also a sound, all frequencies are sound.
+[00:36:01.340 --> 00:36:03.700]   Sometimes we just, you know, we're just not, we just can't hear them, but they're, they're
+[00:36:03.700 --> 00:36:04.700]   all sound.
+[00:36:04.700 --> 00:36:09.100]   So, and in my mind, and the way that I kind of approach boosters is, is to mix and match
+[00:36:09.100 --> 00:36:15.380]   different molecular frequencies to create a harmonic and that harmonic then produces the
+[00:36:15.380 --> 00:36:20.180]   result that I'm trying to seek like, like, like what you enrollment just did, you found
+[00:36:20.180 --> 00:36:24.160]   the frequency of gratitude, which is, I think is beautiful, that's beautiful.
+[00:36:24.160 --> 00:36:29.020]   And so for me though, the mortal, when I mix and match frequency, so I basically, I think
+[00:36:29.020 --> 00:36:34.700]   combined, I don't know, like 30, 40 different substances.
+[00:36:34.700 --> 00:36:39.060]   And I, and then the technique is really just, you know, providing that to Philip and Roman
+[00:36:39.060 --> 00:36:45.020]   and, and then they, they kind of evaluated at their level and then I got some feedback.
+[00:36:45.020 --> 00:36:46.660]   I did some more changes.
+[00:36:46.660 --> 00:36:52.100]   And I think I ended up with like five prototypes and finally the fifth prototype, which is
+[00:36:52.100 --> 00:36:56.140]   months of work and different mixing and matching and, and of different substances.
+[00:36:56.140 --> 00:36:57.900]   And it's all in that video.
+[00:36:57.900 --> 00:37:04.260]   I came up with one that basically when you are bathed in this frequency, it helps your
+[00:37:04.260 --> 00:37:10.020]   body reduce inflammation and inflammation isn't just quote, you know, like swelling.
+[00:37:10.020 --> 00:37:13.820]   Like if you sprained your ankle, I mean, inflammation is throughout our entire bodies.
+[00:37:13.820 --> 00:37:18.420]   But a lot of people don't realize it, you know, let, that exposure to all of the toxins
+[00:37:18.420 --> 00:37:21.220]   and chemicals in our environment causes inflammation.
+[00:37:21.220 --> 00:37:25.660]   In fact, you know, GMO is really bad for that, you know, for your gut.
+[00:37:25.660 --> 00:37:27.940]   So you know, we're always under the pressure of inflammation.
+[00:37:27.940 --> 00:37:32.780]   And if you did any research on it, it is the number one cause of, of, of, you know, organ
+[00:37:32.780 --> 00:37:36.100]   failure, you know, inflammation and hypertension, which is high blood pressure.
+[00:37:36.100 --> 00:37:40.820]   So, so I tried, I wanted to create something that would just kind of like have a frequency
+[00:37:40.820 --> 00:37:45.300]   that you could carry with you all the time that would support your health, you know,
+[00:37:45.300 --> 00:37:47.060]   and that's kind of why I put this together.
+[00:37:47.060 --> 00:37:51.500]   It took several months, several prototypes, finally got the, the Roman and Philip seal
+[00:37:51.500 --> 00:37:52.580]   of approval.
+[00:37:52.580 --> 00:37:57.220]   And it's going to be released on the website now along with the other boosters.
+[00:37:57.220 --> 00:37:59.260]   Any, is that about describing?
+[00:37:59.260 --> 00:38:02.700]   Well, I think that is perfect.
+[00:38:02.700 --> 00:38:08.060]   There's nothing more to add other than that's, it's really a great frequency.
+[00:38:08.060 --> 00:38:11.460]   And we're looking forward to offering it to everyone.
+[00:38:11.460 --> 00:38:15.380]   So, yeah, it's a great work again.
+[00:38:15.380 --> 00:38:16.380]   Okay.
+[00:38:16.380 --> 00:38:17.380]   Thank you.
+[00:38:17.380 --> 00:38:18.380]   Well, thank you for your help on that.
+[00:38:18.380 --> 00:38:19.380]   Okay.
+[00:38:19.380 --> 00:38:22.140]   So let's, the next one here is the, is the frequency that actually I think we've got
+[00:38:22.140 --> 00:38:25.380]   more questions about this one than any of them, which is when, you know, when is the
+[00:38:25.380 --> 00:38:27.140]   resurrection frequency going to come out?
+[00:38:27.140 --> 00:38:33.380]   So, but I guess first question is, is what is the resurrection frequency?
+[00:38:33.380 --> 00:38:45.860]   So it actually helps to harmonize and neutralize past experiences that currently make us act
+[00:38:45.860 --> 00:38:47.300]   in a certain way.
+[00:38:47.300 --> 00:38:55.740]   So often we have learned something because of reactions of others or something that we,
+[00:38:55.740 --> 00:39:02.140]   you know, just a easy example, you know, as a kid, I walk across the street.
+[00:39:02.140 --> 00:39:03.140]   I'm not paying attention.
+[00:39:03.140 --> 00:39:05.380]   I get hit by a car.
+[00:39:05.380 --> 00:39:12.980]   Then that experience will continue to affect me in my future each time I walk across the
+[00:39:12.980 --> 00:39:13.980]   street, right?
+[00:39:13.980 --> 00:39:19.700]   And there are countless examples of where we have experiences that then lead to certain
+[00:39:19.700 --> 00:39:25.700]   actions and reactions of ourselves that may be unwarranted in the future because they're
+[00:39:25.700 --> 00:39:32.420]   not neither out of the moment, they're not decisions that we truly make out of our inner
+[00:39:32.420 --> 00:39:37.780]   self, but they, we make them because we're wired because of these experiences, right?
+[00:39:37.780 --> 00:39:46.660]   So it helps loosen these, these, these connections to these experiences so that we can live more
+[00:39:46.660 --> 00:39:52.980]   free in the here now out of our true self and not out of these experiences.
+[00:39:52.980 --> 00:39:55.020]   That's the best way to describe this.
+[00:39:55.020 --> 00:39:56.020]   Wow.
+[00:39:56.020 --> 00:39:57.020]   Okay.
+[00:39:57.020 --> 00:39:58.020]   So, okay.
+[00:39:58.020 --> 00:40:03.660]   So it's like it's the difference between resurrection and trauma support or are they
+[00:40:03.660 --> 00:40:06.980]   very complimentary to each other because it sort of sounds like the same thing, but just
+[00:40:06.980 --> 00:40:12.900]   a little different, you know, flavor, resurrection, would you, would you think that's that's
+[00:40:12.900 --> 00:40:19.140]   something more of dealing with trauma we carry with us into this existence and trauma is
+[00:40:19.140 --> 00:40:23.820]   more support is more like dealing with what you've gained since you got here?
+[00:40:23.820 --> 00:40:26.220]   Is that kind of my reading that right?
+[00:40:26.220 --> 00:40:27.220]   Yeah.
+[00:40:27.220 --> 00:40:34.500]   So the actual trauma support product that will come out or service will go much deeper and
+[00:40:34.500 --> 00:40:42.660]   will be extremely focused and targeted onto those main traumas that we have, like the,
+[00:40:42.660 --> 00:40:48.700]   the bigger ones, if you think, if you will, there's still like millions of experiences
+[00:40:48.700 --> 00:40:55.980]   that we've made that also impact us, and that's pretty much what the resurrection card and
+[00:40:55.980 --> 00:40:57.420]   frequency helps with.
+[00:40:57.420 --> 00:41:02.740]   To some extent, it helps also with these other traumas, but it's, you know, like a big trauma.
+[00:41:02.740 --> 00:41:04.700]   You really have to do some targeted work.
+[00:41:04.700 --> 00:41:10.580]   It's not just going to dissolve within you without you looking at it and doing the work.
+[00:41:10.580 --> 00:41:12.300]   It's not going to happen.
+[00:41:12.300 --> 00:41:18.060]   And, and so this card is a card that you can have and it helps you to remove and neutralize
+[00:41:18.060 --> 00:41:21.420]   a lot of these things without doing any extra work.
+[00:41:21.420 --> 00:41:23.020]   It's happening subconsciously.
+[00:41:23.020 --> 00:41:29.340]   So this is a true little healer for the pocket, basically, that you can work with for a longer
+[00:41:29.340 --> 00:41:36.420]   period of time, but no, like actual traumas, no, you need to put in the work as well.
+[00:41:36.420 --> 00:41:37.420]   Okay.
+[00:41:37.420 --> 00:41:42.580]   So as a tinker, I'm thinking, you know, resurrection with inner peace and add that to a neutral
+[00:41:42.580 --> 00:41:47.420]   capsule and wear that around for a while would probably be very helpful for someone that's
+[00:41:47.420 --> 00:41:49.140]   going through something difficult.
+[00:41:49.140 --> 00:41:50.780]   There you go.
+[00:41:50.780 --> 00:41:51.780]   Yeah.
+[00:41:51.780 --> 00:41:52.780]   There you go.
+[00:41:52.780 --> 00:41:53.780]   Okay.
+[00:41:53.780 --> 00:41:54.780]   Well, that's cool.
+[00:41:54.780 --> 00:41:55.780]   Okay.
+[00:41:55.780 --> 00:41:56.780]   Well, looking forward to that one.
+[00:41:56.780 --> 00:41:59.660]   Now the seasonal booster, that's kind of an easy one, right?
+[00:41:59.660 --> 00:42:06.060]   I get, you know, we created the, I created the allergy relief booster.
+[00:42:06.060 --> 00:42:12.700]   You had to change the name because lawyers and so now it's called the seasonal booster
+[00:42:12.700 --> 00:42:18.500]   and I want to, I want to emphasize that it's called seasonal because it was designed.
+[00:42:18.500 --> 00:42:23.260]   It's a molecular frequency, a bunch of different frequencies created a harmonic that basically
+[00:42:23.260 --> 00:42:28.300]   alleviate your seasonal symptoms.
+[00:42:28.300 --> 00:42:35.140]   And it's not meant to treat diagnosable glory, but it's, but it's been found that it does
+[00:42:35.140 --> 00:42:36.140]   help.
+[00:42:36.140 --> 00:42:41.180]   Like if you have a basically an allergy that like a seasonal allergy to something, it really
+[00:42:41.180 --> 00:42:46.140]   helps clear up your sinuses, blah, blah, blah, blah, so, but it's, it's not a medical
+[00:42:46.140 --> 00:42:50.540]   thing and disclaimer, blah, blah, blah, blah, but that's kind of what it does.
+[00:42:50.540 --> 00:42:52.420]   And, and it works.
+[00:42:52.420 --> 00:42:57.220]   And so it just got renamed and it's going to be relaunched, right?
+[00:42:57.220 --> 00:42:59.820]   You didn't, we kept, we kept the mandala for that, right?
+[00:42:59.820 --> 00:43:02.340]   That's the same mandala and all that stuff.
+[00:43:02.340 --> 00:43:03.340]   Yeah.
+[00:43:03.340 --> 00:43:04.340]   Okay.
+[00:43:04.340 --> 00:43:05.340]   So just, okay.
+[00:43:05.340 --> 00:43:10.620]   So just, and then, you know, you had a funny story about this specific frequency, right?
+[00:43:10.620 --> 00:43:13.420]   So the other, you posted something the other day where you had an interview and you were
+[00:43:13.420 --> 00:43:17.220]   having, you were having a massive allergy attack or something and you whipped this out and
+[00:43:17.220 --> 00:43:18.220]   it worked.
+[00:43:18.220 --> 00:43:19.220]   Do you remember that?
+[00:43:19.220 --> 00:43:20.220]   I think you just posted.
+[00:43:20.220 --> 00:43:21.220]   Yes.
+[00:43:21.220 --> 00:43:22.220]   Yes.
+[00:43:22.220 --> 00:43:23.220]   I do remember that.
+[00:43:23.220 --> 00:43:24.220]   Yeah.
+[00:43:24.220 --> 00:43:25.220]   Can you share the story?
+[00:43:25.220 --> 00:43:26.220]   I thought that was funny.
+[00:43:26.220 --> 00:43:27.220]   Yes.
+[00:43:27.220 --> 00:43:30.860]   That was actually the, the interview with Sarah Westall and so the night before it really hit
+[00:43:30.860 --> 00:43:35.300]   me hard with allergies, I don't know what they sprayed in the air here.
+[00:43:35.300 --> 00:43:40.700]   And then at the same time, we've had a lot of rain over the last several months here,
+[00:43:40.700 --> 00:43:42.380]   which we usually don't get much.
+[00:43:42.380 --> 00:43:48.380]   So everything is blooming on top of that and I was like, Oh my God, you know, I, I had
+[00:43:48.380 --> 00:43:49.380]   to sneeze.
+[00:43:49.380 --> 00:43:51.620]   I had his stuffy nose and all of that.
+[00:43:51.620 --> 00:43:53.740]   And so I did two things.
+[00:43:53.740 --> 00:44:01.060]   I grabbed the, the seasonal booster, a seasonal relief booster.
+[00:44:01.060 --> 00:44:04.180]   I don't know what I call it in the end.
+[00:44:04.180 --> 00:44:09.220]   And then I also turned up the, the quantum upgrade.
+[00:44:09.220 --> 00:44:11.460]   And I felt so much better.
+[00:44:11.460 --> 00:44:16.700]   So I mean, I was able to do the, the interview with no problems really.
+[00:44:16.700 --> 00:44:22.780]   I still had a little bit itchy, itchy eyes, but not really itchy, no sneezing, no stuffy
+[00:44:22.780 --> 00:44:23.780]   nose.
+[00:44:23.780 --> 00:44:24.780]   So that was quite profound.
+[00:44:24.780 --> 00:44:25.780]   Cool.
+[00:44:25.780 --> 00:44:26.780]   I'm glad it helped you.
+[00:44:26.780 --> 00:44:27.780]   I know it helped you.
+[00:44:27.780 --> 00:44:31.460]   You know, I have another story that I shared it at the time, I think, but you know, we have
+[00:44:31.460 --> 00:44:36.860]   a housekeeper that comes every now and then and she is just in such pain when there are
+[00:44:36.860 --> 00:44:41.340]   allergies around like it's literally terrible for her.
+[00:44:41.340 --> 00:44:46.100]   And, and then she was here again and sneezing all the time.
+[00:44:46.100 --> 00:44:49.820]   And then I was like, here, do you want to try this card?
+[00:44:49.820 --> 00:44:55.140]   And she was very skeptical, like she's not really into energetics, but she was like,
+[00:44:55.140 --> 00:44:58.180]   sure, you know, I mean, it's not going to hurt.
+[00:44:58.180 --> 00:45:03.060]   And then she took it and then she kept it and she would use it since that day, every
+[00:45:03.060 --> 00:45:08.740]   time when she has allergies and wears it all the time because it really helps her quite
+[00:45:08.740 --> 00:45:10.220]   a bit.
+[00:45:10.220 --> 00:45:11.220]   It's great.
+[00:45:11.220 --> 00:45:16.220]   You know, it's so cool that, that, that I create these things and they work and everybody
+[00:45:16.220 --> 00:45:17.220]   benefits.
+[00:45:17.220 --> 00:45:20.140]   I'm, I'm just so tickled when I hear stories like that.
+[00:45:20.140 --> 00:45:21.140]   That's awesome.
+[00:45:21.140 --> 00:45:22.140]   That's great.
+[00:45:22.140 --> 00:45:23.140]   So there you go.
+[00:45:23.140 --> 00:45:27.060]   So now that I guess we'll jump right into the next subject, but on the subject of seasonal,
+[00:45:27.060 --> 00:45:30.500]   you know, it's, it's, it's different than when, you know, cause I guess we took away
+[00:45:30.500 --> 00:45:34.700]   the word allergy, cause allergy applies to so many things, you know, like all these kids
+[00:45:34.700 --> 00:45:37.700]   today that are allergic to peanuts and all that stuff.
+[00:45:37.700 --> 00:45:39.340]   This is just for that seasonal stuff.
+[00:45:39.340 --> 00:45:40.980]   So I want to point that out.
+[00:45:40.980 --> 00:45:46.420]   However, our next subject is, let's talk about the latest studies on Leila content tech,
+[00:45:46.420 --> 00:45:49.100]   the products, you know, what are the studies showing?
+[00:45:49.100 --> 00:45:53.020]   So I'm going to segue straight into this third bullet right here.
+[00:45:53.020 --> 00:45:58.460]   And just talk about the other side of the coin when we talk about allergies and that
+[00:45:58.460 --> 00:46:03.020]   you mentioned in the Sarah West, I'll interview that there's been an allergen study, more
+[00:46:03.020 --> 00:46:05.180]   like a high level pilot study.
+[00:46:05.180 --> 00:46:10.900]   And you, and so these are some of the studies that Phillips commissioning on the products
+[00:46:10.900 --> 00:46:15.580]   that you guys have purchased so that you know how well they work in the, in, you know, on
+[00:46:15.580 --> 00:46:16.580]   a science level.
+[00:46:16.580 --> 00:46:18.980]   So you mentioned this allergen study.
+[00:46:18.980 --> 00:46:19.980]   So let's start with that one.
+[00:46:19.980 --> 00:46:23.700]   Like, you know, what was that and what did they find so far in it?
+[00:46:23.700 --> 00:46:24.700]   Yeah.
+[00:46:24.700 --> 00:46:31.260]   So that topic is really, it's for me, one of the most exciting right now to dig deeper
+[00:46:31.260 --> 00:46:37.860]   into this because since over well over a year, actually, we've been hearing from many different
+[00:46:37.860 --> 00:46:46.540]   people that they had a real success in, you know, eliminating food allergy reactions if
+[00:46:46.540 --> 00:46:51.740]   they charge substances in the infinity block.
+[00:46:51.740 --> 00:46:56.500]   I think, I don't know if we have quantum block reports that would probably work as well just
+[00:46:56.500 --> 00:46:59.020]   much longer charging.
+[00:46:59.020 --> 00:47:04.220]   And then, you know, we did this live presentation at the biohacking conference last year in
+[00:47:04.220 --> 00:47:12.620]   Orlando, in front of 100 people where touch shipment got crappied in his arm and it was
+[00:47:12.620 --> 00:47:16.180]   all a huge allergy reaction right away.
+[00:47:16.180 --> 00:47:22.660]   And then about seven minutes later, the same crappied that was charging right on stage
+[00:47:22.660 --> 00:47:25.980]   and then infinity block in the meantime was put in his other arm.
+[00:47:25.980 --> 00:47:27.540]   There wasn't a reaction.
+[00:47:27.540 --> 00:47:33.660]   So that was already great, but we said, okay, we need to follow up with real studies so
+[00:47:33.660 --> 00:47:39.180]   that we can provide some guidance and also make certain claims, right?
+[00:47:39.180 --> 00:47:41.860]   Because people want to know, okay.
+[00:47:41.860 --> 00:47:44.500]   So what does this mean if I'm gluten sensitive, right?
+[00:47:44.500 --> 00:47:45.500]   What does that mean?
+[00:47:45.500 --> 00:47:49.940]   And for now, we can only say don't try it because we don't have enough data yet and
+[00:47:49.940 --> 00:47:52.660]   we want to be very mindful about that.
+[00:47:52.660 --> 00:48:00.900]   So naturopathic clinic in Munich, yeah naturopathic clinic in Munich, which is actually a it's
+[00:48:00.900 --> 00:48:04.020]   a very, very, very successful naturopathic clinic.
+[00:48:04.020 --> 00:48:09.660]   People fly there from all over Europe, even from London, people fly there to get treated.
+[00:48:09.660 --> 00:48:19.380]   They have a $45,000 device with which they test allergies and they can find out what
+[00:48:19.380 --> 00:48:23.340]   people actually have because often people have no clue what they're actually allergic
+[00:48:23.340 --> 00:48:28.180]   to and they then try to eliminate everything and then they add stuff.
+[00:48:28.180 --> 00:48:34.260]   So they go there among a lot of other things and treatments to get their allergies tested
+[00:48:34.260 --> 00:48:40.100]   and also test their allergic reactions and how they can be reduced.
+[00:48:40.100 --> 00:48:46.380]   So and they did a pilot and they tested things like lactose, gluten, and a bunch of other
+[00:48:46.380 --> 00:48:56.260]   different substances and they use the travel block which is in the inside as charged as
+[00:48:56.260 --> 00:49:01.740]   the basic infinity blocks so you can put it in perspective and we told them that four
+[00:49:01.740 --> 00:49:04.340]   minutes is the optimal charging.
+[00:49:04.340 --> 00:49:08.940]   If you have, you know, food allergies so far, that's what we've been testing.
+[00:49:08.940 --> 00:49:14.420]   They only charged it for three minutes though and found that across all of the substances
+[00:49:14.420 --> 00:49:21.500]   and people that were allergic that they tested it with, they found a 65 to 95% reduction
+[00:49:21.500 --> 00:49:24.700]   in allergy response, which is very significant.
+[00:49:24.700 --> 00:49:31.580]   That's a whole lot and I must say there's probably even room for improvement because
+[00:49:31.580 --> 00:49:36.220]   they just charged it for three minutes and not four minutes so I'm guessing right now
+[00:49:36.220 --> 00:49:44.940]   that we may see levels that are rather 70 to 100% rather than 65 to 95% but that's speculation
+[00:49:44.940 --> 00:49:51.660]   at this point so we'll have to see and they will follow up now with more test persons
+[00:49:51.660 --> 00:49:58.260]   and all of that and I hope that by the end of Q1 we have more data available and that
+[00:49:58.260 --> 00:50:04.900]   we can reference and then say, you know, if you're gluten sensitive, you know, here's
+[00:50:04.900 --> 00:50:12.180]   if you charge your bread for four minutes in this block then you may reduce the allergic
+[00:50:12.180 --> 00:50:17.180]   response by 70 to 100% or something like that.
+[00:50:17.180 --> 00:50:23.500]   It's kind of like the dream to have really certain ranges that people can understand
+[00:50:23.500 --> 00:50:27.660]   and then they can still make their own decision so I don't think at this point it will be
+[00:50:27.660 --> 00:50:37.260]   possible that you can eliminate an allergic reaction in 100% of the cases with 100% of
+[00:50:37.260 --> 00:50:41.300]   the intensity, we'll see, you know.
+[00:50:41.300 --> 00:50:49.900]   Well, I mean, you know, the absolute ramifications of the concept that this does what it does
+[00:50:49.900 --> 00:50:50.900]   is mind blowing.
+[00:50:50.900 --> 00:50:55.780]   I mean, there's nothing that it can explain it in academic science at all.
+[00:50:55.780 --> 00:50:56.780]   There's nothing.
+[00:50:56.780 --> 00:50:57.780]   Yeah.
+[00:50:57.780 --> 00:51:01.780]   Because to them a chemical that causes an allergy response is, you know, there's no
+[00:51:01.780 --> 00:51:07.300]   way to modify it without another chemical reaction so it's amazing and I just want to
+[00:51:07.300 --> 00:51:12.460]   throw out there that I, you know, I kind of replicated the crab meat test on myself because
+[00:51:12.460 --> 00:51:20.220]   I have a reaction to MSG whereby it gives me hives and I get very itchy and I went through
+[00:51:20.220 --> 00:51:25.580]   a process where I did I repeated the exact test and that you guys did with crab using
+[00:51:25.580 --> 00:51:26.580]   an eye block.
+[00:51:26.580 --> 00:51:32.740]   I think I used my IB-9 six minutes and yeah, it was completely, you know, right, it was
+[00:51:32.740 --> 00:51:33.740]   yeah, it was perfect.
+[00:51:33.740 --> 00:51:38.460]   Like, I tried it without it and I had the high, I had the itchy's and we had waited a week
+[00:51:38.460 --> 00:51:41.540]   later, tried it again and no response at all.
+[00:51:41.540 --> 00:51:45.020]   It was just, it was an amazing, it was an amazing result for me.
+[00:51:45.020 --> 00:51:47.260]   But you know, I just want to point out though that's awesome.
+[00:51:47.260 --> 00:51:50.860]   Yeah, you know, I'm a tinker, I'm going to be doing these things but I really want to
+[00:51:50.860 --> 00:51:56.500]   stress though that I only did it because I knew that the worst thing that could happen
+[00:51:56.500 --> 00:52:00.180]   to me is I break out knives and I scratch and I itch and, you know, it goes away after
+[00:52:00.180 --> 00:52:01.180]   two days.
+[00:52:01.180 --> 00:52:06.740]   However, if you guys out there that, you know, if you require an epipen and you're worried
+[00:52:06.740 --> 00:52:10.940]   about anaphylic shock, don't do this.
+[00:52:10.940 --> 00:52:16.420]   It is just not worth it to do that unless, you know, unless there's been a ton of studies
+[00:52:16.420 --> 00:52:17.420]   and stuff like that.
+[00:52:17.420 --> 00:52:22.940]   So, major, major caution about tinkering around with something when it's a serious reaction,
+[00:52:22.940 --> 00:52:26.460]   you know, because I know people with gluten, I know people with IBS and Crohn's and all
+[00:52:26.460 --> 00:52:30.580]   that and myself being allergic to certain food preservatives and things like, you know,
+[00:52:30.580 --> 00:52:34.900]   you know, I mean, the worst is going to happen is, you know, you get hives or if it's that
+[00:52:34.900 --> 00:52:38.260]   level, then proceed with caution.
+[00:52:38.260 --> 00:52:41.340]   But yeah, absolutely don't, don't risk your health.
+[00:52:41.340 --> 00:52:52.340]   But you know, conceptually, the idea that quantum energy can modify a physical substance,
+[00:52:52.340 --> 00:52:57.780]   then you ingest it and it produces a different response in your chemistry is just amazing.
+[00:52:57.780 --> 00:53:03.740]   Wow, I'm just so, just so blown away by this because the ramifications of your next study
+[00:53:03.740 --> 00:53:09.180]   and the results from that study are going to imply that it possibly can mitigate other
+[00:53:09.180 --> 00:53:16.540]   things that are not just allergens, like GMOs, pesticides, glyphosate, you know, all that
+[00:53:16.540 --> 00:53:20.900]   other stuff that's in our food and just think about what would happen if you guys put all
+[00:53:20.900 --> 00:53:26.480]   your food through this stuff and then the absolute improvement in your diet just by
+[00:53:26.480 --> 00:53:32.300]   charging food, you know, so, yeah, it's amazing, I'm just amazed, I'm seriously just blown
+[00:53:32.300 --> 00:53:36.020]   away and never thought from the beginning when you and I started tinkering around with
+[00:53:36.020 --> 00:53:41.380]   this stuff that this would get to this level of just life changing, literally life changing
+[00:53:41.380 --> 00:53:42.380]   for humanity.
+[00:53:42.380 --> 00:53:48.740]   It's just, wow, anyway, I'm just gushing here and just amazing to me, I'm just so amazing.
+[00:53:48.740 --> 00:53:55.380]   Yeah, and I feel the same, so it's truly the most exciting right now to dig into and find
+[00:53:55.380 --> 00:54:02.320]   out, you know, there's so many people that struggle with allergens and all of that and
+[00:54:02.320 --> 00:54:08.760]   the base institute actually laid the groundwork for this already quite a long time ago because
+[00:54:08.760 --> 00:54:15.400]   they had tested herbicide and pesticide neutralization and all of that already with their advanced
+[00:54:15.400 --> 00:54:24.160]   a deck of all method and so on that level, it's really not a surprise, it's now, it's
+[00:54:24.160 --> 00:54:31.240]   still mind blowing right now that we're digging into much more specialized testing methods
+[00:54:31.240 --> 00:54:36.680]   that are apparently finding pretty much the same thing.
+[00:54:36.680 --> 00:54:41.360]   And so yeah, definitely like the herbicide and pesticide thing on a frequency level.
+[00:54:41.360 --> 00:54:48.680]   Yeah, I would not be surprised at all if this is also validated here by this study.
+[00:54:48.680 --> 00:54:54.560]   And one addition to this, because they did not only test such substances that people
+[00:54:54.560 --> 00:54:57.680]   are allergic to, but they also tested sugar.
+[00:54:57.680 --> 00:55:04.520]   And so you cannot be allergic to sugar, but sugar has a, it's a point of response that
+[00:55:04.520 --> 00:55:05.520]   is.
+[00:55:05.520 --> 00:55:06.520]   Yeah, exactly.
+[00:55:06.520 --> 00:55:15.040]   It's a poison in that sense and it's highly addictive as well.
+[00:55:15.040 --> 00:55:16.040]   And shame on me.
+[00:55:16.040 --> 00:55:17.040]   I love chocolate.
+[00:55:17.040 --> 00:55:18.040]   Wow.
+[00:55:18.040 --> 00:55:19.040]   We're awesome.
+[00:55:19.040 --> 00:55:21.640]   Oh my god, I'm going to eat a lot of chocolate.
+[00:55:21.640 --> 00:55:22.640]   Yeah.
+[00:55:22.640 --> 00:55:30.200]   But I tell you, so they also tested that and they saw, I think it was a 75 to 85 percent
+[00:55:30.200 --> 00:55:32.680]   reduction in stress response.
+[00:55:32.680 --> 00:55:37.080]   And yeah, guess who's charging all the chocolates in the house here?
+[00:55:37.080 --> 00:55:38.080]   Yeah.
+[00:55:38.080 --> 00:55:39.080]   Yeah.
+[00:55:39.080 --> 00:55:40.080]   My wife and I.
+[00:55:40.080 --> 00:55:41.080]   Oh, yeah.
+[00:55:41.080 --> 00:55:42.080]   Yeah.
+[00:55:42.080 --> 00:55:43.080]   Absolutely.
+[00:55:43.080 --> 00:55:47.760]   You know, I, yeah, I can't, I can't stress enough how I'm a label reader.
+[00:55:47.760 --> 00:55:53.420]   And I, and, and, and you know, anyone who ever reads a label, if you don't, if you can't
+[00:55:53.420 --> 00:55:58.440]   pronounce the words of the ingredients, you probably don't want to be eating that stuff,
+[00:55:58.440 --> 00:55:59.440]   you know?
+[00:55:59.440 --> 00:56:03.760]   And like, you know, I mean, there's some, just research at anybody, just like look it up,
+[00:56:03.760 --> 00:56:07.760]   the titanium dioxide, you know, BMT, all this stuff.
+[00:56:07.760 --> 00:56:09.520]   Like what's it doing in the food?
+[00:56:09.520 --> 00:56:14.200]   Like why is aluminum in, in, in anti-perspirant, you know, it's like, anyway, I go off on a
+[00:56:14.200 --> 00:56:19.000]   tangent because it's, it really gives me off on, on why these toxins are in our environment.
+[00:56:19.000 --> 00:56:20.800]   MSG is one of the worst ones.
+[00:56:20.800 --> 00:56:27.000]   I mean, like for the longest time until I found C 60, try to live your life avoiding MSG.
+[00:56:27.000 --> 00:56:30.760]   You know, and then I got C 60, which does it and now this does it as well.
+[00:56:30.760 --> 00:56:31.760]   But wow.
+[00:56:31.760 --> 00:56:32.760]   Yeah.
+[00:56:32.760 --> 00:56:33.760]   It's, so yeah, it's, it's a, it's a problem.
+[00:56:33.760 --> 00:56:34.760]   Uh, okay.
+[00:56:34.760 --> 00:56:37.680]   So let me just, I'm just going to jump down to this other one before I go to the top.
+[00:56:37.680 --> 00:56:38.680]   But okay.
+[00:56:38.680 --> 00:56:41.200]   So that's the allergen study.
+[00:56:41.200 --> 00:56:42.280]   Very exciting.
+[00:56:42.280 --> 00:56:47.560]   And now let's talk about the ATP study, which I think is just wild.
+[00:56:47.560 --> 00:56:51.200]   I think what you guys, you know, what that one figured out was pretty cool.
+[00:56:51.200 --> 00:56:52.200]   Yes.
+[00:56:52.200 --> 00:56:58.800]   So for everyone with a blog, so if, so what we've, we've tested now for quantum upgrade,
+[00:56:58.800 --> 00:57:03.800]   but also with, with the infinity block in that case, and it should be no different.
+[00:57:03.800 --> 00:57:08.720]   Just weaker response with a quantum block.
+[00:57:08.720 --> 00:57:15.360]   There is an actual increase in ATP production off the human cell.
+[00:57:15.360 --> 00:57:24.160]   And it, it read the devices used and it can be used also by putting a picture of you in,
+[00:57:24.160 --> 00:57:27.720]   you know, as, you know, that procedure already, right?
+[00:57:27.720 --> 00:57:35.600]   And that will happen in the first four hours, uh, we see an increase in, and I have to wait
+[00:57:35.600 --> 00:57:40.560]   because I don't actually have the study results back other than the first heads up.
+[00:57:40.560 --> 00:57:45.280]   Yes, it worked, you know, and we had a test that was done a first test about 10 days
+[00:57:45.280 --> 00:57:46.400]   ago.
+[00:57:46.400 --> 00:57:53.000]   And now this was a follow up and I think they had over 100 cells.
+[00:57:53.000 --> 00:57:56.600]   So it was statistically significant also.
+[00:57:56.600 --> 00:57:58.560]   And across the board, they saw this jump.
+[00:57:58.560 --> 00:58:08.080]   So that means that not only do the cells get additional quantum energy that they will
+[00:58:08.080 --> 00:58:17.240]   have available, no, also their own energy production on the cellular level increases,
+[00:58:17.240 --> 00:58:22.080]   at least in the first four to six hours, significantly.
+[00:58:22.080 --> 00:58:25.640]   I mean, it's, it's, it's obvious and we're not talking like 100% or something.
+[00:58:25.640 --> 00:58:28.560]   I think then you would cook probably.
+[00:58:28.560 --> 00:58:35.600]   And that would be also not good, but it's, it's a, it's quite a, it's a very visible
+[00:58:35.600 --> 00:58:37.840]   and significant change.
+[00:58:37.840 --> 00:58:40.920]   And so that's also on multiple levels.
+[00:58:40.920 --> 00:58:49.920]   Um, amazing, because first of all, again, you see how physically our organism is reacting
+[00:58:49.920 --> 00:58:55.080]   and where there's a benefit that you can see and to think of it, you're in a, in a competition,
+[00:58:55.080 --> 00:58:56.080]   right?
+[00:58:56.080 --> 00:58:57.080]   I don't know.
+[00:58:57.080 --> 00:58:59.960]   Baseball game or you run a marathon or something like that.
+[00:58:59.960 --> 00:59:00.960]   It's like turbo boost.
+[00:59:00.960 --> 00:59:01.960]   Right.
+[00:59:01.960 --> 00:59:09.920]   Yeah, for that time, and what's, what's very interesting so far is that, that after a certain
+[00:59:09.920 --> 00:59:18.560]   time, the ATP production normalizes, um, that's what we've seen so far across the board.
+[00:59:18.560 --> 00:59:27.360]   And this, this, what we see and read out of this is actually that we know that the quantum
+[00:59:27.360 --> 00:59:34.800]   energy helps put things and organisms really into balance and it, and it supports everywhere.
+[00:59:34.800 --> 00:59:40.000]   But it may not be the best if we continue to have access ATP production over a longer
+[00:59:40.000 --> 00:59:42.000]   period of times.
+[00:59:42.000 --> 00:59:44.400]   And, um, and that also would make a lot of sense.
+[00:59:44.400 --> 00:59:48.880]   So it's, it's very interesting because you can literally see like you turn it on or you,
+[00:59:48.880 --> 00:59:53.280]   you put, put it in the block and, and it's just jumping.
+[00:59:53.280 --> 00:59:58.160]   It's jumping right out of the game and continues for about four hours and then it all realizes.
+[00:59:58.160 --> 00:59:59.160]   It's very interesting.
+[00:59:59.160 --> 01:00:04.280]   Yeah, I tell you, you know, I've been a biohacker for a long time and ATP productions like the
+[01:00:04.280 --> 01:00:05.520]   Holy Grail.
+[01:00:05.520 --> 01:00:11.280]   It's your cellular energy generators, Taidir, mitochondria, bottom line.
+[01:00:11.280 --> 01:00:13.400]   It's what you're, it's how you walk around all day.
+[01:00:13.400 --> 01:00:16.480]   I mean, you know, your energy is, is just that.
+[01:00:16.480 --> 01:00:19.320]   It's your body's little energy generators.
+[01:00:19.320 --> 01:00:24.000]   And if you're a, if you're somebody who does sports or whether you're anything you're doing
+[01:00:24.000 --> 01:00:28.640]   and you need that like point one second gap over your competitors or something like that,
+[01:00:28.640 --> 01:00:30.640]   you know, if that, this is where it makes that difference.
+[01:00:30.640 --> 01:00:35.800]   And it's literally how many different devices and techniques and biohacking substances have
+[01:00:35.800 --> 01:00:41.360]   been geared towards trying to improve ATP production in your, in your cellular biology.
+[01:00:41.360 --> 01:00:44.040]   It's a huge deal in the sports world.
+[01:00:44.040 --> 01:00:48.280]   And just to realize, and this is what's really cool about the concept here is that we're
+[01:00:48.280 --> 01:00:54.280]   basically saying that quantum energy, something you cannot see that exists in all of nature.
+[01:00:54.280 --> 01:01:00.480]   If you concentrate that into a person by using entanglement, right, then when they receive
+[01:01:00.480 --> 01:01:08.840]   that energy, that energy of quantum is going to convert into physical ATP, which like it's
+[01:01:08.840 --> 01:01:10.800]   like another wow.
+[01:01:10.800 --> 01:01:14.640]   And this is the study that is finding that to be true.
+[01:01:14.640 --> 01:01:18.320]   So wow, Philip, that is so cool.
+[01:01:18.320 --> 01:01:22.320]   Yeah, you're going to, I think we're going to, QE is going to take over the sports world
+[01:01:22.320 --> 01:01:25.040]   here in the near future.
+[01:01:25.040 --> 01:01:26.040]   Right?
+[01:01:26.040 --> 01:01:30.040]   I mean, you have like a student, you got a final exam today.
+[01:01:30.040 --> 01:01:33.400]   Well, you know, if you got the quantum upgrade, give yourself a boost.
+[01:01:33.400 --> 01:01:36.520]   If you don't, if you have a block, put your picture in the block, you're going to get
+[01:01:36.520 --> 01:01:42.640]   that little boost of ATP energy that's going to just power your brain, you know, so, yeah,
+[01:01:42.640 --> 01:01:46.240]   it's just anytime you got something going like that, it's a good time to toss your photo
+[01:01:46.240 --> 01:01:50.400]   in your block and, and power up, you know?
+[01:01:50.400 --> 01:01:56.160]   So yeah, like job interview, whatever it's got to be, whatever you need to be at peak
+[01:01:56.160 --> 01:02:00.120]   performance, this would be the time to do that.
+[01:02:00.120 --> 01:02:01.120]   Exactly.
+[01:02:01.120 --> 01:02:08.960]   And there are actually quite a lot of professional athletes that are already using our technology,
+[01:02:08.960 --> 01:02:14.800]   you know, from one of the, you know, best pole vaulters in the U.S. to several major
+[01:02:14.800 --> 01:02:16.800]   league baseball players.
+[01:02:16.800 --> 01:02:26.440]   And now there's multiple world champion, I think four-time world champion in wrestling,
+[01:02:26.440 --> 01:02:34.720]   who also has won an Olympic medal, who's using our products and now the latest edition is,
+[01:02:34.720 --> 01:02:43.840]   I think, Danica Patrick, who was the only female NASCAR driver, she's using the blocks.
+[01:02:43.840 --> 01:02:48.000]   And I can say that, the other names, I don't want to name because we don't have permission
+[01:02:48.000 --> 01:02:54.760]   to say those names, but Danica posted on her Instagram already, you know, that she charged
+[01:02:54.760 --> 01:02:59.040]   her why, she has wineries now with the blocks.
+[01:02:59.040 --> 01:03:08.280]   That's one I can mention, and then there's the SLR Honda motocross team, actually, that
+[01:03:08.280 --> 01:03:16.320]   is going to participate in the Baja 1000 in, I think it's mid-November, and they're like
+[01:03:16.320 --> 01:03:22.360]   top-notch, they're among the best in the world, frankly, and that whole team is now getting
+[01:03:22.360 --> 01:03:25.160]   into quantum energy, which is kind of cool.
+[01:03:25.160 --> 01:03:29.560]   No, we also hope that we will keep back from those guys too.
+[01:03:29.560 --> 01:03:31.760]   Yeah, oh, yeah, that's totally cool.
+[01:03:31.760 --> 01:03:37.660]   All right, yeah, on a sidebar, I'll get a share, I'll share it later on, but I'll share
+[01:03:37.660 --> 01:03:42.720]   you a story about the Kentucky Derby and how they're using PMF to produce these exact
+[01:03:42.720 --> 01:03:43.720]   same results.
+[01:03:43.720 --> 01:03:50.680]   So, yeah, I mean, think about horse racing and what quantum energy could do, for that.
+[01:03:50.680 --> 01:03:54.680]   Okay, so, yeah, we've got a hard stop in 10 minutes.
+[01:03:54.680 --> 01:03:59.080]   So let's talk about the last couple of other studies and then wrap it up, that's going
+[01:03:59.080 --> 01:04:03.760]   on and ongoing for all the telegram members.
+[01:04:03.760 --> 01:04:07.760]   You've mentioned the Indian autism study, and you posted about it, but could you summarize
+[01:04:07.760 --> 01:04:08.760]   that?
+[01:04:08.760 --> 01:04:13.480]   That's been going on for a year now, so what were the initial results and then what's coming
+[01:04:13.480 --> 01:04:14.480]   up next?
+[01:04:14.480 --> 01:04:23.280]   Yeah, so it was the nine-month study, and we're waiting until we get the study published,
+[01:04:23.280 --> 01:04:27.840]   and we're not doing that, it's the functional medicine clinic, and unfortunately, the rider
+[01:04:27.840 --> 01:04:33.800]   that is actually putting all that to pay for all the data and everything has been sick
+[01:04:33.800 --> 01:04:39.200]   now for some time, and we didn't really interfere because, you know, things are what they are
+[01:04:39.200 --> 01:04:43.080]   and sometimes, you know, we need to wait for things, but I think if we need to wait another
+[01:04:43.080 --> 01:04:50.080]   week or two, then we'll suggest that we sign this guy up maybe for the quantum upgrade
+[01:04:50.080 --> 01:04:56.240]   so that he feels better soon, and can keep writing this report and everything so it can
+[01:04:56.240 --> 01:05:03.840]   finally be presented to their medical journal, so yeah, but we at least have the results,
+[01:05:03.840 --> 01:05:11.520]   and so it was three parts that were tested in the study, one was their functional medicine
+[01:05:11.520 --> 01:05:16.720]   approach that they've been perfecting since many different years, it's a supplementation
+[01:05:16.720 --> 01:05:23.920]   approach, and they know they can get the attic scores down by, I think, ten points, more
+[01:05:23.920 --> 01:05:30.640]   or less, and that was also shown in this study, but then that's where they max out, right?
+[01:05:30.640 --> 01:05:36.320]   People continue to use this supplementation and everything, what they've dialed in, but
+[01:05:36.320 --> 01:05:39.520]   there's no additional effect, right?
+[01:05:39.520 --> 01:05:49.040]   So now what then happened is actually with the several helpers out of this group, kudos
+[01:05:49.040 --> 01:05:58.480]   to you, to everyone that participated, there was quantum distance charging that happened,
+[01:05:58.480 --> 01:06:04.880]   and over, I think, a three month period, and the attic scores were able to be reduced by
+[01:06:04.880 --> 01:06:13.200]   an additional ten points, give or take, which is very significant because you're taking these
+[01:06:13.200 --> 01:06:22.080]   kids to levels that are way more in the normal spectrum on that path, and everything in regards
+[01:06:22.080 --> 01:06:29.600]   to attention span, focus, language and speaking skills improved, and even things like the parasitic
+[01:06:31.040 --> 01:06:37.120]   load that they usually have in their guts that a lot of autistic kids have these problems,
+[01:06:37.120 --> 01:06:44.000]   those were able to be reduced as well, which I found interesting, I told that to someone
+[01:06:44.000 --> 01:06:48.560]   else in an interview the other day, and then I realized, "Damn, we also found that out in the
+[01:06:48.560 --> 01:06:52.800]   dark field microscopy study by the basis." So it's an improvement, they also.
+[01:06:52.800 --> 01:06:59.840]   Yeah, so it seems to be something exactly in regards to the microbiome and the parasitic load,
+[01:06:59.840 --> 01:07:07.600]   lots more to study, of course, but at least that helped, and then there was a third phase in this
+[01:07:07.600 --> 01:07:13.680]   study, which was with a capsule, that was a physical brass capsule, it's exactly the one
+[01:07:13.680 --> 01:07:19.120]   that we're using as the heal capsule, but not charged with the heal frequencies, it was charged
+[01:07:19.120 --> 01:07:27.280]   with specific frequencies for autistic kids, and that also produced amazing results, and
+[01:07:28.080 --> 01:07:34.720]   yeah, that frequency is not available publicly, and I don't know if we'll ever make it publicly
+[01:07:34.720 --> 01:07:40.720]   available if there would be even enough people that would be interested in those, and then how
+[01:07:40.720 --> 01:07:47.920]   would we name it, right? We can't really produce anything that's clearly for a disease, so
+[01:07:47.920 --> 01:07:52.800]   yeah, we just need to be a little bit mindful in that regard, but nevertheless, that study was
+[01:07:52.800 --> 01:07:59.040]   done, it produced amazing results, and overall, all these kids were taken down to levels
+[01:07:59.040 --> 01:08:05.200]   that are getting relatively close to 50, and 50 is really in the normal spectrum, so I think
+[01:08:05.200 --> 01:08:12.960]   they ended up at 64, coming down from like 96, or something like that, which is significant.
+[01:08:12.960 --> 01:08:17.440]   That's significant, I mean, you know, just, I mean, there's so many parents out there,
+[01:08:17.440 --> 01:08:23.840]   and adults that suffer from this, and it's just, man, that's just amazing, it's beautiful to hear
+[01:08:23.840 --> 01:08:27.920]   that there's anything out there that can help them with outside effects, that there's not some
+[01:08:27.920 --> 01:08:32.160]   chemical they gotta take, and 50 pages of, you know, this could happen, and that could happen,
+[01:08:32.160 --> 01:08:38.640]   if you take this drug thing, you know, that I try to avoid, but yeah, it's beautiful, I mean,
+[01:08:38.640 --> 01:08:43.120]   it's just so nice to hear that this has worked out, and the study, the study proves it, so
+[01:08:44.000 --> 01:08:48.400]   that's awesome, that's awesome to hear that, so you're hoping that the actual like, you know,
+[01:08:48.400 --> 01:08:52.400]   written study gets published here in a couple of months, and we'll be able to share it with everybody
+[01:08:52.400 --> 01:09:00.960]   in. Yeah, you know, my gut feeling is, we're talking maybe the end of Q1, yeah, I don't think
+[01:09:00.960 --> 01:09:06.400]   it's going to happen any quicker, because the thing is that, even if it's fully written up,
+[01:09:06.400 --> 01:09:11.120]   that doesn't mean that we can already show it, because they want to publish it, and that's their
+[01:09:11.120 --> 01:09:19.600]   procedure there, that, that we can't publish it before they publish it. Right, okay, all right,
+[01:09:19.600 --> 01:09:24.640]   but it's just a, you know, FYI everyone, the autism study was successful at that level,
+[01:09:24.640 --> 01:09:31.040]   and it's been shown to be very helpful, the blocks, and so that's just, that's wonderful to hear, so
+[01:09:31.040 --> 01:09:38.720]   something to keep in mind. So that last one here, as we wrap up, is the, you did a D-dimer test, so
+[01:09:39.440 --> 01:09:45.440]   first of all, what is a D-dimer test, and then you use the block as part of it, and how that
+[01:09:45.440 --> 01:09:51.840]   turned out. So there's nothing to report yet, because that study hasn't been done, this is,
+[01:09:51.840 --> 01:09:59.760]   this is coming currently, so we, we actually, it's a clinic in Florida that is running this study,
+[01:09:59.760 --> 01:10:07.600]   or starting this study, and they're still in the process of finding the patients that have a bad
+[01:10:07.600 --> 01:10:13.520]   D-dimer test, basically, and so, so that's the prerequisite, so that's not very easy, because you
+[01:10:13.520 --> 01:10:19.360]   have to go through a whole bunch of people, and then you have to do a D-dimer test, and actually find
+[01:10:19.360 --> 01:10:24.320]   one that, because if you don't have a bad D-dimer test to begin with, there's also no improvement
+[01:10:24.320 --> 01:10:30.320]   that you can show on that level at least, so that's a prerequisite. Yeah, I hope that this will
+[01:10:30.320 --> 01:10:36.240]   get some traction, and that we can also present something by the end of Q1. Okay, yeah, you know,
+[01:10:36.240 --> 01:10:44.400]   it's a problem of our time. D-dimer is testing tests for the level of blood clotting in your body,
+[01:10:44.400 --> 01:10:49.840]   and so for those of you who've been watching the news, you probably are aware of the blood clotting
+[01:10:49.840 --> 01:10:58.400]   issues that have just cropped up in our society, so yeah, it's for anyone who may have had issues
+[01:10:58.400 --> 01:11:04.720]   with their employment and had to do something about it a year ago. Yeah, this is something to
+[01:11:04.720 --> 01:11:08.880]   worry about, and so definitely get D-dimer tested just to make sure you're safe,
+[01:11:08.880 --> 01:11:15.760]   but you're doing this study should be very instrumental in seeing if quantum energy can help
+[01:11:15.760 --> 01:11:21.920]   those people who had to and get forced into doing stuff, you know, won't get into that,
+[01:11:21.920 --> 01:11:27.600]   but yeah, it's a big deal on that level, and I really feel for anyone who had to
+[01:11:27.600 --> 01:11:32.960]   get coerced into doing stuff they really didn't want to do, and/or their family members did it,
+[01:11:32.960 --> 01:11:38.800]   and now they've got health issues, so that's what D-dimer is all about. It's the whole blood clotting
+[01:11:38.800 --> 01:11:44.000]   thing, so looking forward to that one, Philip, thank you for doing that. Okay, so that's going to wrap
+[01:11:44.000 --> 01:11:50.320]   up this episode of Leila Quantum Tech product updates, and I want to just say, you know, hey,
+[01:11:50.320 --> 01:11:57.040]   you know, thank you very much everybody for sticking out. I know it's been a kind of a long video,
+[01:11:57.040 --> 01:12:01.760]   but there's been so much developments and so many new things are coming on, and it's so exciting.
+[01:12:01.760 --> 01:12:05.920]   I just want to say thank you for, you know, watching this video and hanging out with Philip
+[01:12:05.920 --> 01:12:11.120]   and I for this duration, so thanks a lot, everyone. Thank you, Philip, for your time this morning.
+[01:12:11.120 --> 01:12:16.080]   Now, I just want to mention that if you want to get hold of Philip and/or myself, we're at the
+[01:12:16.080 --> 01:12:20.000]   Quantum Power Group on Telegram, link below in the video description. If you want to find out
+[01:12:20.000 --> 01:12:24.240]   more about me or you want to reach out to me, I'm also on Telegram out there, but I'm also,
+[01:12:24.240 --> 01:12:29.360]   I have a blog called the Tinkers Academy, so just Tinkers.academy in your URL window on your browser.
+[01:12:29.360 --> 01:12:33.520]   Takes you right to my blog. I got a real big section all about Quantum Energy and all of
+[01:12:33.520 --> 01:12:38.080]   the different stuff that's kind of like, I try to complement Philip's website with stuff that
+[01:12:38.080 --> 01:12:42.720]   not on his site, so I kind of, you know, extra stuff and so, and then support the
+[01:12:42.720 --> 01:12:47.280]   support the members with tutorials and things like that. So again, thank you so much and Philip,
+[01:12:47.280 --> 01:12:54.160]   any parting words? Well, thank you, Kay, for your time and also the amazing things you're doing,
+[01:12:54.160 --> 01:13:00.160]   with the Tinkers Academy and with the contributing, it's such amazing frequencies. I'm looking forward
+[01:13:00.160 --> 01:13:05.040]   to that and thanks to everyone out there. Thanks for all the members and the group and
+[01:13:05.040 --> 01:13:11.520]   and it really actually mean that, you know, just for your interaction also for having been at the
+[01:13:11.520 --> 01:13:17.280]   forefront of this, you know, when maybe even relatives or friends that are very much in the
+[01:13:17.280 --> 01:13:22.080]   the box of the five senses are like, ah, you know, what are you doing there? This can't work and all
+[01:13:22.080 --> 01:13:29.760]   that and I think, you know, we're proving really everyone wrong and now even the most famous
+[01:13:29.760 --> 01:13:37.040]   biohackers in the world are using our stuff and are talking about it. So yeah, and you had the right
+[01:13:37.040 --> 01:13:43.200]   feeling about this and then beyond that, the community effort is really the most amazing part
+[01:13:43.200 --> 01:13:48.480]   of it to, you know, do these things together and to discover new things and that's how the
+[01:13:48.480 --> 01:13:54.880]   information flows, like the odd autism study would never have been possible with, without this one
+[01:13:54.880 --> 01:14:02.160]   member trying this and reporting about it. The food allergy study would have never happened if not
+[01:14:02.160 --> 01:14:07.120]   members in the group had discovered, you know, that it's helping and that they posted about it.
+[01:14:07.120 --> 01:14:13.680]   So really, thank you for doing that. Thank you for continuing to Tinker and to to discover.
+[01:14:14.960 --> 01:14:20.800]   I think we're definitely not at the end of discovering new things, so it will continue to
+[01:14:20.800 --> 01:14:28.080]   stay interesting. Yeah, no, yeah, you're so right. I mean, if everybody realizes everything, a lot
+[01:14:28.080 --> 01:14:34.320]   of the stuff that is being developed and produced and provided is because of the community asking
+[01:14:34.320 --> 01:14:41.760]   for it. So, I mean, we have a true community where it's constant engagement with with Layla Tech and
+[01:14:41.760 --> 01:14:46.320]   there's constant development and and it's just great. So, you know, thank you guys out there on
+[01:14:46.320 --> 01:14:51.760]   Telegram for sticking with us and keep participating, keep asking those questions because, you know,
+[01:14:51.760 --> 01:14:56.720]   your question might end up as a product next year. So, definitely, thank you for your engagement.
+[01:14:56.720 --> 01:15:01.680]   And thank you, Phillip. I know you got to go. I got to jump into another meeting. So, thank you so
+[01:15:01.680 --> 01:15:05.600]   much and have a great day, everybody. Aloha. You too.
+

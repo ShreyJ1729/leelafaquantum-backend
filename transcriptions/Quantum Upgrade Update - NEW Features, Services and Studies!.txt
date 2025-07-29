@@ -1,0 +1,683 @@
+
+[00:00:00.000 --> 00:00:05.520]   Hello everyone and welcome to another Tinkers Academy video and I'd like to
+[00:00:05.520 --> 00:00:10.560]   just say welcome. This is an update video on the quantum upgrade service and I've
+[00:00:10.560 --> 00:00:14.520]   got Philip on the line to kind of explain some of the new things that are
+[00:00:14.520 --> 00:00:19.120]   happening, clarify how some of the services work. So this is a video to the
+[00:00:19.120 --> 00:00:24.120]   upgrade community and just kind of just jump right in. So the first thing I want
+[00:00:24.120 --> 00:00:27.720]   to do is for those of you who are not familiar with Philip yet, Philip, some
+[00:00:27.720 --> 00:00:32.000]   more Von Holson Dorif is the healer. He's a healer and the founder owner operator of
+[00:00:32.000 --> 00:00:37.800]   Quantum Upgrade. He's also the same for Layla Labs and also Layla Quantum Tech. So
+[00:00:37.800 --> 00:00:43.160]   this is Philip and good morning Philip and thank you for joining me. Hi Kay, good
+[00:00:43.160 --> 00:00:48.200]   morning. I'm looking forward to our our accommodation here today. Yeah so yeah
+[00:00:48.200 --> 00:00:52.000]   thank you so much because there's been a lot you know it's been you launched the
+[00:00:52.000 --> 00:00:57.080]   quantum upgrade at the beginning of October and we did a launch video then we
+[00:00:57.080 --> 00:01:01.680]   did another follow-up Q&A. Links will be for those videos and below for those
+[00:01:01.680 --> 00:01:06.160]   anyone who's interested in watching the the first Q&A was just all of the
+[00:01:06.160 --> 00:01:08.840]   questions we got for the first two weeks and we just banged through and
+[00:01:08.840 --> 00:01:12.640]   answered them from the Telegram chat group and then so this is going to be an
+[00:01:12.640 --> 00:01:17.120]   update as a follow-on. Again it's like basically almost yeah it's almost one
+[00:01:17.120 --> 00:01:22.080]   month later and boy what a busy month right. Indeed it's hard to believe it's
+[00:01:22.080 --> 00:01:25.280]   only been a month and so yeah it's it's literally I think it's one or two months
+[00:01:25.280 --> 00:01:29.640]   but it's we basically want to Philip wants to share with you all of the
+[00:01:29.640 --> 00:01:33.320]   happenings of quantum upgrade and so we're going to go ahead and do that but
+[00:01:33.320 --> 00:01:38.320]   prior before we do that though let me read the disclaimer for all of those who
+[00:01:38.320 --> 00:01:41.960]   need to know about a disclaimer and then we'll jump right into the content. So
+[00:01:41.960 --> 00:01:45.360]   neither quantum upgrade nor the takers Academy recommend or endorse any
+[00:01:45.360 --> 00:01:48.800]   specific tests, physicians, procedures, opinions or other information that may
+[00:01:48.800 --> 00:01:51.800]   be mentioned in this video. Reliance on any information appearing and
+[00:01:51.800 --> 00:01:55.520]   discussing this video solely at everyone's own risks. Statements may have not been
+[00:01:55.520 --> 00:02:00.520]   evaluated by the EFSA or FDA or any governmental derivatives thereof. Quantum
+[00:02:00.520 --> 00:02:03.840]   upgrade products and products that quantum upgrade may represent are not
+[00:02:03.840 --> 00:02:08.360]   intended to diagnose, treat, cure or prevent any disease. All right thank you
+[00:02:08.360 --> 00:02:12.840]   very much everybody. So let's jump right in. So the first thing you wanted to kind
+[00:02:12.840 --> 00:02:16.160]   of share with us and I'll just let you run with it is you know there's been
+[00:02:16.160 --> 00:02:20.080]   changes right since the day you launched a quantum upgrade. There's been changes
+[00:02:20.080 --> 00:02:23.880]   on the functionality of the My Account page. So you want to just kind of talk
+[00:02:23.880 --> 00:02:31.000]   about that? Yes so that's based on what we've seen initially and also a feedback
+[00:02:31.000 --> 00:02:34.960]   from the members in the Telegram group where we asked hey you know what can we
+[00:02:34.960 --> 00:02:39.960]   so optimize and what additional functionalities would you like and they
+[00:02:39.960 --> 00:02:44.680]   have been already several that we don't even need to mention because probably
+[00:02:44.680 --> 00:02:48.720]   everyone is aware of those already you know that it's mobile optimized now and
+[00:02:48.720 --> 00:02:55.200]   things like that but certain things like automated setting of nighttime. Some
+[00:02:55.200 --> 00:02:58.600]   people were wondering that they couldn't set the nighttime anymore but that was
+[00:02:58.600 --> 00:03:03.400]   really based on customer feedback where they said well so if I set the daytime
+[00:03:03.400 --> 00:03:09.960]   and so why do I need to set the nighttime right and then indeed you know
+[00:03:09.960 --> 00:03:13.520]   that that should should happen automatically and now it does so you
+[00:03:13.520 --> 00:03:18.200]   only need to set your your daytime and your nighttime will automatically set
+[00:03:18.200 --> 00:03:27.040]   based on that right so it's it makes it even easier okay and then let's go
+[00:03:27.040 --> 00:03:32.320]   ahead and move back to that and then the other one is the pause button. That's
+[00:03:32.320 --> 00:03:36.280]   the pause button yeah so and so the pause button in general that we even
+[00:03:36.280 --> 00:03:43.800]   included that that was based on a couple of folks initially that they had a lot
+[00:03:43.800 --> 00:03:48.320]   of detox reactions they didn't have really any experience with quantum
+[00:03:48.320 --> 00:03:55.000]   energy so far and that they asked if they could pause it at night and then
+[00:03:55.000 --> 00:04:00.040]   you know we said of course yes you can so we added the pause button so where
+[00:04:00.040 --> 00:04:05.760]   you manually click pause and then if you wanted and then within five minutes the
+[00:04:05.760 --> 00:04:11.160]   service would would stop basically and then they could manually unpause it for
+[00:04:11.160 --> 00:04:16.880]   it to start again now there was also the question could we set that in a more
+[00:04:16.880 --> 00:04:22.480]   automated fashion that it can then unpause yeah and that is yeah and at a
+[00:04:22.480 --> 00:04:26.840]   specific time and that's what we also implement it and it should work properly
+[00:04:26.840 --> 00:04:31.080]   you know okay so let's let's show everybody how to get to the pause because
+[00:04:31.080 --> 00:04:37.120]   this is the service for you and this is my from myself and so this these are the
+[00:04:37.120 --> 00:04:41.280]   settings for you but it the pause button is not on this page right so how do you
+[00:04:41.280 --> 00:04:45.720]   I forgot how to get to the pause button no the pause button is actually right
+[00:04:45.720 --> 00:04:51.200]   there is there where is called on a little bit I thought it was on a
+[00:04:51.200 --> 00:04:57.040]   different beat it's on a different page right no actually it should be right
+[00:04:57.040 --> 00:05:05.440]   there click update yet lately forget to click update I made a change okay so
+[00:05:05.440 --> 00:05:10.880]   here let me click on my active this is why I want to view it this is my field
+[00:05:10.880 --> 00:05:16.240]   for you and oh there it is okay sorry wrong okay all right so I forgot to
+[00:05:16.240 --> 00:05:19.640]   click update I by that's a real important thing everybody I think that a lot of
+[00:05:19.640 --> 00:05:24.080]   people get right I made a change and if you don't click update you don't get
+[00:05:24.080 --> 00:05:27.160]   the you know yes you got a click update then it now you now it's turned on and
+[00:05:27.160 --> 00:05:31.920]   now it's running all right so now you've got the pause button up here and so it
+[00:05:31.920 --> 00:05:35.840]   just says pause so if I have to manually pause it but you but you're saying that
+[00:05:35.840 --> 00:05:39.000]   and you can short right now you can literally click it because as long as
+[00:05:39.000 --> 00:05:41.880]   you don't update it nothing will happen and then you can click it again it's
+[00:05:41.880 --> 00:05:46.120]   basically so now it would be pause if you click it again it's so it's it's
+[00:05:46.120 --> 00:05:50.400]   unpossed but okay but I have to click it and then hit update and then that tells
+[00:05:50.400 --> 00:05:54.280]   the system do you know implement might change right but then yeah that's
+[00:05:54.280 --> 00:05:58.920]   correct okay but then other but you've got this new button which I just noticed
+[00:05:58.920 --> 00:06:04.680]   which is nighttime pause and that's what you're talking about right yes that you
+[00:06:04.680 --> 00:06:09.960]   know that's for people if they just want to turn it off like yeah there and in
+[00:06:09.960 --> 00:06:15.600]   the morning it would be turned on automatically so oh okay so so if I
+[00:06:15.600 --> 00:06:20.080]   if I want to just turn it off at night I just click nighttime pause hit update
+[00:06:20.080 --> 00:06:25.800]   right like I'm doing right now and then it's going to then pause it or just for
+[00:06:25.800 --> 00:06:30.600]   tonight or every night no that will be for every night then you know because
+[00:06:30.600 --> 00:06:34.240]   the settings are for all nights it doesn't distinguish between Monday
+[00:06:34.240 --> 00:06:41.480]   Tuesday Friday etc so okay so it's gonna stay paused every single night but when
+[00:06:41.480 --> 00:06:47.200]   the daytime comes it's gonna be pumping 600 right at seven to seven okay yes
+[00:06:47.200 --> 00:06:52.320]   and then you can just click it again and click update and then it won't happen
+[00:06:52.320 --> 00:06:56.240]   anymore so however you like it again turn off nighttime pause right now click
+[00:06:56.240 --> 00:07:01.320]   update and then nighttime pauses turned off okay so you can so okay that's a
+[00:07:01.320 --> 00:07:04.880]   great I love that feature has a really good idea all right so if you want to
+[00:07:04.880 --> 00:07:10.280]   pause it like until you want to turn it back on use the top button but if you
+[00:07:10.280 --> 00:07:14.080]   want to turn it off at night then click this always remember to hit update to
+[00:07:14.080 --> 00:07:19.320]   implement your change and then it will continually pause it at night until you
+[00:07:19.320 --> 00:07:24.720]   say stop and you want to turn back okay all right great yes at this point it
+[00:07:24.720 --> 00:07:30.040]   just just as an information if there's anyone new right now watching so and
+[00:07:30.040 --> 00:07:36.000]   most people probably do it because we we really give a notice but the service
+[00:07:36.000 --> 00:07:41.840]   does not start until you have updated your time zone the first time so you need
+[00:07:41.840 --> 00:07:47.680]   to go into this my account my subscription and then pick your time zone
+[00:07:47.680 --> 00:07:52.840]   okay where you currently add and then click update and then only then after
+[00:07:52.840 --> 00:07:57.840]   about five minutes the service starts and again we tell people in an email and
+[00:07:57.840 --> 00:08:03.360]   but you know is that this is are you talking about this time zone right here
+[00:08:03.360 --> 00:08:09.800]   yes because I just realized I forgot to set it okay all this time I've been
+[00:08:09.800 --> 00:08:15.320]   American New York well I'm in American New York but I'm so you updated the
+[00:08:15.320 --> 00:08:20.200]   service in general so it you should have been on some time zone right right yeah
+[00:08:20.200 --> 00:08:23.680]   yeah I'm on I'm on Eastern but I'm actually central I did I just I just
+[00:08:23.680 --> 00:08:28.480]   noticed that I got the wrong I did the wrong one on me so I'm US central so now
+[00:08:28.480 --> 00:08:33.160]   I hit you as central click update okay yeah great point thank you for pointing
+[00:08:33.160 --> 00:08:36.720]   that out it's still work for you it's still work yeah I'm just an hour off date
+[00:08:36.720 --> 00:08:42.760]   before and yes oh by the way now daylight savings is next right there
+[00:08:42.760 --> 00:08:47.760]   well this weekend so for daylight does it that doesn't affect anything right as
+[00:08:47.760 --> 00:08:51.200]   long as you've got if there's no time zone daylight savings is irrelevant
+[00:08:51.200 --> 00:08:54.400]   because you're still in the same time zone and your hours are still the same
+[00:08:54.400 --> 00:08:59.800]   right correct I think there's just yeah yeah I think that that won't
+[00:08:59.800 --> 00:09:04.760]   change anything okay all right cool all right so the next one is mobile
+[00:09:04.760 --> 00:09:12.000]   optimization yeah so that you know it's just something where you know in the
+[00:09:12.000 --> 00:09:15.080]   beginning when we launched there on mobile there were just some things that
+[00:09:15.080 --> 00:09:18.960]   didn't look that great and some words were like on top of each other and so
+[00:09:18.960 --> 00:09:24.000]   that that's been fixed and I mean for a while now but at least we wanted to
+[00:09:24.000 --> 00:09:28.880]   mention it okay all right so it looks better on mobile there's but there's no
+[00:09:28.880 --> 00:09:32.320]   app right now we'll talk about that in a second but that's that's when you say
+[00:09:32.320 --> 00:09:37.000]   mobile you're talking about mobile browser right yes correct yeah the app
+[00:09:37.000 --> 00:09:43.480]   will be launched I think we'll have it in January okay I'm pretty safely because
+[00:09:43.480 --> 00:09:46.680]   the thing is with with the app development and then you'll certainly know
+[00:09:46.680 --> 00:09:51.360]   that that it doesn't make any sense for us to build out the apps while we're
+[00:09:51.360 --> 00:09:55.920]   still working and implementing new functionalities so that really needs to
+[00:09:55.920 --> 00:10:01.200]   happen beforehand and I think we're almost through like there's another two
+[00:10:01.200 --> 00:10:05.440]   weeks of development with things that we're implementing roughly give or take
+[00:10:05.440 --> 00:10:10.220]   and then after that hopefully we won't have any more change requests and then
+[00:10:10.220 --> 00:10:14.200]   we'll start really building out the app okay you know you're you're you're
+[00:10:14.200 --> 00:10:20.800]   never gonna not have change requests or I know yeah just yeah most fundamental
+[00:10:20.800 --> 00:10:25.600]   that people really asked for that we wanted to get that in as quickly as
+[00:10:25.600 --> 00:10:30.680]   possible yeah I yeah exactly I work in I work in an IT environment and there's
+[00:10:30.680 --> 00:10:35.080]   three things in life that are guaranteed you know death taxes and change requests
+[00:10:35.080 --> 00:10:40.840]   yeah okay so you're gonna and then okay so since we're on this you want to
+[00:10:40.840 --> 00:10:44.520]   just talk about this so are you should developing it for the iPhone and the
+[00:10:44.520 --> 00:10:49.280]   Android and you're looking at a quantum upgrade app coming out in January is that
+[00:10:49.280 --> 00:10:54.600]   kind of the goal at the stage yes that's cool and again it will be for both of
+[00:10:54.600 --> 00:11:00.000]   those platforms and I think it'll be it's already now convenient you know and
+[00:11:00.000 --> 00:11:05.200]   just a hint you know you can click on remember me and then you can you
+[00:11:05.200 --> 00:11:09.440]   basically stay logged in I think maybe like once a week or once every two
+[00:11:09.440 --> 00:11:14.240]   weeks the system throws you out I don't know why that happens but then you have
+[00:11:14.240 --> 00:11:18.120]   to log in again but usually you can stay logged in it that's already very
+[00:11:18.120 --> 00:11:22.840]   convenient but obviously an app is even easier to deal with and then if we're
+[00:11:22.840 --> 00:11:26.320]   talking in the future to also change frequencies and stuff like that we just
+[00:11:26.320 --> 00:11:30.760]   thought that's that's much more customer friendly okay no that's great that
+[00:11:30.760 --> 00:11:35.240]   sounds good look forward to that okay so let's see we're talking about that's
+[00:11:35.240 --> 00:11:39.400]   mobile and then now you've got an automated unlocking of higher booster
+[00:11:39.400 --> 00:11:43.480]   levels can you explain that yeah so I think that will be exciting so there
+[00:11:43.480 --> 00:11:49.000]   will be a bar where you should and you can go to that page again well yeah
+[00:11:49.000 --> 00:11:55.280]   exactly and just will hire a little bit please and a little bit a little bit
+[00:11:55.280 --> 00:12:03.840]   more yeah almost yeah and then underneath this green big bar there it
+[00:12:03.840 --> 00:12:09.520]   will be additional bars okay it will show you you know how long have you been
+[00:12:09.520 --> 00:12:14.600]   you know subscribe basically and it will show you how many days are left
+[00:12:14.600 --> 00:12:20.520]   until you will be automatically unlocked for the 1,200 booster levels which at
+[00:12:20.520 --> 00:12:30.440]   this point is set for 90 days and then after 120 days total you you will be
+[00:12:30.440 --> 00:12:39.240]   unlocked for the levels 1,000 and 1,100 for the regular day and night time you
+[00:12:39.240 --> 00:12:43.360]   know where I don't recommend it for night times but yet least for the day
+[00:12:43.360 --> 00:12:48.800]   times you could set that basically for your whole day and yeah and then you
+[00:12:48.800 --> 00:12:54.760]   know possibly as we move forward there will be other things that can be added
+[00:12:54.760 --> 00:13:00.520]   or will be added and certainly none of us know what happens in a year right or
+[00:13:00.520 --> 00:13:06.440]   two years because the energies are are changing and their consciousness levels
+[00:13:06.440 --> 00:13:10.400]   are increasing and they're increasing quite rapidly so it may well be that
+[00:13:10.400 --> 00:13:17.360]   we'll have those I don't know 1,200 booster levels already after 30 or 60
+[00:13:17.360 --> 00:13:23.280]   days in one year or two years so we we wanted to build this so that we can at
+[00:13:23.280 --> 00:13:27.600]   least have that feature but the actual values will need to see how we keep up
+[00:13:27.600 --> 00:13:33.080]   with those but right now as of right now those are very very strong values so
+[00:13:33.080 --> 00:13:37.440]   what Wendy when when can we you know the user group expect to see this change
+[00:13:37.440 --> 00:13:43.640]   in the way that manage boosters I think within the next two weeks okay all right
+[00:13:43.640 --> 00:13:48.440]   so let me just so just to clarify again we're gonna be able to basically set
+[00:13:48.440 --> 00:13:53.200]   them like we do setting regular right you'll be able to turn them on and off
+[00:13:53.200 --> 00:13:59.640]   with it with a timer and set different okay so just your scale basically will
+[00:13:59.640 --> 00:14:05.880]   have more options yes okay okay and then yes okay so this will be a lot more
+[00:14:05.880 --> 00:14:10.560]   customizable I guess is the best way to say it in a few weeks so look forward
+[00:14:10.560 --> 00:14:13.560]   to that and you know by the way since I'm here I just want to clarify
+[00:14:13.560 --> 00:14:17.640]   something we get questions in the in the chat group quite often when they click
+[00:14:17.640 --> 00:14:21.360]   on here and they see three numbers so just be aware that the top number is
+[00:14:21.360 --> 00:14:25.800]   was what it's set to right now all right and the reason that it repeats is
+[00:14:25.800 --> 00:14:29.880]   because these are your choices these two bottom ones are your choices so far
+[00:14:29.880 --> 00:14:34.440]   would it just say oh I want 1100 you see how it changes now and now it's 1100
+[00:14:34.440 --> 00:14:38.140]   and then and then I guess well yeah I didn't I didn't hit update but these
+[00:14:38.140 --> 00:14:41.460]   are your two choices okay so that's why you've got it said you know that's why
+[00:14:41.460 --> 00:14:46.600]   they doubt it repeats now since we're here if I wanted you know there is an
+[00:14:46.600 --> 00:14:53.880]   option to get a 1200 Hawkins booster and is that still available because a
+[00:14:53.880 --> 00:14:59.880]   couple of months ago or whatever we had to email support to have 1200 added is
+[00:14:59.880 --> 00:15:03.680]   that something that's gonna be put into the change you're gonna do or is that
+[00:15:03.680 --> 00:15:08.360]   so something that if I want to be able to have 1200 as option I need to email
+[00:15:08.360 --> 00:15:15.240]   for so everyone will be automatically unlocked for the 1200 booster levels
+[00:15:15.240 --> 00:15:20.680]   after 90 days after 90 days okay all right and then for the new folks you
+[00:15:20.680 --> 00:15:26.200]   want to explain why I mean let's talk a little bit about boosters because you
+[00:15:26.200 --> 00:15:29.200]   know there's lots of people in there that like I want to boost every hour and
+[00:15:29.200 --> 00:15:33.200]   it's like no that's not a good idea so and you know so how what what what is
+[00:15:33.200 --> 00:15:40.620]   your recommendation on the best way to use these boosters yeah so first of all
+[00:15:40.620 --> 00:15:46.200]   it's important to understand more and stronger isn't necessarily better because
+[00:15:46.200 --> 00:15:50.280]   it really depends on the individual and everyone is literally different that's
+[00:15:50.280 --> 00:15:57.920]   why we also can't say well everyone should do a 1200 booster once a day or
+[00:15:57.920 --> 00:16:01.360]   something like that it's impossible to say because it's different for each
+[00:16:01.360 --> 00:16:09.120]   individual so what is right for you is different for me and is different for
+[00:16:09.120 --> 00:16:13.120]   crew and is different for someone else and everyone needs to just play around
+[00:16:13.120 --> 00:16:19.120]   and find the right you know levels for themselves start with the default
+[00:16:19.120 --> 00:16:24.400]   levels in general if you're totally new to this do that for a couple of days or
+[00:16:24.400 --> 00:16:30.520]   so and then at some point play with the boosters so that you can feel this extra
+[00:16:30.520 --> 00:16:34.800]   boost of energy and you will feel it at some point you will feel it you know
+[00:16:34.800 --> 00:16:38.680]   there's some people that are really hard in their physical that have a very
+[00:16:38.680 --> 00:16:44.840]   hard time feeling energy but with the boosters playing with those at some
+[00:16:44.840 --> 00:16:50.720]   point you will feel it because you can find you in your senses further and don't
+[00:16:50.720 --> 00:16:54.880]   start with the highest booster start with the lowest booster at first and then
+[00:16:54.880 --> 00:17:00.440]   just see how you do drink extra water and then over time you can just play
+[00:17:00.440 --> 00:17:04.840]   around with this and then if you want to do two boosters a day you go do two
+[00:17:04.840 --> 00:17:10.800]   boosters a day but doing it like all the time really it those are very very high
+[00:17:10.800 --> 00:17:16.640]   vibrational levels and be underestimate that because it's not like you know
+[00:17:16.640 --> 00:17:23.280]   electricity is something you you feel there's a lot of like physical things
+[00:17:23.280 --> 00:17:27.880]   that that you feel so strongly this is subtle energy so a lot of people have
+[00:17:27.880 --> 00:17:32.960]   issues feeling it but that doesn't mean it's not working it's actually working
+[00:17:32.960 --> 00:17:38.080]   extremely powerfully and it can bring up stuff so if you're over doing it you
+[00:17:38.080 --> 00:17:44.760]   can run into detox effects you can run into situations where just so many inner
+[00:17:44.760 --> 00:17:49.440]   processes are started that you know I don't know there's a childhood trauma
+[00:17:49.440 --> 00:17:54.160]   for example that comes up and I don't know you're suddenly running into big
+[00:17:54.160 --> 00:17:58.320]   issues with your best friend and with your wife and with your kids all at the
+[00:17:58.320 --> 00:18:03.600]   same time because it's all related to the same issue that you know you're
+[00:18:03.600 --> 00:18:07.640]   having to work through something and transform something in regards to
+[00:18:07.640 --> 00:18:12.520]   relationships that's that's really within you and now it's surfacing
+[00:18:12.520 --> 00:18:17.080]   everywhere suddenly and and and you feel maybe miserable for a little bit
+[00:18:17.080 --> 00:18:20.760]   because suddenly you're having all these issues that are coming up in your
+[00:18:20.760 --> 00:18:24.800]   relationship but what's actually happening is that it inner process and
+[00:18:24.800 --> 00:18:32.160]   inner topic that hasn't been resolved yet is surfacing and so if we if we work
+[00:18:32.160 --> 00:18:37.200]   with the quantum upgrade this energy supports the transformation of these
+[00:18:37.200 --> 00:18:41.640]   things that I call it's the stuff that we have in our backpacks and the you know
+[00:18:41.640 --> 00:18:48.360]   that that weigh on us and some of these things release on their own and transform
+[00:18:48.360 --> 00:18:51.560]   on their own because it's literally just the subconscious working with the
+[00:18:51.560 --> 00:18:58.360]   energy to do that but then there are things and topics that that need us to
+[00:18:58.360 --> 00:19:04.440]   actually see them and to recognize them and then with an understanding and
+[00:19:04.440 --> 00:19:10.240]   awareness to release and transform them that everyone has those I have those two
+[00:19:10.240 --> 00:19:15.600]   I still know even today I have those things you know there's you know it's
+[00:19:15.600 --> 00:19:19.520]   not all the time or something like that but hey you know maybe every other
+[00:19:19.520 --> 00:19:24.000]   month there's something where I feel like damn I don't feel good like what is
+[00:19:24.000 --> 00:19:29.000]   this and then it stays for a few days and then I noticed by not feeling good
+[00:19:29.000 --> 00:19:32.720]   there's something deeper so I try to go deeper try to figure out okay what is
+[00:19:32.720 --> 00:19:38.200]   it what's coming up and and then as you're doing that through that process
+[00:19:38.200 --> 00:19:42.840]   that's when you release it but those things you don't want all of those things
+[00:19:42.840 --> 00:19:48.040]   to bubble up at the same time because it's there can be nerve-racking right it's
+[00:19:48.040 --> 00:19:52.440]   just too much that's being nice and loving to ourselves and that's what I'm
+[00:19:52.440 --> 00:19:56.640]   saying those are the types of things that people sometimes underestimate yeah
+[00:19:56.640 --> 00:20:00.760]   and that's certainly what would happen if you said it 1,200 booster in the
+[00:20:00.760 --> 00:20:05.640]   beginning all the time and that's why we also have this restriction you know
+[00:20:05.640 --> 00:20:11.640]   after 90 days you'll be unlocked if there's someone that has already had you
+[00:20:11.640 --> 00:20:16.160]   know two infinity blocks for a long time and is very used to it had put his
+[00:20:16.160 --> 00:20:20.820]   picture in the blocks for many times if you want to get unlocked earlier yeah
+[00:20:20.820 --> 00:20:26.000]   keep sending an email to to support and they'll unlock you of course so we don't
+[00:20:26.000 --> 00:20:31.200]   want to not have these exceptions yeah you know that thank you for that that's
+[00:20:31.200 --> 00:20:35.520]   a really good explanation of what the boosters are I think there's a lot of
+[00:20:35.520 --> 00:20:40.280]   misconception from what I'm reading in terms of poll boosters people think of
+[00:20:40.280 --> 00:20:44.920]   it like an energy drink but you know a quantum energy which it is also it is
+[00:20:44.920 --> 00:20:49.160]   also right but yeah yeah that's the other side of the coin yeah I'm glad you're
+[00:20:49.160 --> 00:20:51.920]   bringing it up because certainly I don't want people to think well this is
+[00:20:51.920 --> 00:20:57.040]   just to you know bring up your stuff because that's not the case it really is
+[00:20:57.040 --> 00:21:02.560]   you know I mean we've had this this guy tell us that he drove I guess 21
+[00:21:02.560 --> 00:21:09.520]   hours with his car from West Coast to East Coast and and he would set like one
+[00:21:09.520 --> 00:21:15.480]   booster after another and damn he stayed awake he stayed completely focused like
+[00:21:15.480 --> 00:21:20.360]   the whole time and he said like I'm not even getting tired this is crazy this is
+[00:21:20.360 --> 00:21:25.280]   amazing right but he over did it and yeah actually got sick after that when he
+[00:21:25.280 --> 00:21:29.600]   when he when he arrived like I think a day later he was like sick for two days
+[00:21:29.600 --> 00:21:33.480]   and I could have told him beforehand like you're overdoing it because you're
+[00:21:33.480 --> 00:21:39.880]   you're just putting too much on to your system but I mean if you said a booster
+[00:21:39.880 --> 00:21:43.520]   or two or even three if you have you know something going on I do that
+[00:21:43.520 --> 00:21:48.120]   sometimes too like I feel exhausted in the afternoon and I still have to do
+[00:21:48.120 --> 00:21:51.800]   something like okay you know I'll just say the booster it gives me more energy
+[00:21:51.800 --> 00:21:56.200]   gives me more focus I can get stuff done and that's what you can use it for and
+[00:21:56.200 --> 00:21:59.760]   while we're at it maybe if you're interested I'm going to give people some
+[00:21:59.760 --> 00:22:05.320]   some ideas on how to leverage the boosters oh yeah please because yeah I
+[00:22:05.320 --> 00:22:09.520]   I think that's the booster seems to be the one thing that everybody has a lot
+[00:22:09.520 --> 00:22:15.880]   of questions about so yeah please keep going yeah so so here's what I do for
+[00:22:15.880 --> 00:22:20.720]   example and whatever recommend to to others so if you set a booster that means
+[00:22:20.720 --> 00:22:27.080]   you have a lot more energy available than in your usual settings and that energy
+[00:22:27.080 --> 00:22:32.600]   wants to be used right so what it is doesn't really matter I mean you can go
+[00:22:32.600 --> 00:22:36.760]   into a deep meditation if that's what you what you want to do and that's what
+[00:22:36.760 --> 00:22:42.720]   you feel you want to do another thing you can do is write a list of the one two or
+[00:22:42.720 --> 00:22:48.400]   three things that you've put off we all have these things right there's some
+[00:22:48.400 --> 00:22:52.960]   stuff that needs to be done and we're not quite doing it and it starts to drag
+[00:22:52.960 --> 00:22:57.960]   on our system because it's sort of this block it's it's blocking us on a certain
+[00:22:57.960 --> 00:23:01.880]   level because we're not getting it done we know we need to get it done and it's
+[00:23:01.880 --> 00:23:07.400]   like hanging there you know what I mean so write those on the list and then tell
+[00:23:07.400 --> 00:23:12.280]   yourself okay I'm gonna set this booster now and I'm gonna start working on this
+[00:23:12.280 --> 00:23:16.200]   list and you set your booster and you start working on it you'll see how
+[00:23:16.200 --> 00:23:21.640]   amazingly that will flow you're gonna get it done you're fully into it and there's
+[00:23:21.640 --> 00:23:26.400]   so much energy that's released and it makes you feel really good and then you
+[00:23:26.400 --> 00:23:31.120]   got the power to do that I don't know and if it's just you know cleaning up a
+[00:23:31.120 --> 00:23:35.400]   certain room that you haven't cleaned up for a long time whatever it may be and
+[00:23:35.400 --> 00:23:40.000]   so those are some things where you can leverage this specific energy or you're
+[00:23:40.000 --> 00:23:44.120]   you know if there's something you're in self-discovery mode right now and
+[00:23:44.120 --> 00:23:48.920]   there's something you just you know you wanted to always write down your thoughts
+[00:23:48.920 --> 00:23:55.280]   your creative thoughts on something you know then go do it just you know set set
+[00:23:55.280 --> 00:23:59.760]   the booster and and go do it but it doesn't mean you need to be very active
+[00:23:59.760 --> 00:24:03.640]   again you can be in a meditation or something like that or you do sports and
+[00:24:03.640 --> 00:24:09.160]   you want to have have this booster so those are certain ways on how you can
+[00:24:09.160 --> 00:24:13.080]   leverage it but just know you have a lot more energy available so you can
+[00:24:13.080 --> 00:24:19.200]   actually really leverage it with intention okay so not only just you know placing
+[00:24:19.200 --> 00:24:24.000]   your intention by creating this list but what did you recommend to you at that
+[00:24:24.000 --> 00:24:29.280]   at that moment in time let's say at noon today I you know I just really want to
+[00:24:29.280 --> 00:24:34.040]   get a you know a document finish that I have to turn it in or something and but
+[00:24:34.040 --> 00:24:39.360]   I've been procrastinating so would it be just not only just writing it down but
+[00:24:39.360 --> 00:24:44.480]   at noon when noon comes up then I just kind of center myself and then connect
+[00:24:44.480 --> 00:24:49.280]   you know to that intention with my you know consciously just saying okay I'm
+[00:24:49.280 --> 00:24:53.040]   gonna do it I mean you have to be in actively involved or just writing it
+[00:24:53.040 --> 00:24:59.160]   down and setting your boosters good enough you see what I'm saying yeah one
+[00:24:59.160 --> 00:25:02.880]   leads to the other I think because if you're setting the intention that you're
+[00:25:02.880 --> 00:25:08.520]   gonna you know work on this list of the three things you know you're you're most
+[00:25:08.520 --> 00:25:13.200]   likely actually also going to follow through okay all right so and then
+[00:25:13.200 --> 00:25:17.800]   you're obviously the action needs to be taken and that's one of those things in
+[00:25:17.800 --> 00:25:20.880]   general about the quantum upgrade that you know I also mentioned in the
+[00:25:20.880 --> 00:25:30.240]   interview with with Ariana summer it's you know we are still the drivers of our
+[00:25:30.240 --> 00:25:38.480]   life we're the co-creators and and that needs to stay that way so if if I eat
+[00:25:38.480 --> 00:25:46.440]   bad I only eat junk food I I never do fitness I don't go out into nature you
+[00:25:46.440 --> 00:25:51.040]   know I just sit on the sofa watch TV and eat junk food all the time and that's
+[00:25:51.040 --> 00:25:57.040]   pretty much all I do and then I set the and I'm in bad shape and bad health
+[00:25:57.040 --> 00:26:01.720]   because of it if I set the quantum upgrade and then I keep doing the same
+[00:26:01.720 --> 00:26:07.400]   stuff I've been doing I cannot expect that my life will significantly change
+[00:26:07.400 --> 00:26:13.240]   I will have the energy available to start initiating these changes but I'll I
+[00:26:13.240 --> 00:26:16.960]   still need to do certain things right certain things will will happen through
+[00:26:16.960 --> 00:26:21.640]   the energy on its own but we're still conscious beings that need to take
+[00:26:21.640 --> 00:26:27.220]   action and we can also decline right to do things but right but I think we're
+[00:26:27.220 --> 00:26:33.760]   called to maintain the drivers of this and not give up the responsibility to a
+[00:26:33.760 --> 00:26:40.800]   service or something no the service is a tool but we we work with the tool if
+[00:26:40.800 --> 00:26:45.480]   that makes sense yeah no it makes sense I think I think you know like our general
+[00:26:45.480 --> 00:26:50.640]   frame of reference as humans we've been kind of brainwashed into thinking that
+[00:26:50.640 --> 00:26:54.000]   you know you need to do something take a pill and the pill will do whatever the
+[00:26:54.000 --> 00:26:59.440]   pills supposed to do but quantum energy is not a pill it's consciousness it's
+[00:26:59.440 --> 00:27:03.360]   the energy of your own consciousness and tying to the universal field right I
+[00:27:03.360 --> 00:27:07.800]   mean it's you have to be engaged with it you have to let's I guess want it and
+[00:27:07.800 --> 00:27:13.200]   and okay yeah I mean I get it I you have to you have to be part a participant in
+[00:27:13.200 --> 00:27:18.280]   your own change you know it's like if you take a towel and all the towel is
+[00:27:18.280 --> 00:27:22.960]   gonna do what the towel and all does right but if you set up a all this all
+[00:27:22.960 --> 00:27:27.080]   this time and effort and sign up for the service and you don't you don't put
+[00:27:27.080 --> 00:27:31.280]   the energy into you know participating in the change it's not gonna happen
+[00:27:31.280 --> 00:27:35.320]   which is completely different than a chemical so is that is that a fair
+[00:27:35.320 --> 00:27:40.320]   assessment that's how I look at it yes yes to an extent absolutely to an
+[00:27:40.320 --> 00:27:44.720]   extent absolutely certain things again happen regardless right they you know
+[00:27:44.720 --> 00:27:49.360]   like things with the blood with the heart rate variability yeah yeah you feel
+[00:27:49.360 --> 00:27:56.280]   more energy those things they happen and there's no placebo effect right so
+[00:27:56.280 --> 00:28:00.000]   whether you believe in it or not whether you participated in it or not
+[00:28:00.000 --> 00:28:08.240]   you will have it but what this does is that your own consciousness is getting
+[00:28:08.240 --> 00:28:14.400]   way into the state of okay so now now what now what in my life now what's the
+[00:28:14.400 --> 00:28:19.680]   like next step what's the what's the right thing for me to do and if we then
+[00:28:19.680 --> 00:28:23.600]   start blocking that that's not gonna help us so that's the moment where we
+[00:28:23.600 --> 00:28:30.760]   need to participate that's where we can initiate change and all of that and yeah
+[00:28:30.760 --> 00:28:34.640]   so that's pretty much how I would explain it no yeah that's great that's
+[00:28:34.640 --> 00:28:41.240]   that's perfect thank you for expanding on that now let's see next one here is
+[00:28:41.240 --> 00:28:46.280]   the share function so there this is a new thing that's coming up right and is
+[00:28:46.280 --> 00:28:51.680]   it gonna come up in a couple of weeks well or I was under the impression that's
+[00:28:51.680 --> 00:28:55.680]   already alive but it may may take another week or two indeed but it
+[00:28:55.680 --> 00:29:00.200]   definitely within the next two weeks this will be available let me provide an
+[00:29:00.200 --> 00:29:04.080]   update in the group in the next couple days once I double check with the tech
+[00:29:04.080 --> 00:29:09.760]   team but so this is the function that people ask for let's say a dad signs up
+[00:29:09.760 --> 00:29:15.280]   you know hit himself his wife and his two kids and but you know the he doesn't
+[00:29:15.280 --> 00:29:20.440]   want to manage it for the kids they the kids should manage it on their own
+[00:29:20.440 --> 00:29:25.600]   right so then but he doesn't want the kids to just see all of his subscriptions
+[00:29:25.600 --> 00:29:34.480]   or maybe it says or I don't know yeah yeah and and so now there's a
+[00:29:34.480 --> 00:29:38.600]   functionality that they can also sign up he can basically share it with them
+[00:29:38.600 --> 00:29:44.440]   okay and then they will get access but only to this one subscription that is
+[00:29:44.440 --> 00:29:49.600]   for them they won't see anything else that the dad has and also won't be able
+[00:29:49.600 --> 00:29:53.520]   to make any account changes and stuff like that so I think that's a good
+[00:29:53.520 --> 00:29:58.000]   feature that people want to do that yeah that is that's fantastic because that's
+[00:29:58.000 --> 00:30:01.640]   the biggest question is like I want to help my friend but how do I I don't want
+[00:30:01.640 --> 00:30:05.520]   to give her my password so how do I how does she get to set her own settings all
+[00:30:05.520 --> 00:30:09.560]   the time without involving me perfect okay that's great that's gonna be really
+[00:30:09.560 --> 00:30:14.360]   helpful new feature coming up so okay so be on the lookout for that feature
+[00:30:14.360 --> 00:30:18.560]   that's great good to hear that one okay now the next thing you want to talk
+[00:30:18.560 --> 00:30:22.640]   about today was what's coming up with the frequencies get a lot of questions
+[00:30:22.640 --> 00:30:30.200]   about this in terms of adding frequencies to the quantum upgrade service so we're
+[00:30:30.200 --> 00:30:35.960]   looking at what Jan December to January and so how is that gonna work yes so I
+[00:30:35.960 --> 00:30:41.560]   think we're looking at January but we're we're yeah it may be December to be
+[00:30:41.560 --> 00:30:46.720]   honest and the way it's gonna work is that there's going to be like an extra
+[00:30:46.720 --> 00:30:53.240]   product that you can purchase that I don't have any details about yet because
+[00:30:53.240 --> 00:30:57.760]   we don't know how many frequencies will be part of that and I don't know the
+[00:30:57.760 --> 00:31:02.640]   cost of that we want to make it affordable but there's certain things we
+[00:31:02.640 --> 00:31:07.360]   need to look at and so this but technically it has to be an additional
+[00:31:07.360 --> 00:31:11.920]   product otherwise it technically wouldn't even work and then you will have
+[00:31:11.920 --> 00:31:16.840]   let's say there's eight frequencies in this frequency product if you will then
+[00:31:16.840 --> 00:31:24.160]   that's pretty much appears as a drop down in your my account you know what we
+[00:31:24.160 --> 00:31:31.680]   looked at earlier together that's where you will have frequencies and drop down
+[00:31:31.680 --> 00:31:39.200]   and you can pick one frequency only one at a time obviously okay and and some
+[00:31:39.200 --> 00:31:44.000]   user asked well would it be possible for you to build it in a way where we can
+[00:31:44.000 --> 00:31:49.440]   set a specific frequency for the daytime and one for the nighttime so now we're
+[00:31:49.440 --> 00:31:54.600]   also trying to implement that so I think that will be possible that feature and
+[00:31:54.600 --> 00:32:00.720]   then you can say okay I want the bio-based frequency for or the heal
+[00:32:00.720 --> 00:32:04.800]   frequency for the day and I want the inner piece frequency for the night as an
+[00:32:04.800 --> 00:32:08.920]   example okay and then certainly you will have the option to also turn it off
+[00:32:08.920 --> 00:32:14.600]   turn the frequency off again okay well that's great I that's yeah
+[00:32:14.600 --> 00:32:19.120]   something that everyone I see so many people asking about this so you'll be
+[00:32:19.120 --> 00:32:23.960]   able to customize it just like a booster and add it to your day and night so like
+[00:32:23.960 --> 00:32:29.040]   if I set a frequency for heal and I just say daytime then it's going to run
+[00:32:29.040 --> 00:32:32.720]   this like right here it's going to run all day for these hours and then the
+[00:32:32.720 --> 00:32:39.040]   nighttime one okay cool that's gonna be great okay that's coming up to really
+[00:32:39.040 --> 00:32:43.400]   exciting let's see we talked about cell phone so let's talk about this next was
+[00:32:43.400 --> 00:32:47.840]   the studies you've got some updates on some of the studies that you're running
+[00:32:47.840 --> 00:32:52.480]   of the upgrade service and I'm excited to hear about that this is where I really
+[00:32:52.480 --> 00:32:57.200]   piqued my interest but so what are you finding now yes so we're working
+[00:32:57.200 --> 00:33:02.360]   currently on a lifeblood analysis study that's and that's happening in Austria
+[00:33:02.360 --> 00:33:08.600]   with animals so this is very very exciting actually but it's it's also
+[00:33:08.600 --> 00:33:14.520]   difficult to do because you can imagine that you know animals they're not
+[00:33:14.520 --> 00:33:21.440]   especially keen on getting you know a job of their blood take and and things
+[00:33:21.440 --> 00:33:26.320]   like that and so it's a lot of things and you know that you know your your
+[00:33:26.320 --> 00:33:31.560]   daughters in that field so it's it's interesting but there's a very very
+[00:33:31.560 --> 00:33:40.120]   experienced vet in Austria quite famous one and she is running this study so
+[00:33:40.120 --> 00:33:47.040]   together with the Basa Institute so they're basically collaborating on this
+[00:33:47.040 --> 00:33:52.160]   project and yeah I have no idea how it's going and I don't know when it's gonna
+[00:33:52.160 --> 00:33:57.840]   be completed but my guess is it will be completed this year and that we will
+[00:33:57.840 --> 00:34:01.080]   then also be able to share those results and that's gonna be very
+[00:34:01.080 --> 00:34:06.520]   interesting so go ahead I'm sorry I was just gonna ask so it's kind of like
+[00:34:06.520 --> 00:34:12.440]   you've got the you know the the quantum upgrade service for dogs and so now
+[00:34:12.440 --> 00:34:18.200]   you're actually running studies on how that affects the dogs yes correct yeah
+[00:34:18.200 --> 00:34:24.400]   even though it's it's not gonna be just dogs oh I think they have cats as well
+[00:34:24.400 --> 00:34:32.040]   and they may even be horses involved so yeah I just know the rough with these
+[00:34:32.040 --> 00:34:37.200]   studies we only usually know the rough things that they're gonna test and
+[00:34:37.200 --> 00:34:42.800]   everything else is really always up to the institutes to to do and then we're
+[00:34:42.800 --> 00:34:49.480]   just waiting holding pattern and then we'll hopefully have good results okay
+[00:34:49.480 --> 00:34:53.040]   yeah you know I and I got to ask you right now because people ask all the time
+[00:34:53.040 --> 00:34:59.000]   but you know is there a time frame for adding cats and horses and livestock to
+[00:34:59.000 --> 00:35:04.520]   the other cats already oh you added it okay okay okay so cats are ready on the
+[00:35:04.520 --> 00:35:09.640]   service so now it's just a matter of livestock or other pets right yes and I
+[00:35:09.640 --> 00:35:16.440]   don't even know if we will do it or when okay yeah so if there's yeah I think
+[00:35:16.440 --> 00:35:20.800]   maybe horses is definitely something we could do and then with I don't know
+[00:35:20.800 --> 00:35:26.920]   chickens that would require actual that I think the names of the chickens if
+[00:35:26.920 --> 00:35:30.320]   they really have names and things they've made maybe a little bit more
+[00:35:30.320 --> 00:35:36.920]   complicated okay I can imagine okay okay so now we've got this other study ATP
+[00:35:36.920 --> 00:35:43.680]   production and cell regeneration yes that's an interesting one so that's
+[00:35:43.680 --> 00:35:53.880]   actually iron Mitchell works with the lab and that lab is focused on you know
+[00:35:53.880 --> 00:36:02.280]   fibroblast testing fibroblast you know they look at certain things like cell
+[00:36:02.280 --> 00:36:06.800]   generation ATP production all of that with actual human cells whether it's
+[00:36:06.800 --> 00:36:12.000]   lung cells your skin cells like all those different types of cells and that's
+[00:36:12.000 --> 00:36:19.680]   pretty much all what that lab does and I can already give here a quick quick
+[00:36:19.680 --> 00:36:25.600]   overview of the ATP production test that was just run last week and within the
+[00:36:25.600 --> 00:36:31.760]   first two to four hours the ATP production increased by six percent in
+[00:36:31.760 --> 00:36:36.760]   the charged cells which six percent may not sound like a lot but it actually is
+[00:36:36.760 --> 00:36:42.720]   quite a lot and it's it's significant it's a big difference to the normal and
+[00:36:42.720 --> 00:36:49.600]   ATP production is something that athletes for example yeah pay a lot of attention
+[00:36:49.600 --> 00:36:54.120]   to right so you have a great ATP production and so this is just another
+[00:36:54.120 --> 00:37:00.640]   way of showing what actually happens and this ATP production is basically the
+[00:37:00.640 --> 00:37:05.720]   energy production of the cell right it's not the energy that you have extra
+[00:37:05.720 --> 00:37:13.160]   available as a system it's then okay does it sell itself then even increase its
+[00:37:13.160 --> 00:37:17.880]   energy production right that is the question and the the answer so far is yes
+[00:37:17.880 --> 00:37:23.000]   they have to be more tests because when we look at longer time frames also and
+[00:37:23.000 --> 00:37:30.120]   certainly more tests I think right now those would was like four four samples
+[00:37:30.120 --> 00:37:36.240]   so far so we want to do more samples and then the cell regeneration it's still
+[00:37:36.240 --> 00:37:41.840]   something ongoing okay and so this is for the upgrade service for you right so
+[00:37:41.840 --> 00:37:45.840]   somebody were to subscribe right now I guess is you subscribe for the you then
+[00:37:45.840 --> 00:37:49.720]   what you're seeing right now in the lab and the studies ongoing is that it does
+[00:37:49.720 --> 00:37:55.160]   it actually does when turned on increase self ATP production which is yeah
+[00:37:55.160 --> 00:37:59.320]   basically you know for the pets as well right yeah definitely make that I mean
+[00:37:59.320 --> 00:38:03.840]   I'm making that assumption absolutely right if this works as well for ATP
+[00:38:03.840 --> 00:38:07.600]   production right yeah sure we're all mammals - you're all mammals that's
+[00:38:07.600 --> 00:38:14.040]   amazing because ATP production is typically a bioelectric functionality of
+[00:38:14.040 --> 00:38:17.640]   electrons hitting the mitochondria and the chondria you know generating energy
+[00:38:17.640 --> 00:38:22.480]   for the cell so that's pretty cool that you're actually on some energy manifest
+[00:38:22.480 --> 00:38:27.040]   in the physical reality on the you know realm right so wow that's gonna be a
+[00:38:27.040 --> 00:38:31.640]   killer study look forward to reading that one but yeah that's wow that's pretty
+[00:38:31.640 --> 00:38:37.000]   amazing what about brainwave testing I mean what's who's doing that and how's
+[00:38:37.000 --> 00:38:42.840]   that coming so there's gonna be a hopefully a regular brainwave testing
+[00:38:42.840 --> 00:38:47.040]   going on we don't know yet who will do that there there's a guy actually out the
+[00:38:47.040 --> 00:38:51.960]   telegram group yeah I saw that post right yeah he had reached out and so if
+[00:38:51.960 --> 00:38:57.440]   he's open to running some tests we're definitely gonna do that but there's
+[00:38:57.440 --> 00:39:03.120]   going to be an actual study that will involve brainwaves as one of the
+[00:39:03.120 --> 00:39:08.880]   aspects they'll be looking at I cannot say right now who does it but it's a
+[00:39:08.880 --> 00:39:13.560]   it's a larger company that's in the biohacking space they have a product
+[00:39:13.560 --> 00:39:19.200]   themselves that's that's pretty phenomenal it works really well and they're
+[00:39:19.200 --> 00:39:24.880]   currently exploring with us to make their product even better if it's if the
+[00:39:24.880 --> 00:39:30.560]   quantum upgrade is is added to that so so that's something that will be
+[00:39:30.560 --> 00:39:38.120]   conducted most likely in November and or December okay that's brainwave or is
+[00:39:38.120 --> 00:39:42.800]   that also the professional athlete study because no that's a separate one
+[00:39:42.800 --> 00:39:46.720]   the application that's the brainwave testing that's it's gonna be hard rate
+[00:39:46.720 --> 00:39:51.920]   variability is going to be brainwaves with EG and I think the third and
+[00:39:51.920 --> 00:39:57.760]   possibly a fourth aspect that they will look at but at this point I can't share
+[00:39:57.760 --> 00:40:04.480]   who the partner is okay yeah but I will at that time okay so the professional
+[00:40:04.480 --> 00:40:09.600]   athletes study would be the next one that's gonna be happening next year in
+[00:40:09.600 --> 00:40:17.680]   Austria and it will look at things like you know increasing performance you
+[00:40:17.680 --> 00:40:27.440]   know how do you say that faster recovery times will involve blood and things like
+[00:40:27.440 --> 00:40:33.600]   that possibly even ATP production as well okay all right that's awesome any any
+[00:40:33.600 --> 00:40:40.480]   plans for doing like a D-timer test to see if the service has any effect on
+[00:40:40.480 --> 00:40:46.520]   clotting yes we're we're working on that currently with the clinic in Florida
+[00:40:46.520 --> 00:40:54.440]   okay and they're there right now actually finding patients for that so and the
+[00:40:54.440 --> 00:41:00.160]   tricky part though is that they need to find patients that already have a bad
+[00:41:00.160 --> 00:41:06.840]   D-Dimer test to begin with because if you already have great D-Dimer levels
+[00:41:06.840 --> 00:41:12.400]   there's nothing to show right yeah exactly your tests would show you
+[00:41:12.400 --> 00:41:17.280]   fine so the D-Dimer wouldn't show anything right because that's what the
+[00:41:17.280 --> 00:41:20.280]   D-Dimer actually showed that micro blood clotting and if you don't have
+[00:41:20.280 --> 00:41:23.800]   micro blood clots then okay and showing you think so it's pointless and so
+[00:41:23.800 --> 00:41:29.360]   they're finding these patients right now and I don't know where that stands but
+[00:41:29.360 --> 00:41:34.660]   yeah hopefully they'll have enough patients relatively soon and then I
+[00:41:34.660 --> 00:41:40.640]   would guess that sometime in Q1 we can have results okay all right that's all
+[00:41:40.640 --> 00:41:45.920]   pretty pretty amazing and I just want to say you know for everyone listening to
+[00:41:45.920 --> 00:41:52.240]   this video that you know you're not gonna find very many if any companies in
+[00:41:52.240 --> 00:42:01.600]   this space right that spend so much time energy and money to conduct study after
+[00:42:01.600 --> 00:42:07.240]   study after study to back up the claims that are made about the product and I
+[00:42:07.240 --> 00:42:10.960]   just want to applaud you Philip because it's the reason I love you it's a
+[00:42:10.960 --> 00:42:15.560]   reason I love Layla you know because because there's there's
+[00:42:15.560 --> 00:42:20.720]   proof I mean I'm really right-brained I'm very you know methodical and and I'm
+[00:42:20.720 --> 00:42:25.880]   very right-brained and I bought in from the beginning because of the of your
+[00:42:25.880 --> 00:42:31.040]   dedication to saying hey this is real let me prove it to you and and just all
+[00:42:31.040 --> 00:42:34.280]   of this I mean who else does this level of studies I mean I don't know if
+[00:42:34.280 --> 00:42:37.880]   anybody else that does other than you know I mean people trying to you know
+[00:42:37.880 --> 00:42:43.320]   sell medical devices right but but yeah it's just amazing and the results are
+[00:42:43.320 --> 00:42:49.520]   unbelievable but I applaud you this is great I'm really looking forward to and
+[00:42:49.520 --> 00:42:52.880]   then of course anyone who's interested there already have been studies these
+[00:42:52.880 --> 00:42:57.800]   are not the first ones so as an FYI if you go into the quantum upgrade website
+[00:42:57.800 --> 00:43:02.000]   there's a section there of the research that's been done and the original studies
+[00:43:02.000 --> 00:43:07.280]   that were done to prior to launching the product and and the great enhancements
+[00:43:07.280 --> 00:43:11.960]   and blood and all that other stuff that already back up the claims and these
+[00:43:11.960 --> 00:43:16.160]   are just more studies so it's just this amazing yeah thank you okay so that's
+[00:43:16.160 --> 00:43:20.240]   that one and then the last one here you want you wanted to kind of announce to
+[00:43:20.240 --> 00:43:26.080]   the community is that you're launching a trauma release product as part of the
+[00:43:26.080 --> 00:43:29.640]   quantum upgrade service could you kind of describe that because I think that's
+[00:43:29.640 --> 00:43:35.320]   something that is also brought up a lot in the community as to you know how do
+[00:43:35.320 --> 00:43:39.360]   they work with trauma and I think it's I don't know if any human being hasn't
+[00:43:39.360 --> 00:43:43.320]   had any kind of trauma so I think this applies to all of us and I'm personally
+[00:43:43.320 --> 00:43:49.920]   really interested so what is this going to be about yep so this is going to be
+[00:43:49.920 --> 00:43:55.680]   probably added to the queue as well as to quantum upgrade because it's it's
+[00:43:55.680 --> 00:44:00.360]   going to be probably technically working separately from the quantum
+[00:44:00.360 --> 00:44:06.400]   upgrade but so we haven't figured that out it's it's it's not as easy to just
+[00:44:06.400 --> 00:44:11.680]   implement it and I think it'll be rather towards the end of queue one when we can
+[00:44:11.680 --> 00:44:18.640]   launch it and so the back story is that there's a pretty famous healer from
+[00:44:18.640 --> 00:44:26.840]   Austria that I've gotten to know at some point in his soul and main focus since
+[00:44:26.840 --> 00:44:34.400]   about 20 years has been to work on on traumas with people so and and any time
+[00:44:34.400 --> 00:44:39.120]   any type of trauma it doesn't really matter what type and he's bit he's able
+[00:44:39.120 --> 00:44:47.080]   to basically transform within 30 to 45 minutes with some tech that he's built
+[00:44:47.080 --> 00:44:52.760]   and his specific abilities there's specific process actually to go through
+[00:44:52.760 --> 00:45:02.240]   and he bring it's not that is just solved and transformed like in the just
+[00:45:02.240 --> 00:45:07.000]   in the energetic in the subconscious but no he he literally takes us into the
+[00:45:07.000 --> 00:45:14.200]   consciousness as well where the the person realizes what happened why it
+[00:45:14.200 --> 00:45:20.960]   happened and and why it was important and and now that it's changing so much
+[00:45:20.960 --> 00:45:25.680]   energy is being released because this trauma is indeed solved and and you
+[00:45:25.680 --> 00:45:31.800]   literally feel this influx of energy suddenly because this trauma is gone so
+[00:45:31.800 --> 00:45:39.320]   that's it's very profound work that he's doing and then we spoke and we
+[00:45:39.320 --> 00:45:45.960]   actually connected what he's doing with what we're doing and it was almost as
+[00:45:45.960 --> 00:45:53.720]   if these two like energies like loved each other like incredibly and it's now
+[00:45:53.720 --> 00:45:59.760]   possible to do this within five minutes well and we tested that over and over
+[00:45:59.760 --> 00:46:06.800]   again and it really applies to to to any type of trauma and which is very
+[00:46:06.800 --> 00:46:12.120]   profound and and by the way I mean it doesn't need to be this huge trauma that
+[00:46:12.120 --> 00:46:17.040]   we're aware of we had a car accident and you know my mother died and then I
+[00:46:17.040 --> 00:46:20.960]   survived it you know that that's like a very tough trauma that we're still aware
+[00:46:20.960 --> 00:46:25.920]   of but there's hundreds of other types of trauma that that we have you know from
+[00:46:25.920 --> 00:46:31.160]   childhood you know could be the past life traumas and and other things that
+[00:46:31.160 --> 00:46:37.040]   are not as like deep but they still block us right so there's just a whole
+[00:46:37.040 --> 00:46:41.680]   bunch of stuff that we can go through and this will be a tool where we can sit
+[00:46:41.680 --> 00:46:47.960]   on the sofa literally at home not eating junk food please but then go
+[00:46:47.960 --> 00:46:55.680]   through then go through this process and and just work through it and get it
+[00:46:55.680 --> 00:47:01.640]   done and get it released so I think it's going to be great and yeah so we're
+[00:47:01.640 --> 00:47:04.760]   looking forward to that we'll provide more information as we get closer to
+[00:47:04.760 --> 00:47:08.800]   that and and how we'll roll it out okay thank you because I know people have been
+[00:47:08.800 --> 00:47:12.880]   asking I think you mentioned a trauma product a few videos ago and people
+[00:47:12.880 --> 00:47:16.320]   continue to ask about it you know you can see that it's top of mind for a lot
+[00:47:16.320 --> 00:47:20.460]   of folks which is you know it's sad that you know so many people are
+[00:47:20.460 --> 00:47:25.280]   suffering from it but what you just described is is wonderful and I'm
+[00:47:25.280 --> 00:47:28.560]   really looking forward to that and and for anyone who's out there that that may
+[00:47:28.560 --> 00:47:33.840]   not you know I'm a tinker I study research greed all the time and if you
+[00:47:33.840 --> 00:47:38.180]   want there's a really interesting TED talk out there on YouTube where it's a
+[00:47:38.180 --> 00:47:42.880]   psychologist or psychiatrist talking about studies that was done a study that
+[00:47:42.880 --> 00:47:48.400]   was done a very detailed study on actual how trauma can shorten your life they
+[00:47:48.400 --> 00:47:53.480]   did a study in like 17,000 people and they showed that people who carry trauma
+[00:47:53.480 --> 00:47:58.160]   with them live shorter lives and are more prone to disease you know so trauma
+[00:47:58.160 --> 00:48:03.600]   can affect you more than just ruin your day it can affect your life physical
+[00:48:03.600 --> 00:48:09.000]   longevity it is something that you need to take serious find a way to work with
+[00:48:09.000 --> 00:48:13.360]   it however you can but I'm really excited that this product is coming out I think
+[00:48:13.360 --> 00:48:18.600]   it'll be incredibly beneficial to so many people but yeah that's great okay
+[00:48:18.600 --> 00:48:22.640]   I'd be very interested in this study actually yeah okay yeah I'll send you the
+[00:48:22.640 --> 00:48:25.800]   link to the video yeah it was I was I just you know cuz I have my I have my
+[00:48:25.800 --> 00:48:29.720]   other tg group right and so I every now and then I jump in there and I do a
+[00:48:29.720 --> 00:48:33.240]   little mini study and I post a bunch about just trying to share knowledge
+[00:48:33.240 --> 00:48:36.200]   right and so I think it was like a last week or something I did a thing on
+[00:48:36.200 --> 00:48:42.160]   mind viruses and and I found that video and it's pretty amazing but you know
+[00:48:42.160 --> 00:48:47.800]   there's also the concept of a mind of virus which is another way as another
+[00:48:47.800 --> 00:48:51.640]   person who works with as a healer they talk about you know trauma is a mind
+[00:48:51.640 --> 00:48:56.520]   virus and how it affects your your bio field and all of that and how it affects
+[00:48:56.520 --> 00:48:59.920]   your life and I brought in the physical aspect of it with the Ted's you know so
+[00:48:59.920 --> 00:49:03.440]   I kind of did that right just to kind of really try to help people understand
+[00:49:03.440 --> 00:49:07.280]   the importance of dealing with people's trauma because you know I don't know
+[00:49:07.280 --> 00:49:12.080]   well you know this right as as an adult male or male in our society we're
+[00:49:12.080 --> 00:49:16.800]   taught we're taught to bury everything right I mean I'm sure as a healer you
+[00:49:16.800 --> 00:49:21.120]   you've worked with so many men and we're all tautages you know walking off you
+[00:49:21.120 --> 00:49:26.000]   know shake it off and and you know and we're not allowed to you know society
+[00:49:26.000 --> 00:49:30.480]   does not allow us to express whereas you know whereas women typically it's
+[00:49:30.480 --> 00:49:34.280]   acceptable and so you've got a lot of men I mean a lot of men are carrying
+[00:49:34.280 --> 00:49:38.720]   everything that ever happened to them their entire life and they carry it with
+[00:49:38.720 --> 00:49:42.360]   them their whole lives and maybe I'm not just speculating maybe that's why men
+[00:49:42.360 --> 00:49:46.720]   die sooner than women because you know there's some correlation there right
+[00:49:46.720 --> 00:49:50.800]   because men are taught men are taught not to deal with trauma men are taught to
+[00:49:50.800 --> 00:49:56.040]   bury it and move on and we all die we all die sooner than women gee what a
+[00:49:56.040 --> 00:50:00.040]   surprise so I think it's something yeah very important I think this will be a
+[00:50:00.040 --> 00:50:04.920]   monumental service and a good point and then if we think about our kids it's
+[00:50:04.920 --> 00:50:10.400]   like these things we usually pass on to our kids as well so yeah that's
+[00:50:10.400 --> 00:50:15.160]   something so it's it's really you know if we do the work you know it's not only
+[00:50:15.160 --> 00:50:22.160]   benefiting us it's it's really also benefiting our kids yeah oh yeah there's
+[00:50:22.160 --> 00:50:25.840]   a whole discussion on parenting and she you know where there's where does the
+[00:50:25.840 --> 00:50:29.280]   original she come from every time someone's born and all that yeah how
+[00:50:29.280 --> 00:50:32.440]   much you carry forward all that stuff but yeah that's the thing I was trying to
+[00:50:32.440 --> 00:50:36.000]   I was trying to talk about us traumas like I knew mentioned it is like some of
+[00:50:36.000 --> 00:50:41.160]   your traumas are not from this lifetime and and if you have an irrational fear
+[00:50:41.160 --> 00:50:44.760]   that you have no basis for yeah you probably brought that with you into this
+[00:50:44.760 --> 00:50:48.320]   lifetime like I haven't I have an irrational fear of high up not I don't
+[00:50:48.320 --> 00:50:52.000]   have fear of heights I have a fear of falling from heights and I don't know
+[00:50:52.000 --> 00:50:54.920]   where because I you know I know my entire life I never fell in you know I
+[00:50:54.920 --> 00:50:58.760]   never fell down from anything high but why do I feel that way and it's it's
+[00:50:58.760 --> 00:51:03.800]   beyond you know it's it's terrifying to me you know and yeah and I'm all I could
+[00:51:03.800 --> 00:51:07.240]   think of this man I must have brought that with me because I have no reason to
+[00:51:07.240 --> 00:51:12.600]   be afraid of falling from heights you know I know so yeah I share that one
+[00:51:12.600 --> 00:51:19.040]   actually I share that one so yeah so when when Kuan and I were in Italy and now
+[00:51:19.040 --> 00:51:24.760]   this last summer there's this one at the Amalfi Coast there's this one hike it's
+[00:51:24.760 --> 00:51:30.600]   called the path of the gods and it just sounded so absolutely amazing and and
+[00:51:30.600 --> 00:51:35.600]   we said that we're gonna do it so we started at 6 a.m. in the morning and but
+[00:51:35.600 --> 00:51:42.520]   then you go up all the way and it's literally there's no for about an hour
+[00:51:42.520 --> 00:51:47.720]   there's nothing on the side and it goes down like hundreds of meters like
+[00:51:47.720 --> 00:51:54.440]   straight and these cliffs and yeah in between I felt like I can't do it you
+[00:51:54.440 --> 00:52:00.800]   know I can't do it but but I did it eventually and it felt really good and
+[00:52:00.800 --> 00:52:04.160]   I've probably released some of that trauma while just going through it but
+[00:52:04.160 --> 00:52:10.680]   yeah I know how those fields it's so so crazy yeah yeah it's just weird yeah
+[00:52:10.680 --> 00:52:14.760]   it's weird to have a trauma you know like a panic attack or anxiety about
+[00:52:14.760 --> 00:52:18.160]   something that you have no idea why and then and then you start doing the
+[00:52:18.160 --> 00:52:22.440]   inner work and you realize like oh it's not mine it's the last one and I gotta
+[00:52:22.440 --> 00:52:26.280]   get rid of it and and and you know and and then trying to do that kind of work
+[00:52:26.280 --> 00:52:30.640]   so yeah no great I am really looking forward to this product so but that okay
+[00:52:30.640 --> 00:52:33.400]   so I know I want to be conscious of your time and you got a hard stop in just a
+[00:52:33.400 --> 00:52:37.480]   few minutes so I just want to say hey thank you very much that was a great
+[00:52:37.480 --> 00:52:43.280]   update lots of really cool new features new new services new products coming up
+[00:52:43.280 --> 00:52:47.280]   this is a great update and I just want to say thank you Phil for your time this
+[00:52:47.280 --> 00:52:51.480]   morning I think it's it's so helpful for the community to be able to share this
+[00:52:51.480 --> 00:52:55.240]   and keep everybody up to date and with all the latest news so thank you so much
+[00:52:55.240 --> 00:53:01.720]   for your time this morning thank you K you're amazing hey thanks a lot yeah I
+[00:53:01.720 --> 00:53:07.560]   just I'm I'm the conduit they keep the community going yeah so and then thank
+[00:53:07.560 --> 00:53:12.460]   God for Emma poor woman's overworked now that she's got two groups and we're
+[00:53:12.460 --> 00:53:16.840]   fighting the spammers I you know I swear the spammers lately oh my gosh
+[00:53:16.840 --> 00:53:19.840]   there's so many fake Phillips hey by the way did you know that there was a
+[00:53:19.840 --> 00:53:25.200]   fake calmer I feel so like yeah I do feel like so adored now because now
+[00:53:25.200 --> 00:53:28.560]   they're actually you know pretending they're spoofing me and I think I hit
+[00:53:28.560 --> 00:53:32.760]   the time because Emma was laughing she's like you know you you really are you
+[00:53:32.760 --> 00:53:38.800]   really made it in the internet world when people start spoofing you there's
+[00:53:38.800 --> 00:53:42.880]   a fake calmer out there we had to kill and but there's fake Phillips popping up
+[00:53:42.880 --> 00:53:46.720]   all the time so just a heads up in our telegram chat room we just want to
+[00:53:46.720 --> 00:53:51.040]   remind you that nobody from Layla or even myself is gonna reach out to you
+[00:53:51.040 --> 00:53:55.600]   unless you asked a question or you asked us something and we're responding
+[00:53:55.600 --> 00:54:00.440]   directly to you but normally we're not going to just pop in and say hey hi how
+[00:54:00.440 --> 00:54:04.160]   are you enjoying the certain we're not going to do that those are spammers so
+[00:54:04.160 --> 00:54:10.160]   yeah if I get messages from people that just say hi or hello yeah yeah that's
+[00:54:10.160 --> 00:54:15.160]   you know I block you know I go to the group right away ban them and and block
+[00:54:15.160 --> 00:54:20.720]   them because no one does that that just says hi or right exactly and but I mean
+[00:54:20.720 --> 00:54:25.760]   if you send a real sentence obviously that will never happen right yeah no I
+[00:54:25.760 --> 00:54:30.360]   actually you know as a moderator I'm literally banning spammers like I'd say
+[00:54:30.360 --> 00:54:34.280]   three to five a day sometimes it goes up to a dozen or two like we had a massive
+[00:54:34.280 --> 00:54:38.160]   spam attack a couple weekends ago and Emma and I were throwing out like left
+[00:54:38.160 --> 00:54:41.320]   and right it was just like I think we got hit by a bot or something and there was
+[00:54:41.320 --> 00:54:46.080]   like about 24 to 30 fake accounts we were just you know and it was just this
+[00:54:46.080 --> 00:54:51.040]   peak activity and it was crazy but you know that's part of life right there's
+[00:54:51.040 --> 00:54:54.600]   never going to have life without people out there trying to scam somebody so
+[00:54:54.600 --> 00:55:00.000]   heads up everybody but you know what doesn't detract from enjoying the service
+[00:55:00.000 --> 00:55:03.960]   which is completely separate we're talking just about telegram and we do
+[00:55:03.960 --> 00:55:06.720]   want to you know but it doesn't detract from join us on telegram if you got any
+[00:55:06.720 --> 00:55:10.240]   questions about the quantum upgrade service that's where you can reach us
+[00:55:10.240 --> 00:55:15.520]   for questions and support and anything else and so the links below to our
+[00:55:15.520 --> 00:55:20.840]   quantum upgrade IO chat group on telegram you know definitely come and join us if
+[00:55:20.840 --> 00:55:23.960]   you want to reach Philip that's where you're gonna find him and then for me I'm
+[00:55:23.960 --> 00:55:28.040]   at the Tinkers Academy I'm I'm also in the chat group but you can always find me
+[00:55:28.040 --> 00:55:33.000]   I have a blog where I basically post everything that I could post to support
+[00:55:33.000 --> 00:55:37.120]   the Leila and that support the quantum upgrade website so I kind of have
+[00:55:37.120 --> 00:55:41.360]   extra material there that they haven't had a chance to kind of fold into their
+[00:55:41.360 --> 00:55:45.880]   website plus all my other videos about it so you can find out a lot about quantum
+[00:55:45.880 --> 00:55:51.640]   upgrade and IO I mean quantum Leila tick on my blog so you know come on over if
+[00:55:51.640 --> 00:55:55.840]   you want to talk with me I'm there Tinkers.academy and then lastly you know
+[00:55:55.840 --> 00:55:58.640]   the one thing I do want to recommend for anyone out there that's on the fence
+[00:55:58.640 --> 00:56:02.760]   and saying hey you know this is kind of pricey blah blah you know hey that don't
+[00:56:02.760 --> 00:56:08.160]   forget there's a free trial okay so if you just want to try it just that's why
+[00:56:08.160 --> 00:56:13.520]   there's a free trial no one's asking anyone to do anything you know you know
+[00:56:13.520 --> 00:56:17.320]   that you know you're gonna lose money on that this is not about that this is
+[00:56:17.320 --> 00:56:20.720]   about helping people so that's why the free trial I want to always emphasize
+[00:56:20.720 --> 00:56:24.680]   that to everybody out there that you know hey definitely go try that you can
+[00:56:24.680 --> 00:56:29.520]   try it before you buy it and get a feel for it and they're go from there but
+[00:56:29.520 --> 00:56:36.240]   then that though Philip any parting words no just thank you to you thanks to Emma
+[00:56:36.240 --> 00:56:41.280]   and thanks to everyone in the in the community for for participating for
+[00:56:41.280 --> 00:56:47.040]   asking questions for for providing answers and and points of views and
+[00:56:47.040 --> 00:56:54.120]   it's it's just amazing to see it's a great community and yeah I'm just very
+[00:56:54.120 --> 00:56:58.080]   grateful yeah thanks everybody you know without you we wouldn't be doing all
+[00:56:58.080 --> 00:57:03.800]   these new features and ideas so keep them coming I guess that's like you got a
+[00:57:03.800 --> 00:57:08.520]   big enough list right now but you know what we welcome feedback so thank you
+[00:57:08.520 --> 00:57:12.320]   everyone out there for taking the time to watch the video thank you Philip and
+[00:57:12.320 --> 00:57:16.640]   and have a great day everybody Aloha
+

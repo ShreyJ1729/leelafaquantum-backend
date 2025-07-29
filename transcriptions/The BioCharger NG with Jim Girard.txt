@@ -1,0 +1,1302 @@
+
+[00:00:00.000 --> 00:00:04.760]   Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and today
+[00:00:04.760 --> 00:00:11.120]   I have got a great pleasure to be doing an interview with Jim Gerard on the bio-charger
+[00:00:11.120 --> 00:00:17.120]   and G. It is just going to be a fascinating discussion if you haven't known who you know
+[00:00:17.120 --> 00:00:21.360]   you don't know who Jim Gerard is. Let me go ahead and I'll just do a quick intro and then
+[00:00:21.360 --> 00:00:27.120]   Jim will bring you in. Well Jim is the original developer of what I would coin the phrase as
+[00:00:27.120 --> 00:00:34.120]   a biophotonic multi-wave oscillator and so he's got over 30 years of research into energy
+[00:00:34.120 --> 00:00:40.320]   and energy devices and so forth and he was the original person who decided that he would
+[00:00:40.320 --> 00:00:45.920]   modernize the original Likovsky multi-wave oscillator. Way back I guess you started to
+[00:00:45.920 --> 00:00:50.520]   come up with the idea in the 80s right and then released it in '93 and I think one of
+[00:00:50.520 --> 00:00:54.640]   the most amazing things is just you know just you've been working on this thing for decades
+[00:00:54.640 --> 00:00:59.040]   and there's this evolution of these devices but one of the most interesting things about
+[00:00:59.040 --> 00:01:04.640]   your background Jim is I guess in 1988 you know you worked under Dr. Orville Fritz who
+[00:01:04.640 --> 00:01:09.240]   was a prodigy of Nicholas Tesla and so I guess you know yeah I mean that would be just such
+[00:01:09.240 --> 00:01:15.840]   an amazing opportunity but to be able to study under one of Tesla's prodigies is amazing
+[00:01:15.840 --> 00:01:20.440]   to even just hear and I've got so many questions about that but but anyway so you worked with
+[00:01:20.440 --> 00:01:25.640]   him and for a while and then that's and then after that you came up with the idea for
+[00:01:25.640 --> 00:01:31.080]   the first version of the upgraded you know Likovsky multi-wave oscillator so we'll get
+[00:01:31.080 --> 00:01:37.320]   into that in a second here so now currently though as of 2013 Jim is now the lead research
+[00:01:37.320 --> 00:01:43.000]   and developer for the Biocharger NG product that's now formed into a bigger company not
+[00:01:43.000 --> 00:01:48.080]   just Jim by yourself right and and so you're the lead developer there and just doing some
+[00:01:48.080 --> 00:01:51.240]   amazing work so that's what we're going to be talking about everybody today we're going
+[00:01:51.240 --> 00:01:57.200]   to be talking about the Biocharger about how it became into being and really just really
+[00:01:57.200 --> 00:02:03.560]   looking at the Biocharger from the standpoint of not so much you know you know like you know
+[00:02:03.560 --> 00:02:08.320]   how it's being used but like really how does it compare to all of the other devices out
+[00:02:08.320 --> 00:02:13.600]   there in the bio electrical magnetic space whether you're a biohacker and you collect
+[00:02:13.600 --> 00:02:17.800]   different devices and always are trying new things or you're a wellness center or you run
+[00:02:17.800 --> 00:02:22.360]   a clinician your clinician and you're running a center and you're looking for new ways to
+[00:02:22.360 --> 00:02:26.920]   generate revenue for your for your business you know it that's what this conversation is
+[00:02:26.920 --> 00:02:30.800]   going to be about it's like how does the Biocharger fit into all of that and how does it compare
+[00:02:30.800 --> 00:02:36.160]   to all of the different devices that so many of us have and you know I'm as an avid biohacker
+[00:02:36.160 --> 00:02:40.360]   for a couple of decades now I have a ton of devices I make videos on them so we're going
+[00:02:40.360 --> 00:02:45.920]   to be talking about that from that aspect but before I jump in I do want to just do a
+[00:02:45.920 --> 00:02:50.600]   quick disclaimer here and the Biocharger NG is not a medical device that is not intended
+[00:02:50.600 --> 00:02:55.400]   for use in the diagnosis of treatment or of disease or other conditions or in the cure
+[00:02:55.400 --> 00:03:00.160]   mitigation treatment or prevention of disease or other conditions in man or other animals
+[00:03:00.160 --> 00:03:04.720]   so there you go so anyway welcome Jim welcome to to the interview I really appreciate your
+[00:03:04.720 --> 00:03:09.520]   time today yeah thank you for having me looking forward to it yeah you know so I guess the
+[00:03:09.520 --> 00:03:13.760]   first thing I really kind of wanted to share with people is you know this is what you brought
+[00:03:13.760 --> 00:03:18.520]   to the table I mean in so many of your other interviews you make a comment about hey what
+[00:03:18.520 --> 00:03:24.560]   would look off ski and Tesla and Rife right what would those gentlemen do if they had
+[00:03:24.560 --> 00:03:29.320]   access to today's technology and then that's where you you know I guess you just really
+[00:03:29.320 --> 00:03:34.480]   that's that's the perspective in which you've developed you know the Biocharger so could
+[00:03:34.480 --> 00:03:38.380]   you kind of just share with us like you know like the evolution of it you know because in
+[00:03:38.380 --> 00:03:42.000]   a prior video I kind of talked about like you're the you're the guy that came along literally
+[00:03:42.000 --> 00:03:46.840]   50-60 years later right after lacoskey created the first multi-wave oscillator which really
+[00:03:46.840 --> 00:03:51.760]   introduced you know just electro therapy I mean it's one of the many devices of that
+[00:03:51.760 --> 00:03:55.880]   era but it's one of the ones that survived right I guess would be the best way to say
+[00:03:55.880 --> 00:04:00.040]   it but you know you've developed so many different versions and let's just talk about it let's
+[00:04:00.040 --> 00:04:05.600]   start off with like you know how did you get the inspiration to actually modify the lacoskey
+[00:04:05.600 --> 00:04:12.400]   and start creating your own version yeah so in the mid 80s I came across the work of
+[00:04:12.400 --> 00:04:18.920]   Nikola Tesla was very fascinated with you know that world of possibility it really opened
+[00:04:18.920 --> 00:04:24.400]   up my eyes so at the time I had a I was in college and in high school and college had
+[00:04:24.400 --> 00:04:32.800]   a landscaping company was my feeling was I was exposed to a bunch of the pesticides herbicides
+[00:04:32.800 --> 00:04:38.960]   started to come down with alopecia so I went to an all organic farm convention and believe
+[00:04:38.960 --> 00:04:44.680]   it or not that's where I first learned about Nikola Tesla and that started my journey down
+[00:04:44.680 --> 00:04:51.560]   this road and you know throughout that that journey I'd had many early mentors that helped
+[00:04:51.560 --> 00:05:00.000]   me along that path and so I began experimenting with Nikola Tesla's work in the you know like
+[00:05:00.000 --> 00:05:05.880]   I said in mid 80s and was building all-site sorts of Tesla coils I was building you know
+[00:05:05.880 --> 00:05:13.840]   conical coils pancake coils double-ended open coils large ones that were shooting ten
+[00:05:13.840 --> 00:05:22.560]   footers and then about a year later I came across the the Secret of Life by George Zohofsky
+[00:05:22.560 --> 00:05:31.200]   and that got me curious about you know just that whole electro medicine and so I built
+[00:05:31.200 --> 00:05:38.400]   some base off of the earlier designs using the concentric rings and you know I had one
+[00:05:38.400 --> 00:05:42.320]   setup that I was using with concentric ring it was more of a weed-out coil not so much
+[00:05:42.320 --> 00:05:48.800]   the lahoskey where it was a double-ended open coil where I had two antennas and then you
+[00:05:48.800 --> 00:05:57.440]   would sit in between that and it was really really inspired me got me curious about it
+[00:05:57.440 --> 00:06:06.360]   so as I started to read more about this and you know discovered it wasn't just lahoskeys
+[00:06:06.360 --> 00:06:10.320]   work but there was a bunch of other research that was out there I'm sure many of you are
+[00:06:10.320 --> 00:06:16.920]   familiar with Royal Rife but as well as you know the Violet Ray machine and as I started
+[00:06:16.920 --> 00:06:25.320]   digging deeper I was at Purdue University and I found an electrical therapy handbook
+[00:06:25.320 --> 00:06:35.280]   of 1901 1902 it was almost 2000 pages of different devices and so I took a lot of that research
+[00:06:35.280 --> 00:06:40.840]   and saw that you know there was a light component you know so lahoskeys basic design was producing
+[00:06:40.840 --> 00:06:46.560]   multiple wavelengths so I wanted to introduce the visible light spectrum so really my first
+[00:06:46.560 --> 00:06:53.880]   claim to fame was the multi-gas tubes that was added to a test of coil that I was using
+[00:06:53.880 --> 00:06:58.980]   now I dropped one of the antennas but sort of made it more like a campfire type of thing
+[00:06:58.980 --> 00:07:06.320]   where multiple people could sit around and started selling that version in 1993 it was
+[00:07:06.320 --> 00:07:14.480]   bells at the time so I sold quite a few of them actually had an interest of a venture
+[00:07:14.480 --> 00:07:22.520]   capitalist so we ended up reading a spectrum analyzer it analyzed all these different devices
+[00:07:22.520 --> 00:07:28.400]   I was experimenting with and he was also working with the PMF system with the Panos Papis so
+[00:07:28.400 --> 00:07:34.160]   we were just really curious to understand what were the waveforms that were being generated
+[00:07:34.160 --> 00:07:42.400]   so you know began measuring these different devices that were out there and found that
+[00:07:42.400 --> 00:07:46.760]   you know especially with that spark gap design it was really that spark gap that was creating
+[00:07:46.760 --> 00:07:52.440]   the multiple wavelengths so by adding that visible light spectrum really expanded the
+[00:07:52.440 --> 00:08:00.480]   whole field of it all and you know I had a few ups and downs with it don't really want
+[00:08:00.480 --> 00:08:08.320]   to get into too much of the story behind it but got a few patents that were on it ended
+[00:08:08.320 --> 00:08:15.960]   up you know given it given that to you know to the business you know we ended up going
+[00:08:15.960 --> 00:08:22.960]   our separate ways so I wanted to continue to evolve the system and about that time also
+[00:08:22.960 --> 00:08:32.160]   1994 1995 was the first right machine that I had built so I took a short wave 1920s back
+[00:08:32.160 --> 00:08:38.880]   into crystal radio 100 watt it I modified it so I could do the pulse with my modulation
+[00:08:38.880 --> 00:08:46.440]   I was using a function generator to you know mimic a similar to what Rife was doing I really
+[00:08:46.440 --> 00:08:51.720]   didn't see that as a viable market but I was really very interested in the design part
+[00:08:51.720 --> 00:08:57.320]   of the problem with what I saw that earlier version of the Rife was it was totally analog
+[00:08:57.320 --> 00:09:02.600]   so it was it took a little while to set each frequency and it would be very cumbersome
+[00:09:02.600 --> 00:09:08.960]   to operate so I really liked the you know that that design that we had you know with
+[00:09:08.960 --> 00:09:15.600]   the spark gap and but I wanted to continue to evolve it and then I think it was about
+[00:09:15.600 --> 00:09:25.800]   2003 2004 I came out with the advanced biocharger that added a way of pulsing it a little bit
+[00:09:25.800 --> 00:09:33.800]   so I liked that that idea of being able to vary the the output with it so you can pulse
+[00:09:33.800 --> 00:09:40.080]   it off and on like a Rife machine and then in 2012 I sort of made it automated where
+[00:09:40.080 --> 00:09:45.880]   I could you know I had pulsed at three different frequencies I could use four hertz I could
+[00:09:45.880 --> 00:09:52.640]   do 7.8 three hertz I could do 20 hertz but I really saw that there was a big limitation
+[00:09:52.640 --> 00:09:59.040]   on really creating like a Rife machine and that was mainly because with the spark gap
+[00:09:59.040 --> 00:10:06.640]   design you have you know high voltage neon type transformer and as you pulsed at higher
+[00:10:06.640 --> 00:10:12.280]   frequencies you have these hysteresis losses in the transformers and they would either
+[00:10:12.280 --> 00:10:16.540]   burn up or wouldn't function properly across the spark gap wouldn't give you the right
+[00:10:16.540 --> 00:10:26.580]   voltage so in about 2013 I decided to do a vacuum tube so I ended up doing a vacuum
+[00:10:26.580 --> 00:10:32.260]   tube test the coil at that point and that allowed me to do modulation with it and I
+[00:10:32.260 --> 00:10:36.940]   sort of made it like a Rife machine so I actually had an analog function generator attached
+[00:10:36.940 --> 00:10:46.800]   to it and was about ready to release that and I drew some interest of a couple of people
+[00:10:46.800 --> 00:10:54.520]   wanted to invest into this and so we formed a company they invested a couple million dollars
+[00:10:54.520 --> 00:11:00.000]   into the company they surrounded me a bunch of engineers and took my basic design and
+[00:11:00.000 --> 00:11:05.220]   as you alluded to earlier we looked at it as you know what would Rife or Lahoski or these
+[00:11:05.220 --> 00:11:14.660]   guys do in the 21st century with this would they be using spark gap or vacuum tube which
+[00:11:14.660 --> 00:11:25.760]   is really 1890s 1920s technology and so we decided to make it solid state and then you
+[00:11:25.760 --> 00:11:29.720]   know we wanted to be able to you know control it and be able to program it but not like
+[00:11:29.720 --> 00:11:34.820]   an analog programming but actually be able to create you know digitally these recipes
+[00:11:34.820 --> 00:11:42.260]   of programs that would sequence through this and then so with that concept in mind we created
+[00:11:42.260 --> 00:11:47.600]   the biocharger and gene so you know one of the first things we ended up doing is again
+[00:11:47.600 --> 00:11:53.500]   writing a or getting a spectrum analyzer we had a third party spectral analysis to just
+[00:11:53.500 --> 00:11:57.420]   really understand what we were doing with it you know we wanted to make sure we were
+[00:11:57.420 --> 00:12:03.980]   producing those variable frequencies and harmonics and we were very excited when we saw the
+[00:12:03.980 --> 00:12:10.300]   spectral analysis that we received at variable frequencies and harmonics even even more exciting
+[00:12:10.300 --> 00:12:16.400]   was you know we theoretically predicted what those harmonics would be produced and they
+[00:12:16.400 --> 00:12:23.100]   actually you know we confirmed that with 30 third party spectral analysis so now we had
+[00:12:23.100 --> 00:12:29.940]   this platform called biocharger and gene and in 2015 we started selling our first version
+[00:12:29.940 --> 00:12:37.260]   and I mean the first one and you know since then I think we've sold almost 3,000 systems
+[00:12:37.260 --> 00:12:43.180]   worldwide in 48 countries now so that's remarkable and sort of the evolution behind
+[00:12:43.180 --> 00:12:47.180]   you know the thought process but we really wanted to combine a lot of these different
+[00:12:47.180 --> 00:12:53.180]   works you know and as I started to understand exactly what we were doing and I saw all these
+[00:12:53.180 --> 00:12:57.620]   different fields that we were also producing with it so we had this electric field we have
+[00:12:57.620 --> 00:13:02.540]   a magnetic field we have this variable frequencies and harmonics and we have light you know so
+[00:13:02.540 --> 00:13:07.060]   we're sort of bringing together many of these different technologies that are out there are
+[00:13:07.060 --> 00:13:11.420]   some of that PMF systems and you know that's one of the beauties of a tuss of coils you
+[00:13:11.420 --> 00:13:18.540]   have this PMF component you know similar to some of those high energy PMF systems that
+[00:13:18.540 --> 00:13:23.580]   are out there but we also had that high voltage electric field that you know you don't really
+[00:13:23.580 --> 00:13:28.420]   get with the right machine right yeah that's kind of that's that's what really drew my interest
+[00:13:28.420 --> 00:13:33.420]   to the biocharger when I first heard about it was because you know you were are literally
+[00:13:33.420 --> 00:13:37.940]   the first person I've seen and I've been doing been following this stuff for you know wow
+[00:13:37.940 --> 00:13:42.620]   that's actually was successfully able to combine some of these different modalities and some
+[00:13:42.620 --> 00:13:46.580]   of these different technologies because I know for a fact you can't play Rife through
+[00:13:46.580 --> 00:13:51.500]   a multi wave oscillator you know Likovsky because the spark gap is throwing off right
+[00:13:51.500 --> 00:13:56.020]   as you mentioned all these different frequencies and how do you isolate a specific frequency
+[00:13:56.020 --> 00:14:00.380]   you're trying to target when you've got just this shotgun blast of other frequencies coming
+[00:14:00.380 --> 00:14:04.780]   through which has its own merit right but you know they're so separate in terms of how
+[00:14:04.780 --> 00:14:09.500]   they approach you know the effect that you want to get out of them that you know but you
+[00:14:09.500 --> 00:14:16.340]   were able to you know figure that out which is just amazing so I got so many questions
+[00:14:16.340 --> 00:14:20.420]   about each one of these individual things but let's get into just an overall picture
+[00:14:20.420 --> 00:14:24.900]   of it so like well what's your elevator pitch right now for like what is the biochart you
+[00:14:24.900 --> 00:14:29.060]   know when people meet you and like what is the biochart you do they see this big thing
+[00:14:29.060 --> 00:14:33.860]   sitting on a table and and the and it just it looks amazing and super high tech and so
+[00:14:33.860 --> 00:14:37.820]   how do you explain like well what does that do you know in terms of you know like it's
+[00:14:37.820 --> 00:14:42.420]   what is its key features yeah so one of the neat things is you have this electric field
+[00:14:42.420 --> 00:14:46.700]   it also has this high voltage component to it so unlike a Rife machine you don't really
+[00:14:46.700 --> 00:14:51.460]   have that high voltage component and we have that PEMF or the magnetic field around the
+[00:14:51.460 --> 00:14:58.380]   base you know which is really inherent with you know a typical Likovsky machine and variable
+[00:14:58.380 --> 00:15:05.540]   frequencies in harmonics now you know Rife wasn't really just producing one specific frequency
+[00:15:05.540 --> 00:15:10.620]   he did have that shotgun as far as a wide spectrum of frequencies but what what was
+[00:15:10.620 --> 00:15:15.700]   neat about that is as you modulated it different frequencies you would generate unique sets
+[00:15:15.700 --> 00:15:20.860]   of hundreds of thousands of harmonics so in my opinion I think that Rife machines were
+[00:15:20.860 --> 00:15:27.180]   really more of a multi-wave oscillator than a multi-wave oscillator is oh okay typically
+[00:15:27.180 --> 00:15:32.940]   with a multi-wave oscillator you want to get those one sets of harmonics so and then we
+[00:15:32.940 --> 00:15:37.900]   have that light component and what's neat is each one has its own unique benefit to it
+[00:15:37.900 --> 00:15:43.640]   you know that high voltage electric field so what are the things that you know there's
+[00:15:43.640 --> 00:15:50.740]   quite a bit of research in this whole field of electroporation they call so the idea of
+[00:15:50.740 --> 00:15:58.220]   the electric field you could actually stress the cell membrane like a die electric so the
+[00:15:58.220 --> 00:16:02.900]   principle behind it is you know in healthy cellular function you have these positive
+[00:16:02.900 --> 00:16:07.820]   negative charges surrounding the cell membrane these positive negative charges when there's
+[00:16:07.820 --> 00:16:12.700]   sufficient enough they'll trigger eye on channels it could be the sodium potassium pump ATP
+[00:16:12.700 --> 00:16:17.820]   mitochondrial function could be they'll take a hormones proteins nutrients and there's
+[00:16:17.820 --> 00:16:23.460]   also this detoxification effect so you deal with that fermentation of the cell in the nucleus
+[00:16:23.460 --> 00:16:28.740]   of the cell all that chemistry that's going on you have to deal some of that waste product
+[00:16:28.740 --> 00:16:34.860]   now as we age that resting membrane potential drops its ability to trigger these healthy
+[00:16:34.860 --> 00:16:40.920]   cellular functions diminished so the significant amount of research it points that when you
+[00:16:40.920 --> 00:16:47.380]   create a high voltage electric field you could stress that cell membrane like a die electric
+[00:16:47.380 --> 00:16:52.900]   to trigger that healthy cellular function to trigger you know the uptake of nutrients
+[00:16:52.900 --> 00:17:00.100]   and detoxification now there's another side of it which is the PEEMF side of it or what
+[00:17:00.100 --> 00:17:06.180]   I consider more the magnetic field so you know magnetic fields work a little differently
+[00:17:06.180 --> 00:17:13.140]   than the electric fields by affecting the IOD charges so the magnetic field can't really
+[00:17:13.140 --> 00:17:18.120]   stress the cell membrane like an insulator or dielectric but what it does is it affects
+[00:17:18.120 --> 00:17:23.540]   the positive and negative charges so as they're moving around in our body in the presence
+[00:17:23.540 --> 00:17:29.620]   of a magnetic field it picks up those that electric charge to increase the charge potential
+[00:17:29.620 --> 00:17:34.340]   to again that trigger healthy cellular function and so they both sort of do the same thing
+[00:17:34.340 --> 00:17:40.580]   but in different ways one does it by the the voltage by affecting the cell membrane itself
+[00:17:40.580 --> 00:17:46.660]   to make it more porous and then the magnetic field works with those IOD charges as they're
+[00:17:46.660 --> 00:17:53.760]   moving around but the net effect is still both the uptake of nutrients and detoxification
+[00:17:53.760 --> 00:18:03.060]   okay thirdly we have these radio frequencies and harmonics so whether it's a right machine
+[00:18:03.060 --> 00:18:09.500]   or lahoskeys system you know the idea in lahoskeys theories is that you know cells are like these
+[00:18:09.500 --> 00:18:15.060]   one band radio receivers they're tuned to a specific frequency and it isn't just like
+[00:18:15.060 --> 00:18:20.860]   this hippie-dippy concept that cells are vibrating but there's a lot of science behind
+[00:18:20.860 --> 00:18:26.260]   it so if you ever had a say for instance MRI the MRI is based off of a principle called
+[00:18:26.260 --> 00:18:33.220]   magnetic resonance so the principle behind magnetic resonance is each cell each molecule
+[00:18:33.220 --> 00:18:40.300]   atoms absorb and emit specific frequencies unique to itself you can actually identify
+[00:18:40.300 --> 00:18:51.140]   that type of cell or molecule based off of that waveform so what Rife actually discovered
+[00:18:51.140 --> 00:18:57.460]   and what we see subsequently with MRIs is you know they absorb and emit specific frequencies
+[00:18:57.460 --> 00:19:03.540]   unique to itself so when you generate that right radio station you can actually stimulate
+[00:19:03.540 --> 00:19:15.100]   specific molecules or cells or even atoms so part of what we do with the recipes or programs
+[00:19:15.100 --> 00:19:20.460]   is we're producing these variable frequencies and harmonics so in the field of what they
+[00:19:20.460 --> 00:19:28.060]   call magnetic resonance spectrum as well as the molecular spectrum that covers the entirety
+[00:19:28.060 --> 00:19:34.440]   from zero to visible light so by varying these frequencies and harmonics that's how you can
+[00:19:34.440 --> 00:19:44.140]   become resonated molecules as well as even cells so we wanted you know with what we created
+[00:19:44.140 --> 00:19:49.620]   we're able to create those variable frequencies and harmonics and how we do that is very similar
+[00:19:49.620 --> 00:19:55.940]   to what Rife had discovered so what Rife had discovered was as you take a carrier wave
+[00:19:55.940 --> 00:20:01.940]   and you modulate it you generate these side band harmonics and as you change those you
+[00:20:01.940 --> 00:20:07.780]   generate different sets of harmonies or harmonics and I like to compare it to like in music so
+[00:20:07.780 --> 00:20:13.140]   if you have two different notes you can generate a harmony or harmonic if you change one of
+[00:20:13.140 --> 00:20:19.940]   those notes you can generate different harmonies or harmonics so by creating these different
+[00:20:19.940 --> 00:20:25.980]   pulse frequencies and we can pulse the biocharger up to 50,000 Hertz which is that range that
+[00:20:25.980 --> 00:20:31.540]   Rife was working with you can now target for particular outcomes and if you understand
+[00:20:31.540 --> 00:20:38.900]   how you know where you want to target a specific frequency now I can you know pulse it is specific
+[00:20:38.900 --> 00:20:43.700]   frequencies it could generate a particular harmonic that could generate a specific cell
+[00:20:43.700 --> 00:20:50.220]   molecule that we want to target with it which is really the essence of what Rife was working
+[00:20:50.220 --> 00:20:56.700]   with so you know as part of the biocharger we have these recipes of programs and I think
+[00:20:56.700 --> 00:21:04.220]   we're up to about 1,500 of them we can generate these different recipes of programs to target
+[00:21:04.220 --> 00:21:10.280]   for particular outcomes so then finally we have that visible light component and our
+[00:21:10.280 --> 00:21:15.220]   light's a little bit different than you know some of the more specific wavelengths that
+[00:21:15.220 --> 00:21:20.700]   they target but we wanted to be more of that broader spectrum so the broader spectrum we
+[00:21:20.700 --> 00:21:25.820]   have various noble and inert gases that were producing about a thousand different wavelengths
+[00:21:25.820 --> 00:21:31.380]   in the infrared far infrared near for ad visible light spectrum so what we're really trying
+[00:21:31.380 --> 00:21:39.440]   to do in essence is mimic nature that's really what I think Tesla was all about was mimicking
+[00:21:39.440 --> 00:21:46.460]   nature and what I mean by that is the lightning discharge so you know most people may not
+[00:21:46.460 --> 00:21:52.020]   realize it but we have 8 million lightning strikes approximately every day it's about
+[00:21:52.020 --> 00:21:58.020]   100 every second and each one's generating unique sets of hundreds of thousands of harmonics
+[00:21:58.020 --> 00:22:02.740]   now every other plants doing the same thing the sun what we call solar flares solar storms
+[00:22:02.740 --> 00:22:08.540]   are really nothing but this atmospheric discharge that contributes to what we call cosmic rays
+[00:22:08.540 --> 00:22:14.460]   so what we're trying to do is mimic what's going on in nature by you know generating these
+[00:22:14.460 --> 00:22:19.860]   variable frequencies and harmonics through plasma discharge but we're actually not quite
+[00:22:19.860 --> 00:22:26.540]   as nature because we could be very specific on the harmonics that we want to generate
+[00:22:26.540 --> 00:22:32.740]   with by the way in which we modulate it okay yeah yeah and finally we have a you know that
+[00:22:32.740 --> 00:22:38.100]   visible light component and you know there's just was so much research in the field of
+[00:22:38.100 --> 00:22:44.540]   even light therapy infrared far infrared visible light spectrum so that was really the essence
+[00:22:44.540 --> 00:22:49.660]   of how we pulled it all together and you know when you look at the you know the spectrums
+[00:22:49.660 --> 00:22:55.260]   of frequencies that were were covering we're pretty much covering the entire from zero
+[00:22:55.260 --> 00:22:59.540]   the visible light yeah that's amazing it's amazing you got all that in one device I'm
+[00:22:59.540 --> 00:23:04.140]   just it's mind-blowing so I guess my question is is like you know you're doing so many different
+[00:23:04.140 --> 00:23:08.060]   things at the same time with one device but so are you saying that the biocharger then
+[00:23:08.060 --> 00:23:14.460]   modifies its output based on a specific recipe so like let's say you don't turn on any recipes
+[00:23:14.460 --> 00:23:20.260]   and you just turn the unit on right is it going to just produce you know electromagnetic field
+[00:23:20.260 --> 00:23:25.420]   and and and then the harmonics from that field because of the Tesla coil itself and you're
+[00:23:25.420 --> 00:23:32.580]   emulating a spark gap with solid-day technology and then if you did run the recipes then the
+[00:23:32.580 --> 00:23:38.580]   machine starts to modulate the different you know voltage and magnetic field and so forth
+[00:23:38.580 --> 00:23:44.460]   per recipe or is it like the machine just runs and then you turn on a recipe and it
+[00:23:44.460 --> 00:23:49.020]   runs based on how you know I'm not sure how to form you know frame the question but you've
+[00:23:49.020 --> 00:23:54.180]   got all these different modalities in one device and I'm just wondering does the machine
+[00:23:54.180 --> 00:23:58.740]   adjust every single time you run a recipe so that it's only playing that recipe the
+[00:23:58.740 --> 00:24:03.380]   way the recipe or you know that frequency set supposed to have been played is that how
+[00:24:03.380 --> 00:24:09.100]   that works it's only just it you play just a recipe each one is a has a specific outcome
+[00:24:09.100 --> 00:24:15.660]   with it I mean sometimes we can mimic you know more of a you know I look at the the biochargers
+[00:24:15.660 --> 00:24:23.860]   like an infinite number or infinite number possibilities of multi-wave oscillators so
+[00:24:23.860 --> 00:24:29.740]   you know typically if you wanted to generate a new set of harmonics with a multi-wave oscillator
+[00:24:29.740 --> 00:24:34.020]   you would have to change the length of the secondary coil you'd have to change the tuning
+[00:24:34.020 --> 00:24:41.140]   and the primary coil the capacitance so it's it was a very awkward way of doing it so the
+[00:24:41.140 --> 00:24:46.220]   way you know every recipe every you know you can't really run the biocharger without running
+[00:24:46.220 --> 00:24:53.300]   a recipe and part of that recipe is pulsated or modulated at specific frequencies and sometimes
+[00:24:53.300 --> 00:24:58.100]   it could be a random event you know where you're not really targeting anything specific
+[00:24:58.100 --> 00:25:04.100]   but you're still just changing so every second you could generate a unique set of hundreds
+[00:25:04.100 --> 00:25:09.420]   of thousands of harmonics and it could be more of a random event versus you could be more
+[00:25:09.420 --> 00:25:17.180]   specifically targeted so sometimes like with our recipes our programs will slightly change
+[00:25:17.180 --> 00:25:22.820]   the pulse frequencies so when you slightly change the pulse frequency you slightly change
+[00:25:22.820 --> 00:25:27.260]   the harmonics that are generated so when you look at it over time or you look at spectral
+[00:25:27.260 --> 00:25:35.460]   analysis wise those harmonics are very closely together so you would see like clusters over
+[00:25:35.460 --> 00:25:41.140]   time those harmonics that you're working with but they wouldn't vary that much with it and
+[00:25:41.140 --> 00:25:47.060]   then there's more of that random event where you're just changing it you know you know
+[00:25:47.060 --> 00:25:52.300]   sometimes we may change it by you know 10 hertz at a time or 100 hertz at a time depending
+[00:25:52.300 --> 00:25:58.740]   on the the recipe or program and when you do that and you sweep it you know so at that
+[00:25:58.740 --> 00:26:06.980]   mode you're almost mimicking the the I can't think of what his name is so Boylan Phil Boylan
+[00:26:06.980 --> 00:26:12.260]   that was working with Royal Rife so when you look at Rife's versions he had he had the
+[00:26:12.260 --> 00:26:17.860]   first version was he would be more targeted so that was he would pulse it a specific frequency
+[00:26:17.860 --> 00:26:23.580]   and then he found it if you do narrow sweeps around a specific frequency you would have
+[00:26:23.580 --> 00:26:29.020]   a better effect and then Hoyland said you know you don't need to even be targeted you can
+[00:26:29.020 --> 00:26:36.660]   be more of a random so he would sweep between you know 550,000 hertz is how he was originally
+[00:26:36.660 --> 00:26:41.540]   working it with and then that was more of a random event so you didn't really have to
+[00:26:41.540 --> 00:26:46.660]   target it so you know depending on how we create our recipes or programs we'll determine
+[00:26:46.660 --> 00:26:51.300]   how we're doing that so sometimes we may be more random with it you know sometimes we
+[00:26:51.300 --> 00:26:57.020]   create recipes or programs that are you know more of like sound therapy or things like
+[00:26:57.020 --> 00:27:05.100]   that so you you generate specific pulse frequencies it would be you know more on the like Fibonacci
+[00:27:05.100 --> 00:27:15.100]   sequence or something like that or soft NGO frequencies but then you know with the you know
+[00:27:15.100 --> 00:27:21.620]   other recipes are more mathematically driven like that Fibonacci is I misspoke on that
+[00:27:21.620 --> 00:27:27.060]   but the Fibonacci sequence would be more so when we pulse the frequencies we would pulse
+[00:27:27.060 --> 00:27:31.820]   it with Fibonacci numbers so there would be more of a mathematical relationship that
+[00:27:31.820 --> 00:27:36.580]   you know goes along with it so there were different ways that we created different ways
+[00:27:36.580 --> 00:27:43.380]   to generate our programs and the other thing that was really neat is you know we get feedback
+[00:27:43.380 --> 00:27:48.260]   from other practitioners that are out there that have had other frequency devices that
+[00:27:48.260 --> 00:27:54.680]   like specific frequencies so they would help to collaborate some of the recipes or programs
+[00:27:54.680 --> 00:28:00.500]   and what was really neat is you know the bio and biocharger NG is really more of a platform
+[00:28:00.500 --> 00:28:06.620]   so yeah part of what you do is you connect to the you don't have to run it to be connected
+[00:28:06.620 --> 00:28:14.300]   to the internet but you know as we make new recipes or programs it's available to your
+[00:28:14.300 --> 00:28:19.500]   biocharger you know so we have what we call this by cloud and within our by cloud we have
+[00:28:19.500 --> 00:28:25.820]   these 1500 recipes or programs that are on there you can access with your computer and
+[00:28:25.820 --> 00:28:32.300]   then you can the biocharger itself holds about 30 to 40 recipes depending on how long those
+[00:28:32.300 --> 00:28:40.580]   recipes are that you can move those back and forth so it was sort of that 21st-century
+[00:28:40.580 --> 00:28:45.180]   twist that we were I was talking about a little bit earlier we wanted to be able to you know
+[00:28:45.180 --> 00:28:50.660]   build this as a platform to where you can program it so you know when we first started
+[00:28:50.660 --> 00:28:55.420]   selling the biocharger we had 10 recipes and we were thinking well if we got the 100 recipes
+[00:28:55.420 --> 00:29:00.340]   that would just be awesome and you know that continued to grow and grow and grow what was
+[00:29:00.340 --> 00:29:06.540]   what's really neat about that is that first biocharger we sold in 2015 has the exact same
+[00:29:06.540 --> 00:29:11.420]   capability and it has the exact same access to those recipes is the one that's rolled
+[00:29:11.420 --> 00:29:17.380]   off the shelf now so we wanted to build it more as a platform so we didn't you know obsolete
+[00:29:17.380 --> 00:29:22.140]   the system in five years to have a new system and you know the other thing it was really
+[00:29:22.140 --> 00:29:28.940]   neat is you know we have this you know because it's digitally driven and it's this platform
+[00:29:28.940 --> 00:29:34.300]   you know we've changed the interface and the way it works and you know the way you access
+[00:29:34.300 --> 00:29:39.460]   the buy cloud you know we have like Google searchable terms so you can search for specific
+[00:29:39.460 --> 00:29:43.820]   outcomes you want to look for and it'll list out the different recipes or programs that
+[00:29:43.820 --> 00:29:49.940]   are available then you can move over you can see what the recipes were designed for you
+[00:29:49.940 --> 00:29:56.500]   know what we intentionally wanted to target with it the history behind it whether it
+[00:29:56.500 --> 00:30:01.660]   was you know practitioner driven we could even make them private recipes or programs
+[00:30:01.660 --> 00:30:08.740]   and you know we're in many locations and you know a lot of them have franchise so we have
+[00:30:08.740 --> 00:30:15.900]   custom recipes for these specific franchises and things like that that you know that have
+[00:30:15.900 --> 00:30:20.660]   biochargers that are included with it that would be more branding towards them so for
+[00:30:20.660 --> 00:30:29.140]   instance osteostrong is a company or a franchise company that I think they have like 150 locations
+[00:30:29.140 --> 00:30:34.920]   and we're almost in all those and we had custom branded recipes that were targeted for the
+[00:30:34.920 --> 00:30:40.460]   osteostrong group so that was part of our intention that we created with it that we
+[00:30:40.460 --> 00:30:46.860]   could you know enhance this ability over time and then you know we're even continuing to
+[00:30:46.860 --> 00:30:54.460]   build out on that whole process so you'll not only be able to search for specific recipes
+[00:30:54.460 --> 00:31:00.900]   but what other recipes would be good for so we're building out the you know our ways
+[00:31:00.900 --> 00:31:05.820]   in which you could create what we call recipe plans and things so that's some of the things
+[00:31:05.820 --> 00:31:11.540]   that we have in the works that we're building out and as part of you know what we have with
+[00:31:11.540 --> 00:31:17.860]   the biocharger we have an outstanding support team and then in advanced training and part
+[00:31:17.860 --> 00:31:24.540]   of that in advanced training we work with the nurse practitioner who's had a biocharger
+[00:31:24.540 --> 00:31:30.540]   originally and was really good at using the biocharger and approaching it from a functional
+[00:31:30.540 --> 00:31:36.580]   approach so for instance if you had acne or something like that it may not just be acne
+[00:31:36.580 --> 00:31:41.780]   it's the issue or skin it's the issue but it could be like liver kidney so right part
+[00:31:41.780 --> 00:31:47.580]   of her work was we were you know building out different recipe programs so we're actually
+[00:31:47.580 --> 00:31:56.540]   now taking her skills and then putting that into our you know advanced systems that were
+[00:31:56.540 --> 00:32:03.140]   building out within the my cloud that now you will you will be able to search a recipe
+[00:32:03.140 --> 00:32:07.780]   and then it'll give you other recipes to choose from or if you have you know if you're like
+[00:32:07.780 --> 00:32:13.620]   a gym or something like that and you have like a a set of you know an outcome that you want
+[00:32:13.620 --> 00:32:20.620]   to do and you want to give them like a recipe plan is you will then you know for the practitioner
+[00:32:20.620 --> 00:32:24.820]   they would have like this recipe planned that they would follow up follow but that's part
+[00:32:24.820 --> 00:32:30.860]   of you know what we build out into it so it isn't just this you know simple system but
+[00:32:30.860 --> 00:32:34.780]   you know there's a lot of thought behind it and there was also you know some foresight
+[00:32:34.780 --> 00:32:40.660]   that we had into it so for instance in the back we also are able to do audio modulation
+[00:32:40.660 --> 00:32:47.060]   so I don't know if anyone have ever seen like the singing Intessa coil type system so you
+[00:32:47.060 --> 00:32:54.180]   know the old spark gap designed you hear that hissing sound whereas with the biocharger it
+[00:32:54.180 --> 00:33:02.340]   produces different tones so by adding this audio component and you know audio modulation
+[00:33:02.340 --> 00:33:07.140]   on the duty cycle we could actually literally play music off the top of it if we want or
+[00:33:07.140 --> 00:33:12.780]   you could add different tones or frequencies to it to create more harmonics so you know
+[00:33:12.780 --> 00:33:19.580]   we tried to build things out and that's all built into that first 2015 system so you know
+[00:33:19.580 --> 00:33:24.980]   we haven't released the audio modulation part to the public you know and we're building
+[00:33:24.980 --> 00:33:31.460]   out our software to help manage you know running that you know we had the foresight to try
+[00:33:31.460 --> 00:33:36.100]   to include as many things as possible that we wanted to include into the biocharger.
+[00:33:36.100 --> 00:33:42.700]   You know you hit on a really important point and that's every device I've ever purchased
+[00:33:42.700 --> 00:33:49.300]   usually comes with a book if that maybe a tutorial if you're lucky and a steep learning
+[00:33:49.300 --> 00:33:54.420]   curve and you know and I've looked at what you guys are doing and you've got this incredible
+[00:33:54.420 --> 00:34:00.300]   big you know tutorial base plus you've got the consultants and yeah that's that's the
+[00:34:00.300 --> 00:34:06.180]   smartest move I could ever imagine somebody doing is having a person just work with somebody
+[00:34:06.180 --> 00:34:10.660]   it says oh you got acne but you know it's not just run the acne frequency you know which
+[00:34:10.660 --> 00:34:14.740]   is your typical rife response right you go by a rife machine you look in the book says
+[00:34:14.740 --> 00:34:19.220]   acne and you run that frequency but it may not even be acne and having that
+[00:34:19.220 --> 00:34:24.340]   consultant and having the recipes is that's brilliant I mean that's pretty cool so you
+[00:34:24.340 --> 00:34:29.060]   know let me ask you though so I guess from the from the average person who's not used
+[00:34:29.060 --> 00:34:33.380]   to high voltage devices I guess one of the first things I want to just kind of talk about
+[00:34:33.380 --> 00:34:38.700]   is that is you're put you're producing this really strong electromagnetic field in somebody's
+[00:34:38.700 --> 00:34:43.460]   home or in their office right so what's your response to the to the question is like
+[00:34:43.460 --> 00:34:47.620]   wow you know when I look at the specifications and I see that the voltage putting out and
+[00:34:47.620 --> 00:34:53.540]   the machine's putting out up to 600,000 you know 600 kilovolts or 600,000 volts and you
+[00:34:53.540 --> 00:34:58.460]   know how is that a safe thing for people and and and what are the precautions that come
+[00:34:58.460 --> 00:35:04.420]   around having that strong of an electromagnetic device inside your your office or home yeah
+[00:35:04.420 --> 00:35:08.900]   yeah so obviously you wouldn't want to grab so we have if you notice at the very top of
+[00:35:08.900 --> 00:35:14.700]   arkrod it's where the spark would be emulating but one of the neat things about the biochargers
+[00:35:14.700 --> 00:35:20.820]   you can take that ark rod off so one of the drawbacks that we always saw with the multi
+[00:35:20.820 --> 00:35:26.660]   wave oscillators systems was they were too noisy to really operate in a professional setting
+[00:35:26.660 --> 00:35:34.780]   other drawbacks also were the ozone that was generated as well as yeah adjustment of
+[00:35:34.780 --> 00:35:42.100]   the spark cap so you have to have some precaution in and around the torroid you know so that's
+[00:35:42.100 --> 00:35:46.660]   part of the reason why we have that enclosure that's around the top of it to keep people
+[00:35:46.660 --> 00:35:52.260]   from actually physically touching the torroid now they could if they really wanted to reach
+[00:35:52.260 --> 00:35:58.220]   up and talk touch the top of it but we have many safety signs and things like that you
+[00:35:58.220 --> 00:36:04.420]   know so part of what and it's unusual compared to these you know many of these other especially
+[00:36:04.420 --> 00:36:09.700]   multi wave oscillator type of devices is we have our CE markings and you know so part of
+[00:36:09.700 --> 00:36:15.060]   that CE markings if you go through our booklet and things you know there's that circle safety
+[00:36:15.060 --> 00:36:21.660]   that you have and you have to have the right markings that are on it so you know you become
+[00:36:21.660 --> 00:36:25.500]   very comfortable with it and you're really just more or less sitting around it like a
+[00:36:25.500 --> 00:36:29.780]   campfire so there isn't any need to physically touch it because of the type of field that
+[00:36:29.780 --> 00:36:35.580]   we're generating with it so right away people at first they become you know when they first
+[00:36:35.580 --> 00:36:40.460]   turned it on they're like wow in it but you know right you know once you get comfortable
+[00:36:40.460 --> 00:36:46.260]   with it you know people are totally fine and that you know that 600,000 volts sounds
+[00:36:46.260 --> 00:36:51.980]   very high but if you look at some of the original multi wave oscillators they were operating
+[00:36:51.980 --> 00:36:58.020]   you know well within those ranges as far as a voltage output so and they had those rings
+[00:36:58.020 --> 00:37:03.220]   wide open but you know one thing that's relatively safe about it it you know like any multi wave
+[00:37:03.220 --> 00:37:08.140]   oscillator a tussle coil if you get hit by one of those sparks you know it may startle
+[00:37:08.140 --> 00:37:12.980]   you a little bit but it's not really going to hurt you yeah we don't ever recommend
+[00:37:12.980 --> 00:37:17.420]   you doing that what they will do is if you try to arc it near the enclosure to mark up
+[00:37:17.420 --> 00:37:22.900]   the enclosure more than anything else and that's the thing we don't really want to you know
+[00:37:22.900 --> 00:37:27.660]   it's more of a cosmetic thing than it is anything else with the markings that are on it and one
+[00:37:27.660 --> 00:37:32.140]   thing it's you know the other thing is part of our CE markings is you know we had to make
+[00:37:32.140 --> 00:37:37.780]   it out of special material you know so it has to be certain fire rated material so if
+[00:37:37.780 --> 00:37:42.700]   in case for whatever reason it becomes an arc on there and you get something that starts
+[00:37:42.700 --> 00:37:47.620]   to burn on the plastic or something like that you know not that we ever have that issue
+[00:37:47.620 --> 00:37:55.340]   but we wanted to make sure we used the right materials that you know that's you know safe
+[00:37:55.340 --> 00:38:00.140]   it's not going to transfer flame and you know burn up or anything else like that so we want
+[00:38:00.140 --> 00:38:03.860]   to make sure we have that that's part of the reason why we have that emergency stop that's
+[00:38:03.860 --> 00:38:09.820]   on there we have certain filters are on it too so one of the other issues you typically
+[00:38:09.820 --> 00:38:14.780]   have with the multi-wave oscillators is you get a lot of noise being fed back into the
+[00:38:14.780 --> 00:38:21.160]   power line so one of the part of our requirements that we also had you know as part of our CE
+[00:38:21.160 --> 00:38:26.380]   markings as we had to have certain filters on the power line to filter out all that stuff
+[00:38:26.380 --> 00:38:31.460]   that we're not feeding anything necessarily back into the power line that would you know
+[00:38:31.460 --> 00:38:37.740]   create noise into the system that would you know transfer and interference and you know
+[00:38:37.740 --> 00:38:42.100]   communication phones and things like that oh yeah I mean that's that's one of the things
+[00:38:42.100 --> 00:38:45.900]   to yeah I mean I've had a lacoskey multi-wave oscillator I've actually got a I actually
+[00:38:45.900 --> 00:38:50.780]   have a bells knockoff right now that I got a few months ago I've also got like a single
+[00:38:50.780 --> 00:38:56.700]   antenna one and I can't you know I'm just like you I've been zapped so many times but
+[00:38:56.700 --> 00:39:01.020]   you know looking at the biocharger from your description it just seems to me the most literally
+[00:39:01.020 --> 00:39:05.780]   the safest device I've seen I actually saw when your new testimonial video came out for
+[00:39:05.780 --> 00:39:13.340]   the biocharger today and I saw that that center had a plexiglass covering for that little
+[00:39:13.340 --> 00:39:19.780]   arkrod so that even you know so no no curious customer or client could go hey what's that
+[00:39:19.780 --> 00:39:23.340]   and touch it with their finger they actually had it enclosed so I thought that was like
+[00:39:23.340 --> 00:39:28.020]   okay that's pretty smart because you definitely don't want to touch it but okay that was also
+[00:39:28.020 --> 00:39:33.180]   more of a noise dampener you know so yeah yeah people still love to see that spark you
+[00:39:33.180 --> 00:39:37.340]   know sometimes when you see a test of oil you don't have an arkrod on there you're thinking
+[00:39:37.340 --> 00:39:42.380]   you know it just looks more like a lamp or something like that or the Tesla enthusiasts
+[00:39:42.380 --> 00:39:47.340]   are like there's no there's no output to it but no no no yeah what happens is the energy
+[00:39:47.340 --> 00:39:51.660]   stored on the toroid and you know you could run it with or without the arkrod in there
+[00:39:51.660 --> 00:39:58.480]   we have like a nylon plug that we can put into the top of it so where it's totally quiet
+[00:39:58.480 --> 00:40:06.740]   all you hear is maybe a slight noise from the fans and things like that but it's that was
+[00:40:06.740 --> 00:40:12.500]   one of the other things that we really wanted to build into that system so you you can really
+[00:40:12.500 --> 00:40:17.620]   use it in that professional study without having to listen to that noise all day long
+[00:40:17.620 --> 00:40:23.420]   so you can imagine having a multi-wave oscillator running in the office you know the people working
+[00:40:23.420 --> 00:40:28.820]   in the office would get really tired very fast with that as well as with all that ozone
+[00:40:28.820 --> 00:40:32.900]   and stuff like that that's generated so one of the things that we thought was really neat
+[00:40:32.900 --> 00:40:37.940]   was you know part of that spectral analysis we looked at it from with the arkrod and without
+[00:40:37.940 --> 00:40:42.940]   the arkrod you know so we wanted to make sure that you know we're still producing that same
+[00:40:42.940 --> 00:40:48.160]   voltage output which we are we're still producing the same PEMF we're still producing the exact
+[00:40:48.160 --> 00:40:53.300]   same variable frequencies and harmonics you still have that same light component you know
+[00:40:53.300 --> 00:40:58.600]   you may not get you know and with the solid state version you don't really generate as
+[00:40:58.600 --> 00:41:03.740]   much ozone so even if you have that arkrod in there and you see that corona discharge
+[00:41:03.740 --> 00:41:09.500]   it's not nearly as much ozone as what you would typically see with the you know with
+[00:41:09.500 --> 00:41:14.860]   the multi-wave oscillators especially ones with the larger corona discharge with it but
+[00:41:14.860 --> 00:41:18.820]   still have that voltage component which is something that we really didn't want to lose
+[00:41:18.820 --> 00:41:24.180]   when we went to this solid state version with it no that's really smart I mean you know
+[00:41:24.180 --> 00:41:30.860]   my Likovsky rep I had a replica of it dual antenna and I had to keep the fans on just
+[00:41:30.860 --> 00:41:35.440]   to dissipate the ozone when using it plus you know the you know the antennas are right
+[00:41:35.440 --> 00:41:39.620]   out there and you'd bump against one and it hurt so yeah that makes a lot of sense and
+[00:41:39.620 --> 00:41:44.020]   then you know I think the other issue too is just keeping it safe yeah and but it is
+[00:41:44.020 --> 00:41:48.700]   I just wanted to stipulate that anyone that's never experienced one of these devices it is
+[00:41:48.700 --> 00:41:52.540]   really safe to be in a high voltage field I mean just being in the field is a you know
+[00:41:52.540 --> 00:41:56.940]   it's perfectly fine and then the course the issue here is touching it in the ozone so
+[00:41:56.940 --> 00:42:01.220]   seems like you really you know kind of you know solve those problems so the other the
+[00:42:01.220 --> 00:42:05.660]   other question I had about the is you made a comment I think in a video with Luke's story
+[00:42:05.660 --> 00:42:12.060]   about that you controlled the duty cycle and and and so could you kind of explain like
+[00:42:12.060 --> 00:42:17.420]   what does that mean you know like in terms of how the device runs as to the duty cycle
+[00:42:17.420 --> 00:42:26.020]   and the waveforms coming out of the device yeah so within a any recipe we're pulsing
+[00:42:26.020 --> 00:42:31.180]   it at specific frequency so what I mean by pulsing it is we're literally turning off
+[00:42:31.180 --> 00:42:37.900]   and on the radio transmitter at certain frequencies so you may be turning it off at say 10 hertz
+[00:42:37.900 --> 00:42:42.660]   so that means that you're literally turning it off and on 10 times a second now the duty
+[00:42:42.660 --> 00:42:48.420]   cycle what you're varying is the difference between the off and on cycles so for instance
+[00:42:48.420 --> 00:42:56.420]   if it was 50% duty cycle it would be equally off on for that so at 10 times per second
+[00:42:56.420 --> 00:43:04.700]   you're turning your each off on is one tenth of a second so it could be on for 50% of that
+[00:43:04.700 --> 00:43:11.100]   one tenth of a per second and then it would be off for 50% now if he did it at 10% duty
+[00:43:11.100 --> 00:43:19.460]   cycle it would only be on for that one tenth of a second for you know 10% of that time
+[00:43:19.460 --> 00:43:26.520]   and then it would be off for 90% time or vice versa vice versa it would be 90% so if you
+[00:43:26.520 --> 00:43:32.140]   had it 90% duty cycle and part of the reason why we do that is as you pulse it at higher
+[00:43:32.140 --> 00:43:38.540]   frequencies there is more of a randomness that's happening so if you're pulsing it off and
+[00:43:38.540 --> 00:43:44.700]   on at say 50,000 hertz you could be pulsing it on it you know because you produce an assign
+[00:43:44.700 --> 00:43:51.220]   wave as that carrier wave you could be at that zero point at the you know if the duty
+[00:43:51.220 --> 00:43:56.580]   cycles too short and it wouldn't really you don't see much of a corona discharge you're
+[00:43:56.580 --> 00:44:03.420]   not really seeing much action from the magnetic field so we would increase the duty cycle
+[00:44:03.420 --> 00:44:09.780]   higher to allows you to be on longer period of time to catch more of that full part of
+[00:44:09.780 --> 00:44:19.740]   that waveform versus you know when it's you know it's lower duty cycle what will happen
+[00:44:19.740 --> 00:44:24.820]   is you you would you there's a good chance that you would be at that low point in other
+[00:44:24.820 --> 00:44:29.740]   words so okay we also wanted to have that part of that variability with the duty cycle
+[00:44:29.740 --> 00:44:35.780]   that's where we added the audio modulation so what we're able to do is vary the duty
+[00:44:35.780 --> 00:44:45.260]   cycle by audio tone so by doing that you can you know that's really you can literally play
+[00:44:45.260 --> 00:44:50.460]   music from that by doing that now it may sound a little choppy you know almost you know when
+[00:44:50.460 --> 00:44:56.740]   you run it it sounds like an am radio played really loudly you may have that little hissing
+[00:44:56.740 --> 00:45:02.100]   sound from it but you clearly you know if you listen to the music you can clearly hear
+[00:45:02.100 --> 00:45:07.020]   all the instruments playing you can recognize all that's Tom Petty for instance if you wanted
+[00:45:07.020 --> 00:45:14.900]   to play Tom Petty through it you know Bruce Springsteen you can play Mozart through it
+[00:45:14.900 --> 00:45:18.820]   I mean there's all sorts of different ways you can you know work that duty cycle plus
+[00:45:18.820 --> 00:45:25.700]   you can pulse it I mean you can run a duty cycle of different with the audio you can literally
+[00:45:25.700 --> 00:45:32.180]   play a specific tone with it and when you do that you get more headro dining as more as
+[00:45:32.180 --> 00:45:38.220]   harmonics you can generate with it so there's a lot of different benefits within that duty
+[00:45:38.220 --> 00:45:45.540]   cycle that you can add another dimension of ways to generate more harmonics with it is
+[00:45:45.540 --> 00:45:49.380]   that something that the user controls or is that kind of built into the recipe so that
+[00:45:49.380 --> 00:45:54.900]   the recipe tunes it for you don't have to learn it yeah that would be part of the recipe
+[00:45:54.900 --> 00:46:00.900]   okay yeah that would be created we haven't built that part all out yet but you know the
+[00:46:00.900 --> 00:46:06.620]   way the way I use it right now is we have like a Bluetooth receiver that you can hook
+[00:46:06.620 --> 00:46:11.540]   up to your phone for instance that okay we have an optical port in the back that feeds
+[00:46:11.540 --> 00:46:17.460]   the the duty cycle so you know you're varying the duty cycle up and down to music is what
+[00:46:17.460 --> 00:46:22.860]   you're doing yeah and the first time I heard it I was just completely blown away you know
+[00:46:22.860 --> 00:46:28.700]   literally here you know Mozart coming off the top of it and part of the way we have the
+[00:46:28.700 --> 00:46:34.220]   recipes we are still pulsing it you know so we really believe that pulsing is really
+[00:46:34.220 --> 00:46:38.060]   an important part of it you know because that's really what nature is all about is you know
+[00:46:38.060 --> 00:46:43.620]   it's pulsing off and on if you have that continuous wave you can make the music clear but you're
+[00:46:43.620 --> 00:46:50.940]   really losing that benefit that you would be getting with the you know that pulsing event
+[00:46:50.940 --> 00:46:56.820]   so we wanted to be more of that pulsing effect versus you know the other part and you know
+[00:46:56.820 --> 00:47:02.620]   one of the quotes that Nicola Tesla's famously you know talks about is you know in lightning
+[00:47:02.620 --> 00:47:08.620]   he hears it's like a symphony to him you know so you know literally now it becomes more of
+[00:47:08.620 --> 00:47:13.460]   a symphony you know just not just a note now you know when you play music throughout it
+[00:47:13.460 --> 00:47:17.740]   now it becomes almost more like a symphony so you're literally bringing delight with
+[00:47:17.740 --> 00:47:23.980]   Tesla was talking about as you know lightning playing music right which is nature so okay
+[00:47:23.980 --> 00:47:28.860]   so then you didn't mention waveforms and so there's lots of different you know devices
+[00:47:28.860 --> 00:47:34.620]   out there and they all have different waveforms and so there's the issue of longitudinal versus
+[00:47:34.620 --> 00:47:41.460]   transverse and then there's the type of wave circuit you kind of does your does the biocharger
+[00:47:41.460 --> 00:47:49.180]   put out put out different waveforms based on recipes or is it okay well there's a type
+[00:47:49.180 --> 00:47:55.540]   of waveform which is the the square wave so we're you know with a typical right machine
+[00:47:55.540 --> 00:48:03.300]   it's more of a square wave off on type of thing but within that there are you know frequencies
+[00:48:03.300 --> 00:48:09.700]   of harmonics that span AM FM shortwave longwave UHF VHF microwave millimeter that's part of
+[00:48:09.700 --> 00:48:16.020]   those hundreds of thousands of harmonics that you're generating with the waveform so there's
+[00:48:16.020 --> 00:48:20.740]   multiple different types I look at more of it's a complex waveform that you're generating
+[00:48:20.740 --> 00:48:25.500]   with it so you have your carrier wave you have your harmonics that you're generating you have
+[00:48:25.500 --> 00:48:31.820]   your subharmonics that you're generating but overall it's like a pulse sine wave is what
+[00:48:31.820 --> 00:48:37.300]   you're ultimately doing but within that pulsing is the pulsing is really what's generating
+[00:48:37.300 --> 00:48:43.980]   the the harmonics with it okay so more of a pulse sine wave but you mentioned pulse sine
+[00:48:43.980 --> 00:48:49.460]   wave and then square wave so is it a combination of the two and it's just running pulse it
+[00:48:49.460 --> 00:48:54.060]   means it's a square wave it's off on type of thing so it's a square wave meaning you
+[00:48:54.060 --> 00:48:59.740]   have off on off on but okay within that square wave you can generate the harmonics with it
+[00:48:59.740 --> 00:49:04.860]   okay reality that's really what's happening like with the multi wave oscillator but the
+[00:49:04.860 --> 00:49:09.420]   issue what happens with the multi wave oscillators you have that pulsing from the spark gap so
+[00:49:09.420 --> 00:49:14.620]   there are periods of time where it's off on but that's driven by that 60 hertz so there's
+[00:49:14.620 --> 00:49:21.660]   a 60 hertz component of that off on that's being generated with it that creates the harmonics
+[00:49:21.660 --> 00:49:27.540]   that you see with it now for instance if you take a multi wave oscillator and go to 50
+[00:49:27.540 --> 00:49:33.340]   hertz versus 60 hertz you with the same setup you'd have to tune it a little bit differently
+[00:49:33.340 --> 00:49:39.220]   but you would still generate the different harmonics just because of the wave you know
+[00:49:39.220 --> 00:49:44.260]   the wave which the 50 hertz versus 60 hertz what we found is you know the wave which we
+[00:49:44.260 --> 00:49:49.420]   do the biocharger and part of our intellectual property we built into the biochargers on
+[00:49:49.420 --> 00:49:56.620]   the primary side you know we have a it's a pure DC so we we developed the you know some
+[00:49:56.620 --> 00:50:01.980]   proprietary ways of generating pure DC that we're chopping up to be whatever we want
+[00:50:01.980 --> 00:50:08.340]   it to be as far as that side wave and I mean that that square wave that we're doing with
+[00:50:08.340 --> 00:50:14.140]   it okay no that's fascinating okay no no that makes sense all right so let me kind of talk
+[00:50:14.140 --> 00:50:19.420]   about how the biocharger compares to other things you know in great description up to
+[00:50:19.420 --> 00:50:26.140]   this point I you know it really helps me understand it better so I grabbed this diagram off of
+[00:50:26.140 --> 00:50:32.860]   a lecture that Aaron Miracami made over it really did this lecture and video where he
+[00:50:32.860 --> 00:50:38.380]   basically was comparing the Tesla multi wave oscillator there's really I don't know there's
+[00:50:38.380 --> 00:50:43.660]   not really a name of that device you know that that old story you know of Tesla and
+[00:50:43.660 --> 00:50:48.300]   his friend Samuel Clemens came in and played with one of his machines and that's what got
+[00:50:48.300 --> 00:50:54.340]   him into the whole you know health thing but you know so in the diagram I mean Aaron kind
+[00:50:54.340 --> 00:50:58.500]   of just put in these golden mean antennas but I don't I don't really know what antennas
+[00:50:58.500 --> 00:51:01.780]   they actually use I'm thinking you know it could be anything because of Tesla but the
+[00:51:01.780 --> 00:51:07.180]   Lacoskey definitely used golden mean antennas so I got three questions and you already addressed
+[00:51:07.180 --> 00:51:12.500]   the first one which was frequencies so you know the spark gap is producing the majority
+[00:51:12.500 --> 00:51:17.100]   of the frequencies although to like let's say Bob Beck kind of claimed that you know the
+[00:51:17.100 --> 00:51:22.380]   capacitance between the rings also produce frequencies but not as much as the spark gap
+[00:51:22.380 --> 00:51:26.860]   would that be correct in terms of just yes and actually wait Bob Beck had his setup as
+[00:51:26.860 --> 00:51:31.100]   he had to ground in the middle of it so right that's some of those earlier versions that
+[00:51:31.100 --> 00:51:36.140]   would spark between the the rings that he would have in there right the original multi wave
+[00:51:36.140 --> 00:51:41.300]   oscillator really did not have that now one of the things as you shown in the diagram on
+[00:51:41.300 --> 00:51:47.620]   the left is you have really on the the left part of the coil is really really the transmitter
+[00:51:47.620 --> 00:51:53.540]   side and then the other side is more of a receiver side of it so there is that second
+[00:51:53.540 --> 00:51:58.060]   coil that's on the right isn't really connected anything but it's really acting more as that
+[00:51:58.060 --> 00:52:04.740]   antenna receiver yep that you would typically see like with a radio transmitter receiver
+[00:52:04.740 --> 00:52:10.740]   type now the picture that you have on the right which you call the Tesla multi wave oscillator
+[00:52:10.740 --> 00:52:18.060]   I would consider more of that the we now it's spelled O U D I N type of coil so if you notice
+[00:52:18.060 --> 00:52:24.020]   on that one you have that primary is more in the middle of it and really with that one
+[00:52:24.020 --> 00:52:29.740]   I consider that one and it's you would you don't really necessarily see it with this diagram
+[00:52:29.740 --> 00:52:34.940]   but typically what they would have is they would have the secondary coil more horizontal
+[00:52:34.940 --> 00:52:39.540]   not vertical and then what they would do is they would put the primary in the middle of
+[00:52:39.540 --> 00:52:45.740]   it so it act like two coils that were out of phase with each other oh it was more of
+[00:52:45.740 --> 00:52:52.580]   that effect that you would see on some of those earlier even Tesla devices you would
+[00:52:52.580 --> 00:52:57.740]   see where they have like two spots and they're arcing between the two of those that's typically
+[00:52:57.740 --> 00:53:02.660]   that type of design he didn't really have the multi wave oscillator antennas with that
+[00:53:02.660 --> 00:53:08.340]   but it was really more of that I consider those they're both really out of phase with
+[00:53:08.340 --> 00:53:14.460]   each other but one is more acting like a transmitter receiver whereas the other one are literally
+[00:53:14.460 --> 00:53:20.900]   two transmitters but in reality they are transmitter receivers at the same time so you ever set
+[00:53:20.900 --> 00:53:29.060]   up you know like a receiver coil so I've taken like a biocharger and actually had like a
+[00:53:29.060 --> 00:53:34.020]   secondary coil like like the one that would be on the left of it where it was just simply
+[00:53:34.020 --> 00:53:41.220]   a coil next near the biocharger I could get sparks off of both of the coils even though
+[00:53:41.220 --> 00:53:47.340]   the one when you looked inside the box there was no you know primary coil there was no
+[00:53:47.340 --> 00:53:52.340]   switching whether it was a spark gap or back into your solid state there was none of that
+[00:53:52.340 --> 00:53:59.300]   it was just simply a receiver that was tuned to that specific frequency of the carrier
+[00:53:59.300 --> 00:54:06.060]   wave that it could feed it and you know there were setups that I've had in the lab where
+[00:54:06.060 --> 00:54:11.580]   I could fire that coil you know eight feet away with the biocharger with that receiver
+[00:54:11.580 --> 00:54:19.540]   setup and still pull a five or six inch spark off of the other one so so they're sort of
+[00:54:19.540 --> 00:54:23.460]   little different the same I mean you could sort of create that same effect if you wanted
+[00:54:23.460 --> 00:54:28.960]   to have two biochargers running at the same time we you know we have people that will
+[00:54:28.960 --> 00:54:34.740]   do that type of setup and then sit in between both of them one thing it's pretty neat about
+[00:54:34.740 --> 00:54:42.420]   that is when you run two separate biochargers like that and once generating a unique set
+[00:54:42.420 --> 00:54:47.180]   of hundreds of thousands of harmonics another one student another set that are different
+[00:54:47.180 --> 00:54:53.140]   then you get this heterodyne effect where you're generating even more harmonics because there's
+[00:54:53.140 --> 00:54:58.180]   the mix between the two of them okay well that's interesting I even thought about that yeah because
+[00:54:58.180 --> 00:55:03.940]   this one right here is kind of a the replica that I was using this was exact configuration
+[00:55:03.940 --> 00:55:08.340]   yeah that's more of Lohoski's design quite Lohoski kind of had the patient with their
+[00:55:08.340 --> 00:55:12.500]   feet on the ground they were grounded they sat between a transmitter and a receiver
+[00:55:12.500 --> 00:55:17.060]   and yeah you were getting major sparks off the transmitter and minor sparks off the receiver
+[00:55:17.060 --> 00:55:22.260]   but I'm kind of curious about the Tesla because apparently Tesla didn't ground you know the
+[00:55:22.260 --> 00:55:27.300]   individual they actually were you know getting the you know they were sitting between the fields
+[00:55:27.300 --> 00:55:31.460]   and they were not grounded so they were getting that whole I guess it's called induction like
+[00:55:31.460 --> 00:55:36.340]   bird on the wire effect as opposed to being grounded out where 50 percent of the of the
+[00:55:36.340 --> 00:55:43.060]   energies flowing to ground and the person becomes the conduit but in the Tesla mode it's more like
+[00:55:43.060 --> 00:55:48.500]   you're you are it's you're enveloped by this and you're not it's not leaving you it's just you're
+[00:55:48.500 --> 00:55:52.980]   you're just basically submerged in the field and all of the energy is being you're being
+[00:55:52.980 --> 00:55:58.260]   exposed to all of that energy so I guess I know the ground what the biggest you have with the
+[00:55:58.260 --> 00:56:05.060]   insulated off the ground is you have the that induced voltage so you know you know I always
+[00:56:05.060 --> 00:56:09.540]   like to compare the the bird on the wire so you got the bird on the wire wise and he
+[00:56:09.540 --> 00:56:14.820]   getting electrocuted is because he's not on ground now if you brought a wire up to that
+[00:56:14.820 --> 00:56:20.020]   bird up there yeah put his feet up there you'd frighten an instant so yeah you don't get that
+[00:56:20.020 --> 00:56:25.380]   instant induced voltage and you know I also had an experiment that I had at home one day I was
+[00:56:25.380 --> 00:56:31.940]   just playing around and I had you know biocharger earlier version next to a wood burning stove and
+[00:56:31.940 --> 00:56:37.940]   I had to see a little piece of lint that was on there so I brought my hand over by it and I could
+[00:56:37.940 --> 00:56:42.820]   cause that piece of lint to stand up on its edge about three or four inches away and I'm standing
+[00:56:42.820 --> 00:56:51.140]   on a wooden floor that you know that's on a foundation and not on a fine well it has the
+[00:56:51.140 --> 00:56:56.580]   yeah the foundation around the edges so I had the gap between the the wood floor and the actual
+[00:56:56.580 --> 00:57:05.380]   earth ground the ground itself and then I put my feet and I stood up on a milk crate and I did the
+[00:57:05.380 --> 00:57:11.060]   exact same thing and I could cause that the lint to stand up about you know two or three feet away
+[00:57:11.060 --> 00:57:16.020]   from it just from that static electricity I was building out and it made me realize that you
+[00:57:16.020 --> 00:57:22.100]   actually get more of an induced voltage doing it by being more insulated oh yeah that kind of
+[00:57:22.100 --> 00:57:25.940]   reminder I was going to ask you about humidity you made a comment in one of your interviews
+[00:57:25.940 --> 00:57:30.100]   about humidity and I was just going to ask you about that because you know as I mentioned I have
+[00:57:30.100 --> 00:57:35.620]   a bells you know the you're one of your first iterations I have a knock off of that device and
+[00:57:35.620 --> 00:57:40.820]   I noticed that when the humidity changes in my house you know I have to be really careful about how
+[00:57:40.820 --> 00:57:46.660]   close I put my hands to it because when it's really dry that thing will throw out an arc really easy
+[00:57:46.660 --> 00:57:50.500]   you know and so like how does I work how did because I know you dampened that
+[00:57:50.500 --> 00:57:55.540]   in the biocharger right the you did something that humidity changes identity that's just the
+[00:57:55.540 --> 00:58:00.500]   nature of the air itself okay it becomes a little bit less or more conductive is really what happens
+[00:58:00.500 --> 00:58:05.460]   and yeah that that even translates all the way down to the spark gap in that version of it oh yeah
+[00:58:05.460 --> 00:58:10.740]   you know so one of the things that's really neat with the solid state version is you're not getting
+[00:58:10.740 --> 00:58:15.620]   that variability with humidity with the spark gap you know you're controlling it purely with the
+[00:58:15.620 --> 00:58:21.460]   solid state so you're not going to get quite as much variability off the top of it although
+[00:58:21.460 --> 00:58:29.060]   one thing that we have noticed is when there seems to be more solar activity you know from
+[00:58:29.060 --> 00:58:33.540]   you know solar storms and things like that the corona actually gets a little bit bigger on there
+[00:58:33.540 --> 00:58:38.180]   so there are so many different influences that you could have same thing with altitude too so
+[00:58:38.180 --> 00:58:43.540]   you know we noticed that you know higher altitudes because it's thinner air it's going to you know
+[00:58:43.540 --> 00:58:48.580]   the air is going to break down easier so you're going to see a larger spark from it oh yeah that's
+[00:58:48.580 --> 00:58:52.500]   interesting i'll have to do some yeah i'll do some testing with it then let's see what it works how
+[00:58:52.500 --> 00:58:58.340]   it works in during a lightning storm it's see what i mean i used to be able to see things the other
+[00:58:58.340 --> 00:59:04.020]   thing i used to see every once in a while it was just so weird is if especially after you know like
+[00:59:04.020 --> 00:59:09.220]   you say a lightning storm afterwards there was there was something that was in the air that even
+[00:59:09.220 --> 00:59:15.700]   when i shut off the biocharger i i would see my fluorescent light tube still blinker over time i
+[00:59:15.700 --> 00:59:20.340]   don't know yeah never understood exactly what was causing that but there are certain times that you
+[00:59:20.340 --> 00:59:26.340]   will see things like that that will occur during the storms and the other thing i also noticed that
+[00:59:26.900 --> 00:59:32.100]   as you mentioned is the variance of sparks a little bit i always could tell that
+[00:59:32.100 --> 00:59:38.020]   some storm was coming in if i was seeing more activity with corona discharge with it yeah no
+[00:59:38.020 --> 00:59:42.500]   that's that's yeah exactly whenever i use mine i'm watching the device and and seeing what it's
+[00:59:42.500 --> 00:59:48.420]   doing and it's different every time no that's really cool okay so we talked about grounding versus
+[00:59:48.420 --> 00:59:54.180]   not grounding and the issue of frequencies spark gap versus you know the way you've designed it
+[00:59:54.180 --> 00:59:59.540]   which is brilliant so let's talk about this other issue though about the difference which is the
+[00:59:59.540 --> 01:00:04.580]   dual antennas and then you went to a single antenna so in and i'm just just wanted to throw
+[01:00:04.580 --> 01:00:08.820]   this out at you but you know i know that the lacassie was basically in as well as tesla you
+[01:00:08.820 --> 01:00:13.940]   sat between two antennas and you were it kind of produced this field you know transmitting to
+[01:00:13.940 --> 01:00:19.860]   receiving and you said in between but with this single antenna design especially since
+[01:00:19.860 --> 01:00:25.940]   your original devices had this rodent coiled now you've now changed it to an aluminum toroid right
+[01:00:25.940 --> 01:00:32.100]   which i'm assuming so it might correct to assume that because you've changed it to a single antenna
+[01:00:32.100 --> 01:00:38.340]   toroid that you're not the older way of doing it the clocked tesla way of doing it was
+[01:00:38.340 --> 01:00:44.180]   sit between two antennas so that you're enveloped in the field but now you've got this ability to
+[01:00:44.180 --> 01:00:50.340]   just produce the field from one antenna creating a toroidal effect so that it's
+[01:00:50.340 --> 01:00:55.300]   kind of just basically emitting this current and then kind of coming back onto itself is that is
+[01:00:55.300 --> 01:01:00.740]   that about is this diagram kind of a representation of how does a one it's almost a field that you
+[01:01:00.740 --> 01:01:05.460]   generate i mean both of them will do it's a field that you're interacting you're going to have two
+[01:01:05.460 --> 01:01:12.100]   antennas like that but with the one of it but the other thing that you know we um we didn't realize
+[01:01:12.100 --> 01:01:17.940]   it at the very beginning but definitely after covid you know there's a social aspect of the
+[01:01:17.940 --> 01:01:23.140]   biocharger you know so typically like with the multi wave oscillator you're sitting in between
+[01:01:23.140 --> 01:01:27.140]   these antennas you know you're you're worried about whether or not you're going to get sparked
+[01:01:27.140 --> 01:01:34.340]   with each other and uh whereas with this one you have this uniform field so with this uniform field
+[01:01:34.340 --> 01:01:38.500]   you can now sit multiple people like you're showing two different people but you could easily sit
+[01:01:38.500 --> 01:01:43.380]   you know three four five people around it right right they're all still really within that exact
+[01:01:43.380 --> 01:01:49.380]   same type of field and now it becomes more of a social event and one of the things that we're
+[01:01:49.380 --> 01:01:56.020]   seeing especially in businesses that people are really attracted to that part of it you know but
+[01:01:56.020 --> 01:02:02.100]   it actually becomes this event that people like to go to and you know many many locations you know
+[01:02:02.100 --> 01:02:06.340]   they've met new friends as a result of that you know and they also get to have that shared
+[01:02:06.340 --> 01:02:11.300]   experience that goes along with it you know we have places that use it for meditation or
+[01:02:11.300 --> 01:02:19.220]   breathwork or you know however you want or you're just socializing you know there's this aspect of
+[01:02:19.220 --> 01:02:24.980]   having that connection communally and where you can share your shared experiences we find that that's
+[01:02:24.980 --> 01:02:31.220]   also a very powerful part of that biocharger that you're you have this shared experience with people
+[01:02:31.220 --> 01:02:37.300]   and you know people like that you know you know medicine has gotten so isolated you know you
+[01:02:37.300 --> 01:02:45.060]   consider hundreds of years ago you know when our fellow friends would become sick first thing we
+[01:02:45.060 --> 01:02:50.020]   would do is you know bring them food you know we would help them with their crops you know we would
+[01:02:50.020 --> 01:02:56.420]   pray for them and things like that nowadays everything is just so isolated we just feel so alone with it
+[01:02:56.420 --> 01:03:02.500]   and this sort of brings that community back together and people really are gravitating with it and
+[01:03:02.500 --> 01:03:07.620]   that's really part of the the attraction with the biocharger especially in a professional setting
+[01:03:07.620 --> 01:03:12.500]   is people really like that yeah you know I think you're really kind of hit on something that is
+[01:03:12.500 --> 01:03:17.380]   really a unique aspect of the device is that it's meant for groups of people because you know I'm
+[01:03:17.380 --> 01:03:22.500]   really into all these different you know things and and one of the things that I've been looking at
+[01:03:22.500 --> 01:03:27.940]   recently is just the you know like these ancient you know like cathedrals and chambers and how
+[01:03:27.940 --> 01:03:32.820]   they're not really churches they're more like healing centers you know like the the windows
+[01:03:32.820 --> 01:03:38.500]   and then the sculptures everything are based on somatic designs you know of frequencies on water
+[01:03:38.500 --> 01:03:42.340]   and then there's certain frequencies that these these buildings will create and they're meant for
+[01:03:42.340 --> 01:03:47.140]   groups of people to come in and do group healing you know that's what these ancients did with these
+[01:03:47.140 --> 01:03:52.260]   frequencies and these structures and so that makes a lot of sense to me and then so you know if you
+[01:03:52.260 --> 01:03:56.340]   you know I just for the for the folks that aren't really familiar I don't know I'll just do a real
+[01:03:56.340 --> 01:04:00.420]   quick one if you don't mind Jim but I just kind of wanted to show people like you know this was
+[01:04:00.420 --> 01:04:07.140]   I don't know how many years ago is this I mean you started tinkering around it's 80 years ago right
+[01:04:07.140 --> 01:04:14.420]   80 years ago the original idea of using you know electricity for healing and wellness came from
+[01:04:14.420 --> 01:04:19.140]   you know this Tesla and Likovsky but this is what it looked like and you know when I was using my
+[01:04:19.140 --> 01:04:25.940]   Likovsky the you know basically following his guidance is 30 inches right it's 30 or 33 inches
+[01:04:25.940 --> 01:04:31.220]   between the antennas and it's just this is how it looked when people were using these devices in
+[01:04:31.220 --> 01:04:37.380]   the medical field and also for healing and wellness back in the day 80 years ago this is what the
+[01:04:37.380 --> 01:04:43.780]   device looked like and this is the original olesa that Likovsky created and this is all of the archival
+[01:04:43.780 --> 01:04:49.300]   footage you know pictures of what people were doing and so you could see that it was a singular
+[01:04:49.300 --> 01:04:54.340]   experience and you had to be like 30 inches you didn't get a lot of space and that's why I always
+[01:04:54.340 --> 01:05:00.900]   kept getting shocked all the time because 30 inches is not very wide and so you always end up bumping
+[01:05:00.900 --> 01:05:05.940]   it with a knee or an elbow and you just get zapped and then but the whole idea though is people sat
+[01:05:05.940 --> 01:05:11.140]   between these antennas and I think that I think it's just so cool what you created so that you
+[01:05:11.140 --> 01:05:16.580]   basically have taken this you know this experience and you've created this group environment and
+[01:05:16.580 --> 01:05:21.860]   I think that and the field is huge it's six feet in diameter right so well it follows the inverse
+[01:05:21.860 --> 01:05:26.660]   square like anything else does oh yeah obviously the closer you get right we try to keep it uniform
+[01:05:26.660 --> 01:05:33.940]   by we all sit within you know two to three feet around the biocharges the the ideal of what we try
+[01:05:33.940 --> 01:05:38.820]   to do with it okay so you say you get you know a group of people you could easily sit you know five
+[01:05:38.820 --> 01:05:43.700]   or six people around it we typically don't sit behind it just because you have the power cord
+[01:05:43.700 --> 01:05:48.020]   and things like that around it okay you don't really want to stand on the power cord or something
+[01:05:48.020 --> 01:05:52.100]   like that when you're that close to it no that right that's good point the inverse square rule
+[01:05:52.100 --> 01:05:56.580]   for those of you who haven't heard that before Jim what's the best way you'd describe that so
+[01:05:56.580 --> 01:06:01.380]   every time you double the distance it's one fourth the power there you go so you want to sit so even
+[01:06:01.380 --> 01:06:06.020]   though the field is six feet then it's more like the same thing with the lacoskey right which is you
+[01:06:06.020 --> 01:06:10.740]   want to be close to it you know within 30 inches or 36 inches or 36 inches yeah you get the voltage
+[01:06:10.740 --> 01:06:15.620]   to make that field you know so that that stuff drops off pretty quickly within and yeah you can
+[01:06:15.620 --> 01:06:21.140]   get it a little further out but you know when we started to look at it people were like yeah I
+[01:06:21.140 --> 01:06:25.700]   would look at it like the rock concert you know when you got the free rock concert tickets everyone
+[01:06:25.700 --> 01:06:32.180]   wanted to front seat you know and then the next question is B is you know if i'm you know a little
+[01:06:32.180 --> 01:06:37.140]   further out am I getting the same benefit well really no you're not so it's not exactly the
+[01:06:37.140 --> 01:06:41.300]   same even though you're in a field you probably will get benefit it will be different than the
+[01:06:41.300 --> 01:06:46.420]   the one that's sitting closest to it yeah no yeah that's funny you mentioned that
+[01:06:46.420 --> 01:06:51.460]   I originally lived in Honolulu for a long time and they got the Waikiki shell and I can't tell you
+[01:06:51.460 --> 01:06:57.220]   how many different concerts I attended sitting outside the shell yeah exactly yeah you know we
+[01:06:57.220 --> 01:07:01.940]   all be doing the our well my my first when I was first doing it in Montana when I first
+[01:07:01.940 --> 01:07:06.900]   started selling the Bell system I used to just have an open door policy and people would come by I
+[01:07:06.900 --> 01:07:12.740]   think I ran it like two or three times a day and I'd have sometimes 20, 25 people standing around
+[01:07:12.740 --> 01:07:17.940]   it you know all at once and you know that part is a neat experience I mean there is that power
+[01:07:17.940 --> 01:07:22.420]   the numbers you know just like in prayer or meditation anything else like that you get a group of people
+[01:07:22.420 --> 01:07:28.900]   together people like that experience more than individually but then there's always that you know
+[01:07:28.900 --> 01:07:35.460]   loss effect that you get further out that goes on with it yeah so I took a look at your the 114
+[01:07:35.460 --> 01:07:40.900]   page user guide which I think is fantastic that there is a guide and it's extremely detailed
+[01:07:40.900 --> 01:07:44.980]   and then so I just want to point out some things and if you could kind of touch on them and why
+[01:07:44.980 --> 01:07:49.780]   they're so important and you know just for people that are interested in experiencing the
+[01:07:49.780 --> 01:07:54.980]   biocharger but I kind of just pulled four real important things from the usage standpoint which
+[01:07:54.980 --> 01:08:00.020]   you know staying hydrated you know again this you know sit within three feet from the
+[01:08:00.020 --> 01:08:05.380]   biocharger for the best effect and keep your feet off the floor which is that grounding issue
+[01:08:05.380 --> 01:08:09.060]   and then this whole thing about not touching others you know don't because you don't spark right
+[01:08:09.060 --> 01:08:13.780]   is that kind of way you spark between it yeah my earlier versions when I was building you know so
+[01:08:13.780 --> 01:08:20.100]   my first multi wave oscillator I was getting about a foot and a half spark off of each ring
+[01:08:20.100 --> 01:08:26.660]   and you know this is when we were all young and dumb and the I the game was as you'd sneak up
+[01:08:26.660 --> 01:08:31.300]   behind the other guy we used to be able to pull sparks sometimes four or five inches off of the
+[01:08:31.300 --> 01:08:36.820]   guy's ears so what the worst part about it is the guy would point the finger and get behind the
+[01:08:36.820 --> 01:08:42.740]   ear he didn't feel anything but the other guy he felt it a lot worse so that's that's part of
+[01:08:42.740 --> 01:08:47.620]   the reason and also part of that same story back in the day you know I had a guy that was like
+[01:08:47.620 --> 01:08:52.900]   well what would happen if I was grounded and I grabbed a spark and I was like you really don't
+[01:08:52.900 --> 01:08:58.580]   want to do that you probably feel a lot more and he was super brave he's like I'm gonna go ahead
+[01:08:58.580 --> 01:09:04.660]   and do it and boy it hit him pretty hard so that whole idea of being insulated off the ground is
+[01:09:04.660 --> 01:09:10.660]   always the better idea than being barefoot on you know a concrete floor or something like that so
+[01:09:10.660 --> 01:09:14.980]   that's more of like that induced voltage that you get with it you know that's part of the reason
+[01:09:14.980 --> 01:09:19.860]   why you want to have your feet up off the ground and you know that three feet within a three feet
+[01:09:19.860 --> 01:09:25.300]   distance is really that maximum field that you want to be in yeah and then of course there's
+[01:09:25.300 --> 01:09:30.340]   precautions so I think it's real important and I warn people in all of my videos about these
+[01:09:30.340 --> 01:09:35.540]   devices is you know that this is absolutely not for people who have electronic implants
+[01:09:36.420 --> 01:09:41.700]   and I saw that warning all throughout your guide so bottom line though unfortunately everyone if
+[01:09:41.700 --> 01:09:46.980]   you've got an implant or you've got a device that's attached to you insulin pumps those kinds of
+[01:09:46.980 --> 01:09:54.180]   things I mean you just don't want to get into this high voltage field and it's a precaution I guess
+[01:09:54.180 --> 01:10:00.580]   more than just a precaution it's a warning don't do it right well for us it's so part of the you know
+[01:10:00.580 --> 01:10:05.700]   that CE markers they you know they they were the ones that really came out with that part of it saying
+[01:10:05.700 --> 01:10:11.140]   it yeah you know like electronic parts and things like that we still have people that have pacemakers
+[01:10:11.140 --> 01:10:15.780]   that will use a biocharger but they typically sit about you know six feet away from the biocharger
+[01:10:15.780 --> 01:10:22.820]   so you may not get as much of that magnetic field in the you know the electric field but you still
+[01:10:22.820 --> 01:10:27.300]   are getting the benefits of the radio frequencies and harmonics and you also are getting the benefits
+[01:10:27.300 --> 01:10:32.420]   of the the light obviously light will travel you know further distance and that but they all follow
+[01:10:32.420 --> 01:10:39.940]   that inverse square loss but you know depending on the you know the how far away you are and things
+[01:10:39.940 --> 01:10:47.140]   like that so but definitely a hard no is any electron what I call electromechanical devices
+[01:10:47.140 --> 01:10:52.980]   implants like you were saying so if you're you know monitoring with the glucose monitoring
+[01:10:52.980 --> 01:10:58.900]   your insulin and then you have it send a signal over to a thing that's automatically delivering
+[01:10:58.900 --> 01:11:05.460]   your insulin we just don't want to have anything affected or chemotherapy where it may inadvertently
+[01:11:05.460 --> 01:11:11.220]   create a problem with it we've never had an issue with it the same thing with the pacemakers it's really
+[01:11:11.220 --> 01:11:19.140]   you know the pacemakers after the first generation it wasn't really that much of an issue they
+[01:11:19.140 --> 01:11:24.100]   they worked with the shielding and things like that so we've never had an issue with anyone
+[01:11:24.100 --> 01:11:29.620]   especially with the the pacem well it never had any issues at all but that's mainly because we set
+[01:11:29.620 --> 01:11:33.220]   out all these precautions and things like that oh yeah that's smart yeah you're right i mean the
+[01:11:33.220 --> 01:11:38.020]   original i guess the first decade of pacemakers they were having lots of problems in airports or
+[01:11:38.020 --> 01:11:43.140]   i going through those x-ray machines and things like that right uh okay that's that's good to hear
+[01:11:43.140 --> 01:11:46.820]   that that's more like waves or anything else there's so many different things that would affect it
+[01:11:46.820 --> 01:11:51.860]   right on the first generation so yeah they figured that part of it out and same thing with uh some
+[01:11:51.860 --> 01:11:57.060]   of them that have these electric stim devices that uh implantable in the bodies you know we don't want
+[01:11:57.060 --> 01:12:02.340]   to have that that's mainly because we don't want to scramble that up and damage the system or
+[01:12:02.340 --> 01:12:09.140]   something like that so uh those are main things but overall we've never had any issue when it came
+[01:12:09.140 --> 01:12:14.340]   to anything like that but you you must take precautions and you know that's part of our training and
+[01:12:14.340 --> 01:12:19.460]   education you know we're just not dropping the biocharger off and saying you know good luck that
+[01:12:19.460 --> 01:12:25.700]   you know we have like you clearly see with the manual but we have a just an outstanding onboarding
+[01:12:25.700 --> 01:12:30.660]   and advanced training that we do and it's all done remotely that uh you know by the time you're
+[01:12:30.660 --> 01:12:35.300]   really done with it you know exactly how to use the biocharger you know how to access all the
+[01:12:35.300 --> 01:12:40.740]   recipes you know how to move them back and forth you know how to search for recipes so you really
+[01:12:40.740 --> 01:12:46.180]   get to be pretty proficient very quickly so we really made it easy for you so it's not like
+[01:12:46.180 --> 01:12:51.300]   you're programming in a bunch of numbers and things like that and then you hit set you know you just
+[01:12:51.300 --> 01:12:58.420]   select the recipe name you hit start and off you go with it and uh we just really make it just a
+[01:12:58.420 --> 01:13:04.020]   really good user experience yeah yeah i've got devices that literally would take a college course
+[01:13:04.020 --> 01:13:10.340]   to figure out how to use the device proficiently so when i look at your device it's so
+[01:13:10.340 --> 01:13:16.420]   user-friendly uh and that's such a that's such a you know you know just a nice change so i guess
+[01:13:16.420 --> 01:13:20.820]   the other thing is too is with that support you know we're always there for you so even after you
+[01:13:20.820 --> 01:13:26.420]   have your training advanced training you call us up and you know we're there we're there for it and
+[01:13:26.420 --> 01:13:32.740]   that's part of what drives our business is uh having that outstanding support and uh advanced
+[01:13:32.740 --> 01:13:39.540]   training so one of the things that we offer is uh you know 45 day no questions ask money back guarantee
+[01:13:39.540 --> 01:13:45.060]   you have to you know go through the training and advanced training and with it but uh you know we've
+[01:13:45.060 --> 01:13:50.740]   been able to keep that return rate down below one percent because of our outstanding support team
+[01:13:50.740 --> 01:13:56.420]   we have with it so you know we we we get the results that people are looking for no they're
+[01:13:56.420 --> 01:14:04.100]   very impressive it's just something that i i tell people too um about how well you know a device works
+[01:14:04.100 --> 01:14:11.300]   is just go on ebay and look for them being sold used yeah and you know and i actually have like
+[01:14:11.300 --> 01:14:15.700]   alerts set up for every type of device because though that's my you know my realm and i'm always
+[01:14:15.700 --> 01:14:20.980]   looking at like you know and i actually purchased most of my stuff used uh just because it saves a
+[01:14:20.980 --> 01:14:26.420]   ton of money and i found you know like all the devices i mentioned i found them used and um yeah
+[01:14:26.420 --> 01:14:32.180]   i've only seen a biocharger pop up once in three years but i've but if you go right now you know
+[01:14:32.180 --> 01:14:38.260]   there'll be just lists of different rife devices um that are for sale that are used because you
+[01:14:38.260 --> 01:14:43.780]   know you just imagine they're difficult to use uh and and also there's so many variances with the
+[01:14:43.780 --> 01:14:48.900]   right machines too you know really output is the most important thing so if we look at you know
+[01:14:48.900 --> 01:14:54.260]   traditional rife machines the ones that are out in the out and about you know some of them are like
+[01:14:54.260 --> 01:15:01.940]   30 watt output you know you know maybe up to 120 the most powerfuls 300 watts you know we're variable
+[01:15:01.940 --> 01:15:06.900]   up to a thousand watts on the antenna so when you really compare that ours is a rife machine
+[01:15:06.900 --> 01:15:12.180]   it's a it's a very powerful rife machine and you know rife was operating anywhere from seven to
+[01:15:12.180 --> 01:15:18.020]   eight hundred watts uh when his systems were out there so we you know we're not just uh you know
+[01:15:18.020 --> 01:15:22.660]   we just took a bunch of these devices and threw it into a box and say you know it's like the Swiss
+[01:15:22.660 --> 01:15:28.500]   army now but we know we're best in class and a lot of them yeah very cool i mean one other question
+[01:15:28.500 --> 01:15:34.740]   about uh using the device you know so many people now are wearing aura rings and fit bits and
+[01:15:34.740 --> 01:15:40.020]   you know like smart watches i mean do you tell people to take that stuff off or is it safe to kind
+[01:15:40.020 --> 01:15:44.980]   of just you know you know be reading your phone while you're sitting next to it well if we've never
+[01:15:44.980 --> 01:15:51.940]   had any issues with the phone itself as far as like uh hurting it or damaging it but what it does is
+[01:15:51.940 --> 01:15:56.740]   when you're trying to sit around the biochargers it affects the touch screen so that touch screen
+[01:15:56.740 --> 01:16:01.140]   works off a capacitive touching yeah so what'll happen is if you're trying to type on your
+[01:16:01.140 --> 01:16:06.260]   biocharger or i mean on your phone what you will see sometimes it's just starting to type out a
+[01:16:06.260 --> 01:16:10.180]   bunch of letters even though you're not really touching anything and if you try hitting the
+[01:16:10.180 --> 01:16:15.540]   backspace you know it even worse it you know or if you try it or the screen just like bounces around
+[01:16:15.540 --> 01:16:21.380]   you know we had one time uh uh somebody had the biocharger it's only when it's you don't have to
+[01:16:21.380 --> 01:16:25.140]   turn the phone totally off and it's like when you have it on and you're in that mode of
+[01:16:25.860 --> 01:16:31.940]   that touch screen and you're trying to use it um somebody set the phone down like that and after
+[01:16:31.940 --> 01:16:37.140]   15 minutes they get a friend they call from their uh family member saying oh you just called me a
+[01:16:37.140 --> 01:16:42.340]   hundred times are you all right type of thing so it didn't hurt the phone but it did that now
+[01:16:42.340 --> 01:16:48.660]   with the smart watch or the the watch itself because that's always in that touch screen mode
+[01:16:48.660 --> 01:16:55.380]   you may want to set that off to the side yeah the oar rings uh you know the the
+[01:16:55.380 --> 01:16:59.860]   loop band people haven't really had too much of an issue and one thing it's really neat about
+[01:16:59.860 --> 01:17:05.060]   anyone it's wearing any of those uh you know those devices that are measuring different things was
+[01:17:05.060 --> 01:17:11.540]   it whether it's HRV or sleep and things like that you know we clearly moved the needle every time
+[01:17:11.540 --> 01:17:17.540]   with those with those types of systems people especially over time see those numbers going up
+[01:17:17.540 --> 01:17:24.100]   their sleep quality is much better uh there are HRVs much better they recover faster their
+[01:17:24.100 --> 01:17:28.900]   heart rate is much better heart rate variability is much better yeah i thought that would be really
+[01:17:28.900 --> 01:17:34.500]   cool to kind of you know literally watch before during and after you know the the data coming
+[01:17:34.500 --> 01:17:39.700]   off the ring or the theory is a little tricky just because you know you're creating that field in
+[01:17:39.700 --> 01:17:45.620]   there right but then it's a little bit trickier with it yeah yeah i'm gonna imagine because you
+[01:17:45.620 --> 01:17:50.420]   know at the same time you know it's sitting in this field so you know is it really able to even
+[01:17:50.420 --> 01:17:56.340]   function yeah you get the exact answer on you know compared to when it's off i'm not really quite
+[01:17:56.340 --> 01:18:02.180]   sure on that one yeah okay no that's just that's good to know uh okay so let's talk about you know
+[01:18:02.180 --> 01:18:06.340]   like so you know like you mentioned kind of a swiss army knife but it's not it's just this really
+[01:18:06.340 --> 01:18:13.380]   best-in-class compilation of different you know functionalities modalities and technical specs
+[01:18:13.380 --> 01:18:18.820]   so but because i wanted to kind of talk about individually just to kind of just get your feedback
+[01:18:18.820 --> 01:18:23.700]   on this because as the more i researched into the biocharger the more i'm starting to wonder like
+[01:18:23.700 --> 01:18:28.820]   wow you know where were you getting where was this you know like 15 years ago when i you know i bought
+[01:18:28.820 --> 01:18:35.300]   this giant PMF device for my horse um and those things are really expensive you know the big ones on
+[01:18:35.300 --> 01:18:40.260]   in on that run on you know that real you roll around on wheels like i mentioned i've had i have
+[01:18:40.260 --> 01:18:46.980]   like i have four five pmf devices four different rifed if i got all this stuff and i'm not even i'm
+[01:18:46.980 --> 01:18:52.580]   like this i'm the wellness center for myself basically in my family and my pets and then you've
+[01:18:52.580 --> 01:18:55.780]   got all these you know obviously they got the wellness centers themselves they have the same
+[01:18:55.780 --> 01:19:00.180]   issue they've got all this equipment and so like you know like the biocharger can do so much i'm
+[01:19:00.180 --> 01:19:04.500]   just wondering like you know like you know like you know do you know if you wanted to do all these
+[01:19:04.500 --> 01:19:08.820]   different things you know you either buy them separately or you biocharger might replace it right
+[01:19:08.820 --> 01:19:12.580]   so can we talk about each individual one and kind of just say hey if i like let's i'm coming
+[01:19:12.580 --> 01:19:17.940]   from the perspective of like this device right here this is uh similar to what i own right now
+[01:19:17.940 --> 01:19:23.220]   i've got this one as well i've had this one i'm just like wondering like you know instead of
+[01:19:23.220 --> 01:19:28.900]   having this and and having three or four or five or seven different things having just one thing
+[01:19:28.900 --> 01:19:34.820]   that does it all is it would be just a miracle at this point and save a lot of money so let's talk
+[01:19:34.820 --> 01:19:40.420]   about pulse electromagnetic field and the devices that come along and they come from every little
+[01:19:40.420 --> 01:19:45.940]   tiny itty bitty thing like the mirror made all the way up to the giant magnwaves um so you know like
+[01:19:45.940 --> 01:19:54.180]   so the biocharger as a pemf device right first question to the everybody who says hey you take
+[01:19:54.180 --> 01:19:59.860]   out the p and you got emf and quote isn't emf bad could you dress that because you've you dressed
+[01:19:59.860 --> 01:20:05.140]   it so well when you were talking to i think it was day of ashry uh you know in terms of just like in
+[01:20:05.140 --> 01:20:12.900]   the difference between pemf and emf you know emf because everyone hears emf bad right that's all
+[01:20:12.900 --> 01:20:20.020]   you hear nowadays right sure yeah i'll talk about the you know the emf uh issue and i can debate both
+[01:20:20.020 --> 01:20:25.300]   sides of the equation you know so when you look at the scientific evidence that's out there especially
+[01:20:25.300 --> 01:20:30.820]   like uh you know power lines cell phones things like that you know when you look at the you know
+[01:20:30.820 --> 01:20:36.660]   traditional scientific evidence you know there isn't a lot of that you know you you're not producing
+[01:20:36.660 --> 01:20:42.500]   fields enough that uh are creating heating you know power lines are probably the biggest source
+[01:20:42.500 --> 01:20:49.460]   of noise but again everything follows the inverse square loss so you know the the power lines are
+[01:20:49.460 --> 01:20:55.300]   pretty far away from you so you're really not getting a lot of that field from it where i in my
+[01:20:55.300 --> 01:21:02.580]   opinion you know in the scientific consensus is saying there's probably you know not much to that
+[01:21:02.580 --> 01:21:10.500]   um but there is a difference between you know pulsing it and then a continuous wave so when you
+[01:21:10.500 --> 01:21:16.980]   look at traditional emf noise you know you got the power line so power lines can't be pulsed off and
+[01:21:16.980 --> 01:21:21.620]   on otherwise your motors would be surging up and down and they would be burning up they wouldn't be
+[01:21:21.620 --> 01:21:29.380]   working properly so you know that that's more of a what i consider a continuous wave um you also
+[01:21:29.380 --> 01:21:34.660]   have like cell phones you know cell phones they can't be pulsed off and on because you lose connection
+[01:21:34.660 --> 01:21:41.380]   and that security part that goes along with it you know for like computers and things like that so
+[01:21:41.380 --> 01:21:48.260]   i look at those as more as a continuous wave type of an effect where there might be more of that
+[01:21:48.260 --> 01:21:54.180]   entrainment that you would typically see with it so i think that that's distinctly different than
+[01:21:54.180 --> 01:22:00.580]   say what nature is actually doing which is pulsing so you know when you look at um all the emf that
+[01:22:00.580 --> 01:22:06.180]   may have made produces if you add up all the power line energy you add up everything from cell phones
+[01:22:06.180 --> 01:22:14.660]   Wi-Fi communications you know uh military communications emergency communications
+[01:22:14.660 --> 01:22:21.780]   microwaves all that add that up it still magnitudes less than what nature produces as i mentioned
+[01:22:21.780 --> 01:22:28.900]   nature is producing these lightning discharges that are occurring into planet 100 every second that's
+[01:22:28.900 --> 01:22:33.460]   maintaining you know that each one's producing hundreds of thousands of different little radio
+[01:22:33.460 --> 01:22:39.620]   frequencies and harmonics you know that span that entire spectrum as well as all the other planets
+[01:22:39.620 --> 01:22:44.900]   and everything else you add up all that energy it's still magnitudes greater and we evolved in that
+[01:22:44.900 --> 01:22:51.140]   sea of energy so there is a part that it is a necessary part of our lives it isn't just you know
+[01:22:51.140 --> 01:22:56.740]   when we go outside we just don't feel good because we're outside it's because we are exposed to that
+[01:22:56.740 --> 01:23:02.260]   natural energy and when you think about it hundreds of years ago you know we spent most of our time
+[01:23:02.260 --> 01:23:07.780]   outdoors you know um tending to the crops you know chopping wood survived the next year
+[01:23:07.780 --> 01:23:15.140]   whereas now we're spending you know 90% of our time 93% of our time indoors in the United States
+[01:23:15.140 --> 01:23:20.660]   and most of the time we're you know surrounded by that man you know the man-made stuff and
+[01:23:20.660 --> 01:23:24.820]   you know if you're in a building it's got rebar in the walls or metal room for something like that
+[01:23:24.820 --> 01:23:30.260]   that's literally blocking all that energy and there was a great study that was done at Max Planck
+[01:23:30.260 --> 01:23:36.580]   Institute they were looking at a I think it was about a 25 year period and I think they had over
+[01:23:36.580 --> 01:23:43.060]   300 participants in this and they had two buildings one it was fully shielded and the other one that
+[01:23:43.060 --> 01:23:48.580]   wasn't identical buildings but there was shielding that was built into it and they would move them
+[01:23:48.580 --> 01:23:54.580]   back and forth and monitor them and they found that physiological changes were occurring you know
+[01:23:54.580 --> 01:24:00.420]   within a very short order days that you were seeing changes in the body from it so there is an
+[01:24:00.420 --> 01:24:05.620]   aspect of it that when you shield that it has an effect not only that when you look at you know
+[01:24:05.620 --> 01:24:11.540]   this energy level that's varying you know what we call solar flares and all that stuff so they've
+[01:24:11.540 --> 01:24:20.100]   been monitoring all this activity since the 1850s and you know since then you know it's always been
+[01:24:20.100 --> 01:24:25.620]   varying you know sometimes it there's less energy in the atmosphere you know coming from nature
+[01:24:25.620 --> 01:24:30.900]   sometimes there's more really depending on that when I consider the cosmic dance so you got all
+[01:24:30.900 --> 01:24:35.940]   these plants and you know stars and everything moving around and you know you're getting closer to
+[01:24:35.940 --> 01:24:40.100]   some things that are larger you're getting further away from other things you know that you know
+[01:24:40.100 --> 01:24:45.940]   everything is just shifting around so nothing is really constant and what they found is when there
+[01:24:45.940 --> 01:24:52.820]   was more activity more solar activity you had better crops you had less deaths you had less
+[01:24:52.820 --> 01:25:02.180]   stillbursts you had better winds less turmoil and you know so there is a lot of variability in it
+[01:25:02.180 --> 01:25:07.540]   I always like to tell the story there's what they call the Carrington event I just found out about
+[01:25:07.540 --> 01:25:15.940]   this about a six months ago so there was a when they first started looking at solar storms this is
+[01:25:15.940 --> 01:25:21.780]   a guy named Carrington it was you know monitoring from the earth looking at through his telescope
+[01:25:21.780 --> 01:25:26.020]   and looking at the sun and was seeing all this activity it was going on in the sun I mean it was
+[01:25:26.020 --> 01:25:34.340]   just going off big time solar flares galore and then all of a sudden there was this massive discharge
+[01:25:34.340 --> 01:25:41.060]   from the sun it created I think is there hydrogen or helium bubble that blasted bright to earth
+[01:25:41.060 --> 01:25:48.260]   and at that point it lit up the entire planet for two days straight like it was daylight
+[01:25:48.260 --> 01:25:55.620]   wow that was that much energy that was a result of that and if you look up this Carrington event
+[01:25:55.620 --> 01:26:00.820]   it's it's quite the story they you know that it was reported in the Boston newspaper that the
+[01:26:01.780 --> 01:26:07.540]   of the telegraphs were overcharging because all those wires were you know laid out throughout the
+[01:26:07.540 --> 01:26:12.420]   throughout the planet and they were picking up all this energy and they were overcharging the
+[01:26:12.420 --> 01:26:18.980]   batteries and there was a telegraph that was a operator that was in Boston actually in main
+[01:26:18.980 --> 01:26:24.740]   first it said disconnected his battery and he was still communicating to the guy in Boston
+[01:26:24.740 --> 01:26:30.820]   so he told the guy in Boston to disconnect his batteries too and they were still communicating
+[01:26:30.820 --> 01:26:36.100]   without the batteries that were involved and they they reported actually were better than when the
+[01:26:36.100 --> 01:26:41.620]   batteries were there they said that the miners in Colorado woke up in the middle of night because
+[01:26:41.620 --> 01:26:46.180]   they thought it was in the middle of the day it was it was recorded and that people were reading
+[01:26:46.180 --> 01:26:52.820]   a newspaper outside at night as if it was daylight they saw the roar of Borealis as low as
+[01:26:55.300 --> 01:27:03.540]   Hawaii you know near the equator Hawaii and Panama City and it was on both sides of the globe it was
+[01:27:03.540 --> 01:27:10.340]   recorded all around the world so we have these events that we get this variability with that I
+[01:27:10.340 --> 01:27:16.980]   think is a really important part of our life that we actually evolved in so I don't necessarily fit
+[01:27:16.980 --> 01:27:23.940]   into camp that EMFs are necessarily bad because we evolved into sea of energy and when you really
+[01:27:23.940 --> 01:27:29.460]   think about it our bodies are driven by the sea of energy you know so you know when Ben Franklin
+[01:27:29.460 --> 01:27:34.340]   threw the kite up in the air you know he wasn't just generating lightning bolts during the
+[01:27:34.340 --> 01:27:41.220]   thunderstorms but even on clear days when you got the kite higher and higher you could measure a
+[01:27:41.220 --> 01:27:46.180]   difference of voltage of potential that we later found out that it's almost a million volts between
+[01:27:46.180 --> 01:27:53.380]   the upper atmosphere and earth so this energy is being maintained by what I consider the electric
+[01:27:53.380 --> 01:27:58.420]   universe which is really not the but lightning discharges and then when you have these variable
+[01:27:58.420 --> 01:28:03.380]   frequencies and harmonics that are going on from this natural event they're literally ringing
+[01:28:03.380 --> 01:28:10.020]   every cell every molecule every atom is a result of all this energy that's around so
+[01:28:10.020 --> 01:28:16.420]   I really feel this EMF this natural EMF is such a vital part of our life and when you block that
+[01:28:16.420 --> 01:28:22.740]   all out and you get rid of it it's just not a good thing now there is some pyramids or you know
+[01:28:22.740 --> 01:28:32.420]   contentions of well they're that um uh EMS may cause some uh oxidative stresses which you know
+[01:28:32.420 --> 01:28:37.540]   evidence is you know shown that you know some instances that it is causing oxidative stresses
+[01:28:37.540 --> 01:28:42.420]   but you know there's a lot of things that can cause oxidative stresses you know I can run
+[01:28:42.420 --> 01:28:46.900]   and that creates oxidative stresses I could eat the right foods and it could cause oxidative stress
+[01:28:46.900 --> 01:28:51.540]   I could eat the wrong foods and cause oxidative stress I could have an aggravating conversation
+[01:28:51.540 --> 01:28:57.220]   on the phone and it cause oxidative stresses so it may not necessarily be what we're actually
+[01:28:57.220 --> 01:29:02.580]   seeing with it although there are people that say that you know they do have issues with it but
+[01:29:02.580 --> 01:29:09.540]   you know I go back to that continuous wave versus the key in it and when you really look at all
+[01:29:09.540 --> 01:29:16.980]   the research when you add the P into it there's so many research articles it supports the benefits
+[01:29:16.980 --> 01:29:22.100]   of PEMF. No that makes complete sense thanks for sharing that out because I think that's the key
+[01:29:22.100 --> 01:29:29.620]   issue here is that post electromagnetic field versus continuous which is this man-made
+[01:29:29.620 --> 01:29:35.460]   constant that never turns off never you know changes right there's a huge difference in
+[01:29:35.460 --> 01:29:41.060]   how our bodies are you know adapt to it or don't adapt to it but I guess the other thing too is
+[01:29:41.060 --> 01:29:47.380]   is as you're mentioning proximity I kind of I phrase that to people as the term severity of
+[01:29:47.380 --> 01:29:55.060]   exposure because clearly you know I would recommend EMF shielding if you live within 1,300 feet of a
+[01:29:55.060 --> 01:29:59.620]   cell phone tower because that's what the you know that's what the science shows right that you're
+[01:29:59.620 --> 01:30:05.220]   going to you're too close to the proximity severity as opposed to you know just the general EMF and
+[01:30:05.220 --> 01:30:10.260]   then again too I mean you got all these people selling these you know fair day tents for their
+[01:30:10.260 --> 01:30:17.220]   beds and I'm always warning people you know don't sleep in a fair day cage you know it's like
+[01:30:17.220 --> 01:30:23.220]   you don't cut yourself off so yeah again I just real simply that you know EMF is good and bad
+[01:30:23.220 --> 01:30:30.900]   bad is severity of exposure proximity good is hey we grew up in it and then pulsed even
+[01:30:30.900 --> 01:30:36.420]   makes it even better it actually becomes beneficial right so now in terms of the biocharger and
+[01:30:36.420 --> 01:30:44.500]   PMF if if a if a person wanted to use the biocharger as just a PMF device does it just
+[01:30:44.500 --> 01:30:50.900]   is that a recipe that you would run or the device as by default is generating post electromagnetic
+[01:30:50.900 --> 01:30:58.100]   field yeah by default it's generating it it's mainly that I look at PMF is really PMF it's that
+[01:30:58.100 --> 01:31:03.780]   magnetic field so many of these devices you know like the ones that on the left area those are
+[01:31:03.780 --> 01:31:09.860]   more like the hymnholtz coil type so they typically have some winding it's in there and it's almost
+[01:31:09.860 --> 01:31:14.660]   like an electric magnet type that's produced in the magnetic field and then that one on the right
+[01:31:14.660 --> 01:31:21.620]   that you know the big unit those are really more of the LC circuit the inductor capacitor circuit
+[01:31:21.620 --> 01:31:28.100]   which is really the heart of the primary coil of a tesla coil so any tesla coil will have that
+[01:31:28.100 --> 01:31:35.620]   LC circuit so that LC circuit so what'll happen is in that circuit you have an inductor and you
+[01:31:35.620 --> 01:31:42.100]   have a capacitor and what happens is they ping pong back and forth with this electric field magnetic
+[01:31:42.100 --> 01:31:47.380]   field so the capacitor builds up a charge it discharges into inductor and it produces for a
+[01:31:47.380 --> 01:31:53.060]   very short period of time a very strong magnetic field which is a lot different than those ones
+[01:31:53.060 --> 01:31:58.660]   that are on the left which are really more of an electric magnet but many of the devices that are
+[01:31:58.660 --> 01:32:05.460]   really coming on strong are those more the higher energy and you know there's you know a lot of
+[01:32:05.460 --> 01:32:11.460]   questions you know they always try to differentiate themselves with you know the gals and things like
+[01:32:11.460 --> 01:32:17.060]   that of the magnetic field of those higher energy some some of them make the you know the wild claims
+[01:32:17.060 --> 01:32:25.940]   it might be 10 tesla 15 tesla something like that but I from what i've seen as far as the research
+[01:32:25.940 --> 01:32:32.820]   with it and understanding with it you can't typically use a a Gauss meter to use to measure
+[01:32:32.820 --> 01:32:40.260]   those types of systems that are LC mainly because it's such a a quick pulse and that pulse it also
+[01:32:40.260 --> 01:32:45.860]   scrambles what you're reading so what you may be reading might not be what you're producing
+[01:32:45.860 --> 01:32:52.420]   which is a of concern typically what you need to use is a whole sensor when you use a whole sensor
+[01:32:52.420 --> 01:32:57.700]   you can actually you know determine what that magnetic field instantaneous magnetic field
+[01:32:57.700 --> 01:33:03.460]   strength is as i like to call it so that that one on the right are those high energy ones
+[01:33:03.460 --> 01:33:09.140]   those are typically what you would see in a in the base of a tesla coil so if i took out the
+[01:33:09.140 --> 01:33:14.740]   secondary and the bulb and i just ran the base of it that would be more of that
+[01:33:14.740 --> 01:33:22.180]   p e m f or p m f type of it field that you would generate with it but we typically don't operate
+[01:33:22.180 --> 01:33:27.860]   it in that manner so when i started to really understand and broke down really what we were
+[01:33:27.860 --> 01:33:33.780]   doing i broke it down into those four categories of that p e m f or that that and then you have
+[01:33:33.780 --> 01:33:38.740]   the electric field which is really a little bit different than the magnetic field but they do
+[01:33:38.740 --> 01:33:45.860]   different functions and you know the the beauty of a tesla coil whether it's the multi wave oscillator
+[01:33:45.860 --> 01:33:52.420]   or those off versions of you know the spin-offs of the earlier versions that i was working with
+[01:33:52.420 --> 01:33:59.300]   they have a magnetic field component that's uh comparable to it but you have to be relatively
+[01:33:59.300 --> 01:34:05.220]   close to that field so typically to really get the maximum benefit of the magnetic field of the
+[01:34:05.220 --> 01:34:13.700]   biocharger you would want to be close to the base of the biocharger versus up more towards the top
+[01:34:13.700 --> 01:34:19.620]   so sometimes people will put their legs or their knees or something like that close to the magnetic
+[01:34:19.620 --> 01:34:25.540]   field so you're you're always getting at when you're running the biocharger that's just part of it
+[01:34:25.540 --> 01:34:31.620]   you can't isolate it just because that's what really what drives the biocharger okay so so that's
+[01:34:31.620 --> 01:34:35.940]   so yeah because i you know like bottom line the way i was looking at it is so you're running the
+[01:34:35.940 --> 01:34:41.380]   biocharger and it's not going to be um something that you're going to feel because like like with
+[01:34:41.380 --> 01:34:46.900]   one of these i i can feel it i mean it's so strong but then you're like a paddle device like i think
+[01:34:46.900 --> 01:34:51.700]   this is two three thousand gauss uh you know in all i know it's running only because i can hear the
+[01:34:51.700 --> 01:35:00.420]   click but i i don't feel it so uh in terms of like can a user that wants to get a p m f effect from the
+[01:35:00.420 --> 01:35:05.460]   biocharger can they adjust the pulse rate or adjust the gauss or is just it's going to be a
+[01:35:05.460 --> 01:35:11.060]   constant thing and to use it you know and to experience more of the p m f is just be closer to the base
+[01:35:11.060 --> 01:35:15.780]   is that what you would recommend yeah you would be closer to the base but there is a differentiation
+[01:35:15.780 --> 01:35:21.860]   between like especially the the one that's on the right there so that that type of circuit they
+[01:35:21.860 --> 01:35:28.100]   don't really get much of a a variability of them many of them uh still use the spark gap design so
+[01:35:28.100 --> 01:35:33.300]   right you'll see some of them they'll pulse it that low frequency part of the reason why you
+[01:35:33.300 --> 01:35:40.260]   get that like you say you feel that it almost like it causes you to tense up or what i like to say
+[01:35:40.260 --> 01:35:46.660]   flop like a fish and it's almost a little bit uncomfortable now our field magnetic field strength
+[01:35:46.660 --> 01:35:55.860]   is pretty comparable to that but the box is so the magnetic field is inside the box so um the
+[01:35:55.860 --> 01:36:00.180]   further out you get from it the less you're going to get that whereas you know with that
+[01:36:00.180 --> 01:36:05.620]   system you're laying you're right up against that primary coil that's on there and that's why they
+[01:36:05.620 --> 01:36:11.700]   have that big insulation that's around that is because uh uh that plastic that's around that so
+[01:36:11.700 --> 01:36:19.300]   you you won't get hurt from that but uh but uh we didn't like that experience with it that you know
+[01:36:19.300 --> 01:36:25.460]   like you you as you mentioned you feel that it's almost uncomfortable especially as you turn it up
+[01:36:25.460 --> 01:36:30.660]   and there is also almost like this twitching effect so when you're pulsing at those low frequencies
+[01:36:30.660 --> 01:36:35.300]   you just see yourself in it yeah i almost look at it as like flapping like a fish and
+[01:36:35.300 --> 01:36:39.380]   we didn't want to have that experience but we still wanted to have that magnetic field
+[01:36:39.380 --> 01:36:45.860]   you know benefit with it so we're slightly out of that range where you get that and the other
+[01:36:45.860 --> 01:36:52.740]   thing is too is you know because it's part of the circuit and it's also being influenced by the
+[01:36:52.740 --> 01:36:58.820]   recipe itself we're able to pulsate at different frequencies so you know that system like the one
+[01:36:58.820 --> 01:37:04.980]   that's on the right you know yeah i think pulse systems go up to 100 hertz on theirs a lot of them
+[01:37:04.980 --> 01:37:11.620]   are just doing that excuse me three to four hertz or maybe up to 20 hertz if they pulse it up on there
+[01:37:12.820 --> 01:37:17.700]   you know we're able to pulse the magnetic field up to 50 000 hertz and we're also able to
+[01:37:17.700 --> 01:37:23.460]   you know vary within that pulse with that duty cycle so there you know our magnetic field is far
+[01:37:23.460 --> 01:37:29.460]   more complex and far more variable than what you would typically see with that type of system but
+[01:37:29.460 --> 01:37:34.820]   we're still generating this the field in a very similar way as far as that okay that
+[01:37:34.820 --> 01:37:40.900]   circuit that lc circuit that goes along with it all right so i mean we we may not be best in class
+[01:37:40.900 --> 01:37:46.020]   at making you flop like a fish but i consider as best in class in the variability that you get
+[01:37:46.020 --> 01:37:51.780]   with it as far as also the programmability that you go along with it you know part of that magnetic
+[01:37:51.780 --> 01:37:58.820]   MRI magnetic resonance is you know you have that variability in that magnetic resonance and you really
+[01:37:58.820 --> 01:38:04.500]   want to have that variability to create the different fields that you have so our magnetic field is
+[01:38:04.500 --> 01:38:11.780]   definitely a variable but that's also driven by the recipe itself so no that makes sense yeah so
+[01:38:11.780 --> 01:38:17.860]   it's a subtle pmf device and definitely not meant for horses well i mean they we have people
+[01:38:17.860 --> 01:38:21.700]   that are using it for horses and so i would love to see what that does in a point where you
+[01:38:21.700 --> 01:38:27.540]   yeah you you want them to to really feel that one and you know people still have the similar
+[01:38:27.540 --> 01:38:33.220]   experiences with it i mean they may not have that uh you know intense what you really feel
+[01:38:33.220 --> 01:38:38.660]   at that moment in time while you're using it but people aren't really looking for how you feel
+[01:38:38.660 --> 01:38:43.540]   while you're using the biocharger they're looking or any of these devices they're looking at how
+[01:38:43.540 --> 01:38:49.140]   you feel after you use it so yeah after you use the biocharger you know people are just
+[01:38:49.140 --> 01:38:55.540]   reporting all sorts of different experiences and outcomes that are very favorable for what they
+[01:38:55.540 --> 01:39:00.340]   were looking for yeah no good point now when it comes to rifen we've discussed rifed quite a bit
+[01:39:00.340 --> 01:39:04.820]   already and i just kind of wanted to point out that you know uh what you were saying earlier is
+[01:39:04.820 --> 01:39:10.740]   that you know the true way of using rif the way he did it was through radio frequency transmission
+[01:39:10.740 --> 01:39:16.260]   basically he ran like a little mini am radio station and then he shot frequencies through it
+[01:39:16.260 --> 01:39:22.100]   you know that's kind of how my interpretation is and and instead you're you're basically broadcasting
+[01:39:22.100 --> 01:39:27.220]   frequencies through this field right that while you're in the field you're experiencing instead of
+[01:39:27.220 --> 01:39:32.900]   it being like radio waves or more like it's it's within the electrical magnetic field that you're
+[01:39:32.900 --> 01:39:37.700]   standing in right is that correct in terms of like how it compares to rifen actually rife was
+[01:39:37.700 --> 01:39:44.900]   actually in the shortwave range so that 3.2 megahertz is more than that shortwave range oh okay so but
+[01:39:44.900 --> 01:39:51.780]   he was pulsing it off and on like a biocharger does so we're doing it in similar manners so our carrier
+[01:39:51.780 --> 01:40:00.100]   wave as you reported a little earlier was 217 kilohertz so we were in am were more in the am radio where
+[01:40:00.100 --> 01:40:07.300]   they're more in the shortwave range oh but the key was is that modulation generates the sideband
+[01:40:07.300 --> 01:40:13.940]   harmonics that's what that's really the the crux of right machines are those sideband harmonics
+[01:40:13.940 --> 01:40:21.380]   and as you pulse at different frequencies you generate those unique sets of uh sideband harmonics
+[01:40:21.380 --> 01:40:27.380]   and that's how he would tailor make them so it may not be the you know the first harmonic that's
+[01:40:27.380 --> 01:40:33.140]   doing the work it could be the second or third you know because of when you look at the the molecular
+[01:40:33.140 --> 01:40:38.820]   band spectrum as well as the magnetic resonance spectrum you know that's a whole range of frequencies
+[01:40:38.820 --> 01:40:47.220]   that they were operating at so it has this similar effect but the the big differential is you don't
+[01:40:47.220 --> 01:40:52.900]   get that magnetic field in the electric field i mean you do get some magnetic field pemf off of the
+[01:40:52.900 --> 01:40:59.540]   any electric equipment but you're really not getting that true pemf like that first one you
+[01:40:59.540 --> 01:41:06.100]   were pointing at in the pemf system you're not getting really that instantaneous magnetic field
+[01:41:06.100 --> 01:41:12.020]   that you would typically get with the multi-wave oscillator or pemf system you're not really getting
+[01:41:12.020 --> 01:41:17.220]   that benefit and then there's always that differences of the different types so you're shown the pearl
+[01:41:17.220 --> 01:41:23.540]   m or the pearl i think that they were 120 watts on the antenna and i think that they may bump it
+[01:41:23.540 --> 01:41:29.540]   up a little bit more because the you know the the mac daddy was the mopah the one on the right i
+[01:41:29.540 --> 01:41:35.940]   think that they were at 300 watts on the antenna but when you compare it to what rife was operating
+[01:41:35.940 --> 01:41:40.500]   he was up the seven or 800 watts on the antenna and when you look at ours we're up the thousand
+[01:41:40.500 --> 01:41:45.700]   watts on the antenna so when you look at as a rife machine itself and as you're doing the pulse
+[01:41:45.700 --> 01:41:51.700]   frequencies we can do the hoylent sweeps we can do the various pulse frequencies up to 50,000
+[01:41:51.700 --> 01:41:58.020]   hertz that hoylent was working with as well as the frequency ranges of all the rife frequencies
+[01:41:58.020 --> 01:42:04.100]   that are out there you know we were operating all within what you know his original works were
+[01:42:04.100 --> 01:42:12.260]   working at um it is you as you noted you have some of those handheld devices you know the the handheld
+[01:42:12.260 --> 01:42:18.260]   i i don't really consider those rife machines i consider those more as tens units i think that the
+[01:42:18.260 --> 01:42:24.820]   you know when you really look at the history of that type of system you know it was really
+[01:42:24.820 --> 01:42:31.380]   john crane that came out with that so john crane came into rife's life at the end and he came up with
+[01:42:31.380 --> 01:42:36.740]   this idea of just sort of using a like a folks-in-generator that you could do these different
+[01:42:36.740 --> 01:42:41.780]   pulse frequencies and you had a little voltage step up that could you know give you that little
+[01:42:41.780 --> 01:42:47.860]   pulse jolt that you could do and you can bury it you know some of those bobback zappers and things
+[01:42:47.860 --> 01:42:53.780]   like that they were all within that you know that that same category so i don't really consider it
+[01:42:53.780 --> 01:42:59.220]   and there are benefits with it i mean there's clearly benefits with the you know with the uh
+[01:42:59.220 --> 01:43:04.100]   the tens type type of systems you know they're you know for decades now i think the
+[01:43:04.100 --> 01:43:09.060]   chiropractors have been using those types of systems and many people have built those own little
+[01:43:09.060 --> 01:43:14.580]   systems that they had based off of bobback's designs or the helter clark zappers and things
+[01:43:14.580 --> 01:43:18.420]   like that so yeah a lot of those different types that were out there i was going to ask to classify
+[01:43:18.420 --> 01:43:26.580]   that more is that although the i think that one on the far left is that violet ray i uh i classify
+[01:43:26.580 --> 01:43:33.620]   the violet ray as more as those are like miniature tesla coils that had that little plasma tube that's
+[01:43:33.620 --> 01:43:38.500]   on there so i've never used one of those those are more of the high voltage devices and those
+[01:43:38.500 --> 01:43:44.260]   were very popular in the you know early 20s and 30s and they had some you know some of them had
+[01:43:44.260 --> 01:43:49.940]   the little tumblers that were in there but it still operated like a induction tesla coil type
+[01:43:49.940 --> 01:43:54.900]   system that they would you know have the different gas tubes that they could put on there and
+[01:43:55.780 --> 01:44:00.420]   you know many of the estheticians and many spas and things like that have really
+[01:44:00.420 --> 01:44:05.620]   you know for decades have been using those types of systems and you know there was the
+[01:44:05.620 --> 01:44:10.580]   i can't remember what is named it really popularized it uh
+[01:44:10.580 --> 01:44:17.700]   egg or casey he's very highly of those exactly those are those are quite a bit different than the
+[01:44:17.700 --> 01:44:20.740]   you know like the other ones that you're shown here the tens unit the
+[01:44:22.340 --> 01:44:30.260]   the zedas as well as the uh um i've got the egg that's cenars very tentative cenars microcurrents
+[01:44:30.260 --> 01:44:36.660]   tens unit just dim zappers clark zappers that's kind of where i was thinking too because i have
+[01:44:36.660 --> 01:44:41.780]   all this stuff right then so do all these clinics and you know there's actual you know full on you
+[01:44:41.780 --> 01:44:45.780]   know in russia there's cenar clinics that's all they do is cenar there's a whole group of people
+[01:44:45.780 --> 01:44:50.660]   that all they do is microcurrent and of course there's the all the people doing back in clark
+[01:44:50.660 --> 01:44:55.460]   clark zapping and as i look at the bio changer i'm like wow you know wait a minute the specs are
+[01:44:55.460 --> 01:45:01.140]   when you look at these devices all of this stuff that costs lots of money and all these different
+[01:45:01.140 --> 01:45:09.860]   things and they all have the same like frequencies and uh you know electrical discharge right uh
+[01:45:09.860 --> 01:45:14.900]   that the biocharger does so i'm just kind of like i'm just my question is is wouldn't getting a
+[01:45:14.900 --> 01:45:22.580]   biocharger sort of be a comparable uh substitution or you know alternative then let's say getting a
+[01:45:22.580 --> 01:45:28.100]   cenar getting a violet ray getting a tens you know all of this other stuff i mean what's your thought
+[01:45:28.100 --> 01:45:32.260]   you know when i when i and by the way everybody i know you you purists out there are gonna
+[01:45:32.260 --> 01:45:36.260]   are gonna kill me on on the numbers i'm throwing on up on the screen but i just want to say
+[01:45:36.260 --> 01:45:45.060]   i used ai to summarize the general frequencies uh and amperages and gauss of all these devices and
+[01:45:45.060 --> 01:45:49.780]   that's where these numbers come from but when i look at these numbers and i'm looking at you know
+[01:45:49.780 --> 01:45:56.180]   like microcurrent one to 1500 hertz right three to 10 milliamps or uh you know you know basically
+[01:45:56.180 --> 01:46:02.180]   the back zapper 3.92 hertz running at 50 to 100 milliamps and when i think look at this information
+[01:46:02.180 --> 01:46:07.300]   and i'm thinking well all of this stuff does electrotherapy in one form or another well so does the
+[01:46:07.300 --> 01:46:12.100]   biocharger but the biocharger kind of covers all of this stuff if you were to you know look at it
+[01:46:12.100 --> 01:46:17.860]   broad sweep right and then at the same time uh you have recipes so could you kind of comment that
+[01:46:17.860 --> 01:46:24.100]   my question is is wouldn't the biocharger be able to do all the same stuff that all these other
+[01:46:24.100 --> 01:46:29.700]   devices do because they yeah i mean what they'd need about the biochargers you know in nature we're
+[01:46:29.700 --> 01:46:34.660]   not wired up to you know the cosmic rays we're not wired up to the lightning discharges you know
+[01:46:34.660 --> 01:46:41.860]   that it radiates at you you're still getting the electric field but now your whole body becomes
+[01:46:41.860 --> 01:46:46.980]   more of the electrodes and plus a lot of these systems that you're talking about are pulsing it
+[01:46:46.980 --> 01:46:51.140]   one frequency at a time you know whereas what we're doing is we're doing hundreds of thousands
+[01:46:51.140 --> 01:46:56.420]   of frequencies at a time that's just part of the nature of the sideband harmonics that you get with
+[01:46:56.420 --> 01:47:02.420]   it which is really more in the lines of nature and how it's generated and you know like you know
+[01:47:02.420 --> 01:47:09.140]   in my very biased opinion you know yeah i think the biocharger definitely encompasses all these
+[01:47:09.140 --> 01:47:15.460]   different benefits that you would typically get with the biocharger yeah so instead yeah so having
+[01:47:15.460 --> 01:47:20.420]   yeah it's my whole point you know when i look at it just from a you know specification standpoint
+[01:47:20.420 --> 01:47:26.100]   what the biocharger can do within without recipes and then each one of these things that i own
+[01:47:26.420 --> 01:47:30.820]   and what they specifically do plus the you know the claims and the benefits that each one of
+[01:47:30.820 --> 01:47:36.020]   these different devices taking out like let's just say for example blood electrification you know Bob
+[01:47:36.020 --> 01:47:43.460]   Beck's expansion of that original discovery by the two guys at the Einstein Institute and so the
+[01:47:43.460 --> 01:47:50.100]   idea of blood electrification is a simply just you know exposing your blood to you know 3.92 hertz
+[01:47:50.100 --> 01:47:56.020]   at at 550 to 100 milliamps right but i'm thinking i could do blood electrification with the biocharger
+[01:47:56.020 --> 01:48:00.020]   because it does the same thing i just would run yeah actually do you have a recipe for blood
+[01:48:00.020 --> 01:48:05.380]   electrification or i just turn on the blood i just turn it on i mean yeah it's kind of it's the same
+[01:48:05.380 --> 01:48:10.900]   yeah i mean i don't want to you know link claims or anything else like that okay yeah i think that
+[01:48:10.900 --> 01:48:18.100]   one can deduce that you know there are many ways you can create an electric field you know you can
+[01:48:18.100 --> 01:48:23.700]   make a contact with it and part of the problem with the contact is is it's really more of a localized
+[01:48:23.700 --> 01:48:30.180]   effect versus you know a full body that you would typically get with it but you know and the other
+[01:48:30.180 --> 01:48:35.860]   thing you didn't really allude to either is you could have these 10 devices and you know you do
+[01:48:35.860 --> 01:48:40.900]   all 10 of them that's going to be what 15 hours in a day you know many people don't have that one
+[01:48:40.900 --> 01:48:46.740]   there's there's yeah yeah you sing it out with a biocharger you run it right you know 15 minutes
+[01:48:46.740 --> 01:48:51.620]   and you're done do that a couple times a day if you have it at home if you you know go to location
+[01:48:51.620 --> 01:48:57.620]   we have locations all over the world uh you can go and use it at you know you go use it two or three
+[01:48:57.620 --> 01:49:02.740]   times a week for you know half an hour and you're good to go yeah no you're right i mean yeah you're
+[01:49:02.740 --> 01:49:08.260]   right but you know Beck zapper takes two hours uh cnarc takes three 40 minutes and all those right
+[01:49:08.260 --> 01:49:12.580]   machines and stuff you're there another couple hours and then you got your your zappers you're
+[01:49:12.580 --> 01:49:16.660]   gonna do and then you got your pem up you know they want to have an hour an hour on that and yeah
+[01:49:16.660 --> 01:49:21.060]   yeah depending on system some of them or hours some of them they want you to sleep on it you know
+[01:49:21.060 --> 01:49:25.860]   now you're just you're you're a gadget guy that you're you're tied to it you know do you really not
+[01:49:25.860 --> 01:49:32.260]   able to go live your life whereas this you know you you you set a recipe really quick and you're
+[01:49:32.260 --> 01:49:36.900]   there for 15 minutes and then you're off to the day and that's how many people do it if they
+[01:49:36.900 --> 01:49:40.740]   have it in their homes you know a lot of them like it is a ritual they wake up they use it in the
+[01:49:40.740 --> 01:49:45.780]   morning they have a certain recipe they do you know the afternoon when everyone gets that little tired
+[01:49:45.780 --> 01:49:51.060]   feeling or whatever they'll go or sit the biocharger again and you know maybe run another one at night
+[01:49:51.060 --> 01:49:56.580]   you know if they haven't at home or people just go and use it but uh you know we're we're finding
+[01:49:56.580 --> 01:50:01.780]   even if you go you know one time a week and do it a couple you know two or three recipes one time
+[01:50:01.780 --> 01:50:06.740]   a week they're they're still getting benefits so no yeah no i get it i just a good thought i didn't
+[01:50:06.740 --> 01:50:11.220]   thought about it that way i was thinking about it like just you know just from a white sweep that it
+[01:50:11.220 --> 01:50:17.380]   actually speck versus speck that it all falls together all of that different stuff falls within the
+[01:50:17.380 --> 01:50:22.820]   biocharger speck so let's talk about the biocharger speck as it relates to all of the you know the
+[01:50:22.820 --> 01:50:29.220]   bio photon modulation therapies out there right now i mean cold lasers really it really popular
+[01:50:29.220 --> 01:50:34.180]   you know obviously red light therapies all over the place now and of course there's a uv lamps you
+[01:50:34.180 --> 01:50:38.820]   know the vitamin d lamp kind of thing so what how would you say that the biocharger from a
+[01:50:38.820 --> 01:50:45.300]   bio photonic device compares to these other devices at other clinics and people like i actually own
+[01:50:45.300 --> 01:50:51.060]   two of these three things so yeah how does that compare in you know from your perspective yeah so
+[01:50:51.060 --> 01:50:55.860]   when you look at that that one over on the left there first uh so you're you're pulsing light off
+[01:50:55.860 --> 01:51:03.540]   and on up to 10 000 hertz you know so pulsing light definitely behave pulsed light at different
+[01:51:03.540 --> 01:51:10.980]   frequencies behave differently than continuous light or comparing amongst each other um i don't
+[01:51:10.980 --> 01:51:16.180]   know if it's more related as you pulse it i think that there's a different effect on how it penetrates
+[01:51:16.180 --> 01:51:22.180]   the body possibly but as a as a light part of it you know we're able to pulse up the 50 000 hertz
+[01:51:22.180 --> 01:51:29.060]   so i think that you know again when you compare it to like the one on the left you know i i consider
+[01:51:29.060 --> 01:51:34.260]   us but best in class you know when you look at some of those you know they have some variability on
+[01:51:34.260 --> 01:51:40.500]   the light there i don't know if they're doing all that from 600 to a thousand nanometers on the
+[01:51:40.500 --> 01:51:47.060]   wavelength on that but uh you know typically when you talk about cold lasers and stuff they're they
+[01:51:47.060 --> 01:51:52.580]   usually operate at a specific light wavelength that they're operating at same thing with like that
+[01:51:52.580 --> 01:51:58.340]   the red light therapy sometimes they'll do uh infrared and far infrared light that they're in
+[01:51:58.340 --> 01:52:02.340]   there but they're typically just a a couple different wavelengths that they work with
+[01:52:02.340 --> 01:52:09.940]   um so what we're trying to do is we're trying to get more of that uh full spectrum so you know
+[01:52:09.940 --> 01:52:16.180]   again going back into nature you know so when you look at nature you got uh you got that natural
+[01:52:16.180 --> 01:52:21.540]   light not just the sunlight but you got the natural light so what is really natural light is i
+[01:52:21.540 --> 01:52:26.980]   consider that blue in the sky so that blue in the sky you know one of the most common questions
+[01:52:26.980 --> 01:52:31.620]   children ask their parents and they get wrong is what causes that blue in the light you know some
+[01:52:31.620 --> 01:52:37.220]   of them will say well it's a reflection of water because the earth is mostly water uh but in fact
+[01:52:37.220 --> 01:52:42.100]   it's really because all these gases that are in the atmosphere so everything inside a periodic
+[01:52:42.100 --> 01:52:47.460]   table exists up in the atmosphere in different amounts you know when you look at our atmosphere
+[01:52:47.460 --> 01:52:53.060]   it's mostly nitrogen and oxygen and you know a bunch of other stuff but what happens is when it
+[01:52:53.060 --> 01:52:59.380]   gets exposed to uh you know the magnetic field from the sun is so you know just everything
+[01:52:59.380 --> 01:53:04.500]   they get excited to fluorescent and they release photons of light literally thousands of different
+[01:53:04.500 --> 01:53:10.500]   wavelengths in the infrared far infrared near-farmed visible light spectrum so what we're doing is
+[01:53:10.500 --> 01:53:16.100]   we're trying to mimic the way nature does it so we're not working at any particular specific
+[01:53:16.100 --> 01:53:20.820]   you know a few wavelengths but we're looking at maybe about a thousand different wavelengths in
+[01:53:20.820 --> 01:53:26.260]   the infrared far infrared near-farmed visible light spectrum now our infrared far infrared is
+[01:53:26.260 --> 01:53:35.940]   for a very short period of time so when you look at the you know so when uh when you have these gases
+[01:53:35.940 --> 01:53:42.340]   in the atmosphere and they get excited to fluorescent what'll happen is they you know for like the
+[01:53:42.340 --> 01:53:47.700]   gases that we use the neon for instance you know they they're existing in the pair and when you
+[01:53:47.700 --> 01:53:52.660]   excite them they separate for a short period of time and then when they recombine they release
+[01:53:52.660 --> 01:53:59.460]   these photons of light but during that cycle of separation they scale through infrared far
+[01:53:59.460 --> 01:54:05.300]   infrared near-farmed into visible light when they release the photons so we're in for a very short
+[01:54:05.300 --> 01:54:12.260]   period of time that we're releasing it but what we're doing is uh a much wider spectrum of frequencies
+[01:54:12.260 --> 01:54:19.540]   so um you know you will see more wavelengths in that spectrum but they're not quite as intense so
+[01:54:19.540 --> 01:54:23.780]   you're not like with the red light you know you're sitting in front of a you know this infrared light
+[01:54:23.780 --> 01:54:28.740]   you know a lot of times I want you know naked you got this big panel and you're sitting in there
+[01:54:28.740 --> 01:54:33.380]   you're sitting there in your underwear or whatever trying to absorb as much of that infrared far
+[01:54:33.380 --> 01:54:38.980]   infrared and that's a very important benefit you know as I mentioned before you got this magnetic
+[01:54:38.980 --> 01:54:44.500]   resonance as well as the molecular band so all molecules are vibrating in the infrared
+[01:54:44.500 --> 01:54:49.780]   farmed red near-farmed up the visible light so that's part of the reason why they work is because
+[01:54:49.780 --> 01:54:57.140]   they're literally vibrating those molecules in that in that spectrum so the fuller the spectrum the
+[01:54:57.140 --> 01:55:02.420]   more effect that you can get on different molecules as far as what I would see with it okay and then
+[01:55:02.420 --> 01:55:08.900]   with the UV side of it you know you do get a a little bit of UV I mean we at one point we were
+[01:55:08.900 --> 01:55:17.380]   using a mercury tube that didn't have a little bit of the UVC that was being emitted from it you
+[01:55:17.380 --> 01:55:23.700]   know we did discontinue that bulb mainly just because there was always that negative connotation
+[01:55:23.700 --> 01:55:28.500]   with it you know people just didn't like mercury because they thought mercury was bad but in reality
+[01:55:28.500 --> 01:55:33.380]   you're not dealing with the mercury because it's sealed in the tube it's releasing light so
+[01:55:33.380 --> 01:55:40.500]   you know we replaced it with the iodine tube so we with ours we use the normal gases or inert
+[01:55:40.500 --> 01:55:49.460]   gases the hydrogen or not hydrogen helium neon argon krypton xenon and then we have an iodine tube
+[01:55:49.460 --> 01:55:56.100]   also so we're trying to produce more of that fuller spectrum that we do we use two sets of six
+[01:55:56.100 --> 01:56:02.740]   tubes so we wanted to do it that way so anywhere you would sit around a biocharger you're exposed to
+[01:56:02.740 --> 01:56:07.620]   those same six tubes just like everyone else all the way around it so we wanted to make it
+[01:56:07.620 --> 01:56:13.860]   more uniform with the six tubes okay so more full spectrum not specific like each one of these
+[01:56:13.860 --> 01:56:19.620]   devices is a very narrow specific you know specificity right towards what it's trying to do and you're
+[01:56:19.620 --> 01:56:25.780]   more broad spectrum which is nature again and then but not but you're not putting out UV right so
+[01:56:25.780 --> 01:56:30.980]   there's no danger of yeah there's not a UV exposure where goggles or anything else like that okay all
+[01:56:30.980 --> 01:56:35.700]   right good hey I know you got a hard stop coming up real quick so I just want to jump to the end and
+[01:56:35.700 --> 01:56:40.660]   I just want to just say you know hey thank you so much for your time and so now you know if anyone's
+[01:56:40.660 --> 01:56:46.340]   interested in experiencing the biocharger I know from you know all the information I've gotten from
+[01:56:46.340 --> 01:56:50.740]   your site that you know that there's wellness centers as you mentioned there's thousands of
+[01:56:50.740 --> 01:56:56.260]   wellness centers that have these in them and so how does how does a person like let's say they
+[01:56:56.260 --> 01:57:00.820]   just want to try it maybe you know not so much you know buy one but how would you what would you
+[01:57:00.820 --> 01:57:06.900]   tell people that just want to give this a try and and see how it works for them well what we
+[01:57:06.900 --> 01:57:11.780]   suggest is you go to biocharger.com you can learn all about the biocharger you can you know get
+[01:57:11.780 --> 01:57:16.260]   a lot of the information I just shared with you if you wanted to you know read it for yourself and
+[01:57:16.260 --> 01:57:21.460]   actually a lot more we have great testimonials but we also have a great spot says find a nearest
+[01:57:21.460 --> 01:57:26.900]   biocharger location and it'll pop up a map and it'll show you all the different locations that
+[01:57:26.900 --> 01:57:31.860]   are offered and you know there there are variable costs on it you know we're in many different types
+[01:57:31.860 --> 01:57:37.860]   of locations you know some of them offered is a monthly subscription rate you know some of the
+[01:57:37.860 --> 01:57:44.420]   higher end places that are more like functional doctors and things like that where it's more of a
+[01:57:44.420 --> 01:57:51.380]   specific thing they they may charge you know more with it but typically sessions are
+[01:57:51.380 --> 01:57:57.700]   you know onesy-tousy I think maybe 30 dollars a session it's usually a buck a minute something
+[01:57:57.700 --> 01:58:03.060]   like that is what people may charge but if you get those packages you know some of them have some
+[01:58:03.060 --> 01:58:08.020]   great packages where you get monthly subscription rates where you can you'll go use it for three
+[01:58:08.020 --> 01:58:14.340]   or four times a week and you know just have a flat subscription model with it so that works
+[01:58:14.340 --> 01:58:19.540]   out really well for people that want to go ahead and try the biocharger that's a great source
+[01:58:19.540 --> 01:58:25.300]   you can also reach out to us and you know you know we can also help you with finding that
+[01:58:25.300 --> 01:58:31.860]   nearest location and if you wanted to do any purchasing would we do have financing available
+[01:58:31.860 --> 01:58:35.860]   for people who want to buy the biocharger it isn't really leasing but it's more of the
+[01:58:38.260 --> 01:58:44.580]   financing it's more of a you know your finance to own great interest rates you know all that's
+[01:58:44.580 --> 01:58:51.780]   driven by you know your credit qualifications and things like that so you know we do make it
+[01:58:51.780 --> 01:58:58.100]   affordable for people for you know purchasing their biocharger and you know many of these locations
+[01:58:58.100 --> 01:59:03.140]   that you know they can go and buy the biocharger and they're up and going and they're paying for
+[01:59:03.140 --> 01:59:10.100]   that biocharger paying and making money right away with it you know the monthly payments are
+[01:59:10.100 --> 01:59:16.580]   are clearly offset by what they're bringing in with it so it's been a great program for the
+[01:59:16.580 --> 01:59:23.220]   people that want to you know create their own you know what biohacking center or you know if you're
+[01:59:23.220 --> 01:59:30.820]   a practitioner or a therapist that want to add this to their collection in their toolbox you know
+[01:59:30.820 --> 01:59:36.100]   people love to have that and what they'll find out it really becomes the the fan favorite and when
+[01:59:36.100 --> 01:59:42.580]   you go look at many of the testimonials or the podcasts like you suggest you've listened to a
+[01:59:42.580 --> 01:59:48.580]   number of different podcasts I mean I've done quite a few podcasts with all types of people
+[01:59:48.580 --> 01:59:55.620]   whether it's from you know osteostrong to you know the the biohackers like Dave Asprey and
+[01:59:55.620 --> 02:00:03.300]   Ben Greenfield Luke Story to even Center of Innovative Medicine the New York Center of Innovative
+[02:00:03.300 --> 02:00:08.580]   Medicine we did a great podcast with them that's more of a professional place where people are
+[02:00:08.580 --> 02:00:15.380]   going for specific issues that they're dealing with that's you know a great location but they're
+[02:00:15.380 --> 02:00:22.340]   going to be a little bit more expensive but it's a it's a great device to really have whether it's
+[02:00:22.340 --> 02:00:29.540]   in your home or in your business practices no it is yeah I just yeah oh no I was just going to say I
+[02:00:29.540 --> 02:00:35.140]   mean you know the the idea that you know somebody or a wellness center has like 20 different things
+[02:00:35.140 --> 02:00:40.100]   uh 20 different devices and then the amount of capital they've got locked up and all that stuff
+[02:00:40.100 --> 02:00:45.220]   and then now because of what you developed you know there's a there's a great opportunity to
+[02:00:45.220 --> 02:00:49.700]   literally reduce the capital expense because there's so much more this one device can do
+[02:00:49.700 --> 02:00:55.220]   I just that's what really appealed was appealing to me about about the biocharger and then just I
+[02:00:55.220 --> 02:01:01.700]   just really wanted to know more about the device from a specification standpoint and to like what
+[02:01:01.700 --> 02:01:07.300]   could it really do from that specific standpoint I guess to your point though you have lots of
+[02:01:07.300 --> 02:01:12.980]   testimonials on your site for if you want to see like what people are saying about it as well as
+[02:01:12.980 --> 02:01:17.220]   you know I encourage everyone just you know if you want to know what the benefits of PEMF is
+[02:01:17.220 --> 02:01:21.300]   or what you want to benefits of electro therapy is you know you just go to google scholar you'll
+[02:01:21.300 --> 02:01:25.860]   see all the studies so that you know the evidence is out there and the testimonies are out there
+[02:01:25.860 --> 02:01:30.500]   so yeah I'm it's very impressive so you know you did a quite a remarkable job Jim
+[02:01:30.500 --> 02:01:34.340]   yeah can imagine like what you're going to come up with next
+[02:01:34.340 --> 02:01:40.740]   just to add one more thing on the you know as a business you know a lot of times when you're buying
+[02:01:40.740 --> 02:01:47.060]   a product it's just a one-to-one type of situation so you scale it you know a lot of times especially
+[02:01:47.540 --> 02:01:54.020]   if you're trying to be a place where you're doing a subscription model you know you have those
+[02:01:54.020 --> 02:01:59.380]   peak peak hours from seven to nine and four to six where you got the people going into work or
+[02:01:59.380 --> 02:02:06.500]   coming home from work and you know god if I had six six devices I could deal with six different
+[02:02:06.500 --> 02:02:12.500]   people and it you know and to scale that is a little trickier whereas with the biocharger
+[02:02:12.500 --> 02:02:18.660]   it's easy to scale into so you know you can do two people three people four people up to six
+[02:02:18.660 --> 02:02:22.500]   people sitting around it before you need to get the second one and by that point you're already
+[02:02:22.500 --> 02:02:27.620]   you know in the money so you can easily afford the second one so for that person it's trying
+[02:02:27.620 --> 02:02:32.660]   to scale to get into it this works out really well yeah no I I think it's a great idea
+[02:02:32.660 --> 02:02:37.380]   got so many more questions but I knew you got a hard stop and I just want to just let you go
+[02:02:38.260 --> 02:02:42.900]   and just say you know thank you Jim I really appreciate your time I just I just love the story
+[02:02:42.900 --> 02:02:48.100]   of the biocharger and you know and just the innovation you've brought to the market is pretty
+[02:02:48.100 --> 02:02:54.020]   impressive so thank you so much for your time and if you want to get older Jim it's biocharger.com
+[02:02:54.020 --> 02:02:59.220]   and if you want to find me tinker's dot academy and again thank you so much for your time today Jim
+[02:02:59.220 --> 02:03:05.460]   and any parting words yeah I think that you know it like you said you have more questions and
+[02:03:05.460 --> 02:03:09.540]   stuff like that you know maybe maybe we could take some time out you know we'll think about
+[02:03:09.540 --> 02:03:16.420]   see how the the response goes and if we want to do a second turn to the crank with it I'd love to
+[02:03:16.420 --> 02:03:22.660]   do it again because you know this was a different type of podcast and I truly appreciate you know
+[02:03:22.660 --> 02:03:28.740]   having this opportunity with you because this was a little bit a different approach you know it was
+[02:03:28.740 --> 02:03:35.940]   more of a I really felt that I got a lot more out of this as far as our connection with it just
+[02:03:35.940 --> 02:03:42.180]   because you and I have had very similar paths of curiosity you know you've seen a lot of things
+[02:03:42.180 --> 02:03:50.180]   come and go you've seen a lot of technology and I really appreciate you having this opportunity
+[02:03:50.180 --> 02:03:57.780]   to do what we did here and anytime you want to do it again the the opportunity or the doors always
+[02:03:57.780 --> 02:04:04.500]   open and I'd love to do some more stuff with them oh awesome thank you so much everybody you've
+[02:04:04.500 --> 02:04:09.060]   got any question throw them in the comments of the video I have lots of questions so Jim I will
+[02:04:09.060 --> 02:04:13.300]   probably take you up on that let me just I'll put together the next deck we can do a little podcast
+[02:04:13.300 --> 02:04:18.900]   type of thing where we open it up to you know maybe do a quick blast and you'll let them bring in
+[02:04:18.900 --> 02:04:24.020]   some questions or we have some pre pre-canned questions that we give from our great idea listeners
+[02:04:24.020 --> 02:04:29.780]   and things like that you know I'm all about education at the end of the day that's really what my job
+[02:04:29.780 --> 02:04:37.220]   is is to help educate and move the you know just this whole movement forward you know this isn't
+[02:04:37.220 --> 02:04:42.820]   just about biocharger and when you really look at the the market it's a four trillion dollar market
+[02:04:42.820 --> 02:04:52.580]   this alternative health and wellness market and people are really beginning to wake up to see these
+[02:04:52.580 --> 02:04:58.020]   alternatives and you know once you start digging deeper into this you know they become more questions
+[02:04:58.020 --> 02:05:04.740]   and you know that's what I love to do is share no that's a great idea I would love to do that
+[02:05:04.740 --> 02:05:09.140]   let me go ahead and set that up I'll let you know awesome because yeah yeah again you know because
+[02:05:09.140 --> 02:05:13.380]   I didn't even get a chance to talk to you about scalar and the different frequencies and oh you
+[02:05:13.380 --> 02:05:18.820]   know anyway but hey I know you got a run so thank you so much Jim really have a great day and really
+[02:05:18.820 --> 02:05:24.980]   appreciate your time. Yeah, me too. Alright, take care. Yep, thanks.
+

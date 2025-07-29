@@ -1,0 +1,282 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.520",
+        "text": " Aloha and welcome to another video by me, Kay Elmer, and in this video I would like to talk with you about Carbon 70, or what I like to refer to as Carbon 60's Big Brother. So before I can start chatting about that, let me have some disclaimers out there. This material is for research purposes only. C70 oil is not approved for consumption by the FDA. This is not medical or health advice. This is not a product endorsement."
+    },
+    {
+        "start": "00:00:25.520",
+        "end": "00:00:54.920",
+        "text": "I do not sell C70 products, and I do not get paid in any way to do videos. For those of you who are new to my channel, I just want to share with you that the reason I do videos is because I just have a passion in my hobbies that I like to learn and study and analyze stuff, and right now I'm basically really interested in fullerenes. I've been interested in fullerenes for about a year. I've been taking C60 oil, and so I learned way back that people are really interested in what I've been learning, and I just wanted to start sharing. And in sharing, I've learned that I've learned from other people, so I like to contribute"
+    },
+    {
+        "start": "00:00:54.920",
+        "end": "00:01:22.960",
+        "text": "to the body of knowledge that we all share together and we learn and we get better by working with each other. So that's the purpose of the video. Let's jump in. Okay, so what is carbon 70? Well, it's basically a molecule of carbon, also a form of carbon. It's an alatropic carbon that has 70 carbon atoms in a cage-like structure, sort of like an oblong sphere. It's very similar to the C60 molecule, but it just simply has 10 additional atoms."
+    },
+    {
+        "start": "00:01:22.960",
+        "end": "00:01:51.600",
+        "text": "And so here's an example of the multiple different allotropes of carbon, or most of them that is, where I want to point out that, you know, depending on how you arrange carbon atoms in nature, nature arranges that we don't, nature arranges carbon atoms in different ways, and those different ways create different substances. And so you've got diamond, which is one of the hardest substances on Earth. Simply a group of, you know, it's basically a group of carbon atoms. Then you've got graphite. Now, graphite is what we use in our pencils."
+    },
+    {
+        "start": "00:01:51.600",
+        "end": "00:02:20.360",
+        "text": "And the reason it works is because it's basically a layered type of molecular structure so that when you scrape your pencil across the paper, these sheets of carbon come off onto the paper, which is why it works. There's also a form of carbon called Lon's Deliette. And then, of course, our favorite, my favorite, I've done lots of videos on this one, which is carbon 60. And then you've got this really complicated one, which is carbon 540, called a Fulerite."
+    },
+    {
+        "start": "00:02:20.360",
+        "end": "00:02:49.720",
+        "text": "And this thing has 540 carbon atoms, and it's also a caged-like structure. And then the carbon 70 molecule. And then, of course, you've got amorphous carbon, which is just a hodgepodge of carbon atoms. And then you've got this really, really, really interesting one here called the single wall carbon nanotube. Now, if you do any research in all and commercial application of carbon molecules, you'll know that diamonds are used, graphite is used. You don't really hear much about these other ones, but carbon nanotubes is like the big thing now."
+    },
+    {
+        "start": "00:02:49.720",
+        "end": "00:03:19.320",
+        "text": "And also, too, if you take off one sheet of graphite, you have a form of carbon called graphine. And that is also one of the real interesting carbon molecules that are being looked at for commercial purposes right now. So it's really an interesting science, the science of carbon. And what I wanted to share with you today is this guy right here, carbon 70. So here's the thing. I wanted to look into carbon 70, and I spent about, I'd say, good eight hours over the"
+    },
+    {
+        "start": "00:03:19.320",
+        "end": "00:03:47.800",
+        "text": "week, reading different studies, searching different websites like research gate and PubMed and you name it, looking for carbon 70 studies so that I could share with you what it does. Because I'm more interested, not so much in the chemical or the, you know, the molecular properties of carbon, but I'm more so like, okay, from a health standpoint, as a supplement, like C60 is, what can C70 do?"
+    },
+    {
+        "start": "00:03:47.800",
+        "end": "00:04:17.520",
+        "text": "So I really spent a lot of time on looking at the biological application of carbon 70. And what I found was, after eight hours of just searching and searching and reading and reading and reading, was there's not a lot of material. I mean, there is not nowhere near. You go look at carbon 60 and there are hundreds of science studies that have been done, and a lot of them have focused on what does carbon 60 do in vitro and in vivo, which means, you"
+    },
+    {
+        "start": "00:04:17.520",
+        "end": "00:04:47.000",
+        "text": "know, in the lab with living tissues, living cells, and also inside of critters that are alive and see what happens in the body kind of perspective. And when I tried to do that with carbon 70, there really was almost nothing. I mean, literally nothing. And it just seems that in 86 when it was discovered because C60 is perfectly spherical, that, you know, every single industry looked at it and went, wow, what can we do with this? I mean, there's actually videos out there that talk about how C60 is like the, they"
+    },
+    {
+        "start": "00:04:47.000",
+        "end": "00:05:12.560",
+        "text": "call it the molecular ball bearing because you add that to anything in the industrial world. It becomes, it just really makes it, it's literally carbon 60 is used as a industrial lubricant, and it makes everything that you do in the industrial world better if you add carbon 60 to it. So the, and then of course, the medical field wouldn't look at it because it's a cage so it can capture other atomic because it's really small. I mean, it's only 60 atoms, right?"
+    },
+    {
+        "start": "00:05:12.560",
+        "end": "00:05:40.360",
+        "text": "So it can capture other molecules and other atomic particles like hydrogen and helium and, and protons of different, of different chemicals. And then it can deliver it because it's so small and it's, it passes through the blood brain barrier. So that's C60. So, so what happened, I think, is that C70 has been kind of overlooked because everyone's been focused on, on C60 for the last 30 years, and there hasn't been a lot of studies on C70. In fact, I could not find any mammal studies on C70."
+    },
+    {
+        "start": "00:05:40.360",
+        "end": "00:06:07.600",
+        "text": "I could not find any, well, there's only, I found one in vitro, which is, you know, use, you know, put, you know, try it with a critter study, but I could not find anything other than that. There's been no mice studies, no rat studies and so forth. I mean, C60 has been studied to death when it comes to that aspect. That's why there's a C60, you know, interest right now is because of the rat study, the 2012 Paris rat study. So, but there's nothing like that for C70."
+    },
+    {
+        "start": "00:06:07.600",
+        "end": "00:06:36.520",
+        "text": "So I just wanted to let you know that because I spent quite a few hours and reading a lot of stuff. But here's the thing. I did find four studies that I did want to share with you. Of course, everything I'm talking about again is in the video description links. Go ahead and read it yourself. I do want to let you know that a lot of these studies, as if you, you know, if you've done this, you have to pay for this study. You have to pay for the actual, you know, the whole study. So a lot of them are just abstracts because I don't, I don't have the credentials to, to access the full study where I can access the full study."
+    },
+    {
+        "start": "00:06:36.520",
+        "end": "00:07:05.320",
+        "text": "I will provide you all of it, otherwise I'm taking my data from abstracts. And then secondly, I'm not a, not a credential scientist. So I just, you know, I just want you to know that. And then also too, because we're only looking at four studies, I really want to preface it that, you know, is eight hours is four studies, you know, that's clearly not sufficient to get a clear definition of what carbon 70 can do. And so, you know, be aware of that there, they're really, I mean, at the bottom line,"
+    },
+    {
+        "start": "00:07:05.320",
+        "end": "00:07:31.080",
+        "text": "the bottom line is that we need as, as a, as a, as a community. We need a lot more study on carbon 70. I mean, there is almost nothing. And so in, in that's kind of why it's, it's just, I want to preface all of that because it is so new because everybody's been focused on C 60, the carbon 70's been kind of forgotten. So I want to, but I, but I am interested in it. So let's start with these studies."
+    },
+    {
+        "start": "00:07:31.080",
+        "end": "00:08:00.640",
+        "text": "Now the first study that I want to share with you is, as, as from the standpoint of what C 70 can do biologically there, I mean, there are a lot of studies on C 70 don't get me wrong, but they're all studies, you know, with chemists dinking around with, you know, the properties of C 70 and what it can do and what it can't do from a molecular and atomic standpoint. But that's not what I'm focused on. I'm focused on biological. So now here's a study called carbon 70, carby for carboxy fullerenes as an effective antioxidants to protect sales against oxidative induced stress."
+    },
+    {
+        "start": "00:08:00.640",
+        "end": "00:08:29.200",
+        "text": "So that's kind of what I'm interested in C 60 is a super antioxidants. So what is C 70? What can it do the same? And so when they, when they take all of these different compounds and they have to basically dissolve them in different solutions, there's multiple different solutions that scientists use to dissolve things and then test them with other things. And so carboxy fullerenes is using basically dimol, dimol, dimol, dimol, sorry, dimolonic acid and trimolonic acid."
+    },
+    {
+        "start": "00:08:29.200",
+        "end": "00:08:56.400",
+        "text": "And so here's the thing I want to point out, the when C 70, a trimolonic acid and dimolonic acid C 70 solution, okay, is used against these particular C to C 12 cells. They exhibit a obviously protective effect against oxidative stress. So that kind of answered the first question is does C 70 work as an antioxidant like C"
+    },
+    {
+        "start": "00:08:56.400",
+        "end": "00:09:25.000",
+        "text": "60, this study says yes, it does, it's obviously does. And this is what's real interesting is you pick up on this, it says the study says that at concentrations as low as in a 2.4, 2.5 micron, I'm sorry, micromoles. Whereas C 60 carboxy fullerenes, blah, blah, blah, show a protective effect at relatively higher concentrations."
+    },
+    {
+        "start": "00:09:25.000",
+        "end": "00:09:53.880",
+        "text": "So what, and I just want to point that out because I'll be talking adding, adding all these little data points up. What that means is that they both are antioxidants, but it takes more C 60 to do the same job as when they use C 70. So the results here, the use of significantly low concentrations of C 70 carboxy fullerenes as an antioxidant agent will benefit the therapeutic approaches aimed at alleviating ROS, which is reactive oxygen species, where radical oxygen, or act radical ions in your"
+    },
+    {
+        "start": "00:09:53.880",
+        "end": "00:10:23.840",
+        "text": "body, induced injuries, such as muscle disorder and arthritis. So interesting result there. Another study that I found called structural effective mechanisms of C 70 carboxy fullerenes as effective sensitizers against cancer cells. Now on this one, of course, the melanic acid again is used as a dissolving solution. They found that the C 70 fullerenes are more effective than C 60 counterparts as photosynthesized"
+    },
+    {
+        "start": "00:10:23.840",
+        "end": "00:10:53.160",
+        "text": "and what photosynthesized are is a molecule that produces a chemical change and another molecule in a photochemical process. So here you go again. The first study says that C 70 actually works better. It takes less C 70 to do the same as C 60. And then here's another one, a second study that actually says it's more efficient than C 60. So now this, when I read this, I started getting really interesting. I'm like, oh, wow, you know, C 70 does is a little bit better than C 60 in at least two studies."
+    },
+    {
+        "start": "00:10:53.160",
+        "end": "00:11:21.560",
+        "text": "It's not a third study. And you know, it's like again, it was very hard to find stuff that actually where they actually tested C 70, most of the, you know, focus again, it's on six 60. So, and so here's one where the study is called protective effective C 70 carboxy fullerenes against oxidative induced stress on post mitotic muscle cells. So they took muscle cells, put them in a petri, right? And then they are whatever and they basically subjected them to C 70."
+    },
+    {
+        "start": "00:11:21.560",
+        "end": "00:11:47.360",
+        "text": "And in this study, we find that quadri, quadri melonic acid C 70 fullerene exhibits higher capability on protecting cells from an oxidative induced stress among these tested carboxy fullerenes. So here you go again, a third study that says C 70 worked better than C 70 other carboxy fullerenes, right? All right. So very interesting."
+    },
+    {
+        "start": "00:11:47.360",
+        "end": "00:12:15.000",
+        "text": "But really, really perked my interest when I started reading study, then another study and then another study and they're all telling me C 70 works better than C 60. That's interesting. But here you go. I want to temper this with this other one that I discovered called in vivo evaluation of carby carbon fullerene toxicity using embryonic zebrafish. In fact, this study is the only one I found where they actually used it on a critter."
+    },
+    {
+        "start": "00:12:15.000",
+        "end": "00:12:41.440",
+        "text": "You know, not a critter critter, but an embryo critter. And this is the thing. If you read the abstract, and of course you can click on the link in the description, but it only has this one little sentence in here where they were testing C 60, C 70, and a hydroxylated C 60 with 24 oxygen and hydrogen atoms attached to the molecule around the C 60. So it's kind of like a mutated form of C 60, but in a pronounced way."
+    },
+    {
+        "start": "00:12:41.440",
+        "end": "00:13:10.960",
+        "text": "So anyway, they mentioned here in the abstract that when they exposed the embryonic zebrafish and the whole study was about, can we use zebrafish? Is zebrafish a good way to measure toxicity on fullerenes? Okay. That was their purpose. And they said, okay, so they go here. We exposed it with C 60 and C 70. So they exposed the embryonic embryonic zebrafish. And this is what happened. It induced a significant increase in malformations, pericardial and dima and mortality."
+    },
+    {
+        "start": "00:13:10.960",
+        "end": "00:13:39.120",
+        "text": "And then it goes on to talk about what happened when they used the other form of C 60. So here you go. You've got eight hours of study, multiple different sites. And this is the best I could find on, I would say my first pass. And that is three studies that says C 70 is more powerful as an antioxidant than C 60, which is amazing just by itself. And then one that says, hey, you know, when we pumped it into an embryo, embryo didn't do that well. It kind of was bad for it."
+    },
+    {
+        "start": "00:13:39.120",
+        "end": "00:14:07.400",
+        "text": "So, you know, it is these, like I always say, you know, data is neither good nor bad. There's just results. And so these are the results. And so now we have four data points, three or positive, one is negative. So then you say to yourself, well, now what, what do we, you know, okay. And so at this point, I want to reiterate again that there have been no animal trials. I mean, there's very, I mean, there's not even like an animal. There's not even a trial on like plants."
+    },
+    {
+        "start": "00:14:07.400",
+        "end": "00:14:35.040",
+        "text": "And so anything that you do with carbon 70 or any other research is we're going to need a lot more research. So if any of you scientists out there ever see this, please, you know, go check this out. I mean, it's, there's this little, little, you know, like where you see smoke, there's fire, there's, there's, there's inkling here that says C 70 could actually be better than C 60. And that would be amazing because C 60 is unbelievable. So please go out there and go do those studies and get out there and bring more data."
+    },
+    {
+        "start": "00:14:35.040",
+        "end": "00:15:04.120",
+        "text": "And for you guys that playing at home, you know, C 70, I mean, there's an opportunity, there's a possibility, there's just so much we can learn because it's so new. I mean, you got to realize that, you know, the rat study came out in 2012. It's 2018. It's only been six years since the rat study. And the rat study was the one study that said, Hey, this thing's not toxic. And in fact, it's good for you. And that was C 60. I mean, no one's even tried to figure that out for C 70 yet. So anything that you do from this point forward regarding C 70, you know, it's for research"
+    },
+    {
+        "start": "00:15:04.120",
+        "end": "00:15:26.920",
+        "text": "purely for research, there's nothing we can base it on. There's no mice or rat study. So if you're going to do something, proceed at your own risk. So with that said, and if you've been watching my videos, you know where I'm going because hey, guess what? Let's talk about C 70 olive oil. Can you make a C 70 olive oil? And the answer is absolutely. Of course you can. Now this is what's interesting."
+    },
+    {
+        "start": "00:15:26.920",
+        "end": "00:15:52.780",
+        "text": "Red Lion is actually the first, you know, company that has put out a C 70 olive oil solution for sale. It's a commercial product. It's not there. It's not available anywhere else in the world. They put this out. It came out about less than a month ago, which sparked my interest in C 70. And so then it's so they it's actually available if you wanted to try it."
+    },
+    {
+        "start": "00:15:52.780",
+        "end": "00:16:19.860",
+        "text": "And you know, for your own personal research as you 200 pound rats out there, it's available now. Someone actually made one. And they also proved one. They proved two things. One, you could make it and prove and then they prove that somebody is crazy enough to do it. So, so here's here you go. Now this is what carbon C 60 olive oil. This is from Red Lion. The olive oil with C 60 in it is this beautiful red. That's why they call it, you know, the company Red Lion Biomedical Services."
+    },
+    {
+        "start": "00:16:19.860",
+        "end": "00:16:49.380",
+        "text": "And this red color is this beautiful crimson you've seen my videos. This is like C 60 perfection. And then the most interesting thing when I opened up the bottle, I was actually lucky enough to be one of the first ones to receive this product. And I've been I'm on day two of it. I've been this is when I opened the bottle. Carbon 70 has the color of blood of human blood and it is an amazing color. And it's it's just kind of weird."
+    },
+    {
+        "start": "00:16:49.380",
+        "end": "00:17:17.300",
+        "text": "I mean, from the standpoint of its blood, you know, and so it really the more I look into C 70, the more interested I am, but but these are the two different colors of the two different oils. And this is the bottle that it comes in. And so now because I couldn't find a lot of research, I approached Red Lion. We started doing some chatting on direct messaging yesterday. So and this is I started asking questions. You know, could you please explain a little bit more because the content on the website"
+    },
+    {
+        "start": "00:17:17.300",
+        "end": "00:17:45.380",
+        "text": "is is is not as you know, not as clear as the information he gave me in his direct messaging. So I wanted to share that with you because they, of course, have made this product. It's the first one out there. And this is what they had to say because they did their research on it is that from this era, I direct quotes from Red Lion that C 70 is a detox, but in another way, it will not remove free radicals, but it gives so much energy, it will be like a detox. For example, a pregnant woman will look glowing and full of health."
+    },
+    {
+        "start": "00:17:45.380",
+        "end": "00:18:14.820",
+        "text": "It's not a detox, but healthy and so much energy, the body will live longer and healthier because of it. So I would say C 70 is female as in female energy and C 60 is male and both operate as usual in their own spheres in their own in their own way. So the Red Lion went on to say that one operates and gives so much energy. The body becomes healthy despite any toxins. The other purifies the body and the body has more energy because there are no toxins to fight."
+    },
+    {
+        "start": "00:18:14.820",
+        "end": "00:18:43.020",
+        "text": "So to speak, C 60 won't give the body energy, energy felt from C 60 is merely a consequence of its actions, but C 70 won't detox the body but will give it energy to fight disease. So the two in tandem, if one uses both of them, then one is using the female and male principles to make the body healthy, not simply the male electric side, which is very interesting. And then lastly, see Red Lion shared with me the one thing I forgot to mention is a strong"
+    },
+    {
+        "start": "00:18:43.020",
+        "end": "00:19:12.900",
+        "text": "central desire effect and a Viagra doesn't create desire. It operates on blood vessels. But if there is no central desire, then Viagra will not work. But pulverized C 60 does bring the actual central desires. So I said the new product would be infused with qualities, well central desire and all the weird mental abilities you that's me experience when I when you got piece pulverized C 60 on my hands are qualities, characteristics and abilities, which is really another way"
+    },
+    {
+        "start": "00:19:12.900",
+        "end": "00:19:39.780",
+        "text": "of saying frequencies, not energy or matter. So it is so hard is so is it so hard to believe there are other spiritual energies with different qualities which can be manipulated and into C 60 olive oil, C 60 will give a very masculine central or sexual desire. And that's been proven. It's a really good for your libido. Whereas then C 70 or does the same thing for women, but in a more romantic way."
+    },
+    {
+        "start": "00:19:39.780",
+        "end": "00:20:09.220",
+        "text": "So that is fascinating because, you know, I didn't expect to hear that and I thought that was really amazing. By the way, Norman smelled it and he approves of C 70 oil. So that's what I've been able to conclude for C 70 from science studies and from what red line has told me. I got my bottle two days ago for those of you on Twitter, you know, and this was me taking my second dose. So I've taken it for two days now."
+    },
+    {
+        "start": "00:20:09.220",
+        "end": "00:20:38.060",
+        "text": "I take it along with the C 60 and the only thing I mean, it's only two days. So, you know, commenting on how it feels and how I feel would be a little silly. But I will tell you that because I'm on C 60, I take it in the morning and then I wait. Oh, yeah, because like right here is a caution that red line shared with me. It's super important that no vessels which contain C 60 are used with C 70 because fire will destroy the nature of C 60. So it's kind of like it's really weird."
+    },
+    {
+        "start": "00:20:38.060",
+        "end": "00:21:06.060",
+        "text": "I mean, when I took all of this to basically to say there's a yin in the yang, right? And then I would say that, you know, I'm cheese, I always forget which one's female. I think it's the yin is the female and the yang is the male, I think. But you know, that's what I'm seeing here. It's there's a C 60 and a C 70, a yin and a yang male and a female. And so what's really funny is you don't put them in the same vessel because they'll destroy each other. Well, isn't that the truth? And so then I asked him."
+    },
+    {
+        "start": "00:21:06.060",
+        "end": "00:21:35.380",
+        "text": "So I asked him, I'm like, Oh, Jesus, I mean, should I, you know, what happens if I take them together? So obviously you don't want to take them at the same time, but but specifically though, red line said, Oh, yeah, you can take them, you know, simultaneously, I mean, like, you know, you put them in your body, but, you know, but don't take them like in the same mouthful. So I am taking C 60 and I'm taking C 70. And after two days, I can tell you that every time I take the C 70, it's kind of like I get a boost, you know, you're ready to get a boost from C 60."
+    },
+    {
+        "start": "00:21:35.380",
+        "end": "00:22:04.140",
+        "text": "For those you guys know, you take it, you know, you get this big energy boost because of the electron donate donators. But when I take the C 70 on top of it a couple hours later, it's like, it's like this shot of energies like just I just get this real shot of energy. As far as any detox systems, symptoms or anything like that, I haven't haven't really experienced anything yet. It's very early in the in the in the program in my regime of taking C 70 with C 60. So I'll have a lot more to report on that as we go along."
+    },
+    {
+        "start": "00:22:04.140",
+        "end": "00:22:31.420",
+        "text": "In fact, I think other than the people at Red Lion, I'm probably the human trial for this. So if any of you're interested in joining, you know where to go. So, so we'll be testing out C 70 and I will be letting you know and I'm very fascinated and this is real interesting stuff. So now what this slide talks about is making your own. So obviously you can go and buy it if you want to buy it, you know, where red line is, but can you make it your own? Obviously, yes, you can. You can totally make it yourself."
+    },
+    {
+        "start": "00:22:31.420",
+        "end": "00:22:59.540",
+        "text": "Now, I did ask Red Lion, are they using are they pulverizing their 70 and they're saying, no, they're not pulverizing it. So they're doing it. So that would be like, you know, going out and get the powder, follow the standard one to one formula, which is one gram per one liter of oil. There's very specific about using corn, neki oil and olive oil, that is. And then of course, you know, because you're using powder, the process is very simple."
+    },
+    {
+        "start": "00:22:59.540",
+        "end": "00:23:25.900",
+        "text": "Add the powder to the oil stir two weeks, then filter at 0.22 micrometers filter. And that's it. And then you've got your beautiful C 70 oil. The issue here, and this is the big thing that just kind of shocked me because I had not looked at it before, but C 70 powder is really expensive. I mean, right now, if you go to like Red Lion's site and you buy like the cheapest you can"
+    },
+    {
+        "start": "00:23:25.900",
+        "end": "00:23:51.620",
+        "text": "get C 60 is like $58.77 a gram. I mean, it's that cheap, if you buy the 10 gram bottle. Okay. Now, if I go to like SES researcher, MTR, which is materials technology research, those guys, you can get C 60 if you buy the big bottles as, you know, pretty low, like $89, $90 or less, a gram."
+    },
+    {
+        "start": "00:23:51.620",
+        "end": "00:24:17.860",
+        "text": "Now, if you just buy one gram, you know, obviously it's about 130, 150, but you know, the more you buy the cheaper gets. But so if you take the idea that it's like, Oh, you know, if I can get C 60 for 59 bucks a gram, look at the price. I mean, of C 70, I mean, you can't, I can't even imagine buying more than one gram. If one gram at SES costs $375 and over at MTR, one gram of C 70 is $310."
+    },
+    {
+        "start": "00:24:17.860",
+        "end": "00:24:42.700",
+        "text": "That's five times, five times more expensive than C 60 and it's just unbelievable because it's that hard to synthesize. And of course, and then from a purity standpoint, the best purity I can find anywhere that provides this carbon fullerenes is 99.0. So they're happening. I mean, there hasn't even been a way for anyone to get past 99.0. It's that difficult to synthesize and therefore that much more expensive."
+    },
+    {
+        "start": "00:24:42.700",
+        "end": "00:25:11.180",
+        "text": "So anyone that's going to think about doing carbon 70 oil, it's a very expensive thing. And that's why I just went and bought the bottle, you know, instead of try to make it at home. I may or may not depends on what happens as I take it because it has female energy. I'm hoping that it tempers with male energy and I don't get all weepy or anything. So that's not it. That's not it. And so I'm just kidding. Okay, so, but that's really it. You can make it at home."
+    },
+    {
+        "start": "00:25:11.180",
+        "end": "00:25:40.500",
+        "text": "It's super expensive and make sure you don't let C 60 stuff touch your C 70 stuff. And that's it folks. That's what I've learned on C 70. It's an amazing thing. It's like a there's a lot to learn. That's really it. There's a lot to learn about carbon 70. It has it shows that it has the possibility of incredible potential being better than C 60. You can actually go out and buy it, you know, now, which is, which is like that's never happened before. And or you can go make it and it's really expensive and that's really it."
+    },
+    {
+        "start": "00:25:40.500",
+        "end": "00:25:56.140",
+        "text": "So thank you. Thank you for stopping by. Thank you for watching this video. I really appreciate and very humbled by all the comments and I just really want you to know that I appreciate your comments. I appreciate you. I appreciate your time. And thank you and have a great day Aloha."
+    }
+]

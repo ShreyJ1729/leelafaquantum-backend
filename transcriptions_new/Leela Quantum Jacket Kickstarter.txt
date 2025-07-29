@@ -1,0 +1,672 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.720",
+        "text": " Aloha, everyone, and welcome to another video. I'm your host, Kay Elmer, here at the Tinkers Academy, and I've got Philip Von Holson-Dorf with Leila Quantum Tech on the Line, here to introduce the new Leila Quantum jacket, and he's doing a Kickstarter, so, you know, it's a really great concept, a really great new product, and I really wanted to share it with everybody. And even more so, let's talk about EMF because that's what this jacket helps you with."
+    },
+    {
+        "start": "00:00:28.720",
+        "end": "00:00:56.120",
+        "text": "So, this video is about the Leila Quantum jacket and its Kickstarter helping supporting our bodies against the harmful effects of EMF and look good doing it. So, before we jump into that, I want to do a quick disclaimer that neither Leila Quantum Tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video, reliance on any information appearing, and discussed in this video solely at everyone's own risk."
+    },
+    {
+        "start": "00:00:56.120",
+        "end": "00:01:23.560",
+        "text": "This may have not been evaluated by the EFSA or FDA or any government derivatives thereof. Leila Quantum Tech products and products that Leila Quantum Tech may represent are not intended to diagnose, treat, care, or prevent any disease. All right, so there's that. So, the first thing I want to say about Leila Quantum Tech and Philip is that Leila Quantum Tech is supported by a group of very renowned healers of which Philip is one of, and so,"
+    },
+    {
+        "start": "00:01:23.560",
+        "end": "00:01:53.120",
+        "text": "it's all of these different individuals with all varied backgrounds of working in the health and wellness space for years and years and years have come together and put their experience and their talent together to create some of the most unique, and I'd say just advanced products that are out there on the market, and I'm just really enthralled by it, and I'm very interested in what these things can do, because I actually have been tinkering around with them. That's why I'm so excited to share them on my channel."
+    },
+    {
+        "start": "00:01:53.120",
+        "end": "00:02:22.840",
+        "text": "So, today, one of the members of the Healer Network is Philip, some more von Holtsendorff, and he's on the line right now, and so he and Philip wanted to say welcome, good morning, and I pulled this bio off of your website, and so I just would like you to just, I'm just going to quote a couple of things I think are really interesting, and then just let you introduce yourself, but Philip is a coach, a conscious entrepreneur, an alpha-cheat teacher and an energy healer."
+    },
+    {
+        "start": "00:02:22.840",
+        "end": "00:02:52.840",
+        "text": "Your core competency is transform energy blockages and open hidden treasures within oneself, and what's really cool is that you specialize in working with people through your other entrepreneurial businesses, one's called the Path of Love, helping people kind of find their true self, I think the simplest way to say it right, through their inner nature and their consciousness, and there's your other business called Layla Labs, which you have a full product line"
+    },
+    {
+        "start": "00:02:52.840",
+        "end": "00:03:17.440",
+        "text": "of C60 products, C60 oil and C60 topicals, and then as well now, you've got this Layla quantum tech, so good morning, and is there anything else that you kind of want to add to kind of just let people know who you are and what your background is? Thanks so much, Kay, for having me, I'm looking forward to this, really am, and thanks for the introduction, I think it really covers it from my perspective."
+    },
+    {
+        "start": "00:03:17.440",
+        "end": "00:03:47.240",
+        "text": "When I was interviewed last week, the one interviewing said, \"Hey, you're underselling yourself, weren't you a vice president at T-Mobile? We should mention this.\" And I was like, \"Well, you can mention it if you want, it's for me not very important, but it may in this case be important for some people to hear that I was in the telecommunications industry in Europe and in the US, because we're talking about EMF, so it's not that I'm completely"
+    },
+    {
+        "start": "00:03:47.240",
+        "end": "00:04:17.120",
+        "text": "new to this stuff, and yeah, that may be the only thing to add, but it's the past.\" That would definitely mean you understand EMF and wireless and all of those things. That's pretty cool. Yeah, I think I heard that, and I didn't connect that till just when you just said that now, but I do want to point out that Philip is battle scarred like myself. He has two children, one is a teenager, and I think he's 19, so you've survived."
+    },
+    {
+        "start": "00:04:17.120",
+        "end": "00:04:44.280",
+        "text": "We have one that just turned 18, and the other one is 13. Okay, so yeah, so you've got the battle scars, and you survived. My daughter's 21, so I think any man and woman who has survived their children being teenagers is definitely, you've got the scars to prove it, and you survived, so hey, congratulations to you and you and everyone always jokes that the newborns are the hard ones, nah."
+    },
+    {
+        "start": "00:04:44.280",
+        "end": "00:05:13.720",
+        "text": "I have a teenager, so we'll have to have a chat one day, which one's worst teenage boy or teenage girl, but yeah, so he's a father as well, so hey, well welcome. So you know, let's talk about the Kickstarter, so right now, this is what the Kickstarter page looks like, just want to share. This is the Layla Q website, and right here is this early bird offer, and so if you jump into here, you pop right over to the Kickstarter page."
+    },
+    {
+        "start": "00:05:13.720",
+        "end": "00:05:42.120",
+        "text": "So hey, you know, Philip, this is kind of a new concept for a business that's already running and selling multiple products to actually do a Kickstarter on the side, so I was just kind of wondering, like, so what's this Kickstarter about and what made you think about doing it this way? Yeah, great question. So we thought about it quite some time ago actually, and we're thinking about an EMF protective"
+    },
+    {
+        "start": "00:05:42.120",
+        "end": "00:06:09.400",
+        "text": "jacket that's all also quantum energy infused and therefore is great for well-being and the blood and all of that, and when we were thinking about it, we were realizing, well, you know, this will be the world's first quantum jacket, and on top of that, it's really also the world's first real EMF protection jacket that's out there, maybe there's something"
+    },
+    {
+        "start": "00:06:09.400",
+        "end": "00:06:37.800",
+        "text": "out there, I think you couldn't find anything, maybe there is something out there that, you know, but there's definitely nothing in the fashion side, you know, maybe you look like a nerd if you were what's available or you do something like homemade. No, I check, there's nothing out there, I looked all over, because, well, I won't interrupt you, sorry, but I'll talk about that later, go ahead, keep talking."
+    },
+    {
+        "start": "00:06:37.800",
+        "end": "00:07:03.600",
+        "text": "Yeah, and Kickstarter is just a phenomenal platform to let people know about completely new inventions and products, and we're a small company obviously, and Kickstarter just offers this opportunity to get this out there to a broader audience, and also to make people"
+    },
+    {
+        "start": "00:07:03.600",
+        "end": "00:07:30.240",
+        "text": "aware of it that may not have pwned us otherwise, but that may be very interested in this, especially in the current times, I think a jacket like this comes in pretty handy. So that's why we chose Kickstarter, and then we started to, you know, refining the jacket, making it as good and protective and helpful as we possibly could, and also that it looks"
+    },
+    {
+        "start": "00:07:30.240",
+        "end": "00:07:59.880",
+        "text": "really great, so we went through multiple iterations, and then in parallel, we basically ramped up these efforts to launch the Kickstarter campaign, which is quite a project in and of itself. It was a lot of work. It's a first Kickstarter you've done, I mean, I've never actually done one, I've supported several, I think most people have, right, so where, you know, I guess most people are familiar with the Kickstarter, but is this your first one that you've ever done? Yes, that's the first one. Yeah, how long does it take to set up?"
+    },
+    {
+        "start": "00:07:59.880",
+        "end": "00:08:26.160",
+        "text": "Well, I mean, it depends on how you define set up. So just to launch it in the end, that was a clicking a button for a second, but all the work that went in until I could press that button to launch it was, yeah, multiple weeks, and, you know, we've planned, planned it and worked on it for a few months. Oh, yeah. But I mean, not obviously like full-time, right, so there's definitely several weeks of work going into this."
+    },
+    {
+        "start": "00:08:26.160",
+        "end": "00:08:54.680",
+        "text": "Yeah, so the whole concept behind Kickstarter is basically trying to, you know, raise capital for a new product, basically. So you know, I know that you're a very small startup entrepreneurial company with Layla Quantum Tech, working with all your, you know, friends on the healer network. So basically this is an effort to launch a new product and raise the capital to do so, where as capital is raised, as you sell product, then you've raised the money to then go ahead"
+    },
+    {
+        "start": "00:08:54.680",
+        "end": "00:09:22.120",
+        "text": "and create the product and ship it. And that's so you'll be, I was reading the website, so you'll be, you'll be shipping the first, I guess they call it the first wave or something of jackets in May and then the, and if they raise enough capital, you'll, you know, the second wave will come out in June of this year, is that correct? That is correct. And that's actually pretty fast for a Kickstarter. And the reason is because we've completely developed the jacket that's all ready to go."
+    },
+    {
+        "start": "00:09:22.120",
+        "end": "00:09:51.840",
+        "text": "So it's working perfectly, it's been certified and all of that and tested and studied. And so we're already running the production. So, and, and then, you know, as the campaign moves forward, we're ramping that up. So we try to make it as fast as possible for people. So people don't need to wait for three or six months here, like in, in several other projects. Yeah, I've actually been in projects where they never launched because you got the product"
+    },
+    {
+        "start": "00:09:51.840",
+        "end": "00:10:20.760",
+        "text": "and that's, that's a go. So that's really cool. I mean, it is really cool. And I'm really happy to be a part of it. So I've already signed myself up as a backer and I just want to say go for it, you know, I support you. And then let's talk about the jacket because in our pre discussion, Philip and I were chatting about the jacket and, and so, okay, so this is what I want to point out is that the first wave comes out in May, the second wave comes out in June. And so, you know, I was talking to my daughter about it."
+    },
+    {
+        "start": "00:10:20.760",
+        "end": "00:10:49.640",
+        "text": "And I just wanted to, I was asking her if she wants one. And her first thought was like, well, you know, how warm is it because she looked at the picture and thought, oh, if I got this jacket in May, you know, is it, is it, you know, is it, am I ever going to use it until like next winter, right? And so, Philip, you were mentioning that this is, it's, it's a poofy winter looking jacket, but it's really not a full on winter jacket or could you kind of talk about the jacket itself as a jacket? Yes. So, and first of all, it's very comfortable and it's really awesome."
+    },
+    {
+        "start": "00:10:49.640",
+        "end": "00:11:18.760",
+        "text": "It looks really comfortable. Yeah, I've been wearing it a lot. So because I have the, one of the prototypes here and you can actually wear it most of the years. So this is a jacket that works well in the spring and the fall in cold summer days as well as in the winter, however, not in deep winter. Like if you, if you go skiing, you could wear it if it's a warmer ski day, if you will,"
+    },
+    {
+        "start": "00:11:18.760",
+        "end": "00:11:47.740",
+        "text": "right? You know, I have those in March and all that. But if it's really deep winter, then you want to have a, yeah, warmer jacket. Okay. And so the thing, okay. So it's, it's, it's like a light winter spring fall jacket. Okay. Cool. Well, I'm going to tell her on that because it looks really super thick and warm. But you know what? So what's, okay. So if there's two components to the jacket, you know, I read, I read all the material about it."
+    },
+    {
+        "start": "00:11:47.740",
+        "end": "00:12:16.700",
+        "text": "One, it's an EMF shielded fabric, which makes it like EMF shielding. And then the second thing is you've charged it using your, you know, using your tools with quantum energy, right? So, now as I was going through it, so what makes this jacket special is I guess it's made, it's like it's, it's got a purity or I'm sorry, silver. So there's silver threads sewn into the, into the fabric. And that's what provides the shielding, right? Yeah."
+    },
+    {
+        "start": "00:12:16.700",
+        "end": "00:12:45.200",
+        "text": "So the, the inner part of the jacket is to a large extent, this special 99.9 purity silver fabric that we use, which just in and of itself, without any charging blocks over 99.9% of any EMF and it's antimicrobial and odor neutral and antibacterial and all that."
+    },
+    {
+        "start": "00:12:45.200",
+        "end": "00:13:14.520",
+        "text": "So that's, that's that material. And it's actually, as you can see here on the picture, also in the hood, which adds another layer of protection, if you want to, you know, just, you know, protect your head. And yeah, that's what we've basically come up with. And then the outside is not the silver fabric, because, you know, we wanted to look good also and great. I mean, the inside looks great as is, but it would be a little odd if it would be silver"
+    },
+    {
+        "start": "00:13:14.520",
+        "end": "00:13:41.120",
+        "text": "on the outside as well. Okay. Is it waterproof or is it like, you know, you know, some jackets are kind of like water resistant? Yeah. It's somewhat water resistant. I think it has just like a one, two, or three percent absorption at most. Okay. Yeah. You know, I want, I just do want to, I want to reiterate that, you know, I went looking all over last night to see if there's any comparable products and there is, there's only one thing"
+    },
+    {
+        "start": "00:13:41.120",
+        "end": "00:14:08.240",
+        "text": "that will pop up under EMF jacket and it is nothing like this at all. It's just really this strange trench coat thing. But so this is really cool, this is the first of its kind, EMF jacket. And then let's talk about the whole quantum energy aspect of it. So what have you done to the jacket that, you know, really like lifts it up in terms of its ability to protect people from the harmful effects of EMF? Yeah."
+    },
+    {
+        "start": "00:14:08.240",
+        "end": "00:14:31.040",
+        "text": "So we, for people that have not heard, we have two products called the Quantum Block and the infinity block. We also have larger versions of that here for us, again, those are, that's the actual technology that we use to infuse pure quantum energy into objects."
+    },
+    {
+        "start": "00:14:31.040",
+        "end": "00:14:58.080",
+        "text": "And so this jacket, when you receive it, has been charged with pure quantum energy in these devices. And so they will hold this quantum energy permanently. The silver is actually an amazing part of this because you could just have a regular jacket and charge it, but then it doesn't hold the quantum energy as well."
+    },
+    {
+        "start": "00:14:58.080",
+        "end": "00:15:25.400",
+        "text": "And it also doesn't transmit the quantum energy nearly as well as the silver does. So this has, it's just like a double whammy, it's super awesome to use silver for something like that. And what it does, it then transmits this positive energy to the body of the wearer."
+    },
+    {
+        "start": "00:15:25.400",
+        "end": "00:15:54.440",
+        "text": "And it has been shown in multiple studies that it has fairly amazing effects on well-being, can help in general on the blood. I think we'll get into that a little deeper. And yeah, so that's why you also feel a little bit more energy, you feel pretty energized when you wear it. And so that's very unique. Yeah, sounds okay."
+    },
+    {
+        "start": "00:15:54.440",
+        "end": "00:16:20.800",
+        "text": "So I know that, okay, so if anyone who's got questions about what this energy is, Phillip and I did a chat about a month or two ago where we really talked in depth about the energy and what it's all about. I'll go ahead and link that in the video description below along with the links to the website and Kickstarter and so forth. So that's an entirely unique discussion. But what I want to do is let you know that at the end of the video, we're going to actually"
+    },
+    {
+        "start": "00:16:20.800",
+        "end": "00:16:48.240",
+        "text": "show you some of the results of what this energy or what the effects of the energy are to human blood cells. So it's a real physical impact and it is a real actual thing when Phillip says quantum energy, it sounds a little new agey, but when you see what it really does and it really does it in the physical world, it's impossible to say that it doesn't exist. So that's really cool."
+    },
+    {
+        "start": "00:16:48.240",
+        "end": "00:17:09.560",
+        "text": "I got one more question about the jacket because I know someone's going to ask and I'm curious too, but what are the washing instructions? If you wash this thing, does it decrease its effectiveness over time? Is there anything that you would say? I'm definitely going to get one for my daughter, I just want to make sure she doesn't mess it up. Yep, it's a good question."
+    },
+    {
+        "start": "00:17:09.560",
+        "end": "00:17:37.760",
+        "text": "So like with any of our quantum clothing items, you can wash it at 30 degrees centigrade at most. So that is... About 100 degrees, right? No, I think that's less than 100 degrees. It's somewhere rather around 90, 86 or something like that, we'll have to look it up, but more around that."
+    },
+    {
+        "start": "00:17:37.760",
+        "end": "00:18:04.400",
+        "text": "And so maybe just a cold wash, I think in the U.S. maybe warm would also work, it depends probably on the washer and it should not be put in the dryer. So that's basically it. So no hot water and it stays clean. All right. Okay, great. So one of the things that I do want to next chat about and just share this with everybody"
+    },
+    {
+        "start": "00:18:04.400",
+        "end": "00:18:33.760",
+        "text": "is a lot of the products that you're selling on your website, I noticed, and especially this jacket is all geared towards the mitigation of the effects of EMF. And so I'm kind of just would like to ask you if you could kind of share with everybody, why have you chosen this particular effect as something to wrap a lot of your products around me? Why EMF?"
+    },
+    {
+        "start": "00:18:33.760",
+        "end": "00:19:02.240",
+        "text": "What makes you interested in helping people about EMF? What are your thoughts? Good question. I think it's become one more problem for people. I think if you listen to a lot of the doctors that speak the truth and people that are pretty involved in this and have run studies or have looked at studies, they would all tell"
+    },
+    {
+        "start": "00:19:02.240",
+        "end": "00:19:25.520",
+        "text": "you that EMF is one of the main contributors, some would even say it's the main contributor to bad human health and also bad health in regards to animals, talking about bees and other animals. Bees may be an example that people have heard about."
+    },
+    {
+        "start": "00:19:25.520",
+        "end": "00:19:54.200",
+        "text": "And it's gotten worse over time, so we're really living in a soup of EMF nowadays. It wasn't really the case 20, 30 years ago. And so with this whole mobile phone movement, it kind of started, right, and then we went to 3G. 3G was already proven a long, long time ago as being absolutely detrimental to the health"
+    },
+    {
+        "start": "00:19:54.200",
+        "end": "00:20:14.040",
+        "text": "of the human body. I mean, we could go into real details, but there are literally hundreds and hundreds of studies in regards to that. And then 4G, then 5G, and 5G is a little bit different than the other G's because it works"
+    },
+    {
+        "start": "00:20:14.040",
+        "end": "00:20:42.600",
+        "text": "in a different way, it has a way to pulse the data that it does it in a non-natural way. For us, it's not natural. And what a lot of people don't know is that with all the 5G towers that are being rolled out, 3G is being rolled out at the same time, more or less in the backpack of 5G."
+    },
+    {
+        "start": "00:20:42.600",
+        "end": "00:21:12.320",
+        "text": "And it's not really being talked about. I couldn't really find a lot about that anywhere I was trying to find, but I couldn't. And 3G is very bad at the time. It wasn't that bad because it was not all over the place, now that it's going to be all over the place and we already know what 3G does, it's actually not good. Now, I want to mention that I'm not one of those people that says this is terrible for everybody and there's nothing that can be done."
+    },
+    {
+        "start": "00:21:12.320",
+        "end": "00:21:40.240",
+        "text": "I actually know for a fact, if you're very tuned in with yourself and live a very conscious life, the more you are in tune with yourself, the less it actually needs to bother you. And none of the healers, for example, that we work with are bothered by EMF. It's just, is that way? However, over 90% of the population, likely more than 95% of the population, isn't at"
+    },
+    {
+        "start": "00:21:40.240",
+        "end": "00:22:07.400",
+        "text": "that state of someone that has always lived a completely conscious life and is fully expanded with their consciousness. So they are affected and there are thousands of studies that show that if anybody is interested, you can Google bio-initiative report 2012 or bio-initiative 2012 report. It's hard to find it on Google anywhere, but if you type that in, you'll find it."
+    },
+    {
+        "start": "00:22:07.400",
+        "end": "00:22:32.760",
+        "text": "If you don't find it on Google anymore, then use duck duck go. And that's an amazing compilation. It's actually from 2012 onwards, it's been updated every year and it's a compilation of, I think, around about 2000 extensive studies all around radiation and EMF impacts and health impacts and all of that."
+    },
+    {
+        "start": "00:22:32.760",
+        "end": "00:23:02.040",
+        "text": "And then there's also, I think, an appeal that has been signed by way over 300,000 scientists from over 220 nations to actually stop 5G. So I'm not advocating here to stop 5G, even though that may not be a bad idea if we could go with some alternatives. However, the point is that there is a lot of awareness out there."
+    },
+    {
+        "start": "00:23:02.040",
+        "end": "00:23:31.640",
+        "text": "It's just not in the mainstream, really. But there is a lot of awareness, there are real health effects. And we also, in our studies, found out that over 90%, way over 90% of the people that are exposed to EMF are negatively impacted in their physical health and even in their bio-energetic state. So that's one of the reasons why we said, okay, we can't make 5G go away now."
+    },
+    {
+        "start": "00:23:31.640",
+        "end": "00:24:00.400",
+        "text": "And that's also not really our goal. But how can we make life easier for people and make it easier for people so that their bodies don't need to fight constantly against all these things, but actually be in a state where the body can focus on its original tasks. And yeah, that's why we created this whole concept in the first place. Oh, it's great."
+    },
+    {
+        "start": "00:24:00.400",
+        "end": "00:24:27.040",
+        "text": "That coming from a former telecom executive is very powerful. And if I can add just a couple of things, I've been an EMF sensitive person forever. And what 20-something years ago started out as a quest to just be able to sleep through the night as something as simple as I just wanted to sleep through the night and start"
+    },
+    {
+        "start": "00:24:27.040",
+        "end": "00:24:51.040",
+        "text": "looking at all the various things that would affect my ability to sleep. I ran across EMF, and I have actually been a very, very strong anti-EMF individual for all those years. And I want to point out something, and I'm also a huge advocate for bio-electrical magnetic healing modalities and devices as some of you may have seen with some of my electrical healing videos."
+    },
+    {
+        "start": "00:24:51.040",
+        "end": "00:25:20.360",
+        "text": "What I want to add, Phillip, is that electromagnetic frequencies are both good and bad. And that here's, if you look at the range of the frequencies from left to right, there's this very narrow band right at the very beginning at the extremely low frequencies, 50-60 hertz and below, that are actually earthbound frequencies, especially as people may have known, like the human residence, which is the Earth's own frequency at 7.83 hertz."
+    },
+    {
+        "start": "00:25:20.360",
+        "end": "00:25:46.920",
+        "text": "So right here is where we are literally tied to our mother, and it's part of who we are, and that we're born into this frequency. And then NASA and the other space agencies have determined that if you take a human being outside of this field, that they were raised in, it affects them negatively, physically. So this is a very healthy band right here in the very, but everything between that band and natural sunlight, the whole idea of red light that you need to have red light, the"
+    },
+    {
+        "start": "00:25:46.920",
+        "end": "00:26:16.080",
+        "text": "reason that we have cold and flu season, or used to, it's because people weren't getting enough sunlight. So it's a very healthy band of electromagnetic frequency, but what's happened is that there's this artificial band right in here between, let's say, 60 hertz all the way up to natural sunlight, and then beyond that, you've got ionizing and non-ionizing radiation, essentially. So one of the things I wanted to add, Phillip, and especially this is interesting to hear"
+    },
+    {
+        "start": "00:26:16.080",
+        "end": "00:26:42.600",
+        "text": "about the cell phone thing, but I want to point out to anyone, and I don't mean this at all, to be fear mongering, fear mongering, or doom porn or anything like that. I just want to just share what I've observed for 20 years, and that is, is that in the beginning, when we had flip phones, this is a great diagram, by the way, I found it, you know, you could shield the phone by putting it in a pouch or you could put it in a wallet"
+    },
+    {
+        "start": "00:26:42.600",
+        "end": "00:27:12.560",
+        "text": "or, you know, and now today, in today's world, you can, you know, do other things, but you could shield yourself from the phone, and then everybody started getting Wi-Fi, and you could shield yourself against the Wi-Fi in your house by just turning it off, and then you've got cell phone towers, and there's ways to go, and there's different companies out there that sell shielded paint, shielding materials you can put on your windows and your walls, and things like that. And so in the beginning, and I have a video, I have a page on this on my blog, where someone"
+    },
+    {
+        "start": "00:27:12.560",
+        "end": "00:27:38.040",
+        "text": "asked me once, like, what do I do for shielding? And so I did a little quickie video, and if anybody wants to see it, it's on my blog, and, you know, on how I shielded my house, when the building across the way for me decided to put a microwave antenna on top of their building, and so that was like 10 years ago, so what did I do about it, right? And then also how to deal with, like, something called dirty electricity and all that. And so, you know, actual physical shielding was practical and necessary, if you really"
+    },
+    {
+        "start": "00:27:38.040",
+        "end": "00:28:04.880",
+        "text": "wanted to kind of not be irradiated all the time, so, but the thing I want to point out, and thanks for letting me go on this monologue here, is the satellites, the issue of the satellites now. Because the idea that you could once shield yourself from cell phones, you could shield yourself from Wi-Fi and Wi-Fi antennas and go out and buy the paint and all of that, yeah, that's all great for when you're inside your home, but when you're outside your home,"
+    },
+    {
+        "start": "00:28:04.880",
+        "end": "00:28:31.240",
+        "text": "you know, we're at a point now where you cannot shield yourself from it, because with the advent of the satellites, and this is something I just want to point out to anybody who doesn't know about it, is if you've ever heard of the Starlink project, Philip, have you heard about this project? Yes, absolutely. Yeah, it's, you know, Elon Musk, love that guy, right, yeah, you know, SpaceX, right? Well, what Elon's done with his subsidiary called Starlink is they've decided that they're"
+    },
+    {
+        "start": "00:28:31.240",
+        "end": "00:28:55.760",
+        "text": "going to bring 5G cell phone and internet, right, to the planet, to the whole planet. And so as of, this article is as of March 1st this year, 2021. And so the article basically says, hey, you know what, the Starlink project is now up to, I guess right here, it's, you know, they first, the whole project was to put out a blanket"
+    },
+    {
+        "start": "00:28:55.760",
+        "end": "00:29:21.720",
+        "text": "of satellites around the planet that would then be broadcasting 24 hours a day everywhere you go, you know, 5G and basically Wi-Fi internet access. And so as of March 1st, they have, they have over a thousand satellites have already been delivered into orbit. There's already a thousand up there and that, okay, now, so as of, okay, as of February,"
+    },
+    {
+        "start": "00:29:21.720",
+        "end": "00:29:50.840",
+        "text": "I'm sorry, as of February, there's 1,300 SpaceX or Starlink satellites in orbit now broadcasting Wi-Fi, okay. And the goal, and this is what's terrifying. The goal is once they get up to, you know, it's 1,300, but the goal right now is 30,000. And that's just Starlink. And there's other companies, there's an Indian company, there's one in Europe, and these other companies, they also want to be grabbing territory."
+    },
+    {
+        "start": "00:29:50.840",
+        "end": "00:30:16.240",
+        "text": "There's a big land rush right now, you want to call it a land rush, right, Phillip? Because you're the telecom guy, right? But I mean, we're talking about just one company alone is going to have 30,000 internet satellites up there. And they're only going to be going between 45 and 50 degrees north latitude. You've got the Indian company that's going to, that wants to blanket India the subcontinent. You've got a European company that wants to blanket Europe and so forth."
+    },
+    {
+        "start": "00:30:16.240",
+        "end": "00:30:43.600",
+        "text": "And we're going to have, I would easily guess what, over 100,000 satellites up above us over the next 10 years, easy, right? I mean, would you agree with that? Yes, I would agree with that. And it's indeed a massive amount. It can be shocking to hear this and probably a lot of people who are not aware that this is happening. However, again, it's something that, you know, we can't do anything about that right"
+    },
+    {
+        "start": "00:30:43.600",
+        "end": "00:31:11.560",
+        "text": "now and we need to adapt as humans, we are able to always adapt to things. However, in the time where it's the hardest to adapt is when you're first blasted with all of that, right? And you're, as you said, you're, by the way, that was a great overview of the history of how this all developed. And now we're out there naked in the open, basically, right?"
+    },
+    {
+        "start": "00:31:11.560",
+        "end": "00:31:36.440",
+        "text": "And there's nothing you can do other than to adapt with your consciousness and be as healthy as you can and then leverage tools like the ones that we are working on so that you don't have an issue with it. That's basically all that can be done. We can't, yeah, we can't do anything about those satellites at this point."
+    },
+    {
+        "start": "00:31:36.440",
+        "end": "00:32:02.440",
+        "text": "Hopefully, at some point, there will be either technology used that this doesn't even affect us in a negative way while we're also adapting. So that's, or that it stops in something even more powerful and at the same time, good for the human health will be invented and developed. So that's my hope. Yeah."
+    },
+    {
+        "start": "00:32:02.440",
+        "end": "00:32:28.400",
+        "text": "And that, you know, I just want to emphasize, you know, that's why I appreciate Layla Quantum Tech so much because they've, they're not out there just, you know, selling pendants and things. They're really trying to help with their entire focus on EMF for the reasons I just stated. So my first point is that if you think you can get away from it or shield yourself from it, that's not going to be possible. And it's, that's, and we're ready there."
+    },
+    {
+        "start": "00:32:28.400",
+        "end": "00:32:54.680",
+        "text": "If you live in a city and for those of folks that are living out in the country, you know, hey, what, there's no way to hide from it when there's a hundred thousand satellites above your head, you know. And then, you know, it's, it's, and so that's just my first point and a second point that I want to make is the research that I did and anyone can do this. So I, you know, I don't recommend using Google. So I'm a duck duck go also or I X quick is my other go to search engine."
+    },
+    {
+        "start": "00:32:54.680",
+        "end": "00:33:21.840",
+        "text": "So if you go to a search engine that's reliable, that doesn't censor your search results and you just say, what are the symptoms of exposure to EMF? And you'll just, or you then, okay, this is where I use Google. I do use Google for Google, Google Scholar, Google patents. It seems to be the only reliable, you know, they're, they're really helpful. So much as I hate Google. But if you go to these websites and you look up studies, you look up the effects."
+    },
+    {
+        "start": "00:33:21.840",
+        "end": "00:33:47.920",
+        "text": "One of the things I want to point out because before we talk about the test results, I want to kind of level set and, you know, what's the, and set a benchmark so that everybody understands what we're looking at here in a second. But when I'd researched all of this for, for this discussion with Phillip, you know, I just bullet it out. I mean, literally just reading and reading and reeling and made a bullet list of all of the various symptoms that are in studies and of, of, you know, this is not anecdotal."
+    },
+    {
+        "start": "00:33:47.920",
+        "end": "00:34:17.840",
+        "text": "This is studies of people exposed to all the different, you know, forms of radiation, you know, EMF radiation that they can get. And then what are the, what's the list of things that happen to people? And it's everything from headaches, which I used to suffer from headaches, but I, I wear a shielded hat whenever I'm not in my home and my home has a metal roof. So I'm okay at home. But if I go outside, I have to wear a shielded hat or I get headaches. I'm one of those folks, right? But everything from cardiac dysregulation, depression, skin rashes, I mean, it's all"
+    },
+    {
+        "start": "00:34:17.840",
+        "end": "00:34:44.960",
+        "text": "over the map. But the one thing that is related to the tests that were done on the Leila Quantum jacket and the Leila Quantum energy itself is where they looked at the red blood cells. And so one of the things that you'll find in EMF literature is that EMF causes what they call it induces the, the Rolo formulation or formation in red blood cells and Rolo is French word for roles. Okay."
+    },
+    {
+        "start": "00:34:44.960",
+        "end": "00:35:12.480",
+        "text": "So it creates like these little coin rolls out of red blood cells. And so what that does when it creates that formation of red blood cells into little clusters or called coin, you know, coin rolls, Rolo is that causes oxygen deprivation of within your blood because your red blood cells are required. You know, that's what transmits oxygen throughout your entire body. And so what happens when you have a blood clusters, Rolo formation in your red blood"
+    },
+    {
+        "start": "00:35:12.480",
+        "end": "00:35:37.840",
+        "text": "cells, when you're exposed to EMF and you're exposed to EMF all the time, 24 hours a day. And so now you go into like, what happens? Well, you get into this oxygen deprivation aspect. And then here's, and then, okay, go in and you go back into the search engines and start researching oxygen deprivation. So I did all of that too. And the next step in the thought process was, okay, what happens if I'm deprived of oxygen? And you get into some serious issues with your health."
+    },
+    {
+        "start": "00:35:37.840",
+        "end": "00:36:01.960",
+        "text": "And I think one of the most important things that people don't realize is that chronic diseases that's tied to oxygen deprivation, which is tied to EMF. And I think that's one of the things about, and I mentioned this in our last chat, Philip, which was just by serendipity. You know, I follow another individual who's electro sensitive and his name is Lloyd and"
+    },
+    {
+        "start": "00:36:01.960",
+        "end": "00:36:30.920",
+        "text": "he has this great blog called ElectroSense and he had a guest, a doctor, a guest speaker on a couple of weeks ago. And she had done a tremendous amount of research on the effects of EMF on blood and then all of the chronic diseases that were tied to that blood. And it's just, it's so, I think it's just starting to come out now because, you know, when you look at this chart right here, you realize that, you know, when did this stuff"
+    },
+    {
+        "start": "00:36:30.920",
+        "end": "00:36:57.280",
+        "text": "get invented and this stuff got invented after World War II, right? I mean, we only started using satellites, I'm sorry, not satellites, but radar, radar was invented in World War II because the British needed to keep track of the Germans, right? So they, that's when we invented radar and started using radar in World War II. So it's only been 80 years. So the planet has been EMF free for all this time and we've been living in harmonious nature"
+    },
+    {
+        "start": "00:36:57.280",
+        "end": "00:37:24.160",
+        "text": "right with nature. And then for the last 80 years, we've induced this man-made creation. And now all of a sudden, everything you read is we've got, you know, epidemic of obesity and diabetes and heart disease and all that, right? And so you start to wonder, is there a correlation? And my personal opinion, I think there is. I really think that the industrial age on top of the digital age is causing a lot of health problems. And I think that, again, and I don't mean to be fear-mongering, it's"
+    },
+    {
+        "start": "00:37:24.160",
+        "end": "00:37:51.160",
+        "text": "just my opinion. But when you do the research, it's almost undeniable. I mean, what's your thoughts on just that aspect or that concept? Yeah, I mean, you're absolutely not alone with that. The mainstream is alone with their perspective to not to ignore it. But if you listen to people like Dr. Klinghard, for example, out of the Seattle areas, he's one of the most respected doctors around the globe."
+    },
+    {
+        "start": "00:37:51.160",
+        "end": "00:38:21.040",
+        "text": "I mean, he's well known all over Europe. He's known in the US. He's the man to go to if you have Lyme disease and lots of other stuff. And he tells you straight in the face that EMF is responsible for the huge increase of autoimmune diseases. So yeah, I think you're pretty much spot on. It's definitely a factor at minimum. Yeah. And you know, and just my last point here is you see this right there? Yeah, that's"
+    },
+    {
+        "start": "00:38:21.040",
+        "end": "00:38:50.040",
+        "text": "how I got into EMF, typical tea sleeping is a symptom. I can't even tell you how much money and time I've spent on trying to get a sleep, decent night's sleep. So I'm going to leave everybody with that thought and the thought of, you know, what is EMF and what is its threat to our health and, you know, and just what does the future look like? And so with that thought, let's talk about the test results. And then this is where it gets so cool, because you just don't see this anywhere else. But the test"
+    },
+    {
+        "start": "00:38:50.040",
+        "end": "00:39:16.600",
+        "text": "results, and basically you've had a test by a couple of different institutes. One of them is called BESA. So we'll just, we're just going to focus in on the BESA testing initially, and without making this video too long. And so I want, I just want to point out that I read some of the studies and that you gave me and really, and just for the audience, it's a really simple before and after study. Okay. So this, the concept is simple. It's,"
+    },
+    {
+        "start": "00:39:16.600",
+        "end": "00:39:42.140",
+        "text": "it takes someone and we, 100% of us are this before picture, honestly, where we're subjected to, we're all carrying a phone and we're all living in a Wi-Fi field. On top of that, a lot of us live in a, in an electrical field, I live in a building. So I'm surrounded by all the wires within the building, in a home, not so bad. Still, you got a lot of wiring, but nothing like me, right, living in a condominium. And then even worse, I live within a quarter"
+    },
+    {
+        "start": "00:39:42.140",
+        "end": "00:40:10.140",
+        "text": "mile of Honolulu International Airport. And so for those of you who live near airports, you've got a huge extra factor of EMF that you may not realize. And that is the, the radar and all the telecommunications coming off of, off of an airport. It's huge. Their radar that they use is constantly beaming radiation onto you. So, so the average person is, is, is in a state of EMF, you know, you know, problematic EMF. And then the, then you did"
+    },
+    {
+        "start": "00:40:10.140",
+        "end": "00:40:37.820",
+        "text": "the study, the studies was take a look at someone's blood before and then after. Okay. So, Phillip, can you just, I, I, I pulled up two different tests that you sent me from the Bessah Institute of the, of the blood. And then the blood is a, what they call a dark field microscopy, fancy word for looking at blood under a microscope. And so I, these two subjects, I guess the"
+    },
+    {
+        "start": "00:40:37.820",
+        "end": "00:40:57.460",
+        "text": "Bessah called them pro band. I'm not sure what the nomenclature is, but it's basically test subject five and test subject. Yes. Right. So test subject five. You want to go ahead and if you could, you want to just share, like, you know, what was this individual and, and what did we, and what are we seeing when I, when I, and let me know when to flip the screen."
+    },
+    {
+        "start": "00:40:57.460",
+        "end": "00:41:22.660",
+        "text": "Yep. So that's a 60 year old, um, that is, um, the suffering from a long carcinoma. And he had already been in, in treatment, right, to, you know, to work on it and to get better. So he was tested. And so they took a blood sample and looked at the blood and it, yeah,"
+    },
+    {
+        "start": "00:41:22.660",
+        "end": "00:41:50.860",
+        "text": "I think you can now show what it looks like or looks like. So this is the before, right? So, yeah. So it looks, I mean, even for someone who's never seen dark field microscopy pictures after showing the next one, you will be able to easily tell and feel the difference. So this is pretty bad, right? There's this, this is really bad. You see, um, actually those"
+    },
+    {
+        "start": "00:41:50.860",
+        "end": "00:42:13.660",
+        "text": "money rolls all over the place and not even just single money rolls. It's just like stacks and stacks of money rolls all over the place. So it's, it's very unhealthy. It's, uh, you know, with the blood like this, it, you know, someone, a doctor would tell you immediately you're sick. You're, you're not doing well at all. We need to do something. There's lots"
+    },
+    {
+        "start": "00:42:13.660",
+        "end": "00:42:42.660",
+        "text": "of stuff going on with you. And, uh, for certain, not only that you're sick, but you're also at high risk, right? For anything, uh, hard, um, heart attack or stroke related, right? If the blood looks like that. So then go ahead. Yeah. I mean, this is, this is, this is not even the remote formation. These are just actual blood quats, clusterings. I mean,"
+    },
+    {
+        "start": "00:42:42.660",
+        "end": "00:43:09.540",
+        "text": "this is, this is, and then they're not even round. Uh, you know, the blood cells aren't even rounded. This is just very, very, very sickly. So yeah, that, this is wild. I, you know, so when I was looking at this earlier, I was like, wow, I've never seen anything like that. Uh, okay. So now this is the before. So the guy walks in off the street, they take a blood sample and this is what his blood looks like. And then so then the after picture is this is 15 minutes, right? So you put a Layla quantum jacket, he puts it on and then"
+    },
+    {
+        "start": "00:43:09.540",
+        "end": "00:43:33.980",
+        "text": "at 15 minutes later, they take a look at his blood. So what are we seeing here? Yeah. So it's a absolutely fast and phenomenal physical reaction into the quantum jacket, which shows now that you can see that those blood cells are, um, very much round and alone."
+    },
+    {
+        "start": "00:43:33.980",
+        "end": "00:43:59.140",
+        "text": "You don't see these money rolls and stacks as before this is now way, way more healthy. It's, it's, it's absolutely significant. I mean, you can show this to anybody that knows something about dark field microscopy and they'll tell you this is an absolutely phenomenal improvement. So that was certainly great to see. And it was actually also great to see"
+    },
+    {
+        "start": "00:43:59.140",
+        "end": "00:44:23.820",
+        "text": "for this actual person. Um, because, you know, obviously, he's not very interested in getting the quantum jacket because he had no idea that this was possible, right? And certainly, so actually once you wear the jacket, still the effect still lasts for a while. It's not"
+    },
+    {
+        "start": "00:44:23.820",
+        "end": "00:44:50.700",
+        "text": "like, uh, it lasts forever, obviously, but every time you put it on, you get an additional boost. So yeah, I think this is pretty self-explanatory here to see the before and after. Yes. An amazing transformation of this. You can just see where, you know, there's been energy induced into the body and it's then, you know, unclustered the blood, increased oxygen flow. I mean, did the test subjects report feeling anything? Uh, you know, I"
+    },
+    {
+        "start": "00:44:50.700",
+        "end": "00:45:16.100",
+        "text": "mean, I can imagine where it's like you're suffocating and all of a sudden, you know, you can just like your blood can breathe kind of a thing, right? I mean, what do these people say? So we don't know, um, from all of them, what they said, just because that was not really part of the study, but this, this in specific here, this was reported to us so that the person definitely felt that, uh, very soon felt so much better and lighter and"
+    },
+    {
+        "start": "00:45:16.100",
+        "end": "00:45:44.900",
+        "text": "even more energetic. And that's something that I would guess a lot of people will actually notice that they will at least notice that they have more energy and they feel a little bit more powerful in a way, right? Just from a physical perspective. Yeah. I think one of the interesting things I noticed here is you see all this background garbage in the blood. It's like, like just waste, right? Uh, and all of a sudden when the blood gets"
+    },
+    {
+        "start": "00:45:44.900",
+        "end": "00:46:08.980",
+        "text": "opened up and it can flow, you can see a lot of that. It's just passed through now and that it's, it's, it's the body's able to detox out all that, all that cellular rubbish, I guess. So it's really interesting how the space in between is darker. Okay. So let's talk about, uh, test subject number six, complete opposite level of health, right? Yes, because we wanted to look at different, different people for certain. So we had this"
+    },
+    {
+        "start": "00:46:08.980",
+        "end": "00:46:33.620",
+        "text": "very sick person. Now this is someone who's athletic and, uh, is, you know, relatively, lives a relatively conscious life. And we wanted to see, okay, so how does, how does that look? And obviously the, the blood to begin with looks more healthy than someone that is sick. It's just because you can see this stuff literally in the blood. So we can"
+    },
+    {
+        "start": "00:46:33.620",
+        "end": "00:46:59.700",
+        "text": "maybe pull this up and then. So this is a 60 year old healthy guy jogs all the time and he's walks in off the street and this is what his blood looks like. Exactly. And so obviously this looks way better than the other guy, uh, in the before picture, but then at the same time, there's still quite an improvement if we go to the next picture. Okay. And this is, uh,"
+    },
+    {
+        "start": "00:46:59.700",
+        "end": "00:47:28.020",
+        "text": "20 minutes after wearing the jacket. So he also has a response that basically unlocks all of these real low formations, opens it up and allows greater oxygen and blood flow from what I'm seeing, right? Yes, absolutely. So it, it, it works for everybody and it, um, basically helps everybody where they're at, uh, and then takes it from there. Yeah. Hey, you know, one thing I was, I'm sorry, this is, uh,"
+    },
+    {
+        "start": "00:47:28.020",
+        "end": "00:47:55.060",
+        "text": "this, this verbiage here on the slide is straight off the report. And I think it's something interesting that people should know is that Bessa made a comment in the report that said this guy walks in with his telephone. He had a smartphone that was plugged in. It was, uh, it was plugged in, uh, and it was sitting in his pocket. So this is a healthy person right here, a healthy person carrying around a cell phone. And you can see what EMF is doing because"
+    },
+    {
+        "start": "00:47:55.060",
+        "end": "00:48:22.660",
+        "text": "when you then take the, you know, like take the effect of EMF away by wearing a jacket, you could see how all of a sudden those roles go away. I think that's an important thing that it's interesting that they made a note here that the guy walked in with a cell phone at his pocket. But it's, it's, it's for mentioning that. It's like, yeah, because even a healthy person, if you're wearing a cell phone, you're still going to have some issues because of the cell phone as opposed to the other individual who was just really sickly to begin with. So yeah,"
+    },
+    {
+        "start": "00:48:22.660",
+        "end": "00:48:51.060",
+        "text": "it's an interesting observation. So, so, um, the next set of slides that I want to share with everybody is I want to make a point about EMF shielded clothing in general. Um, you know, there's, there are lots of companies out there, not a lot, but there's, you know, a good dozen or so are, are, are thereabouts that sell EMF shielded clothing. And they will measure the actual brute force shielding effort, like, you know, physical shielding, um, you know, between the source"
+    },
+    {
+        "start": "00:48:51.060",
+        "end": "00:49:17.220",
+        "text": "and the body, and they'll measure that and, and be able to determine what is the shielding effectiveness. And so that no matter what, if you buy shielded clothing, you will be, you know, like literally like a shield between you and the, and the stuff coming at you. And so, so there's that aspect of, of the product of the jacket. But what I think is so unique about the Leila Quantum jacket, the Leila, uh, EMF clothing is that it's infused with this Leila Q energy as"
+    },
+    {
+        "start": "00:49:17.220",
+        "end": "00:49:44.180",
+        "text": "Philip had discussed earlier. So what I want to do is just show you what the slides look like when somewhat when, because one of the things that Bessa had done in a prior test, and I pulled this out of the material from our other interview, Philip, was I want to show people that it's not just the shielded, it's not just wearing shielded clothing that makes a difference here, that it's that you're wearing shielded clothing that's been charged with quantum energy because"
+    },
+    {
+        "start": "00:49:44.180",
+        "end": "00:50:09.860",
+        "text": "when you take the shielded clothing away and you just look at this energy. And so this goes for your other products, right? This goes for your bracelets and your pendants. Uh, you may be even, you know, like maybe even like wearing a hat where it covers your whole body, but, but the whole idea though is this test here was done by Bessa prior to the jacket tests using the Q block right here, the quantum block. And so this is what I wanted to share. I pulled this out and this is a person,"
+    },
+    {
+        "start": "00:50:09.860",
+        "end": "00:50:34.260",
+        "text": "subject number three that walks in and they take and basically before, and I think the application of the Leila quantum block was you had the Bessa had them put their hands in it for like five minutes was that was that the actual physical test? Yes, exactly. That happened after after this picture here, which by the way shows beautifully how bad the blood is with all"
+    },
+    {
+        "start": "00:50:34.260",
+        "end": "00:51:02.740",
+        "text": "those money rolls here. So this is probably, you know, so this is test subject number three off the street, you know, just like the rest of us subjected to all the EMF and whatever's going on in life, they walk in and you could just see this real formation of their blood. I mean, it's like perfect money rolls everywhere you look. It's a corn. This is their blood and look at, you could imagine that when you cluster up the blood cells like that, what the oxygen deprivation is,"
+    },
+    {
+        "start": "00:51:02.740",
+        "end": "00:51:26.260",
+        "text": "you probably reduce the oxygen flow because of the surface area. There's less surface area of each blood cell by at least 70%. So you've got a lot less oxygen going through the blood in this form. But what's really cool is just the energy itself. So, you know, so that's what makes this EMF clothing line so unique that if you just take away the actual silver shield and you wear a"
+    },
+    {
+        "start": "00:51:26.260",
+        "end": "00:51:55.940",
+        "text": "regular t-shirt, but if you also, but the energy itself has a huge effect because on this test subject here, they walk in, they've got this, this is their blood. And then what, is it, was it five minutes? I guess it was five minutes. Yes, it was just five minutes. Here you go. Test subject number three, dark field microscopy, five minutes, they stick their hands in the cube lock. Now look at their blood. Boom. All of a sudden it's just all the cells are free, the blood's flowing, oxygen's"
+    },
+    {
+        "start": "00:51:55.940",
+        "end": "00:52:22.500",
+        "text": "improved. And I think that's such a profound test of just testing the, you know, just testing the energy itself and showing that the energy itself has a huge effect by itself. And then you've combined that with actual physical shielding to create one of the most unique products that are out there. So I wanted to really point this out because I know there's skeptics out there that say, well, you know, I could just get an EMF shielded from so and so and I got the same thing, but it's like,"
+    },
+    {
+        "start": "00:52:22.500",
+        "end": "00:52:50.500",
+        "text": "no, no, no, it's not the same thing. And that's, that's the point I wanted to make. Did you have anything you wanted to add? I think we've covered it. I think, yeah, and it's a good point to make because really just the blocking itself wouldn't, wouldn't do this. Right. So wrapping up on the idea of the test results, I just want to say that. So Bessa has now issued you a certificate of that they've tested your, your jacket. And then there's this, I was this IGF or EGF, right, is how you pronounce"
+    },
+    {
+        "start": "00:52:50.500",
+        "end": "00:53:18.740",
+        "text": "it is another Institute. So I just wanted to just touch on this guy, because what Bessa did was the dark field microscopy testing of the of the Laila jacket. And then so you had this other company. And another and another study. So they also ran a complete other study where they used the advanced decibel method. Okay. And went through actually testing EMF, but they also tested for environmental"
+    },
+    {
+        "start": "00:53:18.740",
+        "end": "00:53:48.260",
+        "text": "pollution, actually came out fantastic. And also looked at cytokines as an inflammatory factors, also perfect results there. And it also looked at additional stress factors, including oxidative stress, and what the jacket would do. And all those came back extremely positive. And then"
+    },
+    {
+        "start": "00:53:48.260",
+        "end": "00:54:11.380",
+        "text": "yes, indeed, there was the EGF certificate as well that we got for the actual blocking. That's what they tested in this case to actually see, you know, how is EMF really blocked from the jacket and to what extent? And yeah, you're pulling it up here. So these are the shielding efficiencies here,"
+    },
+    {
+        "start": "00:54:12.100",
+        "end": "00:54:39.700",
+        "text": "which, you know, are pretty self-explanatory way above 99.9 or 99.99% for the various frequencies. And this is just a just one overview here. So, okay, so yeah, first, so for folks that need to understand, this is just to show that the actual material is shielding."
+    },
+    {
+        "start": "00:54:39.700",
+        "end": "00:55:07.860",
+        "text": "And then the best certificate validates that, you know, what the effect of the body is on the body. So this is so, you know, it's just it's really just quite remarkable. I got to say that, you know, you're in you're in a space selling quantum products. And I do check out several others, but you're the you're the one company that just really just goes to the extent, I mean, just in testing and validating and third party results. And you know, it's very impressive. So I just"
+    },
+    {
+        "start": "00:55:07.860",
+        "end": "00:55:34.260",
+        "text": "want to say and share how much it, you know, testing has gone done and that has been done on these products. And I don't think people really truly understand that, you know, like how much testing goes in and that you validate everything that people are buying what you say they are by. So that's amazing. So, okay, so anything else you want to add on the testing? I just wanted to jump in. I think we've covered it. All right. So Philip, let me go ahead. What I want to do is I want"
+    },
+    {
+        "start": "00:55:34.260",
+        "end": "00:56:03.060",
+        "text": "to play the Kickstarter video and for everybody. And just and then we'll just do a wrap. So here you go. And magnetic fields are everywhere now. Protect and boost your energy with the Leela Quantum Jacket. The Leela Quantum Jacket is lined with high purity silver to help less than the harmful effects of exposure to EMF fields used for everything from cell phones to Wi-Fi and microwaves. EMF have been shown to decrease energy levels and well-being and even begin to plug in a new system."
+    },
+    {
+        "start": "00:56:03.060",
+        "end": "00:56:29.860",
+        "text": "Leela Quantum Jacket leverages a proprietary technology that charges objects with quantum energy. Silver is an excellent container of quantum energy. The quantum energy in the Leela Quantum Jacket theory silver lining is PMS protective and it can activate the body's self-healing mechanisms. Also called zero-point energy or life force energy, this form of protective and balancing energy and vibration is built into the antimicrobial and odor-resistant Leela"
+    },
+    {
+        "start": "00:56:29.860",
+        "end": "00:56:59.380",
+        "text": "Quantum Jacket. Quantum energy can have a very positive impact on working and the immune system. The boost energy and neutralized potentially harmful frequencies throughout the body, including BMF. It also does this for the parts of the body that are not directly protected by the jacket. Support our Kickstarter campaign and help protect and boost your positive energy with the Leela Quantum Jacket. That's very nicely done by the way. I got to give you some videos. That's really nice. This is way better than my videos."
+    },
+    {
+        "start": "00:56:59.380",
+        "end": "00:57:25.620",
+        "text": "So to wrap up on the Kickstarter and we've talked about the Kickstarter, the product, the test results, EMF, but now it's so the Kickstarter, you've got some pretty cool offers right now. Do you want to kind of just share that and then we'll just do a wrap? What's the actual offer? Right now the jacket, there's still the early bird because we're basically just launching"
+    },
+    {
+        "start": "00:57:25.620",
+        "end": "00:57:51.700",
+        "text": "it. The early bird, there's free domestic shipping and then it's also $40 less expensive than the regular price. Order early, save $40. That's the Kickstarter and then supporting a pretty cool project out there to kind of deliver these products to the world. That's where it is. The"
+    },
+    {
+        "start": "00:57:51.700",
+        "end": "00:58:19.220",
+        "text": "link for the Kickstarter is going to be in the video description. I just want to encourage everybody to help support this great project and if you have any use for EMF protection, this is where to go. So thank you so much. So Philip, thank you again for spending some time with me this morning and sharing this really cool project. I'm just really amazed. The test results are just amazing to me. I'm very much into the science of things and I'm just really"
+    },
+    {
+        "start": "00:58:19.220",
+        "end": "00:58:45.780",
+        "text": "amazed. So thank you so much. Now where do people reach you if they have questions? Because I do know that you take questions directly through your website. Like there's a contact page, right? Yeah, there's a contact page but also just info@lilaq.com would be an email address to use and then obviously we have this telegram group, the quantum power group. You'll probably put the"
+    },
+    {
+        "start": "00:58:46.340",
+        "end": "00:59:16.340",
+        "text": "link, the invite link to that in the video description for everybody that wants to join and there I can be found and people, they can send me private messages there too and that works very well. Okay, great. So if you've got any questions about the Kickstarter, any questions about the product, you can contact Philip through the website or come over and there'll be links in the video description below on joining the quantum power group on telegram where it's all about the"
+    },
+    {
+        "start": "00:59:16.340",
+        "end": "00:59:44.340",
+        "text": "quantum energy quantum products, quantum tinkering. You can reach me here at the Tinkers Academy. I've got a whole page dedicated to this concept. Also a page on EMF itself at the Tinkers Academy and you just type in tinkers.academy in your URL window and you will then go right to my blog. So I just want to say thank you everyone and thank you Philip for your time this morning. Thank you for sharing this great project with us. It's just fascinating. So thank you. Yeah, so thank you so"
+    },
+    {
+        "start": "00:59:44.340",
+        "end": "01:00:10.980",
+        "text": "much. I really appreciate it. It was a great discussion and I really like how you also walked us through myself included through the EMF history and all that. So it's sometimes good to take some time to actually look at what has happened and where we are today and what we can do. Yeah, I agree. Thank you so much. I really appreciate your time and so everybody out there, thanks"
+    },
+    {
+        "start": "01:00:10.980",
+        "end": "01:00:17.860",
+        "text": "for your time. Thanks for stopping by and thanks for your support for the Layla Quantum Tech jacket. Aloha. Thank you all."
+    }
+]

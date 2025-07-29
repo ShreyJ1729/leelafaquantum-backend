@@ -1,0 +1,1093 @@
+
+[00:00:00.000 --> 00:00:02.000]   Parson
+[00:00:02.000 --> 00:00:05.600]   Aloha everyone and welcome to another tinker's Academy video
+[00:00:05.600 --> 00:00:11.840]   I'm your host Kay Elmer and I've got Philip Von Holtsendorf with me from the quantum upgrade and today
+[00:00:11.840 --> 00:00:16.840]   We'd like to do a quantum upgrade Q&A. So there it's been a roughly two weeks
+[00:00:16.840 --> 00:00:20.600]   Since we are since you know, Philip and won't I guess we?
+[00:00:20.600 --> 00:00:25.760]   Announce the new service and there's been just a flurry of activity and a ton of questions
+[00:00:25.840 --> 00:00:31.840]   So I wanted to just share with you and I asked Philip to come on board so we can do a Q&A to kind of bang
+[00:00:31.840 --> 00:00:35.140]   You know out some of the frequently asked questions that we're seeing on
+[00:00:35.140 --> 00:00:40.440]   Telegram so I just for everybody that you know what we're gonna be covering is we're gonna be talking about
+[00:00:40.440 --> 00:00:45.400]   We know what the service covers like what's the definition of you and pet and car?
+[00:00:45.400 --> 00:00:51.040]   So the people really are you know, so you're a lot more clear on what it is when you sign it up, right?
+[00:00:51.040 --> 00:00:55.080]   We're gonna talk about if you are already an owner of capsules and blocks
+[00:00:55.080 --> 00:00:59.000]   You know, what's the difference and how does it and how do they work together and so forth?
+[00:00:59.000 --> 00:01:02.840]   And then talking about for those of you who have signed up, you know, how do you adjust your settings?
+[00:01:02.840 --> 00:01:09.240]   There's been a ton of questions about changing the settings and adjusting the settings and what the settings mean and so forth
+[00:01:09.240 --> 00:01:13.160]   And so let's cover that and then we'll talk a little bit about the future enhancements that are coming along
+[00:01:13.160 --> 00:01:18.080]   For the quantum upgrade service down the road. So before we get into the meat of it
+[00:01:18.080 --> 00:01:20.640]   I do want to introduce to you if you're not familiar with Philip
+[00:01:20.920 --> 00:01:26.680]   He's a healer and he's also the founder owner and operator of quantum upgrade also
+[00:01:26.680 --> 00:01:31.960]   He's the same for lay the quantum tech and lay the labs and he's coming to me right now
+[00:01:31.960 --> 00:01:34.680]   I'm in Missouri, and he is in Costa Rica
+[00:01:34.680 --> 00:01:40.320]   As we speak it's Saturday morning, and so hey Philip good morning, or should I say hola?
+[00:01:40.320 --> 00:01:50.240]   Okay, yeah good morning to everyone that thanks for having me on I'm looking forward to this. Yeah, so you know, we're we're
+[00:01:50.920 --> 00:01:53.640]   International Q&A session here
+[00:01:53.640 --> 00:01:56.700]   So okay, so before we get into the meat of things
+[00:01:56.700 --> 00:02:01.680]   Of course, there's always that disclaimer, so I'm gonna go ahead and just give it to you
+[00:02:01.680 --> 00:02:04.860]   It's neither quantum upgrade nor ting the tinker's academy
+[00:02:04.860 --> 00:02:11.040]   But recommend or endorse any specific tests physicians procedures opinions or other information that may be mentioned in this video
+[00:02:11.040 --> 00:02:19.400]   Reliance on any information appearing and discussing this video solely at everyone's own risks statements made have not been evaluated by the FSA or FDA or any
+[00:02:19.660 --> 00:02:28.440]   Governmental derivatives thereof quantum upgrade products and products that quantum upgrade may represent are not intended to diagnose treat cure or prevent any disease
+[00:02:28.440 --> 00:02:35.220]   All righty, so with that said I think real quick if anybody who sees this and it and and Philip
+[00:02:35.220 --> 00:02:41.580]   This is what I wanted to know or if you could just start off with you know an overview like if somebody's brand new to own quantum upgrade
+[00:02:41.580 --> 00:02:45.860]   What is your like elevator pitch when someone says what is that?
+[00:02:45.860 --> 00:02:52.260]   I mean, do you have like a five-minute spiel that kind of just broad strokes what it is and then we'll jump into the Q&A
+[00:02:52.260 --> 00:02:59.880]   Yes, I would call it a quantum energy streaming service that basically takes
+[00:02:59.880 --> 00:03:02.420]   pure quantum energy
+[00:03:02.420 --> 00:03:06.180]   Right to your home or to your pet your car
+[00:03:06.180 --> 00:03:13.620]   To your phone or to yourself or even to your business so that those are the different options
+[00:03:13.620 --> 00:03:16.780]   You can book it works through quantum entanglement
+[00:03:16.780 --> 00:03:24.660]   Which quantum entanglement really isn't a new concept at all it has been proven multiple times in a lab and we've
+[00:03:24.660 --> 00:03:32.200]   Actually proven this multiple times already not just in experiments and tests, but there were even
+[00:03:32.200 --> 00:03:39.580]   Randomized double blind studies that were done that showed 100% effectiveness in a significant way
+[00:03:39.860 --> 00:03:43.220]   we talked about that in the previous video and
+[00:03:43.220 --> 00:03:46.660]   Yeah, that's in a nutshell what it is. It sounds
+[00:03:46.660 --> 00:03:52.300]   Crazy, but you know, hey, yeah, I think if you go back to the
+[00:03:52.300 --> 00:03:55.060]   1600s and you would
+[00:03:55.060 --> 00:04:00.820]   You know, just tell a story how you called your friend with a cell phone while you were on the way
+[00:04:00.820 --> 00:04:06.460]   They wouldn't believe you you couldn't probably really explain it. Well, you would tell them. Yeah, it does work
+[00:04:06.460 --> 00:04:08.460]   They would tell you know, it does not work well
+[00:04:09.420 --> 00:04:12.060]   You know, that's pretty much what it is and
+[00:04:12.060 --> 00:04:16.860]   You know, it does work. It can be proven
+[00:04:16.860 --> 00:04:23.580]   It's just very very cutting edge cool. Yeah, and you know, I think the for the general layman
+[00:04:23.580 --> 00:04:27.180]   Like you know, you're you're like almost a social media star at this point
+[00:04:27.180 --> 00:04:31.300]   You're you're on so many interviews so many different channels
+[00:04:31.300 --> 00:04:37.100]   But I think there's there are a lot of people that are brand new the concept of quantum energy and quantum healing
+[00:04:37.620 --> 00:04:39.620]   So for those of you who are new to it
+[00:04:39.620 --> 00:04:43.860]   You know, it kind of falls under the classification also known as frequency medicine
+[00:04:43.860 --> 00:04:50.820]   So there's a lot of content on YouTube and on the internet on these keywords, you know, quantum healing frequency medicine
+[00:04:50.820 --> 00:04:54.700]   Quantum energy and and I just want to differentiate that from the physics
+[00:04:54.700 --> 00:05:02.060]   Academia physics standpoint, but if you want to learn more about quantum healing and quantum entanglement and what this process is
+[00:05:02.060 --> 00:05:06.500]   Then by all means do the research on those keywords also if you go to my blog
+[00:05:06.500 --> 00:05:11.420]   I've got a library of reference material that you can access that you can read
+[00:05:11.420 --> 00:05:16.700]   There's like I basically plucked as many different books as I could find on this subject
+[00:05:16.700 --> 00:05:22.380]   So you can kind of read what people like Deepak Chopra have said about it and other really renowned authors
+[00:05:22.380 --> 00:05:28.980]   Have talked about this this specific topic. So, you know, it is real. It's been out there. It's nothing new real
+[00:05:28.980 --> 00:05:34.460]   Honestly, nothing new it's been around for a few decades, you know, but like to Phillips example though
+[00:05:34.460 --> 00:05:36.460]   It is true, you know, I try to imagine
+[00:05:36.460 --> 00:05:43.740]   Explaining a cell phone to someone a hundred years ago. So yeah, it is so new that there's the terminology in the language
+[00:05:43.740 --> 00:05:48.620]   It's just now starting to form but there is a library of resources out there
+[00:05:48.620 --> 00:05:51.320]   It's already on the internet and I also have some on my blog
+[00:05:51.320 --> 00:05:56.660]   So come on over and learn more about it and don't don't ever hesitate ask questions. So thank you very much
+[00:05:56.660 --> 00:06:00.220]   Let's jump in with the first set of questions. That's the thing everyone's really
+[00:06:00.220 --> 00:06:03.340]   Interested in is this Q&A when I announced we're gonna do it
+[00:06:03.740 --> 00:06:07.100]   Okay, so first things first, you know when someone goes to your website
+[00:06:07.100 --> 00:06:13.420]   And they go here and they say oh hey great. I want to go ahead and pick something
+[00:06:13.420 --> 00:06:18.140]   I'm interested. This is, you know, this sounds great. Oh free trial great. Let's go ahead and I want to do it
+[00:06:18.140 --> 00:06:20.920]   You know, so then they click on this and there's all these options
+[00:06:20.920 --> 00:06:28.780]   Right and so let's talk about these different options because it's like it is there's been a kind of a lot of questions around it
+[00:06:28.780 --> 00:06:33.300]   You know in terms of like well if it's if it's you if I pick you, you know, myself
+[00:06:33.300 --> 00:06:39.980]   My pet my car my home I cell phone my business or I do a bundle, you know, you know
+[00:06:39.980 --> 00:06:41.980]   And there's been a lot of clarifying questions
+[00:06:41.980 --> 00:06:47.080]   And all the answers are by the way on telegram Phillips is responding to all of the questions
+[00:06:47.080 --> 00:06:53.140]   But you know for those of you who know telegram is really hard to kind of find what you're looking for. It's not the best
+[00:06:53.140 --> 00:06:57.060]   It's more, you know, it's not really designed for that. That's why we do these Q&As and tutorials
+[00:06:57.460 --> 00:07:02.340]   So let's talk about that. And so what I did guys was I went through the first two weeks of
+[00:07:02.340 --> 00:07:08.860]   All of the different discussions in the group on telegram and I plucked out all the categories of different questions
+[00:07:08.860 --> 00:07:14.420]   And here we go. So first one Phillip when someone chooses you there are questions around that
+[00:07:14.420 --> 00:07:19.620]   And so there's the first one of the first questions was is you know, is it what is you exactly?
+[00:07:19.620 --> 00:07:24.220]   Is it a field right? Is there a field around me like if I had a capsule, right?
+[00:07:24.220 --> 00:07:26.700]   If I'm wearing a capsule or I carry a card
+[00:07:26.700 --> 00:07:32.660]   Is there a field around me or is it just my physical body and it doesn't extend past my skin?
+[00:07:32.660 --> 00:07:39.100]   You know in terms of like that's the quantum energies going towards me me as a person
+[00:07:39.100 --> 00:07:45.220]   Yes, good question. So in essence, we are only
+[00:07:45.220 --> 00:07:48.740]   Energy and frequency, okay
+[00:07:48.820 --> 00:07:55.860]   So that is the first thing we need to understand the physical body is kind of what's calling almost secondary, right?
+[00:07:55.860 --> 00:07:57.620]   It's kind of like what we
+[00:07:57.620 --> 00:08:03.060]   Experience all the time and this is our physical reality, but the body itself is energy and
+[00:08:03.060 --> 00:08:07.940]   Your energetic system, how I like to call it
+[00:08:07.940 --> 00:08:17.540]   Could call it energy bodies. It's all way more and bigger than the physical so it extends beyond that
+[00:08:18.820 --> 00:08:25.240]   It's actually it depends on the person, but you could you could even see our that's a few meters
+[00:08:25.240 --> 00:08:27.740]   you know
+[00:08:27.740 --> 00:08:31.020]   Into all directions, right at least one to two meters
+[00:08:31.020 --> 00:08:39.900]   So that's your whole energetic system and that is basically getting the charge and with that the physical body is getting the charge
+[00:08:39.900 --> 00:08:44.700]   Also and the benefits therefore are fully energetic and
+[00:08:45.340 --> 00:08:49.540]   Translate in the into the physical as well where they are very measurable. So
+[00:08:49.540 --> 00:08:52.800]   That's in a nutshell what it is and really it
+[00:08:52.800 --> 00:09:00.580]   It supports every aspect of your being the you service and therefore it is also the most powerful
+[00:09:00.580 --> 00:09:05.220]   Of all the services and and even compared to
+[00:09:05.220 --> 00:09:08.700]   Two blogs that that is possible
+[00:09:09.700 --> 00:09:15.980]   Okay, if you're just concerned about yourself and you know, you want something really good for yourself
+[00:09:15.980 --> 00:09:21.180]   you want your energy support then that is the service you want to
+[00:09:21.180 --> 00:09:25.620]   Choose and not the home service because the home service is
+[00:09:25.620 --> 00:09:31.740]   Is less powerful for yourself however, it has than other benefits, right? Because what if you?
+[00:09:31.740 --> 00:09:39.580]   live together with three four roommates or your family of six and you know, you don't
+[00:09:40.220 --> 00:09:46.260]   You really want to have a feel that home for everyone then that the home service would be good
+[00:09:46.260 --> 00:09:50.700]   That's how I would distinguish the two. Okay. Okay. Yeah, so it's definitely your
+[00:09:50.700 --> 00:09:57.740]   Physical slash and and well more so your energetic body because your energetic body is the bubble all around you
+[00:09:57.740 --> 00:10:03.700]   So okay, so it's so you means you your energetic body so then the next question that
+[00:10:03.700 --> 00:10:08.420]   Came up around that one was what if I'm carrying something?
+[00:10:08.740 --> 00:10:13.540]   You know, is that is or I'm laying next to my spouse because we're right next to each other
+[00:10:13.540 --> 00:10:17.940]   They're technically in my within my my bubble right my energetic bubble
+[00:10:17.940 --> 00:10:25.420]   Would they also be receiving that energy if there if if something another living thing is like within like my reach in my touch?
+[00:10:25.420 --> 00:10:28.660]   No, but
+[00:10:28.660 --> 00:10:30.740]   they would certainly
+[00:10:30.740 --> 00:10:38.720]   Receive and observe and perceive your energy and your expanded energy and all of that and that
+[00:10:38.740 --> 00:10:45.020]   That happens anyway, even without the quantum upgrade right if you're together with your spouse, you know, you're ours
+[00:10:45.020 --> 00:10:47.700]   You know are almost like a little bit
+[00:10:47.700 --> 00:10:57.180]   Together and all of that and and she can feel you and you can feel her and so on and and it's just that your energy field is
+[00:10:57.180 --> 00:11:03.740]   Vibrating at a higher consciousness level and then if you walk into a grocery store for example
+[00:11:03.740 --> 00:11:07.020]   You're appearing more
+[00:11:07.460 --> 00:11:11.100]   Shiny or you know, there's with a higher vibration
+[00:11:11.100 --> 00:11:15.300]   So it's it's just there's a field around you that may that other people may
+[00:11:15.300 --> 00:11:22.460]   Observe and resonate with even right so that's that's what happens, but they don't get the energy themselves
+[00:11:22.460 --> 00:11:29.380]   Okay, all right that makes sense. Okay. Yeah, okay, so it's sort of yet. Yeah, I think you hit it right on the on the nail right
+[00:11:29.380 --> 00:11:37.060]   It's it's everybody resonates at a different vibrational frequency. You know, we all know we have our energy energy vibrates
+[00:11:37.700 --> 00:11:44.460]   Frequency and so it's tuned into you your frequency. So even if you're like touching something, it's still just you
+[00:11:44.460 --> 00:11:49.660]   But yeah, okay, but the other person perceives it. So that's very that's okay. That's good. Okay, so then we have people
+[00:11:49.660 --> 00:11:54.180]   Internationally, I mean there's all these different folks live in in different countries and some folks have said, you know
+[00:11:54.180 --> 00:11:58.500]   Does it work from you know, whatever Antarctica or Europe and Asia?
+[00:11:58.500 --> 00:12:05.780]   It doesn't matter right anywhere on the planet where you are because it's quantum. It's gonna reach you through entanglement, right?
+[00:12:05.780 --> 00:12:13.140]   Is that correct? Absolutely. Okay. So anywhere on the planet and and more and and we can guess that it's gonna be anywhere in the universe as well
+[00:12:13.140 --> 00:12:18.340]   But you know just this quantum is quantum. Okay, so it's and you anywhere you live on this planet
+[00:12:18.340 --> 00:12:21.860]   You can search sign up for the service and it will reach you through entanglement
+[00:12:21.860 --> 00:12:27.380]   Which also includes that you know, somebody did ask like what if I'm traveling and so yeah, it doesn't matter, right?
+[00:12:27.380 --> 00:12:30.660]   It doesn't matter if you're moving around or in another country anywhere, right?
+[00:12:30.820 --> 00:12:36.700]   Okay, so then another a big a big question about is what name do I use when I sign myself up?
+[00:12:36.700 --> 00:12:41.580]   So it's the birth name or your current name now if you've changed your name due to marriage or whatever
+[00:12:41.580 --> 00:12:47.900]   So what is the name people should use and should they use their full name like their middle name?
+[00:12:47.900 --> 00:12:50.380]   You know and whatever follows it
+[00:12:50.380 --> 00:12:53.820]   Which name yes supposed to register with
+[00:12:55.300 --> 00:13:01.420]   The current name that is the one that you use not your birth name. However, if you're
+[00:13:01.420 --> 00:13:05.020]   You have a birth name and you just have your cart name
+[00:13:05.020 --> 00:13:11.660]   But you really identify more with your birth name and you're about to change it back to that then choose that that's really
+[00:13:11.660 --> 00:13:21.500]   a unique situation than for you other than that choose your current name choose the exact name so exact first name and exact last name and
+[00:13:22.340 --> 00:13:30.180]   If you want to include your middle name at least one you can if you have like four or five middle names
+[00:13:30.180 --> 00:13:38.700]   You you don't have to include all of those like you will you have a unique identifier already through your first and last name and your birth date and
+[00:13:38.700 --> 00:13:40.700]   the birth city
+[00:13:40.700 --> 00:13:46.820]   So that's that's all good, but you can definitely include one middle name if you have one or more middle names
+[00:13:46.820 --> 00:13:53.460]   Sure, and what I'm not hard. Okay, and then so let's say I have a current name. My name is Richard, but I go by Rick
+[00:13:53.460 --> 00:14:01.140]   Would I put Rick or what's best for because that's that's a lot of questions about that, you know about what name?
+[00:14:01.140 --> 00:14:05.780]   Do I go by my name or my name that people call me by?
+[00:14:05.780 --> 00:14:08.180]   So
+[00:14:08.180 --> 00:14:11.860]   It would most likely work either way
+[00:14:12.420 --> 00:14:17.780]   that's the first thing because it's about a unique identifier and a signal that is set and
+[00:14:17.780 --> 00:14:23.460]   If everyone calls you Rick, then that would still identify you
+[00:14:23.460 --> 00:14:28.420]   I would I would choose Richard though if that's really written in your password or
+[00:14:28.420 --> 00:14:31.620]   or your
+[00:14:31.620 --> 00:14:38.260]   Your ID that's what I would personally do. I would choose Richard over Rick or rich
+[00:14:38.260 --> 00:14:40.980]   but
+[00:14:40.980 --> 00:14:44.180]   Yeah, and it would it would work both ways
+[00:14:44.180 --> 00:14:50.740]   Okay, great. Another question is are there any age restrictions like we had a lady wanted to know about
+[00:14:50.740 --> 00:14:53.300]   signing up her young child
+[00:14:53.300 --> 00:14:59.220]   And you know things like it. So are there any is a person's a person no matter how old?
+[00:14:59.220 --> 00:15:06.180]   Yes, that is correct and and frankly, you know from an official standpoint, we don't
+[00:15:06.740 --> 00:15:13.540]   Want to really give recommendations in regards to children and all of that. That's always just such a regulated area
+[00:15:13.540 --> 00:15:16.420]   But what I can say is that especially children
+[00:15:16.420 --> 00:15:24.500]   Obviously can benefit from everything that helps their system to be more in balance right and to be more
+[00:15:24.500 --> 00:15:27.700]   protected against
+[00:15:27.700 --> 00:15:29.860]   external stressors and
+[00:15:29.860 --> 00:15:33.700]   Especially in those younger ages, you know, we still develop
+[00:15:33.860 --> 00:15:41.140]   You know our brains develop and all of that and if she can get the best food the best water and the best energy
+[00:15:41.140 --> 00:15:44.340]   Who wouldn't want to do that?
+[00:15:44.340 --> 00:15:48.420]   Oh, yeah. Yeah, okay. No, that's great. I didn't think so, but you know want to make sure we ask the
+[00:15:48.420 --> 00:15:55.780]   The axe ask the expert. Thank you. Okay. Next one here is on the idea of pets of I sign up my pet
+[00:15:55.780 --> 00:16:03.220]   So the idea here is is it any kind of pet birds fish dog cat lizards
+[00:16:04.420 --> 00:16:06.980]   I mean, these are good. Did it matter? Does it matter?
+[00:16:06.980 --> 00:16:15.620]   Yes, so right now we have it only said for dogs and cats. Okay, and we can we can relatively easily
+[00:16:15.620 --> 00:16:19.620]   Expanded, you know to horses and things like that
+[00:16:19.620 --> 00:16:25.060]   There has to be a unique identifier though. We don't want to work with pictures
+[00:16:25.060 --> 00:16:30.100]   So that would be easy with a lizard, you know, if you had a lizard somewhere and you just take a picture
+[00:16:30.100 --> 00:16:32.980]   But we don't want to work with that so it would need to be
+[00:16:33.620 --> 00:16:39.860]   Unique identifier, which currently for a dog would be the name the
+[00:16:39.860 --> 00:16:46.100]   That it's a dog and then what is the breed of the dog and I think it's the
+[00:16:46.100 --> 00:16:50.580]   The country at least that we have as well
+[00:16:50.580 --> 00:16:55.860]   Possibly the city. I'm not entirely sure and that's what needs to be put in right now
+[00:16:55.860 --> 00:17:01.860]   It's just for dogs and cats, but I'm pretty certain that over time will expand that maybe not to lizards
+[00:17:01.940 --> 00:17:05.780]   But probably for at least horses and you know
+[00:17:05.780 --> 00:17:12.980]   Animals that we may have that that have a name because that would be an identifier
+[00:17:12.980 --> 00:17:19.220]   Okay, yeah, okay. So you actually okay, so you need something to tune in on but right now just cats and dogs
+[00:17:19.220 --> 00:17:23.620]   I know folks have asked about livestock. So that that addresses that question
+[00:17:23.620 --> 00:17:27.700]   Um, the other question is is does uh, is it just one pet?
+[00:17:28.420 --> 00:17:32.420]   Or could there be like I have two dogs would I need to sign up both of them individually?
+[00:17:32.420 --> 00:17:34.900]   If I wanted them to receive this service
+[00:17:34.900 --> 00:17:42.660]   Yes, they would have to be individually because if you sign up one the other one literally would not receive it the same with the use service
+[00:17:42.660 --> 00:17:47.300]   It just works for one person. However, and we'll get to that when we talk about the bundles
+[00:17:47.300 --> 00:17:55.380]   Yes, I'm exciting and news to share today. Okay, great with us. Okay. So, okay, so it's uh, it's only dogs and cats
+[00:17:55.860 --> 00:18:00.820]   Um only one person that's for now one per subscription if you sign up
+[00:18:00.820 --> 00:18:03.140]   Just you know if you click on the pets
+[00:18:03.140 --> 00:18:05.700]   Um and doesn't have to be my pet
+[00:18:05.700 --> 00:18:09.220]   There I think there was a question of you know out there that it was like
+[00:18:09.220 --> 00:18:10.900]   Um
+[00:18:10.900 --> 00:18:15.380]   You know like this is my roommate's pet, but it's not mine. Can I still sign it up because I love it
+[00:18:15.380 --> 00:18:19.620]   You know, yeah, I mean you can if you if you
+[00:18:20.500 --> 00:18:27.860]   Just type in the correct information that is needed for charging that specific pet that's absolutely possible
+[00:18:27.860 --> 00:18:33.220]   Okay, because I know I know there's that thing about it about ownership or affiliation as it relates to business
+[00:18:33.220 --> 00:18:35.700]   But we'll talk about that in a second. Okay, so then cars
+[00:18:35.700 --> 00:18:39.700]   Uh, the main question about cars, I think people pretty much figure out your cars your car
+[00:18:39.700 --> 00:18:42.660]   Uh, but there's like people asked about what if I rent a car
+[00:18:42.660 --> 00:18:48.420]   Uh, you know if I put in the make it model of my car and the energy's going to that car
+[00:18:48.820 --> 00:18:50.820]   Um, if I rent a car
+[00:18:50.820 --> 00:18:56.180]   Do I have to then update my uh subscription or or update my my settings?
+[00:18:56.180 --> 00:19:04.020]   Yes, so in theory you can absolutely do that with a rental car as long as you have it and you have the vin number
+[00:19:04.020 --> 00:19:07.940]   Oh, okay. So you need the before everyone that's not in the us the vin number is the
+[00:19:07.940 --> 00:19:10.740]   you know the unique
+[00:19:10.740 --> 00:19:16.340]   Identity number for a car basically. There's something like that in every country
+[00:19:16.420 --> 00:19:20.260]   It's not the license plate though and the license plate also would not work
+[00:19:20.260 --> 00:19:25.700]   It has to be this this number and it's it's usually in your you know paperwork somewhere
+[00:19:25.700 --> 00:19:28.020]   The channel and the dash
+[00:19:28.020 --> 00:19:32.020]   Yes, and you can put that in for the rental car of course that's no problem and it works
+[00:19:32.020 --> 00:19:35.380]   And then as soon as you're you know, you're going to be done with that
+[00:19:35.380 --> 00:19:42.660]   You need to reach out to customer service though to then change it to a different rental car or then to your own car if you have it
+[00:19:42.660 --> 00:19:45.300]   And then that would switch
+[00:19:46.180 --> 00:19:48.580]   Okay, so you can't just do that on the website right now
+[00:19:48.580 --> 00:19:56.100]   You cannot make any changes of the so-called hard-coded data that is the data that you put in
+[00:19:56.100 --> 00:20:04.260]   For the actual charging. Okay. Oh wait, okay. We'll talk more about that when we get to that section of the q&a
+[00:20:04.260 --> 00:20:05.780]   But okay, okay good to know
+[00:20:05.780 --> 00:20:10.820]   Okay, now let's talk about home. There's a lot of questions about home right as you just alluded to when we're talking about you
+[00:20:10.820 --> 00:20:12.500]   um
+[00:20:12.500 --> 00:20:17.060]   So, okay first one off was you know, there was a question about home. What is the definition of home?
+[00:20:17.060 --> 00:20:22.180]   Is the is it the structure or is it my property and if and if I rent it is it still mine
+[00:20:22.180 --> 00:20:27.060]   You know, if I have a farm and it's really really big is it the whole farm, you know, because can you kind of
+[00:20:27.060 --> 00:20:33.220]   Like narrow down like what does it mean when someone says yes my home? What is that? Yeah, so
+[00:20:33.220 --> 00:20:36.900]   First of all, if you rent it then it is yours
+[00:20:36.900 --> 00:20:39.860]   During the time that you rent it and you live in there
+[00:20:39.860 --> 00:20:43.780]   So absolutely you can choose the home service for you if you're a renter
+[00:20:43.780 --> 00:20:50.180]   That's no problem whatsoever. It's just anyway going to be to the benefit of the owner as well
+[00:20:50.180 --> 00:20:55.620]   However, as you move out then you would also choose a different address and then the charging
+[00:20:55.620 --> 00:20:58.420]   And the quantum upgrade basically would stop
+[00:20:58.420 --> 00:21:01.700]   So that said
+[00:21:01.700 --> 00:21:06.500]   If you have a house on a property then not only the house
+[00:21:07.060 --> 00:21:10.580]   Is covered but also the whole property is covered
+[00:21:10.580 --> 00:21:17.700]   So and if it's eight if it's an 80 acre property, it's 80 acres if it's you know
+[00:21:17.700 --> 00:21:23.060]   One square one thousand square feet. It's one thousand square feet. Whatever it is
+[00:21:23.060 --> 00:21:31.380]   The the legal boundaries of the property will be covered fully by the service now if you have an apartment
+[00:21:31.380 --> 00:21:36.660]   Somewhere or you have an an office and an office building
+[00:21:38.020 --> 00:21:40.020]   You should not choose the whole
+[00:21:40.020 --> 00:21:41.860]   property
+[00:21:41.860 --> 00:21:44.660]   Definitely not be very specific then and
+[00:21:44.660 --> 00:21:53.380]   Include your specific suite number or apartment number and then literally just that apartment or the suite will be covered
+[00:21:53.380 --> 00:21:57.380]   What if I left out the unit number would it do the whole building?
+[00:21:57.380 --> 00:22:01.300]   Yeah
+[00:22:01.300 --> 00:22:07.460]   Most likely there you know, we would we could test that in in certain instances the signal may be
+[00:22:07.460 --> 00:22:10.020]   unique
+[00:22:10.020 --> 00:22:16.660]   Enough to just really cover the living space of that individual that also puts in his name his or her name
+[00:22:16.660 --> 00:22:24.180]   But yeah, I would really try to be very specific with your address. Okay, so just to say
+[00:22:24.180 --> 00:22:30.100]   Can you find out then because i'm sure people are going to ask because I used to live in a condo
+[00:22:30.500 --> 00:22:35.860]   I was also on the board, you know as one of those I was not an evil hoe a guy by the way, everybody
+[00:22:35.860 --> 00:22:37.860]   I was a super nice hoe a guy
+[00:22:37.860 --> 00:22:43.060]   But I was on the board right and so I was thinking why not do the whole complex and then
+[00:22:43.060 --> 00:22:46.340]   Chill everybody out and everyone gets along better, you know kind of thing
+[00:22:46.340 --> 00:22:48.820]   So that's kind of what I was thinking of it from like, you know
+[00:22:48.820 --> 00:22:52.340]   We had three separate buildings and why not just do the whole complex
+[00:22:52.340 --> 00:22:56.900]   So if I left out the unit number, but we you don't know just yet. It actually would work
+[00:22:56.980 --> 00:23:02.740]   No, that no that that is not a problem. What's oh, if you're a property manager or if you have
+[00:23:02.740 --> 00:23:09.620]   People condos or just a whole yeah, you can do that. You can just do the whole property. Okay. Yeah, good
+[00:23:09.620 --> 00:23:16.020]   That's no problem whatsoever. It would does that apply to neighborhoods like, you know, like if uh, let's say I buy into
+[00:23:16.020 --> 00:23:19.940]   Country estates, you know, and there's like, you know a bunch of gated houses in there
+[00:23:19.940 --> 00:23:22.100]   And it's but it's like one
+[00:23:22.100 --> 00:23:29.060]   Community of of buildings right of homes and it's a hoe a you could say I want to sign up country estates
+[00:23:29.060 --> 00:23:34.020]   And then that would be that whole area all all the home at this point
+[00:23:34.020 --> 00:23:39.060]   I would not recommend that because that is something that we would need to look into specific. Okay, all right
+[00:23:39.060 --> 00:23:46.420]   So, okay, so just I just you know, yeah, there's all these questions, right? So all right to be determined whether you can do a whole neighborhood
+[00:23:46.420 --> 00:23:49.140]   But pretty sure you can do a whole building
+[00:23:49.620 --> 00:23:53.780]   Um, okay. All right. So that's that's good to know. Uh, now what if I own two homes
+[00:23:53.780 --> 00:24:01.860]   Like like like, you know, like like you, you know, um, new mexico and costarica. I mean, do you have to sign up each home separately?
+[00:24:01.860 --> 00:24:03.540]   Yes
+[00:24:03.540 --> 00:24:05.380]   Okay. All right
+[00:24:05.380 --> 00:24:09.460]   All right like pets. Yeah, okay, so it's like pet because each one has an individual
+[00:24:09.460 --> 00:24:14.260]   You know vibrational signature in the in the universe, right? Okay. All right, so that's it
+[00:24:14.260 --> 00:24:16.420]   So if you own more than one then it's one at a time
+[00:24:16.420 --> 00:24:18.660]   Um, uh, and then we'll talk about bundles
+[00:24:19.220 --> 00:24:21.860]   Okay, so then the other question which are you alluded to a little bit ago?
+[00:24:21.860 --> 00:24:25.780]   I just want to get some clarification because there was a whole bunch of questions about this
+[00:24:25.780 --> 00:24:31.380]   Which was do the people and pets living in a home, right? Let's say I sign up my quote home
+[00:24:31.380 --> 00:24:39.380]   It's my farm or a house or a condo, but I've got pets. I got multiple pets or I have livestock. I got the garden
+[00:24:39.380 --> 00:24:44.420]   Um, do they all get the same benefit as if I sign them up individually?
+[00:24:45.780 --> 00:24:51.540]   Including the phones anything inside the home gets that gets this in other words. I'm thinking
+[00:24:51.540 --> 00:24:56.020]   Hey, why why don't you know instead of signing up me and my pets and my car
+[00:24:56.020 --> 00:25:01.380]   Why don't I just sign up my home where everything is and would that be the same thing?
+[00:25:01.380 --> 00:25:06.580]   It's definitely not the same thing, but it would be the
+[00:25:06.580 --> 00:25:12.580]   One to choose if you really want to cover all of these things at the same time and they will be covered
+[00:25:12.980 --> 00:25:17.860]   It's just not as strong like for yourself. For example, it's not going to be as strong
+[00:25:17.860 --> 00:25:19.860]   as the service
+[00:25:19.860 --> 00:25:26.260]   For you because then you'll be just walking in in this field if you will but
+[00:25:26.260 --> 00:25:30.260]   But you don't have the field like literally within you
+[00:25:30.260 --> 00:25:33.460]   Uh if that makes sense and that's the same for a pet
+[00:25:33.460 --> 00:25:39.860]   For example that it's more powerful and more comprehensive and deeper if you
+[00:25:41.460 --> 00:25:47.060]   Have a pet service for the pet or the use service for you versus the home, but
+[00:25:47.060 --> 00:25:50.820]   Hey, you know, we we sometimes maybe we have
+[00:25:50.820 --> 00:25:58.420]   Multiple pets and other people that live with us and it may just get too expensive to just
+[00:25:58.420 --> 00:26:05.220]   Church everyone. So just in that case, I would really just do the home service and it'll already be great
+[00:26:05.220 --> 00:26:07.460]   It'll take care of emfs and all of that
+[00:26:07.460 --> 00:26:10.820]   It's just not going to be as strong and powerful
+[00:26:12.260 --> 00:26:15.220]   Okay, that makes sense. Yeah, no, yeah, that makes sense
+[00:26:15.220 --> 00:26:19.940]   From the standpoint of you're spreading it out as opposed to focusing it in
+[00:26:19.940 --> 00:26:23.780]   Um, and so like here's another question. So that that answers that
+[00:26:23.780 --> 00:26:26.660]   Um, now, um, I did we did get questions about
+[00:26:26.660 --> 00:26:30.820]   Uh, if I choose my home and there's food and water in my home
+[00:26:30.820 --> 00:26:35.620]   Because I'm personally compulsive about charging all my food and water with my my eye block
+[00:26:35.620 --> 00:26:40.340]   Um, it's not the same then right it's not getting that concentrated charge. So
+[00:26:41.460 --> 00:26:48.820]   You know, like if the food and the water in my home, um, it's not charged like you would put it in a block
+[00:26:48.820 --> 00:26:54.740]   That is correct. It's it's not the same. There is a benefit though. There's going to be a benefit
+[00:26:54.740 --> 00:26:58.660]   If you have the home service, there's there's going to be a benefit for everything that's in your home
+[00:26:58.660 --> 00:27:02.500]   And by the way also for your plants on your property even
+[00:27:02.500 --> 00:27:06.660]   Uh, they will get the benefit of that but indeed if you wanted to
+[00:27:08.340 --> 00:27:11.860]   You know, I don't want to get into these food allergy things too much, but
+[00:27:11.860 --> 00:27:19.540]   You know, let's take this example of touch shipment with his crab meat that he charges for six minutes in the and the infinity block
+[00:27:19.540 --> 00:27:21.540]   right so
+[00:27:21.540 --> 00:27:25.380]   That is something that doesn't work with a home service. So you would literally have to
+[00:27:25.380 --> 00:27:28.580]   Have a block for that and
+[00:27:28.580 --> 00:27:33.780]   Yeah, it's that it's just different. Okay. Yeah, so it's very different
+[00:27:33.860 --> 00:27:38.420]   So that yeah, the home service doesn't also doesn't charge anything permanently
+[00:27:38.420 --> 00:27:40.900]   And so we had this question also come up
+[00:27:40.900 --> 00:27:46.740]   The home service does not everything get charged permanently. No, that doesn't happen and that's just
+[00:27:46.740 --> 00:27:52.340]   The way it's programmed and working. It just doesn't do that. So if you want to charge something
+[00:27:52.340 --> 00:27:58.180]   You would have to use a block. Okay. No, no, that's good. That's good to know. We'll get we have a whole slide on that
+[00:27:58.180 --> 00:28:02.100]   So all right. So next question then was from a military individual
+[00:28:02.100 --> 00:28:05.220]   Who basically lives on a base?
+[00:28:05.220 --> 00:28:11.540]   Then they got apo fpo addresses for military folks. So what if I don't have a physical address
+[00:28:11.540 --> 00:28:16.660]   Um, then the suggestion and but they live they have a like they live in a barracks
+[00:28:16.660 --> 00:28:21.300]   But their address is you know, but it doesn't have an address or there's another person that said
+[00:28:21.300 --> 00:28:23.700]   um, I live
+[00:28:23.700 --> 00:28:27.540]   It's um, I think there was like their grandparent or somebody, but they live
+[00:28:27.540 --> 00:28:33.620]   Uh in one place, but their address it's like one of those uh farm farm addresses, right?
+[00:28:33.620 --> 00:28:37.620]   Where they don't have an actual address for the farm. They have their mailing addresses
+[00:28:37.620 --> 00:28:41.060]   You know in town kind of thing, but it doesn't have an address
+[00:28:41.060 --> 00:28:44.580]   Can they sign up something that doesn't have an address?
+[00:28:44.580 --> 00:28:48.420]   And but it's uh
+[00:28:48.420 --> 00:28:50.420]   You would need to reach out to us
+[00:28:50.420 --> 00:28:56.100]   Individually and we could we could run a test with some specifically then that that's something I would recommend
+[00:28:56.100 --> 00:28:58.100]   So if you're on a military base
+[00:28:58.100 --> 00:29:06.580]   You know, then you you probably have a specific room you're in and I don't know if you're with other people in the same room
+[00:29:06.580 --> 00:29:11.460]   If you are maybe you have a bed number or you could define that's the
+[00:29:11.460 --> 00:29:18.660]   Lore bed on the ride or something like that. So you if you could work it by putting in all these
+[00:29:19.380 --> 00:29:26.260]   Identifying identifiers that would probably work with someone that just lives somewhere with no address whatsoever
+[00:29:26.260 --> 00:29:32.740]   I honestly don't know what to do with that at this point. So maybe we could try to work with a longitude and
+[00:29:32.740 --> 00:29:36.100]   And all that but yeah, oh that was the we would have to test that
+[00:29:36.100 --> 00:29:39.700]   Yeah, that was the question is whether or not you could work with longitude and latitude. Okay
+[00:29:39.700 --> 00:29:43.460]   Yeah, because I've had friends I worked up on nor slope and they lived in barracks
+[00:29:43.460 --> 00:29:46.580]   And but their addresses were like back in anchorage, right?
+[00:29:46.580 --> 00:29:52.900]   But they you know, I've had like my father did the same thing. So he was military. So yeah, okay, so for you guys that
+[00:29:52.900 --> 00:29:55.700]   have a physical residence that
+[00:29:55.700 --> 00:30:00.580]   Doesn't have like a mailing address and use the physical residence address, right?
+[00:30:00.580 --> 00:30:03.460]   Barracks 14 room 12 right whatever
+[00:30:03.460 --> 00:30:07.460]   But and you know like elmendorf arm air force base, whatever, right?
+[00:30:07.460 --> 00:30:11.060]   And then that that should help, but I guess you'll have to contact
+[00:30:11.060 --> 00:30:17.060]   Choose the use service in this case, right? You know, so right right do that. Okay. All right, so keep that in mind
+[00:30:17.060 --> 00:30:18.660]   Okay
+[00:30:18.660 --> 00:30:20.660]   All right, so talk about the cell phone
+[00:30:20.660 --> 00:30:29.220]   Some clarification questions about the cell phone is is it tied to the number like the sim card or to the physical device?
+[00:30:29.220 --> 00:30:33.060]   To the number to the actual phone number
+[00:30:33.060 --> 00:30:38.420]   100 percent of the number it does not it does not matter if you turn off the phone or turn on the phone
+[00:30:38.420 --> 00:30:42.820]   It works either way, but as soon as you put the sim card in a different
+[00:30:42.820 --> 00:30:46.580]   in a different phone
+[00:30:46.580 --> 00:30:52.580]   Because you change it then the new phone will be the one that is getting the benefit. All right. All right, that's clear
+[00:30:52.580 --> 00:30:55.060]   So the device that has the number
+[00:30:55.060 --> 00:31:00.100]   Assigned to it. So then there's this other question then down here, which was somebody asked about
+[00:31:00.100 --> 00:31:06.660]   Like I used to have ipad iphone so I could take phone calls on my ipad right because it was tied to my phone. So
+[00:31:07.380 --> 00:31:09.380]   Can you sign up an ipad?
+[00:31:09.380 --> 00:31:14.180]   Or if I signed up my phone and I took calls on my ipad. Does that include my ipad?
+[00:31:14.180 --> 00:31:20.340]   Sorry, I was actually one of course. That's a good question. So I actually don't know the answer as long as the sim card
+[00:31:20.340 --> 00:31:25.140]   Wherever the sim card is in okay in which device that device
+[00:31:25.140 --> 00:31:32.340]   Now if if there's a way then that you have a phone where the sim card is in and it's also tied to
+[00:31:34.260 --> 00:31:37.380]   An ipad and that rings as well. I
+[00:31:37.380 --> 00:31:42.580]   Um, well a shame on me. I don't know that because they used to work at T-Mobile, but
+[00:31:42.580 --> 00:31:47.300]   Honestly, I don't I don't we would need to test that
+[00:31:47.300 --> 00:31:48.740]   Yeah, oh yeah
+[00:31:48.740 --> 00:31:53.380]   I guess the key thing though is that the sim cards in the phone not in the and the tablet even though the tablets
+[00:31:53.380 --> 00:31:58.660]   You know, uh, it's synced up. So it would definitely be the phone and then of course to be determined
+[00:31:59.140 --> 00:32:02.100]   Through testing, but right now it's just your phone
+[00:32:02.100 --> 00:32:07.380]   Uh, and then so and then I guess the question there was like, hey, you know, if I carry my phone around all the time
+[00:32:07.380 --> 00:32:09.700]   And I'm subscribed myself to it
+[00:32:09.700 --> 00:32:14.100]   That my phone automatically is because it's right. I'm holding it. I think we covered that
+[00:32:14.100 --> 00:32:16.900]   Um, and it's it yes, but not the same, right?
+[00:32:16.900 --> 00:32:21.220]   Uh, okay. So then the other question was is does the phone have to be turned on
+[00:32:21.220 --> 00:32:29.060]   To receive the the signal that the and the the entered de quantum energy or is it because I was actually a couple of people
+[00:32:29.140 --> 00:32:31.140]   Last I question whether it needed to be turned on or not
+[00:32:31.140 --> 00:32:36.660]   No, it can be off. It's no problem. Okay. So it's going to be aiming towards that phone at all times
+[00:32:36.660 --> 00:32:40.180]   Okay, so then, uh, under the business one, um
+[00:32:40.180 --> 00:32:44.580]   Well, several questions about that and I kind of just summed it up in four bullets here
+[00:32:44.580 --> 00:32:49.060]   Uh, but like one of the one one of the first questions about I want to sign up my business
+[00:32:49.060 --> 00:32:51.620]   So what you know, what is a business came up?
+[00:32:51.620 --> 00:32:53.460]   And there's a lot of questions about what is that?
+[00:32:53.460 --> 00:32:58.500]   So I guess the first question I want to ask before I get into the actual bullets is what is a business?
+[00:32:58.980 --> 00:33:02.580]   Um, and so let me give you examples there are people that have side hustles
+[00:33:02.580 --> 00:33:07.060]   Um, there's people that like do multiple side hustles, right?
+[00:33:07.060 --> 00:33:12.980]   There's people that work for a company. There's people that own a company. There's people that are partners of a company
+[00:33:12.980 --> 00:33:21.540]   Um, people that are just employees of a company. So let's let's let's dig this out one at a time. So let's say who okay, so
+[00:33:21.540 --> 00:33:24.660]   Who can sign up?
+[00:33:25.140 --> 00:33:29.140]   A company like if I work for bank of america or general electric, right?
+[00:33:29.140 --> 00:33:32.740]   Can I just know i'm an employee. Can I sign up my company?
+[00:33:32.740 --> 00:33:41.220]   No, okay, so that's for our, um, rules that is not possible for a very good reason because a business
+[00:33:41.220 --> 00:33:46.580]   Is owned by someone or multi-year holders. Yep. Uh, yes
+[00:33:46.580 --> 00:33:52.260]   And so whoever owns a business or and or is
+[00:33:52.900 --> 00:33:59.460]   An authorized representative to make a decision for the business can sign up a business and here
+[00:33:59.460 --> 00:34:04.660]   We're talking about a registered entity, right? Uh, anywhere in the world
+[00:34:04.660 --> 00:34:11.940]   That's what we're talking about. So if you know if you have a fitness studio and you know, that's yours
+[00:34:11.940 --> 00:34:17.300]   You can sign it up if you're the general manager for a fitness studio somewhere
+[00:34:17.780 --> 00:34:23.220]   You're making business decisions to you know to make sure that your business is going well and all of that and you
+[00:34:23.220 --> 00:34:27.860]   You do these things right you make these decisions then you can sign up
+[00:34:27.860 --> 00:34:33.700]   If you're just there as a fitness trainer and but you're not the decision maker actually
+[00:34:33.700 --> 00:34:38.420]   Then you cannot sign it up. That's that's not what should be possible because
+[00:34:38.420 --> 00:34:44.740]   That would interfere with the ones actually being responsible for the business
+[00:34:45.940 --> 00:34:52.980]   However, so if you have and but you could so do the use service for yourself right and things like that and and you know
+[00:34:52.980 --> 00:34:58.500]   Even with a specific location, you could probably do the home service for a specific
+[00:34:58.500 --> 00:35:04.020]   And if you were working at a fast food place for example, that has a specific address
+[00:35:04.020 --> 00:35:08.260]   You could choose the home service as long as you keep it at the
+[00:35:08.260 --> 00:35:10.820]   um at the default levels
+[00:35:10.820 --> 00:35:12.580]   just out of
+[00:35:12.580 --> 00:35:15.540]   Respect to everyone else, but that would certainly be
+[00:35:15.940 --> 00:35:17.780]   Just to the benefit
+[00:35:17.780 --> 00:35:21.220]   However, if you have side hustles that are not
+[00:35:21.220 --> 00:35:25.860]   Registered as a business you could still leverage the business service
+[00:35:25.860 --> 00:35:29.300]   And how do you do that you would just need to?
+[00:35:29.300 --> 00:35:37.780]   Describe it or define it in a way that it it uniquely identifies it meaning, you know
+[00:35:37.780 --> 00:35:44.260]   If you had if you were a taxi driver and just side hustle then you could say
+[00:35:44.820 --> 00:35:46.820]   um k elmers
+[00:35:46.820 --> 00:35:49.140]   um
+[00:35:49.140 --> 00:35:53.380]   Taxi driving service or something like that or you know your
+[00:35:53.380 --> 00:35:59.380]   Uber side hustle or whatever this is we had someone asked who you know
+[00:35:59.380 --> 00:36:04.980]   Is about to write a book and become an author, but it's not really a
+[00:36:04.980 --> 00:36:12.660]   Registered business yet. So here you can maybe start with the use service
+[00:36:12.660 --> 00:36:15.700]   But if you really want to focus on the business activity
+[00:36:15.700 --> 00:36:20.020]   Again, you can you can just say, you know, this is
+[00:36:20.020 --> 00:36:22.820]   Sarah Smith
+[00:36:22.820 --> 00:36:27.220]   Venture to write a book or to
+[00:36:27.220 --> 00:36:29.700]   author a book
+[00:36:29.700 --> 00:36:35.140]   Something like that that defines it. So that's fine because the energy then arrives at this
+[00:36:35.140 --> 00:36:38.500]   Specific activity and and supports that
+[00:36:39.620 --> 00:36:42.580]   Okay. All right. So the key is that you have to be
+[00:36:42.580 --> 00:36:44.900]   uh an official
+[00:36:44.900 --> 00:36:50.820]   Person of that has official responsibility for that that you know business entity
+[00:36:50.820 --> 00:36:57.460]   Um, and uh to sign up you can definitely sign up your side hustle whether it has a name or not
+[00:36:57.460 --> 00:36:59.300]   You can just say calmers
+[00:36:59.300 --> 00:37:03.940]   Uh, side hustle, right if you got multiple like your door dash uber and you don't have to name them one at a time
+[00:37:03.940 --> 00:37:07.540]   You just say uh calmer side hustles, right? Okay. So that's good to know
+[00:37:08.100 --> 00:37:15.940]   So then the other questions about businesses is uh, uh, if somebody owns, let's say, um, you know, uh, a bunch of you know
+[00:37:15.940 --> 00:37:18.260]   like four or five uh different
+[00:37:18.260 --> 00:37:23.060]   Locations like they you know, they have a subway franchise and they have five or six
+[00:37:23.060 --> 00:37:24.500]   Um
+[00:37:24.500 --> 00:37:26.980]   But the subway franchise has a business name
+[00:37:26.980 --> 00:37:30.020]   So it doesn't matter if it has more than one locations
+[00:37:30.020 --> 00:37:36.740]   You would just sign up the business name by which your franchise is it signed up for? That is correct. Okay, absolutely
+[00:37:36.740 --> 00:37:43.940]   So it doesn't matter if it's more than one location. Okay. Now what about, um, the you know, you had mentioned and when we talked two weeks ago
+[00:37:43.940 --> 00:37:47.140]   About how you went, you know, what's the point?
+[00:37:47.140 --> 00:37:54.340]   You know, what's the purpose of bit signing up a business and and it helps, you know, bring harmony to the business and and it helps with employees and
+[00:37:54.340 --> 00:37:58.900]   And harmonizing, um, employee, you know, performance and productivity and all that
+[00:37:58.900 --> 00:38:01.620]   So there was a question of i'm sorry
+[00:38:01.620 --> 00:38:04.180]   So there was a question about
+[00:38:04.980 --> 00:38:11.380]   What about remote employees? I mean, does it have to be if I sign up my business, but i've got remote employees all over the place
+[00:38:11.380 --> 00:38:15.620]   Does it help those employees or just the employees within the physical
+[00:38:15.620 --> 00:38:21.300]   Confines of the like the physical business, you know, but you know now we got such a thing nowadays, right?
+[00:38:21.300 --> 00:38:25.700]   With this remote worker and brick and mortar offices and everyone spread out
+[00:38:25.700 --> 00:38:29.540]   So it doesn't matter if people are spread out if they're still cool employees
+[00:38:30.340 --> 00:38:36.100]   Right. No, it does not matter at all actually because the business is not the business service
+[00:38:36.100 --> 00:38:39.620]   It's not tied to a specific physical location like the home
+[00:38:39.620 --> 00:38:46.980]   It's literally tied to the business itself and the business is you can think of it like as an energetic bundle
+[00:38:46.980 --> 00:38:48.900]   and
+[00:38:48.900 --> 00:38:53.620]   Any remote employee and and even to an extent, you know, uh
+[00:38:53.620 --> 00:38:57.300]   Contractors that work on a regular basis for a business
+[00:38:58.100 --> 00:39:02.820]   You know they're part of this energy grid if you will and so
+[00:39:02.820 --> 00:39:08.020]   So it's it's all included, but it's but it works different than the use service
+[00:39:08.020 --> 00:39:12.100]   So an employee that works at a company that has the business service
+[00:39:12.100 --> 00:39:18.980]   Doesn't get the same energy at all that the employee would get through the use service, but there is
+[00:39:18.980 --> 00:39:24.420]   energetic support there's energetic, but it's all about the business
+[00:39:25.460 --> 00:39:29.620]   and as this as a side effect positive side effects the
+[00:39:29.620 --> 00:39:35.780]   The employees get benefits and it's hard to tell sometimes, you know, how this
+[00:39:35.780 --> 00:39:42.020]   How this plays out like we have multiple companies that we actually looked in more deeply now
+[00:39:42.020 --> 00:39:44.660]   what is what is happening and
+[00:39:44.660 --> 00:39:53.140]   There's definitely one company where suddenly this this startup mentality kind of came back to this business and inspiration
+[00:39:53.620 --> 00:39:58.900]   uh to this business and then that actually translated to the employees as well that suddenly
+[00:39:58.900 --> 00:40:02.820]   um found more sense again and what they were doing and
+[00:40:02.820 --> 00:40:05.380]   And it was more this, you know
+[00:40:05.380 --> 00:40:12.340]   Movement forward. Wow. No, let's let's do things again. Let's get into activity. So that's kind of what happens. So
+[00:40:12.340 --> 00:40:14.980]   And it was like a more positive
+[00:40:14.980 --> 00:40:21.380]   Environment that everyone really felt relatively quickly this happened already within a couple of days
+[00:40:22.100 --> 00:40:28.740]   And and that's it's difficult to describe but it works actually is very very profound what is happening with the business
+[00:40:28.740 --> 00:40:35.220]   And it works towards success and prosperity frankly and expansion and expansion. I don't mean this really in this
+[00:40:35.220 --> 00:40:42.740]   Greedy way of expansion, right? That's how you know, we've all learned it like in in the old world
+[00:40:42.740 --> 00:40:50.180]   For the business, you know, we need to experiment or money and accumulate and accumulate and no matter what it costs and everything else doesn't matter
+[00:40:51.140 --> 00:40:58.340]   That's not at all what that means. It means a really healthy expansion of what the business is doing and
+[00:40:58.340 --> 00:41:01.460]   and and that is
+[00:41:01.460 --> 00:41:03.220]   That's where
+[00:41:03.220 --> 00:41:06.740]   Really the rubber means of road if there's a business with
+[00:41:06.740 --> 00:41:09.380]   good intentions and there's something
+[00:41:09.380 --> 00:41:15.460]   That is beneficial, right? It all gets supported in a very nice
+[00:41:15.460 --> 00:41:18.340]   constantly expansive
+[00:41:18.340 --> 00:41:20.020]   manner and where
+[00:41:20.020 --> 00:41:26.100]   There's just this bubble just becomes bigger and gets more support and and indeed works to more
+[00:41:26.100 --> 00:41:30.900]   Prosperity and success and and expansion in that sense
+[00:41:30.900 --> 00:41:33.460]   however, if there's a business
+[00:41:33.460 --> 00:41:41.220]   That that signs up for this that is having evil intentions or is just working to manipulate others
+[00:41:44.180 --> 00:41:48.580]   Then these then there will only be transformation because these things
+[00:41:48.580 --> 00:41:53.460]   They can't stand in the in the in the pure quantum field
+[00:41:53.460 --> 00:42:00.180]   It's just they they lose their power and and by itself this business would need to transform itself
+[00:42:00.180 --> 00:42:08.340]   That is also one of the reasons why you can't sign up for I don't know like your McDonald's for example or Coca-Cola, right?
+[00:42:08.500 --> 00:42:13.700]   Even you know, we may want that all these companies suddenly transform and all of that
+[00:42:13.700 --> 00:42:19.620]   But that's something you know, we we need to leave these things up to the universe and to the people that are responsible
+[00:42:19.620 --> 00:42:24.740]   What we can do is we can build the new and that's what we're doing and everyone that is
+[00:42:24.740 --> 00:42:29.300]   Doing good things and I'm talking here about more conscious businesses, right?
+[00:42:29.300 --> 00:42:35.700]   Yeah, we're building the new in the quantum field and people that choose to use this
+[00:42:36.260 --> 00:42:40.900]   They will get this boost and they will get the benefit and with that we're building the new we don't need to
+[00:42:40.900 --> 00:42:46.980]   Transform the old it'll that'll happen on its own right now. I think that's a good point because
+[00:42:46.980 --> 00:42:53.540]   You know for those of you and following Philip for as long as I have I mean the and all of the quantum healing stuff
+[00:42:53.540 --> 00:42:55.620]   I mean at the end of the day
+[00:42:55.620 --> 00:42:58.260]   All of this is driven by consciousness and intent
+[00:42:58.260 --> 00:43:05.300]   And it taps into this energy source at which amplifies that and one of the things about if you have negative intent
+[00:43:05.860 --> 00:43:12.100]   It's not going to go anywhere because that's not the natural order of things right natural order of things is harmony
+[00:43:12.100 --> 00:43:17.860]   So I would say that the best words to use for what the what the service will do for businesses
+[00:43:17.860 --> 00:43:21.620]   Is it'll help it thrive and it'll help it reach prosperity
+[00:43:21.620 --> 00:43:28.660]   And that's all it will do and it's not gonna it's you money might not even be the way you measure prosperity
+[00:43:28.660 --> 00:43:33.060]   Right. So yeah, that's a really great description. Thank you. That really clarifies something
+[00:43:33.060 --> 00:43:36.660]   So I do have a question though for for myself
+[00:43:36.660 --> 00:43:43.860]   I work for a very large company and I work on projects and so
+[00:43:43.860 --> 00:43:49.940]   I am at a level where I could sign up the by your definition. I could sign up my company
+[00:43:49.940 --> 00:43:54.580]   You know, I have the authority to do that. I'm whatever. I won't get into it
+[00:43:54.580 --> 00:43:59.460]   But I could sign up my company and have representative authority to do so
+[00:44:00.820 --> 00:44:04.180]   But I'm more interested. You know, there's a few thousand of us
+[00:44:04.180 --> 00:44:06.820]   I'm more interested in like is there a way I could like like
+[00:44:06.820 --> 00:44:11.700]   Send energy to my project and to all of the people that are working on a project
+[00:44:11.700 --> 00:44:17.780]   You know, there's dozens of us and and just having like this specific project within a company. Yes
+[00:44:17.780 --> 00:44:24.820]   Oh, how much is that? I think that's actually a great idea. I had not thought about that before but it's absolutely clear that you can do that
+[00:44:24.820 --> 00:44:29.620]   You would just need to define the project. Well, you know, if it has a project name
+[00:44:30.420 --> 00:44:32.100]   And all that stuff. Yeah
+[00:44:32.100 --> 00:44:37.220]   Yes, so I would say I would just identify it by my company's name and then the name of the project
+[00:44:37.220 --> 00:44:42.180]   And say yeah, I want this project to go. Well, it's uh, I mean we're like in year four
+[00:44:42.180 --> 00:44:46.980]   Got two more years to go, you know, but you know, I want this, you know, and you know, I just you know
+[00:44:46.980 --> 00:44:51.700]   Cause man, I'll tell you you know that these these giant projects that last six years
+[00:44:51.700 --> 00:44:56.980]   You know, I just you know, bring some energy into it and you know revitalize everybody and you know
+[00:44:56.980 --> 00:45:00.900]   And and make it and make everything work well with the vendors and yeah, that'd be great
+[00:45:00.900 --> 00:45:04.580]   So okay, I can sign up my okay. That's great. I was really wondering how to do that
+[00:45:04.580 --> 00:45:09.300]   I because I would love because it's it's its own little entity right a project something that big
+[00:45:09.300 --> 00:45:11.300]   Yep
+[00:45:11.300 --> 00:45:15.780]   Okay, great. All right. So in the next set of questions revolve around the bundle, but as you mentioned
+[00:45:15.780 --> 00:45:18.180]   You've got things you're going to be changing
+[00:45:18.180 --> 00:45:22.180]   So let's talk about the bundle when we get into future announcements and jump into
+[00:45:22.820 --> 00:45:27.940]   For all of you folks who already own capsules and blocks. There's been a lot of questions about
+[00:45:27.940 --> 00:45:30.420]   What's the difference between the two?
+[00:45:30.420 --> 00:45:35.380]   Uh, and so, you know, so I guess right off the bat the first question feel what you know, what's your like
+[00:45:35.380 --> 00:45:40.500]   Explanation like if somebody, you know, what hey, you know, what's the difference? Like what's you know?
+[00:45:40.500 --> 00:45:44.580]   I already have all this stuff, you know, what what's the what's this new thing do?
+[00:45:44.580 --> 00:45:49.540]   Uh, or you know that kind of because the questions are what's the difference between two and then the breakout questions are
+[00:45:50.020 --> 00:45:54.660]   What does the upgrade do that the capsules can't what can the capsules do that the upgrade can't right?
+[00:45:54.660 --> 00:45:59.620]   And then how do they compliment each other and then do they even and then do they interfere with each other?
+[00:45:59.620 --> 00:46:02.980]   So those are kind of the questions that I plucked out of the chat
+[00:46:02.980 --> 00:46:06.260]   Uh, and just wanted to see you know, like how would you explain that?
+[00:46:06.260 --> 00:46:12.900]   Yeah, so first of all, it's really they they complement each other and both have
+[00:46:12.900 --> 00:46:15.220]   advantages
+[00:46:15.220 --> 00:46:19.220]   And things you can do with them and achieve with them that the others can't
+[00:46:19.700 --> 00:46:22.900]   Let's take you know in terms of the actual physical
+[00:46:22.900 --> 00:46:30.260]   Technology, let's take the infinity block package as the ultimate right because that's really where you can create
+[00:46:30.260 --> 00:46:35.620]   different levels on the hawkin scale you can upgrade your blocks to
+[00:46:35.620 --> 00:46:41.380]   super super high levels and you have amazing fields you can charge every object
+[00:46:41.380 --> 00:46:47.620]   And all of these things right so there you're you're pretty much all covered the
+[00:46:48.420 --> 00:46:52.580]   Benefit that you would still get from a quantum upgrade is that you have
+[00:46:52.580 --> 00:47:00.020]   Morphlic stability and customization that a blog or even two blogs wouldn't give you because you could set
+[00:47:00.020 --> 00:47:04.900]   You know different boosters. You can set a different hawkin scale
+[00:47:04.900 --> 00:47:11.620]   Level for the nighttime you can do on Mondays. You could be at 700 on Tuesdays
+[00:47:11.620 --> 00:47:17.780]   You could set it for 800 you could for the next week you could go to 900 and so on and so on so
+[00:47:18.980 --> 00:47:20.420]   That's just
+[00:47:20.420 --> 00:47:22.580]   That's just an additional level
+[00:47:22.580 --> 00:47:25.780]   and on top of that
+[00:47:25.780 --> 00:47:27.860]   the quantum upgrade, you know, it's just a
+[00:47:27.860 --> 00:47:30.820]   think of it as a
+[00:47:30.820 --> 00:47:32.820]   big indeed upgraded
+[00:47:32.820 --> 00:47:37.540]   System of our own technology and it contains this
+[00:47:37.540 --> 00:47:40.660]   specific buffer and a harmony feature
+[00:47:40.660 --> 00:47:45.700]   Which makes sure that everyone is pretty much picked up where they are
+[00:47:46.100 --> 00:47:48.100]   Meaning let's say if someone
+[00:47:48.100 --> 00:47:57.940]   Could put their picture in the infinity blog and the regular infinity blog for half an hour or an hour and and after that
+[00:47:57.940 --> 00:48:00.900]   Would usually remove the picture because it
+[00:48:00.900 --> 00:48:04.580]   You know he would notice it would just be too much energy
+[00:48:04.580 --> 00:48:09.700]   Then on that same level on the hawkin scale you could be in there
+[00:48:09.700 --> 00:48:11.780]   for
+[00:48:11.780 --> 00:48:17.780]   At least a few days in the quantum upgrade just because it it has these features
+[00:48:17.780 --> 00:48:26.020]   And at the end of that period actually you will be already vibrating at a higher level. It's just
+[00:48:26.020 --> 00:48:29.540]   It doesn't overwhelm your nervous system
+[00:48:29.540 --> 00:48:33.540]   Quickly it doesn't kick in these detox effects. It's
+[00:48:33.540 --> 00:48:40.420]   It's softer in bringing up stuff, you know emotional stuff, trauma stuff and all of that
+[00:48:41.620 --> 00:48:43.940]   Then if you were to use the blocks
+[00:48:43.940 --> 00:48:48.660]   Is it then a hundred percent still needed only you can feel that, you know
+[00:48:48.660 --> 00:48:54.580]   It's not that you have to have that because you can go so far already with the infinity blocks, of course
+[00:48:54.580 --> 00:48:59.220]   Um, but the other upgrade service indeed has benefits
+[00:48:59.220 --> 00:49:06.260]   Over that but then the benefit of the blocks is really, you know, you can charge your foods
+[00:49:06.260 --> 00:49:11.220]   You can you can put your silverware in and charge those permanently your keys
+[00:49:11.780 --> 00:49:13.460]   All of these things
+[00:49:13.460 --> 00:49:17.460]   And that is something you cannot do with a quantum upgrade service
+[00:49:17.460 --> 00:49:20.980]   So there are things you can do with the one that you can't do with the other
+[00:49:20.980 --> 00:49:28.260]   Okay, yeah, I think that you know when you as you're describing that it makes it makes a lot more sense for me because I was one of my first questions
+[00:49:28.260 --> 00:49:31.220]   And people have been asking like, you know, I do I need this?
+[00:49:31.220 --> 00:49:32.660]   I mean what what else would it do for me?
+[00:49:32.660 --> 00:49:37.540]   And I just I just signed up myself and then what I realized I'm just trying it out or you know
+[00:49:37.540 --> 00:49:41.620]   Because first of all, if you already own a block and there's a seven-day free trial, give it a try
+[00:49:41.620 --> 00:49:45.460]   You know, I highly recommend give it a try. I'm giving it a try right now. I signed up yesterday
+[00:49:45.460 --> 00:49:49.860]   Um, you know and just kind of get a feel for the registration process and click and kicked it in
+[00:49:49.860 --> 00:49:55.620]   But yeah, I mean I'm compulsive like I mentioned earlier about charging all my water and all my food
+[00:49:55.620 --> 00:49:58.340]   And so without a block I couldn't be doing that
+[00:49:58.340 --> 00:50:04.100]   Uh, and then definitely, you know, making boosters, you know, making capsules and things like that for friends and family
+[00:50:04.100 --> 00:50:06.500]   You know, yeah, and then also having that thing in my house
+[00:50:06.980 --> 00:50:11.140]   I do have I am in the in my in the field all the time
+[00:50:11.140 --> 00:50:18.500]   But so can you comment about, you know, like I have a high upgraded. I be I got a two, you know, two infinity blocks
+[00:50:18.500 --> 00:50:20.580]   one's an eight one's a nine
+[00:50:20.580 --> 00:50:23.620]   Uh in my home, of course. I've got other blocks too as well
+[00:50:23.620 --> 00:50:28.020]   Um, but having them in my home and I'm in this like really concentrated field
+[00:50:28.020 --> 00:50:30.180]   um
+[00:50:30.180 --> 00:50:34.980]   Because the I guess the thing is right there's this new feature you develop for the service
+[00:50:34.980 --> 00:50:39.380]   And you also developed it for the the travel block, which is that harmonizing
+[00:50:39.380 --> 00:50:43.700]   Feature right of the energy so that it doesn't
+[00:50:43.700 --> 00:50:45.540]   overwhelm
+[00:50:45.540 --> 00:50:52.020]   Whoever's receiving it and so is I mean i'm trying to just kind of like put it in you know get it straight in my head
+[00:50:52.020 --> 00:50:53.140]   But
+[00:50:53.140 --> 00:50:57.060]   If somebody wasn't used to that level of energy and they walked into my home, they would get overwhelmed
+[00:50:57.060 --> 00:51:03.220]   Um, but you have a there's a feature in the service that makes sure you don't get overwhelmed so that you literally could be
+[00:51:03.780 --> 00:51:06.660]   in a very high high level high energy field
+[00:51:06.660 --> 00:51:12.500]   All 24 hours a day right, um and not ever feel overwhelmed. So I guess there's that harmonization
+[00:51:12.500 --> 00:51:18.500]   Right. Yes. So the service is definitely different than being in the field of a block
+[00:51:18.500 --> 00:51:22.180]   Yes, so I must say i'm trying to wrap my head around it
+[00:51:22.180 --> 00:51:24.740]   That at at some level
+[00:51:24.740 --> 00:51:29.460]   This is then also still becoming too much. So let's say someone that
+[00:51:30.740 --> 00:51:33.540]   Is all new to this and then they want to choose a
+[00:51:33.540 --> 00:51:39.860]   900 right out of the gate. I mean this will also relatively quickly lead to the fact that they'll be
+[00:51:39.860 --> 00:51:42.180]   um
+[00:51:42.180 --> 00:51:46.420]   Moving it back to 600 very quickly because it's going to be too much
+[00:51:46.420 --> 00:51:51.060]   And that's also the reason why we have locked the booster level of
+[00:51:51.060 --> 00:51:55.620]   1200 and that's also the reason why we say okay, you can have multiple
+[00:51:56.100 --> 00:52:00.260]   Boosters a day. We're okay with that and we'll give you that flexibility
+[00:52:00.260 --> 00:52:02.260]   But you cannot preset
+[00:52:02.260 --> 00:52:07.380]   More than one booster. So if you want another booster on a given date, you actually need to take action
+[00:52:07.380 --> 00:52:10.020]   in order to do that because
+[00:52:10.020 --> 00:52:12.820]   We feel it's just another level of
+[00:52:12.820 --> 00:52:20.900]   You know, you need to make that decision and not beforehand and don't just set it because these levels are very very powerful
+[00:52:20.900 --> 00:52:22.980]   There are no joke
+[00:52:23.060 --> 00:52:31.540]   And and while this feature is there, you know, at some point, you know, if you if you blast yourself with the 1200
+[00:52:31.540 --> 00:52:33.460]   um
+[00:52:33.460 --> 00:52:37.220]   For one and a half hours, it's a lot of energy
+[00:52:37.220 --> 00:52:44.340]   So you can do that but you always need to make that decision again after that half an hour can do a one another half
+[00:52:44.340 --> 00:52:45.540]   of that
+[00:52:45.540 --> 00:52:47.460]   So I just want to want to say that and then
+[00:52:47.460 --> 00:52:51.860]   You know the travel blog indeed has also this feature
+[00:52:51.940 --> 00:52:54.580]   but it's it's about I would call it like about
+[00:52:54.580 --> 00:52:56.580]   70 60 70
+[00:52:56.580 --> 00:52:58.340]   percent of
+[00:52:58.340 --> 00:53:03.780]   Off that and the quantum blog and infinity blog do not and they may have that in the future at some point
+[00:53:03.780 --> 00:53:10.020]   But it's not going to happen the next six months. That's for us just impossible to do and to implement
+[00:53:10.020 --> 00:53:11.540]   um
+[00:53:11.540 --> 00:53:13.860]   within that time frame so
+[00:53:13.860 --> 00:53:17.860]   Yeah, and now I may have missed your question
+[00:53:17.860 --> 00:53:22.100]   But it was very important for me to to also mention like don't think that you can now
+[00:53:22.100 --> 00:53:27.940]   Do 10 boosters 1200 and then stay at 900 all day long
+[00:53:27.940 --> 00:53:31.060]   If you do this that that's
+[00:53:31.060 --> 00:53:35.540]   Even the future doesn't cover that right. Yeah, it is. Yeah, it's definitely different
+[00:53:35.540 --> 00:53:37.460]   Yeah, my question was like
+[00:53:37.460 --> 00:53:43.060]   Um, I live in a very high concentrated quantum field because of all the blocks that I have
+[00:53:44.260 --> 00:53:48.580]   And so I I sign myself up under the you thing and I'm wondering
+[00:53:48.580 --> 00:53:50.580]   um
+[00:53:50.580 --> 00:53:52.740]   um, you know
+[00:53:52.740 --> 00:53:56.740]   Because I live in such a high high and you know, highly energetic environment
+[00:53:56.740 --> 00:54:00.900]   What I you know, would the you even do anything for me
+[00:54:00.900 --> 00:54:07.540]   Yes, it would and you will you will feel it and it depends probably which level you'll need to like
+[00:54:07.540 --> 00:54:11.300]   Just test it out and and and see but
+[00:54:12.100 --> 00:54:13.220]   having
+[00:54:13.220 --> 00:54:19.780]   The blocks in your home and you're in in that field is different than being liddly inside
+[00:54:19.780 --> 00:54:26.260]   A block. Oh yeah, and and in the quantum upgrade. It's like being in the block just in
+[00:54:26.260 --> 00:54:32.420]   An upgraded block with but these specific features. Okay, and and yes
+[00:54:32.420 --> 00:54:38.660]   So that will happen and what we'll take over for you then is actually the use service
+[00:54:38.740 --> 00:54:43.140]   So that is the one that you'll you'll have unless you keep it at a very very low level
+[00:54:43.140 --> 00:54:48.340]   Then it's it's probably going to be the conscious level of what you already have in your home
+[00:54:48.340 --> 00:54:52.420]   but then really what we'll take over is the use service and then
+[00:54:52.420 --> 00:54:54.420]   um
+[00:54:54.420 --> 00:54:58.900]   Everyone else in the home and everything else in the home will
+[00:54:58.900 --> 00:55:00.740]   will
+[00:55:00.740 --> 00:55:02.260]   Just have the
+[00:55:02.260 --> 00:55:05.700]   The blocks that they feel basically right pretty much how it works
+[00:55:05.780 --> 00:55:09.780]   So like being inside the block all the time set at that consciousness level
+[00:55:09.780 --> 00:55:15.700]   So the so the added perk of the upgrade would be that it's with me 24 hours a day as opposed to I
+[00:55:15.700 --> 00:55:20.260]   Only spend 15 maybe 10 minutes a day with my hands inside the block
+[00:55:20.260 --> 00:55:24.020]   Um as opposed to being able to have it 24 hours a day with the service
+[00:55:24.020 --> 00:55:28.020]   So that that makes yes because being in the field is not the same as being inside the block
+[00:55:28.020 --> 00:55:30.660]   um, however, what about wearing my heel capsule?
+[00:55:30.660 --> 00:55:34.100]   um like what I try to do right is uh, I have
+[00:55:35.140 --> 00:55:37.140]   uh travel block and in in the truck
+[00:55:37.140 --> 00:55:42.260]   And then I wear a heel capsule so that I'm when I'm away from my truck and away from my home
+[00:55:42.260 --> 00:55:44.740]   I'm still in a field
+[00:55:44.740 --> 00:55:47.380]   um for emf purposes. So
+[00:55:47.380 --> 00:55:54.180]   How does wearing a capsule like wearing the heel capsule and signing up for the u uh service?
+[00:55:54.180 --> 00:55:56.660]   I mean, uh, is it?
+[00:55:56.660 --> 00:56:00.820]   I mean, how what's the difference there because it seems like they would be the same because I've got the capsule on me
+[00:56:00.820 --> 00:56:03.300]   But is there something different?
+[00:56:03.460 --> 00:56:06.900]   Yes, it's very different actually. Yes. So the new services
+[00:56:06.900 --> 00:56:11.460]   Yep, the u services way more powerful. It literally is
+[00:56:11.460 --> 00:56:17.060]   Is almost coming from inside you like the it's it's it's the service
+[00:56:17.060 --> 00:56:22.580]   Supports you energetically wherever you are in a much higher consciousness
+[00:56:22.580 --> 00:56:25.700]   Level than the capsule. So the capsule
+[00:56:25.700 --> 00:56:32.020]   Uh, isn't that high on the hawkin scale? It's it's still high, you know compared to other products out there
+[00:56:32.020 --> 00:56:36.740]   But it's nothing compared to what you can do with the u service to be honest
+[00:56:36.740 --> 00:56:38.580]   and
+[00:56:38.580 --> 00:56:41.460]   That there still doesn't mean that you wouldn't use the capsule
+[00:56:41.460 --> 00:56:48.340]   Uh, I probably in the beginning when I start the u service. I would not use the capsule just for several for a few days at least
+[00:56:48.340 --> 00:56:51.380]   Just to not you know do too much
+[00:56:51.380 --> 00:56:56.580]   But then the capsule still comes in really handy because it has these specific frequencies
+[00:56:56.900 --> 00:57:01.940]   Right. Yeah, that's what we're at. So if you then were you have those frequencies
+[00:57:01.940 --> 00:57:08.420]   And you get the real quantum boost for yourself also that's uh, uh, that can be very beneficial
+[00:57:08.420 --> 00:57:12.580]   We had a Trevor for example. I'm just uh posting in the group
+[00:57:12.580 --> 00:57:20.660]   I think yesterday that uh, he tried that or do you have the capsule and the quantum upgrade and for him personally work really really well
+[00:57:20.660 --> 00:57:26.740]   And I can I can just uh, you know underline that, you know, because I've yeah, I've tried that too
+[00:57:27.140 --> 00:57:33.540]   Okay, so yeah, so okay. So there's just okay the distinct differences is in the the consciousness level of the energy
+[00:57:33.540 --> 00:57:40.980]   Secondly, it's the present the presence of that field always with you as opposed to being away from your block
+[00:57:40.980 --> 00:57:45.220]   And that sort of thing but okay that starting to make sense because i'm you know, it's only we're two weeks into this everybody
+[00:57:45.220 --> 00:57:50.340]   And there's so many of us are trying to wrap our heads around it and try to understand it
+[00:57:50.340 --> 00:57:52.820]   And that's why we're doing this q&a, but I think that helps me
+[00:57:53.380 --> 00:57:57.860]   Hopefully it helps for us you guys and then the the idea here that I guess the last thing was like
+[00:57:57.860 --> 00:58:02.420]   If I use them together, I'm not going to overcharge myself like I like I personally keep
+[00:58:02.420 --> 00:58:04.020]   um
+[00:58:04.020 --> 00:58:06.820]   Myself in my one of my ibs all the time
+[00:58:06.820 --> 00:58:14.500]   Uh inside it right just uh, you know a picture and then my fingernails and so um, it's always in there 24 hours a day
+[00:58:14.500 --> 00:58:19.780]   Um, and so then if I signed up for the you and my overwhelming myself now because I've got
+[00:58:20.340 --> 00:58:23.460]   A disservice coming at me. I've got my eye block coming at me
+[00:58:23.460 --> 00:58:26.980]   Um, or no, there's there's no way to overcharge
+[00:58:26.980 --> 00:58:31.780]   Well, I would I would uh take out the picture and the fingernail
+[00:58:31.780 --> 00:58:39.620]   Out of the block if you do the service. Okay. That's what I would do. I would not go bought it with with two different things and
+[00:58:39.620 --> 00:58:42.340]   You can have the block at home. No problem
+[00:58:42.340 --> 00:58:49.060]   But I would then concentrate on the service and then there find the best level for you because that's that's you know
+[00:58:49.540 --> 00:58:51.060]   literally like
+[00:58:51.060 --> 00:58:53.140]   You you can tune it for you know
+[00:58:53.140 --> 00:59:00.980]   What is the best for you in a given week or day and and and that's the easiest to to then customize for yourself?
+[00:59:00.980 --> 00:59:07.380]   Okay. All right. Okay, that helps. Um, all right. Good. And you can have someone else in your block then, right?
+[00:59:07.380 --> 00:59:12.260]   Yeah, actually I actually do because you know, uh, you know, I'm always being asked to you know
+[00:59:12.260 --> 00:59:13.620]   And then of course
+[00:59:13.620 --> 00:59:19.940]   Whenever one of my friends family anybody's got some issues going on. So I always have I have one in my kitchen, right?
+[00:59:19.940 --> 00:59:22.500]   It's like an appliance at this point
+[00:59:22.500 --> 00:59:28.660]   And then the other ones like being used for somebody or some animal a lot of usually a lot of animals
+[00:59:28.660 --> 00:59:31.940]   Um, and so that's why I like having the service
+[00:59:31.940 --> 00:59:37.540]   For I was just thinking like what's the service could do for me? I'm like, well, yeah, I could then have it with me all the time
+[00:59:37.540 --> 00:59:42.180]   And I'd have another thing, you know, so yeah, okay. All right. That makes sense. Um, okay
+[00:59:42.180 --> 00:59:45.860]   So, hey, by the way, you guys got more questions. Just throw them in the chat and tell her okay
+[00:59:45.860 --> 00:59:49.940]   So let's get on to the next category on how to adjust the settings
+[00:59:49.940 --> 00:59:52.900]   Uh, so we got some questions from the group. I did
+[00:59:52.900 --> 00:59:56.660]   Uh, as I was signing up yesterday to give it a try
+[00:59:56.660 --> 00:59:58.740]   um
+[00:59:58.740 --> 00:59:59.380]   This
+[00:59:59.380 --> 01:00:03.380]   Uh, right here is once you sign up and and maybe I don't know we can walk through how to sign up
+[01:00:03.380 --> 01:00:07.860]   But these are the settings for you and so there's all these different questions about, you know
+[01:00:07.860 --> 01:00:12.100]   These settings and and how they work and and so forth. So, uh, let's go ahead
+[01:00:12.340 --> 01:00:16.260]   And just start right off the bat with, um, you know, how long does the booster run?
+[01:00:16.260 --> 01:00:20.660]   So when I set up the booster like I set it up for right when we started talking
+[01:00:20.660 --> 01:00:24.900]   Uh, I said it at 1100, but then how long does this thing run?
+[01:00:24.900 --> 01:00:31.860]   Because there's no like 30 minutes 30 minutes. Okay, 30 minutes and we apologize
+[01:00:31.860 --> 01:00:34.660]   So that's actually a good question. So I will
+[01:00:34.660 --> 01:00:41.460]   Let our tech team know because we should probably make a note there that a booster is 30 minutes
+[01:00:41.860 --> 01:00:45.620]   So that's a good point. Yeah, because there's the people are saying well, there's no start
+[01:00:45.620 --> 01:00:48.500]   There's a start but there's no stop right? So how are they? Yeah, okay
+[01:00:48.500 --> 01:00:52.100]   So then so then and so then in terms of like if I wanted to
+[01:00:52.100 --> 01:00:55.700]   Like you were talking earlier if I want to boost myself again
+[01:00:55.700 --> 01:01:00.180]   Like right now it's like 1220 if I wanted to boost myself
+[01:01:00.180 --> 01:01:03.940]   Could I just do this and then put in let's say start another booster
+[01:01:03.940 --> 01:01:08.180]   Uh at 1220 and go okay update and then I get another boost
+[01:01:09.220 --> 01:01:13.780]   I would not set it right at 1220, but I would give it 10 minutes
+[01:01:13.780 --> 01:01:17.060]   You know, just put it at 1230 or at one or whatever
+[01:01:17.060 --> 01:01:20.820]   But you allow your system always five to 10 minutes too
+[01:01:20.820 --> 01:01:24.980]   So it always takes about five to 10 minutes to
+[01:01:24.980 --> 01:01:27.060]   um
+[01:01:27.060 --> 01:01:31.380]   To update basically. Okay. That makes sense. All right. So to your point
+[01:01:31.380 --> 01:01:36.980]   Which you cautioned about so everybody heads up on the caution is you don't want to be boosting yourself constantly
+[01:01:37.380 --> 01:01:38.580]   um, but
+[01:01:38.580 --> 01:01:41.700]   Like you know like like in this example. I'm in the middle of an interview
+[01:01:41.700 --> 01:01:45.300]   I want to be at peak energy and the interview lasts like, you know an hour and a half, right?
+[01:01:45.300 --> 01:01:52.660]   So I want to boost myself while i'm doing it if i'm in a really important meeting at work or i'm taking finals or i'm arguing with the wife
+[01:01:52.660 --> 01:01:59.700]   I need some energy then you can go on here and I I want to also point out philip had a really great recommendation
+[01:01:59.700 --> 01:02:04.020]   Which i'm sticking by which is I leave this page running
+[01:02:04.500 --> 01:02:08.180]   So if I want to make any tweaks throughout the day, I don't have to keep logging back in and out
+[01:02:08.180 --> 01:02:12.900]   This thing will just stay running and I can run up here change the number hit update and then, you know, boom, right?
+[01:02:12.900 --> 01:02:15.780]   Okay, so so yeah, I think the I think the
+[01:02:15.780 --> 01:02:17.620]   By the way
+[01:02:17.620 --> 01:02:21.700]   So why you just said a recommendation i just popped up in my mind
+[01:02:21.700 --> 01:02:28.020]   That I had another recommendation at some point that a lot of people said that helped them a lot in the beginning
+[01:02:28.020 --> 01:02:34.180]   That was when we had the you know 25 people test group a several, you know a month or a month and a half ago
+[01:02:34.740 --> 01:02:37.620]   And that was really if you start this you service
+[01:02:37.620 --> 01:02:40.900]   it's really the people ask the case of what
+[01:02:40.900 --> 01:02:48.420]   How do I like leverage this this energy best for me and you know always great things are you know
+[01:02:48.420 --> 01:02:51.140]   Take care of yourself find something that you know
+[01:02:51.140 --> 01:02:57.540]   Brings you joy and do that but then there are so all these things that probably everyone has one way another
+[01:02:57.540 --> 01:03:01.140]   The couple things that are kind of like blocking us because it's stuff
+[01:03:01.220 --> 01:03:07.780]   We should should have done already or we should have taken care of like paying this bill or doing that or making that phone call
+[01:03:07.780 --> 01:03:15.620]   We've always put it off like maybe pick a couple of these things and just do them and and just leverage that energy with that and
+[01:03:15.620 --> 01:03:20.580]   Wow, you'll you'll feel things like pop. It's it's it's quite amazing
+[01:03:20.580 --> 01:03:25.140]   Um how that works and it doesn't mean you should go into activity mode, right?
+[01:03:25.140 --> 01:03:28.420]   It doesn't doesn't mean that you can also go into relaxing mode
+[01:03:28.420 --> 01:03:35.060]   But in between there's some of these things that you may have the extra energy boost now to actually get it done
+[01:03:35.060 --> 01:03:39.940]   Cool because that's that's why I picked you for me, you know
+[01:03:39.940 --> 01:03:46.100]   I mean I want to actually expand on that but let me get through the questions because I I definitely have what you just described
+[01:03:46.100 --> 01:03:51.860]   I'm living. I've got a personal challenge and I'm hoping that you know signing up for the you is going to kind of give
+[01:03:51.860 --> 01:03:55.780]   Me that extra boost so but I want to get into the let me get into these questions here
+[01:03:56.180 --> 01:03:59.860]   Um, all right, so it runs for 30 minutes. You can do it multiple times a day
+[01:03:59.860 --> 01:04:03.140]   Not recommended because you don't want to be that high all the time
+[01:04:03.140 --> 01:04:05.860]   And I guess that applies and everything
+[01:04:05.860 --> 01:04:08.180]   Okay, so then um
+[01:04:08.180 --> 01:04:11.860]   Are there so I guess the thing is so that we talked about are there do's and don'ts right?
+[01:04:11.860 --> 01:04:17.860]   So the thing is is you would don't recommend boosting constantly, but there was specific to the booster
+[01:04:17.860 --> 01:04:24.820]   You know, there's only two choices here one thousand and eleven hundred but and so I was thinking in terms of do's and don'ts
+[01:04:25.220 --> 01:04:29.780]   So the don'ts is don't recommend, you know, you know, you don't recommend boosting all the time
+[01:04:29.780 --> 01:04:32.980]   Like multiple times a day, but just a few times is okay
+[01:04:32.980 --> 01:04:39.860]   Uh, but then at the same time are there any other do's and don'ts that you want to share with everybody about using the booster
+[01:04:39.860 --> 01:04:46.100]   Not really that's pretty much it by the way you can request the
+[01:04:46.100 --> 01:04:48.740]   1,200 level even
+[01:04:48.740 --> 01:04:54.420]   For the booster, but that would really just be recommended for folks that have already had, you know
+[01:04:54.420 --> 01:04:57.860]   an affinity block package for quite some time or that are
+[01:04:57.860 --> 01:05:03.220]   Energy healers themselves and feel like they can really handle a lot of energy
+[01:05:03.220 --> 01:05:09.220]   Um, so you can request their from customer service and just let them know, you know that
+[01:05:09.220 --> 01:05:13.860]   You feel like you can definitely handle that and and then
+[01:05:15.140 --> 01:05:22.340]   We'll gladly unlock that for you. Okay. Cool. That was one of the actual questions. So okay. You can pause also, right?
+[01:05:22.340 --> 01:05:27.220]   So I don't know if people know that but you can also pause the service
+[01:05:27.220 --> 01:05:34.260]   Uh, and that does mean that your subscriptions stops or pauses. It just pauses the quantum upgrade. So
+[01:05:34.260 --> 01:05:39.060]   There are some people that are very sensitive and that may want in the first
+[01:05:40.260 --> 01:05:45.940]   Two nights or so just to completely pause the service and so you can do that at any time
+[01:05:45.940 --> 01:05:50.100]   You want and then you can just unpause the service also
+[01:05:50.100 --> 01:05:52.740]   How do you how do you pause it?
+[01:05:52.740 --> 01:05:56.260]   If you go there again, you see there the pause button
+[01:05:56.260 --> 01:05:58.820]   pause button
+[01:05:58.820 --> 01:06:04.340]   Should be on the upper left somewhere. I can't see it because it's on my phone if it's not there then
+[01:06:07.220 --> 01:06:12.580]   Then I don't know why because I've seen it multiple times. Um, okay. I'm not seeing it
+[01:06:12.580 --> 01:06:15.540]   I don't want to go any higher. It's got my personal info, but
+[01:06:15.540 --> 01:06:20.580]   Um, yeah, don't worry that maybe that you need to clear you catch the end and
+[01:06:20.580 --> 01:06:24.900]   Refresh it. I'll reach out to the tech team, but it it's been up since
+[01:06:24.900 --> 01:06:31.060]   Oh, here it is. Okay. Hey, the screen I was showing everybody was of as of last night
+[01:06:31.060 --> 01:06:34.820]   I I just hit refresh. So here you go. You got a pause button now
+[01:06:35.540 --> 01:06:39.700]   Yes, it's a different screen like that for a week. Oh really? Oh weird. Yeah
+[01:06:39.700 --> 01:06:45.220]   Because I just signed up yesterday. Okay. All right. So here's your pause button. Yeah, you can you can click it
+[01:06:45.220 --> 01:06:50.100]   And then it also shows shows you okay your quantum upgrade is currently paused
+[01:06:50.100 --> 01:06:50.900]   Okay
+[01:06:50.900 --> 01:06:56.020]   And then you know if it's if it's not paused it shows you your quantum upgrade is currently active
+[01:06:56.020 --> 01:07:00.580]   That was a request from from the folks in the telegram group to make it more clear
+[01:07:00.980 --> 01:07:06.740]   Is it now active or is it not? Yeah, no, it should be all like double clear. Okay. Cool. All right
+[01:07:06.740 --> 01:07:11.380]   So there's your pause button so you can pause turn and you can pause it on and off
+[01:07:11.380 --> 01:07:14.820]   Uh, oh each booster is 30 minutes. So I guess you already have it there
+[01:07:14.820 --> 01:07:19.300]   So okay, so then you got the boosters. Okay. All right. So let's see other. What are the other questions here?
+[01:07:19.300 --> 01:07:24.900]   Um, how many times a day can I use it? So what would you say as a recommendation? It's like you don't really want to boost
+[01:07:24.900 --> 01:07:29.140]   over x number of times. Do you have a number or is it per person?
+[01:07:30.180 --> 01:07:37.460]   Well, people love playing around with this thing. Yeah, I would I would start with just one booster a day
+[01:07:37.460 --> 01:07:40.580]   You know, if you're totally new to this don't even do any booster
+[01:07:40.580 --> 01:07:46.500]   Maybe for the first two three days, but then maybe use the booster also to
+[01:07:46.500 --> 01:07:50.980]   To tune you of your senses, you know, we've had people that are
+[01:07:50.980 --> 01:07:55.140]   Maybe not so sensitive to energy and this is all new to them. They haven't
+[01:07:56.020 --> 01:08:01.620]   Learned and trained themselves yet to to feel the subtle energy and and using the boosters
+[01:08:01.620 --> 01:08:08.100]   Is also a good way to to actually do that because you at some point you will feel the difference and the energy levels
+[01:08:08.100 --> 01:08:10.180]   And it's it's a great way
+[01:08:10.180 --> 01:08:16.260]   You know like becoming a tennis pro, you know, that takes practice same thing here with feeling energy and all of that
+[01:08:16.260 --> 01:08:20.100]   Uh, we can all do it just takes a little bit of practice
+[01:08:20.100 --> 01:08:24.180]   Yeah, I've actually read because I've read the entire thread from start to finish and
+[01:08:24.820 --> 01:08:28.180]   There have been at least three people come in and just said hey, you know
+[01:08:28.180 --> 01:08:33.380]   How do I pause this thing because it it they felt it right away and I was a little bit too much for him
+[01:08:33.380 --> 01:08:39.060]   Just you know right from the getco at 500. So yeah, it's definitely people are feeling it people
+[01:08:39.060 --> 01:08:43.460]   I like myself that have been living with blocks for you know, well over a year
+[01:08:43.460 --> 01:08:47.860]   Um, yeah, I haven't I haven't felt it yet, but again
+[01:08:47.860 --> 01:08:52.500]   I've got to take myself out of the ib and maybe that'll make a difference. So all right, um
+[01:08:53.540 --> 01:08:58.260]   Okay, how many times a day? How do I access booster levels? We show you have the contact customer service
+[01:08:58.260 --> 01:09:00.580]   That's this little button right there
+[01:09:00.580 --> 01:09:03.940]   You can see it just anytime you just contact customer service
+[01:09:03.940 --> 01:09:07.940]   Uh, if you want to get to 1200 if you if you've been around
+[01:09:07.940 --> 01:09:12.900]   QE for a while now, you can have an extra number down here. So right now I've got
+[01:09:12.900 --> 01:09:16.660]   1100 1,000 and 1,100 in their twice. So
+[01:09:16.660 --> 01:09:18.740]   Okay
+[01:09:18.740 --> 01:09:19.860]   Um
+[01:09:19.860 --> 01:09:24.340]   Now, uh, how do I change from one option to another? So there was a several questions
+[01:09:24.340 --> 01:09:30.100]   Uh, where people were saying hey, I signed up for you, but I want to sign up for home next or now, right?
+[01:09:30.100 --> 01:09:32.260]   I want to switch from you to home
+[01:09:32.260 --> 01:09:38.100]   Uh, and you know without I don't want two of them. I want one subscription. How do you do that?
+[01:09:38.100 --> 01:09:45.220]   You if you currently have a subscription and you would like to rather change it to another one
+[01:09:45.540 --> 01:09:48.820]   Right and you need to reach out to customer service. Okay
+[01:09:48.820 --> 01:09:54.020]   Which is support at quantum upgrade.io
+[01:09:54.020 --> 01:09:56.100]   Okay, now do you have a
+[01:09:56.100 --> 01:10:01.060]   Okay, you know, because obviously, you know, you're a small company and there's not a lot of you guys plus
+[01:10:01.060 --> 01:10:03.460]   You know, it's it's overhead
+[01:10:03.460 --> 01:10:10.260]   But is there like a limit to like how many times somebody can switch around from car to home to business to you, you know
+[01:10:10.260 --> 01:10:12.260]   Uh, throughout a month
+[01:10:12.260 --> 01:10:14.500]   Is I could see where you could get some abuse on that?
+[01:10:15.780 --> 01:10:17.780]   Yeah, so I mean
+[01:10:17.780 --> 01:10:22.020]   That's actually not at all the idea that you just switched the whole time
+[01:10:22.020 --> 01:10:28.820]   No, no, we would not want that that that's not the idea. Right. That would just be crazy. I couldn't imagine I mean you will accommodate that
+[01:10:28.820 --> 01:10:34.660]   Yeah, that's just too much. But so I'm thinking that you know, people that have asked that question and you know, it's a sincere question like oh
+[01:10:34.660 --> 01:10:39.540]   I tried it. I'd rather do something else. Hey, no problem. Let's go ahead. Yeah, that's fine totally fine
+[01:10:39.540 --> 01:10:45.060]   And you know, we're as flexible as that can be you know with all these things and even
+[01:10:45.620 --> 01:10:50.100]   Hey, if there's uh, you signed up for the all in one bundle for example, right?
+[01:10:50.100 --> 01:10:52.100]   So and we're we're getting into the bundle but
+[01:10:52.100 --> 01:10:58.340]   Now that we're introducing new bundles and if you then want to rather switch to one of the other bundles, of course
+[01:10:58.340 --> 01:11:00.660]   We're going to make that happen for you, you know, right?
+[01:11:00.660 --> 01:11:02.580]   Okay, so
+[01:11:02.580 --> 01:11:07.380]   Definitely accommodating but you know, um, but just not not meant for
+[01:11:07.380 --> 01:11:12.100]   I want to try something different every week, you know, that's not that's not what that that on
+[01:11:12.980 --> 01:11:18.900]   Right. Okay. So just heads up. Uh, now updating information. That was the other thing too is somebody said, hey, I'm moving
+[01:11:18.900 --> 01:11:21.540]   Uh, or I changed my phone
+[01:11:21.540 --> 01:11:26.580]   So if I if I like you said earlier if I have any information like the hard-coded information
+[01:11:26.580 --> 01:11:31.620]   Which would be your personal information and that changes then you have to contact customer service, right?
+[01:11:31.620 --> 01:11:35.220]   That's how you go ahead update your yes, and so
+[01:11:35.220 --> 01:11:39.780]   We debated that in the beginning before we launched this and
+[01:11:40.820 --> 01:11:43.300]   We came to the conclusion that it's better that way
+[01:11:43.300 --> 01:11:48.500]   Also because we don't want people to you know use it for themselves
+[01:11:48.500 --> 01:11:54.100]   Today and then for their dad tomorrow and then for the mother and the next day and then for their friend
+[01:11:54.100 --> 01:11:57.700]   In three days and all of that and just switch it around, you know
+[01:11:57.700 --> 01:12:03.380]   This is your service you send up for you minutes for you and not for someone else if you want it for someone else
+[01:12:03.380 --> 01:12:06.580]   You just need to get a bundle or something like that
+[01:12:06.900 --> 01:12:13.460]   Right, and you know if if you change your address because you're moving. Hey, you know, just send this and out. We'll we'll take care of it
+[01:12:13.460 --> 01:12:18.340]   No problem whatsoever. Oh, yeah, that makes sense. Yeah, just you know, yeah, everybody, you know, keep in mind that
+[01:12:18.340 --> 01:12:22.420]   You know, people have to do something behind every question your request you ask for
+[01:12:22.420 --> 01:12:25.220]   and it's meant for
+[01:12:25.220 --> 01:12:31.700]   You know, I'm not not constant changes, but okay, that's reasonable very reasonable for a company to to say that
+[01:12:31.700 --> 01:12:36.740]   Okay, so then um how soon the changes I think you covered that you said about five to ten minutes
+[01:12:36.740 --> 01:12:42.740]   So I did at 12 20 I updated I updated I wanted to have a boost kickoff at 12 30
+[01:12:42.740 --> 01:12:47.140]   So you said give it five or ten minutes. So yeah, it's five or ten minutes after you sit
+[01:12:47.140 --> 01:12:51.860]   You have to click click update. Don't forget to click update and then it'll happen after that. Correct
+[01:12:51.860 --> 01:12:58.740]   Yes, okay now the thing about setting intentions, which is what I wanted to chat with you about
+[01:12:58.740 --> 01:13:04.420]   Like I signed up for you because I've been wrestling like a lot of people right with with weight loss
+[01:13:04.580 --> 01:13:11.380]   And I'm trying to kick into doing some intermittent fasting and it has been so brutal trying to get past that
+[01:13:11.380 --> 01:13:17.620]   You know 16 hour hump for me. And so that's why I'm saying so I'm so I'm really kind of like trying to boost up
+[01:13:17.620 --> 01:13:21.540]   Energy to kind of just push through that, you know, push through it and get through it
+[01:13:21.540 --> 01:13:25.700]   And then of course you got to do everything for 10 days before it becomes a habit
+[01:13:25.700 --> 01:13:31.540]   So I'm really trying hard and I've failed multiple times and it's been a miserable failure of an experiment
+[01:13:32.900 --> 01:13:38.180]   But so you know and I so I want to set an intention that says, you know, I will
+[01:13:38.180 --> 01:13:43.380]   I will make it. I will push through. I will be able to do it for 10 days and make it a daily habit
+[01:13:43.380 --> 01:13:45.860]   How do I do that with the use service?
+[01:13:45.860 --> 01:13:50.740]   Because I know I would just write that out and put it in my block and I have and it's not working. So
+[01:13:50.740 --> 01:13:54.180]   What do you recommend?
+[01:13:54.180 --> 01:14:01.700]   I recommend first of all that you take the weight loss card and put it in your pocket during that time when you get started
+[01:14:02.180 --> 01:14:07.460]   And then you know with the use service and intention indeed, that's where the block would come in handy
+[01:14:07.460 --> 01:14:13.460]   So I would put the intention in your block because you really can't do that with the with the use service you can
+[01:14:13.460 --> 01:14:19.300]   Resinate that and set that intention internally for you, right? It's it's sort of this
+[01:14:19.300 --> 01:14:24.500]   Internal navigator, right, you know, just try to set it on autopilot and then
+[01:14:24.500 --> 01:14:30.900]   Just ask your whole system to support it and to to go do it. I don't know if there's
+[01:14:33.060 --> 01:14:36.740]   So if the intention is to do this for 10 days and then forever
+[01:14:36.740 --> 01:14:38.820]   I don't know if you could allow yourself
+[01:14:38.820 --> 01:14:40.500]   on
+[01:14:40.500 --> 01:14:46.180]   On the weekends for example to not do it that way that's just like a personal I'm getting off track here
+[01:14:46.180 --> 01:14:48.020]   Maybe but okay
+[01:14:48.020 --> 01:14:52.740]   Possibly if you can manage this for 10 days and then maintain it for the next
+[01:14:52.740 --> 01:14:56.500]   Five days and then just on the weekends you
+[01:14:56.500 --> 01:15:00.100]   You don't do it that way and then then go back
+[01:15:00.740 --> 01:15:06.020]   Maybe that is the way to go to not forever and ever be that strict
+[01:15:06.020 --> 01:15:08.580]   Oh, yeah
+[01:15:08.580 --> 01:15:14.260]   It's yeah, because well first the first question was and I think other folks have I think a couple other folks asked that question
+[01:15:14.260 --> 01:15:20.900]   Which was can you use intentions with the upgrade service or is that something you only can do with blocks?
+[01:15:20.900 --> 01:15:27.380]   Yeah, it's way easier with the blocks. I would say and the only thing really with the use service
+[01:15:27.940 --> 01:15:32.820]   Whatever intention you have and you internalize it certainly gets supported
+[01:15:32.820 --> 01:15:38.260]   But it's something if you put an intention in the block. It really is something that
+[01:15:38.260 --> 01:15:42.020]   Vibrates there at all times and you don't really need to
+[01:15:42.020 --> 01:15:48.740]   Do anything on top of that. Okay. Yeah, okay, because if anyone's familiar with intermittent fasting
+[01:15:48.740 --> 01:15:53.780]   It's basically only eating in during a six-hour period. So you have to go 18 hours without food
+[01:15:54.260 --> 01:16:01.620]   And for me between the hours the 14 hour mark and getting to the 18 hour mark is the hardest period of time
+[01:16:01.620 --> 01:16:05.380]   It's when my body rebels and says, you know, give me food
+[01:16:05.380 --> 01:16:10.340]   Uh, and so I'm thinking if I set a booster for that time period. I just give myself a little bit of punch
+[01:16:10.340 --> 01:16:16.900]   Uh, you know to try to push through and then set the intention to push through. So yeah, there you go. Okay. No, that's that's uh, that's a good
+[01:16:16.900 --> 01:16:18.340]   That's a good
+[01:16:18.340 --> 01:16:22.660]   Good approach. Okay. So then we did talk about how to turn it off for a while, which is the pause button
+[01:16:23.060 --> 01:16:26.660]   um, and then the question we got about the seven-day free trial is, you know
+[01:16:26.660 --> 01:16:33.700]   Does a regular subscription kick in after the seven days over or do I have to do something to make it like permanent?
+[01:16:33.700 --> 01:16:41.220]   No, it happens automatically it happens automatically just if you don't want to continue you just need to
+[01:16:41.220 --> 01:16:48.100]   Uh, cancel it which you can do with the click of a button or by reaching out to customer service
+[01:16:48.100 --> 01:16:52.340]   Obviously we prefer that you click the button because that's the easiest
+[01:16:53.140 --> 01:16:56.580]   But you know, you can also send a note to customer service
+[01:16:56.580 --> 01:17:01.700]   Okay, and then if someone tries the seven-day free trial and it just they just decide that it's not for them
+[01:17:01.700 --> 01:17:04.260]   How do they not?
+[01:17:04.260 --> 01:17:06.260]   Automatically become a subscriber
+[01:17:06.260 --> 01:17:13.380]   Just like I just said, you know, you pick the button to cancel it and you can do that. There's a chance to say
+[01:17:13.380 --> 01:17:18.820]   Yeah, you can you can cancel the service. There should be somewhere
+[01:17:19.780 --> 01:17:24.420]   Okay, it's probably under my account. So I don't want to go. Yes. Okay. So there is a
+[01:17:24.420 --> 01:17:29.460]   Okay. Yes. Yes. Yes, it's it's pretty simple to do with one click literally
+[01:17:29.460 --> 01:17:36.100]   Okay, but then so if you have the the service the the free trial the seven-day free trial and let's say you
+[01:17:36.100 --> 01:17:38.580]   You cancel it on day five
+[01:17:38.580 --> 01:17:44.580]   The service will still continue until the seven days of trial are completed
+[01:17:44.980 --> 01:17:49.220]   Just so you know so that will will always happen if you wanted though
+[01:17:49.220 --> 01:17:54.260]   We had another it was just one person that it was just too much energy for her and
+[01:17:54.260 --> 01:17:58.180]   She then paused it. You know, so you can do that too
+[01:17:58.180 --> 01:18:00.900]   Okay, all right. So there you go
+[01:18:00.900 --> 01:18:06.020]   And then you mentioned too in the chat that you want to if you want to if you don't want to continue
+[01:18:06.020 --> 01:18:10.260]   You want to cancel the day before it expires, right? Not the day of
+[01:18:12.500 --> 01:18:17.140]   Don't look like a trial. Yes, definitely definitely the day before not the day off
+[01:18:17.140 --> 01:18:23.700]   And if you're already in the subscription, let's say you're in a monthly subscription, but it applies the same for the annual
+[01:18:23.700 --> 01:18:29.460]   Three months three days up to three days before the next payment
+[01:18:29.460 --> 01:18:34.820]   Dayed you should you should cancel. Okay
+[01:18:34.820 --> 01:18:37.620]   All right, that's clear. Thank you very much
+[01:18:37.940 --> 01:18:43.540]   Okay, last couple of questions and then and this kind of falls into what you're doing in the future. So
+[01:18:43.540 --> 01:18:46.100]   a lot there have been questions about
+[01:18:46.100 --> 01:18:49.780]   What are the future enhancements? There's a couple right off. I think it's from sandy D
+[01:18:49.780 --> 01:18:52.340]   So if you want to start with that, but
+[01:18:52.340 --> 01:18:58.820]   Let's talk about like this and sandy's questions here for for what services will the frequencies be available
+[01:18:58.820 --> 01:19:03.300]   And you know, then oh is it question mark only you or also other options
+[01:19:04.260 --> 01:19:09.300]   So that's a great question and I cannot answer that yet because we're not yet at that point
+[01:19:09.300 --> 01:19:14.900]   We have built it all already for our, you know, back end technology. So we know that we can
+[01:19:14.900 --> 01:19:18.820]   uh work with the frequencies and all of that, but there's
+[01:19:18.820 --> 01:19:23.860]   There's still one thing we need to figure out on the back end because as you know, we have
+[01:19:23.860 --> 01:19:25.380]   um
+[01:19:25.380 --> 01:19:27.940]   various healers and tinkers that
+[01:19:27.940 --> 01:19:31.700]   You know make amazing frequencies and we need to
+[01:19:32.580 --> 01:19:36.020]   Still think through okay. So how does this now work this model?
+[01:19:36.020 --> 01:19:39.860]   If we offer a frequency there, that's something
+[01:19:39.860 --> 01:19:43.460]   Um, you know, and maybe you even have an idea offline
+[01:19:43.460 --> 01:19:49.380]   For that that that's just one thing the other thing is that okay, where exactly do we offer it?
+[01:19:49.380 --> 01:19:51.700]   How many do we offer? I you know, I don't want to
+[01:19:51.700 --> 01:19:55.300]   Offer too many but at the same time that people may request it
+[01:19:55.300 --> 01:19:59.140]   So we'll see within the next three month at least that will be
+[01:19:59.700 --> 01:20:03.620]   available and I think within the next 30 days we'll be able to
+[01:20:03.620 --> 01:20:06.260]   announce it and
+[01:20:06.260 --> 01:20:13.220]   Yeah, that's that with with the frequencies. Okay, so but if you have a block definitely can send frequencies easily
+[01:20:13.220 --> 01:20:20.500]   Um, but this is forthcoming. Okay. All right. So there's your answer there. Uh, now same questions for the boost right sending
+[01:20:20.500 --> 01:20:29.060]   Uh, can you boost other services other than just a person can I boost my pets and my business and
+[01:20:29.780 --> 01:20:33.220]   Will there will these other options have the boost feature?
+[01:20:33.220 --> 01:20:38.020]   They already have that today already have it now. Okay. I haven't looked at it. Okay
+[01:20:38.020 --> 01:20:46.580]   Every service has the booster function and just with the pets I would be really mindful, you know, just uh, you know, just
+[01:20:46.580 --> 01:20:54.180]   Don't think these things feel these things. Okay. All right. Cool. Okay. So then let's talk about the bundles
+[01:20:54.180 --> 01:20:59.620]   Um, earlier the only question I had was, you know, people were just seeking clarification on bundles
+[01:21:00.180 --> 01:21:03.060]   Like, you know, what are the particulars about them and so forth?
+[01:21:03.060 --> 01:21:03.620]   So
+[01:21:03.620 --> 01:21:08.660]   Can you kind of just let's talk about the all-in-one bundle offer and what's coming like how it works now
+[01:21:08.660 --> 01:21:14.100]   If you already signed up for it and then what do you have planned for this this feature going forward?
+[01:21:14.100 --> 01:21:19.940]   Yeah, so all-in-one means you can literally have up to all of the services
+[01:21:19.940 --> 01:21:22.580]   That we offer
+[01:21:22.580 --> 01:21:28.340]   Um and up to one of each, right? That's what it means. Now. Let's say you don't have a pet
+[01:21:29.300 --> 01:21:36.180]   Then you can't use the pet of but you know, you could use everything else. So that's pretty much what that means
+[01:21:36.180 --> 01:21:38.740]   and
+[01:21:38.740 --> 01:21:40.740]   Very soon, I think within the next
+[01:21:40.740 --> 01:21:46.820]   Within this coming week, frankly, we will introduce more bundles
+[01:21:46.820 --> 01:21:52.340]   And that will be the so-called pick three pick four and pick five
+[01:21:52.340 --> 01:21:56.180]   So you get to basically pick in the pick three
+[01:21:56.900 --> 01:22:02.900]   Scenario pick three services of your choice. It could be three even three businesses
+[01:22:02.900 --> 01:22:09.700]   It could be three of you know, you services and then with that you cover your two kids also, right?
+[01:22:09.700 --> 01:22:15.220]   As an example, so it's much more flexible than the all-in-one bundle
+[01:22:15.220 --> 01:22:22.580]   But but again, so the all-in-one bundle really was the start and it covers up to six
+[01:22:23.300 --> 01:22:28.260]   And again, as I said, you know, if if someone is there that's like, oh, I have this all-in-one bundle
+[01:22:28.260 --> 01:22:31.300]   But the pick five is actually what I really want and need
+[01:22:31.300 --> 01:22:37.140]   You know, no worries. You can you can switch to that one. We'll make that happen for you. Okay
+[01:22:37.140 --> 01:22:42.340]   Yeah, I can see where it'd be like I basically live with two dogs. So I'm not really worried about it
+[01:22:42.340 --> 01:22:43.700]   Um
+[01:22:43.700 --> 01:22:49.300]   But if I had a spouse, we both have cars, right? So a home two cars two people
+[01:22:49.940 --> 01:22:54.900]   Two phones, so you definitely need to pick a different bundle because this is this is more like just for me
+[01:22:54.900 --> 01:22:57.220]   My house my car my pet
+[01:22:57.220 --> 01:23:03.140]   Right, so it's all yes, just one one per and then you're gonna have bundles that are to offer others. Okay, great
+[01:23:03.140 --> 01:23:05.540]   Uh, yeah, there wasn't really specific
+[01:23:05.540 --> 01:23:09.380]   Questions other than the mix and match which you just answered so that kind of handles that
+[01:23:09.380 --> 01:23:16.980]   Uh, so that really kind of wraps up the questions. I mean, was there anything else that you that maybe I didn't catch in the chat that you might want to address
+[01:23:18.820 --> 01:23:24.660]   Not really. I think we really covered it. Yeah, I can just extend a big big thanks to you for
+[01:23:24.660 --> 01:23:30.740]   For doing this and and and for having suggested that we cover this. I think this will be very helpful
+[01:23:30.740 --> 01:23:36.820]   And also thanks to everyone really in in the quantum upgrade community
+[01:23:36.820 --> 01:23:40.580]   Group, it's it's a fun group already and yeah
+[01:23:40.580 --> 01:23:46.660]   It's great that you guys asked so many questions and that you could have so many ideas also and and that you share
+[01:23:47.380 --> 01:23:53.860]   So it's uh, it's been great. Thank you and thanks also to Emma because you have for Emma. It's been also
+[01:23:53.860 --> 01:23:56.660]   Right
+[01:23:56.660 --> 01:23:59.380]   Yeah, I noticed
+[01:23:59.380 --> 01:24:01.380]   Now she's got two
+[01:24:01.380 --> 01:24:06.420]   I mean the before the poor woman, but yeah, she's working hard. I'll tell you but yeah, okay, but okay
+[01:24:06.420 --> 01:24:11.140]   So that's it. So uh, so everybody out there in the telegram community. This this is you
+[01:24:11.140 --> 01:24:14.900]   You got you are these are your questions. It's only been two weeks
+[01:24:14.980 --> 01:24:18.340]   So we wanted to put this together because it is hard to find the answer
+[01:24:18.340 --> 01:24:21.860]   So at least we can introduce everybody to the q&a and then they could just go
+[01:24:21.860 --> 01:24:27.060]   Hey, here's here's the FAQs for the first, you know for the first few weeks and it really kind of gets people over the hump
+[01:24:27.060 --> 01:24:31.060]   So hey, thanks a lot for submitting questions. Thank you philip for your time
+[01:24:31.060 --> 01:24:39.060]   Uh, this morning really couldn't do any of this without you and thank you for bringing the service to the universe. So uh, yeah, it's just absolutely cool
+[01:24:39.060 --> 01:24:40.260]   I mean
+[01:24:40.260 --> 01:24:44.740]   Folks if you haven't even looked at the studies on the website yet, you really need to
+[01:24:44.980 --> 01:24:52.420]   It is beyond amazing. What this actually does in the physical real world when people actually study it like literally under a microscope
+[01:24:52.420 --> 01:24:58.340]   Um, so yeah, it's definitely very very cool and very very real very real. Uh, so thank you philip
+[01:24:58.340 --> 01:25:04.100]   Appreciate your time today. Thank you for submitting questions and any party words. I guess I already said that
+[01:25:04.100 --> 01:25:08.580]   Thank you k and thanks to everyone out there
+[01:25:08.580 --> 01:25:12.020]   All righty. So anyone that wants to reach out to either one of us
+[01:25:12.420 --> 01:25:16.340]   Um, just come on over here. There's gonna be links in the video descriptions for the
+[01:25:16.340 --> 01:25:19.060]   Telegram chat group for the quantum upgrade
+[01:25:19.060 --> 01:25:23.380]   Uh, if you want to check me out on my blog. I'm at the tinkers.academy
+[01:25:23.380 --> 01:25:30.500]   In your in your url window. I have a blog and there's a whole section of the blog dedicated to quantum energy and delay less
+[01:25:30.500 --> 01:25:33.460]   So yeah, and again, you know, if you haven't tried it seven days free trial
+[01:25:33.460 --> 01:25:39.060]   Try it. You know, I hate to sound like a salesman, but it's free and go ahead and give it a try and
+[01:25:39.460 --> 01:25:42.660]   Um, there and really there's nothing to lose just don't forget to cancel if you don't want it
+[01:25:42.660 --> 01:25:46.980]   But anyway, thank you very much for your time everybody really appreciate it. Thank you philip
+[01:25:46.980 --> 01:25:49.380]   Uh, and aloha. I have a great day
+[01:25:49.380 --> 01:25:52.340]   You too
+

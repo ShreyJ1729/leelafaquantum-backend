@@ -1,0 +1,757 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.480",
+        "text": " Aloha, everyone, and welcome to another Tinkers Academy video. I'm your host, Keelmer, and I've got on the line, Philip Samor of Onoltsendorf, founder, owner, operator, healer, for Layla Quantum Tech. And we're going to be doing part four of the \"How to Use Layla Cube Blocks\" tutorial. And this part four is to cover a couple of new blocks that have been offered for sale on the website since we did part three."
+    },
+    {
+        "start": "00:00:28.480",
+        "end": "00:00:58.200",
+        "text": "I think about a year ago, right, Philip? It's been a bit-- yeah, about a year. So there's been two new blocks. And we want to definitely cover those two blocks. So everyone who's interested in how the charging times, the copy times, or frequencies, and so forth, we can go ahead and give you that information today. So I want to say thanks for joining me, Philip. Let me jump into the disclaimer. This is our typical disclaimer for anyone watching our tutorials that neither Layla Quantum Tech nor the Tinkers Academy recommend or endorse any specific tests."
+    },
+    {
+        "start": "00:00:58.200",
+        "end": "00:01:25.080",
+        "text": "Physicians, procedures, opinions, or other information that may be mentioned in this video rely on any information appearing and discussing this video solely at everyone's own risks. Statements made have not been evaluated by the EFSA or FDA or any governmental derivatives thereof. Layla Quantum Tech products and products that Layla Quantum Tech may represent are not intended to diagnose, treat, cure, or prevent any disease. And this includes the Layla-- I'm sorry, the Quantum Upgrades Service, all right?"
+    },
+    {
+        "start": "00:01:25.080",
+        "end": "00:01:53.840",
+        "text": "So the new blocks that I want to talk about today in part four is the travel block. And it's not really new. It came out right after we did the tutorials, so we didn't get a chance to include it. But I want to-- we're going to be covered today. And it's this little guy right here and just kind of give you a perspective on how big it is. It's actually about the size of a wine glass. So you can kind of see how little it is. It's the littlest one and still yet very powerful. And then there's this newest one, which"
+    },
+    {
+        "start": "00:01:53.840",
+        "end": "00:02:23.600",
+        "text": "was a limited edition. And maybe, Phillip, you could talk a little bit about that, called the Grand Block. And to give you an idea how big this one is, this is the largest block available. And if you can see the size here in perspective that it is quite large, it's much larger than the infinity or quantum block. So we'll talk a little bit about that here in a second. I guess we should just jump right in right now. I mean, the biggest question everyone's got is it was a special offer. I believe it ran like part of January and part of February."
+    },
+    {
+        "start": "00:02:23.600",
+        "end": "00:02:50.240",
+        "text": "And then they're just getting shipped out now. So could you kind of comment, Phillip, on when people can expect to start receiving their Grand Blocks? Yes, absolutely. So yeah, that was indeed run for just 14 days because it was a product that we don't want to have on a regular basis, because it's pretty difficult to deal with, because it's so big. The plates are so big. It's very difficult to manufacture it."
+    },
+    {
+        "start": "00:02:50.240",
+        "end": "00:03:18.760",
+        "text": "It's very difficult to actually safely move it, ship it, pack it and all of that, because there's so much potential for scratches and all of that. But it was a request from the community to have a larger block to put even a big salad bowl inside. And some people wanted to even put the whole head with the shoulders in and all of that. So that was the reason. And we're actually today starting to ship out"
+    },
+    {
+        "start": "00:03:18.760",
+        "end": "00:03:48.480",
+        "text": "these Grand Blocks, so everything has been unscheduled, like communicated at the time. And I think it will all ship here within the next seven to 10 days. And then all of the already ordered Grand Blocks will have been shipped out. And then it takes whatever it takes, how long the carrier takes it to you, and depends probably in which country you live, if you order from Europe. And since we ship from the US, it'll obviously"
+    },
+    {
+        "start": "00:03:48.480",
+        "end": "00:04:16.480",
+        "text": "take a little longer, so yeah. - Okay, so today is Friday, March 10, 2023. So everyone should be receiving their Grand Blocks in a week or two, pretty much, right? Or during the month. - Yeah, I mean, I was told by next Friday they will have been shipped. So that's what I've been told. - Right, okay, great. So that means this is a perfectly timed tutorial. For those of you getting the Grand Block and for those of you having the travel block and you've had questions. Now, in terms of the travel block,"
+    },
+    {
+        "start": "00:04:16.480",
+        "end": "00:04:45.360",
+        "text": "I know that it's, it was out of stock. So is it gonna be back in stock shortly? 'Cause I know people who've been asking that. - I think it may be in stock right now with just a few of these. And then it's probably out of stock again. And then I would say around March 18th, 19th, or 20th, it should be back in stock. And then it also will be a little bit stronger and more powerful than before. It was already powerful before,"
+    },
+    {
+        "start": "00:04:45.360",
+        "end": "00:05:14.440",
+        "text": "but we decided to, yeah, further upgrade it. The little travel block. So then charging foods on the go can go even quicker. - All right, great. So now what this gives Layla Quantum Tech is there's four blocks now. The original two were the quantum and the infinity blocks. So again, you've got this little travel block now and you've got the Grand Block. And the first thing I want to comment on, Philip, is, and just to share with everybody that's got blocks,"
+    },
+    {
+        "start": "00:05:14.440",
+        "end": "00:05:43.520",
+        "text": "is that the use cases for the new blocks are the same as the existing blocks. And what I mean by use cases is like, what are they for? How do you use them? So, Philip, if you could correct me if I'm wrong, but bottom line is that even though they're new blocks, but they still do what the older blocks will do as well. So any one of the four has the ability to, number one, broadcast quantum energy and/or frequencies, if you place a frequency source inside the block, meaning it broadcasts it out from the center"
+    },
+    {
+        "start": "00:05:43.520",
+        "end": "00:06:11.480",
+        "text": "of the block, outwards into a field. We'll cover the sides of the fields here in the next slide. And also, you can use any one of these four blocks to charge objects, charge people, pets, plants. And you can even charge places by putting a picture inside these blocks, any one of the four. You can use any one of the four to copy frequencies, but with the caveat that the stronger blocks have a limitation as to certain kinds of frequencies."
+    },
+    {
+        "start": "00:06:11.480",
+        "end": "00:06:40.200",
+        "text": "We'll cover that in a couple of slides. And also that the new blocks, like the existing blocks, will send quantum energy or frequencies long distance through the concept of remote healing/quantum healing. So, is that correct? Is there anything else that the new blocks could do that the other blocks don't? I guess it's the question, Philip? Or this, they're all basically, I'm trying to say they're all basically have the same abilities."
+    },
+    {
+        "start": "00:06:40.200",
+        "end": "00:07:07.720",
+        "text": "That's what I'm trying to say, but I just wanted to quantify that with you. - Yeah, well, they work differently and have different abilities. The use cases are the same. And just for the listeners out there, in number two, where it says charging objects, obviously, water and groceries would be an important point, but that's covered on their objects. But for anyone new out there, obviously that is a use case also for all of these blocks."
+    },
+    {
+        "start": "00:07:08.680",
+        "end": "00:07:37.920",
+        "text": "Now, okay, I'm gonna add that onto the slide. And then, yeah, definitely, by the way, on my blog, I'll condense all of this and it's all gonna be available as a slide, like a quick reference. So, okay, so definitely charging objects, food and water, people, okay, great. Okay, so let's get into the actual specifics or the specifications for these blocks. Now, we've got the original quantum infinity block. That's what we covered in part one through three of the tutorial. And then, so you've added the travel block"
+    },
+    {
+        "start": "00:07:37.920",
+        "end": "00:08:07.120",
+        "text": "and the ground block now. So, I do know on the travel block, the size of it is four inches by four inches by six inches tall. So, now, is the field, okay, I believe it's 100 meters, right? Is that correct? - Yes, it's 100 to 150 meters. - Okay. Now, when you actually produce the newer one. - No, to 150 meters. I think that's actually what we measured 150. So, you may as well just put 150 there."
+    },
+    {
+        "start": "00:08:07.120",
+        "end": "00:08:35.360",
+        "text": "- Okay. - And we measured about 75, 70 to 75 meters EMF mitigation. - Okay, okay, so it quantified for folks who don't know what he just said. (laughs) Is the studies have come back that the EMF effect of a block is within the 40% closest to the center, which is the block itself, right? So, let's say, just for semantics."
+    },
+    {
+        "start": "00:08:35.360",
+        "end": "00:09:04.360",
+        "text": "If the field was 100 meters, right? The first 40% or the first 40 meters of the field, the ball around the block, is where you're gonna get that EMF mitigation effect. Anything outside of that, it's not as pronounced, right? So, you always wanna basically place the block closest to what you want to protect from EMF, which would be, you know, where you guys live,"
+    },
+    {
+        "start": "00:09:04.360",
+        "end": "00:09:33.360",
+        "text": "you know, like sleep and so forth. So, it's 150 meters. So, now on the grand block, how big is the field for the grand block? - I do not know that. - Oh, okay. (laughs) I haven't measured it. (laughs) - But, I will let you know once we know and once we've measured it. So, my guess at this point is it's probably two kilometers. That's my guess. - Okay. - Feel free to quote me in there right now"
+    },
+    {
+        "start": "00:09:33.360",
+        "end": "00:10:02.680",
+        "text": "and put in two kilometers. And I will send you a clear number here in the next seven days or so. - Okay. So, yeah, when I post the quick reference guide and we put it in the chat group, we'll have this updated. So, right now it's just, it's a guesstimate of two kilometers. That's pretty wild because the infinity block is one. So, that's huge. Which also implies, right, that the 40% EMF field is way bigger as well."
+    },
+    {
+        "start": "00:10:02.680",
+        "end": "00:10:30.600",
+        "text": "Okay, so then, when people receive the travel block and like any of the other blocks, when they assemble them, they should wait two to three hours before they start using it to charge copy and so forth. Is that the same with the travel block and as well as the grand block? Is it two to three hours after you assemble it is when it's ready and it's kind of like established its field? Is that the same timeframe? - Yes. And it may only take one hour. So, we're always a little bit more on the conservative side"
+    },
+    {
+        "start": "00:10:30.600",
+        "end": "00:11:01.920",
+        "text": "when we give out these guidelines. So, usually it's an hour, but it can take up to two, three hours, depending on where it's actually set up. And the energy is noticeable right away, to be honest. You know, it won't take more than five minutes until you have a strong field there. But then it changes. Like if you were to calibrate it after 10 minutes, after 30 minutes, after 60 minutes, you will see an increase on the Hawkins scale. And it's moving quite clearly."
+    },
+    {
+        "start": "00:11:01.920",
+        "end": "00:11:30.480",
+        "text": "And then at some point, it's leveling out, if that makes sense. - All right. Yeah, so, and then I know that the little brochure that comes with the block says 24, but that's kind of like the original back, like when you started, right? You figured it took 24, but now we've got a more refined number. So, I don't know if you'll have a chance to upgrade or update the little brochure, but so people do get a little confused. So, if you get a brochure that says 24 hours,"
+    },
+    {
+        "start": "00:11:30.480",
+        "end": "00:11:58.840",
+        "text": "just kind of know that, you know, two to three is the sweet spot. And you're ready to go at two to three hours. Okay. - Yeah. And so the 24 hours is rather also meant for people that have a two infinity blocks, so the infinity block package. And when they do upgrades, and we still recommend that today, like don't do your upgrade in the first 24 hours, wait at least 24 hours to do an upgrade. - Okay. Oh, that's really good to know. Okay, so all right, so 24 hours,"
+    },
+    {
+        "start": "00:11:58.840",
+        "end": "00:12:28.160",
+        "text": "if you're gonna be upgrading infinity blocks, but everybody else, when you set up your block two to three hours, and that's ready to go. Now, if I were to, let's say I wanna charge something big, and I take the rods off, and then I put the plates up where they're facing each other again. How long, and it's at one minute before the field is reestablished itself. You know, when I... - Yeah, yeah, it's... - Separate the plates. How long does it take for a long time? - One to three minutes, one to three minutes. - Is that for all of them?"
+    },
+    {
+        "start": "00:12:28.160",
+        "end": "00:12:57.400",
+        "text": "You would say? - Yeah, I would say it's for all of them. - Okay, I'm gonna update them. - Usually after one minute, so I mean, you can... Yeah, I mean, there's... If there's maybe a 5%, 5% difference, then after a minute, you know, then that's not worth bothering about, so yeah. - Okay, and I also wanna stress, and correct me if I'm wrong, that when you separate the, a block, and you take the rods off and you separate the plates,"
+    },
+    {
+        "start": "00:12:57.400",
+        "end": "00:13:25.440",
+        "text": "you need to keep the plates facing each other, right? I mean, otherwise, the field just doesn't form. - Yes. - So... - Correct, yeah. - If you lay them next to each other on the... - Right, or you lay them on top of each other. - There's not gonna be any field at all. - So you have to position the separated plates as if the rods were there, so that they're in alignment with each other, okay? Everybody, so even like for myself, I have one of my infinity blocks, it disassembled at all times,"
+    },
+    {
+        "start": "00:13:25.440",
+        "end": "00:13:55.000",
+        "text": "and I use it in my kitchen that way I could, you know, I could separate the plates really super easy if I wanna like charge a bag of potatoes, and then, you know, so forth, so... But when I store them on the counter, they're always facing each other, so that the field is always sitting there, right? So keep in mind that you wanna keep them lined up when they're separated. The other thing too now is when you do separate the plates, there's this idea of what's the farthest distance you can have the plates separated from each other"
+    },
+    {
+        "start": "00:13:55.000",
+        "end": "00:14:24.840",
+        "text": "aligned as if the rods were on, in order to charge really big things, like cars, boats, kitchen appliances, you know, beds, whatever you wanna charge, that's huge. So we did kind of mention, I think in the infinity block, it was like five meters roughly, you know, like 25 feet, or 20, well, that five times 15 feet. So the travel block was about three meters. What would you say would be the grand block? If I separated the plates of the grand block,"
+    },
+    {
+        "start": "00:14:24.840",
+        "end": "00:14:53.680",
+        "text": "how far apart does it, can you separate them so that you still have a field? - That's a good question. I would say safely, probably seven meters easily. - Okay, so it's definitely a lot bigger for folks of you. I mean, I've actually had people in the chat group that have separated their plates and literally charged their car a little bit at a time, you know, 'cause they've worked up a way"
+    },
+    {
+        "start": "00:14:53.680",
+        "end": "00:15:23.440",
+        "text": "to charge their vehicle and so forth, charge your bicycle, for those of you guys who write bikes, charge your fishing rod, you know, (laughs) big things like that. So yeah, there you go, it's so seven meters. But then here's the length of distance between plates when you wanna charge bigger things. Now for consciousness level, this is something that, you know, we get asked about a lot. And so we've got the quantum and the infinity block, you know, quantum's at 571, 733 for infinity. So now you mentioned that the travel block"
+    },
+    {
+        "start": "00:15:23.440",
+        "end": "00:15:54.400",
+        "text": "that the original first, let's say batch, that all everybody bought between when it got launched to most recently now, the consciousness level of the travel block was 700, very close to the infinity. Do you have an idea of what the new one will be? - I'm pretty certain it will be over a thousand. - Okay. - And how much I'll let you know once we've actually done it. - Okay, all right."
+    },
+    {
+        "start": "00:15:54.400",
+        "end": "00:16:24.320",
+        "text": "So it's definitely gonna be a lot stronger. And then so now the grand block was advertised at the consciousness level of 1800, correct? - Yes, and I think it'll, it's at 2000. - Oh, okay, it's at over 1,800, but it's looking more like 2000. - Okay, and I do have a question about that. It's just my personal question. I was thinking about, you know, the little pyramid and all of you are familiar with it."
+    },
+    {
+        "start": "00:16:24.320",
+        "end": "00:16:53.720",
+        "text": "If not, I'll put a link below on the little handout that Layla provides when people have questions about the Hawkins scale. But when you look at the, you know, if you picture in your mind, Phillip, you know, that little pyramid, right? And at the very top of it, it's like that, you know, Hawkins thought, you know, it was like 30 years ago or 40 years ago when he wrote the book that, you know, when you reach the top of that pyramid from zero to a thousand, that that was the most you could reach at that time. And then of course, things have changed."
+    },
+    {
+        "start": "00:16:53.720",
+        "end": "00:17:23.440",
+        "text": "So I'm just wondering, you know, is the top of the pyramid now because of just, and there's a lot of reasons where I won't get too deep into it, but, you know, is the top of the pyramid now 2000, right? Is it, is that the most that humans can attain to at this day and age or have we surpassed the top of the pyramid? And we've gone on to actually evolve into a whole different type of pyramid where Hawkins is on the bottom and then there's something even above it. So you see what I'm saying?"
+    },
+    {
+        "start": "00:17:23.440",
+        "end": "00:17:52.360",
+        "text": "Is the top of the pyramid 2000? Or are we literally going above that pyramid into a whole nother realm that has yet to be defined? What would be your thoughts on that? - Yep. So, I mean, the Hawkins scale doesn't just apply to humans. It's for anything, right? So it basically measures the vibrational level of a location, of an object, of a human and so on and so on. So it really is not just for humans, that's important."
+    },
+    {
+        "start": "00:17:52.360",
+        "end": "00:18:20.920",
+        "text": "So it does not at all say anything about what humans, where humans can be because it includes all these other objects and locations as well. No, 2000 is not the top. I don't know where the top is, to be honest, it's definitely not 2000 because we're already higher than 2000 with what we're using. But it keeps changing."
+    },
+    {
+        "start": "00:18:20.920",
+        "end": "00:18:48.120",
+        "text": "So it's, I don't think it can be a static scale anymore really. I think it's so helpful as a scale and from the logic and everything. And it's just an amazing reference, but we've surpassed that in a way and that happened mainly because the energies on Earth and off Earth completely shifted. Roman described that already 10 years ago"
+    },
+    {
+        "start": "00:18:48.120",
+        "end": "00:19:19.320",
+        "text": "as the Earth has now become a conscious creator. Okay, so that's his way of saying that. What it also means is that Earth basically became completely free of any other energies and forces and restrictions and that and can create and create and frequencies are coming out and have been coming out in the last 10 years out of the Earth that are absolutely incredible."
+    },
+    {
+        "start": "00:19:19.320",
+        "end": "00:19:48.560",
+        "text": "And the environment is now there for all beings on Earth to also reach that and to become conscious creators, if you will, and to be free of these lower levels of vibration. And that's quite frankly where humanity is at at the moment. And I don't think anyone can really say, what levels will we see here in the year or two or three?"
+    },
+    {
+        "start": "00:19:48.560",
+        "end": "00:20:17.600",
+        "text": "At this point, we see that each year, we are able to have advancements and to provide even higher levels on the Hawkins scale. I must say though, that also came with developments like the harmony feature and the buffer because you could not have a regular infinity block vibrating at the level 2000 and not sweat like heck because of it."
+    },
+    {
+        "start": "00:20:17.600",
+        "end": "00:20:47.000",
+        "text": "Because it's just, it's the same consciousness level but it's much more forceful. It's very hard to understand but it would make you sweat literally. - Yeah, I've actually heard your interviews about people at the biohacking conference as a one individual wearing, I think an or a ring or a Fitbit or something. Every time they get closer to the block on your side of the hall in the biohacking conference"
+    },
+    {
+        "start": "00:20:47.000",
+        "end": "00:21:15.920",
+        "text": "they literally watched their HRV go up. And it definitely was biologically affecting them because of the level of, just the level of energy that was coming out of the block. So I was really fascinating to hear that story. So I guess I don't want to get too deep into it. I mean, this would make a great other video but bottom line though is I was so curious as to like, you're creating these blocks now and products that are above a thousand. And so I was wondering like, how does that relate to the existing one?"
+    },
+    {
+        "start": "00:21:15.920",
+        "end": "00:21:44.840",
+        "text": "So you're saying is that Hawkins kind of predicted like 40 years ago that you reach a thousand, you're into that whole self realization section right here which is really when, is what the blocks actually do. It's all about self realization. It takes you from basically victim abuse or consciousness into self empowerment. And then you get, when you get into these quantum products you start getting into self realization. And then Hawkins thought you could get up to a full consciousness at a thousand. But what you're saying right now Phillip"
+    },
+    {
+        "start": "00:21:44.840",
+        "end": "00:22:13.880",
+        "text": "and I guess without getting too deep into it but there's this whole idea of surpassing 1000 and not just becoming fully conscious but becoming a conscious creator which is a whole nother term. And I think that eventually we could probably talk a lot more about this in the future but I just find it so fascinating. So it is completely possible to go above a thousand and you're actually surpassing full consciousness into a whole new realm of self realization. And I'll just use your phrasing there on conscious creators."
+    },
+    {
+        "start": "00:22:13.880",
+        "end": "00:22:42.880",
+        "text": "So yeah, that's really cool. I mean, I personally, my story itself as I went through this bottom all the way up using these tools. And so I know exactly what that means to an individual. So yeah, very, very cool. So right now then the grand block is probably your highest product. So I do have the question out there in the field where we've gotten a question. It's like, if I were to charge an object, let's say a piece of jewelry"
+    },
+    {
+        "start": "00:22:42.880",
+        "end": "00:23:11.360",
+        "text": "and I charge it in an infinity block, does it pick up the 733? So does the item itself then have embedded within it? A 733 level of consciousness? Is that how the concept of charge? Okay, could you explain that? 'Cause people were saying, oh, if I put a 2000, if I put something in the grand block, does that something now have a 2000 level of consciousness? Or is it just the block has it? And then so does the item itself pick up that?"
+    },
+    {
+        "start": "00:23:11.360",
+        "end": "00:23:39.480",
+        "text": "So could you kind of explain that? - Yeah, so that never happens that an object you put into a block, then vibrate as high as the block itself. That's just because of the nature of the block because it's a multi-dimensional quantum energy space. And it's really a very high consciousness field. And that does not happen. That's just a regular object that doesn't even have a multi-dimensional space"
+    },
+    {
+        "start": "00:23:39.480",
+        "end": "00:24:07.240",
+        "text": "then suddenly has the same consciousness level. But what happens is the higher the vibration or the Hawkins scale level of a block, the higher will also be the Hawkins level of the object you put in. So there's a very clear, quite linear development. Also, if I put a capsule in the quantum block, it vibrates at X. Then if I put it in infinity block,"
+    },
+    {
+        "start": "00:24:07.240",
+        "end": "00:24:35.920",
+        "text": "it gradually vibrates higher and can be calibrated on the Hawkins scale is higher. Then I put it in the 7G vibrates even higher. If I put it in the grand block, it vibrates even higher, but it never matches what the block is in. That never happens. - Okay, all right. No, thanks for that clarification. So the other question here is I kind of added a new section here for the attributes,"
+    },
+    {
+        "start": "00:24:35.920",
+        "end": "00:25:05.200",
+        "text": "which is you mentioned that the travel and grand block because there's much stronger than the other the first two blocks is that they have this thing called a special buffer and harmony feature. So I put no for quantum infinity, but I put yes that these two new blocks have this feature, is that correct? - Yes, that's absolutely correct. And we are thinking about putting that also into the infinity blocks."
+    },
+    {
+        "start": "00:25:05.200",
+        "end": "00:25:34.280",
+        "text": "I don't think we will ever put it in the quantum block because for that, it's frankly not necessarily at all. And the quantum block, as you all know, has very specific applications also for, from a suitable neutralization and 100 frequency medicine and so on. But for the infinity block, hopefully at some point we'll be able to also integrate it, but that's a larger development also because of the way it works with the infinity block upgrade."
+    },
+    {
+        "start": "00:25:34.280",
+        "end": "00:26:03.480",
+        "text": "But yeah, we're thinking about it. And the harmony, the special harmony feature and buffer mechanism do two things mainly. One is it's even more harmonious with the human cells. So that even at higher levels, you can tolerate them way easier and be exposed to them without your nervous system getting too overwhelmed, nor with two strong detox effects."
+    },
+    {
+        "start": "00:26:03.480",
+        "end": "00:26:30.880",
+        "text": "Up to a certain point, right? You know, you can also do too much obviously there, but let's say the level 800 on the Hawkins scale if that was the regular infinity block. And someone is new to this, probably after five minutes of having the hands in there, they would start sweating. And if they put it in a travel block with 800,"
+    },
+    {
+        "start": "00:26:30.880",
+        "end": "00:27:00.320",
+        "text": "then it would take way, way longer until they sweat, if that makes sense. And it also has the benefit if you have people that you invite in your home, for example, that are not used to these types of energies with an infinity block. They are exposed to these high levels and it's not buffered. So they'll be okay, right?"
+    },
+    {
+        "start": "00:27:00.320",
+        "end": "00:27:28.720",
+        "text": "Because it's a positive energy, but it may be challenging for some. And with the travel block and the grand block, it basically buffers it down to what that person can tolerate. And again, it also has limitations, but these limitations are far, far wider than you would see it in an infinity block, if that makes sense. - Yeah, no, it does make sense."
+    },
+    {
+        "start": "00:27:28.720",
+        "end": "00:27:57.520",
+        "text": "So yeah, so definitely if you're brand new to quantum energy, you're probably gonna wanna lean towards something that has that buffer in it, otherwise start off with a much lower object, like a card or a capsule and kind of just build up to it. 'Cause there's been a lot of reports lately, right, about the detox effect from having these extremely strong products around. So it's something to keep in mind that there is a detox effect"
+    },
+    {
+        "start": "00:27:57.520",
+        "end": "00:28:26.560",
+        "text": "because you physically are gonna have a reaction to this energy. It's all positive, but bottom line though, is if you got a lot of accumulated stuff inside of you and it all starts to get harmonized, it causes a detox effect. - Okay, but yeah, thanks for explaining that. I think that's really helpful to try to understand what that feature is. So yeah, right here we've got the travel and the grand, the brand new blocks do have that feature and it definitely helps people that are new to quantum energy."
+    },
+    {
+        "start": "00:28:26.560",
+        "end": "00:28:55.120",
+        "text": "So now the next piece here is the idea of charging people pets and photos. And I guess people pets and that kind of like right in here, people pets and food and water is kind of the same thing. Is that, would that be correct? I'll just kind of add something here. 'Cause I want to kind of get it. - That's correct. - People pets, food and water. Okay, so people know how this works. So we did, in the last tutorial, right, part one through three, we kind of defined how long it takes to charge"
+    },
+    {
+        "start": "00:28:55.120",
+        "end": "00:29:24.640",
+        "text": "or what the recommended guidance for charge. - Oh, sorry, Kay. - Yeah. - So I mean, food and water should be a separate line and not together with people and pets because that really is not the same because you could be in there for two hours probably already now, right? But you don't really want to put your water in there for two hours. - Okay, all right, good to know. - Okay. - Okay, so we got people in pets, food and water, photos."
+    },
+    {
+        "start": "00:29:24.640",
+        "end": "00:29:52.920",
+        "text": "So let's just start with food and water. Okay, let me just fill this out then. So right here, we've got the cube lock, five minutes for, if the person or the pet has never experienced quantum energy before in a cube lock, if you're new to it, five minutes, if you're experienced, do it 20 minutes at a time. Eye block was new, brand new to it, two to three minutes. If you're experienced with it,"
+    },
+    {
+        "start": "00:29:52.920",
+        "end": "00:30:20.840",
+        "text": "you could, five minutes at a time is a really good amount to give you a good charge. Of course, you can always be in there longer. I'm very, I mean, I've been around these tools for so long that I literally, I do like, you know, I'll watch a whole TV show and just have my hand in my IB. So, and I get a really, really positive benefit from that. So when you, for the travel block, let's put this in here."
+    },
+    {
+        "start": "00:30:20.840",
+        "end": "00:30:49.080",
+        "text": "What do you recommend if someone's new to the travel block, you know, what's the first time you'd be, you know, put your hand in there, put your, or put, you know, put your pet in there between the plates or something like that? Is it-- - Easily double the amount. - For if you're new? - Yep, easily double the amount. Yeah, it's because of this harmony feature. - Okay. - Yep. - And if you're experienced, you could go 10 minutes. - Yeah. - Okay, then for travel block. - No problem. - Sure."
+    },
+    {
+        "start": "00:30:49.080",
+        "end": "00:31:17.560",
+        "text": "And then travel block, is it the same as, I mean, the grand block, would it be the same as the travel? - Well, with the grand block, I would, it's a good question. I think I would go down to the infinity block recommendations. - Okay. - It's just so much stronger. - Right. - And there's still like a bunch of tests that we wanna run. For a moment, I'd rather be on the cautious side."
+    },
+    {
+        "start": "00:31:17.560",
+        "end": "00:31:46.760",
+        "text": "And then, you know, people are listening, obviously, you know, feel in, you know, if you do this for three, four minutes and you feel you wanna do another four minutes and it feels great, go ahead, do it, you know? - Okay. - No one keeping you from doing that. - Yeah. - So I just know, based on all the years I've spent in our group, I just know that the first reaction everybody has when they get their grand block, you know, they're gonna stick their head in it. So if you stick your head in it and you've never had your head in a block before,"
+    },
+    {
+        "start": "00:31:46.760",
+        "end": "00:32:15.760",
+        "text": "you know, follow the guidelines, all right, guys? Don't do what I did once where I put together, or I separated my eye block plates and I fell asleep for five hours with my head between the plates, which might explain how I'm the way I am. So, yeah, so don't do five hours. But yeah, follow the guidelines, everybody, when you get your grand blocks, I know you're gonna put your head in there and just, I just know it. Okay, so now for charging food and water for the cube block, what would you, what is that gonna be?"
+    },
+    {
+        "start": "00:32:15.760",
+        "end": "00:32:44.920",
+        "text": "Is that, do you remember off the top? Yeah, go ahead. - Yeah, I mean, it, I think the five minutes is actually fine. So whatever was there for the new people kind of indeed matches that a little bit. So three to five minutes, that's what I would say. So the Emota Institute tested three minutes for the quantum block. So, and that was perfect, right? So we know that after three minutes, it should be absolutely fine, but feel free to leave it in there for as long as five minutes."
+    },
+    {
+        "start": "00:32:44.920",
+        "end": "00:33:13.920",
+        "text": "And you can also do longer, right? So that's one of those things. Like we, when we initially checked all of that, we checked, okay, what's the energetic level of the substance and, you know, what's then also good for people? We did not look at people with food allergies, okay? So we looked at just normal individuals that can tolerate these substances. And then, you know, when was basically enough life force energy in these products in order to take them out again? That's what we've always recommended."
+    },
+    {
+        "start": "00:33:13.920",
+        "end": "00:33:41.280",
+        "text": "Now over time, we've heard from the community, you know, how people were able to basically get rid of food allergies when they, at least temporarily, when they charged foods in the box. That's been now somewhat verified in pilot studies and we're still working on it, so don't try it at home. But what has been found is that the levels actually of charging would be longer."
+    },
+    {
+        "start": "00:33:41.280",
+        "end": "00:34:09.760",
+        "text": "So if you wanna have these effects to reduce the stress response of sugar, for example. And there we see for the travel block and infinity block, at least four minutes of charging. And I think that's important to say, for the grand block that may, three minutes may be already enough. It's just something we haven't tested that for that specific application yet."
+    },
+    {
+        "start": "00:34:09.760",
+        "end": "00:34:39.440",
+        "text": "So I would do maybe three minutes, grand block. And yeah, that should be, that should be great. - Okay. - And then again, that is for food allergies, right? - Okay, okay. So then that's the food and water. And then for the travel block and the grand block, as it relates to putting photos of people, pets, places, what would be your recommendation?"
+    },
+    {
+        "start": "00:34:39.440",
+        "end": "00:35:09.880",
+        "text": "Before the other ones were, you know, there's a difference between new to it versus experience with it, quantum energy, no maximum on objects, meaning, I guess I would apply to places as well that there's no maximum time you could, you have to worry about putting a photo in of an object or like of a place. And then the max for people, pets and places, I think was like 10 minutes, I guess that's what that, I forgot what the PPP meant, I'm sorry."
+    },
+    {
+        "start": "00:35:09.880",
+        "end": "00:35:37.440",
+        "text": "So what would you recommend for, you know, using photos for travel and grand? PPP is probably pets people, plants. - Yeah. (laughing) - That's what I'm thinking too. - It's been a while since we did that through time. (laughing) - Okay, so. - And then, yeah. - Yeah. - Yeah, I think it's for the travel block, you know, now we need to be a little bit careful because we're increasing the levels,"
+    },
+    {
+        "start": "00:35:37.440",
+        "end": "00:36:06.480",
+        "text": "but for the levels so far, I think you can use the times that we're done with the quantum block. - I think that's that's safe. - Travel should equal quantum? - Yep. - Okay. All right, so if you do photos, you wanna follow the same with the travel block, you wanna follow the same guide for quantum block."
+    },
+    {
+        "start": "00:36:06.480",
+        "end": "00:36:35.800",
+        "text": "Now, if I use the grand block, would I follow the same as the infinity block? I would, yeah, that's what I would do. That would be my recommendation at first and then see how it is for you and then you can go from there. - Okay, all right, great. Now for plants, what would you recommend for charging plants? - Well,"
+    },
+    {
+        "start": "00:36:35.800",
+        "end": "00:37:03.560",
+        "text": "I think I would copy the infinity block recommendations for the other ones like you've just intuitively done. Yeah, I'd leave it at that. - Okay, and remember, and so with plants now, if they're full grown, it's the 10 seconds, maximum one minute to charge a plant. Any idea for charging seeds? I got that, you know, 'cause it's spring, right? Everyone's starting to plant their stuff."
+    },
+    {
+        "start": "00:37:03.560",
+        "end": "00:37:31.760",
+        "text": "Is seeds something different than if I just charged a plant? - So by the way, I would do, I would do 50 in seconds, not 10 seconds. - For the stronger blocks, right? - Yeah, yep. - Okay. - Yeah, well, also for the infinity block, I would do 15 seconds. I don't know why I said 10, but 10 is probably already enough, but I would still just intuitively say 15."
+    },
+    {
+        "start": "00:37:31.760",
+        "end": "00:38:03.120",
+        "text": "And with seeds, I would keep it at the full growth, the same as the full growth. - Okay, that makes sense. - Okay. - Because seeds are very sensitive, so I think you can overcharge the seeds, and it's not necessarily, it's so quick. - Okay, all right, so I'll make a note here on this thing when we're done. Okay, so seeds follow the cube block recommendations."
+    },
+    {
+        "start": "00:38:03.120",
+        "end": "00:38:31.600",
+        "text": "Now for metal, clothing and crystals, et cetera, stones in your garden, jewelry, you know, all that, you know, anything, pots, pans, utensils, all that. You've got eye block, 15 to 60 seconds, will charge that item maximum three minutes. Is that similar to travel and grand? - Yeah, well, the grand block is less. I would say the first is good, that's fine, but the maximum I would say,"
+    },
+    {
+        "start": "00:38:34.880",
+        "end": "00:39:04.440",
+        "text": "yeah, probably two minutes. - Okay, so for the grand, it's 15 to 60 seconds to charge an object, maximum two minutes before it's fully charged. Travel, is that the same as infinity? - Yeah, I would just not go over charging metals for more than two minutes in a grand block. - Okay, all right, good. Now for electronics, it's always been a really interesting topic, because that's something, and I think electronics and clothing, right,"
+    },
+    {
+        "start": "00:39:04.440",
+        "end": "00:39:33.040",
+        "text": "like shoes and things like that, I do know that from past experience that something that's super soft, like clothing, shoes, also electronics, that they kind of need to be recharged every now and then, right? So I guess the idea here is on infinity block, if you had electronics, I think it's the same as clothing, right, would that be the same? Could I just put electronics and maybe clothing should be more like electronics in terms of the timeframes"
+    },
+    {
+        "start": "00:39:33.040",
+        "end": "00:40:01.800",
+        "text": "or clothing can fall in this category? - Well, yeah, I mean, you could put clothing actually down as long as it's not metal clothing. - Okay. Okay, all right, so then-- - Crystals that would leave with a metal just because, again, crystals, we don't wanna overcharge the crystals. - Okay, all right, I just wanna-- - This is not fun for the crystal. - Yeah, I kind of always feel really intuitively,"
+    },
+    {
+        "start": "00:40:01.800",
+        "end": "00:40:30.720",
+        "text": "it's not a good idea 'cause crystals are magical things and it's like homeopathy or anything, it's like just, it has its own thing going on. I try not to mess with it. - They love to be charged, like, I mean, charging crystals is one of the best things you can do for the crystal, but again, there's really a limit to it and more is not necessarily better. It really works so quickly, even with the Murian crystals that are completely dormant, they wake up within a minute"
+    },
+    {
+        "start": "00:40:30.720",
+        "end": "00:41:00.040",
+        "text": "you can leave them in for two minutes or so, no problem, but then that's fine, right? Then they don't need to. If you light a candle and it's lit, you don't have to light it again, right? That's kind of the thing. - Okay, all right, no, that's great. Yeah, we had a quick question. Is cleansing how to cleanse a crystal after it's been used for a while or in the hands of someone with energy that's not positive? You don't wanna cleanse it."
+    },
+    {
+        "start": "00:41:00.040",
+        "end": "00:41:27.320",
+        "text": "Normally, it's like the old days was you were told to, like soak it in seawater overnight or put out in the sun for a day. So is charging somewhat the same thing in terms of cleansing crystals? If I wanted to cleanse a crystal, could I just put it in a block and that would do the same thing, leaving it outside? Okay, all right, that was the fastest way. - Oh, yeah, way faster, okay, great. Now, again-- - And by the way here, go ahead. - Yeah, the grand block regarding electronics,"
+    },
+    {
+        "start": "00:41:27.320",
+        "end": "00:41:55.880",
+        "text": "I would definitely cut that time in half here, five to 10 minutes, I would put that to maybe two to five minutes. - Okay, and then recharge every three to six months? - Yeah, I think that is the same. - Okay, so that's kind of the thing for everybody, I mean, highly recommended if you have a cell phone or you know, Wi-Fi router or any of that kind of stuff,"
+    },
+    {
+        "start": "00:41:55.880",
+        "end": "00:42:24.200",
+        "text": "put it in your block, depending on which block you have, here are the timeframes for them, and then definitely, you know, you want to remember to recharge them every three to six months 'cause they do kind of like, that's the only thing that we know of where the energy kind of starts to fade. So just want to make sure, so the travel block would be the same as infinity, right, when it comes to electronics and clothing? 30 seconds, five to 10 max, okay, we charge every three. Okay, great, so there's that."
+    },
+    {
+        "start": "00:42:24.200",
+        "end": "00:42:52.920",
+        "text": "The next one here is using these blocks, the new blocks for copying frequencies, and this was part of the original tutorial, really important to realize that the stronger blocks you do not want to use to copy pharmaceuticals and homeopathy, and we explain that in the prior tutorial, I don't want to go into it too much of why, but that's just the guidance. So for travel and grand block, what would you recommend for, you know, using, if I wanted to use these two blocks"
+    },
+    {
+        "start": "00:42:52.920",
+        "end": "00:43:22.720",
+        "text": "for copying a frequency of plants and herbs, essential oils and supplements, would it still be the same as the eye block or would it be less? - Yes, no, I would do the same thing at the eye block, and I would never go under 10 seconds. - Same for the grand block? - Yes. - Okay, great, and then would you still, and I'm assuming, right, that the recommendation to do not use for pharmaceuticals and homeopathy,"
+    },
+    {
+        "start": "00:43:22.720",
+        "end": "00:43:50.840",
+        "text": "which stands for the travel and grand? - Correct. - Okay, all right. Okay, yeah, 'cause that's a big question we have to when healers join the community, you know, homeopathy, folks, and I'm always telling them, you know, you don't want to use these stronger blocks with them, right? Bottom line is homeopathy and pharmaceuticals are dialed in to a specific thing, and if you charge them, it changes that. So it's really hard to try to,"
+    },
+    {
+        "start": "00:43:50.840",
+        "end": "00:44:19.480",
+        "text": "you don't want to use a stronger block, and if you want to copy them, use the Q block, but remember that what you take out of that block is no different than what you put in, right? - Yep. - But you can definitely copy them and charge them. Okay, now I know we're sensitive on time, you've only got about what, 10 minutes, Max? I just don't want to know if we could cover the other subjects here, I just want to make sure we're-- - Yeah, we can go another 15 minutes. - Okay, great, okay, thank you so much. I do have a couple of other things that have popped up"
+    },
+    {
+        "start": "00:44:19.480",
+        "end": "00:44:49.200",
+        "text": "in the telegram chat group that I want to kind of cover, and this is something that I had happened, which was the difference between using a photo in a block versus using the quantum upgrade for the U subscription, right? And the quick story on this was the other day, and Philip corrected me, and I want to make sure that everybody understands what, 'cause I actually learned something that day. Somebody came in onto the quantum upgrade chat group, and their mother was suffering from a problem, and so I offered, and I kind of do this all the time,"
+    },
+    {
+        "start": "00:44:49.200",
+        "end": "00:45:17.120",
+        "text": "and I decided to say, \"Hey, I'll give me a picture, \"and I'll throw her in the block.\" So I put her in my infinity block with the heel frequency, but I forgot to ask her, \"Oh, by the way, \"do you already have this person signed up for you,\" right? And so then, I also made this other comment, was like, \"Oh yeah, that's kind of the same thing \"by doing this,\" which is putting the photo in the block, with the heel, would be the sign-- I thought it was somewhat of the same thing. I completely forgot about the special Harmony buffer feature,"
+    },
+    {
+        "start": "00:45:17.120",
+        "end": "00:45:46.520",
+        "text": "and so then, you know, Philip corrected me, and then basically, once we found out that the mother actually had a U subscription, then I immediately then was, you know, take her out of the infinity block, 'cause you don't want to overwhelm her kind of thing. So, but Philip, can you kind of explain to people, 'cause I learned a lot that day, which was, there's a huge difference between putting a photo in a block, versus signing that same person up for the U, you know, what's that difference, right? That's the first question."
+    },
+    {
+        "start": "00:45:46.520",
+        "end": "00:46:13.320",
+        "text": "And then the second question, let's get into, you know, using two methods simultaneously, right? And why that's not a good idea for people that are kind of like weakened, right? But the first question though is, Philip, can you describe, like, what is the difference between using my infinity block with a photo, versus signing someone up for quantum upgrade U? - Yeah, so the quantum upgrade U is the most comprehensive way"
+    },
+    {
+        "start": "00:46:13.320",
+        "end": "00:46:39.080",
+        "text": "of soaking someone in energy, in an quantum energy field, basically. And it can be leveled up and down on the Hawking scale, so you can use different levels, you can infuse boosters in between, right? So that is something that is absolutely impossible to do with a block, with a block, you have one level, and that is it, it will always stay at that level."
+    },
+    {
+        "start": "00:46:40.360",
+        "end": "00:47:09.400",
+        "text": "At the same time, there's indeed the harmony feature, which is very advanced, frankly, with a quantum upgrade system, because that's not a block, it's a whole system, it's just very, very advanced in how it works, and it can support someone on an energetic and physical level way more than just a single product. That's just the reality."
+    },
+    {
+        "start": "00:47:09.400",
+        "end": "00:47:38.960",
+        "text": "However, if someone doesn't have the use subscription, then the block still works with providing benefits, right? Amazing benefit, I mean, it neutralizes EMF for that person, right? It optimizes the blood when you have a picture, and all these things are still true. The field for you is just adds additional layers, it's more comprehensive, and then you have the flexibility"
+    },
+    {
+        "start": "00:47:38.960",
+        "end": "00:48:07.880",
+        "text": "to set it at whatever levels, at whatever time, including boosters, and turning it off or down at night, and stuff like that, those are the differences. - Okay, and then thank you, then the other issue though, was not to do them both at the same time, and to defer to the use subscription, as opposed to doing both, right? So it sounds like when someone's in a weakened state, the quantum upgrade for you,"
+    },
+    {
+        "start": "00:48:07.880",
+        "end": "00:48:36.480",
+        "text": "would probably be the better option, because then you can dial it up, dial it down, you can boost, so you can really make sure that the person doesn't get that, especially that harmony feature that they don't get overwhelmed, because they are in a weakened state. You don't wanna kick off a detox reaction to someone who's just had a heart attack kind of thing, right? So I totally get that. So then in terms of don't use a block for those kinds of things, if you could use the U, or if they already have the U, and then the other issue too is don't use them together, is that kind of was the point, right?"
+    },
+    {
+        "start": "00:48:36.480",
+        "end": "00:49:04.720",
+        "text": "Was your recommendation to me was like, yeah, you don't wanna do the eye block for this lady, just let her have the subscription, and that would probably help for not overwhelming, or is that correct? - Yes, well, the thing is because with the eye block, it doesn't have this harmony feature, and then it may, it just may be too much for that lady. - Right, that person. - However, if you had, let's say you had,"
+    },
+    {
+        "start": "00:49:06.000",
+        "end": "00:49:34.280",
+        "text": "four eye blocks, and they're all exactly the same, exactly the same level, it wouldn't make a difference if you have a picture in one of the blocks, or in all of those blocks, there's no energetic difference, but if you have the picture in one eye block, and then you put a picture in a stronger eye block, yes, then obviously that has an effect, if that makes sense. - Okay, yeah, that's actually one of the questions."
+    },
+    {
+        "start": "00:49:34.280",
+        "end": "00:50:01.400",
+        "text": "So, thanks for the clarification on that, and I think the key here, the key takeaway for me was to realize that when someone, if you're trying to help someone, you don't wanna kick off a detox effect, you don't wanna send them too much energy, so really keep that in mind with what block you use, how long you put the photo in, if they're already subscribed, you don't think about those kinds of things, 'cause the ultimate goal is to help that person, right,"
+    },
+    {
+        "start": "00:50:01.400",
+        "end": "00:50:30.760",
+        "text": "and not do anything that would make it worse. So, definitely good to know, and then what you just said, Philip, is actually one of the questions. I just kinda picked and pulled some questions out of the chat group that I wanted to throw into this tutorial, 'cause these questions come up more than once, but it's the idea of using more than one block for a remote healing helpful, and I guess your answer bottom line was, well, you know, 'cause a lot of people have two-week infinity blocks, right, and if they haven't upgraded them, and they're both the same,"
+    },
+    {
+        "start": "00:50:30.760",
+        "end": "00:50:58.200",
+        "text": "then what you're saying is, hey, you know what, if you put the same picture in two blocks that have the same energy, it's not incremental. It doesn't make a difference, right, 'cause they're both the exact same level of energy. So, it's not two times that, it's still one times, right, in terms of what the person seems to have. - Yeah, at least for a person or, you know, for another living organism, you know, for intentions, it seems to make a difference. So, that's not a bad thing. So, if I have two or three blocks,"
+    },
+    {
+        "start": "00:50:58.200",
+        "end": "00:51:27.400",
+        "text": "and I have an intention, you know, at least, it seems to us that putting it in all three blocks would have a greater effect. - Okay, all right, so that was, that's actually one of the questions here's about intention. So, okay, so if you have more than one block, and you put the same intention in every one of your blocks, you actually get an incremental lift. Is that what you're saying? - Yeah, which I can't really define. Like, we didn't properly test that and see, okay, so what is now the actual increase on?"
+    },
+    {
+        "start": "00:51:28.520",
+        "end": "00:51:57.520",
+        "text": "It's hard to tell if it's times three, if you have the three of the same devices. - Sure. - It may be, I don't know. - Okay, no, but it makes sense that it's incremental. So, intentions, you can get an incremental lift with multiple blocks, but don't, but it doesn't work if you have for remote healing, if they're all the same. Okay, so that's good to know everybody. But number five, though, the question again, around intentions is, there's questions"
+    },
+    {
+        "start": "00:51:57.520",
+        "end": "00:52:25.360",
+        "text": "that we've had recently where people are asking, how do I place an intention into a piece of jewelry or into a capsule using a block? So, the question was, just do I write down the intention, focus, you know, and center myself, and then emotionally, you know, and psychically, right? Put that intention into the paper, put the paper in a block with the jewelry or the capsule, and would that intention then copy"
+    },
+    {
+        "start": "00:52:25.360",
+        "end": "00:52:55.360",
+        "text": "as if it was like any other source of a frequency? Is that the process for that? - Yeah, that's exactly how it works. Definitely write it down on a piece of paper, and, you know, the more you can feel what you're writing down and envision that, the better that is, and then you can indeed just, that piece of paper then carries the frequency off that intention, and you can just put that inside your capsule as an example,"
+    },
+    {
+        "start": "00:52:55.360",
+        "end": "00:53:25.000",
+        "text": "or, you know, if people have blocks, then really, you know, copy it into aluminum foil, that's the better way to do it even, and then you can just take a piece of the aluminum foil and wrap it around one of those spheres and put it in the capsule, and then with the aluminum foil in there, you have also that specific frequency of that intention in there, and then you can remove it at any time. - Okay, so then the timeframes for copying intentions,"
+    },
+    {
+        "start": "00:53:25.000",
+        "end": "00:53:52.040",
+        "text": "would they be the same as plants, herbs, supplements, things like that? So telling people, okay, if you want a copy of intention, follow these timeframes depending on what blocks you use. All right. - There you go, everybody, that's how you-- - And, you know, so if you deal with aluminum foil, you can also do longer, right? So it's totally fine. Like, if you feel you want it a little longer, that's fine, aluminum foil is really not"
+    },
+    {
+        "start": "00:53:52.040",
+        "end": "00:54:19.040",
+        "text": "such a super dense, heavy object. - Okay, all right, great. I'm just gonna, the rest of the questions here are those, you know, obviously people are asking, are you gonna offer the grand blocks again? 'Cause it was like a one-time sale, they're being shipped out this week. But what about people that are like, that missed the sale and would like to get one? Will they be offered again? - Yes, because we had so many people reach out that apparently missed the sale"
+    },
+    {
+        "start": "00:54:19.040",
+        "end": "00:54:47.360",
+        "text": "or had come in later and really won at one. So we will do that again. I can't say at what point, but it may already be in April. And it will only be a small quantity, but we will do that again. And then, you know, we will see if, you know, maybe we can have that once a year or twice a year or something like that. - Okay, I'm gonna ask too,"
+    },
+    {
+        "start": "00:54:47.360",
+        "end": "00:55:15.240",
+        "text": "is that gonna be the same for the super capsule? - So the super capsule in the form we've had it will never be available again. And that's what we also said last time. So we've had it twice. And, but people still keep asking for another super capsule. So we will have another super capsule, but it will have a different frequency. And I have to actually look because we did a poll in the group and ask people which frequency they wanted to see."
+    },
+    {
+        "start": "00:55:15.240",
+        "end": "00:55:47.600",
+        "text": "And honestly, I don't remember what came out of that poll. So I have to go look. - Yeah, it may have been gratitude or resolution or something like that. - Okay, I don't remember. Okay, so yeah, so they're gonna be up for sale again. And by the way, you know, guys, if you have a grand block, is this safe to save Philip? That if you have a grand block, you could make your own super capsule because of the level of energy or you can make something very close to it. - Yeah. - Yeah. - Yeah, absolutely. - Yeah, I mean."
+    },
+    {
+        "start": "00:55:47.600",
+        "end": "00:56:17.040",
+        "text": "- It's very close to it then, yeah. - Right. Okay. Now the other question that's been coming up lately is, you know, when charging something, how long does the charge last? And so I always know that if you charge something that's metal, it's gonna blast past our lifetime. It's pretty much permanent. The charge as well as the frequency you put into it if you do that. But what about like so, but, you know, but that, you know, I kind of made it simple. Like, you know, if I charge something that's hard versus something that's soft versus a person or a being"
+    },
+    {
+        "start": "00:56:17.040",
+        "end": "00:56:46.320",
+        "text": "and then things in photo, I kind of, we kind of talked a little bit about that before and how long it takes to charge something. But then the answer, the question is, is how long does it last? So for hard stuff, would you say it's gonna last past our lifetime? I mean, it's kind of semi-permanent, right? If it's something that's-- - Yeah, so exactly. Yeah, okay. All metals, pretty much that way if-- And then, you know, the question is, well, the difference is between the quantum energy and the frequency."
+    },
+    {
+        "start": "00:56:46.320",
+        "end": "00:57:15.600",
+        "text": "If I put the frequency into any object, it'll stay in there until we purposely remove it, which doesn't just happen. So it wouldn't never really leave an object. However, that's very different. Obviously with a living organism, that's completely different. It never stays in there permanently. And water, for example, and water, like substances or other substances,"
+    },
+    {
+        "start": "00:57:15.600",
+        "end": "00:57:44.800",
+        "text": "like fruits that have water in there. So frequencies there would not, any crystals also, frequencies would not stay in there forever and basically just dissipated at some point, relatively soon actually. - Okay, so it's safe to say that for hard stuff, it's gonna last semi-permanent. But if it's something soft, people, pets, clothing, shoes, and even things, you know, let's stick with those two right here. If I charge something like a shoe,"
+    },
+    {
+        "start": "00:57:44.800",
+        "end": "00:58:13.720",
+        "text": "we just talked about that a few minutes ago, or if I charge myself, then, you know, then it's not gonna be permanent and that you might wanna recharge that every now and then. Is that correct? - No, for the shoe, it will be permanent. - Okay, for shoes, it's permanent. Okay, so what about-- - You're trying to accept water or very, or, yeah, something like a trued. - Okay, so now I'm gonna put the notes. Now, people pets water food."
+    },
+    {
+        "start": "00:58:13.720",
+        "end": "00:58:41.560",
+        "text": "If I charge it, the charge kind of fades away, right, because these are living organisms and they're constantly regenerating. So if I were a person and I like, you know, and I wanna charge, let's say, water or myself, how often would I, and how long would it last, and when should I recharge? This is the question. - To recharge which object, no? - A person, like I charge my dog. You know, I put him in the block. Should I do that once a week to keep the energy level up?"
+    },
+    {
+        "start": "00:58:41.560",
+        "end": "00:59:08.640",
+        "text": "- Well, so one thing people need to understand is if you have a block at home, the dog will always be in the field of that block and always have already a baseline benefit of that, right? - Okay, yeah. - And then because the field is much, much stronger inside, then it indeed makes a difference if you put a picture inside or put the dog inside the block. So, and that really depends on, you know,"
+    },
+    {
+        "start": "00:59:08.640",
+        "end": "00:59:37.160",
+        "text": "the dog's needs and what you feel. There's really no golden rule, you know. You know, once, you know, with pictures, if you don't have a quantum upgrade for a pet, then definitely once a week is a great idea to do that, you know, anytime the dog doesn't feel good, you know, I had the situation with our dog feel lately. She really ever gets sick with anything."
+    },
+    {
+        "start": "00:59:37.160",
+        "end": "01:00:08.000",
+        "text": "And then that day she felt bad and had the stomach ache apparently and started to eat grass and all that. And I was watching that for an hour or so. And then I was like, all right, you know, I'll have to give her a real boost of energy. So that would be a time where you want to place the picture in there again. - Okay. - And yeah, maybe if you go to the vet, for example, if you go to the vet, which dogs never like, right? - Yeah. - To the groom or something like that."
+    },
+    {
+        "start": "01:00:08.000",
+        "end": "01:00:37.240",
+        "text": "- Yeah. - Just put them in the field because that'll just be better for them that way. - Okay. All right, so for how long something lasts, people pets water, you know, like up to a week, but it's always a good idea to recharge those kinds of things. And then for things in photos, if I were to, let's say, put my picture of my car in a photo, you know, a picture of a car in a block, or let's say, you know, the most recent everyone's talking about is the, you know, the river, right?"
+    },
+    {
+        "start": "01:00:37.240",
+        "end": "01:01:03.320",
+        "text": "I put the picture of that in the block, you know, and it's sending quantum energy to it. But how long does that energy last? If I, you know, like to the car, to a river house, stuff like that? It's, is it taken away once you take the photo out or does it like kind of linger for a little while? - Yeah, well actually degrades over a period of maybe two hours."
+    },
+    {
+        "start": "01:01:03.320",
+        "end": "01:01:31.320",
+        "text": "- Okay. - That's about what we're seeing. In some cases, maybe three hours. And then you have some lasting benefits, frankly, like with a car, if you put a car in, then the stuff, the energy, the negative frequencies that are coming into the car during production, and there's various types. Once you've charged that for like 30 minutes,"
+    },
+    {
+        "start": "01:01:31.320",
+        "end": "01:01:56.720",
+        "text": "maybe 60 minutes, but usually 30 minutes is enough, that's gone, it's also not coming back. So, you know, that's, I told someone else the other day, if you have a skid from zero to 10, 10 is the optimal energetic state of the car and zero is kind of like the worst, like, you know, right after production. And we were talking about electric cars, actually."
+    },
+    {
+        "start": "01:01:56.720",
+        "end": "01:02:25.600",
+        "text": "And, you know, if you then charge it over distance, then while you're doing that, you're at a 10 pretty much. And if you then stop charging it, you're going to back to a one or maybe a two. - Okay. - But you're not gonna go back to zero. - Okay, okay, that's actually a good way to put it. Okay. All right, so it's also, so I guess the idea here is that it's really helpful to, you know,"
+    },
+    {
+        "start": "01:02:25.600",
+        "end": "01:02:54.800",
+        "text": "actually, you know, charge these items and these things, but then for people, pets, water, things and photos, you might want to charge it more than once, or, you know, kind of regularly charge to keep that energy level up. I guess that's a safe way to put it. All right, so that's good to know. Now, something you said, somebody asked a question I thought was wild, which was can I take my travel block, put it in the grand block and would it upgrade my travel block? And you mentioned that it would. So can you kind of explain, you know,"
+    },
+    {
+        "start": "01:02:54.800",
+        "end": "01:03:22.440",
+        "text": "can you upgrade other blocks by putting them in the grand block? Could you kind of explain how that would work and what would you end up with? - We don't know what you would end up with. (laughing) - Yeah, as a parents to be like, - Stronger block, it's hard to tell, but it definitely is stronger block. Of course, if you do that, don't ever put a block in there that's still assembled because that's not going to work."
+    },
+    {
+        "start": "01:03:22.440",
+        "end": "01:03:50.600",
+        "text": "It would have to be deassembled. So just take it apart and then put it in. And if you want to do that, don't do it with a quantum block. Unless you want to stop using a quantum block for the applications of frequency medicine and, you know, neutralizing pharmaceuticals. - Yeah, yeah. - If you have, you know, an infinity block package, you know, that's also kind of a difficult thing"
+    },
+    {
+        "start": "01:03:50.600",
+        "end": "01:04:20.240",
+        "text": "because you're getting out of the role of the usual upgrades. But if you want to do that, then, you know, everyone is a free and welcome to. It's just that we cannot provide any guidance anymore or levels because that's something we just, yeah, can't do on an individual basis. - Okay, so if you just took the plates, if you took the rods off, put the plates in it, no matter which, you know, first of all, you shouldn't do that to your quantum block."
+    },
+    {
+        "start": "01:04:20.240",
+        "end": "01:04:49.480",
+        "text": "But if you have an infinity or travel, if you take the rods off, put the plates in the ground block, you're going to upgrade it, but we don't know what generation it's going to end up being, but it will definitely upgrade it. And then at the same time, you know, if I were to take my infinity block plates and put it in the ground block, would those infinity block plates pick up that harmonizing feature? Or would it just go, it would just-- - They should, they should, they should, yes. But with an infinity block,"
+    },
+    {
+        "start": "01:04:49.480",
+        "end": "01:05:18.840",
+        "text": "you want to be very, very careful, you know, if you want to charge that in the ground block, I would probably not go over 30 minutes because it probably will be absolutely overwhelming and strong. - Yeah, yeah, okay, so there's, you know, so proceed with caution, it works, but if you did that, you're sort of on your own as to where you fall in the scale of things and no one will know what you end up with and that will affect all of the different guidance that we, you know, we create 'cause all of this kind of comes from testing."
+    },
+    {
+        "start": "01:05:18.840",
+        "end": "01:05:47.320",
+        "text": "So just keep that in mind, it is possible if you want a stronger block, but again, we don't know what you're going to end up with and how that'll affect copy times and charging times, okay? The last question here then was another question that we seem to get now when we're talking about the ground block being so much stronger in conscious levels is, the question is, is how many generations of upgrades for an infinity block would equal a ground block? Like if I, you know, 'cause I got, I start off with 733"
+    },
+    {
+        "start": "01:05:47.320",
+        "end": "01:06:16.040",
+        "text": "and I keep upgrading it one at a time, you know, per your video, would it ever, even ever reach 2000? Like I get up to like, you know, generation 20 or something like that? - Yeah. - Okay, so it's possible. - We know that the, yeah, so we know that the basic infinity block is at roughly 733, the fourth generation at 942 and if I'm not mistaken, the seventh generation was at 1,050 more or less,"
+    },
+    {
+        "start": "01:06:16.040",
+        "end": "01:06:46.640",
+        "text": "or 1,150, I can't remember, one of the two. Maybe we had written that down somewhere and now you can basically extrapolate from there more or less and see more or less in which range you'll be at, you know, at the 12th upgrade, 13th upgrade and so on, but please keep in mind, those higher levels you're going into are gonna be way more difficult to take in"
+    },
+    {
+        "start": "01:06:46.640",
+        "end": "01:07:15.120",
+        "text": "as the grant block. It's gonna be a big difference actually in that regard because it'll feel more rough. - Yeah, 'cause there's, right, because the infinity block doesn't have that special buffer. So only, okay, so my recommendation, you know, honestly on infinity block upgrades, you know, what's your purpose for upgrading? You know, I mean, obviously you wanna keep pace with your own ascension and vibration"
+    },
+    {
+        "start": "01:07:15.120",
+        "end": "01:07:44.920",
+        "text": "and you wanna keep increasing your infinity block strength, but only do so at the pace by which you yourself are ascending in vibration, right? Phillip, because if you upgrade faster than you are able to keep up with your block, then automatically you will disconnect from your block. Is that correct? In terms of just warning people. - Yeah, well said. - Yeah, you'll end up disconnecting from it and it'll take a long time to reconnect with it from an entrainment standpoint."
+    },
+    {
+        "start": "01:07:44.920",
+        "end": "01:08:14.280",
+        "text": "So just go, again, you know, the recommendation for infinity block upgrades, which also would apply to if you put anything in the grant block is, you know, take your time 'cause your body takes time. You know, it's all nature and it needs time to adjust and, you know, while everyone's always gung-ho and they wanna try the next best thing, more energy is not always better, right? - Correct. - If you're not ready for it. So there you go. But that's the end of the questions. I know you're at the top of the hour and you gotta run,"
+    },
+    {
+        "start": "01:08:14.280",
+        "end": "01:08:44.160",
+        "text": "so I just wanna say, hey, you know, thank you so much for your time this morning. These tutorials are so helpful for everyone that, you know, has all these tons of questions and I try to do my best plucking them out and to address all of the things that I know people are interested in. So yeah, thanks, Phillip. I really appreciate the clarification that you provide in these tutorials. - Well, thank you so much for taking the time and to making these amazing tutorials and you're serious about some of these effects or just, that's so amazing."
+    },
+    {
+        "start": "01:08:44.160",
+        "end": "01:09:13.880",
+        "text": "So really, we're very, very grateful. And the whole community is, you know, I can really, I think I can speak to the whole community or for the whole community about that. - Hey, thanks. You know, I look at myself as part of being on this cutting edge of a new awakening, you know, for our species, right? Because of all of these, it's not just, you know, Layla coming out with all of these incredible devices and all this incredible, it's just, it's happening across the board."
+    },
+    {
+        "start": "01:09:13.880",
+        "end": "01:09:43.440",
+        "text": "I'm watching an entire community of, you know, biohackers and spiritualists and healers and, you know, and it's just, it's like, we're all awakening and it's, you know, it's in multiple different ways. And Layla is one of the front runners. And I really enjoy being like this little scribe that tries to take this incredible work that you're doing and document it so that people can understand it within the context that it really is presented. And I find that fascinating. And then I really enjoy adding to the work"
+    },
+    {
+        "start": "01:09:43.440",
+        "end": "01:10:13.320",
+        "text": "and being the scribe, you know. So, but anyway, so thank you very much, Philip, for your time this morning. And thank you out there for watching this video. I hope this was helpful and you learned something. If you ever have any questions at all, you know, we're all on Telegram. So there's, and you can find more information on the Layla Quantum Tech website by the way, all the links below to everything I mentioned will be in the video description. So you've got the Layla Quantum Tech website, you've got the Quantum Upgrade website, tons of information on both of those sites about what those do. Of course, there's the Tingers Academy."
+    },
+    {
+        "start": "01:10:13.320",
+        "end": "01:10:41.560",
+        "text": "I devoted an entire section of my blog to Quantum Upgrade. You'll also find a list of all of the different tutorials on my blog. And then again, if you want to just ask a question about any one of these services or anything going on with the Tingers Academy, each one of these three have their own Telegram chat groups. So you can jump in there for a topic-specific question and dialogue and discussion about anything you might need help with or you have, you know, want some understanding for. So feel free to reach out. Links below to join the different Telegram groups or visit the websites."
+    },
+    {
+        "start": "01:10:41.560",
+        "end": "01:11:10.960",
+        "text": "And again, you know, just really, thank you so much for spending some time with Philip and I. And I hope that this was helpful to you. Any parting words, Philip? - Well, thanks to everyone out there being part of this wonderful, amazing community. Thank you for your help in discovering new ways of using the tech and spreading the word and just being part of this great vibe. And as, you know, Kay put it, you know, we all are, you know, part of this awakening process."
+    },
+    {
+        "start": "01:11:10.960",
+        "end": "01:11:39.040",
+        "text": "We really all are each one of the members, you know, whatever you're doing. And certainly outside the group too, there's lots of people and groups and companies that are helping there. And I like to see ourselves as midwives pretty much in this whole awakening process. And yeah, you know, let's keep doing our part. And the good thing is, you know, if we start with ourselves and then we put it out,"
+    },
+    {
+        "start": "01:11:39.040",
+        "end": "01:12:07.120",
+        "text": "I think that's the way to go. And now for everyone listening to this already today, we may see you tomorrow in this powerful webinar where we will do really a joint work, which will be amazing and fascinating and energetically touching for everyone. I'm pretty sure and have a great weekend. - All right, yeah, thank you. And yeah, I'm really looking forward to tomorrow's webinar. All right, so everybody, thank you very much."
+    },
+    {
+        "start": "01:12:07.120",
+        "end": "01:12:14.460",
+        "text": "And we'll catch you later. All right, thank you very much."
+    }
+]

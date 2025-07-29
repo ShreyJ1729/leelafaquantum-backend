@@ -1,0 +1,137 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:23.920",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me K. L. Moran. In this video, I am just sharing the results of my experiments using heat during the stirring process of making C60 oil. It came out pretty interesting. I thought I'd share it. I thought you'd be interested in. Let's jump in. So first thing you need to know is that I'm not doing this for grades or getting"
+    },
+    {
+        "start": "00:00:23.920",
+        "end": "00:00:53.600",
+        "text": "paid. So I did mix stuff around. It's not apples to apples. So give me a break. Please don't give me a hard time about that. So things were changing during the experiment and I just want to point out what was changing. So one of the things that was changing was the type of C60 I was using because I get it from Layla Labs. And the older version, they just switched to a new version. So when I did it the first time, it was the old version, which is just regular powdered C60."
+    },
+    {
+        "start": "00:00:53.600",
+        "end": "00:01:20.320",
+        "text": "And then in experiments two and three, I used their newer version, which they call pulverized. And if you look at the difference between the two and sorry, I don't have a picture. The original one is more granular like typical powdered C60 you buy anywhere. And then the newer one is much more finer in texture kind of like, you know, granulated sugar versus powdered sugar, right? Except black. And so that's kind of the difference between, you know, the different textures of the"
+    },
+    {
+        "start": "00:01:20.320",
+        "end": "00:01:48.080",
+        "text": "C60, same C60, 99.95 purity from Layla Labs, just the texture was different during the course of the three experiments. So keeping that in mind. And then what I did try based on the results of one, I would try something different to the next and different the next, which is my methodology. Okay, like I said, I'm not doing this to get paid or getting any grades. No one's grading my homework here. So I don't care. So but you'll find out, you know, what the results are. I think are pretty"
+    },
+    {
+        "start": "00:01:48.080",
+        "end": "00:02:12.880",
+        "text": "much speak for themselves. So I did change the type of oil from one to two to three. I'm just using up what I got in my house. Okay, so avocado, and then I used a Bragg's olive oil, then I used Elinora. And so then but the key thing was was I was trying to see what happens when you stir just 24 hours at 67 degrees. And then I did it again, 24 hours at 67 degrees. And then seven days"
+    },
+    {
+        "start": "00:02:12.880",
+        "end": "00:02:36.480",
+        "text": "at 26 degrees to kind of compare three against two with number one being my baseline. Okay, that's kind of what I did. The one thing that's weird about one was I was spaced out that morning, and I've put in a full gram instead of the regular 0.8 gram, which is kind of cool when you see what happened to it. Anyway, so after I did these stirs, I'd let it settle for 10 days, and then I'd filter"
+    },
+    {
+        "start": "00:02:36.480",
+        "end": "00:03:02.240",
+        "text": "it. Yeah, always filter using a .22 micron filter. Okay, standard. So that's kind of what I did. So let's go ahead and let's walk through the results. So first things first, this is the pulverized with avocado 67 degrees stirring 24 hours. Now check that out. Whoops. Okay, so this is what I want to point out right here. See that? That's the bottom of the flask. And all you see are these"
+    },
+    {
+        "start": "00:03:02.240",
+        "end": "00:03:31.520",
+        "text": "a little larger. They're probably like, I don't know, that's got to be like a few hundred nanometers across. But the tiny little, that's it though. That's all that C 60 that's left after I pulverized it. Okay, so I bought the regular powdered. I pulverized it myself in a steel mortar pestle. Just put the powder in there, add a little bit of oil, just grind it down and then spatula it into the oil. Really simple stuff. But this is what happens when you pulverize your own, you stick it in the oil, and this was only 24 hours stirring now. Okay, and the only thing I did"
+    },
+    {
+        "start": "00:03:31.520",
+        "end": "00:04:01.280",
+        "text": "wrong with this one is I forgot to record what it what the oil looks like. I just recorded it with the flask. There we go. Okay, so so that's what it looked like. And and so there was almost no residual C 60 left in the flask. And then of course that's the finished product, but you I forgot to be, you know, you could see the light shining through it. Now this is the next one. Okay, now this one is experiment number two, only 24 hours again, 67 degrees again for 24 hours,"
+    },
+    {
+        "start": "00:04:01.280",
+        "end": "00:04:31.200",
+        "text": "all of oil this time, not avocado, but this was not pulverized, meaning I didn't mess with it. So I just bought it, you know, it's it's got a finer texture, but I didn't do anything to it. I just put it in the oil, and it kind of clumps up and then spins around. So it's kind of cool what it looks like when it does that. I actually posted that to telegram. So it's not, I didn't pulverize it. It's supposedly pulverized ahead of time. But this is what it looks like. And it's very fine. You can see the very fine texture. And I'll tell you know, after 24 hours, there was"
+    },
+    {
+        "start": "00:04:31.200",
+        "end": "00:05:00.480",
+        "text": "definitely residual C 60 left. So my thinking on this one was like, okay, I didn't pulverize it this time. It did really well in the avocado oil. And I didn't mess with it. But when you don't mess with it, this is what happened. So I thought, okay, so that was 24 hours, 67 degrees. But what the cool thing is, though, and I really want to point this out, just 24 hours at heat, these are what the filters look like. I just did 350 milliliters per filter. So the first two came"
+    },
+    {
+        "start": "00:05:00.480",
+        "end": "00:05:25.600",
+        "text": "out clear. Obviously, the last one has the sediment because that's the bottom. And then this, but this is what's nice. This is the filtered product, the finished product, right? Check that out. It's perfect. It's beautiful. And when you look at the amount of residual remaining on the, well, you know, it's quite a bit, I would say, you know, quite a bit in terms of how much I put in and I put 0.8 grams. And I would say that there's, I don't know, I'm guessing, you know,"
+    },
+    {
+        "start": "00:05:25.600",
+        "end": "00:05:55.120",
+        "text": "maybe like, I probably saturated a good 90% of it. But what's left on the bottom of the of this right here, plus what's on the filter, you know, it's definitely, you know, there's some left behind. So I would say at least 90% saturation of 0.8 grams do the math. Okay. But that was batch number two. We're using heat. So the first thing I wanted to do after this batch was the third batch. I wanted to see, okay, so now what happens with the third batch was I didn't, again, I just used the"
+    },
+    {
+        "start": "00:05:55.120",
+        "end": "00:06:22.560",
+        "text": "C60 right out of the the vial. I didn't mess with it. It's, you know, the finer course, the finer grain C60, put that in 0.8 per liter. And you can see the finished product here is just this beautiful crimson red, which is what you want. Right. That's the finished product. And this time, though, how much of the C60 was left behind? This was one week of stirring, but only at 26 degrees"
+    },
+    {
+        "start": "00:06:22.560",
+        "end": "00:06:51.120",
+        "text": "centigrade, roughly room temperature. Right. And so this is what was interesting. There was a lot more C60 left behind at a lower temperature. So you can see how much is like sitting in there. I mean, just look at the, it's quite a bit. I would say it's probably equal to the other one. It is a little darker, though, in terms of, you know, it's so hard to measure this. So I'm guessing another 90% saturation. I left some C60 behind. And then what's interesting here is that the"
+    },
+    {
+        "start": "00:06:51.120",
+        "end": "00:07:16.240",
+        "text": "filter showing the brown residue, which is essentially the impurities of the C60 powder itself is what turns brown, not the oil. So the point here that I want to make is that my findings are based on these three separate batches. What that was that number one is that even though, you know, the product says it comes pulverized and that when you look at it, it does look finer, like powdered,"
+    },
+    {
+        "start": "00:07:16.240",
+        "end": "00:07:42.000",
+        "text": "right, versus granular. It's still, I think, very important that when you're making C60 oil, you get a stainless steel mortar pestle and then just grind it yourself. Just grind it down as just as fine as you can get it after you, you know, you buy it with the oil and then put it in because definitely one of the findings was was that if you pulverize it yourself before you add it to oil,"
+    },
+    {
+        "start": "00:07:42.000",
+        "end": "00:08:09.280",
+        "text": "then you have a much higher saturation, okay, right off the bat. And then the second thing, though, was when you look at the two that were heated versus the one that wasn't, that was just at 26 degrees centigrade, that stirring with heat does reduce the stirring time. It was you got a much fuller saturation or you got a good saturation, I should say, with heat, then you did with room temperature. So there's something there. And I think that the outcome of"
+    },
+    {
+        "start": "00:08:09.280",
+        "end": "00:08:31.600",
+        "text": "these three experiments is really these two things is that if you pulverize your C60 before you add it to oil and you use heat, then you can really, really, really reduce your stirring time. But then you've got the argument, right, as the experiment show, you don't get that full point eight saturation. But I want to point out something that was in my last video on C60. What have we learned? It was"
+    },
+    {
+        "start": "00:08:31.600",
+        "end": "00:08:54.320",
+        "text": "an addendum to part one. And it was this video that the C60 EVO guys, which is the same guys as SES research, those guys put a post to the comment in my video and pointed to this video that they had made. And this is what I want to point out now. C60 EVO quote says, hey, Chris Burris on SES research"
+    },
+    {
+        "start": "00:08:54.320",
+        "end": "00:09:23.920",
+        "text": "labs, purchased 22 online C60 products in March of 2020 to test their C60 concentrations per their label. Now everybody's label says 0.8 milligrams per mill year. Here's the deal. The lab called the overall results woefully low, because many of the companies, not only 10 to 30% of the maximum concentrations promised. So when you looked at the video a second ago, you saw that there was a good,"
+    },
+    {
+        "start": "00:09:23.920",
+        "end": "00:09:49.280",
+        "text": "you know, 90% of the C60 was gone. It was not laying on the bottom of the beaker. It wasn't stuck in the filter. It was gone. It was in the oil. And so, you know, we're talking about even if it leaves residual. This is my pointer, actually. My point is, is that even if it leaves residual, you are getting a much higher concentration product than you could buy online by doing it yourself."
+    },
+    {
+        "start": "00:09:49.280",
+        "end": "00:10:17.120",
+        "text": "And if you use heat, you can do it a lot faster. So that's is my point is, hey, if you want to make C60 oil, you want to do it really quickly. And you want to have a really good product. Hey, the best idea, I think we can come up with at this point. And I want to tinker some more. But hey, use heat, get a hot plate, you know, get a hot plate stir. And you know, they're not cheap. I'm sorry if, you know, for those you guys, you can't afford them. But it's if you can, if you make a lot of"
+    },
+    {
+        "start": "00:10:17.120",
+        "end": "00:10:46.240",
+        "text": "batches, it might be worth it to you. Okay, that's my point. And so, but use heat and boom, 24 hours, let it sit for 10 days. And there you go. My next experiment's just going to be stirred 24 hours and then filter and see what that looks like. I'm going to do that next. But I ran out of my Ron bottles to store the stuff. I got three liters stacked up plus extra. I got way too much CCC oil right now. I got it. I got to, I got to consume it down before I make more batches. So, but that's what I'll be doing in the future. And there you go. That's what I learned. And I"
+    },
+    {
+        "start": "00:10:46.240",
+        "end": "00:11:11.120",
+        "text": "wanted to share it with you. And hey, thank you for listening to me blather about this. I just finished the last one this morning. As I said, thought I just whipped this up together real quick and kind of just share it with you. Because I found it to be really interesting. Because you know what no one has ever talked about doing this before. We've talked about using ultrasonics and we've talked about stirring. And but here we go. Use heat. There's the new secret on how to make it"
+    },
+    {
+        "start": "00:11:11.120",
+        "end": "00:11:35.920",
+        "text": "quickly. You could get it done in 11 days. And that's a pretty cool thing. So, there you go. And you might even be able to get it done in one day. That's going to be my next experiment. But hey, there's something for you to tinker with. Thank you again for watching my video. Really appreciate your time. Happy New Year. And also, if you have any questions about making C60 oil, you know, hey, you can always reach me and other folks that are doing it all the time over on our"
+    },
+    {
+        "start": "00:11:35.920",
+        "end": "00:11:43.360",
+        "text": "telegram C60 chat group links in the video description below. Mahalo. And thank you very much. You guys have a good day."
+    }
+]

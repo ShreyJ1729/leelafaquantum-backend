@@ -1,0 +1,1206 @@
+
+[00:00:00.000 --> 00:00:04.720]   Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and today
+[00:00:04.720 --> 00:00:10.600]   I've got the pleasure of having a chat with Bob Greska of Greska's Carbon 6 C60
+[00:00:10.600 --> 00:00:15.640]   And it is such a pleasure to have one of the most I just want one of the most experienced
+[00:00:15.640 --> 00:00:22.800]   scientists in the C60 space and and Bob. Thank you so much for giving me some time today and welcome
+[00:00:22.800 --> 00:00:26.640]   Yeah, great. Hey, it's it's always good to be here and I
+[00:00:27.400 --> 00:00:31.600]   Love this carbon-60 product and everything that it does for people
+[00:00:31.600 --> 00:00:36.760]   So I'm I'm glad to share my experiences and knowledge about what it is and how it works
+[00:00:36.760 --> 00:00:39.080]   awesome, so for those of you who
+[00:00:39.080 --> 00:00:44.600]   Don't know or haven't heard of who Bob Greska is. Let me just give you a be a brief background
+[00:00:44.600 --> 00:00:50.440]   Bob basically is a mechanical engineer graduated from South Eastern Massachusetts University
+[00:00:51.320 --> 00:00:59.900]   And you're a material scientist. I guess you know, there's lots of people with degrees, but you focused in on carbon as a material
+[00:00:59.900 --> 00:01:08.520]   Scientist, so you're literally a carbon scientist. That's your your career. Yeah. Yeah. Well, I studied non-metals and college as a mechanical engineer and material science
+[00:01:08.520 --> 00:01:11.120]   Yeah, and I focus in I focus in on carbon
+[00:01:11.120 --> 00:01:13.960]   Center of the periodic chart, you know
+[00:01:13.960 --> 00:01:17.920]   I know it's real interesting that you know that that is that you know
+[00:01:17.920 --> 00:01:21.520]   That's an incredible specialty and you've been doing that for all these years now
+[00:01:21.520 --> 00:01:27.800]   And so one of the things that makes you know Bob really unique is that he is literally a carbon scientist
+[00:01:27.800 --> 00:01:29.720]   mechanical engineering
+[00:01:29.720 --> 00:01:35.880]   Specialty and carbon and even more so though, you know, he's an actual NASA scientist under the
+[00:01:35.880 --> 00:01:39.000]   Lockheed missile in space you were a contractor
+[00:01:39.000 --> 00:01:44.720]   For NASA under Lockheed. I believe you're a contractor for NASA under Martin, Marietta
+[00:01:45.280 --> 00:01:49.680]   Aerospace and then you did your own engineering in 1990, right?
+[00:01:49.680 --> 00:01:53.420]   You found it engineering innovations and started your own company
+[00:01:53.420 --> 00:01:58.600]   So one of the I think one of the highlights of your career prior to getting into carbon 60
+[00:01:58.600 --> 00:02:06.560]   specifically as as with as you know working with NASA is that you worked on the I guess you call it the you were a
+[00:02:06.560 --> 00:02:14.040]   material specialist and process engineer overseeing the ceramic billets for the space shuttle Columbia as well as working with Mary
+[00:02:14.040 --> 00:02:17.000]   Under Marietta working on the Venus Magellan probe
+[00:02:17.000 --> 00:02:22.760]   That went to Venus and and so forth. So, you know, it's just really fascinating that you know
+[00:02:22.760 --> 00:02:24.760]   you're literally a NASA scientist and
+[00:02:24.760 --> 00:02:29.840]   If you don't mind and one of the things I'd before we get into the C 60 everybody, you know, Bob
+[00:02:29.840 --> 00:02:33.000]   I was just wondering if maybe we could just chat for a little bit
+[00:02:33.000 --> 00:02:36.040]   About the space shuttle Columbia, you know
+[00:02:36.040 --> 00:02:43.760]   It stands out as you know one of the tragedies of our history in the space program next to the Challenger if you folks remember
+[00:02:44.040 --> 00:02:46.360]   Challenger was destroyed on liftoff
+[00:02:46.360 --> 00:02:51.800]   But Columbia was destroyed on reentry and and being one of the NASA engineers that worked on those
+[00:02:51.800 --> 00:02:59.200]   Ceramic tiles that were you know meant to prevent the heat from building up. I was wondering, you know, could would you mind just like
+[00:02:59.200 --> 00:03:03.680]   You know, what happened? I mean if from your perspective and you know like what happened to the Columbia?
+[00:03:03.680 --> 00:03:08.560]   When it when it tried to you know when it went to re-enter the Earth's atmosphere and then it burned up
+[00:03:09.240 --> 00:03:13.760]   Well, yeah, that's a very sad story. What happened there is
+[00:03:13.760 --> 00:03:17.780]   On takeoff, you know a piece of ice a debris
+[00:03:17.780 --> 00:03:24.680]   Fell and broke some of the tiles off and there were about five tiles missing and you know the thermal protection tiles
+[00:03:24.680 --> 00:03:33.160]   Gosh, I have one here done in my other office here. I could grab one if you wanted to but and show you what it looks like
+[00:03:34.440 --> 00:03:41.320]   But the tiles themselves it they're they're ceramic. They're made out of um, it's like cotton candy
+[00:03:41.320 --> 00:03:49.560]   Except they solidify it by heating it up very hot temperatures and and it fuses all the other fibers together
+[00:03:49.560 --> 00:03:55.160]   It's kind of like fiberglass a bunch of fiberglass metal fused together. So they're fairly porous and
+[00:03:55.160 --> 00:04:01.040]   I mean you can I like that almost like a filter you can you can actually pull air through it and
+[00:04:02.160 --> 00:04:09.040]   so they're very brittle so when that ice chunk of ice hit the tiles it broke like five of them and
+[00:04:09.040 --> 00:04:16.120]   So they went up and they continued their mission. They didn't have any any, you know methodology. They said, uh, yeah
+[00:04:16.120 --> 00:04:19.280]   You will try to get you back safely, but you know
+[00:04:19.280 --> 00:04:26.480]   A lot of us that worked on a project new in our hearts that you know, they weren't coming back because you know
+[00:04:26.480 --> 00:04:31.360]   You can survive one or two tiles missing and then that the heat wouldn't penetrate there
+[00:04:31.360 --> 00:04:34.000]   They're only about six inches by six inches these tiles
+[00:04:34.000 --> 00:04:40.800]   but when you get like five of them missing you got a you know, much bigger area and so that heat of of a
+[00:04:40.800 --> 00:04:45.840]   Reentry come, you know, they're traveling at Mach 13 and temperatures of
+[00:04:45.840 --> 00:04:51.760]   2300 Fahrenheit on the outside of that and you know of this of a shuttle tiles
+[00:04:51.760 --> 00:04:55.120]   That's what they have to withstand for a period of 15 minutes
+[00:04:55.680 --> 00:04:57.840]   So when they came back and reentered
+[00:04:57.840 --> 00:05:07.040]   You know that it heated up, you know to the point where it caused catastrophic failure and they had a they're basically a burn through a hole in their
+[00:05:07.040 --> 00:05:09.520]   uh, they're craft and it just
+[00:05:09.520 --> 00:05:14.960]   That's the disintegrated. So that's yeah, it's a tragedy
+[00:05:14.960 --> 00:05:20.000]   But yeah, that's really interesting because I remember back then that you know, there was that discussion
+[00:05:20.320 --> 00:05:24.240]   But it seemed like so it wasn't that the the tiles that lock heat had
+[00:05:24.240 --> 00:05:32.320]   Developed for this to shuttle the tiles themselves worked right it was just that oh yeah, they just had an accident where they'd lost tiles
+[00:05:32.320 --> 00:05:35.120]   Correct. Okay. Yeah
+[00:05:35.120 --> 00:05:37.520]   I think the laboratory that I was working on
+[00:05:37.520 --> 00:05:45.760]   Late later at the time they they made this uh, they called it towel repair kit and it was like a we call it a slaw
+[00:05:46.640 --> 00:05:50.400]   because it was like a mixture of like cork and fibers and silicone and
+[00:05:50.400 --> 00:05:55.120]   You'd go and pack it in one of these places that in one of the tiles came out like a putty
+[00:05:55.120 --> 00:06:00.400]   But they didn't have that that that program was canceled because they said oh we have really good results with the
+[00:06:00.400 --> 00:06:03.840]   With the tiles themselves and they didn't want to carry a repair kit
+[00:06:03.840 --> 00:06:08.640]   Up on the tile they could have went out there and you know did a spacewalk and packed it in there
+[00:06:08.640 --> 00:06:13.840]   And uh, it would have you know plugged that hole so to speak and so they could come in on when we're in reentry
+[00:06:14.160 --> 00:06:17.120]   But they never they never you know had that on board on
+[00:06:17.120 --> 00:06:21.200]   On the columbia. Oh, yeah, that gets that reminds me that
+[00:06:21.200 --> 00:06:28.240]   Apparently from what I recall just from you saying that that repair kit was mandatory on all future shuttle flights, right?
+[00:06:28.240 --> 00:06:32.560]   After the after you know, they started the program back up
+[00:06:32.560 --> 00:06:39.200]   Uh, you know started working on yeah, although everything was grounded in that program and then I then that's about 19
+[00:06:39.200 --> 00:06:44.000]   That's when I quit the aerospace business and uh, so I don't I don't know if they continue
+[00:06:44.160 --> 00:06:47.840]   It or not and that's when I went into health and human performance. Oh, okay
+[00:06:47.840 --> 00:06:52.800]   Yeah, I kind of vaguely remember that that they came up with some kind of repair kit
+[00:06:52.800 --> 00:06:56.000]   Everything was grounded. The entire fleet was grounded right for a long time
+[00:06:56.000 --> 00:07:00.000]   But then they made it mandatory that they had to have the ability to fix stuff
+[00:07:00.000 --> 00:07:06.240]   Which would bizarre that nasa wouldn't have had the ability to fix stuff because they have like 500 backups or everything
+[00:07:06.240 --> 00:07:10.960]   But it I digress but thank you for sharing that with me. It's just it's just fascinating honestly
+[00:07:10.960 --> 00:07:15.200]   It's really fascinating to be able to speak to an actual scientist that worked for nasa
+[00:07:15.200 --> 00:07:20.880]   Who you know contributed to the the space program is really just them, you know, I'm very humbling
+[00:07:20.880 --> 00:07:27.760]   It was a fun project and it was cost plus so we had money to do testing and everything we wanted to do
+[00:07:27.760 --> 00:07:31.200]   Um, you have those tiles just for a note of fact
+[00:07:31.200 --> 00:07:37.280]   Um, you know the production after the columbia was built the production cost for the tiles were $600 a piece
+[00:07:37.680 --> 00:07:39.760]   But during but to make them for the first
+[00:07:39.760 --> 00:07:41.920]   Craft
+[00:07:41.920 --> 00:07:49.920]   It was there were $6 000 a piece. Okay, and there were 32 000 tiles on that on that on that on the on the on the on a shuttle
+[00:07:49.920 --> 00:07:55.040]   Each shuttle had 32 000 tiles so you can do the math. It was quite expensive
+[00:07:55.040 --> 00:08:01.760]   But um, yeah the and they the each tie was handcrafted basically
+[00:08:01.760 --> 00:08:06.960]   It was machined to fit a certain pattern and they were bonded onto the bottom of the aluminum structure of the
+[00:08:07.360 --> 00:08:09.360]   Of the of the spatial
+[00:08:09.360 --> 00:08:12.480]   Yeah, that's amazing. I mean everything's expensive with nasa
+[00:08:12.480 --> 00:08:16.160]   My father actually worked for bowing and once I had him explain to me why
+[00:08:16.160 --> 00:08:23.520]   Uh, you know why a toilet costs $90 000 and it was interesting why that happens that there's actually a reason why
+[00:08:23.520 --> 00:08:28.720]   Uh, okay. Okay, but we digress. Hey, let's before we jump into the the carbon 60 chat
+[00:08:28.720 --> 00:08:31.120]   Let me get into just a disclaimer
+[00:08:31.120 --> 00:08:33.680]   Uh, the information in this video is provided for
+[00:08:34.080 --> 00:08:37.920]   informational purposes only and is not to be considered medical advice or instruction
+[00:08:37.920 --> 00:08:42.640]   Statements made have not been evaluated by the food and drug administration gresca's carbon 60
+[00:08:42.640 --> 00:08:49.680]   Products are not intended to diagnose treat cure or prevent any disease consult your physician or health care provider for medical advice
+[00:08:49.680 --> 00:08:55.760]   All right. Thank you very much. Okay. So bob now you're uh in 1990 you found you founded your own engineering firm
+[00:08:55.760 --> 00:09:00.320]   But then from what I could tell I guess you know, you you did let me just get this right
+[00:09:00.320 --> 00:09:03.120]   You uh decided to get out of that and get into health
+[00:09:03.440 --> 00:09:10.000]   Uh, you know carbon for health, uh, and then I noticed that the website for that you're have that you use now kind of popped up
+[00:09:10.000 --> 00:09:17.280]   Around 2015 as gresca's carbon 60 is that was would that be around about the right time frame? Yeah, that's about right
+[00:09:17.280 --> 00:09:19.360]   We put up a website
+[00:09:19.360 --> 00:09:22.080]   on january 2nd of
+[00:09:22.080 --> 00:09:24.480]   2015
+[00:09:24.480 --> 00:09:27.520]   Yes, exactly. Yeah. I found yeah, I found it in the archive
+[00:09:27.520 --> 00:09:33.120]   I noticed that you started out with on sports and helping athletes with muscle performance
+[00:09:33.600 --> 00:09:36.320]   Uh back then that was your that was the the opening
+[00:09:36.320 --> 00:09:43.040]   The opening, uh, you know a pitch for uh for the product is you know, that's literally three years after the fussy moose's study
+[00:09:43.040 --> 00:09:48.720]   Uh when ccc came on on the horizon for health supplements. So there so that was born back then
+[00:09:48.720 --> 00:09:51.600]   Uh, and since 2015 so you're going on almost
+[00:09:51.600 --> 00:09:58.320]   Uh coming up on 10 years now. Well, no, no actually actually I started working on carbon 16
+[00:09:58.720 --> 00:10:07.760]   Really different project I started in in in in in 2012. Oh, okay. Um, so I actually developed the process to produce the
+[00:10:07.760 --> 00:10:14.240]   The carbon 60 that we use in 2012 and it took a you know, it took a while and you know a
+[00:10:14.240 --> 00:10:20.720]   It was interesting story is what you know when I started making this uh carbon 60 powder
+[00:10:20.720 --> 00:10:26.720]   Um, it's very small. It's very hard to contain. So it ended up filling a cloud in my whole
+[00:10:27.680 --> 00:10:35.360]   Laboratory but now I was in there for oh gosh a lot of long time six or eight hours breathing it in through my lungs and that was in 2012
+[00:10:35.360 --> 00:10:38.160]   And um and excuse me, but
+[00:10:38.160 --> 00:10:42.320]   It I breathe in so much of it. My stools were were black
+[00:10:42.320 --> 00:10:44.800]   And I I said, oh my gosh, you know what?
+[00:10:44.800 --> 00:10:49.920]   This was the very beginning when I first started making the carbon 60 or converting it as a conversion process
+[00:10:49.920 --> 00:10:55.840]   And um, I thought I might have toxified myself and that was 2012 and I said, oh my gosh
+[00:10:56.080 --> 00:11:00.880]   I went home I opened the door cracked some light in and you see the whole room was full of this black
+[00:11:00.880 --> 00:11:04.960]   Mist or dust and um, so I said, oh jeez
+[00:11:04.960 --> 00:11:05.920]   I thought I made it
+[00:11:05.920 --> 00:11:12.160]   toxified myself or something like that so I went home that evening and I got on a computer and started researching carbon 60
+[00:11:12.160 --> 00:11:15.840]   And I studied everything I read stayed on the on the computer for about 18 months
+[00:11:15.840 --> 00:11:20.880]   And I read everything out to you that was talked about carbon 60 as much as I could and in the meantime
+[00:11:20.880 --> 00:11:25.680]   I go back to the laboratory and and work on the um, you know, making some more carbon 60
+[00:11:25.680 --> 00:11:29.760]   The more I did the more I got interested and then then we started going door to door
+[00:11:29.760 --> 00:11:32.080]   or like about
+[00:11:32.080 --> 00:11:36.320]   2013 the end of 2013 and um, we had a
+[00:11:36.320 --> 00:11:41.280]   I printed my own little labels on a bottle and stuck them on there on my my printing machine
+[00:11:41.280 --> 00:11:44.560]   We got to have these craft paper looking labels two by twos
+[00:11:44.560 --> 00:11:50.320]   And I I went to uh, you know, various chiropractors or natural paths or different doctors
+[00:11:50.320 --> 00:11:52.560]   Just you know kind of say, hey try this out, you know
+[00:11:52.560 --> 00:11:58.880]   Because I tried it onto myself and I had no negative effects when I took that massive amount of carbon 16 in my body
+[00:11:58.880 --> 00:12:01.840]   There was no downside the only downside was black stools
+[00:12:01.840 --> 00:12:06.000]   But I felt the cleansing but that's not a scientific fact, but I felt like it was cleansed
+[00:12:06.000 --> 00:12:10.480]   And so I knew there was no negatives or downsides of toxicity to product
+[00:12:10.480 --> 00:12:17.600]   And that at the same time that 2012 that's when the uh, you know, people started looking at that's when a baddy study came out
+[00:12:17.600 --> 00:12:21.680]   Said it doubled the lifespan and there were two companies out there selling it
+[00:12:21.680 --> 00:12:27.760]   There was tom martin with carbon 60 olive oil out of chico california and sera vata with vata wellness out of
+[00:12:27.760 --> 00:12:32.160]   uh, checklist of aquia. There were two companies selling carbon 60 at the time
+[00:12:32.160 --> 00:12:37.920]   And so I said wow jeez they got and they're using solvent extracted carbon 60
+[00:12:37.920 --> 00:12:41.040]   And I said I don't use any solvents in my process anywhere
+[00:12:41.040 --> 00:12:47.440]   So there's not a trace amount or nothing or we don't have to vacuum dry it off or nothing because it's not in there
+[00:12:48.080 --> 00:12:51.520]   And the particles are very very small. That's that's the most important factor
+[00:12:51.520 --> 00:12:53.760]   But anyways, they started so I started to say well
+[00:12:53.760 --> 00:12:59.680]   I'm gonna go door to door and I started trying it on friends and family with positive really good results and then went into
+[00:12:59.680 --> 00:13:06.160]   uh, like I said into you know doctors offices and chiropractors and natural paths and they started selling it
+[00:13:06.160 --> 00:13:10.960]   And um, yeah, that's when then the business took off when cliff high spoke about it
+[00:13:10.960 --> 00:13:17.280]   And uh 2017 august 26 2017. Yeah, that's when it exploded for sure
+[00:13:17.920 --> 00:13:21.680]   So because so I got to ask you though, but I'm even so so you were tinkering around
+[00:13:21.680 --> 00:13:29.440]   Uh with producing your own carbon 60 before the body study came out. So what what interested you in making the change from
+[00:13:29.440 --> 00:13:32.480]   uh carbon scientists for the aerospace industry to
+[00:13:32.480 --> 00:13:39.200]   You know car, you know starting to tinker around with carbon for for health and wellness. I mean what was the inspiration for that?
+[00:13:39.200 --> 00:13:41.200]   I for that concept well, I
+[00:13:41.200 --> 00:13:46.160]   In the aerospace business, it's a you work for the defense industry most of the time
+[00:13:46.800 --> 00:13:51.520]   And it's really not defense. It's really offense. They call it defense history. What are you making?
+[00:13:51.520 --> 00:13:53.600]   moms or
+[00:13:53.600 --> 00:13:54.960]   devices or
+[00:13:54.960 --> 00:13:57.440]   the lasers for you know for
+[00:13:57.440 --> 00:14:02.640]   Actually offensive use, you know, the defense industry is really offensive industry
+[00:14:02.640 --> 00:14:07.840]   And I got tired of you know making things of mass destruction and and hurting that would hurt people eventually
+[00:14:07.840 --> 00:14:15.360]   Um, no kill them. And um, so I decided to quit and my parents, you know, they they threw their hands up and air
+[00:14:15.360 --> 00:14:18.240]   So what are you doing? You got a great job and blah, blah, blah, why are you quitting?
+[00:14:18.240 --> 00:14:23.920]   And I said, well, you know, these are my reasons. I wanted to help I want to help humanity instead of you know destroy it
+[00:14:23.920 --> 00:14:26.400]   and so that's when I started in
+[00:14:26.400 --> 00:14:30.320]   1990 I quit the aerospace business and started
+[00:14:30.320 --> 00:14:34.960]   And I've done other other products to that a health and human performance
+[00:14:34.960 --> 00:14:42.080]   Two of them that everybody would know about is we had a famous cyclist and a tour de france that was winning
+[00:14:42.640 --> 00:14:48.320]   and uh, he we didn't see his particular name, so I don't want to mention his name, but we didn't see his name on the
+[00:14:48.320 --> 00:14:49.600]   um
+[00:14:49.600 --> 00:14:54.720]   purchase order, but we did send one to austin texas and his name was mentioned quite frequently
+[00:14:54.720 --> 00:15:02.320]   And so we knew who he was and he started winning the tour de france, you know, and and and that was with one of the altitude chambers that I was building
+[00:15:02.320 --> 00:15:07.040]   I just developed a altitude simulation. So when you simulate higher altitudes
+[00:15:07.440 --> 00:15:10.480]   Your body acclimates to that developing more red blood cells
+[00:15:10.480 --> 00:15:15.040]   And so you get about 20 more red blood cells when you acclimate to about 15 000 feet
+[00:15:15.040 --> 00:15:20.880]   So you could go into this low barometric pressure chamber a vacuum chamber you get inside of it and it would actually
+[00:15:20.880 --> 00:15:23.120]   uh pull the air
+[00:15:23.120 --> 00:15:24.400]   out of you
+[00:15:24.400 --> 00:15:28.720]   I don't have a picture of one here, but I did I have a website helpabaric.com
+[00:15:28.720 --> 00:15:33.200]   and um, and so a lot of athletes started using that and
+[00:15:33.920 --> 00:15:39.280]   Similarly, I then in the early 1990s. I worked on the the modern day shoe spring
+[00:15:39.280 --> 00:15:45.760]   Yeah, the people knocked it off like the erinike the Zeke oil those springs that are in the heels of running shoes
+[00:15:45.760 --> 00:15:50.960]   See, I made them out of carbon fiber, which are very lightweight, but they were very expensive and so you know
+[00:15:50.960 --> 00:15:53.280]   adidas a six reebok and nike
+[00:15:53.280 --> 00:15:55.120]   They were not interested because
+[00:15:55.120 --> 00:15:59.120]   It was just too expensive to put into their product line for their you know, 20
+[00:15:59.520 --> 00:16:03.600]   I mean 20 times mark-up that they would sell their shoes for
+[00:16:03.600 --> 00:16:09.200]   So they knocked it off and put some springs and you know air and stuff like that into it
+[00:16:09.200 --> 00:16:14.400]   So so I played a part not so I worked and you know, I did some I worked a little bit from
+[00:16:14.400 --> 00:16:17.600]   for nadclabs, which is the the us army
+[00:16:17.600 --> 00:16:19.040]   um
+[00:16:19.040 --> 00:16:24.960]   R&D center where we made some like exoskeleton so so people could lift more weights and so forth like that
+[00:16:24.960 --> 00:16:27.600]   Like yeah, put some springs on outside of their legs so they could
+[00:16:28.080 --> 00:16:31.520]   You know lift up and pick some more weights and you know, we played around with different stuff with
+[00:16:31.520 --> 00:16:35.280]   with working for nadclabs to also with my company
+[00:16:35.280 --> 00:16:41.520]   Then I got into the carbon 60. Yeah, that's fascinating. So I guess the like I think the key thing for
+[00:16:41.520 --> 00:16:47.600]   For folks that are not deep into you know carbon 60 since is you know synthesizing carbon 60 or
+[00:16:47.600 --> 00:16:52.480]   Or I guess you put it a different way, but you know the typical way
+[00:16:53.200 --> 00:16:58.320]   That everyone does it right is they take a source material of carbon and they just use an arc reactor
+[00:16:58.320 --> 00:17:05.760]   And blast it into fullerene soot and then and then they uh then they use chemicals to to extract the c60 from the soot
+[00:17:05.760 --> 00:17:11.440]   But you because you started off in a completely different direction on your own
+[00:17:11.440 --> 00:17:17.600]   Um, I know that it's proprietary. So we won't get into the how you do it, but I guess the the thing about
+[00:17:17.600 --> 00:17:22.480]   Um, you know, the griscus carbon 60 is it's very different
+[00:17:22.960 --> 00:17:25.440]   Uh, then all of the other commercial products out there
+[00:17:25.440 --> 00:17:30.480]   I just want to stipulate that for those of you who don't know and so bob and air are going to get into what makes it different
+[00:17:30.480 --> 00:17:36.080]   Um, and and that is the main difference is that it doesn't go through the typical process
+[00:17:36.080 --> 00:17:39.360]   Of you know arc reactor solar fullerene soot
+[00:17:39.360 --> 00:17:46.080]   Using a sock leg extractor and then using chemical, you know, I think it's called color or chromatography right
+[00:17:46.080 --> 00:17:51.520]   Uh to extract using you know using solvents like benzene and toluene and so forth
+[00:17:51.520 --> 00:17:56.800]   So it doesn't do any of that stuff. So, you know, bob you literally just found a way because of your background
+[00:17:56.800 --> 00:17:58.480]   uh taking
+[00:17:58.480 --> 00:18:03.680]   Uh carbon source right and then extracting c60 or yeah, I guess extracting because it's in there
+[00:18:03.680 --> 00:18:09.840]   Uh, and then taking that out of that to produce your product. So very impressive very impressive that you have a way
+[00:18:09.840 --> 00:18:12.960]   And so it's more of a what we use is more of a
+[00:18:12.960 --> 00:18:19.760]   Not that they have the carbon arc solvent extraction process and that's where everybody makes it commercially and everybody else out there
+[00:18:19.760 --> 00:18:24.400]   Except for me. We did we do a conversion process. So we take something with carbon
+[00:18:24.400 --> 00:18:28.080]   We strip it all every strip everything off of it. Everything does come off
+[00:18:28.080 --> 00:18:33.600]   So we're left with carbon and then we reformulate or reposition it into a spherical shape
+[00:18:33.600 --> 00:18:36.320]   and um
+[00:18:36.320 --> 00:18:38.320]   Through some
+[00:18:38.320 --> 00:18:41.120]   Magic
+[00:18:41.120 --> 00:18:47.440]   We we we we we we we we we focus these down or we start them out as a sphere on a macro scale
+[00:18:47.440 --> 00:18:53.040]   And and sort of push that pushing down this um like this magnetic funnel or something that you might call it like that
+[00:18:53.040 --> 00:19:00.480]   Is magnet magnetism involved and at the focal point we push out, you know billions of uh carbon 60 molecules a second
+[00:19:00.480 --> 00:19:05.760]   And um, yeah, but there's no solvents involved and it's right from the get-go. They're independent
+[00:19:05.760 --> 00:19:10.960]   They're small. They're not clustered together and you know, that's what sets us apart is the bioavailability
+[00:19:10.960 --> 00:19:15.200]   Of our carbon 60 in our products. Yeah, no, it's that's amazing
+[00:19:15.680 --> 00:19:19.280]   Uh, so you know, let's talk about your products. So the last time you and I chatted was years ago
+[00:19:19.280 --> 00:19:24.240]   But it was like your flagship product was this very first one called your griscus carbon 60
+[00:19:24.240 --> 00:19:32.160]   um, and that's where you uh have the your c60 in uh organic sunflower oil, right? Is that correct?
+[00:19:32.160 --> 00:19:36.160]   That is correct. Can you talk to you like, okay, so that's your flagship product
+[00:19:36.160 --> 00:19:40.560]   And that's the product that uh, you know, you know, you'll mostly find if you go anywhere
+[00:19:40.560 --> 00:19:44.640]   Now uh carbon 60s available and you'll find it in all sorts of different oils
+[00:19:45.120 --> 00:19:50.080]   Um, but it's completely different chemical process that is, you know, that those other products are made
+[00:19:50.080 --> 00:19:55.840]   And so we'll like I'd like to talk a little bit more about, you know, like this specific product in in organic sunflower oil
+[00:19:55.840 --> 00:19:59.600]   But before we get into that, which is the basis of the discussion here is
+[00:19:59.600 --> 00:20:02.720]   Is you I noticed you've come up with new products in the last few years
+[00:20:02.720 --> 00:20:07.760]   And I was wondering if you could kind of just explain like, you know, what are these new products and and what are you finding?
+[00:20:07.760 --> 00:20:10.240]   Uh, you know hearing from customers that are trying them
+[00:20:11.280 --> 00:20:21.040]   Well, we use uh on the sunflower oil we use a a very low linoleic acid omega-6 is most sunflower oil has, you know, high omega-6 is
+[00:20:21.040 --> 00:20:27.280]   but so but our source of during the ukraine war started up, um
+[00:20:27.280 --> 00:20:33.200]   And ukraine produces 78 percent of the sunflower crop for the world
+[00:20:33.200 --> 00:20:37.360]   And so so we said, oh gosh, you know, we can't get it from our traditional
+[00:20:37.840 --> 00:20:42.240]   Supplier that produces the high quality the low linoleic acid sunflower
+[00:20:42.240 --> 00:20:48.720]   So we got it from another source, which was which was compatible, but it just had a heavier taste to it
+[00:20:48.720 --> 00:20:52.080]   It was a little oilier texture and you can taste the sunflower seeds more
+[00:20:52.080 --> 00:20:58.880]   And so we said well, okay, let's revisit the the water product the topical mist that's carbon-16 water
+[00:20:58.880 --> 00:21:03.120]   And we we started that out. Oh gosh probably six years ago
+[00:21:03.760 --> 00:21:06.960]   We we did some testing of putting carbon-16 in water
+[00:21:06.960 --> 00:21:13.280]   And it's very difficult. It's like mixing oil and water together. Once pulled or once non-pulled, they don't mix together
+[00:21:13.280 --> 00:21:19.520]   So you got to be you know, you got to so I I developed a special process to kind of i'm a process engineer
+[00:21:19.520 --> 00:21:26.480]   I developed a special process. I have tricks up my sleeve of putting it together and it took a while, you know from six years ago
+[00:21:26.480 --> 00:21:29.040]   We did it and we mixed it up
+[00:21:29.040 --> 00:21:31.440]   And put it in water
+[00:21:31.440 --> 00:21:36.960]   And then it would settle out or start clinging to the sides of such clustering. It took about three days
+[00:21:36.960 --> 00:21:43.920]   But we did get some testing done. We'd mix it up and run it over to Denver University. They were testing it on live rat brain
+[00:21:43.920 --> 00:21:49.040]   And um, they put live rat brain a slice that they put it in a petri dish
+[00:21:49.040 --> 00:21:51.600]   Sorry about all this details gory details
+[00:21:51.600 --> 00:21:56.880]   But they put it in a petri dish and they put this water-based liquid in there that has sugar and whatever else it has in there
+[00:21:57.280 --> 00:22:03.600]   To keep the the rat brain alive and then they would take it and they would add hydrogen peroxide. That's a standard test
+[00:22:03.600 --> 00:22:06.240]   They add hydrogen peroxide and they would see
+[00:22:06.240 --> 00:22:11.040]   uh, like 80 percent cell death in 24 hours on the brain tissue
+[00:22:11.040 --> 00:22:15.920]   And they used my we made it up real quick raining over there within a couple hours
+[00:22:15.920 --> 00:22:20.480]   They put it in there and tested it and they would and with the carbon 60 added to that
+[00:22:21.040 --> 00:22:28.720]   Petri dish they cut the the cell death in half. So it protected it was only 40 percent cell death in 24 hours
+[00:22:28.720 --> 00:22:33.920]   With the carbon 60 water-based product in there, but we could never get it to stay in
+[00:22:33.920 --> 00:22:39.760]   to solution or say suspended or whatever you want to call it in any of this suspension
+[00:22:39.760 --> 00:22:42.560]   So we had a lot of difficulty with that, but until
+[00:22:42.560 --> 00:22:49.200]   Um, you know, we have the potential, uh, you know, sunflower or disappear and I said well, then gee if we don't have any sunflower oil
+[00:22:49.680 --> 00:22:52.720]   Uh, we think it's the best oil to put it in because it has a very long shelf life
+[00:22:52.720 --> 00:23:00.560]   So we started using the do putting it into topical mist the water product and I developed a process to keep it in suspension
+[00:23:00.560 --> 00:23:06.640]   And so that's the topical mist. It's a spray on it's much more user friendly you can spray it on your skin
+[00:23:06.640 --> 00:23:10.400]   And it dries within a few minutes and it penetrates within a few minutes too
+[00:23:10.400 --> 00:23:15.120]   So you get pretty quick pretty quick to two to two-minute results if you have any pain
+[00:23:15.120 --> 00:23:17.440]   That's where we put on a mist away your pain
+[00:23:18.080 --> 00:23:20.080]   And it works very good with that
+[00:23:20.080 --> 00:23:24.560]   Yeah, you know, I wanted to ask you about this because I just did a video on hydroxylated c60
+[00:23:24.560 --> 00:23:30.480]   You know water soluble, but you know all the research that I found was that you know, it's c60 is hydrophobic and
+[00:23:30.480 --> 00:23:34.960]   You know, it's just it's just gonna settle out and just go to the bottom if you just put it with water
+[00:23:34.960 --> 00:23:40.400]   So is that just water in there and c60 and you found a way to get it to bond
+[00:23:40.400 --> 00:23:43.040]   Yeah, we found a way to get it to bond
+[00:23:43.280 --> 00:23:46.720]   There's a way to do it is kind of it's there's a there's a London
+[00:23:46.720 --> 00:23:52.480]   They call it a London dispersion force that you can actually it forms a bridge between
+[00:23:52.480 --> 00:23:55.360]   the the water molecule and the
+[00:23:55.360 --> 00:23:58.560]   carbon 60
+[00:23:58.560 --> 00:24:04.240]   You know, there's this hydroxylated carbon 60 also too where they actually add an o-h on to it
+[00:24:04.240 --> 00:24:08.960]   And these are these are these forces these these London dispersion forces
+[00:24:09.440 --> 00:24:14.640]   They're atomic forces. They're very weak. So you can if you and so it'll stay in the water
+[00:24:14.640 --> 00:24:18.400]   It's a balancing act. So it'll it'll stay in the water and say suspended
+[00:24:18.400 --> 00:24:23.760]   We have a very good suspension with our product. It's extremely well. I mean even with the in the oil
+[00:24:23.760 --> 00:24:28.560]   Are you know, it's a colloidal suspension, you know, it will fall out after a couple of years
+[00:24:28.560 --> 00:24:33.920]   I mean it's just slow process because water has viscosity and it drops at the bottom and you know
+[00:24:33.920 --> 00:24:36.800]   So it falls out. We put it into a suspension
+[00:24:37.200 --> 00:24:41.600]   It's not a dissolved solution. You cannot dissolve carbon 60 in water
+[00:24:41.600 --> 00:24:48.560]   Um, but you can't dissolve carbon 60 in an oil on a lipid. So so they're a little bit different
+[00:24:48.560 --> 00:24:52.080]   Okay, so yeah, that's that's pretty amazing
+[00:24:52.080 --> 00:24:57.520]   Okay, so but then what about that, you know, because you're using it as a topical, but you know, the uh, you know all of the studies
+[00:24:57.520 --> 00:25:01.200]   I've seen about uh c60 is very sensitive to uv
+[00:25:01.200 --> 00:25:05.440]   Turns into a pro oxidant. So are there any cautions about using your product?
+[00:25:05.840 --> 00:25:11.760]   Topically like, you know, maybe you don't go out in the sun or or have you found a way to uh, you know alleviate that aspect?
+[00:25:11.760 --> 00:25:13.600]   Well
+[00:25:13.600 --> 00:25:14.640]   You're right
+[00:25:14.640 --> 00:25:16.240]   carbon 60
+[00:25:16.240 --> 00:25:21.520]   Olive oil or these other oils are it's the oil that's light sensitive
+[00:25:21.520 --> 00:25:26.960]   That's not the carbon carbons. Can you put it carbon is indestructible? It's
+[00:25:26.960 --> 00:25:33.200]   Even it withstands temperatures up to 3200 degrees fahrenheit. It's very stable
+[00:25:33.280 --> 00:25:35.280]   It's it's it's the most stable
+[00:25:35.280 --> 00:25:37.440]   Element on a periodic chart
+[00:25:37.440 --> 00:25:44.880]   And so it doesn't degrade with uv like people say they do it's when they see they don't really differentiate when they say carbon 60
+[00:25:44.880 --> 00:25:47.280]   We did a study on it
+[00:25:47.280 --> 00:25:51.600]   You know, you don't know whether they're talking about carbon 60 in olive oil or carbon 60 the powder
+[00:25:51.600 --> 00:25:58.720]   They don't differentiate what what they're talking about but the carbon 60 is very stable. It does not degrade
+[00:25:58.800 --> 00:26:04.640]   I've never seen it degrade never had a problem with it degrading, but the the oils do
+[00:26:04.640 --> 00:26:09.520]   Yeah, they they they do get rancid even even a sunflower. Well, we'll get rancid
+[00:26:09.520 --> 00:26:13.040]   You know, we have a tested for two years and 10 months
+[00:26:13.040 --> 00:26:19.040]   So we we've had that certified third-party tested outside to a actual longevity
+[00:26:19.040 --> 00:26:26.160]   You know aging aging process with the rancidity of the sunflower. Mm-hmm. Yeah. Oh, okay. That's okay. So
+[00:26:26.640 --> 00:26:28.640]   Yeah, okay. So, you know for
+[00:26:28.640 --> 00:26:32.880]   For the stuff, you know, I've been I've been answering questions about C60 for quite a few years
+[00:26:32.880 --> 00:26:37.680]   So, okay. So what you're you know, I've actually seen I've done my own little tests and
+[00:26:37.680 --> 00:26:40.160]   I haven't ever had
+[00:26:40.160 --> 00:26:46.720]   Batch go rancid. I think it just the C60 mops up all the you know all the radical oxygen species and prevents
+[00:26:46.720 --> 00:26:50.320]   Recidity, you know, but but what about okay? So if it does if carbon just
+[00:26:50.320 --> 00:26:56.240]   Pure carbon 60 is not sensitive to uv because it's just carbon
+[00:26:56.640 --> 00:27:02.240]   Right, but it is sensitive to oxidation right because I've had samples of C60 literally turned brown
+[00:27:02.240 --> 00:27:06.400]   Uh, you know because it just got oxidized and I had just ended up throwing it away
+[00:27:06.400 --> 00:27:11.440]   But is that is that another concern? I mean, that's not a concern right that you're putting
+[00:27:11.440 --> 00:27:17.200]   C60 topically in that it could oxidize because you're going to absorb it faster than you could then it would oxidize is that
+[00:27:17.200 --> 00:27:22.480]   You had some C60 in olive oil that went brown is what you're saying
+[00:27:22.720 --> 00:27:28.880]   All right. Well, yeah, it's a couple of different versions, right? Like there was this one vendor out there that was selling
+[00:27:28.880 --> 00:27:31.840]   pulver ice C60 and they had it in
+[00:27:31.840 --> 00:27:37.840]   Pure alcohol like 100% alcohol. That was the carrier. All right, so they would just float around in there
+[00:27:37.840 --> 00:27:41.200]   And then once the alcohol just you know evaporated
+[00:27:41.200 --> 00:27:44.880]   In the container once you open the container, man. It was really fast
+[00:27:44.880 --> 00:27:50.240]   The alcohol would and then then the C60 was black and then it would eventually just turn brown
+[00:27:51.280 --> 00:27:53.280]   and then
+[00:27:53.280 --> 00:28:01.040]   The carrier agent I would I've never had my carbon 60 our carbon 60 is black black black. It's
+[00:28:01.040 --> 00:28:05.840]   It's extremely black. Um, we got we've done a video on it
+[00:28:05.840 --> 00:28:08.800]   I mean, we put it into a little tray or something like that
+[00:28:08.800 --> 00:28:13.840]   You can't even tell how much is in there because it's so black, you know that it absorbs all the light
+[00:28:13.840 --> 00:28:20.880]   Okay, so so I guess that's the question and I guess pure carbon 60 is not sensitive to UV or oxidation
+[00:28:20.880 --> 00:28:22.160]   It's just carbon
+[00:28:22.160 --> 00:28:26.960]   I've never seen it and I've never you know, I've heard a lot of people talk about it
+[00:28:26.960 --> 00:28:35.200]   But I think they're really referring to the oil to the oils. Yeah. Yeah. Yeah. Okay. So so you've got this tropical mist product a topical one
+[00:28:35.200 --> 00:28:37.840]   It's uh great for pain and it's it's basically
+[00:28:37.840 --> 00:28:45.040]   Sixty and water. So it's not it's not a water soluble C60. It's actual C60 right in water. Correct. Yeah
+[00:28:45.040 --> 00:28:47.680]   It's called a colloidal suspension
+[00:28:47.680 --> 00:28:54.800]   Okay. Yeah, it is water and carbon 60 those are the two main ingredients. We do put a little bit of glycerin in there
+[00:28:54.800 --> 00:28:56.480]   um
+[00:28:56.480 --> 00:28:59.920]   Just a very small amount like you know, like a
+[00:28:59.920 --> 00:29:03.520]   CC per gallon and that's just to give it a little tactile
+[00:29:03.520 --> 00:29:06.880]   tactile feel so you can feel it on your skin
+[00:29:06.880 --> 00:29:09.440]   It gives it a little bit. It gives it a nice feel
+[00:29:09.440 --> 00:29:14.560]   And so so we put that in there after we get it mixed after the fact it's not doesn't aid in
+[00:29:15.040 --> 00:29:18.960]   Putting it into a suspension. I know that glycerin is bipolar
+[00:29:18.960 --> 00:29:24.480]   So, but but that's not the reason why we put it in there. It has nothing to do with putting it keeping it in suspension
+[00:29:24.480 --> 00:29:27.040]   That's not what we use it for and that we don't need it
+[00:29:27.040 --> 00:29:32.880]   Uh, we just put it in there just as a little bit of a tactile feel. So this is a tiny tiny amount
+[00:29:32.880 --> 00:29:37.600]   Okay, and so so then the other two new products that you've launched in the last couple of years
+[00:29:37.600 --> 00:29:42.400]   There's you've you've actually you know joined the program with so many other companies
+[00:29:42.400 --> 00:29:44.640]   But you know now you're selling a c60 for pets
+[00:29:44.640 --> 00:29:50.560]   But is that actually a different formula than the the c60 for humans your flagship product?
+[00:29:50.560 --> 00:29:55.200]   I mean, it's it's it's identical. What's inside the bottle is identical
+[00:29:55.200 --> 00:30:01.120]   With the 45 day supply with the dropper they'd see their dog would see the bottle
+[00:30:01.120 --> 00:30:03.360]   Did not you know pets have a natural?
+[00:30:03.360 --> 00:30:07.120]   They jumped up on the owner and he you know two hands just build a bottle
+[00:30:07.120 --> 00:30:12.320]   And so we put it in an unsquirt bottle. It comes out as a stream and we regulate it
+[00:30:12.480 --> 00:30:17.440]   One squared for a cat five squares for a large dog. Okay. That's actually pretty smart
+[00:30:17.440 --> 00:30:19.680]   Because I give my dogs c60
+[00:30:19.680 --> 00:30:23.920]   But I use a dropper and the only way to get them to take it is I got to put the dropper in their mouth
+[00:30:23.920 --> 00:30:27.040]   And then I got to go and disinfect the dropper every single time
+[00:30:27.040 --> 00:30:29.440]   So yeah, the spray is this pretty smart
+[00:30:29.440 --> 00:30:32.160]   and then now the face serum is that
+[00:30:32.160 --> 00:30:36.400]   Um, what are what what's the case? So it's your c60, but what's the carrier?
+[00:30:36.400 --> 00:30:39.440]   What's like is what are you using as as a as a liquid?
+[00:30:39.840 --> 00:30:45.840]   Well, well, we had people using the regular 45 day topically we have a roll on to the same product in the bottle
+[00:30:45.840 --> 00:30:46.800]   Okay
+[00:30:46.800 --> 00:30:49.920]   Same thing, but we had a roll on and then we're putting that on there in effect
+[00:30:49.920 --> 00:30:54.400]   You know, they were using the 45 on topically and we said jeez a penetrant my my knee pain
+[00:30:54.400 --> 00:30:56.400]   It floods it floods your knee
+[00:30:56.400 --> 00:31:02.480]   Locally by putting it on topically the carbon 60 molecules go in and flood that particular part of your body
+[00:31:02.480 --> 00:31:08.080]   Whether it's over in the organ or on your face skin or on age spots or anything like that
+[00:31:08.560 --> 00:31:10.880]   Oh, it really worked really really well, but
+[00:31:10.880 --> 00:31:17.120]   And I had I had a good friend of mine and and she was looking at she said I love your product
+[00:31:17.120 --> 00:31:24.560]   But I don't like the oil of the sunflower oil staying on my face. You know, it's it's kind of oily, you know, and so she looked at different
+[00:31:24.560 --> 00:31:32.480]   Uh carrier oils and we found out that we found a really high quality cosmetic oil. It's called squalane oil
+[00:31:32.880 --> 00:31:40.160]   It's not squalene, which is derived from shark liver and olive oil. This is squalane, which is derived from sugar cane
+[00:31:40.160 --> 00:31:46.720]   So there's no shark livers, you know squished out and get the squalene and and basically
+[00:31:46.720 --> 00:31:50.800]   The squalene actually is very similar to the collagen you have in your skin
+[00:31:50.800 --> 00:31:56.160]   And it actually you know, the car the face on product will actually promote collagen production in your skin
+[00:31:56.480 --> 00:32:04.720]   The carbon 60 will actually neutralize the free radical damage on your skin, which causes a dry out and look old and rankle
+[00:32:04.720 --> 00:32:06.560]   is um
+[00:32:06.560 --> 00:32:11.920]   Uh from the carbon 60 from the uv from the sunlight you get the algebra of light that knocks electrons off
+[00:32:11.920 --> 00:32:16.160]   And the carbon 60 obviously puts them back on so we've had very good luck with
+[00:32:16.160 --> 00:32:22.880]   You know people using that it feels wonderful. I mean we put it in a pink bottle because it's mostly
+[00:32:23.360 --> 00:32:26.480]   You know, women are using the product quite a bit
+[00:32:26.480 --> 00:32:31.920]   Oh, that's great. Okay. All right. Yeah, that's interesting. Okay. Um, thanks for explaining that
+[00:32:31.920 --> 00:32:34.320]   I was really kind of curious about the new products out there
+[00:32:34.320 --> 00:32:39.440]   Uh that you've got going so now I was reading the website and listening to prior interviews
+[00:32:39.440 --> 00:32:41.440]   And I think one of the things that stands out
+[00:32:41.440 --> 00:32:44.400]   About, you know, uh, your carbon 60
+[00:32:44.400 --> 00:32:48.640]   Is the particulate size and that seems to be something you talk a lot about
+[00:32:48.640 --> 00:32:52.640]   And I kind of wanted to just you know, I know you've mentioned this so many times in other interviews
+[00:32:52.640 --> 00:32:57.920]   But I I kind of want to explore that a little bit and just kind of understand because when I was looking at your site
+[00:32:57.920 --> 00:33:02.720]   You've you've actually done the research where you this is right off of the mobs website
+[00:33:02.720 --> 00:33:05.840]   Uh, it's quite a lot of data, but right here
+[00:33:05.840 --> 00:33:11.920]   Um, there was bob had done a study, you know, I was wondering if you could just talk to this where you looked at yours
+[00:33:11.920 --> 00:33:16.800]   You know your c60 went I guess to other c60 powder, right?
+[00:33:16.800 --> 00:33:19.120]   See how these are all powders
+[00:33:19.120 --> 00:33:22.320]   And then you did a comparison because I actually did a video way back
+[00:33:22.800 --> 00:33:27.040]   Uh years ago. I did I did kind of the same thing. I looked at four other
+[00:33:27.040 --> 00:33:32.560]   Uh c60 powders and I used a little microscope and all that so you did yours, but you did
+[00:33:32.560 --> 00:33:35.440]   Uh with an electron microscope, which is awesome
+[00:33:35.440 --> 00:33:39.840]   And you've compared yourself to four other or five other products out there
+[00:33:39.840 --> 00:33:44.720]   Can you talk about what your findings were when you took a look at the other
+[00:33:44.720 --> 00:33:50.560]   C60 powders on the market compared to yours and and what did you find?
+[00:33:51.840 --> 00:33:53.520]   Well
+[00:33:53.520 --> 00:33:57.920]   We looked at our powder underneath the it's a transmission electron microscope
+[00:33:57.920 --> 00:34:02.800]   It was done third party testing. Uh, it was done at the university of colorado
+[00:34:02.800 --> 00:34:10.320]   Um, uh, whether excuse me school of mine. So I'm sorry. There was a school of mine. So there were minerals type colorado based
+[00:34:10.320 --> 00:34:16.320]   Um materials engineering college and so the first column on the far left that that's our product
+[00:34:16.320 --> 00:34:19.760]   And then we have vendor number two three four five and six
+[00:34:19.840 --> 00:34:24.320]   Those are other of the most leading producers of the carbon 60 at the time
+[00:34:24.320 --> 00:34:27.360]   Uh, this was done. Oh gosh 2018 2018
+[00:34:27.360 --> 00:34:29.840]   Yeah 2018
+[00:34:29.840 --> 00:34:34.320]   And, um, we so we we took samples of it put them in a transmission electron microscope
+[00:34:34.320 --> 00:34:42.800]   And it took pictures of them at different magnifications. Now the top row is a very course magnification. It's only 155
+[00:34:42.800 --> 00:34:46.000]   You know, you're not going to see anything too much with that
+[00:34:46.560 --> 00:34:49.840]   Uh, then then as we go down the page, we increased the magnification
+[00:34:49.840 --> 00:34:55.920]   And you can see when you get that down a little bit further, let's say look at the 2850 magnification
+[00:34:55.920 --> 00:35:02.720]   Yeah, you can see like we ours is very very fine looking dust and these other particles are very large
+[00:35:02.720 --> 00:35:06.880]   You know, um, and if you continue down to the bottom of the page
+[00:35:06.880 --> 00:35:10.080]   You can see that the one that we're looking at is on the right there
+[00:35:10.080 --> 00:35:13.600]   Yeah, you see that little other looking kind of thing sticking down there
+[00:35:13.840 --> 00:35:18.160]   You can see one of those little points is ours is much smaller than that
+[00:35:18.160 --> 00:35:22.160]   Now if you back up to it, so so this is the highest magnification at the bottom
+[00:35:22.160 --> 00:35:29.200]   It gets really really high mate. Now we did find on so you can see our carbon 60 on the far lower left there
+[00:35:29.200 --> 00:35:33.520]   Um, the other they're spherical they're 20 nanometers and average size
+[00:35:33.520 --> 00:35:39.520]   Now we did find one of something that looked very very similar in vendor number two
+[00:35:39.600 --> 00:35:45.120]   But we searched over the entire sample and we only found one independent molecule
+[00:35:45.120 --> 00:35:49.360]   Now that's the one that really does a trick that has a bioavailability
+[00:35:49.360 --> 00:35:53.360]   And uh, but but most of the other ones is just grow back up again
+[00:35:53.360 --> 00:36:00.640]   You can see they're all clustered together and that's the difference between the solvent process the solvent extraction process
+[00:36:00.640 --> 00:36:02.480]   will cause
+[00:36:02.480 --> 00:36:07.520]   as you dry the uh solvent off of the carbon 60 powder
+[00:36:08.240 --> 00:36:12.880]   Uh, once you you know, you increase its purity which purity and we'll talk about that
+[00:36:12.880 --> 00:36:17.360]   It's only purity is really the ratio of carbon 60 to carbon 70
+[00:36:17.360 --> 00:36:19.680]   It's not really how clean it is
+[00:36:19.680 --> 00:36:25.040]   You can have 99 pennies in a dime and a bucket of mud and add another half a bucket of mud
+[00:36:25.040 --> 00:36:28.880]   You still have 99 pennies in one dime and that's what they call period
+[00:36:28.880 --> 00:36:32.400]   It's only the ratio of the carbon 60 to carbon 70 whoever picked that term
+[00:36:32.400 --> 00:36:34.960]   It was not a materials engineer. It should be ratio
+[00:36:35.440 --> 00:36:42.720]   But you can see when you dry the solvents off and everybody's seen fine silty mud when mud dries
+[00:36:42.720 --> 00:36:46.960]   It dries up and pulls together gets like a peanut butter consistency
+[00:36:46.960 --> 00:36:50.640]   Kind of kind of semi-dry and then it dries some more and it cracks
+[00:36:50.640 --> 00:36:56.560]   And and and what happens is that's what they have here because all the all the moisture or solvent in this case
+[00:36:56.560 --> 00:37:02.720]   Evaporates out between the particles and it pulls all the particles together in the carbon 60 at the high temperatures
+[00:37:03.200 --> 00:37:08.640]   Of of drying process of 460 degrees Fahrenheit and the vacuum they put it under
+[00:37:08.640 --> 00:37:15.040]   Causes all the particles pulled together and mud crack just like mud does and so they left with these large chunks
+[00:37:15.040 --> 00:37:20.960]   And that's why everybody mixes it for two weeks. That's why they mortise and pestle grind it time to bake those chunks down
+[00:37:20.960 --> 00:37:24.160]   You can buy in carbon 60 powder many of you have
+[00:37:24.160 --> 00:37:29.680]   From these vendors and you can actually see it a little tiny particles all clustered together with the naked eye
+[00:37:29.920 --> 00:37:34.240]   I mean they're huge and that that's why they mix it for two weeks to try to break these down
+[00:37:34.240 --> 00:37:40.160]   And they do some of them do break down to some extent, but they're still not that's why they always filter it with that
+[00:37:40.160 --> 00:37:42.640]   uh point two micron or
+[00:37:42.640 --> 00:37:45.040]   200 and
+[00:37:45.040 --> 00:37:48.800]   What whatever you there was 200 mic to 200 nanometer size
+[00:37:48.800 --> 00:37:53.120]   A filter because they fit they try to filter out the large chunks that don't break apart
+[00:37:53.120 --> 00:37:57.280]   So our process that we produce that we produce we produce
+[00:37:58.160 --> 00:38:01.120]   All of them they're all nice spherical round all uniformly
+[00:38:01.120 --> 00:38:06.240]   Somewhat uniformly shaped very close to 20 nanometers so the bioavailability
+[00:38:06.240 --> 00:38:12.240]   With these other clusters are they're like 1,200 nanometers at best
+[00:38:12.240 --> 00:38:19.840]   So for every one of their clusters in the same volume we have 200,000 particles that are independent
+[00:38:19.840 --> 00:38:24.240]   C60 molecules that are independent so they're much more bioavailable
+[00:38:25.440 --> 00:38:27.840]   Okay, so let me see if I understand this because um
+[00:38:27.840 --> 00:38:34.000]   first of all when I did you know when I did the research on on on processing and solvents and
+[00:38:34.000 --> 00:38:39.280]   I understand that you know a you know, it's a crystalline carbon allotrope
+[00:38:39.280 --> 00:38:45.200]   Um, but the reason that it's clustered or clumps together is because of the solvents, right?
+[00:38:45.200 --> 00:38:50.480]   Causes the causes the crystallization of the c60 and it forms these grains
+[00:38:51.520 --> 00:38:57.040]   um and as as opposed to individual molecules and these grains, I believe like one one
+[00:38:57.040 --> 00:39:04.400]   manufacturer sells a pulverized version and I think they're quote that they've got their particulate size down to
+[00:39:04.400 --> 00:39:06.800]   300 nanometers
+[00:39:06.800 --> 00:39:13.440]   Uh, but it's still huge, right? That's yeah. Yeah, okay. So yeah, I guess from a bioavailability standpoint
+[00:39:13.440 --> 00:39:18.560]   I guess that's what I you know, I as I've been studying this thing from a bioavailability standpoint
+[00:39:19.040 --> 00:39:23.680]   Um, I've read one toxicology study where they went and they dissected, you know
+[00:39:23.680 --> 00:39:27.360]   The animals after they were exposed to c60 and they were finding
+[00:39:27.360 --> 00:39:34.560]   Particulates lodged in various organs anywhere from 50 nanometers to 150 to 300 nanometers, right?
+[00:39:34.560 --> 00:39:40.400]   After after they were exposed to c60 and and what and can is it safe to deduce or is it
+[00:39:40.960 --> 00:39:49.680]   reasonable to deduce that if the if the clinicians were finding these particles lodged in the organs of these of these rats
+[00:39:49.680 --> 00:39:55.600]   That they a they they weren't digested. They weren't dissolved. They weren't absorbed and they weren't bio available
+[00:39:55.600 --> 00:40:01.840]   And in other words because I could not find any studies out there that have done a study about particulate size as opposed
+[00:40:01.840 --> 00:40:04.000]   You know as in relation to bioavailability
+[00:40:04.000 --> 00:40:08.240]   However, so my question is is if I deduce backwards from this other study I just mentioned
+[00:40:08.800 --> 00:40:15.760]   Then is it safe to to to just you know, is it a reasonable assumption that says hey if they're finding these large particulates
+[00:40:15.760 --> 00:40:22.240]   After you know after they've been exposed that large particulates are not bio bio available
+[00:40:22.240 --> 00:40:29.920]   Well, yeah, that's a safe assumption, right? Because they're very safe assumption. Well, they are to some extent now if you look at
+[00:40:29.920 --> 00:40:36.720]   The antioxidants you find in foods like red wine and in berries and so forth like that
+[00:40:37.680 --> 00:40:42.720]   The the particle size is about the same particle size as venda two through six
+[00:40:42.720 --> 00:40:46.960]   Okay, they're they're 1200 nanometers across and they're very big
+[00:40:46.960 --> 00:40:48.560]   So what they have
+[00:40:48.560 --> 00:40:53.120]   You know, in some of them when they do mix it they do break down to some extent, but not all of them
+[00:40:53.120 --> 00:40:59.120]   You know, some of them break down and I'm sure they don't all get down to like a 20 nanometer size like that one particle
+[00:40:59.120 --> 00:41:02.720]   But I'm sure they get a few of them and that those are the most beneficial
+[00:41:02.720 --> 00:41:05.680]   um, but so basically they have a
+[00:41:06.640 --> 00:41:10.720]   Something that's comparable to a good antioxidant like red wine and berries
+[00:41:10.720 --> 00:41:13.040]   Now if you ate red wine and berries
+[00:41:13.040 --> 00:41:17.120]   You'd probably get the symbol that which know every day which very few people do
+[00:41:17.120 --> 00:41:21.840]   You'd probably get the similar effect of taking a daily serving of these other vendors
+[00:41:21.840 --> 00:41:24.400]   So they're they're probably pretty equivalent
+[00:41:24.400 --> 00:41:27.440]   Okay, because you know i'm looking at this pre this one
+[00:41:27.440 --> 00:41:32.800]   Picture right here. It's at 120,000 magnification and you can see
+[00:41:33.360 --> 00:41:36.960]   The spheres right that which what carbon 60 is supposed to look like that's the molecule
+[00:41:36.960 --> 00:41:44.800]   But uh, but these are you saying that these spheres right here are clusters of carbon 60 molecules up to 20
+[00:41:44.800 --> 00:41:47.360]   Uh, you know like 20 nanometers
+[00:41:47.360 --> 00:41:51.120]   Uh, yes and no now it's still not
+[00:41:51.120 --> 00:41:54.720]   The highest magnification look way down on the left there
+[00:41:54.720 --> 00:42:02.960]   Um, you will see they they what we believe we produce and we we don't know for sure because it's hard to do
+[00:42:03.360 --> 00:42:04.640]   Boy, that's kind of
+[00:42:04.640 --> 00:42:07.120]   We're making what's called a nano onion
+[00:42:07.120 --> 00:42:14.800]   Okay, okay, which is basically a carbon 60 molecule with a snowball or the gerali jelly roll
+[00:42:14.800 --> 00:42:20.800]   Of pentagon is the hexagons that go up to uh, uh, uh, 20 nanometers
+[00:42:20.800 --> 00:42:24.320]   So the actual carbon 60 molecule truly is only one nanometer
+[00:42:24.320 --> 00:42:27.680]   Okay, it's you know plus a little bit there's different there's arguments on that
+[00:42:27.680 --> 00:42:31.680]   But call it one nanometer and so what we're making is 20 nanometers
+[00:42:31.840 --> 00:42:34.320]   So yeah, we believe what we have is a jelly roll
+[00:42:34.320 --> 00:42:38.160]   So we don't know if it's truly the carbon 60 molecule giving up the
+[00:42:38.160 --> 00:42:43.680]   uh, the the electron which we we have in our product because we had it tested with the um, um,
+[00:42:43.680 --> 00:42:44.640]   um
+[00:42:44.640 --> 00:42:47.920]   Mass back time of flight and show it does show carbon 60
+[00:42:47.920 --> 00:42:49.920]   But it also
+[00:42:49.920 --> 00:42:52.720]   You know these pentagons and hexagons of carbon are very
+[00:42:52.720 --> 00:43:00.640]   Very useful for your body. That's why you kind of eat food for the you know, it helps with the the dna and rna
+[00:43:01.120 --> 00:43:06.880]   um, many nucleotides use these pentagons and hexagons of carbon rings, uh, to
+[00:43:06.880 --> 00:43:09.840]   uh, you know
+[00:43:09.840 --> 00:43:12.720]   Produce these things in your body that your body's very efficient with
+[00:43:12.720 --> 00:43:19.120]   So carbon 60 in this very small formula, you know, even if you had carbon
+[00:43:19.120 --> 00:43:23.200]   It was probably activated charcoal that was very bioavailable
+[00:43:23.200 --> 00:43:26.480]   You you would see some positive results with it
+[00:43:26.480 --> 00:43:30.960]   You know, but the carbon 60 molecule being that is produced so small that ours is so small
+[00:43:31.280 --> 00:43:35.520]   It makes it very very bioavailable. Okay. So for all these years now, I'm thinking
+[00:43:35.520 --> 00:43:42.400]   You know, I've been making my own c6. You have also tried multiple different commercial products, but basically
+[00:43:42.400 --> 00:43:46.000]   All everything everyone else is, um
+[00:43:46.000 --> 00:43:51.760]   Large particulate size even if you pulverize it, you're never going to get below 300 mostly
+[00:43:51.760 --> 00:43:59.360]   Um, right. That's mortar pestle pulverization, but but you know, so but even then you've got these large particulates
+[00:43:59.440 --> 00:44:04.160]   And they still perform as c60 wood right because it's clear that they're working
+[00:44:04.160 --> 00:44:07.680]   Uh, I'm a living rat living test rat
+[00:44:07.680 --> 00:44:15.040]   That can prove that it's working. Uh, so even at even at that large size, you know, you're getting the benefits of c60
+[00:44:15.040 --> 00:44:20.400]   However, it's not as bio available as individual molecules because all this time, you know
+[00:44:20.400 --> 00:44:24.560]   Before I did some research on on what you have done here on your studies
+[00:44:25.040 --> 00:44:31.920]   I was always under the impression that I had individual molecules of c60 floating around inside of liposomes, right
+[00:44:31.920 --> 00:44:35.360]   That would then get pulled into my cells and then it would do its thing
+[00:44:35.360 --> 00:44:40.320]   But I didn't realize that it was literally clusters of c60 molecules that were being
+[00:44:40.320 --> 00:44:46.080]   Floating around my body doing what c60 does and then the other products that are not yours are
+[00:44:46.080 --> 00:44:51.360]   Larger, you know, particulates, but I guess once it gets up to you know from that one study
+[00:44:51.360 --> 00:44:59.120]   I just mentioned when it gets up to a 50 or 150 300, you know, it's not going to be uh, you know absorbed by the body
+[00:44:59.120 --> 00:45:06.000]   But okay, that's real. They will to some extent like a good antioxidant which you get in food
+[00:45:06.000 --> 00:45:11.280]   So they all all these other products you do have benefits with them. I'm not going to say they do they do
+[00:45:11.280 --> 00:45:17.760]   They that's why the carbon 60 industry is boom taken off like crazy. Okay. Um, do they do have benefits with them?
+[00:45:17.760 --> 00:45:19.760]   but not
+[00:45:19.760 --> 00:45:22.480]   But they have they all have trace solvents in them
+[00:45:22.480 --> 00:45:28.320]   Yeah, they just don't have this the particulate size and they do get caught in your your liver
+[00:45:28.320 --> 00:45:30.960]   and your the nephrons of the kidneys and so forth like that
+[00:45:30.960 --> 00:45:37.040]   Okay, so yeah, okay. So my my point was just to understand that study you did was
+[00:45:37.040 --> 00:45:41.120]   How yours compares to everyone else and that smaller?
+[00:45:41.120 --> 00:45:47.360]   Presumably is way more bio available. Uh, okay, so that's that and then the other idea here
+[00:45:47.760 --> 00:45:52.400]   is the concept that uh all of the other, um, commercial products out there
+[00:45:52.400 --> 00:45:57.680]   You know, basically emulate the fathymusus study on the rats right back in 2012
+[00:45:57.680 --> 00:46:03.920]   That kicked off c60 as a supplement, but they all emulate that and they produce lipo fullerenes
+[00:46:03.920 --> 00:46:09.600]   By stirring, you know in oil, um, and but yours is not stirred in oil like that. Correct
+[00:46:09.600 --> 00:46:13.280]   No, we we don't serve two weeks or anything like that
+[00:46:13.360 --> 00:46:16.960]   We we put it in our sunflower oil and basically two minutes
+[00:46:16.960 --> 00:46:21.120]   We we stir it up we mix it up because all of our particles are already separated
+[00:46:21.120 --> 00:46:26.800]   So we don't have to mix it for two weeks. We just mix it for two minutes and that help keeps our costs down also
+[00:46:26.800 --> 00:46:29.440]   You know, yeah. Oh, yeah
+[00:46:29.440 --> 00:46:31.440]   So so there's a huge there. Okay, so
+[00:46:31.440 --> 00:46:37.680]   But but here's the thing though. I mean other commercial products out there that are calling their products lipo fullerenes
+[00:46:38.320 --> 00:46:43.920]   Um, not all of the c60 is converted to lipo fulleren. It's still c60 and suspension
+[00:46:43.920 --> 00:46:46.720]   Even after you filter if you filter, right?
+[00:46:46.720 --> 00:46:48.240]   I mean, I just want to just get your take on this
+[00:46:48.240 --> 00:46:51.600]   But even if I followed the fathymusa formula, right?
+[00:46:51.600 --> 00:46:56.320]   And I stirred for two weeks and then I filtered with a point two micron filter
+[00:46:56.320 --> 00:46:59.200]   I'm still getting c60 particulates
+[00:46:59.200 --> 00:47:01.120]   under point two
+[00:47:01.120 --> 00:47:04.640]   in my my final product so i've got lipo fullerenes and
+[00:47:05.280 --> 00:47:13.920]   Suspended c60 particulates in my final product even a commercial or diy. Is that correct? That is correct. All right. Okay, so
+[00:47:13.920 --> 00:47:19.040]   Large particles. Yeah. Yeah, yeah, cuz um, yeah, I know that yeah another
+[00:47:19.040 --> 00:47:21.040]   individual I know
+[00:47:21.040 --> 00:47:26.960]   Did a study of commercial products and they ran them through a centrifuge and it just the centrifuge shows
+[00:47:26.960 --> 00:47:32.960]   Um that not all the other I mean all the other commercial products out there have suspended c60
+[00:47:32.960 --> 00:47:36.720]   So, you know, my whole thing was up up until I did all the study recently was like
+[00:47:36.720 --> 00:47:41.360]   I always suspected or I always thought that if I ingest a c60
+[00:47:41.360 --> 00:47:46.960]   oil product even in my own that I'm only benefiting from the lipo fullerenes
+[00:47:46.960 --> 00:47:52.080]   but I guess from your research because your product doesn't convert to lipo fullerenes and your
+[00:47:52.080 --> 00:47:56.000]   your customers and people using your product are also being able to
+[00:47:56.000 --> 00:47:58.880]   benefit from c60 is that
+[00:47:59.360 --> 00:48:01.360]   c60 has a suspension
+[00:48:01.360 --> 00:48:04.000]   also has
+[00:48:04.000 --> 00:48:09.120]   Um major benefits and there it's not just simply passed through the digestive system. Is that correct?
+[00:48:09.120 --> 00:48:13.360]   Well, yes, but you just make one correction there
+[00:48:13.360 --> 00:48:15.360]   um a lipo
+[00:48:15.360 --> 00:48:21.920]   fullerene is a fullerene that's surrounded by oil. That's basically all it is and in the way they um
+[00:48:21.920 --> 00:48:24.560]   you know put things into
+[00:48:25.520 --> 00:48:30.000]   a lipid format is they take that point to micron filter
+[00:48:30.000 --> 00:48:34.480]   And they will put it they put it in like two syringes and they'll squish it shoot it back and forth
+[00:48:34.480 --> 00:48:41.520]   And so until all the particles get coated or covered with oil and that's that that's a that's a liposome when it's covered with oil
+[00:48:41.520 --> 00:48:45.120]   And that's the process that's used quite frequently to make liposomes
+[00:48:45.120 --> 00:48:50.800]   Is just to push it back and forth through a tiny filter and so all the particles separate now get surrounded by oil
+[00:48:51.280 --> 00:48:56.480]   So, yeah, we have our our particles are obviously slapped surrounded by oil too. So yes, we have a
+[00:48:56.480 --> 00:48:58.640]   a lipo fullerene
+[00:48:58.640 --> 00:49:03.840]   Um, but I want to talk about this graph. We have I mean it's showing what we have here in front of us
+[00:49:03.840 --> 00:49:05.840]   He's picture of these test tubes
+[00:49:05.840 --> 00:49:11.280]   Yeah, starting on a far right and moving across the screen to the left is it gets darker and darker and darker
+[00:49:11.280 --> 00:49:16.240]   Um, you can see we put a very low concentration of carbon 60 in the first two
+[00:49:16.800 --> 00:49:20.560]   Uh vials, you know, then then we increased it gradually
+[00:49:20.560 --> 00:49:26.160]   Uniformly up to the scale and um, we call this the 21 bottles test
+[00:49:26.160 --> 00:49:29.840]   But we really shouldn't have 35 bottles on a but a table wasn't big enough
+[00:49:29.840 --> 00:49:33.120]   To get the full concentration up to what we have in our bottle
+[00:49:33.120 --> 00:49:40.240]   Um, but you can see as like most other products of carbon is 60 you can see visually right through the
+[00:49:40.240 --> 00:49:43.920]   Uh right through the glass. It's looks like on the first two
+[00:49:44.320 --> 00:49:48.240]   They they look like they're basically all a sunflower oil in this case
+[00:49:48.240 --> 00:49:53.600]   And so as we increase the darkness it gets darker and darker and darker and darker and that's basically
+[00:49:53.600 --> 00:49:56.000]   uh what that um
+[00:49:56.000 --> 00:50:02.000]   Little setup shows and we have a video on our website that shows that also. Yeah, okay. So, okay
+[00:50:02.000 --> 00:50:09.680]   So I guess the point here is all all c60 products out there in the market that c16 oil and yours as well
+[00:50:10.240 --> 00:50:15.520]   Is it's lipo fullerene and it's also suspension and it's probably also a colloid, right?
+[00:50:15.520 --> 00:50:22.640]   It's actually there's a little bit of all three uh in all of these different products and and and irregardless of how the c60
+[00:50:22.640 --> 00:50:31.520]   Is provided in these three different manners. That still has a beneficial effect. I think that's the the key point, correct?
+[00:50:31.520 --> 00:50:38.480]   Yeah, so I would agree with that. I want to show you. I want to show you another little uh test tube video here. We have here
+[00:50:39.040 --> 00:50:40.320]   So
+[00:50:40.320 --> 00:50:46.080]   This is just to show you the size of our particle size and we have another video out there that shows we call it
+[00:50:46.080 --> 00:50:50.640]   You know, uh, we we study the size of the carbon 60 molecule or the volume
+[00:50:50.640 --> 00:50:52.240]   These are all
+[00:50:52.240 --> 00:50:55.360]   You know the popular vendors out there that sell carbon 60 products
+[00:50:55.360 --> 00:51:01.360]   And and this is a gram. This is a gram of uh, some vendor carbon 60 that makes the powder
+[00:51:01.360 --> 00:51:05.760]   This is another another gram of another vendor and this is a gram of another vendor
+[00:51:05.840 --> 00:51:09.200]   Now this is a gram of our powder. It fills the whole test tube
+[00:51:09.200 --> 00:51:14.720]   And this because the particle size is so much smaller. It takes up more volume
+[00:51:14.720 --> 00:51:20.320]   You know, uh, so and then we got that zeroed in on a we got a video on that showing
+[00:51:20.320 --> 00:51:23.280]   Also, we didn't show when we we never stopped the camera
+[00:51:23.280 --> 00:51:27.920]   We showed how we poured it out and weighed it and everything came out to the the gram
+[00:51:27.920 --> 00:51:34.240]   Amounts. Yeah. Yeah, I saw that video really interesting. It's kind of like the concept of powdered sugar versus granular sugar
+[00:51:34.720 --> 00:51:37.840]   Versus yeah, yeah, it just gets the volume is huge
+[00:51:37.840 --> 00:51:42.560]   Okay, so there you there you go on trying to understand c60 everybody
+[00:51:42.560 --> 00:51:50.880]   Yeah, yeah, the most important thing is the particle size. Yeah, you get the bioavailability it gets a float around your body
+[00:51:50.880 --> 00:51:56.320]   Um, I always compare it to like snowballs and snowflakes you're gonna have 10 pounds of snowballs
+[00:51:56.320 --> 00:52:02.720]   Where each snowball will do one neutralize one free radical where all you have 10 pounds of snowflakes
+[00:52:02.800 --> 00:52:10.640]   We'd snowflake or neutralize one free radical and so that's basically the the difference in the bioavailability process
+[00:52:10.640 --> 00:52:18.000]   Okay. All right. So now when we talk about c60. Thank you for all that. That's really good to know very very educational
+[00:52:18.000 --> 00:52:19.760]   um
+[00:52:19.760 --> 00:52:25.840]   Let's talk about the commercial products out there all the c60 powder manufacturers
+[00:52:25.840 --> 00:52:28.880]   And the idea of the residual solvents because that's
+[00:52:29.440 --> 00:52:33.840]   Uh, you know, it's a huge issue for a lot of folks who are you know very health conscious and they don't want to have
+[00:52:33.840 --> 00:52:36.560]   Uh, you know, they don't want any negative things
+[00:52:36.560 --> 00:52:39.440]   You know and digesting and so forth or put on their skin
+[00:52:39.440 --> 00:52:45.920]   And and something that you said in our pre-interview which I didn't ever consider because when I when I looked at solvents
+[00:52:45.920 --> 00:52:54.000]   I found studies that simply said um that the solvents uh, there are they're always going to be residual solvents
+[00:52:54.560 --> 00:53:00.400]   when c60 is as extracted from fullerene soot using chemicals, right because
+[00:53:00.400 --> 00:53:05.440]   It gets trapped within the crystal clusters of the c60
+[00:53:05.440 --> 00:53:10.640]   So it's it's actually trapped in there. So even though they do like an you know like an like an ether
+[00:53:10.640 --> 00:53:18.080]   Wash, uh, they're still gonna you know, you're still gonna have residual solvents no matter what and that several producers out there
+[00:53:19.040 --> 00:53:26.560]   Multiple uh, they just basically put it in a vacuum oven, um and bake it multiple times and declare it solvent-free
+[00:53:26.560 --> 00:53:31.040]   Um, right and so but what I wanted but you pointed out something to me
+[00:53:31.040 --> 00:53:36.560]   Now if you could you know, just expand on this but it's not that to see the solvent molecules
+[00:53:36.560 --> 00:53:40.320]   Are you know, they're you know, the studies show yes, they're trapped in the crystals
+[00:53:40.320 --> 00:53:47.040]   In between the c60 molecules, but you also mentioned which I did not know and I went and looked up and I found the study that
+[00:53:47.600 --> 00:53:50.880]   basically supports what you mentioned to me was that
+[00:53:50.880 --> 00:53:58.880]   The solvents don't just get trapped as solvent molecules, but they actually bond to the c60 molecules
+[00:53:58.880 --> 00:54:03.520]   So could you expand on that because that was news to me when we talked last week
+[00:54:03.520 --> 00:54:06.160]   Yeah, the the carbon 60
+[00:54:06.160 --> 00:54:14.000]   Uh molecule and the solvent to toluene is the most common one will actually chemically bond to the carbon 60 molecule
+[00:54:14.720 --> 00:54:19.120]   And it swells the bond angles of the electrons
+[00:54:19.120 --> 00:54:23.520]   Which pushes the lattice structure apart and this is my fiber optics background
+[00:54:23.520 --> 00:54:30.320]   Uh, I know a little bit about light and how light reflects and what color we mix color as you have the the um
+[00:54:30.320 --> 00:54:35.840]   The lattice structure expanded and swelled instead of absorbing all the light like being black
+[00:54:35.840 --> 00:54:42.240]   Um, it will reflect between the lattice structure that wavelength of light and reflect it back and show the color purple
+[00:54:42.560 --> 00:54:48.000]   And that's because it expands the carbon 60 molecules and their lattice structure the crystalline structure
+[00:54:48.000 --> 00:54:55.520]   A crystal of carbon 60 is a crystalline structure. It's just an atomic arrangement of the molecules
+[00:54:55.520 --> 00:55:01.360]   Um, they all line up in a particular pattern. That's that's that's a crystalline lattice structure
+[00:55:01.360 --> 00:55:07.440]   So it's just an arrangement of the carbon atoms like you have diamonds. They're arranged in a triangular
+[00:55:09.040 --> 00:55:14.800]   Format they they form triangles three three four tran- three one two three four triangles around a
+[00:55:14.800 --> 00:55:18.880]   With carbon molecules you get the your graphene, which is a flat sheet
+[00:55:18.880 --> 00:55:25.760]   That's that's another atomic arrangement another allotope of carbon. So the carbon 60 molecule being spherical in shape
+[00:55:25.760 --> 00:55:31.280]   Uh, that's what happens you when it bonds with the solvents and it reflects the color purple that wavelength
+[00:55:31.280 --> 00:55:36.000]   And they say well, yeah, ours is a certain color purple and that means it's
+[00:55:36.800 --> 00:55:39.120]   9.99 pure
+[00:55:39.120 --> 00:55:44.560]   With which means that pure again means that it's a ratio of carbon 60 to carbon 70
+[00:55:44.560 --> 00:55:47.920]   Carbon 70 is actually red when it's saturated with solvents
+[00:55:47.920 --> 00:55:56.880]   And so if you get a little bit of red and a little bit of blue from the actual carbon 60 molecule when the bond lines are expanded with the solvents
+[00:55:56.880 --> 00:55:58.560]   Um
+[00:55:58.560 --> 00:56:00.080]   Or the bond angles
+[00:56:00.080 --> 00:56:04.160]   Um, it would reflect a color purple and that's what they call color purple now
+[00:56:04.400 --> 00:56:06.640]   Now what we did test they said, oh, you know when we were
+[00:56:06.640 --> 00:56:12.480]   Accused of using ink tone of cartridge and stuff like that or things like that in our product
+[00:56:12.480 --> 00:56:20.240]   Um, you know, we were we were baffled too because we put our product and it said well if you put carbon 60 into tiling it turns purple
+[00:56:20.240 --> 00:56:22.800]   Well, we never
+[00:56:22.800 --> 00:56:27.120]   You know, we put our product where so let's take some of our carbon 60 put it in it's audially
+[00:56:27.120 --> 00:56:30.880]   It didn't turn purple. We did hundreds of tests
+[00:56:31.440 --> 00:56:34.480]   We put a little bit of carbon 60 different volumes different amounts
+[00:56:34.480 --> 00:56:36.080]   into toluene
+[00:56:36.080 --> 00:56:41.040]   I've been set up a little rocker table that would rock it back and forth for a week to keep it keep it in motion
+[00:56:41.040 --> 00:56:44.320]   And uh gosh, we could never get it to turn purple
+[00:56:44.320 --> 00:56:49.040]   And we go why why what happened, you know, we don't understand why ours doesn't turn purple
+[00:56:49.040 --> 00:56:54.080]   Well, see there's this pre saturated because it's because it's it's produced with solvents
+[00:56:54.080 --> 00:56:57.200]   So there's already solvents in there. So it's already pre-saturated
+[00:56:57.680 --> 00:57:01.840]   We haven't we finally had one of our our our products turn purple
+[00:57:01.840 --> 00:57:05.440]   And we realized that I left it in the my car
+[00:57:05.440 --> 00:57:08.160]   And we're in color out of the hot and cold of the day
+[00:57:08.160 --> 00:57:14.480]   Heat set up cools it down heat set up colds it down in the three week three weeks that temperature switch
+[00:57:14.480 --> 00:57:22.800]   A change of hot and cold actually saturated carbon 60 molecules with the toluene so it turned up purple is
+[00:57:24.160 --> 00:57:26.160]   the first one over here and
+[00:57:26.160 --> 00:57:32.720]   And so so so once you're pre-saturated it turns purple and if you're in it once we saturated ours it turned purple
+[00:57:32.720 --> 00:57:38.080]   So that's that was our proof in point. Okay. So so in the process of you know
+[00:57:38.080 --> 00:57:43.040]   Let's just call it the traditional way of making see six years synthesizing c60
+[00:57:43.040 --> 00:57:44.720]   um
+[00:57:44.720 --> 00:57:49.040]   They first you use an arc reactor you create set you take the sit
+[00:57:49.840 --> 00:57:56.000]   And then you use liquid chromatography to separate the fullerenes out the difference c60 c70
+[00:57:56.000 --> 00:57:58.560]   c80 for all that and
+[00:57:58.560 --> 00:58:06.400]   In that process right they take they take the sit and they put it in toluene or benzene or whatever they're using
+[00:58:06.400 --> 00:58:09.760]   It changes colors at that point. So how does it?
+[00:58:09.760 --> 00:58:12.560]   Pick up like I guess if you're putting
+[00:58:13.680 --> 00:58:17.920]   Sit into toluene. How does it turn purple?
+[00:58:17.920 --> 00:58:25.760]   Because it has is it bonding to the toluene at the moment they add it like during the chromatography process
+[00:58:25.760 --> 00:58:30.240]   I've never done the chromatography process. I never done it
+[00:58:30.240 --> 00:58:37.200]   But it is a solvent based separation process called high performance liquid chromatography
+[00:58:37.200 --> 00:58:40.560]   And that's when they they separate the carbon 60 molecules
+[00:58:41.040 --> 00:58:44.160]   Um and and they well they can tell you know what the ratio is
+[00:58:44.160 --> 00:58:51.520]   By determining what color purple it is. Yeah, I don't know how quickly it turns if it turns very quickly. I don't don't know
+[00:58:51.520 --> 00:58:57.440]   Okay, okay. Yeah, so but so the idea though is that it's it's purple because the solvents are present
+[00:58:57.440 --> 00:59:03.680]   Correct and as many um studies showing that solvents make carbon 60 purple
+[00:59:03.680 --> 00:59:10.000]   And it if you have something just purple that shows that means you have the presence of carbon 60 and toluene
+[00:59:10.240 --> 00:59:17.600]   And toluene another name for toluene is methyl benzene. Oh, yeah. That's yeah, right. Okay. All right. So then okay. So
+[00:59:17.600 --> 00:59:22.480]   Your product is made without ever touching solvents and then you've got this other
+[00:59:22.480 --> 00:59:26.480]   Um form of c68 that's marketed
+[00:59:26.480 --> 00:59:32.320]   Called sublimated c60 where they take the fullerene and instead of using chemicals
+[00:59:32.320 --> 00:59:38.480]   They just heat it up until it just evaporates and then they collect then they condense it back down and
+[00:59:38.800 --> 00:59:44.160]   Um, that's how they separate it out, right? But there's the issue there, right with um
+[00:59:44.160 --> 00:59:46.560]   That process is that you know
+[00:59:46.560 --> 00:59:49.200]   I look at it from a contaminant standpoint because it's the
+[00:59:49.200 --> 00:59:53.600]   Purity of the source right at that point when you're using sublimated c60, but yeah
+[00:59:53.600 --> 00:59:57.920]   So if if regular c60 is treated with chemicals
+[00:59:57.920 --> 01:00:02.320]   Um and no matter what you do they're still going to be residual chemicals
+[01:00:02.320 --> 01:00:07.520]   Because we're all using it and we all see it because we put it in olive oil and it turns red
+[01:00:08.000 --> 01:00:13.280]   You know you get this red tinge when you hold it up to the light and that if that tinge is coming from the solvents
+[01:00:13.280 --> 01:00:15.280]   um, then
+[01:00:15.280 --> 01:00:19.520]   Then other people are going no no no we use sublimated c60 yards doesn't have any
+[01:00:19.520 --> 01:00:24.800]   So can you talk about that because you and I had an interesting talk about yeah, but even if you sublimate
+[01:00:24.800 --> 01:00:30.480]   It's still it doesn't have solvents residual solvents, but it has residual contaminants
+[01:00:30.480 --> 01:00:34.400]   So can can you talk about that on your website? You got this really cool graph
+[01:00:34.960 --> 01:00:37.840]   Uh that you did a study on that. So let me just kind of show over that. Yes
+[01:00:37.840 --> 01:00:43.440]   Sublimated carbon 60, you know we have people say that yes sublimated carbon 60
+[01:00:43.440 --> 01:00:47.200]   Well, it never comes in contact with solvents. Now. That's true
+[01:00:47.200 --> 01:00:51.040]   Once you sublimate your carbon 60 and don't put it with solvents
+[01:00:51.040 --> 01:00:56.720]   You got me saying a true statement, but the carbon 60 which is started with before you sublime it
+[01:00:56.720 --> 01:01:01.440]   Uh go through the sublimation process is produced with solvents
+[01:01:01.840 --> 01:01:06.960]   So you start with it, but you know they there's companies out there that do a play on words
+[01:01:06.960 --> 01:01:11.360]   Like our sublimated carbon 60 never touches solvents true statement
+[01:01:11.360 --> 01:01:17.040]   But what they start with from the beginning before they sublimated is produced with solvents
+[01:01:17.040 --> 01:01:21.600]   So that's how you so so far increased the concentration or increased the purity
+[01:01:21.600 --> 01:01:25.760]   The so-called purity of carbon 60 is going through a sublimation process
+[01:01:25.760 --> 01:01:30.320]   Which does not use solvents that is true during the sublimation, but what you start with does
+[01:01:30.800 --> 01:01:32.480]   but
+[01:01:32.480 --> 01:01:37.440]   going back to this graph that you have here on on on on a screen right now is
+[01:01:37.440 --> 01:01:40.640]   When you burn when you'd have carbon rods
+[01:01:40.640 --> 01:01:45.760]   And they're held together. It's they held together some more of us carbon held together
+[01:01:45.760 --> 01:01:48.480]   It's held again, mostly with with with silica
+[01:01:48.480 --> 01:01:53.120]   So there's silica this carbon as oxygen this potassium
+[01:01:53.120 --> 01:01:59.440]   Does sulfur this magnesium? There's all these other elements that are in those carbon rods
+[01:02:00.000 --> 01:02:04.720]   So when you burn them with an electric arc. Oh, yeah, they put out pretty colors
+[01:02:04.720 --> 01:02:09.680]   You know like the red that iron that's in there will put out a red color these
+[01:02:09.680 --> 01:02:15.680]   Sulfo will put out a yellow the magnesium and put out. I don't know. I think it puts out a blue
+[01:02:15.680 --> 01:02:18.880]   But different elements that's why they make fire
+[01:02:18.880 --> 01:02:24.640]   Fireworks they put out all these different colors. They use different metals or different different different
+[01:02:24.640 --> 01:02:27.520]   Different elements that turn different colors when they when they heat it up
+[01:02:28.320 --> 01:02:30.320]   So, yeah, all these
+[01:02:30.320 --> 01:02:35.280]   Samples that we took, you know, we have carbon and oxygen and that's it
+[01:02:35.280 --> 01:02:38.880]   We only have like a contaminant is a half a percent of oxygen
+[01:02:38.880 --> 01:02:45.440]   That is all that's in our our carbon 60 powder and these other ones that are were analyzed
+[01:02:45.440 --> 01:02:50.320]   They they have other ingredients or other other elements within them
+[01:02:50.320 --> 01:02:58.080]   Okay, so even sublimated is not well pure carbon 60 right that's a bottom line
+[01:02:58.480 --> 01:03:05.440]   Is because it has other it has other contaminants other metals and other substances in the the source, right? So, okay
+[01:03:05.440 --> 01:03:10.880]   Yeah, and when they say 99 percent or 99.99 percent
+[01:03:10.880 --> 01:03:16.880]   You know, that's only the ratio of carbon 60 to carbon 70. It's not how pure it is. Purity is the wrong
+[01:03:16.880 --> 01:03:20.880]   You should be curious how much of the sample is carbon 60
+[01:03:20.880 --> 01:03:26.320]   Right. No, well that that's called that's ratio. How much of the sample is C60 is the ratio
+[01:03:26.880 --> 01:03:30.240]   Purity is how how clean the carbon 60 is by itself
+[01:03:30.240 --> 01:03:38.080]   I guess well that's what they'd like you to believe but yeah, the word they use it the purity where it should be substituted and say ratio
+[01:03:38.080 --> 01:03:41.920]   So purity purity of carbon 60 doesn't mean how clean it is
+[01:03:41.920 --> 01:03:47.120]   It can it can still have like, you know, 99 pennies and one dime and a bucket of mud
+[01:03:47.120 --> 01:03:50.480]   And you add a half a bucket of mud and they call that well
+[01:03:50.480 --> 01:03:56.560]   We still have 99 percent purity in our, you know, nickel our pennies and dimes. Yeah. Well, this is really eye-opening
+[01:03:56.560 --> 01:04:01.680]   Yes, I was always thinking I was always thinking sublimated was better right because it didn't have solvents
+[01:04:01.680 --> 01:04:05.920]   but okay, so let me back back up a step here about the solvent issue because
+[01:04:05.920 --> 01:04:09.440]   This has been argued voice for years now
+[01:04:09.440 --> 01:04:12.560]   On the forums in the chat groups
+[01:04:12.560 --> 01:04:17.680]   You know, there's this big there's you know, you've got a fan base and they're like, you know, and you know
+[01:04:17.680 --> 01:04:23.440]   And then there's the other people and but it but and then of course all the people out there making C60
+[01:04:23.440 --> 01:04:26.640]   They so here let me throw some arguments at you as the devil's advocate
+[01:04:26.640 --> 01:04:29.520]   I just would just like to get your take on it and and people are saying
+[01:04:29.520 --> 01:04:36.720]   Like like even like even when I did my research on on solvents and I went and looked up what the EPA and the FDA
+[01:04:36.720 --> 01:04:43.360]   You know, OSHA regulations on parts per million just like, you know, the whole rat hair thing and you know, all the food out there
+[01:04:43.360 --> 01:04:49.280]   There's you know, the the government allows percentage of your food to have a percentage of red hair
+[01:04:49.280 --> 01:04:54.640]   I mean, there's this tolerance level. I guess is the best way to say it. So so for those folks that are saying
+[01:04:54.640 --> 01:04:57.840]   Yeah, but you know, it's such a small per small amount
+[01:04:57.840 --> 01:05:04.160]   let's say the the purple comes from toluene and there's yeah, there's solvents in it and I'm buying a C60 product
+[01:05:04.160 --> 01:05:05.440]   That's purple
+[01:05:05.440 --> 01:05:11.600]   And it's most likely, you know, it's got some of that stuff in there and but it's such a minute amount
+[01:05:11.600 --> 01:05:16.800]   I'm probably getting more, you know, heavy metals driving down the freeway with my window open
+[01:05:17.600 --> 01:05:22.480]   Then worrying about that. I mean, so like but what's the what's your take on that because is
+[01:05:22.480 --> 01:05:29.600]   Is a exposure to this these types of solvents in such a minute amount
+[01:05:29.600 --> 01:05:34.480]   Is that a actual threat to people that's any worse than the threat they have?
+[01:05:34.480 --> 01:05:40.160]   You know driving or using chemicals cleaning their house or I mean, what's your what's your opinion on that?
+[01:05:40.160 --> 01:05:45.680]   Well, toluene's a gasoline additive so you can breathe in at the pump also
+[01:05:46.320 --> 01:05:49.200]   So but I've had people come to me that have had
+[01:05:49.200 --> 01:05:53.600]   You know, yeah, it is a very small amount. That's correct. Okay. Um
+[01:05:53.600 --> 01:05:57.040]   For one serving they take of their two teaspoons of product
+[01:05:57.040 --> 01:06:00.160]   Uh, yeah, you're probably you're underneath the threshold
+[01:06:00.160 --> 01:06:05.440]   But if you take you know twice that you're probably over the threshold put a minimum amount of toluene
+[01:06:05.440 --> 01:06:08.400]   Well, you want to have in your body and your body doesn't know what to do
+[01:06:08.400 --> 01:06:12.720]   You can process toluene most people cannot process it. Let's put it that way
+[01:06:13.200 --> 01:06:18.480]   And so the toluene what it does your body will take and hide it or sequester it into your fat tissue
+[01:06:18.480 --> 01:06:22.560]   Of your like your myelaine sheath of your nerves your your brain
+[01:06:22.560 --> 01:06:25.280]   Your adipose tissue. So if you're a very
+[01:06:25.280 --> 01:06:30.320]   Robust person and you have a lot of adipose tissue around your gut
+[01:06:30.320 --> 01:06:35.040]   You're going to be able to hide more of this toluene in your body without having to be a problem
+[01:06:35.040 --> 01:06:38.320]   But if you're a thin person
+[01:06:38.320 --> 01:06:42.800]   Um, yeah, and you don't have that many adipose tissue with that much fat on your body
+[01:06:43.280 --> 01:06:44.960]   You're going to have more of an effect for it
+[01:06:44.960 --> 01:06:50.160]   And I have had people come to me after taking some people are more toluene intolerant than others
+[01:06:50.160 --> 01:06:54.400]   I've had some that have come to me that have taken these other products and they say gosh
+[01:06:54.400 --> 01:07:00.960]   You talk about the solvents. Tell me about them and and they ended up taking my product to detox from the toluene
+[01:07:00.960 --> 01:07:03.760]   Um, so yeah, yeah
+[01:07:03.760 --> 01:07:09.760]   And in people say that yeah, the carbon 60 will neutralize the toxic effects of the toluene
+[01:07:09.760 --> 01:07:12.640]   Yes, it will but if you have too much in there
+[01:07:13.200 --> 01:07:17.840]   Um, it's still a potential threat. So and it does hide in your body
+[01:07:17.840 --> 01:07:20.560]   Um, so yeah
+[01:07:20.560 --> 01:07:23.600]   Yeah, so okay. So at the end of the day though, it's bio-accumulative
+[01:07:23.600 --> 01:07:29.040]   Right and it and and everybody's has a different tolerance level towards toxins
+[01:07:29.040 --> 01:07:33.760]   And also there's people out there that are immunocompromised which they can't handle anymore, right?
+[01:07:33.760 --> 01:07:35.760]   They've reached their threshold their bodies
+[01:07:35.760 --> 01:07:39.200]   Uh past the equilibrium point where they can handle more toxins
+[01:07:39.600 --> 01:07:43.920]   So there are people that are going to actually and you've actually lots of customers right have come to you
+[01:07:43.920 --> 01:07:50.560]   That have actually you know that are that fall into that category where even a little bit of toluene is going to affect them negatively, correct?
+[01:07:50.560 --> 01:07:53.440]   That is correct. You mentioned to me, yeah
+[01:07:53.440 --> 01:07:57.760]   You mentioned to me that people have come to you and then they've tried other C60 products and it's kind of making them ill
+[01:07:57.760 --> 01:08:00.800]   But uh, and they try yours and it doesn't have that effect. Is that correct?
+[01:08:00.800 --> 01:08:06.320]   That is very correct. Yes, I bet people that you know, they take some of these other C60 products
+[01:08:06.720 --> 01:08:13.120]   That have contaminants in them and I mean, I mean they I mean they get diarrhea and you know, they're
+[01:08:13.120 --> 01:08:18.560]   For a month and then they stop taking it and then they go to then they take my product and we've got a bit
+[01:08:18.560 --> 01:08:21.680]   There's a video on a lady that says exactly that
+[01:08:21.680 --> 01:08:28.640]   And then they started taking my product and they they don't have any of that though those issues at all no no diarrhea
+[01:08:28.640 --> 01:08:36.240]   No, no gut problems or I mean we've had a lot of lot of gut issues go away with carbon 60 because it stabilizes the
+[01:08:36.800 --> 01:08:38.800]   the biome in your body
+[01:08:38.800 --> 01:08:44.400]   Oh, it's fast. You know, yeah, you know, I guess that that really comes down to your toxic load
+[01:08:44.400 --> 01:08:48.320]   And how you're able to deal with it. Actually, you know, like when after you and I had met that one time
+[01:08:48.320 --> 01:08:55.840]   Um, I actually went to my doctor and had a full on blood test done because I was taking in copious amounts of C60
+[01:08:55.840 --> 01:08:59.360]   And uh, I was worried, you know, and but I had them test my blood
+[01:08:59.360 --> 01:09:02.000]   It came out negative, but I never even thought
+[01:09:02.560 --> 01:09:07.760]   To test for you know, I test like my fatty tissues to see if it like if that's where it's going
+[01:09:07.760 --> 01:09:11.120]   So that that's really an eye opener and I don't think I want to go through that again
+[01:09:11.120 --> 01:09:13.440]   But yeah, I'm probably accumulated a ton of it
+[01:09:13.440 --> 01:09:16.400]   I'm not a ton but quite a bit of it over the years
+[01:09:16.400 --> 01:09:21.120]   So that's interesting for these you guys have been taking C60 oil for a very long time
+[01:09:21.120 --> 01:09:23.680]   Um, and you're, uh, plump
+[01:09:23.680 --> 01:09:26.320]   Like me
+[01:09:26.320 --> 01:09:29.600]   Yeah, okay. So okay, so but here's the other devil's argument though, Bob
+[01:09:29.680 --> 01:09:31.680]   So let me get your if you could if you don't mind
+[01:09:31.680 --> 01:09:38.240]   Um, the other devil's argument that I've heard and read is okay. Well, you see 60 by its very nature is
+[01:09:38.240 --> 01:09:43.280]   You know and ros scavenger. It's it's it's you know eliminates toxins in the body
+[01:09:43.280 --> 01:09:48.880]   So even if the C60 i'm taking has a you know minute amount of toluene in it
+[01:09:48.880 --> 01:09:50.400]   Um
+[01:09:50.400 --> 01:09:56.080]   Wouldn't the C60 cancel it out? But you're saying that it doesn't right or what's your point?
+[01:09:56.160 --> 01:10:03.040]   I mean, what's your it does to some extent, but it doesn't cancel it all out because it's actually, you know
+[01:10:03.040 --> 01:10:09.600]   Chemically bonded to the carbon 60 molecule already. So it's actually like a Trojan horse bring it into your body
+[01:10:09.600 --> 01:10:16.160]   Um, yeah, whether it cancels it all out or not. Yeah, there's a I to answer your question
+[01:10:16.160 --> 01:10:20.000]   I don't know if it's going to cancel it all out or cancel part of it out
+[01:10:20.000 --> 01:10:22.400]   But I have had people that were talked
+[01:10:22.400 --> 01:10:27.520]   Do toxic from toluene from taking these other carbon say and they tested they went to their doctor
+[01:10:27.520 --> 01:10:33.520]   And they tested at all that toluene how much was in their body and they were so they got on my carbon 60
+[01:10:33.520 --> 01:10:37.520]   Yeah, so about carbon 60 didn't neutralize it. So yeah, I would say to some extent
+[01:10:37.520 --> 01:10:44.080]   It does even the carbon 60 that has toluene will cancel out the toxicity effect of toxins by definition
+[01:10:44.080 --> 01:10:52.240]   Are molecules that come into your body and their electron steelers they steal electrons off of molecules making free radicals?
+[01:10:52.560 --> 01:10:58.320]   Carbon 60 gives electrons to the free radical stabilize them gives an electron to the toxin
+[01:10:58.320 --> 01:11:01.840]   Neutralizing their toxic effect so they can't do any damage
+[01:11:01.840 --> 01:11:04.880]   Okay. All right
+[01:11:04.880 --> 01:11:08.480]   Yeah, I'm just okay. So it is bio cumulative. That's the key here
+[01:11:08.480 --> 01:11:13.440]   Yeah, so when you know, so you had customers that tested positive for toluene
+[01:11:13.440 --> 01:11:17.200]   But do you know if they did a blood test or they actually tested their fatty tissues?
+[01:11:17.200 --> 01:11:20.800]   Well, they I don't know they did a blood test. I don't know
+[01:11:21.360 --> 01:11:25.280]   What tested it, but they did it was it was a blood test. It was wow that they did
+[01:11:25.280 --> 01:11:29.120]   I don't know if they tested their fatty tissue. I haven't heard of anybody doing fatty tissue
+[01:11:29.120 --> 01:11:33.920]   It's mostly blood work. Wow if you pick it up in the blood, that's serious. Okay. All right
+[01:11:33.920 --> 01:11:37.520]   That's interesting to know because I was actually kind of worried about it back then and then I kind of
+[01:11:37.520 --> 01:11:41.360]   I discounted it for all these years, but now you got me thinking about it again
+[01:11:41.360 --> 01:11:47.040]   Okay. All right. So hey, you know, uh, again another question, um, and
+[01:11:47.600 --> 01:11:52.160]   Thanks for your time by the way, but I just you know for the source material when you're mentioning
+[01:11:52.160 --> 01:11:57.440]   synthesizing or concentrating c60 from a source of carbon
+[01:11:57.440 --> 01:12:00.880]   I've got this running question and I run into shungite
+[01:12:00.880 --> 01:12:04.800]   Believers, you know, there's some real strong shungite people out there
+[01:12:04.800 --> 01:12:09.040]   Um, and you know, and I'm just I just want to clarify something about
+[01:12:09.040 --> 01:12:11.840]   in your opinion as a carbon scientist
+[01:12:12.480 --> 01:12:18.560]   What is the purest form of source material to use when extracting c60?
+[01:12:18.560 --> 01:12:25.680]   Because right now I I know that you know the arc arc, uh, you know arc guys the arc, uh reactor folks are using graphite
+[01:12:25.680 --> 01:12:29.120]   Right, they're using graphite to extract the c60, but
+[01:12:29.120 --> 01:12:37.200]   Is is that I mean what's your opinion? Is that you know, and then there's also people that you know, they've they advertise that they've got charcoal c60
+[01:12:37.200 --> 01:12:39.200]   Which I don't even understand
+[01:12:39.200 --> 01:12:44.720]   You know how they're able to do that, but so what's your what like what is the purest source of carbon?
+[01:12:44.720 --> 01:12:50.800]   To to you know by which to then extract c60 and is it shungite or you know is shungite a possibility?
+[01:12:50.800 --> 01:12:52.160]   Is the other?
+[01:12:52.160 --> 01:12:54.160]   shungite is um
+[01:12:54.160 --> 01:13:01.120]   Is is found over in russia. It's corralia russia. That's where a meteor they they presume a media struck
+[01:13:02.160 --> 01:13:08.880]   millions of years ago whenever and it took and it was so so big it caused a fireball like a nuclear explosion
+[01:13:08.880 --> 01:13:14.880]   Took everything that all the vegetation that was on the ground threw it all up in a year and it came back and
+[01:13:14.880 --> 01:13:17.600]   crystallized within the
+[01:13:17.600 --> 01:13:24.240]   Uh the silica and the rock and stuff like that. So shungite said it's like a hard charcoal piece of charcoal
+[01:13:24.240 --> 01:13:27.280]   You can take a pocket knife and dig into it if you want to
+[01:13:27.280 --> 01:13:28.800]   um
+[01:13:28.800 --> 01:13:34.640]   But but it does have some of the some of it did come back as c60 and it's in a shungite and they have different levels of
+[01:13:34.640 --> 01:13:40.160]   Quality of shungite ones with more carbon 60 and ones with less. So yeah shungite
+[01:13:40.160 --> 01:13:44.240]   Is was kept a cold war secret a cold war
+[01:13:44.240 --> 01:13:46.800]   uh secret during the cold war and also
+[01:13:46.800 --> 01:13:53.520]   During world war two the russians did not tell everybody about shungite because they just they were discovering it and it was a healing
+[01:13:53.520 --> 01:13:58.320]   Water the water that would come through the rock would pick up some of the carbon 60 molecules
+[01:13:58.320 --> 01:14:01.440]   And they would drink it and very very healing and um
+[01:14:01.440 --> 01:14:07.280]   So so it's a very good and another the source where you can get unit good this carbon in many things
+[01:14:07.280 --> 01:14:12.640]   It's how you process it, you know carbon, you know, and everything that this plants
+[01:14:12.640 --> 01:14:17.280]   Um vegetables, you know fish all you meat contain carbon
+[01:14:17.280 --> 01:14:20.160]   So anything organic
+[01:14:20.160 --> 01:14:26.240]   Organic means of having carbon so anything organic is carbon based, you know
+[01:14:26.240 --> 01:14:32.320]   It's not the organic you buy in a grocery store that means that they don't process it with without chemicals or pesticides
+[01:14:32.320 --> 01:14:38.960]   They call that organic but organic by a scientific definition means that it contains carbon and so yeah
+[01:14:38.960 --> 01:14:43.840]   So we we we we we start off with a base material that has carbon in it
+[01:14:43.840 --> 01:14:46.960]   And we strip everything off of it and everything does come off of it
+[01:14:46.960 --> 01:14:52.480]   And then we reformulate it back into the carbon 60 molecule and it's a proprietary process
+[01:14:52.560 --> 01:14:58.560]   I can't go on to too much detail details of what we use but something that has carbon in it
+[01:14:58.560 --> 01:15:01.440]   And it's very plentiful
+[01:15:01.440 --> 01:15:07.200]   Okay. All right. Don't thanks appreciate that because because I think you mentioned earlier that you know, like even if you took
+[01:15:07.200 --> 01:15:11.680]   Activated charcoal right this form of carbon and you got it
+[01:15:11.680 --> 01:15:17.120]   You got the particulate size down to really really really small that it would have similar benefits
+[01:15:17.120 --> 01:15:20.400]   Would that have similar benefits to c60 because you know, I
+[01:15:21.280 --> 01:15:27.520]   Don't know there's people doing that out there. Yeah. Yeah, it was one company that they they get it down to a very small
+[01:15:27.520 --> 01:15:35.280]   Activated charcoal the activation process is when you take charcoal and you hit it with high pressure steam
+[01:15:35.280 --> 01:15:42.640]   And what happens that since it's it's random. It's got different plates and different direction like little tiny pieces of graphite really
+[01:15:42.640 --> 01:15:47.440]   Oh, all the other the molecular structure. It'll take that steam and push it through different angles
+[01:15:47.440 --> 01:15:50.400]   So anyways, you got charcoal that looks like Swiss cheese
+[01:15:50.400 --> 01:15:55.840]   That's got a bunch of holes in it from the steam and that's the activation process that gives it more surface air. Okay
+[01:15:55.840 --> 01:15:58.640]   Yeah, so so when you act that when you see activated
+[01:15:58.640 --> 01:16:03.120]   That means that it's got a lot a lot of holes through it and so an increased surface area
+[01:16:03.120 --> 01:16:05.760]   And that's why they use it for carbon water filters and so forth
+[01:16:05.760 --> 01:16:10.560]   It'll add zore of a toxin and stick to it statically and that toxins kind of trapped
+[01:16:10.560 --> 01:16:15.280]   Yeah, it works great for food poisoning too. I'll tell you right. Uh, yeah, okay. All right. So
+[01:16:16.240 --> 01:16:22.800]   Second to the last question here. Um, what's your opinion of the other fullerenes that are now being marketed on them
+[01:16:22.800 --> 01:16:25.040]   You know that are being sold to the public
+[01:16:25.040 --> 01:16:28.240]   Specifically water soluble c60
+[01:16:28.240 --> 01:16:32.240]   Uh, there's I just did a video on that. I think there's I found eight products out on the market
+[01:16:32.240 --> 01:16:36.160]   That are selling anything from a c60
+[01:16:36.160 --> 01:16:41.440]   You know hydroxylated c60 all the way up to a combination of c60
+[01:16:42.080 --> 01:16:45.920]   And c70, you know full and all's um and so forth
+[01:16:45.920 --> 01:16:50.240]   So, you know these new products are coming out on the market. I mean, what what's your opinion of these?
+[01:16:50.240 --> 01:16:52.720]   And do they add any I mean in other words
+[01:16:52.720 --> 01:17:00.880]   What do you think and are they better or equal to then just buying c60? Uh, that's already out there
+[01:17:00.880 --> 01:17:05.840]   I mean, what do you think of this this new products of these new products that are coming out of this new
+[01:17:05.840 --> 01:17:11.280]   Uh, you know fullerene that's being marketed for health. Yeah, there's been quite a bit of studies
+[01:17:11.440 --> 01:17:16.720]   You know on the hydrated fullerenes if you want to call them that the ones that have the OH group on it
+[01:17:16.720 --> 01:17:18.000]   uh
+[01:17:18.000 --> 01:17:20.000]   Or you can have the aqueous
+[01:17:20.000 --> 01:17:25.120]   Uh, fullerenes which which basically use a different type of a
+[01:17:25.120 --> 01:17:32.240]   Stat it's like a small static charges a very weak force that you can that holds the water intact
+[01:17:32.240 --> 01:17:37.040]   So you get like a a water around it and they're called london
+[01:17:37.600 --> 01:17:41.360]   London dispersion forces they're very very small charges
+[01:17:41.360 --> 01:17:46.880]   And so but it will protect or surround the carbon-60 molecule with water
+[01:17:46.880 --> 01:17:53.920]   And so yeah, we we find with our water-based product our carbon-60 suspension product
+[01:17:53.920 --> 01:18:01.520]   Which is some it's a form of uh, this this carbon-60 hydrated fullerene or aqueous suspension
+[01:18:02.240 --> 01:18:09.920]   Um, that yeah, we we see better results with it as far as absorbing into the skin it well, it's more convenient for one thing
+[01:18:09.920 --> 01:18:16.800]   Um, it dries if you put it on topically people have taken it orally also, but your body doesn't have to process
+[01:18:16.800 --> 01:18:20.560]   Your body's made out of water. It's not made out of olive oil or sunflower oil
+[01:18:20.560 --> 01:18:27.680]   So your body doesn't have to process the oil that's surrounding that in a liposomal form before it gets to the carbon-60
+[01:18:28.160 --> 01:18:35.520]   So in water, you don't have to process the oil off. It's already bioavailable. It's ready to go and so we see
+[01:18:35.520 --> 01:18:38.640]   uh, much much faster
+[01:18:38.640 --> 01:18:45.920]   uh responses with the water-based product and with the oil product longer lasting so I mean it's
+[01:18:45.920 --> 01:18:51.920]   Okay, it's it's it's kind of a an even trade off. You know, they they both work very well
+[01:18:51.920 --> 01:18:58.000]   Um, we're looking more and more into the you know, the aqueous forms of
+[01:18:58.240 --> 01:19:00.160]   carbon-60 ourselves
+[01:19:00.160 --> 01:19:02.240]   You know, we we find we find it very interesting
+[01:19:02.240 --> 01:19:09.120]   There's a lot of reports on on on the aqueous form of carbon-60 a lot of people having difficulty. Of course
+[01:19:09.120 --> 01:19:10.320]   We did too
+[01:19:10.320 --> 01:19:14.240]   Uh, when we started out five or six years ago making that foot at live rat brain
+[01:19:14.240 --> 01:19:19.520]   And um, it's quite a process to put it into water. It's not something that you can just do
+[01:19:19.520 --> 01:19:24.400]   I don't I don't recommend and I don't think anybody could do it if if you're a home user
+[01:19:25.040 --> 01:19:28.960]   And you want to buy carbon-60 power to put it in water, you know, good luck
+[01:19:28.960 --> 01:19:34.000]   Come on, you know, I mean it took me years to figure that out and then once I got it figured out it took me
+[01:19:34.000 --> 01:19:36.800]   months to get it
+[01:19:36.800 --> 01:19:41.360]   Near perfected and that's all it's near perfected. You know, it's very very close
+[01:19:41.360 --> 01:19:48.080]   Yeah, well, I know that I know you can actually go out and specifically you go to like, you know, celeras cam or mtr and purchase
+[01:19:49.040 --> 01:19:53.200]   Florinols, right and then just and then of course you just it's a concentrate
+[01:19:53.200 --> 01:19:56.560]   And then you would add it to water and then people are selling it as a product
+[01:19:56.560 --> 01:20:02.800]   I do know that there are manufacturers out there are commercial sellers that are actually producing their own
+[01:20:02.800 --> 01:20:08.800]   Florinols and then selling it as a product as well. So uh, there's two different approaches right off the bat
+[01:20:08.800 --> 01:20:14.480]   Um, just like c60, but I you know, I was doing the research on and I was just thinking like what you just said
+[01:20:14.480 --> 01:20:19.600]   I think I agree with that the more I research it the more and the more fascinating it is because
+[01:20:19.600 --> 01:20:24.240]   We are water-based beings and it's definitely more bio available because it's water-based
+[01:20:24.240 --> 01:20:30.080]   Um as opposed to, you know, lipid based so so there's some definitely there's definitely some promise
+[01:20:30.080 --> 01:20:34.480]   I'm about to do a trial on myself and and see how it works for me
+[01:20:34.480 --> 01:20:39.840]   So the other the other issue here on supplement is the carbon nano onions now you had mentioned
+[01:20:39.840 --> 01:20:41.760]   that
+[01:20:41.760 --> 01:20:44.000]   Um, you had mentioned carbon nano onion
+[01:20:44.000 --> 01:20:46.800]   So if you could if you don't mind a little education for me
+[01:20:46.800 --> 01:20:51.680]   But I was under the impression that a carbon nano onion is one of the family of fullerines
+[01:20:51.680 --> 01:20:54.160]   And that you've got multiple different
+[01:20:54.160 --> 01:20:58.880]   Fullerines trapped within each one of its cages and it forms an onion
+[01:20:58.880 --> 01:21:03.600]   But then when we talked about these, uh, you know, these electron microscope photos
+[01:21:03.600 --> 01:21:07.360]   You were mentioning that that this was a carbon nano onion
+[01:21:07.360 --> 01:21:09.840]   But it's if it's only c60
+[01:21:10.560 --> 01:21:13.680]   It's not an onion, right? They're not inside of each other. They're kind of
+[01:21:13.680 --> 01:21:21.280]   Stuck to each other as opposed to a traditional fullerine carbon nano onion, which is a cage within a cage within a cage
+[01:21:21.280 --> 01:21:26.640]   Right. Yeah, that's correct carbon nano onion is a cage within a cage in the cage
+[01:21:26.640 --> 01:21:32.240]   But as you can see the maybe the one in the middle of the cage is got 60 carbon atoms
+[01:21:32.240 --> 01:21:37.040]   The next one probably it's 300 and then the next one probably has, you know, 500
+[01:21:37.280 --> 01:21:40.320]   Right, you know, I mean they're not all carbon 60 so
+[01:21:40.320 --> 01:21:47.520]   Yeah, my my little green man aren't small enough to get in there and tell you exactly what we have what these other people have
+[01:21:47.520 --> 01:21:51.200]   And I don't think anybody can tell it's all theoretical on paper
+[01:21:51.200 --> 01:21:55.600]   It's what really accounts is the end results if you take the product
+[01:21:55.600 --> 01:22:01.520]   You don't have any negative interactions, which we we don't we have had no no negative interactions with our products
+[01:22:01.680 --> 01:22:07.920]   We we had people allergic to sunflower oil and things like that or people don't like it because our product is very very black
+[01:22:07.920 --> 01:22:16.400]   They don't like it because it's black or they're you know or the sunflower oil, but besides that we have a no negative interactions or contraindications or medications
+[01:22:16.400 --> 01:22:20.560]   So it's the end result product is what what you see that happens
+[01:22:20.560 --> 01:22:28.240]   If you can spray the hydrated fullerine or water-based product on your skin and you get pain relief, you know
+[01:22:28.320 --> 01:22:34.480]   Hey, that's what you want and with no negative no toxicity. No downside. Yeah, okay. No, thanks for that
+[01:22:34.480 --> 01:22:39.760]   Yeah, because I've you know in my research. It's like I've only found there's only one product out there that
+[01:22:39.760 --> 01:22:43.740]   Advertises itself as a carbon that no onion fullerine
+[01:22:43.740 --> 01:22:50.720]   Supplement and it's only one and it has and and it's been that way for five years and it's never gone anywhere
+[01:22:50.720 --> 01:22:53.040]   It's never it's just never left the launch pad
+[01:22:53.520 --> 01:22:58.800]   So I've been I kind of I've been keeping that on that product and nothing's happened. No, nobody else has gotten there
+[01:22:58.800 --> 01:23:03.200]   It seems like the market is moving towards water soluble c60, right?
+[01:23:03.200 --> 01:23:09.920]   And so yeah, that's really that's interesting. So hey, I appreciate all of this and I just got one last question because I know
+[01:23:09.920 --> 01:23:14.800]   Um a lot of the folks that watched my videos, you know, they're they're di wires, right?
+[01:23:14.800 --> 01:23:18.800]   They like to make their own 60s. See I've been making my own c60 since like
+[01:23:18.800 --> 01:23:21.040]   2018
+[01:23:21.040 --> 01:23:23.040]   and after our discussion about
+[01:23:23.040 --> 01:23:30.880]   Well, you know about part of in a particulate size and contaminants and solvents and and everything you you know, you've shared with me
+[01:23:30.880 --> 01:23:34.320]   You know like what what's your advice? I mean because it just sounds like
+[01:23:34.320 --> 01:23:37.920]   Running off to mtr and buying some c60
+[01:23:37.920 --> 01:23:45.760]   Make it my own in my oil. Um, you know, it you know, it it you know, it is you know, like I call it like home grade good enough
+[01:23:46.240 --> 01:23:51.680]   Uh, but then there's the idea of you know, let's do it right. Like, you know, like you're doing and some of the other, you know
+[01:23:51.680 --> 01:23:59.200]   High-end manufacturers are but but so what is what's your advice for the di y guys in terms of like
+[01:23:59.200 --> 01:24:02.640]   Making your own c60 at home, but then also, you know being
+[01:24:02.640 --> 01:24:09.120]   Conscious about contaminant solvents and and bioavailability. What are what are your recommendation?
+[01:24:09.120 --> 01:24:12.320]   Well on the carbon 60 powder you're going to purchase out there
+[01:24:13.120 --> 01:24:18.160]   Is solvent produced one way or another either they started then they sublime it or they
+[01:24:18.160 --> 01:24:25.360]   Don't sublime it. They just use the HPLC to separate it to increase the concentration of the carbon 60 molecules
+[01:24:25.360 --> 01:24:30.480]   So they all have trace amount of solvents and if they're all the particle sizes are very large
+[01:24:30.480 --> 01:24:36.880]   Yeah, you can mix it for a couple weeks and you know, knock some of those molecules down in size and break some things off
+[01:24:36.880 --> 01:24:42.480]   It works. It's where it you know, it does you get a slight amount of toxicity and you get very you know
+[01:24:42.720 --> 01:24:49.760]   But but the larger particles do you get people that aren't filtering it? They're definitely getting caught in their their liver as they showed in my studies
+[01:24:49.760 --> 01:24:51.600]   You know
+[01:24:51.600 --> 01:24:56.080]   We used to make and we stopped doing it. We made what we call the concentrate
+[01:24:56.080 --> 01:25:01.040]   Yeah, so this is off to the left. Yeah, we did that for about two months
+[01:25:01.040 --> 01:25:07.360]   And we said, you know, we basically we took it and put carbon 60 in sunflower oil at a concentrate level
+[01:25:08.080 --> 01:25:12.800]   And they could take that and basically dump it into about like a liter of
+[01:25:12.800 --> 01:25:18.160]   Olive oil. So now they got the standard product that everybody else has out there
+[01:25:18.160 --> 01:25:21.040]   They got carbon 60 now in olive oil
+[01:25:21.040 --> 01:25:28.720]   And we did that for a couple months and we felt so bad because all it does is take make people take more olive oil
+[01:25:28.720 --> 01:25:36.400]   And so we felt bad, you know, we're really deceiving the public or tricking them into taking more of olive oil
+[01:25:36.400 --> 01:25:40.400]   Which you don't want to consume excessive quantities. And it's so so we stop doing that
+[01:25:40.400 --> 01:25:42.800]   We don't sell any kind of concentrate anymore
+[01:25:42.800 --> 01:25:47.840]   It's it's just straight out of the bottle that right now and just put it in your mouth
+[01:25:47.840 --> 01:25:49.280]   There's no need to
+[01:25:49.280 --> 01:25:55.120]   Take excessive amounts of oil. We don't need our serving size is only an eighth of a teaspoon and we have
+[01:25:55.120 --> 01:26:02.480]   About 50,000 times more bioavailable molecules and anybody else on the market. So, okay
+[01:26:03.200 --> 01:26:06.400]   I'll make it at home do it, but yeah, no no because I actually bought
+[01:26:06.400 --> 01:26:13.760]   I bought some of this concentrate and I was and I was to quote diy at home, right because I was buying C60 from everybody and trying different
+[01:26:13.760 --> 01:26:16.800]   You know suppliers, and so I bought a bottle
+[01:26:16.800 --> 01:26:18.400]   I made a liter
+[01:26:18.400 --> 01:26:22.800]   And then I you know and then I used it and I went to go back to the website and it wasn't for sale anymore
+[01:26:22.800 --> 01:26:27.840]   And I never I never called you to say why did you take it off the market, but that makes so much sense
+[01:26:27.840 --> 01:26:30.720]   You're right. I mean, why not just take the the little bottle
+[01:26:31.360 --> 01:26:37.600]   Yeah, well, yeah, why why subject yourself to all that oil you're allowed about a teaspoon a day of olive oil
+[01:26:37.600 --> 01:26:42.480]   You know according to some of the studies out there. That's plenty. That's your hundred percent serving size. You're
+[01:26:42.480 --> 01:26:46.480]   You know, uh, whatever. You know, you're serving size that you're supposed to be taken
+[01:26:46.480 --> 01:26:50.560]   So why why why take more oil because you get in your bread you get in another
+[01:26:50.560 --> 01:26:55.760]   You know ingredient in other foods that you eat too. So, okay. Yeah, you know, I was gonna help
+[01:26:55.760 --> 01:26:58.160]   Thanks for saying that. I was gonna ask you this question
+[01:26:58.800 --> 01:27:03.120]   Well, you've got this one part of your website here where you talk about serving size
+[01:27:03.120 --> 01:27:10.160]   Right and you make this comparison about you know, like these other products out there and the cost per day
+[01:27:10.160 --> 01:27:13.440]   Um, so when you say serving size
+[01:27:13.440 --> 01:27:22.240]   Because yours is so much more bio available. You'd have you don't have to take as much and that's why it's um more cost effective
+[01:27:23.360 --> 01:27:30.640]   Yes, or that's okay. That's why that's what this means. Yeah, it's basically our serving size is only an eighth of a teaspoon
+[01:27:30.640 --> 01:27:36.400]   And wow, you know, you're you're getting over a hundred billion carbon 60 molecules
+[01:27:36.400 --> 01:27:41.840]   These other products is typically two teaspoons that you have to take so you're taking mostly oil
+[01:27:41.840 --> 01:27:48.560]   And you can see that all these other ones are clear. They look like olive oil or whatever whatever oil that they put them in or
+[01:27:49.120 --> 01:27:54.560]   Um, you know, our coconut oil or mct whatever, you know, they're they're all they're all clear
+[01:27:54.560 --> 01:27:57.920]   You can't see the carbon in there and they just they have some in there
+[01:27:57.920 --> 01:28:05.760]   But they're few and far between they're spaced out so the light passes right through it when you have an abundance of tiny tiny tiny tiny
+[01:28:05.760 --> 01:28:08.480]   Particles they block the light. Oh, yeah
+[01:28:08.480 --> 01:28:14.480]   So that's why ours is black and everybody else is clear and you know, and yeah, the cost per serving is
+[01:28:14.640 --> 01:28:21.280]   you know, and we produce our own carbon 60 my mission our mission statement is to provide a
+[01:28:21.280 --> 01:28:28.560]   Clean carbon 60 at an affordable cost to help people with health. Yeah, that makes sense
+[01:28:28.560 --> 01:28:34.560]   Yeah, I was just trying to because so these other folks is quote serving size is that the standard
+[01:28:34.560 --> 01:28:38.880]   Two teaspoons per day that you've done all the calculators
+[01:28:38.880 --> 01:28:44.480]   Correct. All right. So then so these all these guys are all serving you two teaspoons per day
+[01:28:44.800 --> 01:28:46.640]   Yours is an eighth
+[01:28:46.640 --> 01:28:50.080]   Because you just don't need you don't you know, because it's so concentrated. Okay. That's what that means. Okay
+[01:28:50.080 --> 01:28:51.360]   Okay
+[01:28:51.360 --> 01:28:58.640]   And you're actually I think one of the interesting things too for people that don't know but you your your products classified as food right in an fda certified lab
+[01:28:58.640 --> 01:29:01.360]   Well, well, yeah food grade carbon 60
+[01:29:01.360 --> 01:29:07.840]   Is what it is and and when you when you identify something as food grade it has no toxins in it
+[01:29:07.840 --> 01:29:12.080]   And that's basically what has no negative effects or no no downside
+[01:29:12.160 --> 01:29:17.040]   And that's what we have and we have no no toxicity in our product at all
+[01:29:17.040 --> 01:29:22.720]   So these are the ones that have the toxicity in it that they also put you know proposition 65
+[01:29:22.720 --> 01:29:26.000]   They've buried in the back of their website somewhere and make some reference to it
+[01:29:26.000 --> 01:29:33.680]   Uh, but at least they have it on their website and that's what you're required by the fda that if you're produced with with uh toxins or toxicity
+[01:29:33.680 --> 01:29:36.080]   Um in the in the california
+[01:29:37.120 --> 01:29:42.480]   Realm of business where that's where they push the proposition 65 that it that it does have some
+[01:29:42.480 --> 01:29:47.120]   Toxys to your carcinogens in the product. Okay similar. I guess last question
+[01:29:47.120 --> 01:29:54.160]   So, you know for the for the vendors that sell product the powder right and and it ends up in all these commercial products
+[01:29:54.160 --> 01:29:58.160]   But you know these guys are advertising solvent free or human grade
+[01:29:58.160 --> 01:30:04.960]   Right, uh, so what what so what you just described is that considered human grade because it's fda
+[01:30:06.000 --> 01:30:08.800]   Right, it's fda standards prop 65
+[01:30:08.800 --> 01:30:14.320]   You know, well, well proxy 65 is a california, you know, uh, right. That's their special
+[01:30:14.320 --> 01:30:20.640]   Whatever there's there's no fda standard set and that's what fadi moose even said on the second publication
+[01:30:20.640 --> 01:30:26.800]   That he put out in uh 2019. He said, you know, there's no standard set in the carbon 60 world
+[01:30:26.800 --> 01:30:31.760]   They do have contaminants in them and they are they are solvents, you know, some of my competitors
+[01:30:32.080 --> 01:30:36.960]   They only started to take in their own product three or four years ago because they cleaned it up better to a
+[01:30:36.960 --> 01:30:43.600]   What what they call a you know a safer standard, you know, it's not safe, you know, I mean, I mean
+[01:30:43.600 --> 01:30:50.880]   But it's not, you know, I don't know how toxic it is. It depends upon your your toxicity threshold
+[01:30:50.880 --> 01:30:53.920]   You know, so it varies from person to person
+[01:30:53.920 --> 01:30:58.640]   Okay, all right. So so the final question again going back to the diy
+[01:30:59.280 --> 01:31:05.360]   Um, what would your recommendation be? I mean, is it if if you know people still want to make their own at home
+[01:31:05.360 --> 01:31:07.440]   And they want to go the olive oil route
+[01:31:07.440 --> 01:31:08.560]   Um
+[01:31:08.560 --> 01:31:13.200]   Is there a is it just no matter what? It's it's safer to go with sublimated versus
+[01:31:13.200 --> 01:31:18.560]   You know, uh, you know solvent treated, uh, you know, if you just wanted to minimize risk
+[01:31:18.560 --> 01:31:24.720]   Or is it just to the point where no, I don't think you know, if you want to well you can minimize it
+[01:31:24.720 --> 01:31:28.560]   You go to a, you know, a one that they say that they bake it out more
+[01:31:28.560 --> 01:31:33.680]   But that's only the volatile solvents. There's still we've we've done smear tests and I've got a smear video on there
+[01:31:33.680 --> 01:31:39.760]   It shows that we've taken carbon 60 powder and actually scratched it with a razor blade on a piece of white paper
+[01:31:39.760 --> 01:31:44.960]   And you can see all the residue that's in there. I mean by by looking at it. It's it's all yellow
+[01:31:44.960 --> 01:31:49.840]   You know, that's carbon 60 and solvents with the solvents attached. So
+[01:31:49.840 --> 01:31:52.800]   I you know
+[01:31:52.880 --> 01:31:57.920]   I wouldn't I I offered to pay my employees. I said we did a study on it
+[01:31:57.920 --> 01:32:00.320]   Say anybody want to try this for a month some of these other product
+[01:32:00.320 --> 01:32:05.760]   I'll pay you $5,000 to take one of these other products for a month and I had no takers
+[01:32:05.760 --> 01:32:10.320]   You know and because we we know better and like I said, even some of these other
+[01:32:10.320 --> 01:32:14.560]   Manufacturers would not even take their own product their own product until four years ago
+[01:32:14.560 --> 01:32:18.880]   You know, they they just didn't take it. So I mean I've been exposed to car
+[01:32:18.880 --> 01:32:20.880]   I've been taking carbon 60
+[01:32:20.880 --> 01:32:22.880]   or exposed to it
+[01:32:22.880 --> 01:32:26.560]   and taking it longer than probably anybody else for 12 years in the world
+[01:32:26.560 --> 01:32:31.600]   I mean and and I I take my product and then I'll I'll stop taking it for a while
+[01:32:31.600 --> 01:32:36.880]   And then I will feel myself slow down feel older a little more sluggish
+[01:32:36.880 --> 01:32:39.600]   Not so active or mentally clear
+[01:32:39.600 --> 01:32:44.880]   Then I'll take some of my product and you know that just just a just a dropper full of it
+[01:32:44.880 --> 01:32:48.560]   And you know when in two minutes, I'm back in the game
+[01:32:48.880 --> 01:32:53.200]   You know, I I can tell it activates my my body and gets it gets me going
+[01:32:53.200 --> 01:32:56.320]   All right. No, thank you for that. I appreciate it. Um
+[01:32:56.320 --> 01:32:58.160]   Good to know
+[01:32:58.160 --> 01:33:00.240]   Um, makes me have to kind of revaluate
+[01:33:00.240 --> 01:33:04.080]   My approach
+[01:33:04.080 --> 01:33:06.240]   Yeah, okay. Yeah, yeah, because uh
+[01:33:06.240 --> 01:33:11.200]   Um, yeah, I'm just thinking it over now. It really makes me makes me have to think about it
+[01:33:11.200 --> 01:33:16.720]   Well, try it out. I mean you said you're gonna do a test to try in some of these uh, water-based
+[01:33:17.120 --> 01:33:23.440]   polarines. Yeah, I'm trying I'm trying a florinol product for the let me let me send you what I want to wear a bottle
+[01:33:23.440 --> 01:33:28.400]   So you can try it and see what you think of it. Okay, so you can put us in a comparison. That's all
+[01:33:28.400 --> 01:33:33.840]   Yeah, no, I appreciate that because um, yeah, I just uh, I had to I stopped taking my own c60 oil
+[01:33:33.840 --> 01:33:40.160]   Because I I buy from Solaris through Layla labs. Yeah, um, and it's like 9.95
+[01:33:40.160 --> 01:33:46.720]   uh, you know, quote solvent free, um, and um, and I make my own c60. I've been doing that for years
+[01:33:47.200 --> 01:33:53.040]   Uh, but then I stopped doing that I waited two weeks to let it flush out and then I'm gonna try a florinol trial
+[01:33:53.040 --> 01:33:56.240]   But yeah, I would I wouldn't mind at all. I thank you very much because
+[01:33:56.240 --> 01:34:01.280]   Yeah, I'm starting to think about, you know, as I get older and I'm you you know, just
+[01:34:01.280 --> 01:34:07.680]   You get older and you start you just read that point where you bio accumulated so much garbage over so long
+[01:34:07.680 --> 01:34:14.800]   No matter how many times I try to do detox routines, you know, I'm just trying to keep up my energy, you know, and it's harder and harder as we get older
+[01:34:15.280 --> 01:34:19.440]   Um, so yeah, no, that's that's a lot of food for thought. So thank you very much for that
+[01:34:19.440 --> 01:34:24.320]   Uh, okay. So hey bob, you know, I just want to thank you so much for your time. This is
+[01:34:24.320 --> 01:34:27.520]   Fascinating and thank you for clearing up so much stuff for me
+[01:34:27.520 --> 01:34:31.680]   Uh, you know, I've been studying this stuff and dinking around with it for
+[01:34:31.680 --> 01:34:37.280]   John. Oh five years now, um or something like that or more than like six seven years
+[01:34:37.280 --> 01:34:42.000]   Uh, you know, and I learned something every time. So, you know, thank you very much for your time
+[01:34:42.640 --> 01:34:48.480]   Well, yeah, and if anybody wants to contact us, please visit our website, you know, c-60.com
+[01:34:48.480 --> 01:34:50.960]   We have it up there or you know, give us a call
+[01:34:50.960 --> 01:34:54.160]   You know, we're having an open phone line. We have a live person that answers the phone
+[01:34:54.160 --> 01:34:59.200]   A lot of times it's myself and our phone number if I could say it is seven two zero
+[01:34:59.200 --> 01:35:01.120]   600
+[01:35:01.120 --> 01:35:02.640]   6040
+[01:35:02.640 --> 01:35:04.640]   Again, that's a seven two zero
+[01:35:04.640 --> 01:35:12.160]   660 40 and call anytime literally anytime is fine. All right. Yeah, bob is very reachable. So I just want to say thank you bob
+[01:35:12.640 --> 01:35:18.560]   His website is c-60.com link in the video description below if you want to reach me. I'm at the tinker's dot academy
+[01:35:18.560 --> 01:35:19.920]   That's my blog
+[01:35:19.920 --> 01:35:22.800]   Um, any party words bob just want to say thank you very much
+[01:35:22.800 --> 01:35:27.280]   No, stay healthy and uh, you know, let's get through these difficult times
+[01:35:27.280 --> 01:35:31.280]   We're going through right now with everything that's going on in this crazy world that we having
+[01:35:31.280 --> 01:35:36.560]   And um, you know, just stay healthy keep those toxins on your body and keep clean with carbon 60
+[01:35:36.560 --> 01:35:40.240]   All right. Thank you very much, bob. I really appreciate your time
+[01:35:40.960 --> 01:35:41.800]   - Thanks, Greg.
+

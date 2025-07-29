@@ -1,0 +1,722 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.440",
+        "text": " Aloha everyone and welcome to another Tinkers Academy Electro healing video I'm your host Kilmer and in this video I'd like to share with you a great conversation we just had about Browns gas it actually was the first Browns gas webinar we've ever held with Ben from h2 biohacker and the topic of the of the webinar was testimonials you know what are people experiencing what are we hearing about folks that are using Browns gas and"
+    },
+    {
+        "start": "00:00:26.440",
+        "end": "00:00:52.400",
+        "text": "how it's helping them with different things so we thought we'd just put this together invite some folks in the chat group and sure enough we had a small group but we learned some really interesting things from each other and I think it's just a great way to kind of learn about you know different ways you could use Browns gas to help you with your health and wellness so before we jump into the webinar I do want to do a disclaimer make sure everyone's you know keeping all the government agencies happy here the information in this"
+    },
+    {
+        "start": "00:00:52.400",
+        "end": "00:01:20.840",
+        "text": "video is for informational purposes only it is not intended to be a substitute for professional medical advice diagnosis or treatment always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care measurement and never disregard professional medical advice or delay in seeking it because of something you've heard on the internet the Tinkers Academy does not recommend or endorse any specific tests physicians, procedures, opinions or other information that may be mentioned in this video reliance"
+    },
+    {
+        "start": "00:01:20.840",
+        "end": "00:01:48.560",
+        "text": "on any information covered is solely at your own risk alright so what did we talk about today well it was testimonials so this is Browns gas we cover that in the webinar just a quick you know brief introduction and we really hit on how Browns gas is helping people you know what is Ben hearing from his customers and some and a couple of us in the webinar chimed in with our own experiences about helping with sports recovery pain relief helping"
+    },
+    {
+        "start": "00:01:48.560",
+        "end": "00:02:17.480",
+        "text": "with skin helping with you know actually its effects on dreams its effects on meditation and it effects on on sickness and illness so I want you to know that if you're you know any of these things kind of fall under your category you know we did cover it and how brands gas works with that so I really hope you enjoy the discussion I did and I just want to say thank you to Ben from H2 BiHacker thank you for the folks that participated really appreciate your time and interest and and and overall just joining in on on helping our"
+    },
+    {
+        "start": "00:02:17.480",
+        "end": "00:02:42.480",
+        "text": "community here learn more about it because the best way to learn is from each other so thank you very much we're going to go ahead and jump right into the webinar now and if you want to learn more about Browns gas I've got a page on my blog this is the Tinkers Academy all the links by the way for all the stuff that we talk about will be in the video description below so at the Tinkers Academy there's a whole page dedicated to Browns gas and all the different videos I've done on it all the different information everything from"
+    },
+    {
+        "start": "00:02:42.480",
+        "end": "00:03:11.080",
+        "text": "the you brown patents and you name it and then also to there's over at the telegram we have an H2 or H2 H HO which is also bronze gas the telegram chat group that I just mentioned so there's a link there to join it if you want to ask questions learn more about Browns gas and or get a hold of Ben get a hold of other folks out there in the industry that are selling Browns gas generators so it's a great webinar again thank you to everybody that participated and here we go let's start the webinar all right well everybody welcome"
+    },
+    {
+        "start": "00:03:11.080",
+        "end": "00:03:40.840",
+        "text": "to the first ever Browns gas user webinar we've just got a few folks interested in talking about Browns gas learning about Browns gas focused primarily on user testimonials and and what you know what we the community have learned about using and experimenting and trying out Browns gas and today we've got Ben from H2 Genesis on to kind of walk through what he's been learning and some of the testimonials he's gotten from his customers and so we've"
+    },
+    {
+        "start": "00:03:40.840",
+        "end": "00:04:09.920",
+        "text": "and we're open to questions and you know we'll just go from there but this is the first ever Browns gas webinar for people that want to use it and we're thinking about having it once a month for people that want to jump in ask questions as they get their machines and try them out and want to tinker around so yeah welcome Ben and welcome Mandy and EMA thank you so much for joining the webinar it's the first one so I think we're making history I hope but anyway hey Ben good morning or good afternoon and yeah so how you doing"
+    },
+    {
+        "start": "00:04:09.920",
+        "end": "00:04:37.920",
+        "text": "hello yeah I'm here good good very good ironically as we're setting up the meeting here you know testimonials on one of my clients was just riding his bike mountain bike I mean I live out in the jungle in Costa Rica currently you know back between US and Costa Rica I travel but nowadays they're not I mean Costa Rica so I'm out in the jungle and one of my clients that is a healing center on the back rows from where I live a few miles away just rides"
+    },
+    {
+        "start": "00:04:37.920",
+        "end": "00:05:05.920",
+        "text": "by on this mountain bike and I'm like hey you got any quick testimonials to give me which what are your thoughts as he's passive by as we're about to start this but yeah so yeah I'll tell you some history in a minute as well but coincidence cool alright so let's start off with you know like for anyone that's just gonna pop in and hear this video you know I think like if we could do a quick like you know we've done other videos by the way"
+    },
+    {
+        "start": "00:05:05.920",
+        "end": "00:05:30.360",
+        "text": "I'll put all the links in the video description prior interviews background things like that but just if you could you give us a five minute for anyone who's new to Brown's gas five minutes you know real quick like what is it and you know and in in like what's your elevator speech when someone says well you make what kind of generators what's your five what's your elevator speech for this how would you explain it to someone had never heard about"
+    },
+    {
+        "start": "00:05:30.360",
+        "end": "00:05:54.640",
+        "text": "before um I may I start with mostly the hydrogen because there's so much research already out there and that's what has the most um yeah I guess research and scientific papers done on is just hydrogen general and there's a lot of information out there already so once you get into the hydrogen and it's easy to pull up those kind of studies and testimonials"
+    },
+    {
+        "start": "00:05:54.640",
+        "end": "00:06:19.400",
+        "text": "and then from there I go into you know okay well we're kind of experimenting and moving that's and this is our past that but there may be additional benefits the Brown's gas um and I guess the way you define Brown's gas is um well mostly I mean the newer hydrogen generator machines they use a proton exchange membrane without an electrolyte in the in"
+    },
+    {
+        "start": "00:06:19.400",
+        "end": "00:06:46.480",
+        "text": "the mix um so the traditional Brown's gas generators use a pure electrolyte you know a water with a very alkaline um you know powder like sodium hydroxide um and so there's a lot of free space in between the electrolytes in there instead of there's water liquid in there the electrolyte mix instead of the special membrane made made by DuPont that membrane"
+    },
+    {
+        "start": "00:06:46.480",
+        "end": "00:07:12.880",
+        "text": "allows you to separate the oxygen and hydrogen but with Brown gas that's not the case every all the gases are just made in the same liquid uh medium at the same time so that's the main difference and it's you know with your eyes in the in the community and it's been I guess it in some studies on this a lot of experiments don't need to be done but a lot of us suspect that there's some additional benefits the Brown's gas you know made using the electrolyte"
+    },
+    {
+        "start": "00:07:12.880",
+        "end": "00:07:38.000",
+        "text": "mix rather than the proton exchange membrane which separates the hydrogen oxygen you know we can go on in more detail later yeah so I have to diagram up on the screen so uh what you're looking at folks is a typical hydrogen generator which produces hydrogen gas uh there's a what they call a proton exchange membrane or a PEM membrane between the two uh rods"
+    },
+    {
+        "start": "00:07:38.000",
+        "end": "00:08:07.120",
+        "text": "that are being you know during an electrolysis pro electrolysis process so hydrogen comes off one side one the cathode and oxygen comes off the other side on the anode and this is your typical way to create hydrogen so every hydrogen machine out there right uh this is how it's set up on the inside and then you're breathing out the the hydrogen and then if you in and some of some some machines will actually have a port where they're pumping out oxygen so you can actually pull off both gases otherwise it's just they're just gassed out the back of the machine and you're"
+    },
+    {
+        "start": "00:08:07.120",
+        "end": "00:08:33.280",
+        "text": "just getting hydrogen so um now for it now what the difference is is and this is my old video I'm just trying to find the trying to find the slide right as you were talking about just like yourself I had to make us I had to make my own slide so where is it I know it's in here somewhere I remember making it the way that you can get an image on out there yeah and then so here's the difference"
+    },
+    {
+        "start": "00:08:33.280",
+        "end": "00:08:56.240",
+        "text": "so you want to explain the difference then now so what happens then if you don't have that proton exchange membrane in the in the electrolysis process and that's bronze gadget maybe politically right exactly um I've got a more specific image that may show some of the details on um our home page an image oh sure pull that up basically what you've got here okay let me go ahead go to your"
+    },
+    {
+        "start": "00:08:56.240",
+        "end": "00:09:25.040",
+        "text": "home okay you know just that just so we don't so um that way everybody kind of gets a kind of an idea so like this guy right here right there yeah yeah it's like very simplified your diagram but it's basically the same thing but in addition to what what may make grounds gas differences what some people call electrically expanded water or ionized water or water a water molecule charged"
+    },
+    {
+        "start": "00:09:25.040",
+        "end": "00:09:49.280",
+        "text": "with two extra electrons and what that does it seems is um the the two hydrogen instead of having that angle you know a hundred and two three four degrees whatever it is that angle it expands more and the water becomes more the molecule becomes more linear those extra electrons push the hydrogen which are positive away from each other and in that state of water when it's charged like that"
+    },
+    {
+        "start": "00:09:49.840",
+        "end": "00:10:14.800",
+        "text": "um hydrogen atoms are further apart from each other um it's theorized that that can actually actually be a gaseous form of water and so that will in like shown in this diagram that's only created in a liquid state that doesn't seem to be created in a um in a machine with the proton exchange membrane so that's an additional benefit but what we theorize that may be happening"
+    },
+    {
+        "start": "00:10:14.800",
+        "end": "00:10:44.480",
+        "text": "is that the extra electrons charge into the water molecule um there it's not super stable um there's a specific name for that that's in a document we'll look to as well but um the electrons will later later possibly release inside the body which give additional electrons to the body for healing and the effect of that is similar to what some people call earthing or grounding which naturally the earth has an electrical charge um and it's also theorized"
+    },
+    {
+        "start": "00:10:44.480",
+        "end": "00:11:11.840",
+        "text": "that the you know trees and life and all that are the electrons because the atmosphere and clouds above us are more positively charged ground is nearly charged that they creates that um difference in potential and the things closer or higher up in the sky they are able to draw up the electrons from the ground so if we evolve this a species touching the ground walking on our bare feet you know on the ground which is conductive we're absorbing much more electrons"
+    },
+    {
+        "start": "00:11:12.800",
+        "end": "00:11:39.040",
+        "text": "in sort of as that these electron extra electrons maybe helping people in this why somebody's grounding in earthing techniques and modalities may benefit as well hmm okay all right there you go uh hey i don't know if there's anyone uh email or mandy if you had a question about any of this before we jump into testimonials okay just let me know if you want to jump in uh okay so that sort"
+    },
+    {
+        "start": "00:11:39.040",
+        "end": "00:12:03.600",
+        "text": "of explains the difference you got a regular h2 generator oxygen and hydrogen only and you've got a browns gas generator you take out that membrane and you've got hydrogen oxygen and you've got this additional output which is referred to as expanded or electrically expanded water gas uh you know and there's actually really interesting i think at the 2019 water"
+    },
+    {
+        "start": "00:12:03.600",
+        "end": "00:12:33.520",
+        "text": "conference there was a discussion about whether or not this gas would also possibly be uh what pollock believes uh is uh structured water the fourth phase of water right so it's some real interesting stuff but we won't get too much into that this science of it one last thing to mention yeah on this topic is um if you jump to the h2 genesis page there's a link to that document which it goes into more details on a on a study it in the in a spectral analysis exactly the plasma"
+    },
+    {
+        "start": "00:12:33.520",
+        "end": "00:13:03.360",
+        "text": "over those yeah for anyone interesting i'll i'll put a link to this document it's also on on ben's website um and it it really talks a lot about what just ben just described which is the bond angular bond uh connections between the hydrogen atoms and what happens when the extra electrons affect the water molecule and it's just really amazing that a water molecule in this state has different properties uh just because it's the same combination h2o but when it's"
+    },
+    {
+        "start": "00:13:03.360",
+        "end": "00:13:27.520",
+        "text": "got extra electrons what happens when you take in this molecule those electro i guess the theory right ben is the extra electrons immediately go because it's unstable go into your body so you get kind of like you're basically drinking electrons right right in the way uh hum it seems like it's only stable this molecule is only stable and i think they call it a risenberg cluster or something"
+    },
+    {
+        "start": "00:13:27.520",
+        "end": "00:13:53.280",
+        "text": "like that so along with other o2 and h2 atoms or molecules really um these molecules can only stay stable amongst themselves in the way they were created kind of like a gel um but once they start touching other tissues and come in contact with other molecules and substances you know they quickly break down and release their electrons yeah plasma water there you go okay well that's"
+    },
+    {
+        "start": "00:13:53.280",
+        "end": "00:14:19.200",
+        "text": "really really fascinating stuff uh okay so let's jump into uh i guess the discussion today it was going to revolve around um just you know the different uh i think we've you've got just by the way this is ben's website uh and he's got a really good section here on research tons of different papers as well as a section over here uh on testimonials so um you know feel free that if you're"
+    },
+    {
+        "start": "00:14:19.200",
+        "end": "00:14:47.760",
+        "text": "interested in learning more uh ben's website is uh just a you know a treasure trove of information so so we're yeah i'll go ahead ben one just go ahead and take over and and just want you know share with us uh you know like what are people using uh your product which is a ben browns gas generator you know uh what are they using it for and how and what and what are the results you want to go to the testimonial page um yeah whatever yeah well actually um the the audio testimonials there um you know"
+    },
+    {
+        "start": "00:14:47.760",
+        "end": "00:15:16.480",
+        "text": "we can people can jump in here and listen to them later but they're actually given to a friend given to me by friend of mine who uh just rode by this mountain bike i just mentioned earlier um so i i i quickly asked him to what are the main takeaways that you like to share with us that um your experience you know what's the most notable things you've you've experienced and because he's um there's a pro tennis player back in his 20s um also mountain biking and biking and racing all"
+    },
+    {
+        "start": "00:15:16.480",
+        "end": "00:15:44.480",
+        "text": "that kind of stuff really like an athlete um and he says the biggest thing the first thing he said was like recovery he's like you know he's 50 years old now you know you mean him but same age you know grew up you know in lana for a while together but um he tells me the main thing that he notices recovery he's like i feel like him in my 20s again and then they're really stuck out with me he's like because he knows his body and he trains like an athlete so he's lying his bike up and down the"
+    },
+    {
+        "start": "00:15:44.480",
+        "end": "00:16:13.280",
+        "text": "mountain tier and in Costa Rica on these you know dirt roads and he's like i can recover now like i was back in my 20s he's like that's huge you know he's like he's got a new life you know because he's like you know he wasn't that before but he feels like he's young again so he's excited about getting out there and exercising and doing more so um and this is a i think a common thing that's going to come up into many testimonies like it makes you younger it makes you feel younger you can do more things you know with with the thing body you've got a your old old young body of that"
+    },
+    {
+        "start": "00:16:13.280",
+        "end": "00:16:39.520",
+        "text": "again yeah well yeah i mean yeah it's got all comes down to electrons but there's a little bit there's more though that's what we don't know about brown skies yet is that it's more than just you know brown sky i mean just electrons free electrons it's more than just hydrogen and oxygen but yeah yeah because you're saturating your body with hydrogen and oxygen yeah right in this case he also mentioned um within a couple days after starting it some of his achy"
+    },
+    {
+        "start": "00:16:39.520",
+        "end": "00:17:09.280",
+        "text": "joints went away you know shoulder palm and elbow palm those you know weird aches went away really quickly um you know with the first few days he's like wow you know he's thinking it's a quincy or what but i that's one of the you know hearing back from a lot of clients that's one of the first things they mentioned so i can bend i don't know if this is a coincidence or not but you know just you know one or two days after using this ache in my shoulder or knee or wrist you know it's gone away but you know i would say it's a coincidence you know hearing it from one person but you know i hear"
+    },
+    {
+        "start": "00:17:09.280",
+        "end": "00:17:38.160",
+        "text": "from four or five six people you know it's it's becoming more common so it's something to consider okay so you want to kind of just you want to go down this list or did you have kind of like your own notes uh about yeah i've got a few i've got a few that not written down here yet so um it'd be good to save those that are written down for people to uh the look at later and um i've got a couple interesting new ones that haven't added yet i'll mention um another friend of mine"
+    },
+    {
+        "start": "00:17:38.160",
+        "end": "00:18:08.560",
+        "text": "here who again he had some early aches and pains go away um he's one that i mentioned there that um he uses a um heart math you know that uh he's into the heart rate variability you know um biofeedback type of stuff yeah he said he was never able to get a uh a reading back that his he was in a coherent state um but until he started using or inhaling the the brown's gas the idea he was having a scene so he was like really excited about that that he was trying to"
+    },
+    {
+        "start": "00:18:08.560",
+        "end": "00:18:36.320",
+        "text": "make progress you know say mentally and spiritually and that was part of you know what he was wanting to do and he was finally able to you know make progress in that in his meditations and so on um so that was interesting but i'm not not too long ago on you know i run into him he's like um he's like you're not going to believe this he's like he was so excited but he's also into ozone therapy as well but um and anything into aging because he's like i want to say he's close to 80 years old notes doesn't he something maybe 80 but he's like so much energy going to the gym and"
+    },
+    {
+        "start": "00:18:36.320",
+        "end": "00:19:04.160",
+        "text": "doing all these things more energy than most people doesn't stop but so that the way you just coming the other day is like um i just went to the barber the other day same woman i've been going to that's been cutting in my hair for 10 years and he says like um he's like hey we say what are you what are you doing to your you know hair or what are you doing these days because it's similar your hair is coming in darker like he was all white all gray and he's like the same i i didn't tell this person anything she custom my hair for 20 years since you just mentioned"
+    },
+    {
+        "start": "00:19:04.160",
+        "end": "00:19:28.640",
+        "text": "that my hair is coming in darker and you can tell me his hair does look darker now too he's like something i'm doing is working you know he's been with the last six eight months he's been using the machine pretty regularly how much does he use the machine i want to know yeah i don't i don't i don't know exactly but um i would think i mean he didn't tell me but i would what he's told me"
+    },
+    {
+        "start": "00:19:28.640",
+        "end": "00:19:52.000",
+        "text": "before is uh it seems like he does it every day you know at least you know once a day it's part of his you know routine or ritual you know it's it's fairly easy i find it's one of the easiest um i guess supplements or health beneficial things you can do i i find just because it's so easy you're sitting at a desk you're laying down you're relaxing you're sitting down you know watching"
+    },
+    {
+        "start": "00:19:52.000",
+        "end": "00:20:17.440",
+        "text": "something on the tv or reading or laying down the rest just well again and you know put the can go on and flip on the machines for breathing it it's much easier than making up a smoothie even or yeah it's perfect when you've done nothing to wash a cleanup afterwards it's so easy to use so i i when i follow up with people i find people are really still using it because they do see a"
+    },
+    {
+        "start": "00:20:17.440",
+        "end": "00:20:46.640",
+        "text": "benefit and they use it every day because it's so simple and easy to keep up with it is definitely the lazy person's health remedy yeah exactly or i'm or desk jockey because i'm a desk jockey sitting at a computer up to ten hours a day longer sometimes and i'm plugged in most of the time you know uh into my gatting uh but yeah i just want to let you know i just want to stay on a sidebar for um for anyone who's listening to this video and is not aware that we that Ben has started a"
+    },
+    {
+        "start": "00:20:46.640",
+        "end": "00:21:16.320",
+        "text": "telegram chat group on on on uh browns gas also known as h h o we also discuss hydrogen uh oh three therapies and also structuring water because it's all related it's all about water and and gases and you know health gases so it's on telegram and you know i just want to point out that you know what you just said uh there's been folks that have jumped in because this thing i think our our chat groups been going on for around about a year maybe now or but you know um but i remember"
+    },
+    {
+        "start": "00:21:16.320",
+        "end": "00:21:43.760",
+        "text": "reading if we go through the history of the chat group there's a another gentleman came in and posted that his hair also he'd gotten a generator and his hair was also getting darker and he was an older gentleman so it's just not it's not a one-off claim when there's been at least two that i know of for sure of folks that are actually experiencing that and for me personally god i don't worry about it yet but it'd be interesting to see if i retain my dark hair as i get older"
+    },
+    {
+        "start": "00:21:44.480",
+        "end": "00:22:12.640",
+        "text": "but yeah that's really amazing uh but yeah it sounds creamy that on it though i get i get comments on my skin as well and um i was just with another client in in town recently and you know public place and someone that she hadn't seen in several years three or four years comes up though she's like hey how are you doing talking to my client i didn't know this person he's like the first thing he says like wow you look wonderful what are you doing you know and then we were just"
+    },
+    {
+        "start": "00:22:12.640",
+        "end": "00:22:40.640",
+        "text": "talking about you know the machine and how we've been using and all that and he comes up and say wow you look great how are you doing everything in three or four years and look better than ever and so we both look at each other and laugh but you know that was i mean another coincidence baby but um it's that it happens again and again those kind of stories yeah in fact uh right when you you stepped away for a second uh Mandy if you want to share um you know she was talking about"
+    },
+    {
+        "start": "00:22:41.360",
+        "end": "00:23:09.200",
+        "text": "her bagging experience um so i don't know if you wanted to share that i mean i've only done bagging when i had a burn um and to help heal the burn faster actually it took the pain away it didn't i noticed that when i bagged my burn i you know i burned my hand um the pain went away really quickly uh and i never heard again after that for like you know the whole time i was healing so i didn't i didn't yeah i didn't see you heal faster but the pain was gone and then and then"
+    },
+    {
+        "start": "00:23:09.200",
+        "end": "00:23:34.000",
+        "text": "Mandy yeah exactly talking about her that's been just as well yeah Mandy did you want to you know want to share your story about um about your skin and sure yes so um yeah the other night i um got a garbage bag and i basically bagged my whole leg um back when i was a teenager i had a skiing"
+    },
+    {
+        "start": "00:23:34.000",
+        "end": "00:24:01.840",
+        "text": "incident um and through the years i'm 50 now um with you know excess you know uh stress on my knee it would sometimes get swollen but then it would go away well lately um my knee has been kind of swollen for the last four years and i'm really stubborn i'm not going to go to mainstream medicine"
+    },
+    {
+        "start": "00:24:02.480",
+        "end": "00:24:24.800",
+        "text": "um and it really doesn't hurt it's just it looks terrible because it's you know swollen the only time it really hurts is if i've you know overextended or stood you know stood too long or worked too hard or whatever or if the dog runs into my leg um but you know it's it's tender"
+    },
+    {
+        "start": "00:24:25.440",
+        "end": "00:24:55.280",
+        "text": "but not really sore um but then also my foot i've got a worton storoma on that same my right leg my foot there and there was also a sore spot in the middle of my calf i don't see anything there it just was sore so i thought you know i'm gonna bag my whole leg and i did that for probably an hour hour and a half maybe and um first of all my well"
+    },
+    {
+        "start": "00:24:55.280",
+        "end": "00:25:24.640",
+        "text": "and i also have really uh dry cracked heels from i think thyroid issues um and my foot was just baby soft well my skin all my skin on my leg was just baby soft and felt so good the pain was gone um i was like wow okay i'm gonna have to do this more often this was really nice and um yeah so yeah you know like you get one of those bags like oh ben you were gonna"
+    },
+    {
+        "start": "00:25:24.640",
+        "end": "00:25:52.960",
+        "text": "start selling bags right but yeah the if for anyone who doesn't know it's basically you just literally take a bag that you would use for taking a shower if you had a cast right and you stick the hose in there and just fill it up keep away from it's almost really not worth selling because what i find what works best are the the bags the plastic clear bags you get in the produce section of your grocery store okay those are the right size you can see through them um you can"
+    },
+    {
+        "start": "00:25:52.960",
+        "end": "00:26:20.800",
+        "text": "see if any humidity and water is collected in there which is not a bad thing to me you know it's you know getting in there and condensing um and so you can see how close where the tube is where the end is but that's like that's the easiest way to back up your hand or your foot and something like that um the elbows and shoulders and knees are a little bit more difficult and actually um my my mother's a seamstress she she she sews as well and she's actually working on a prototype"
+    },
+    {
+        "start": "00:26:20.800",
+        "end": "00:26:48.080",
+        "text": "right now that i want to use for my shoulder which is basically a sleeve you know be gathered with elastic on both sides in a kind of um what in the waterproof cloth that you'll be able to slip onto your elbow your shoulder your knee and i'm going to be testing that shortly as well um i've tried it with bags you can make a hole in the bag i just mentioned so you can make it into a sleeve but that becomes more difficult because you got to close up two ends and it's kind of like it makes"
+    },
+    {
+        "start": "00:26:48.080",
+        "end": "00:27:10.240",
+        "text": "sounds and it's crinkly and it's not as convenient but on this new system we're working on i think it's going to be much better um i also found that um you know external issues are fine at you know i got a funnel i put on my shoulder to help it but if it's a larger area i mean i found the area i put it on it works great and really quickly but it doesn't give the whole joint all around the"
+    },
+    {
+        "start": "00:27:10.240",
+        "end": "00:27:39.760",
+        "text": "joint is what you really need to get a good result and um feedback so i so that's why we'll probably we'll work on it we'll probably sell that on our website and i'll make it available in as well yeah we're kind of joking around a little bit with Mandy this week because Mandy want to share the idea that you had and then and then when we heard it we're like no no but yeah go ahead share the idea because in case anyone's thinking this yeah don't do it it's like well"
+    },
+    {
+        "start": "00:27:39.760",
+        "end": "00:28:07.760",
+        "text": "that was probably the best thing is knowing oh good the universe does have my back all right um so yeah i've got decades of adrenal thyroid issues so there's just various pieces and parts of me that just need attention um you know from my hair the to you know my scalp to the tips of my toes and so i got the brilliant idea that oh i should just get a hazmat suit and pipe the gas in"
+    },
+    {
+        "start": "00:28:08.320",
+        "end": "00:28:35.520",
+        "text": "or you know something like that and then the conversation turned to um maybe a tent and so we looked up personal saunas and i was like oh yeah instead of a light or steam we could just pipe the gas into the tent great idea and i was like should i message the guys and see if this is a good idea and i was like no i think i'm just gonna do it and then post my results and about that time"
+    },
+    {
+        "start": "00:28:35.520",
+        "end": "00:29:01.680",
+        "text": "i popped onto the group and somebody else had kind of i forget exactly how they phrased it but it was something about you know is it possible to do a tent or something without blowing myself up and i was like who and so i followed the conversation and joined in and realized oh and i had already bought the tent mind you oh wow i had it right here i was mere moments away from piping gas into"
+    },
+    {
+        "start": "00:29:01.680",
+        "end": "00:29:26.800",
+        "text": "this thing and stepping inside translated moments away from blowing yourself up so ben you want to like you're the engineer here who builds browns gas generators you want to explain what you told us why that is not a good idea right it's just flammable and it's hard to control the percentage i mean it's in the lab in the super laboratory setting um you know with rats"
+    },
+    {
+        "start": "00:29:26.800",
+        "end": "00:29:55.840",
+        "text": "they do they have special devices to monitor the percentage of the hydrogen because over like 4.7 percent really over 4 i'll be worried percent of hydrogen gas and air it becomes flammable so you don't want that to happen um along those lines i got a story to tell i just heard recently back from the client um he ran his he got his machine and was filling it up it ran fine and he was gonna he was putting additional water in it without the the top um you know expansive chamber"
+    },
+    {
+        "start": "00:29:55.840",
+        "end": "00:30:25.440",
+        "text": "on it and so the machine was turned off and it was just you know the top of the machine was the electrolyzer cell was you know open air so it was air it out for a while as well but you know i guess where he used his cold and walked around on the carpet with um socks you know you can create a charge so just the the act of touching the funnel the plastic funnel to the metal tip of the electrolyzer cell it made a spark and whatever residual hydrogen was in there it may even be"
+    },
+    {
+        "start": "00:30:25.440",
+        "end": "00:30:55.120",
+        "text": "the the electric really expanded water because you would think the hydrogen would escape pretty quickly but with um regardless i mean that little spark he said and he noted it that um trigger an explosion and just a really loud pop i mean it didn't hurt anything nothing break the machine was fine but it it's both scared them and it's like just a wake-up call so like you really got to be careful when you're dealing with it and so i mean we're you know updating our documents again to"
+    },
+    {
+        "start": "00:30:55.440",
+        "end": "00:31:19.600",
+        "text": "help you to be more careful and in in not even pouring what when once the machine has been turned off let it air out more maybe by the way to blow out any gas there's maybe Romanian in there and don't touch you know a funnel directed to the metal top maybe pour it only through the the top cylinder expansion chamber that's on the top to create a little bit more distance and give the"
+    },
+    {
+        "start": "00:31:19.600",
+        "end": "00:31:47.600",
+        "text": "yes it's time to diffuse but um that was pretty amazing here in that story bonus points to the universe for saving my butt it's winter here in northern Illinois and we get a lot of static electricity right so what would be so like obviously you don't want to tend to yourself like a sauna up to your neck and then create this giant gas bubble but so you're saying that hydrogen is flammable"
+    },
+    {
+        "start": "00:31:47.600",
+        "end": "00:32:13.120",
+        "text": "if it's more than four percent of the of the volume of the gas more than four percent is hydrogen then it becomes flammable and so the generators are designed so that they don't go up that high but then if you fill it but if you fill up a you know a space then it's going to get higher right but the generator's output is not flammable is that correct or or not right well the generator's output"
+    },
+    {
+        "start": "00:32:13.120",
+        "end": "00:32:43.040",
+        "text": "i mean is your you know hydrogen oxygen gas for the most part so um so that's how brown torches or or may brown gas torches are made at least available but the the coming out at the end it is you know super concentrated and flammable but the idea is to to find a or to get below that official four point seven percent hydrogen in the air mixture um when with what you're breathing"
+    },
+    {
+        "start": "00:32:43.040",
+        "end": "00:33:11.440",
+        "text": "i mean ideally you would calculate the volume of your lungs how many breaths you take per minute so how many liters of air you're breathing per minute and then you can adjust the volume of the gas from the machine using the control panel in those machines um so you can get below that ideally you know four percent i mean even that one in two percent you know we've get um you can feel it you know you can get a therapeutic dose you know two or three percent again so that's why"
+    },
+    {
+        "start": "00:33:11.440",
+        "end": "00:33:41.280",
+        "text": "you don't want to be so the idea you got a hundred percent right it comes out a hundred percent but what you breathe it as long as it's mixed with air it quickly i mean just like an inch from the the nozzle from even a torch if you were using a brown gas torch a ninja so from the nozzle it's no longer flammable because it's mixed and right okay yeah okay okay so you want to keep your lungs at a below flammable you know uh you know density of yeah so whatever is in your lungs you want to"
+    },
+    {
+        "start": "00:33:41.280",
+        "end": "00:34:04.960",
+        "text": "make sure you're getting air along with the browns gas right so that what's inside your lungs is a mix of air right is a mix of air and okay okay so then if you back as well you don't want to do a like a basic mask you never want to use a face mask masking hello yeah that's right because we had right because we had uh i know that we had somebody jump in once and said that they connected their"
+    },
+    {
+        "start": "00:34:04.960",
+        "end": "00:34:32.560",
+        "text": "browns gas generator to their CPAP and you were like totally bad right okay so and that's because right don't do that because in the face mask well but they're still breathing in and out though wouldn't when the mixture of air and browns gas still or is it you just what do you think it would accumulate the face mask the face mask um prevents normal air from mixing in as quickly as it would"
+    },
+    {
+        "start": "00:34:32.560",
+        "end": "00:34:57.360",
+        "text": "as if you use it compared to a cannula for example right cannula it just owes light up to you know so when you breathe in there's so little hydrogen but you're sucking in a majority of fresh air and see you long right so it quickly disperses it becomes inflatable okay so so without having to do a whole lot of math um what's the quick way to know what to have your settings on and how much"
+    },
+    {
+        "start": "00:34:57.360",
+        "end": "00:35:25.840",
+        "text": "you're getting what i what i've come to to um the conclusion of the easiest way um is really just and this is what i get this as a note in my talk too i was going to mention you know more is not better and less is more um nowadays i'm using the the machine on just 20 power um you go to a hundred percent in another client contact like contacted recently saying you know"
+    },
+    {
+        "start": "00:35:25.840",
+        "end": "00:35:48.000",
+        "text": "then um i'm starting to dry out you know my lungs are a little bit as my sinuses severe or you know or drying out like what's going on like what percentage power are using it on like 100 percent i'm like oh my god that's not a good idea like i don't know where you get that idea but you know what in everything we write and tell it's like no that's way too high for you know one person to breathe um so"
+    },
+    {
+        "start": "00:35:48.000",
+        "end": "00:36:14.320",
+        "text": "so the idea is to start low and um in in this if you can feel an attack then you're you're good because the body's accurate you know really quickly between you know and within 20 minutes you usually get a uh a small amount your hydrogen is um your body's actually worth a hydrogen so um 20 40 percent at most if you just want to do it for a short period of time you know an individual"
+    },
+    {
+        "start": "00:36:14.320",
+        "end": "00:36:44.160",
+        "text": "but um really i mean 10 20 percent and actually the person they were just riding by um he knows the same things they've been i can still feel it you know the effects that 20 percent don't want to keep that there because you'll you'll save water the the um electrolyte cell will heat up less it'll throw out less water vapor your distilled water will last longer um the the gases coming out will be cooler it'll be much more pleasant to breathe and less likely that any um"
+    },
+    {
+        "start": "00:36:44.160",
+        "end": "00:37:10.960",
+        "text": "contaminants will be you know spit out as well from the same um and it's a lot less drying and much more pleasant at a lower percentage and you still get the same effect you know and a lot of things you think more is better in some cases that may be the case but in this case it's definitely not the case so people are what if you're doing like if you're just doing like bagging a limb or something do you want to have less is more or do you want to have kick it up a little bit"
+    },
+    {
+        "start": "00:37:10.960",
+        "end": "00:37:34.000",
+        "text": "yeah that's a good good question um that's all the different story um i would go as much as 80 percent in those cases um because you're not you know it's not going into your sinus membranes and it won't be as drying and if it does throw out a little bit of extra water it's not a bad thing because um that'll keep you know your your tissues moist as well so um i still wouldn't do a hundred"
+    },
+    {
+        "start": "00:37:34.000",
+        "end": "00:38:01.120",
+        "text": "percent um if maybe i was for a short period of time as much as 80 externally like for half hour at most an hour but in my experience i mean if you want to do it long time for a few hours on a limb you know 40-50 percent power with our machine is probably you know just as fine so um my husband bought some pieces and parts um because we have like a three gallon uh carboy"
+    },
+    {
+        "start": "00:38:01.120",
+        "end": "00:38:25.840",
+        "text": "and we were thinking of running another tube and grommet and air stone and all that into that because i'm like trying to get enough water in the little drinking container for him to water all of his plants would take forever so we thought well if we get like you know run it into the the hose and everything into the lid of a three gallon carboy um can we still have"
+    },
+    {
+        "start": "00:38:25.840",
+        "end": "00:38:56.480",
+        "text": "like like the machine can can do that right i can have three yeah yeah that would be fine um and in those cases i mean you could just crank it up for plants and stuff like that in animals you could crank it up higher you know eighty nine hundred percent in um a large volume a few gallons of water um attached an air stone directly to a long hose and hook it up directly you know hook it up to the second bubbler or an eye machine you can hook a you know silicon or vinyl hose to directly to the"
+    },
+    {
+        "start": "00:38:56.480",
+        "end": "00:39:16.560",
+        "text": "second um bubbler there skip the whole um drinking container connect your air stone and put that into your water you want a bubbler i use your name or i use your name okay it would it be okay so if i've got he he bought one of the little um uh things that's got the the you've got the two"
+    },
+    {
+        "start": "00:39:16.560",
+        "end": "00:39:41.920",
+        "text": "um watch McCall's on there for the cannulas he bought one this yeah the three yeah the splitter he got one that's right boy could have um i could be breathing it if you go in yes that into the drinking water and then the third hose to go into his bottle what would i put the setting on if i'm"
+    },
+    {
+        "start": "00:39:41.920",
+        "end": "00:40:07.760",
+        "text": "breathing it going into the drinking water and going into the car boy right that that's a good question um if you're going to use the air splitter at all um it's really only good um i would don't use an air splitter i would only use it when you want two people to breathe at the same time for any other use case i would plug in directly to the second bubbler especially if you want to"
+    },
+    {
+        "start": "00:40:07.760",
+        "end": "00:40:35.440",
+        "text": "uh bubble a few gallons of water you want to do a lot more and you need a lot more pressure for that so you want to just do that to use a three-way air splitter to breathe bubble water uh it's just not going to work the just the pressure in the water will keep bubbles from going down coming up through the air stone if the other side of uh or if one of the um passageways of the hose with"
+    },
+    {
+        "start": "00:40:35.440",
+        "end": "00:41:04.240",
+        "text": "air splitter is open the air is going to take the path path of least resistance so it's too much it needs too much pressure to go down and bubble up through the air stone it's going to take the path of the path of least resistance and go out the the unobstructed flow of the the hose and the tube the kangula okay so like at all to a hundred percent the the carboy is still not going to get all that it needs and i'm going to get overdosed right yeah you're not breathing all day i would"
+    },
+    {
+        "start": "00:41:04.240",
+        "end": "00:41:32.720",
+        "text": "assume so it's you're better off just running it at you know ninety a hundred percent for half hour hour on the water you want to use for your plants or animal gotcha gotcha okay yeah because honestly it's just you just take this plastic drinking container and you replace it with your carboy so this with this tube right here with the stone would go into the bottom of the carboy full of water and then uh then coming off the top right here of the carboy right you just would you know"
+    },
+    {
+        "start": "00:41:32.720",
+        "end": "00:41:58.320",
+        "text": "drill two holes like it on the in the in the cork well you don't even do that i mean and then you can just do open yeah are you yeah you just breathe off the top the hose coming out of the second bubble or connect the hose connect to an airstone and just pop the airstone into whatever water you want to bubble it's good yeah you just have to be a sealed container oh okay well that's even easier than yeah i was thinking of right exactly as much easier yeah i was thinking to doing the"
+    },
+    {
+        "start": "00:41:58.320",
+        "end": "00:42:23.360",
+        "text": "same thing with getting um uh having the second bubble or go into a water bottle and then instead of you know because i don't have this thing uh and then have and then just breathing off the top of the bottle so that whenever i wanted to drink it hadn't been sitting for a while because you know if it sits for a while right that the gas diffuses so that way i'd get a full saturated water every time i drink because i'm breathing through my drinking water right and that would work i just"
+    },
+    {
+        "start": "00:42:23.360",
+        "end": "00:42:51.920",
+        "text": "got to figure out it the only reason the only reason and the best reason to use this drinking container that you see in a picture right here is so that um you can fill it with water bubble it through there forces the gas through the water comes out and then you know few people can breathe it if you're in a rush you don't have much time you've got water ready to drink and you've just done a session of phase 20 30 minutes and you've got water ready to drink right after you've breathed it so it's like a two for one you know but if you've got more time you're around the"
+    },
+    {
+        "start": "00:42:51.920",
+        "end": "00:43:20.000",
+        "text": "machine more often or home more often then it just is easier well to do one or the other you can remove this drinking container completely connect your canula if you're just one person to the second bubble or you know connect your air stone to that second bubbleer um we're just doing water for drinking even if you just want to drink water yeah because i'm like well the container is kind of small i was like i wonder if i could put it in like one of my gallon or half gallon"
+    },
+    {
+        "start": "00:43:20.000",
+        "end": "00:43:48.160",
+        "text": "glass jars that's the other thing is i was wanting to get it into a glass container that's larger quite exactly i i do the same thing same thing from the second bubbleer i run a stretch of tubing that's connected to air hose and just drop that into a amazing glass jar and that's how i usually do my water use an open lid on that or right yeah yeah yeah it's much easier and can be just"
+    },
+    {
+        "start": "00:43:48.160",
+        "end": "00:44:18.080",
+        "text": "even open lid i mean under pressure you get a little bit more hydrogen dissolved in there but it's really not worth the hassle when you get enough benefit i find just having an open container and plop in the air stone in there plus with glass you don't want to um have it pressurized anyways but especially with uh any i how you're doing you know free or exclusively in that open space in there the effects point in the glass what's so you never want to close glass container that's"
+    },
+    {
+        "start": "00:44:18.080",
+        "end": "00:44:39.520",
+        "text": "why that drinking container we do we do use this plastic in worst case if something happened that you know the top would pop off there right good point i mean some people don't like drinking from plastic so let's help them to do just connect second bubble to the air stone drop there stone in the glass jar of water open top and you can bubble there for you know 10 20 30 minutes"
+    },
+    {
+        "start": "00:44:39.520",
+        "end": "00:45:09.120",
+        "text": "out of you know you like okay as well so Ben you know the the conversation here is sort of focusing on testimonials um but no i'm really glad you covered this because we're talking about um two ways to use browns gas one is breathing and we've got a few of the important you know a few of the benefits of breathing but now let's talk about the water because you know thanks to Mandy she's brought it up so let's talk about what are the benefits or do you even see a different"
+    },
+    {
+        "start": "00:45:09.120",
+        "end": "00:45:38.480",
+        "text": "benefit from drinking water that had the gas bubbled in it right because there's two ways you can take gas in the in water that's bubbled or breathing so are these any testimonials okay we could pop over like what are the testimonials because you've got i guess this is your friend from Costa Rica right so he's like made some recordings and you've that you've mentioned which is like meditation sports recovery which is awesome stuff so on the website you can go and check out"
+    },
+    {
+        "start": "00:45:38.480",
+        "end": "00:46:06.880",
+        "text": "these testimonials and then so do you have any that are like people drinking the water and they're all of a sudden realizing that wow this water's more satiating or it's more hydrating or anything like that um definitely more hydrating um between being my family and people i talk to um you might my wife here as well it seems like if you are needing more water if you're already hydrated um and you do drink this water you're less likely to have to go to the bathroom soon afterwards um it"
+    },
+    {
+        "start": "00:46:06.880",
+        "end": "00:46:33.360",
+        "text": "seems like the water simulates better into your body and tissues and if you drink granular tap water spring water any other alternative water the water seems to stay inside you up to it until you've uh i guess refilled your reserves internally um so that's a common theme it this it seems to hydrate better um also me my wife is nursing right now too she produces more milk"
+    },
+    {
+        "start": "00:46:34.080",
+        "end": "00:46:58.560",
+        "text": "when you know for the baby when she drinks this water has compared to other water um in sports it does help you know hydrate yourself faster you know we're translate to just more energy more endurance um my friend brian he put those some audio testimonials on there he even he mentions that um something i noticed with drinking the water is that you know i'll drink"
+    },
+    {
+        "start": "00:46:58.560",
+        "end": "00:47:24.320",
+        "text": "before i go to bed sometimes and then also i'll breathe during the night but i i have noticed that when i drink the water before bed my sleep is deeper and when i breathe either before bed or and while sleeping um my dreams are more active so the the water um affects more your physical body which kind of makes sense it goes into your stomach and it may be spread from there um whereas"
+    },
+    {
+        "start": "00:47:24.320",
+        "end": "00:47:48.080",
+        "text": "breathing it and inhaling it affects more your mind and mental state which makes sense as well because it's going right after your nasal passage and it can pass the blood brain barrier really easily you know be being a hydrogen you know smallest molecule you know there is h2 um so those are both so you get very different benefits from both so we do definitely recommend"
+    },
+    {
+        "start": "00:47:48.720",
+        "end": "00:48:14.960",
+        "text": "drinking the water and breathing it um so i think i noticed something i'm not sure if this is related or not but my list of videos to watch is really really long since joining all these telegram groups so i thought okay i'm gonna watch them on you know a faster playback speed but i just i couldn't"
+    },
+    {
+        "start": "00:48:14.960",
+        "end": "00:48:41.680",
+        "text": "do it because i'm like i can't i can't make sense of what they're saying when i've got it going even just a little bit faster last night for the first time i was like i'm going to try it again i put this guy on two times speed and i listened to the whole video that way it made complete sense and i'm like i was also doing this gas at the time i was like i wonder if the gas is like making"
+    },
+    {
+        "start": "00:48:41.680",
+        "end": "00:49:10.720",
+        "text": "my cognitive functions like be able to pick things up quicker that's the speed we're interested in this fast yeah that that's super interesting you mentioned that because i've noticed the same thing um i've got no patience for a slow video or slow talking to you even so i always watch my informational videos on 2x sometimes i wish there was 3x but um as far as well one so along those lines affecting your your mental state i i do notice like it clears"
+    },
+    {
+        "start": "00:49:10.720",
+        "end": "00:49:36.720",
+        "text": "that mental fog you get sharper quicker um it just i mean especially for me one way to notice is what's going on in your mind is just the dreams too i mean because that as you're sleeping your dreams more active that tells you your mind's more active and it's getting in there and doing something in your brain that's a good thing it's just thing you're staying more active in there and your brain is processing things faster that's how to do what's happening but another interesting thing end of this you know myself recently is um i way back in you know high school college i used"
+    },
+    {
+        "start": "00:49:36.720",
+        "end": "00:50:03.920",
+        "text": "to play a lot more music and um a lot with the flute you know so flute i used to be you know good back then it was in the New Orleans Civic Symphony when i was there for a while you know for fun and um i i'd lug my flute along with me and every now and i'd pick it up but it's been it was like five or sixty years before or no more than that by ten you know i had such a favorite so like like five years i picked it up in my fingers we're not moving you know the same musical pieces that i played"
+    },
+    {
+        "start": "00:50:03.920",
+        "end": "00:50:33.280",
+        "text": "before it's like wait did i just lose everything you know what's wrong with my mind and my fingers my body's nothing nothing's moving and um i'm like oh it's kind of like disappointing and then um just a month or so ago moving things around i figured i'd just pull it out and just you know better play i played better than ever i'm like oh my god as like it was so obvious the difference to me um my my motor skills and mental coordination and reading the music and playing it was like as"
+    },
+    {
+        "start": "00:50:33.280",
+        "end": "00:51:03.200",
+        "text": "smooth as it was back when i was in high school college i'm like oh my god and the main difference has been um you know the the browns gas and the hydrogen the only thing i could um so you don't just improve overnight so cognitive re cognitive thinking and memory memory retention right that's pretty cool well exactly yeah back to the dreaming thing i know you had mentioned that like the first day i got it and we were in discussion he said um dreams will be next level and i'm like"
+    },
+    {
+        "start": "00:51:03.200",
+        "end": "00:51:30.800",
+        "text": "mine already are actually um pretty next level super detailed i remember that and i said yeah you told me your dreams were like already pretty incredible and i said well it will take it to another level possibly so what do you have to report that interesting thing is everyone's in a blue moon i would fly in my dreams um but like it was like maybe once every few years"
+    },
+    {
+        "start": "00:51:30.800",
+        "end": "00:51:58.240",
+        "text": "since i've had the browns gas machine i've flown three times i've only had the thing four weeks wow it's like once a week you're flying now yeah and i'm like okay that's cool because i love that i mean i feel so good i wake up from a sleep when i've been flying and man are your arms tired sorry that's an old joke i just had this but sometimes it's not um it's not always like"
+    },
+    {
+        "start": "00:51:58.240",
+        "end": "00:52:24.880",
+        "text": "superman style flying sometimes it's just like i rise up in the air and it's like skating i look like i'm just skating but it's like hovering above the earth sometimes it is actually flying but it's always just you know floating or being you know not bound to gravity basically that's odd man is really great right yeah you know i've got two more interesting"
+    },
+    {
+        "start": "00:52:24.880",
+        "end": "00:52:49.440",
+        "text": "mental well one more interesting mental thing to report kind of related to that as well um that had happened to me recently until i started you know inhaling more especially inhaling overnight um well then in talking with other friends we agree that this is really a spiritual tool you know if you want to take it to that it's got a whole healing physical healing part of it right but there's also the mental and spiritual aspect of it where it allows you to access new and other"
+    },
+    {
+        "start": "00:52:49.440",
+        "end": "00:53:19.200",
+        "text": "mental and spiritual state and in the spiritual i guess realm and community they say if you can control your dreams and lucid dream you're that much more able to pass or make the transition if and when you do die right so that's part of like i think some people say our spiritual evolution so in a way i mean i've come me talking to others in the community where we've come to the conclusion that hey this maybe is a spiritual tool and can be used in those ways but um my specific"
+    },
+    {
+        "start": "00:53:19.200",
+        "end": "00:53:44.080",
+        "text": "experience i wanted to report on and tell you guys about is um i was having uh uh twice this happens to me i have a super detailed dream um lucid dream i know what's going on i'm looking around and exploring because it's so detailed i'm like wow this is a dream this is so interesting i'm just walking around exploring things looking at the details and all the interest disease of everything it was incredible and then something happened and um i woke up and i was"
+    },
+    {
+        "start": "00:53:44.080",
+        "end": "00:54:11.840",
+        "text": "back in my bed sleeping and um there's something like a number of times it's like i wanted to go back into the dream but i was back in my conscious body but i didn't i felt i didn't finish that dream so um but i was you know i was breathing the gas at the same time but mentally i was able to transition from being awake and without losing consciousness go right back into the dream where i was you know and focused in my mind was that activated in awake i think because of the gas"
+    },
+    {
+        "start": "00:54:12.400",
+        "end": "00:54:38.640",
+        "text": "you know the the hydrogen probably right that you know goes right into your mind but um you know on another occasion too i was able to transition from being awake in conscious in my body and go directly into a dream world uh without losing consciousness because what i always thought was like uh strange or um you know i always wonder what happens in between that where does your conscious"
+    },
+    {
+        "start": "00:54:38.640",
+        "end": "00:55:04.160",
+        "text": "go in between that state of like okay waking and then you all of a sudden you're dreaming what happens in that transition state i mean twice i was able to bridge that gap and bridge bring my consciousness with me you know and focusing on that and i was never able to do that before that's very cool yeah hey we're at the top of the hour so i'm trying i would like to as your moderator want to kind of keep these two as close to an hour as possible um and we're planning on doing uh this once a month"
+    },
+    {
+        "start": "00:55:04.160",
+        "end": "00:55:30.160",
+        "text": "as as we get more and more testimonials and experience so that people can learn from others so uh this won't be the last one but i do want to kind of uh touch on a couple of things um so we've got uh be Palmer's joint so i don't know if you had any questions or you wanted to share your testimonial i know emo you're on as well haven't heard about any testimonials if you want to uh chime in uh now it'd be great uh and then you just you can either do through unmuting your"
+    },
+    {
+        "start": "00:55:30.160",
+        "end": "00:55:55.200",
+        "text": "microphone jump in or just ask a question in the chat uh or on telegram i'm watching that and then while you're considering that i do you know it's looking at your page while you're talking Ben and you see this this this i think you know this is probably so pertinent uh you know in in where we're living right now right in this pandemic but here's this you know this is amazing here is"
+    },
+    {
+        "start": "00:55:55.200",
+        "end": "00:56:24.720",
+        "text": "a um testimonial from one of your customers it talks about feeling sick using the browns gas and boom felt great the next day are you getting those kinds of i mean is this like a fluke or is this like these are you're getting these kinds of uh testimonials about the possibility of browns gas being a healing gas to you know for when you're sick because so far we've talked about injuries right but we haven't talked about illness so what what are your thoughts there and"
+    },
+    {
+        "start": "00:56:24.720",
+        "end": "00:56:53.280",
+        "text": "what's your experience with browns gas and illnesses yeah it's it's another common theme on anything respiratory lungs and sinuses um especially colds or flues that kind of thing it goes away quickly but the the other thing is if you're consistently using it i used to get three or four colds a year i haven't got a cold or sniffle or any respiratory issue since i started using it um and new people"
+    },
+    {
+        "start": "00:56:53.280",
+        "end": "00:57:21.360",
+        "text": "to it that are either sick or they feel something coming on they they plug into the machine just like this testimony says this is like a common theme that they wow you know i felt a little something i plug in and next day i'm fine yeah that's pretty amazing so yeah if you know if you don't mind we're at the top of the hour but i'd like to share a testimonial for myself or something that happened last week um you know we all every now and then we all get food poisoning and and so my typical"
+    },
+    {
+        "start": "00:57:21.360",
+        "end": "00:57:51.120",
+        "text": "experience when i get food poisoning and we've all had it right it's massive amounts of pain unable to hold anything down and it usually for me it's always it always ends up lasting about three days the third day is when i finally start holding solids down and you know if life starts getting better but it's a three-day horrible ordeal and this last time uh last last week i basically ate um bad chicken on a sunday night that was what i thought it would happen to me"
+    },
+    {
+        "start": "00:57:51.120",
+        "end": "00:58:19.840",
+        "text": "and i i'd lost a day of work on monday i was literally in bed the whole day but what i was doing though that i i just i realized that you know i'm gonna you know because this is the first time it's happened to me since i had a bronze gas generator so i decided well you know i can't hold anything down right i just i barely drink water uh and so i figured well you know what i'm just gonna i can but i can still breathe thank god i was thinking you know i was thinking you could do yeah i was thinking to myself you know because you know you normally you would just i try to take"
+    },
+    {
+        "start": "00:58:19.840",
+        "end": "00:58:49.040",
+        "text": "some activated charcoal right but i couldn't hold it down so i was thinking well i can still breathe so why don't i just hook up and i just stayed hooked up though you know like literally the whole first day um and it was amazing because the literally i was in bed all monday you know i just i couldn't work in nothing and then on tuesday morning i started i made some or you know uh i mean so or i asked right or or a rehydration solution for myself and i started just sipping it you know and i i could"
+    },
+    {
+        "start": "00:58:49.040",
+        "end": "00:59:18.000",
+        "text": "hold it down i was like wow and i kept breathing it kept breathing it kept you know inhaling and then by tuesday at lunch i tried a banana you know and and i could hold it down and and what was really amazing is by tuesday night i had a full dinner i was sore from you know from being in pain but i wasn't sick anymore and literally by tuesday night i had a dinner and then by wednesday i was perfectly fine and that that has never you know and i'm like in my later 50s i never have i ever had an"
+    },
+    {
+        "start": "00:59:18.000",
+        "end": "00:59:47.440",
+        "text": "experience like that and it was just and the only thing i had done different was i was just sucking in as much brown as i could inhale and you know and it was the only thing i could use that was what really led me to it right because i you know i the only thing i was working in my body was my lungs so uh that's my testimony old that's a good point you know a good point because a lot of people that's the only thing they can do they're you know can't drink can't hold anything down it's like you can't do anything for me you just got to like deal with it until we can get something"
+    },
+    {
+        "start": "00:59:47.440",
+        "end": "01:00:17.040",
+        "text": "down and so you can hold something down but breathing yeah wow what a great belief in your sinner you're sitting there praying to god that you don't get so dehydrated to get an IV that's my biggest fear right yeah you go to the hospital you know and i just really i just and but it's happened where i've gotten so bad where i had to go because i was dehydrated but yeah that was my biggest fear but yeah i was like this thing hydrates you just by breathing and then at the same time though it did something that it was just amazing which leads to this other thing about you know i"
+    },
+    {
+        "start": "01:00:17.040",
+        "end": "01:00:44.560",
+        "text": "right here which is uh your one testimonial about somebody using it uh for you know when they feel sick so you know we're living in a pandemic right now and i'm just thinking wow this is this is an amazing uh reaction that my body had to the gas when i was being attacked by some nasty bacteria right or some some virus stomach virus so i'm thinking that and i just also want to do add that you know i've actually seen some of the literature coming out of china where the chinese are using"
+    },
+    {
+        "start": "01:00:44.560",
+        "end": "01:01:14.640",
+        "text": "browns gas uh is a treatment for people having lung problems instead of putting them on ventilators they're putting them on browns gas and one study that i read uh they had 50 patients that had that had the covid and they and what they did is i put them all on browns gas instead of the ventilators all 50 lived and i think the average uh uh reduction in hospital stay was three to five days and they that they were in the hospital less than the other patients who did it so not only did they"
+    },
+    {
+        "start": "01:01:14.640",
+        "end": "01:01:44.640",
+        "text": "all live they all got out of the hospital faster and that was pretty amazing so you know there's something about browns gas and viruses that i think should be looked into yeah exactly the study i read um say most recover within two or three days you know some one two but all of them within three days to recover yeah it's pretty amazing stuff so um okay so we're at we're at the we're at the one hour mark and i just want to say this was a great first browns gas webinar um i don't see any other"
+    },
+    {
+        "start": "01:01:44.640",
+        "end": "01:02:14.480",
+        "text": "questions in the chat so um uh i'll tell you what let's um uh we want to wrap it up Ben is there anything you want to share and then how can people find you um yeah there was there was a lot more testimonies i didn't get to get to which is a good thing so they'll just we'll have to do this again next month yeah it's amazing we got this actually good bit but we were able to get a lot of really important i think good information out there especially some of the the safety issues and so on but it was a lot of i think we got really good call and a lot of you know"
+    },
+    {
+        "start": "01:02:14.480",
+        "end": "01:02:42.400",
+        "text": "type of good information but um yeah we may want to do it again um again yeah i would definitely like to hear more about different ways to use browns gas you know we just really kind of just touched on it today it's amazing how fast an hour goes by jeez uh you know what we talked about using it uh uh topically by bagging we talked about drinking uh talked about pain relief talked about sports recovery and talked about uh how you can use it against a bacterial or viral infection"
+    },
+    {
+        "start": "01:02:42.400",
+        "end": "01:03:08.160",
+        "text": "so pretty cool stuff so um so maybe next time we can go into um like uh how are we going to do the ozone deflation yeah ozone and supplication i mean as anyone tried browns gas and supplication okay who what what my client is into that so let's kind of go into that we'll sit for next time mandy's our explorer we'll let her go first maybe not"
+    },
+    {
+        "start": "01:03:08.160",
+        "end": "01:03:35.760",
+        "text": "oh well i've got i've got friends that have the explorer part covered you know i will we'll do it in the next time but we'll definitely let's say yeah you know honestly i'd like to hear what what happens if you try it it would be interesting you know like comparing ozone and supplication to browns gas and supplication just don't like a match uh right okay so i'm gonna put links in the video description for anyone who's interested in uh the biohacker"
+    },
+    {
+        "start": "01:03:35.760",
+        "end": "01:04:05.680",
+        "text": "the h2 biohacker site this is ben's website he creates the he's the owner operator of the browns gas generator for the h2 genesis you can find him at this website and uh you can find me i'm at i'm the guy that does the tickers academy i've got a browns gas page of the different videos i've done that cover browns gas uh and last but not least i just want to say that um uh we're having you know there's that sale so right now if anybody's interested you know it's not trying to do a pitch"
+    },
+    {
+        "start": "01:04:05.680",
+        "end": "01:04:30.800",
+        "text": "or anything but bottom line there's a discount so that's what i want to make sure everybody understands is that uh i've you know we've got a discount if you use this calmer discount uh to get a browns gas generator from ben at this time you can save a hundred dollars so it's good till the end of february if anyone's interested in wanting to give this a try we also got c60 but you know one lot more less than k added to that anyone anyone that uses your own your your code this month of"
+    },
+    {
+        "start": "01:04:30.800",
+        "end": "01:04:57.440",
+        "text": "a month of february um our family's a small coffee farm i roast it myself you know grow it roast it take it everything um i sent some back to the u_s recently so anyone that orders this month will get a free bag of coffee if they want you know just uh mention that send me an email and um we'll include that with your order you want to try it perk my interest coffee all right so any final words just thanks so much guys thanks mani for joining thanks uh be palmer and ema thank you"
+    },
+    {
+        "start": "01:04:57.440",
+        "end": "01:05:14.480",
+        "text": "so much for joining uh this has been a great chat um and we're gonna do this again and i'm looking forward to it so aloha everyone thank you so much uh ben you want to stay on the line and i'm just gonna end the recording now thanks everybody for watching really appreciate your time thanks for participating. Aloha!"
+    }
+]

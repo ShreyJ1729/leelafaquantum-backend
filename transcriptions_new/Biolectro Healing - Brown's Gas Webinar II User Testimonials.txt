@@ -1,0 +1,787 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.280",
+        "text": " All right, hello, everyone, and welcome to another Tinkers Academy video. I'm your host, Kay Alber, and you are watching a Brown's Gas Webinar as part of the Bioelectric Healing Series. We've got Ben from H2 Biohacker on the line. We've got several other folks that have joined the webinar. We've got Mandy and Pete and Lorne. Thank you so much for joining us today. We're going to be chatting about Brown's Gas. And first, before we jump right into that, let me just do a quick disclaimer."
+    },
+    {
+        "start": "00:00:29.280",
+        "end": "00:00:57.920",
+        "text": "The information in this video is for information purposes only is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition or treatment, and before undertaking a new health care regimen. And never disregard professional medical advice or delay in seeking it because of something you've heard on the internet. The Tinkers Academy does not recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in the video. Reliance on any information covered is solely at your own risk, and thank you for joining."
+    },
+    {
+        "start": "00:00:57.920",
+        "end": "00:01:26.640",
+        "text": "Hey, did I do that fast enough? Because you know, I've been practicing that for like three years. Very good. Welcome. Welcome, everyone else. This is a chat about Brown's Gas, and you know, the last one we had last month, we were really kind of getting into some of the, and I think this is where the rubber really hits the road, right? It's like, what are people saying? Because there's no actual Brown's Gas studies yet, because everybody is usually studying"
+    },
+    {
+        "start": "00:01:26.640",
+        "end": "00:01:54.160",
+        "text": "just hydrogen, right? But the actual experience of people using Brown's Gas is something that's coming out as, as primarily user experiences until such time that scientists will actually dedicate in it. And you know, a focus purely on Brown's Gas as opposed to hydrogen. But we didn't really even get a chance to get like really deep into it. So I kind of wanted to just, you know, have another webinar."
+    },
+    {
+        "start": "00:01:54.160",
+        "end": "00:02:18.320",
+        "text": "Just talk about some of the testimonials. But Lorne, I do know that you've got to take off a little early. So maybe we'll kind of like, you know, just kind of like one of the things that was interesting and Lorne's going to kind of, I invited him to kind of chat about his experience is about using Brown's Gas and CPAP machines, right? So if anyone remembers, or if you had a chance to watch the prior webinar, basically I'd"
+    },
+    {
+        "start": "00:02:18.320",
+        "end": "00:02:44.840",
+        "text": "ask that question and Ben, your position on that was not a good idea for some reasons. And then of course there's always somebody else that's going to do it. Someone's always going to push it. Yeah, that's the beauty of the tinker, you know, I agree with that. And you know, so you've got a tinker. And so of course, Lorne does it. And so, you know, so I guess let's talk about start with like Brown's Gas as part of your CPAP machine."
+    },
+    {
+        "start": "00:02:44.840",
+        "end": "00:03:11.320",
+        "text": "So first, if we can do a short recap on Ben, you know, why do you think it's a bad idea? And then Lorne, what happened when you did it? And then, you know, let's, let's, I just because I want to hear, you know, like, what's so let Ben, why don't you start in, let's just chat about doing that because, you know, I think it's the base idea of the premise is that you don't want a super high concentration of hydrogen anywhere that's going to reach a flammable level."
+    },
+    {
+        "start": "00:03:11.320",
+        "end": "00:03:39.680",
+        "text": "So when in the CPAP machines, depending on how it's configured, if you're breathing in and exhaling into the same mask, for instance, you're just constantly in the hydrogen. So you, it's, there's more of a risk there of say a spark. If there wasn't such a spark, it could, you know, pop or at night. So that's the only thing you've got to keep in mind when using hydrogen. Normally when you breathe through a cannula, it quickly diffuses into air. So the idea is that you're getting, you know, below or somewhere around a 4% quantity or"
+    },
+    {
+        "start": "00:03:39.680",
+        "end": "00:04:08.680",
+        "text": "by volume and air of hydrogen, you know, in the, in the air in the mixture breathing. So that's the idea and premise behind this. Okay. Um, so it's that whole keep it under 4% of total like, you know, gas, you know, air plus hydrogen so that you don't get flammable, right? Right. Around 4% of hydrogen by volume in there. So loan, how did you hook it up? Yes. Yeah. Yeah."
+    },
+    {
+        "start": "00:04:08.680",
+        "end": "00:04:32.760",
+        "text": "So just explain like, like, how did you hook it up and was there an accumulation? Or there's not an accumulation because what I was doing is I was putting it in through the vent that was drawing the air into the CPAP machine and the CPAP machine creates about what my personal setting was between seven and 11 atmospheres. So you're constantly getting about seven to 11 atmospheres being pressed into your nose"
+    },
+    {
+        "start": "00:04:32.760",
+        "end": "00:05:01.040",
+        "text": "and it's bent it out through a vent on your mask and that bent is constantly flowing. So you're never getting a concentration of the browns gas because with my particular machine, which is nearly as safe as bins or Georges, I was getting too high of a concentration just directly put it in my nose. So if I put it in through the CPAP machine, it would, it was getting drawn in with about"
+    },
+    {
+        "start": "00:05:01.040",
+        "end": "00:05:29.760",
+        "text": "seven atmospheres of air all the time, went through an additional humidifier inside of the CPAP machine and then given to me and I, I used that for probably 11 of the last 12 months until I got a little bit concerned about some of the sounds I hadn't went out of my browns gas machine. Okay. So Ben, what do you think of that? Because it sounds like it's just like a one way street, right?"
+    },
+    {
+        "start": "00:05:29.760",
+        "end": "00:05:53.800",
+        "text": "It comes in the vent into the lungs out the gap, out the mask. Yeah. I mean, if it's mixed with enough air initially and then it's all expelled, I mean, like I said, it depends on how the machine is configured, you know, there's a good way in that way to do it, you know, or a safe way in a nonsense, not so safe way to do it. But it sounds like what loan is doing, it's not that bad. So what I want to hear from loan is like, so when your experience is general, my sister's"
+    },
+    {
+        "start": "00:05:53.800",
+        "end": "00:06:23.560",
+        "text": "got one, yeah, so what the CPAP does is it's constantly pushing air in there so that it can maintain a atmospheric pressure of like seven times to 11 times for my particular machine. But it can be good out as much as two to, I think, 14 as far as the pressures, but there's always adding pressure to enable you to breathe without your airways getting clogged up."
+    },
+    {
+        "start": "00:06:23.560",
+        "end": "00:06:53.440",
+        "text": "And because of that, you constantly have a fresh supply of air. So what I was getting was problems gas diluted by at least two atmospheres and probably at least seven atmospheres from my particular settings. And that's far more than if I was just breathing it directly from a cannula. And that's being blown in there all the time. And so you are breathing what's the air that's passing through in that moment, but it's not"
+    },
+    {
+        "start": "00:06:53.440",
+        "end": "00:07:18.240",
+        "text": "building up. That doesn't happen in any seat of that machine. Okay. Right. So the bottom line to what effects did you notice when we were here to talk about testimonials in brown gas and how it looks in people's toe? It was fantastic. I had a lot of dreams. I was dreaming too much and have to turn off the browns gas machine at night."
+    },
+    {
+        "start": "00:07:18.240",
+        "end": "00:07:47.080",
+        "text": "And so that was probably five out of seven nights that I would do that. I had excellent sleep. I had a great effect on my skin, it had a great effect on my eyesight. And I think taking it in combination with C60, it really had a great protective effect for me."
+    },
+    {
+        "start": "00:07:47.080",
+        "end": "00:08:15.920",
+        "text": "I didn't experience any, I've been sick all year, except for a couple of headaches when I think I might have had the coronavirus. Wow. So, so you could, you could definitely tell a distinct difference between, you know, like a before and after, you know, using this CPAP and all of a sudden you connect browns gas to it and you actually could absolute difference. There was a chance positive change for the better with browns gas as opposed to just running"
+    },
+    {
+        "start": "00:08:15.920",
+        "end": "00:08:44.480",
+        "text": "the CPAP by itself. Very much. And I very much miss it. It's been three or four weeks since I've been comfortable running machine in my bedroom. And I do miss it and my sleep quality isn't as good. And I don't have the dreams that I used to have. Wow. Great. I know dreams, dreams and mental, increased mental activity mean in a good way or like"
+    },
+    {
+        "start": "00:08:44.480",
+        "end": "00:09:11.600",
+        "text": "the number one, first effect that people mention and notice. So that's, and it seems to be what's happening. I mean, I'm just as, you know, in part theory or based on some research, but my own, you know, guessing as well is that the hydrogen, it quickly passes the blood brain barrier and gets in there. And there's research to show that the mitochondria may be able to directly utilize hydrogen."
+    },
+    {
+        "start": "00:09:11.600",
+        "end": "00:09:38.640",
+        "text": "And so it just, it activates your mind, but what's interesting at the same time, it enables you to sleep. So your body can sleep as it normally would. It's not like a caffeine stimulant to just keep you awake, but your body can, what's interesting, you can go to sleep and get good sleep, but at the same time, your mind is more active. And that's why it seems like you can fall asleep, but your dream activity and the clarity of your dreams and the lucidity of your dreams increases."
+    },
+    {
+        "start": "00:09:38.640",
+        "end": "00:10:07.200",
+        "text": "So it seems like that's the way the body is normally made for that type of environment in the, the hydrogen of the browns gas enhances that whole, you know, to make your whole system work more efficiently, sleep better in more active dreams and night. That's pretty amazing. So I'm, so I'm just curious, it's like, how many were you, did you ever measure like how much browns gas you were pumping into the vent?"
+    },
+    {
+        "start": "00:10:07.200",
+        "end": "00:10:33.360",
+        "text": "You know, cause the machine can be throttled up or down. So my, my machine had a zero, had only one setting and that was on and you taught me how to do a kind of a fill with some fill jar with water and the bottles gas. And I was getting about 800 liters per minute."
+    },
+    {
+        "start": "00:10:33.360",
+        "end": "00:11:02.280",
+        "text": "And so it had a pretty good output in the entire than what they're recommending as far as we can put directly in here in your nose. Okay. And did your sleep apnea, was there any difference in the, in your, you know, your apnea issue? Cause you know, yeah, the CBAP machine actually measures that and I've had fantastic numbers all year long."
+    },
+    {
+        "start": "00:11:02.280",
+        "end": "00:11:32.240",
+        "text": "So it measures it by the number of interruptions per hour. And I'm typically at, you know, seven to 11. And while I was using it, I was down to a point nine to 1.1. So it definitely helps that. That's just the CBAP or that was with browns gas. The browns gas did that. No, that's with browns gas. Now, now that I don't have it, it's gone back up to about a five."
+    },
+    {
+        "start": "00:11:32.240",
+        "end": "00:12:02.200",
+        "text": "Okay. So there is no wrong improvement in me, but you know, I did put on a lot of weight last year and I, it didn't get worse. So you and everybody else. I'm with you. Yeah. Yeah. Yeah. Like the old lockdown in charade, uh, but well, okay. So you actually dropped from seven to 11 incidences per hour down to zero, yeah, browns gas. And then when you took the browns gas off, you went back up again. Yeah."
+    },
+    {
+        "start": "00:12:02.200",
+        "end": "00:12:27.360",
+        "text": "Went back up to about five and getting a solid five every night right now. I miss it. I'm going to have to build a glass shield or buy one of Ben's. Yeah. Hey, um, hey, Ben, there's an idea, build a CBAP attachment to the H, H2 Genesis. Yeah, that's something we can look into. Think about that. I mean, you know, like we've got some of the, if you look at some of the first world problems"
+    },
+    {
+        "start": "00:12:27.360",
+        "end": "00:12:56.320",
+        "text": "and most pronounced first world problems, obviously one of them is sleep apnea. And you know, and that's amazing. That's an amazing testimony loan. Wow. Thank you so much for sharing that. Does anyone have a question for loan before you ask to drop off? I, we got a couple other folks just unmute yourself. If you have a question and okay, Ben, did you have any other, any, any other thoughts or questions for a loan?"
+    },
+    {
+        "start": "00:12:56.320",
+        "end": "00:13:20.140",
+        "text": "Um, not right now, but I'm definitely interested in them. I would like to follow up with them apart from here and so you can get some more details and work something out for them to get them a machine that works, right? Yeah. There we go. Absolutely. Hey, thank you guys very much. It's been fantastic. Okay. All right, guy, you take care. Catch you in the kitchen. Yeah. Um, you know, we have a brown for anyone listening to the video later."
+    },
+    {
+        "start": "00:13:20.140",
+        "end": "00:13:49.960",
+        "text": "We have a browns gas hydrogen, uh, telegram chat group where we basically talk a lot about browns gas, mostly and molecular hydrogen as well. Most recently we kind of got into, uh, instead of H HO and H2, we're starting to, starting to talk a lot about H2O, uh, water, structuring water, bubbling water, uh, and then ozone every now and then. So it's kind of really kind of a real interesting chat group about how, uh, you can apply some of these technologies and some of these substances to improve your health."
+    },
+    {
+        "start": "00:13:49.960",
+        "end": "00:14:18.120",
+        "text": "So that's where we met alone and, wow, that was really cool. So hey, I'm going to turn it back to you, uh, Ben, about, you know, let's chat about some of those testimonials we didn't get to hear about in the first webinar. Yeah. Um, I'm going to go through some of the quicker ones first, um, some of them, my own, you know, let's, you know, I talk about from the horse's mouth, um, and I'll save some of the longer and more detail ones later, but, um, we can jump around. But, um, to follow up on what I mentioned before, um, my shoulder, I've got like, well, I had,"
+    },
+    {
+        "start": "00:14:18.120",
+        "end": "00:14:46.760",
+        "text": "I can say it now, um, would I consider frozen, frozen shoulder or a pinch man or a rotator cuff problem could have been torn. I mean, it was pretty bad for a while. I couldn't raise my shoulder or my arm at all above my head and it was just in almost nonstop pain for, for a certain time, like, you know, I delayed treating with brown gas because I was at the time I was working on a, a PMF device, you know, coil, post-electro-magnetic frequency device, as well as I wanted to try, um, um, on infrared light therapy."
+    },
+    {
+        "start": "00:14:46.760",
+        "end": "00:15:14.360",
+        "text": "And so, um, I delayed my, my oxygen, hydrogen, hydrogen treatments on that to, you know, to work through these other, um, treatments to see if they work. So anyways, um, I did find that the infrared and the, the pulse of electromagnetic worked. But, um, and so I did that for a month or two and it started getting better. But once I made, um, a sleeve, it's kind of like a, a cylinder that, um, has a drawstring"
+    },
+    {
+        "start": "00:15:14.360",
+        "end": "00:15:43.320",
+        "text": "kind of, uh, you know, attachment on both sides. So you would slip up over your elbow, your knee or onto your shoulder, shoulder, pull the drawstring on both sides and close it up. You insert a tube with a hose where the brown gas is coming out of that would go into there and it would fill up and it would be hydrogen or the gas, it would diffuse through your skin to, for a treatment. Um, we've treated so many, um, hand, foot, elbow, knee, shoulder injuries like this and the results have been incredible."
+    },
+    {
+        "start": "00:15:43.320",
+        "end": "00:16:13.240",
+        "text": "So anyways, um, my shoulder was gradually getting better, but not in a stellar improvements. And but I did notice also large effects by just, um, attaching the, the gas hose to, uh, silicone like funnel and that would be more, you know, um, direct or very localized, not as much as like say, bagging area would be. Um, so I noticed that, um, okay, on the top, if I put on my top of the shoulder, the front of the shoulder back, that area would feel much better, you know, no pains or less knots,"
+    },
+    {
+        "start": "00:16:13.240",
+        "end": "00:16:43.200",
+        "text": "but I couldn't easily just move that around and didn't do it justice. But once I got the sleeve I made and was able to treat the whole thing without it, you know, the bag or whatever falling off or, you know, and once it became more easy to use in that way, in that degree, um, I went from being maybe 50% feeling better to nearly like I'm like about, and after just three treatments overnight, say one night, wait a few days, do it again, you know, overnight or a few hours, I mean, it fall off after a few hours,"
+    },
+    {
+        "start": "00:16:43.200",
+        "end": "00:17:12.880",
+        "text": "but I probably got a good, you know, three, four, five hours in, um, with the sleeve on my shoulder. So just three treatments and it's near 98, 99% I can, I'd have to move my shoulder around to really feel a stiff part now, it's kind of hard to find, um, but so I waited months, you know, and pain and kind of being a little bit debilitated with my movement and what I can do to in no time being able to use it and don't even think about it anymore."
+    },
+    {
+        "start": "00:17:12.880",
+        "end": "00:17:40.400",
+        "text": "Yeah, I remember. And that was just up there. Three solid treatments. I know you were talking all last year about PMF to free your shoulder because you'd tread everything else. Hey, what is this, like, can you show what the sleeve looks like? Cause I'm trying to picture in my head what you could use for your shoulder, right? Because your shoulder, you can bag, right? I mean, you know, and then it's not like you're not cupping in your, I don't know if you had a picture of that thing, but that would be really interesting."
+    },
+    {
+        "start": "00:17:40.400",
+        "end": "00:18:06.720",
+        "text": "Yeah, I'll see if I can send you one, um, and maybe you can put up, um, okay, I'll play a stove. Um, if you've got anything else to say, while I'm sending that to you. Yeah. A few other testimonies. Well, I know that, I know that Mandy you've tried topical, right? And I've tried topical, so I'll go first. Um, I, uh, last year I had, uh, really bad, I was cooking and I got some hot oil on, on"
+    },
+    {
+        "start": "00:18:06.720",
+        "end": "00:18:30.440",
+        "text": "my right arm and it was, it was like multiple patches anywhere from, uh, you know, a small dot to, you know, as big as a dime and it was three, third degree burns, right? And of course it hurt like hell. And so my first thought was, uh, was to bag it, you know, I mean, I, I just washed it off and, and it was just hurting and I thought, well, you know, I've got my browns gas thing and I wanted to play with it anyway."
+    },
+    {
+        "start": "00:18:30.440",
+        "end": "00:18:58.880",
+        "text": "So I bagged my arm and basically pumped, uh, browns gas into the bag where my, my burns were. And, uh, what was, what I found amazing was that the pain went away like within a, like I'd say maybe 10, 20 minutes, the pain was gone. And the most interesting part about, uh, using browns gas to treat burn was that the pain never came back. It never hurt again after that. It was just the weirdest thing where, you know, normally it hurts like hell right the"
+    },
+    {
+        "start": "00:18:58.880",
+        "end": "00:19:24.800",
+        "text": "next day because I usually just put it like, uh, burn gel, you know, get that burn gel at the, but instead I bagged it. So, uh, now what I did notice was I, I just bagged it the one time because once the pain went away, I just was trying to keep it clean. Uh, it, so I didn't notice that it like healed faster, but the main thing was the pain was gone. And I, I found that to be pretty amazing. Um, and so I, you know, I don't know why I didn't think about one and I tried bagging"
+    },
+    {
+        "start": "00:19:24.800",
+        "end": "00:19:54.160",
+        "text": "it for two, three days in a row to see if it healed faster for I just got busy, right? But, uh, but that was my one time that I tried bagging. I have tried bagging my legs, uh, because I have a bum knee and I just, I didn't get it, I didn't feel like, I like an improvement and it could be where, you know, the leg sleeve right now, the leg bag goes all the way up to your thigh and I couldn't isolate it, maybe get enough pressure right on my knee. Now what you're describing is giving me the idea of, well, maybe I could make a sleeve"
+    },
+    {
+        "start": "00:19:54.160",
+        "end": "00:20:23.320",
+        "text": "just for my knee kind of thing, uh, and you can, um, I'm hoping that these sleeves up on our website soon. They're not right now, but if anyone is in a rush to get one, they can email me directly or contact us in the telegram group and we can arrange to get one quicker and, um, I know we're sending a, I'm a, I'm a new machine to you, um, K, uh, pretty soon. So, um, we can include that as well. So you can do a try. Yeah. I wanted to do an unboxing. So Mandy, you tried, you tried topical, right? Didn't you try to bag something?"
+    },
+    {
+        "start": "00:20:23.320",
+        "end": "00:20:50.480",
+        "text": "I did. I bagged my leg. Um, I've got, but also a knee issue and, um, interestingly enough, I got acupuncture, several months ago, and one of the spots where one of the needles went is still sore. I'm not sure what that's about, um, and also on Morton's neuroma, all on my right leg and foot."
+    },
+    {
+        "start": "00:20:50.480",
+        "end": "00:21:19.640",
+        "text": "So I thought I'm just gonna bag my whole leg and see what happens. Um, and it did alleviate a lot of the pain. Nothing happened with my knee. I mean, it just, it felt better for a while. But, um, I only tried it the one time because things got a little busy in life, but I definitely intend to, to do this again, um, with a kind of bigger bag because the bag I had was kind of small and it just went right up to my knee."
+    },
+    {
+        "start": "00:21:19.640",
+        "end": "00:21:49.240",
+        "text": "So, um, the results were enough that I was like that, that seemed to do something. I, I definitely want to try it again with a bigger bag that goes a little bit farther up my leg, um, to really get my knee in there as well. So cool. Yeah. So, so Ben, does your sleeve, like you can just isolate like a, a joint, basically, like if I just want to treat my knee because with the full right back, your, your foot's in there in there. I mean, you'd see. Yeah."
+    },
+    {
+        "start": "00:21:49.240",
+        "end": "00:22:18.680",
+        "text": "So I, it takes a lot. Yeah. I just sent you a picture. Okay. You should have a picture and tell them if you want to find it and pull it up. Um, meanwhile, I go into a few other things to mention about what were, since one of the topics of bagging or external use, um, what I noticed, um, I used to have some small little warts on my hands that, I mean, they either cut them off, burn them off and they, they'd come back. I mean, eventually they would just come back. Um, the last time I did this, what, what, what kind of works to help get them started to come off. I mean, there's a, you know, small, but they're a pain."
+    },
+    {
+        "start": "00:22:18.680",
+        "end": "00:22:45.760",
+        "text": "They, they start to, you know, get big after a little while. I see you just put up the, um, the sleeve. So let me jump to this for a quick while you get it up. But you can see there's like a, a drawstring type, um, you know, string going through with a little lock on it. So you'd slide that up to your elbow, your knee, or that I use this on my shoulder. And so it was enough to close in both sides and maintain it there with enough pressure."
+    },
+    {
+        "start": "00:22:45.760",
+        "end": "00:23:15.560",
+        "text": "So that, um, the hose with the gas coming out would just be pumped right into it. And that seemed to be enough to get the, the gas to surround the shoulder and make things better. Well, what kind of material is that? Yeah. Just go right through it or, right, um, you cannot, if you put it up to your mouth and blow, try to blow through it. You cannot blow through it. It's almost, it's very thin in a flexible material like you can kind of see in the picture,"
+    },
+    {
+        "start": "00:23:15.560",
+        "end": "00:23:45.480",
+        "text": "it wrinkles, but they use this material on beds and to prevent, you know, mites and bugs from getting into the mattress or, um, it's waterproof as well. So they use it in some cases for our mattress covers, you know, to make waterproof mattress covers, use it in hospitals as well. Um, so that's, that's the idea with this material that the gas cannot easily escape. Um, where it's sewed in the seams, um, the gas can escape, but it's not, not a whole lot. It does not blow up."
+    },
+    {
+        "start": "00:23:45.480",
+        "end": "00:24:14.800",
+        "text": "Uh, this, this particular version did not puff up like a balloon, but it was enough to keep the gas in there to make a significant difference. Um, another test I'm doing right now is, um, using a little bit of silicone to help seal it even better, but it's, that's not really necessary. The idea is if you've got enough gas that's, um, maintained in the immediate air or environment around the joint, it seems that the hydrogen and gases, um, diffuse into your skin enough to make a change. Okay. And that, that's the bag that you used on your shoulder."
+    },
+    {
+        "start": "00:24:14.800",
+        "end": "00:24:42.800",
+        "text": "Correct. This exact bag. Okay. Could you pump the, um, the gas in like a full throttle or half throttle? Um, I recommend, uh, maybe somewhere around 80%. I don't like to run our machines at a hundred percent. It just heats up too much and the water evaporates really quickly and this will, you get a lot of water vapor in it. So, um, you know, I don't recommend breathing any more than 40% power right now with our machines, but around 80% for external use is fine."
+    },
+    {
+        "start": "00:24:42.800",
+        "end": "00:25:09.880",
+        "text": "So the watch, you know, the water will still last a while, but it does get used up a lot more quickly. Um, but yeah, I'm much higher, uh, gas output than you would use if you were inhaling or even bubbling. So I like that. You're 80%. So you've got new people on the cannulas though, then you can crank it up to 60 to 80% right? Right. Right."
+    },
+    {
+        "start": "00:25:09.880",
+        "end": "00:25:39.800",
+        "text": "Like, uh, you know, an hour at most, but, um, after an hour, 80% it starts to heat up. I mean, you can still do it, but I mean, to be really safe, I mean, I like to say, you know, no more than an hour at that with, you know, say two or three people connected because, um, some people start to notice that the, um, the gas, um, is a little bit warmer or hotter and that may not have to be as comfortable to breathe over a longer period of time. Um, and in the range of 20 to 30%, I mean, I, I can breathe all night."
+    },
+    {
+        "start": "00:25:39.800",
+        "end": "00:26:09.600",
+        "text": "And the gas feels nice and cool still, you know, the, the fan in the machine keeps it really cool. So it doesn't heat overheat to, to affect the quality or temperature of the gas coming out. Okay. Thanks. Yeah. You know, that's, it's interesting that because, you know, the plastic, you know, like when you use a bag, uh, it just gets really humid and wet and sweaty and so the thing is because it can breathe. It doesn't get, you don't get wet. Right. Yeah."
+    },
+    {
+        "start": "00:26:09.600",
+        "end": "00:26:37.520",
+        "text": "I noticed the same thing. When I used a plastic bag, when I spray my foot and it, it swole up and I couldn't walk, I put it on a bag overnight and, uh, it did sweat in there, but I also did have the machine on a higher power, but this little sleeve I have here, it can breathe more easily. So it did not sweat or condense any, um, gases or vapors into liquid. Okay. Well, I definitely want to try this. So you're going to have these available for sale on your life then, um, yes, and I'll"
+    },
+    {
+        "start": "00:26:37.520",
+        "end": "00:27:03.880",
+        "text": "see if we can get one made, if you're interested, um, you said for your knee. So when we send it out, hopefully this week later, awesome, you'll give us some feedback. It's going to be great. They get some feedback on you from, yeah, see how it works for you. Got to get one demand. Yeah. Right. Yeah. Well, she needs a whole leg one possibly. Oh, you need a whole leg, right? Yeah. Well, I mean, we can do like a special orders because my mother sows and she's going to"
+    },
+    {
+        "start": "00:27:03.880",
+        "end": "00:27:31.560",
+        "text": "be the one probably making most of these, um, you know, to order, um, we can make, we're probably like a hand size or foot sizes, you know, one size fits all, but depending on the size of your elbow, knee and shoulder, um, if it's a young kid or a child, they're going to have a much smaller, you know, diameter or circumference joint than an older person would have. Right. So we may have to adjust some of the sizes, you know, to, to something like the sleeve right here. Right."
+    },
+    {
+        "start": "00:27:31.560",
+        "end": "00:28:00.600",
+        "text": "You know, bagging, bagging is definitely the way to go for some problems for sure. I've got some more testimonials to that, um, effective shortly as well. You go into it. That's the best way to treat, um, things on your face or head or that area because obviously Kate bagged your head, um, I, that's a good question. I haven't had to do that myself yet or I don't know anyone that's done yet. So that's like unexplored terrace or hit this point."
+    },
+    {
+        "start": "00:28:00.600",
+        "end": "00:28:26.960",
+        "text": "The only thing I've tried so far is, um, I had a sty on my eye and I just took the one of the nasal cannulas and I put the little, um, the little holes right up, right below my eyelid and let it go for, I don't know, and maybe half an hour or so and it really did help it heal faster. Right. Right. Does that make sense?"
+    },
+    {
+        "start": "00:28:26.960",
+        "end": "00:28:52.400",
+        "text": "Um, let me get back to the, the warts and then I get a few other things I want to mention seriously and get through some of these more testimonials quick. So, um, anyway, what I found with warts, I'm cutting a small piece of garlic and taping it on the wort with some duct tape, um, that works that'll, that'll, it's, it's sometimes it stings if it really gets in there, but then after a week or so, it'll start to dry out and a layer will peel off."
+    },
+    {
+        "start": "00:28:52.400",
+        "end": "00:29:20.760",
+        "text": "And um, if you put another piece of garlic on the, on the wort to go deeper and to get the roots out, it really starts to sting. So it's almost difficult to get the whole, um, the, get the roots to get the virus out, which causes a wort. Um, so in my case, they'd always come back, you know, five, six, seven times either once a year and they still eventually, you know, grow back. But this last time I did it, um, I got the first layer off of the garlic and in the roots"
+    },
+    {
+        "start": "00:29:20.760",
+        "end": "00:29:50.480",
+        "text": "turned black so you can see there's something still in there. And um, I said, oh, I'll, I'll do it again. I'll, I'll just deal with the pain or whatever. And, um, before I knew it, um, you know, I was doing a bunch of the browns gas, you know, breathing more than anything and they, they're even the roots. It just went away. There's no sign of any of these. I had like six small ones on my fingers and they're all gone now. This is the first time ever that they've completely gone. And I heard from someone else that they had a similar problem with, uh, one, with warts"
+    },
+    {
+        "start": "00:29:50.480",
+        "end": "00:30:16.040",
+        "text": "on their hands and that that's one of the, um, things that they had mentioned, the, the warts had gone away. But this is also something that seems to happen over time. It seems like your immune system really has to, um, build up or get stronger to fight off the viruses that caused the warts. It's not something that goes away right away. Um, cause I just noticed this in the last couple of months and I've been using the browns"
+    },
+    {
+        "start": "00:30:16.040",
+        "end": "00:30:44.160",
+        "text": "gas for, um, over a year now and I was wondering if and when they would ever go away. So it did take a while, but they did go away, you know, naturally. And how were you, um, you were cupping it or bagging, you're like bagging. No, I was just, I was just breathing. I wasn't even bagging my hands. That's probably why I took longer for them to go away. Um, cause it's not super convenient unless you've got a really painful issue or issue with your, one of you joints that you, um, want to heal right away. I mean, the warts weren't a really a problem."
+    },
+    {
+        "start": "00:30:44.160",
+        "end": "00:31:11.320",
+        "text": "You know, they, it wasn't, it wasn't worth bagging my hands and being in convenience like that all the time. So that's why it takes a long to go away. You can still heal a lot of the, the extremity issues like that just by breathing, but it's just going to take longer, you know, breathing and drinking the water pops, as well as both. Okay. But, um, because the hydrogen you breathe in or drinking doesn't get to, so your extremities, like your fingers and knuckles and some of your joints, um, not as easily as if you're"
+    },
+    {
+        "start": "00:31:11.320",
+        "end": "00:31:40.720",
+        "text": "diffused to through your skin, I'm drinking and breathing will take longer to affect those, uh, problem areas. Okay. Um, and so, um, so that was that I noticed, um, but getting back to the, the stings and burns, um, I've noticed that as well, my son, my son was, um, burned his finger, blister, pain, you know, 10 minutes bagging it, pain goes away. So he was like normal, but once the pain is gone, um, you kind of like, don't worry"
+    },
+    {
+        "start": "00:31:40.720",
+        "end": "00:32:03.520",
+        "text": "about it. Let it heal on its own, you know, it may heal faster if you continue to bag it or treat it. But if it's, if it's not bothering, there's no pain, just let it heal as it would naturally. Um, b-bites, um, stings as well. But another interesting testimony that came up just a few days ago is, um, where I am there, there's scorpions. You know, sometimes we get them in the houses and every now and then someone gets bit, um,"
+    },
+    {
+        "start": "00:32:03.520",
+        "end": "00:32:32.120",
+        "text": "one of, um, uh, workers here, he, um, he got bit and he's, uh, it's one of the most painful bites you can get and it doesn't just last for a few hours, like I say, a big bee sting would last for some people, depending on how they react to it. It could last days. You know, the pain. Yeah. Um, and so I, I'm talking to one of, um, our clients have, this Paul, one of our issue genesis machines and he's like, um, I get a message from him and he's like, yeah, so it's the message was, it wasn't talking about it."
+    },
+    {
+        "start": "00:32:32.120",
+        "end": "00:32:58.800",
+        "text": "He's like, Ben, do you think it'll work on a scorpion bite? He just got bit by scorpion. I said, I mean, it should give it a try, you know, try to bag it up in, um, by the time he got my message and responded, he's like, I breathe, I just breathe it for an hour in all the pain went away. So he didn't even get a chance to bag it. He just sat down and breathe for an hour and all the pain went away. So I'm like, wow, that's pretty good because the last person I know they got bit by a scorpion. The pain lasted, you know, days."
+    },
+    {
+        "start": "00:32:58.800",
+        "end": "00:33:28.480",
+        "text": "But if he, if he would have bagged it, I could almost guarantee that the pain would have went away much sooner, but I was impressed with it going away within an hour. Wow. Okay. Wow. That's impressive. So stings and pain, that's something it can, it definitely alleviates, you know, it helps with the better. Um, it was me, I, another meat testimony, you know, it's um, you know, wearing this from Dusty Rose sometimes and I got caught in a dust storm behind a cloud, behind a car,"
+    },
+    {
+        "start": "00:33:28.480",
+        "end": "00:33:57.920",
+        "text": "which is, you know, no choice, but if I was going to breathe or die, I inhaled a bunch of this dust. So the rest of the day, I was like, you know, coughing because the dust stuck in the back of my throat, um, by the end of the day, I was like, just dry, hurting, cough, and my throat was sore. I mean, it was like raw, it felt raw. Um, what I did, I mean, I couldn't sleep because it was that raw in, in coughing. Um, so what I did is instead of putting the cannula in my nose, I put it at the edge of my mouth to, to breathe in the gas."
+    },
+    {
+        "start": "00:33:57.920",
+        "end": "00:34:27.880",
+        "text": "And I noticed that quickly soothed my throat, or the soreness aspect of it and I was able to sleep. And, and then when it would come out my mouth, it would maybe start hurting again, I'd wake up. Uh, but, um, but that, um, almost was allowed me to sleep. It squashed or quenched to pain, the sore, rawness, pain in my throat, enough for me to sleep. And it was, it was pretty quick in, in the, in the reaction time, in treating it."
+    },
+    {
+        "start": "00:34:27.880",
+        "end": "00:34:54.760",
+        "text": "Yeah, that, if I can jump in, I mean, I just want to, you just reminded me that I, I've never mentioned that I have asthma and every now and then, I mean, it's real rare now because I'm, I don't know why, uh, but it, but every now and then I'll start feeling that, you know, the cough that, that dry cough kicks in and then you're, you can feel your lungs getting itchy. Uh, you know, that kind of stuff feeling, right? But ever since I've got a brownscast machine, the moment that I get that back, you know,"
+    },
+    {
+        "start": "00:34:54.760",
+        "end": "00:35:21.160",
+        "text": "that deep cough and I, I, you know, it just, my mind goes, Oh crap, you know, I'm getting a, I'm grabbing an asthma attack or it's starting. I've learned that just sit on my machine and just inhale for one hour. And when I do that, it's just the, it never develops beyond that point and it disappears. Where ads and all of you guys with asthma, you know, right, you know that feeling and your lungs start, it's that, you know, you, you can feel your lungs, something's happening."
+    },
+    {
+        "start": "00:35:21.160",
+        "end": "00:35:49.880",
+        "text": "I call it itchy then that cough and then next thing you know, you're all the time, right? Uh, but yeah, I mean, since I've had a brownscast generator and I do that, I have not ever gone past that initial feeling and then the attack kicks in and I haven't had to use any of my nebulizers or any of that crap, uh, since I've gotten a brownscast machine. So I'd, wow, I just, I never thought about saying that, you know, mentioning that. But yeah, lungs, well, you know, it's, but yeah, it's an amazing thing when it comes to your lungs."
+    },
+    {
+        "start": "00:35:49.880",
+        "end": "00:36:19.640",
+        "text": "Yeah, anything to do with any lung problem at all, it seems because when you, especially when you're inhaling it, breathing it, that's the first place it goes to. So that's going to get the best of any treatments. Yeah, absolutely. Wow. So what else are your customers, uh, experience, how are we on time? We're right now. Uh, we're doing really well. Uh, we are just, we don't want to make this thing over an hour, right? So right, right. Yeah. We are, let's see at about 33 minutes. So yeah. Okay."
+    },
+    {
+        "start": "00:36:19.640",
+        "end": "00:36:45.640",
+        "text": "Um, yeah. So on the comps, uh, the topic of, um, bagging in an extra treatment, we'll just roll with that for it now. Um, another reason when here, um, one of our clients using the machine believes in it fully. It seems to have cured his, um, wife of, uh, you know, depression and some mental problems. So that's all, you know, cured up. She's getting enough of, um, her, you know, some medication she was taking."
+    },
+    {
+        "start": "00:36:45.640",
+        "end": "00:37:14.840",
+        "text": "But, um, one of their cousins had a problem with, um, diabetes, I think like 30s, um, to the point where they're, I mean, I don't know too much about diabetes and how it affects the feet. But apparently his foot was swollen or in such pain that he could no longer walk. He had to stop working. He had a business, um, doing like prefab concrete, you know, forms and he had to shut that down. Two months in bed, in and out of the doctors, going into the third month, um, in his family"
+    },
+    {
+        "start": "00:37:14.840",
+        "end": "00:37:42.400",
+        "text": "was trying to convince him that the doctors went to operate, um, to, to cut his foot up and or, um, cut or I think it was maybe had fluids in it as well. But basically they do some surgery on his foot to help alleviate the problem. But, um, so this guy was fighting, he's like, I want to do that. I don't want them cutting up my foot. He's like, I need to find another way. And this is when, um, you know, my friend that has a machine, he's like, well, why don't you try this? You mean it's worked for us and for all kinds of issues for us and other people would have"
+    },
+    {
+        "start": "00:37:42.400",
+        "end": "00:38:12.160",
+        "text": "let try it, um, should come over and let's bag it up and see what it can do. And so, um, he's been in, you know, in bed, in the wheelchair, can't drive, can't do anything, um, and really just incapacitate. So, um, he finds a ride over to, uh, my, my friend's place who has a machine, um, comes at a wheelchair. So when he drives him over, get him out, put him in a wheelchair, wheels him in. And so for two hours, they bag up his foot, the problem foot in all the pain and gives"
+    },
+    {
+        "start": "00:38:12.160",
+        "end": "00:38:41.040",
+        "text": "him, uh, bubbles some hydrogen water for him to take home, though that, you know, that wouldn't last too long. But, um, they gave him some water to drink, drank some and then it left some more. And so they, it was the next day he comes back, um, not only not in a wheelchair, but he's walking, but with a limp, he's like, some, that's got, there's gotta be something to that because today I can walk, you know, I'm not in a wheelchair anymore, you know, with a limp, it's so hard, but I'm not, you know, as bad as I was yesterday. So it was like, I want to do it again."
+    },
+    {
+        "start": "00:38:41.040",
+        "end": "00:39:08.240",
+        "text": "So, um, it seemed like for a week, they did it round about. So every day he would go over to my friend's house for an hour or two, they'd bag it up and do a treatment and drink a bunch of water and send them home. Um, so the, you know, recently I asked him, well, how's it, how's everyone doing with the foot and the diabetes? And he said, well, the last time he came over for a treatment, he was riding a bike. He's like, no more pain, his foot is feeling better. And he wants to get him, he's like, he's so impressed with the machine that he wants"
+    },
+    {
+        "start": "00:39:08.240",
+        "end": "00:39:38.000",
+        "text": "to get one for himself, but not only that, he said his, um, family mother or father would benefit from this. So he wants to buy himself one and his mother or father one because he seemed what it did for him. But he also justified that he had to shut down his business for near, it was almost three months at the time. Um, so he lost thousands of dollars being, and had to lay off his employees while he was in bed trying to recover from this. He's like, if I was just, you know, spent the money and knew about this and got it from day one."
+    },
+    {
+        "start": "00:39:38.000",
+        "end": "00:40:07.320",
+        "text": "He's like, I wouldn't have been in debt and spent all my money and savings just trying to survive. I could have healed myself right away and not have the lay off my employees and get right back to work. So, I mean, for someone to go from on the brink of surgery, can't even walk in a wheelchair next day hopping by the end of the week, you know, feeling fine. That's pretty amazing. Yeah. I'll tell you, right behind happening as diabetes, I'll tell you our country is in bad shape"
+    },
+    {
+        "start": "00:40:07.320",
+        "end": "00:40:36.920",
+        "text": "when it comes to that. Well, there's no substitute for, uh, see, uh, a good diet either. Yeah. So I mean, absolutely. You've got to, you've got to clean up your diet first, you know, give up all the sugars and refine carbs, but that would be the first thing I would do if I was, um, diabetic. You can't be sitting there kicking and, you know, right chicken and it could play. Yeah. Yeah. Exactly. And then expect to use browns gas, use the oxygen, hydrogen gas and, you know, make it all magic, but go away."
+    },
+    {
+        "start": "00:40:36.920",
+        "end": "00:41:06.120",
+        "text": "But if you, if you're generally healthy and could eat healthy and live a healthy lifestyle, then, um, this gas can, the hydrogen can help you get back to normal and super health very quickly. Yeah. It's amazing. Uh, that's a great story or any, what, what else, what's your people? That's just amazing hearing all these stories. So what, what else? Um, another. Yeah. Yeah. Go ahead. Yeah."
+    },
+    {
+        "start": "00:41:06.120",
+        "end": "00:41:31.200",
+        "text": "Another story, um, with the same friend who's, um, they, um, have a grandfather, they call it abuelo, you know, in Spanish grandfathers, abuelo, um, he was in the house, 93 years old, right? He was in a hospital for two or three months. Um, and so he can't do anything else for him. He was, um, you know, vomiting, throwing up. He couldn't walk very dizzy. You know, they did as much work as he can and said, you know, just, you know, send them home."
+    },
+    {
+        "start": "00:41:31.200",
+        "end": "00:42:00.720",
+        "text": "You know, stable, though he's, you can't take care of himself, but he couldn't stay in the hospital any longer. No one wanted that. So they send them home. And so, um, my friends will hook him up to our machine and let's see if it helps many. Um, so he takes a machine over to his house, it was pretty close, hooks him up. And he said, when he went over there, he was basically on the couch, um, couldn't really move. It was really dizzy. Not so coherent. And if he needs to go anywhere, he was basically crawling. He couldn't stand up and walk."
+    },
+    {
+        "start": "00:42:00.720",
+        "end": "00:42:30.560",
+        "text": "He had the crawl. It was also, you know, vomiting. He was someone that was there having to take care of them. You know, the neighbor has come over and keep an eye on them. Um, so my friend didn't have much time. So he's like, hooked up the machine, plugged him in, um, let him breathe the, the hydrogen. And he's like, I'll, I'll be back in a few hours, you know, later, because I need to come in some errands, I'll be back. And so, um, I'm not, if I get the sort of, it's either the same day, later that evening, or the next morning, he says he goes back there and he can't find a wall, he's looking"
+    },
+    {
+        "start": "00:42:30.560",
+        "end": "00:42:59.640",
+        "text": "all over. So you went to the neighbor, she's like, where, where's the wall? What happened to him? Is he okay? He thought he went over to the neighbor to, to be taken care of. He's like, no, I think I saw him all back taking care of the chicken coop or remodeling the chicken coop. He's like, what? He's like, just a few hours ago. He was, you know, dizzy, barely coherent, throwing up, crawling around the floor because he couldn't walk into, you know, almost being normal, it seems like, um, he's like, oh,"
+    },
+    {
+        "start": "00:42:59.640",
+        "end": "00:43:29.120",
+        "text": "so he found them out, you know, back, so he's talking to a well, he's like, um, okay, well, glad you're better now. It's like, I'm going to, you know, take the machine back, now that you're well. And so a well, put up a big fight. He's like, you're not taking my machine. I love the way that air makes me feel. He's like, go buy your own 93 year old man. You know, telling his, um, it was like a grandson in law, you know, to go get his own machine. You do not take him. My machine."
+    },
+    {
+        "start": "00:43:29.120",
+        "end": "00:43:57.860",
+        "text": "Yeah. So, um, I'm just thinking of massive oxygen deprivation, you know, I mean, I don't know what it, what I mean, it fixed so many fist problems so fast. So, um, so a well, it didn't have the money to buy his own machine, but luckily one of his sons, um, you know, has done well. So the family convinced one of his sons to buy him a machine so he can have, you know, permanently. So he's been using it every day since, um, I know once they borrowed it to treat someone else in the family."
+    },
+    {
+        "start": "00:43:57.860",
+        "end": "00:44:24.040",
+        "text": "So they took a boy, those machine away for a week and the Disney's came back, you know, if he couldn't, he was, you know, dizzy and just didn't feel right, he's like, bring that thing back. You know, it's like, I need it. Yeah. Oh, yeah. Interesting. Yeah. You know, that makes complete sense. I'm just thinking because I'm just thinking if you, if we took a look at a person's blood after they hook up to a brown's gas, I'm guessing that they're going to have the same"
+    },
+    {
+        "start": "00:44:24.040",
+        "end": "00:44:52.000",
+        "text": "reaction that they would if they were to be exposed to like a PMF treatment or some of these other treatments where you take the blood, typically it's in, you know, your typical health of a person is the blood is a little bit clustered or even worse, right? You got this whole rule of formation claims, you know, the blood, the red blood cells stack up in coins and it really deprivates the ability for oxygen transfer within the bloodstream. So I'm guessing, and this would be great to find out is, is that brown's gas, one of"
+    },
+    {
+        "start": "00:44:52.000",
+        "end": "00:45:18.880",
+        "text": "its, you know, attributes is that it freaking probably just opens up the blood and releases all of those clusters and just really improves the level of oxygen. Right. That's one of, that's one of the exact things that happens. I found research and videos that I'm with the, with the image you have up on the screen here, the, you know, it's number ways to call this, but the expanded, the electric, electrically"
+    },
+    {
+        "start": "00:45:18.880",
+        "end": "00:45:47.800",
+        "text": "expanded water, it's basically what I understand is the water molecule charged with two extra electrons, which almost, instead of having that angle shaped to the water molecule, it's almost, you know, those two extra electrons plugged into it, it stretches out that bend into almost a linear fashion, and it's not super stable with those extra electrons. It seems like right before the hydrogen and oxygen break up, you pump electrons into it,"
+    },
+    {
+        "start": "00:45:47.800",
+        "end": "00:46:13.440",
+        "text": "you know, say one more electron or a little bit more energy, and then it breaks the hydrogen and oxygen bond. So there's a pre phase to that, which charges the water molecule. And that is theoretically, or they, they say, is in a gaseous phase. So, you know, consider a negative ion, you know, a negative ion is anything, but molecule or atom that's charged with electrons, it's going to make a charge to it."
+    },
+    {
+        "start": "00:46:13.440",
+        "end": "00:46:40.440",
+        "text": "So because that's semi stable, once that enters your body, it gives up those electrons. And if you've got two of anything that's charged, you know, positively or negatively, they're going to repel each other, you know, like charges repel and opposite charges attract. So if these extra electrons, they get into your lungs, which get into your blood in circulation"
+    },
+    {
+        "start": "00:46:40.440",
+        "end": "00:47:06.080",
+        "text": "really fast, it charges up your blood, negatively with negative ions, which is naturally what the body is used to with the Earth is negatively charged, but the whole idea of where lightning comes from, you know, the Earth is negatively charged, you know, positive and atmosphere creates the lightning to neutralize those, the potential difference between those voltages. So naturally, if you're walking around on the Earth, you're absorbing negative ions"
+    },
+    {
+        "start": "00:47:06.080",
+        "end": "00:47:34.840",
+        "text": "or electrons through the soil, you know, we don't have that option these days so much. We're all walking around and inside on floors isolated from the negative charges with insulated shoes for the most part, right? Right. So this is a new natural way to get those electrons that our body needs. So anyway, go back to the circulation in your blood. When this charges your blood with the negative ions, the electrons, it separates them."
+    },
+    {
+        "start": "00:47:34.840",
+        "end": "00:48:01.800",
+        "text": "It forces them to not clump up, but to repel off of each other. So in that aspect, you can more easily throw through your blood vessels in the smaller capillaries and not stick or clump together. A while back, you may remember in our telegram group, we shared a video of Japanese, well, but not a weapon. A fingernail thing. Right. Yeah, exactly."
+    },
+    {
+        "start": "00:48:01.800",
+        "end": "00:48:30.920",
+        "text": "So they put a microscope, a little drop of oil on your fingernail under a microscope where you can see the capillaries and right where your fingernail meets your skin, where it grows from them, there's access to, you can see the capillaries right there and looking in the microscope, they do a pass over it and you see all these like U-shaped capillaries that, you know, run blood up into your fingernail and back."
+    },
+    {
+        "start": "00:48:30.920",
+        "end": "00:48:59.520",
+        "text": "That's how the cells that create your fingernails get nutrients, you know, it needs to get blood and nutrients in there. And you can see how, I mean, it's kind of hard to tell at first, but there is, you can see this U-shape, which is the capillary, and there's a few spots in there, which is the blood. I mean, I didn't know at the time when you first started looking at it, but then they hook up the client or the person to a candidate to start breathing the hydrogen. But remember this, within 30 seconds to a minute, you can see that those capillaries"
+    },
+    {
+        "start": "00:48:59.520",
+        "end": "00:49:26.640",
+        "text": "come alive in what was clotted blood or blood that was not moving freely. It just starts, you know, moving and moving. In those little bitty clots that were there, they dissolve. And you can see the little cells of blood passing through the capillaries. And it was amazing to see how fast the effect was and how quickly the body reacted once it started breathing the hydrogen or the gas. Yeah. I remember that."
+    },
+    {
+        "start": "00:49:26.640",
+        "end": "00:49:55.960",
+        "text": "I'll see if I can find that and put it in the video description for anybody that wants to take a look at it. But that was, yeah, that was pretty amazing. Yeah. Yeah. Yeah. That was really amazing. The fact that the blood, I mean, well, it just, it wasn't just the existing capillaries. It actually expanded beyond where even the other, you know, it started creating, not creating new capillaries, but you could see the other ones waking up and getting, you know, flushing. I mean, flushing is a better word for it. When you started flushing up. Right."
+    },
+    {
+        "start": "00:49:55.960",
+        "end": "00:50:21.880",
+        "text": "It just increases circulation. So if it acted that quickly on those small capillaries in your fingernails, which you can really see and you can relate to, just seeing it and watching it move, you know, being stuck before and moving afterwards, you just think of what it's doing in the rest of your body and how it's healing things. It, one of the underlying principles that's going on, which is helping heal the body is increasing circulation and access to nutrients in those capillaries that may be clogged up"
+    },
+    {
+        "start": "00:50:21.880",
+        "end": "00:50:50.840",
+        "text": "or your blood cells may be clumping up and not being able to so quickly pass to the capillaries and bring nutrients and oxygen to where it's needed. Just that alone would be enough to justify some of the healing that we're experiencing. Yeah. No, you're right. Absolutely. That's kind of interesting that you mentioned that I'd never thought about the fact that I know that, I know that, I mean, I'm inhaling additional electrons is basically, you know, put you bubble the water, you're literally drinking electrons, you're inhaling electrons."
+    },
+    {
+        "start": "00:50:50.840",
+        "end": "00:51:16.360",
+        "text": "I never thought of it as a substitute for grounding, although I, you know, but you're right though. It's kind of funny. I just realized when you said that I don't have the same situations that I used to have when I didn't ground enough, you know, because I'm always breathing. So yeah, you're right. It does really pump you up. Interesting. Because I used to, in the old days before I had a generator, I'd always try to make a,"
+    },
+    {
+        "start": "00:51:16.360",
+        "end": "00:51:43.960",
+        "text": "you know, remind myself to go outside and ground, but you never quite have enough time, right? So I would always... Exactly. Oh, man, I have a ground for a couple of days and I'm feeling really off, but I don't ever feel off anymore ever, you know. I still ground as much as I can, but yeah, you're right. That's interesting. Yeah, man. I come from the viewpoint of a, you know, a physicist and an electrical, electrical engineer. Right. And I did that in school, like official schooling, as they would say, right?"
+    },
+    {
+        "start": "00:51:43.960",
+        "end": "00:52:07.920",
+        "text": "Once I got out of school, all my personal research and learning has been in health and in the biomedical field. So we're doing a gap between physics, electrical engineering and how the voltage and charges work, as well as what I understand now with reading so many research papers on health. Yeah. So I'm able to make some of these connections."
+    },
+    {
+        "start": "00:52:07.920",
+        "end": "00:52:35.000",
+        "text": "Oh, yeah, since, you know, since I got into what I do, I've read a lot, learned a lot, studied a lot, and you know, it just, it just comes down to electrons. I mean, whether you're taking vitamin C or breathing in browns gas or doing C60, it's electrons and it's all about ion transforms and the electrical charge of different chemicals in our bodies and how it all comes down to that."
+    },
+    {
+        "start": "00:52:35.000",
+        "end": "00:53:02.640",
+        "text": "It really comes down to this whole bio-electro, electro, you know, activity and the way that our bodies work. I mean, we really are electrical beings and once you understand that, you know, as opposed to take a chemical and everything's, everything, every problem is going to be solved by some chemical, but you know, that's not true because we're more than just a chemical being. We're also an electrical being and once you understand it, like, you know, yeah, I mean, what's books on the subject? It's also good. Oh, yeah."
+    },
+    {
+        "start": "00:53:02.640",
+        "end": "00:53:28.360",
+        "text": "I was just going to say one of the best books on the subject is healing, you know, healing is voltage right when Jerry Tennant, so, yeah, definitely understanding that, understands you understand health, true health. Would you agree, Mandy? Right. Hey, you guys, I, you're awfully quiet. If you have any questions, you know, jump in, she's immediately over here, she comes. Yeah, Mandy owns the full tenant thing."
+    },
+    {
+        "start": "00:53:28.360",
+        "end": "00:53:57.480",
+        "text": "So she's really on board on the tenant. Okay. So, I say we're quick to, on the subject you just mentioned, but what's, what I find incredibly amazing, I'm talking about how the body's electric and how at such a fundamental core level on how the body generates this energy inside the mitochondria, which is a whole crazy sort in and of itself, what that is and where it comes from, how using hydrogen,"
+    },
+    {
+        "start": "00:53:57.480",
+        "end": "00:54:21.880",
+        "text": "the, the mitochondria basically cleave off a hydrogen atom from sugars called the hydrates, proteins, that has just the right bond to keep it stable, but not strong enough where the mitochondria can't pull it off. But basically it pulls off a hydrogen atom from what we consider a call food, it then it rips off the, it rips apart the proton and electron and puts that through a, the"
+    },
+    {
+        "start": "00:54:21.880",
+        "end": "00:54:47.320",
+        "text": "Krebs cycle, which is, you know, three plus steps of a process and in the end of the process out pops an ATP molecule, which the body is used for energy, like gasoline for the body, basically. Yep. And at the, at the complete end of the cycle, it produces water. So you bought it, you're breathing oxygen from the air, it's in the atmosphere, but there's no hydrogen. So you need the hydrogen that comes from the food normally. Right."
+    },
+    {
+        "start": "00:54:47.320",
+        "end": "00:55:13.600",
+        "text": "You know, it's incredibly interesting to me that at its most core level, the, the mitochondria and our energy come from the hydrogen atom, it rips, it rips it apart, puts it back together and ends up with water, basically the, what rocket engines run off of, you know, hydrogen and oxygen. Absolutely. Yeah. That's the thing. I mean, you know, like, I try to, when I try to explain to people about health, you know, talking about the bio-electral aspect of it, but there's the other aspect of it"
+    },
+    {
+        "start": "00:55:13.600",
+        "end": "00:55:42.480",
+        "text": "that we're, we are as adult human beings, roughly like an 11 and a half gallon salt water aquarium, wrapped up. And so we are literally water. And when you think of water, H2O, when that, that means that the most prevalent molecule in our bodies is hydrogen and oxygen, right? And, and, and of course, there's a whole bunch of carbon in there. So, yeah, I mean, this just absolutely makes sense. Hey, you know, we're rounding up on an hour."
+    },
+    {
+        "start": "00:55:42.480",
+        "end": "00:56:10.720",
+        "text": "And I wanted to kind of talk about your product because I know that you're working on an enhancement to PMF. So I kind of wanted to get a, just kind of like get a feel for that real quick before we end. So what I want to do, those let everybody know, watching this webinar at a later date, I do want to just, just mention one little thing real quick as an additional testimonial is this week for the first time I tried treating my eyes by putting a brownscast inside a set"
+    },
+    {
+        "start": "00:56:10.720",
+        "end": "00:56:39.600",
+        "text": "of goggles. And I'm just trying to see if it'll, you know, help my vision, right? Because when I first started doing brownscast, my vision improved. And I'd say like it got, let's say it went 100 better, but now it's back to like 50 better. So it did go, you know, throttle back down in terms of improvement. So I'm trying to get back to that, you know, so I'm trying to see if it'll do anything. But my first attempt was it really dried out my eyes. So I'm just wondering, if anybody out there has a suggestion, like, how can you treat"
+    },
+    {
+        "start": "00:56:39.600",
+        "end": "00:57:09.600",
+        "text": "your eyes directly with brownscast? And then, you know, of course, not dry them out because they were, they got pretty dried out. So I'm thinking I got to kind of, have you, has any of your customers tried treating their eyes? No, but that's something I want to do for myself as well. I mean, I'm just now starting to need reading glasses and, you know, we mentioned like honey before. Some people use that for cataracts. Yeah."
+    },
+    {
+        "start": "00:57:09.600",
+        "end": "00:57:37.800",
+        "text": "Yeah. And I've done a little bit of that, but I think hydrogen in this, in the gas, brownscast could help. And like you said, the trick would be to help, uh, you modify that or maybe put some drops in the eyes to keep them overly, um, lubricated. Yeah. Well, I would say they don't try out because I'm like, I run the gas through two bubblers and I'm thinking, is there, because I know there's a way to dry the gas, right? There's, there's dryers where you dry the gas, take the immunity out of the gas."
+    },
+    {
+        "start": "00:57:37.800",
+        "end": "00:58:05.840",
+        "text": "But is there anything that you could actually use to put humidity into the gas? Well, normally those bubblers we put have on the side, they're called humidifier bottles to put, you know, good water vapor back into it. So the gray gas is not overly dry. But I'm thinking for the eyes, I would look at putting some, uh, lubricating drops in the eyes. Okay. Also, I mean, the honey at the same time also helps lubricate the eyes."
+    },
+    {
+        "start": "00:58:05.840",
+        "end": "00:58:35.480",
+        "text": "It's things at first when you first put it in, but that in combination with the browns gas may be, um, uh, a good combination. You put honey in your eyes or go ahead, um, what it made a saline solution with the browns gas bubble to water and use that for eye drops. Um, yeah, that could definitely work, um, whatever solution you're going to be putting your eyes, whatever drops that is, you bubble it through the, uh, the hydrogen first. Mm hmm. Okay."
+    },
+    {
+        "start": "00:58:35.480",
+        "end": "00:59:05.040",
+        "text": "I'm going to tinker around with that and I'll let you know how it works out. Um, so the other thing is, let's talk about before we go. I do want to talk about you're working on, now here's your product. This is your website. And for all you folks, uh, Ben's website is H2 biohacker, um, and his product is the H2 Genesis. So, um, let me just see if I pop over to the H2 Genesis where, where is that guy somewhere here? This guy. That's, uh, this is your, you're looking at."
+    },
+    {
+        "start": "00:59:05.040",
+        "end": "00:59:34.240",
+        "text": "So I'm looking to speed it right there, kind of pop up the page. So now you, this is your, your current model, right? Um, I do. Oh, I do want to mention that, uh, right now the, the prices of 1495, if anyone's interested, I do want to mention that, uh, there is, uh, Ben's, Ben and, and I are putting, uh, there's a hundred dollars off discount code in the video description that'll be good for 30 days after the videos, uh, published. So if anyone's interested, you know, you can get like right here."
+    },
+    {
+        "start": "00:59:34.240",
+        "end": "01:00:00.880",
+        "text": "It's already a thousand off right now on sale plus with the discount code, uh, if you're interested in getting a brown skies from Ben, a generator, uh, it's an additional hundred dollars off and use the discount code, uh, in the video description, uh, for, uh, for this webinar. So that's that. But what I wanted to chat about was, uh, this is your current model, but are you, you're right now, aren't you adding like PMF, like, uh, like something else to it or, or is that still in the works?"
+    },
+    {
+        "start": "01:00:00.880",
+        "end": "01:00:25.280",
+        "text": "Um, that's something I, you know, I'm experimenting with and we definitely added to a test unit here. Um, but in my latest experiments, like using the PMF on my shoulder and comparing the effectiveness of, of effectiveness of that, um, to just applying browns gas in the sleeve I showed you earlier, um, I'm in no rush to do any PMF, you know, I'm, I'm thinking that it's"
+    },
+    {
+        "start": "01:00:25.280",
+        "end": "01:00:52.480",
+        "text": "almost, not necessarily a waste of time, but it's definitely not, um, worth, uh, pursuing that, uh, to, to the degree or as fast as I was before, based on my last experiments. So that's kind of on hold right now. That's something we may do in the future, but everything we throw this rounds gas at this oxyhydrogen that hydrogen, I hope you want to call it, um, it's fixing."
+    },
+    {
+        "start": "01:00:52.480",
+        "end": "01:01:21.760",
+        "text": "So I almost, I'm very little need for almost any other supplements or any other devices out there now. I mean, that's my personal opinion. No, no. Yeah. I, well, yeah. So that's kind of like, I was thinking, cause I know you were looking at a PMF to treat your shoulder, but if you figured out that, yeah, it's kind of like you don't get the value ads. So why bother? Yeah, exactly. And that's why I, like I said, I purposely delayed treating myself with the, the, the hydrogen to see how the PMF would work. And I'm, the coil I made was fairly strong and I tried all different frequencies."
+    },
+    {
+        "start": "01:01:21.760",
+        "end": "01:01:51.640",
+        "text": "And I did notice, um, it did help. Um, it would loosen it up in the pain go away, but it did not heal and I didn't get the results nearly as fast as I did once I started using the sleeve where my shoulder was completely encased in the hydrogen for hours at a time, you know, while it's sleeping. And so, you know, the, the PMF adding that to the, I'm assuming that the moment is kind of, you know, on hold for now, it's not worth the, the benefit is not worth the, the work at this point."
+    },
+    {
+        "start": "01:01:51.640",
+        "end": "01:02:20.800",
+        "text": "Okay. So for those of you aren't familiar with Ben's website, uh, there's a page of just the testimonial. So, uh, there's some, like just voice clips, there's, uh, other types of tests. You can listen to other different customers actually call in and, and, you know, talk to him. And then as you can see all the other different testimonials out there. So if anybody's interested in the rounds gas, a lot more can it do, uh, it goes beyond this webinar and it kind of gets into like you can go to his testimonial page, uh, and"
+    },
+    {
+        "start": "01:02:20.800",
+        "end": "01:02:48.400",
+        "text": "you can also go and check out the studies. He's got a full page of just studies. Uh, that's why I love your, I love your site. You really pack it in there, um, in terms of all the different, uh, ailments and the different studies where molecular hydrogen can help that. So, uh, I do want to point that out. So if anybody's interested in learning more about that. And you know, in terms of like ideas, because I'm a, I'm a tinker and I'm always trying to figure out different ways of doing things, thus the whole goggle test this week, but"
+    },
+    {
+        "start": "01:02:48.400",
+        "end": "01:03:16.520",
+        "text": "I did want to point out something and maybe it's something you could think about doing. Um, just for this, I was doing some research just to see like, what's the current, like the absolute most recent studies that are coming out about molecular hydrogen. And you know, one of the things that I thought was interesting, uh, Ben was there's, there's this one study that actually said that inhaling, uh, H2 hydrogen could facilitate lipid metabolism during aerobic exercise and what this, and it, by the way, there'll be, uh, this little"
+    },
+    {
+        "start": "01:03:16.520",
+        "end": "01:03:46.280",
+        "text": "page here, I'm not going to get into it, but, uh, if you want to read any of these studies, I'll put the links in the video description, but I want to point out this one study and what this means to me, right? Because you know how they've got these oxygen, um, things at, at gyms now where you can kind of hook up like the Vaspur hook ship to all that cold water, but then they got the oxygen mask and you could be like, you know, doing your spinning class with the oxygen thing. But here's a study that says, and it proved that if you're breathing in hydrogen, right?"
+    },
+    {
+        "start": "01:03:46.280",
+        "end": "01:04:13.800",
+        "text": "While you're exercising, it burns your fat better than if you did it, just breathing air. And I thought that was really, so what about like, so I'm thinking like a tinker, right? I'm like, oh, you know, we should get Ben to create like a mask or you could be like exercising and you could be hooked up to your brownscast thing. Is that something that you like, you know, I'm just throwing some ideas at you because it's good. It's a good idea. I like the way you're thinking, but I don't the practicality of it may not necessarily"
+    },
+    {
+        "start": "01:04:13.800",
+        "end": "01:04:42.800",
+        "text": "be there, but along the same lines as this study you just mentioned, I noticed others noticed and I found other research that shows that just breathing the gas or using these hydrogen therapies alone is enough to reduce your body fat content and build muscle. So you can do nothing other than, you know, breathe the gas and just sit around doing your same old lifestyle. You can gain muscle and lose fat. But the effects are in hand, I noticed that with myself and others mentioned that as well"
+    },
+    {
+        "start": "01:04:42.800",
+        "end": "01:05:07.920",
+        "text": "as like, man, I'm losing weight and I feel like I'm getting muscle, you know, I'm not doing anything different. But that's like the dream right there. Yeah, yeah, it's not like, I mean, it won't make you, you know, Arnold Schwarzenegger shouldn't sit near your desk, right? But for athletes, it does take it to another level. So you will definitely notice enhanced, you know, fat burning and muscle gain when you"
+    },
+    {
+        "start": "01:05:07.920",
+        "end": "01:05:34.880",
+        "text": "were, you know, doing a hydrogen therapy type of protocol, I mean, what this is saying here is it's the same, the same thing I said in a different way, you know, inhaling how you could facilitate lipid metabolism during aerobic exercise. Well, you don't necessarily have to be doing it during exercise. There's a residual effect as well. So I think it's, like I said, the practicality of it is not there, but you get say 70%, 80%"
+    },
+    {
+        "start": "01:05:34.880",
+        "end": "01:06:03.240",
+        "text": "of the effect by breathing before or drinking the water before and or after. Right. Yeah, absolutely. That's, that's actually been proven in everybody is that browns gas, hydrogen, molecular hydrogen really increases your recovery rate, improves your recovery rate after strenuous exercise. You know, yeah, definitely. So I was thinking that you just get like, you know, because the cannulas come in like four feet, seven feet lengths, you just get a long one and then you're sitting there"
+    },
+    {
+        "start": "01:06:03.240",
+        "end": "01:06:32.000",
+        "text": "spinning and you can be breathing at the same time because, you know, okay, so I could if you have, if you have a spinning bicycle in your house in real treadmill, you can do that. Yeah, yeah. It's pretty easy to come when you, the cannulas get old, you know, we cut off the part that loops around your ears and you can cascade all these cannulas together to make a real, I've connected as many as five together. So I can sit it together as the end of the house and watch a movie with my kid, you know, so it works. Yeah. All right."
+    },
+    {
+        "start": "01:06:32.000",
+        "end": "01:07:00.800",
+        "text": "So what I want to point out is there's this one paper that I'm, the recent paper, I think it came out in November 2020 or something like that, development of molecular hydrogen medicine. And I really want to point out anyone that's interested in what hydrogen could do for you in brown skies. Basically, there's this read this paper, the link in the video description. And it's got the reason one of the things that's got this really cool little graphic that kind of just sums up a lot of what we've actually been talking about in terms of testimonials."
+    },
+    {
+        "start": "01:07:00.800",
+        "end": "01:07:29.680",
+        "text": "It's like, what happens when you administer hydrogen and, you know, and in the form of browns gases, hydrogen and oxygen plus electrically expanded water, but you've got all of these incredible benefits that come from this because browns gas is molecular hydrogen therapy plus electrically expanded water, you know, therapy, I guess is a better phrase, but negative ions. Yeah, the whole aspect is that you've got a double benefit. It's not just buying a hydrogen machine, but you're getting a browns gas, which is"
+    },
+    {
+        "start": "01:07:29.680",
+        "end": "01:07:58.040",
+        "text": "hydrogen machine plus. And so the paper really does talk about the positive effects on aging, on fatigue, radiation damage, vascular, blah, blah, blah, blah. So you can just see this, this diagram just really demonstrates that the multiple different facets of benefits that you get from the gas, and it's pretty amazing. So these are all third party peer reviewed papers, video description, and feel free to learn more."
+    },
+    {
+        "start": "01:07:58.040",
+        "end": "01:08:26.440",
+        "text": "Yeah, any parting, any parting thoughts? Yeah, a couple of quick things to add, the price that's currently on a website, that may be going up 100 bucks in the next month. So this may be the last month that it's at this price, just because word of mouth is, you know, increasing a lot and we're like barely keeping up with just the word of mouth orders that are coming in. So to expand our facility and get more help, you know, we may have to gradually raise the price a little bit."
+    },
+    {
+        "start": "01:08:26.440",
+        "end": "01:08:51.840",
+        "text": "We want to keep go up too much, but it may go up at 100 bucks, you know, maybe maybe two over the next year, but we'll see. All right. So, and then also we've got some people that are talking about doing some, you know, large orders. So if those come in, you know, first come first serve, so that's just, it's up to keep in mind. So, okay. So right now though, let's say for the next 30 days while we've got this discount code,"
+    },
+    {
+        "start": "01:08:51.840",
+        "end": "01:09:19.720",
+        "text": "it's 1495 and 100 bucks off using the discount code, but then after that, it's going to go up. All right. Right. Right. We can keep it at that for this month, at least while we're, you know, talking about mentioning here. All right. Thanks for the help. And then let's say there was one other thing I wanted to mention, and it escapes me at the moment. Oh, yeah, this is it. Real quick, another real quick testimonial, someone just recently came by to pick up a"
+    },
+    {
+        "start": "01:09:19.720",
+        "end": "01:09:47.760",
+        "text": "machine they just bought, and as they're leaving, they said, oh, by the way, I talked to so-and-so and the client of yours, the bottom machine, and this is kind of what, you know, clinched it for them to get a machine. They're like, they asked them, like, well, what do you think of Ben's machine that I choose Genesis? How do you like it? And she was like, I put it this way. If someone broke into my house and stole it, I'd buy another one right away. Oh, yeah, like that pretty much says it."
+    },
+    {
+        "start": "01:09:47.760",
+        "end": "01:10:12.720",
+        "text": "Or everything else before the new laptop, I got to have my beach. Yeah, I got to admit though, it's the first thing I do every day. I sit at my desk, I bubble my bottle of water, I hook up on the canada. Yeah. It's it's the one more quick thing to mention. I found a found a way that this is going to, I might kind of reserve this for the client said by the machine, just as one more, one less instead of, but well, two things, two quick things."
+    },
+    {
+        "start": "01:10:12.720",
+        "end": "01:10:41.520",
+        "text": "I soon started a form for clients only that I'll be giving special extra treatment and probably gifts to an extra, they'll be the first to to get some of our new experiments and research right there that we're getting into. So for example, the sleeve and some other things that we're working on. But I found a way, and I've tested it also on several people, to increase the effectiveness of the hydrogen water, nearly almost 10 fold. Wow."
+    },
+    {
+        "start": "01:10:41.520",
+        "end": "01:11:10.320",
+        "text": "So I'm going to reserve that for clients at buy the machine. I think I kind of eluded it to you. Okay. So you may know, but let's keep that a little secret for now until we release it. Just so I only give that and we'll be giving away that'll be coming with some of the machines in the future, that extra tweak to increase the effectiveness. But I'm, I've given some people some of this water and they're like blown away. Wow. So you found a way to feel it."
+    },
+    {
+        "start": "01:11:10.320",
+        "end": "01:11:38.600",
+        "text": "To get the water to hold more gas. Is that what you've done? Right. Wow. Exactly. Yeah. That's been like the holy grail in the chat room is people trying to figure that out. Oh, cool. Well, there's actually, there's actually two things that we're, we're doing, like that can be done. Either one of them will work, but there's one in particular that has been like, you know, off the charts and that'll be getting great feedback. So reserve that for the people for our direct clients."
+    },
+    {
+        "start": "01:11:38.600",
+        "end": "01:12:08.240",
+        "text": "And we may show that eventually with everyone, but from the little teaser there. Yeah. No kidding. Well, we'll leave everybody with that thought. Hey, okay. So now if people want to get ahold of you, it's through your website, right? H2Biohacker, there's going to be a link in the description below. And if you want to get ahold of me, I'm at the Tinkers Academy. That's my blog. And also, just as I mentioned earlier, we have an H-O and H2 experience telegram chat group. And that's where you can jump in and get ahold of any of us."
+    },
+    {
+        "start": "01:12:08.240",
+        "end": "01:12:37.680",
+        "text": "Questions, interact with other people using Brown's guess and H2D and so forth. So all the links are in the video description and everyone is welcome. Any parting words? Anybody? Nope. I think that's it for me. There's a great call. We got a lot of good information out this time. Oh, yeah. Yeah. Thank you so much. And thanks for watching the video. Really appreciate you spending some time with us. I hope you got something out of it. And if you want to learn more, check out the video description and, you know, just say, thank you, Ben. Thank you, Mandy."
+    },
+    {
+        "start": "01:12:37.680",
+        "end": "01:12:44.880",
+        "text": "Have a good one. Really appreciate your time today and just really enjoyed this conversation. So thank you very much and have a great day."
+    }
+]

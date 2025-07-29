@@ -1,0 +1,342 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.160",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and in this video I'm gonna be doing an H2 Genesis Browns gas generator also known as H-H-O unboxing and setup. This H2 Genesis is brought to you by a company called H2 Biohacker and I just got a new one. I've got two others but I just got this H2 Genesis and I thought this time hey you know I did product"
+    },
+    {
+        "start": "00:00:28.160",
+        "end": "00:00:58.040",
+        "text": "reviews in the past but I've never done it unboxing to kind of show you what the process is to set one of these up and get them running. It's very simple. I'll try to keep this short and sweet and just let's just jump right into it. Now the first thing you're gonna get is you know this is an overview of a Browns gas generator if you're not familiar with it. These are all the different pieces. Take them just a second to kind of familiarize yourself with it but basically this here is the generator itself. Water goes into a tank in here and then there's an"
+    },
+    {
+        "start": "00:00:58.040",
+        "end": "00:01:24.360",
+        "text": "electrolysis process because there's electronics you've got your amp meters in your control panel to kind of keep an eye on what's going on. You've got your off and on button and then you've got a water indicator because you know it's important that you have you know how much water is in the tank and that you keep it at an adequate level at all times. Now the gas is generated here when the electrolysis process kicks in. It goes up an expansion chamber it comes out it goes through this bottle here and a second bottle and these bottles what they"
+    },
+    {
+        "start": "00:01:24.360",
+        "end": "00:01:51.360",
+        "text": "up or what they act as are filters and so they're filled with water and you bubble the gas through the water to basically to capture any of the sodium hydroxide that's used as to to expedite the electrolysis process and so that's kind of what these filters are for. So these are your filter bubblers and then when the gas finally goes through those two bubblers it goes into a drinking container right here and where you can connect a canula to it so you can"
+    },
+    {
+        "start": "00:01:51.360",
+        "end": "00:02:20.520",
+        "text": "inhale and then at the same time you can bubble water that you want to drink and that's really it. That's what a Browns gas generator does and if you've looked at H2 generators it's almost the same thing. So now here's the thing that you need to know when you buy an H2 Genesis from H2 Biohacker links below obviously. Now the thing is is that this is what it does not come with okay so before you well actually after you order your generator then you need to"
+    },
+    {
+        "start": "00:02:20.520",
+        "end": "00:02:46.320",
+        "text": "order some sodium hydroxide okay and you need to get some distilled water because you know they don't provide that. The reason that they don't ship sodium hydroxide with the box is because it's a caustic chemical and that you know and there's all you know the post-service tons of paperwork they don't go through that. It's so easy just ordered on eBay it's very cheap. Now I learned in this process that you should it's recommended by me that you should"
+    },
+    {
+        "start": "00:02:46.320",
+        "end": "00:03:16.080",
+        "text": "have a gram scale you know something that can measure up to 50 grams so you can measure the approximate amount of sodium hydroxide you need to make the electrolyte. Obviously you're gonna need your own measuring container it needs to be glass you need and then it's recommended that you excuse me that you have safety glasses you know so you just it's got to be real careful when you're mixing the electrolyte it is caustic which is the opposite of acid but it does the same thing to you it will burn you so you really want to be very careful so"
+    },
+    {
+        "start": "00:03:16.080",
+        "end": "00:03:44.120",
+        "text": "wear safety glasses and of course it does come with some plastic gloves but I found out in the process that the gloves that come with that are too small for my hands so I just wore my regular cheap winter gloves but that's basically it so this is what you need to know that you need to have everything else will come with the box okay and I'm going to show you in a video the whole process here I just want to walk you through the concepts and everything you need to think about. So the steps that I'm going to be going through bottom line is the"
+    },
+    {
+        "start": "00:03:44.120",
+        "end": "00:04:09.880",
+        "text": "very first thing is open the box and do a parts check you want to make sure you have all the parts just like everything else you ever open that has to be assembled you want to just make sure the parts are there before you get started so you don't piss yourself off. Okay now the next thing is the very second step that I this is all this is my way of doing it it is not the formal H2 BiRacker way this is just how I approach this this is I've multiple"
+    },
+    {
+        "start": "00:04:09.880",
+        "end": "00:04:38.040",
+        "text": "different generators and so it's not my first rodeo so this is how I do it okay so first thing I do is I'll go out and mix the electrolyte solution after I do the parts check because if there's a missing part I stopped and of course you know you have to go and and why even bother right but if I have all the parts then boom I'm gonna go and do number two I'm gonna go mix the electrolyte solution and the reason that's the very next step is because it gets hot and that's why you need like a very very I use a Pyrex pitcher all right you can"
+    },
+    {
+        "start": "00:04:38.040",
+        "end": "00:05:06.960",
+        "text": "use a mason jar because those mason jars are meant to go into pressure canners right so they're hardcore glass but you definitely need a very very sturdy glass container because it will get hot and I won't get so hot it's gonna melt anything but it will get hot where you're not you can't hold your hand to it so you're gonna want to go and because it gets hot you're gonna need to let it cool off so normally in like normal summer temperatures it'll take about an hour but you know it's winter right now I think it was like 46 today"
+    },
+    {
+        "start": "00:05:06.960",
+        "end": "00:05:34.960",
+        "text": "and it took about maybe half an hour to cool down so you definitely want to just do that first while that's cooling then you go back and you attach your bottle holders you connect all your hoses you insert the bubblers fill them up with water you add the expansion chamber and you and then you know when that when the electrolyte is cooled off then you can go ahead and fill your tank there you go it's really simple now the control panel when you go to turn it on is really quite simple others basically two sets of buttons the left and the"
+    },
+    {
+        "start": "00:05:34.960",
+        "end": "00:06:01.800",
+        "text": "right and then the display has a top and bottom so the bottom number is gonna be your power and then the right hand side right here it says percent power is what goes up and down so you can go you can make a go up and go down and you're gonna want to read the user guide as to what the power level setting should be now if you're running it at a hundred percent you're basically pumping about 10 amps through the generator and you're gonna be burning up a lot of water really quickly and you're gonna have to refill it more often right and so now"
+    },
+    {
+        "start": "00:06:01.800",
+        "end": "00:06:30.120",
+        "text": "and then there's another concept to about you know how much gas can your body actually assimilate any given time anyway and the average male 200 pound human being you know basically if you set it at 40 percent in your normal person you're gonna about you're gonna saturate is about is you're gonna about you're gonna you're gonna get as much as you can take in anyway so going over 40 percent and breathing inhalation is just really kind of like not even you know it's pointless so you can definitely kind of set it at 40 that's"
+    },
+    {
+        "start": "00:06:30.120",
+        "end": "00:07:00.080",
+        "text": "what I run it at when I'm inhaling and then when I when I bubble water I you could leave it at 40 or I just I crank it up to 100 whenever I'm bubbling water because I just want to get it done I want I want to infuse my water with as much brown gas as fast as possible because you know that's just I'm just that's how I do it now the next set of numbers which is that top row of numbers is a frequency generator now there's a little tiny frequency generator and it pulses the DC Paul power to the electrolyte and the electrolysis system"
+    },
+    {
+        "start": "00:07:00.080",
+        "end": "00:07:28.120",
+        "text": "in the tank and and really what that frequency does is it allows you to impart a frequency into the water okay now there's a lot of discussion as to whether that does anything or not but it's kind of a cool thing to play with it comes out of the box set at 25 hertz now you can this thing will go up all the way to I believe 999 and then it'll go up another something something I forgot Ben told me what it was Ben is the guy from HD Fire Hacker so but the"
+    },
+    {
+        "start": "00:07:28.120",
+        "end": "00:07:55.560",
+        "text": "whole idea though is you can put a frequency in there and if you're familiar with frequencies and resonant frequency kind of thing you can kind of play with that and you could set it at whatever you want and basically you're basically pumping in frequencies into the water and that's what that does again though I want to point out there's a lot of debate about whether that does anything but you know it's just there because it's part of the control panel but the main thing right here is turning the power up and down as you're doing different things bubbling water versus inhaling the browns gas okay now the"
+    },
+    {
+        "start": "00:07:55.560",
+        "end": "00:08:21.200",
+        "text": "next thing you want to do is after you get it all set up and in my actual unboxing I did run into a problem and I had the troubleshoot my machine and I had to figure out what was wrong with it and I fixed it but you know there's if you read the quick start guide there's all these different things that it covers so you want to kind of familiarize yourself with the support resources so that you're aware of you know where to get your answers when you've got simple questions so basically I just want to point out links in the video description"
+    },
+    {
+        "start": "00:08:21.200",
+        "end": "00:08:50.920",
+        "text": "below that there is a quick start guide which is what I followed to do this there's actual full-on user manual for the H2 Genesis and there's also a telegram support group now it's a private group just for people who own the H2 Genesis okay so you've got direct access to the engineer who designed it and built it his name is Ben and so after you buy this you'll get invited to that group where you can talk to other owners and you know and just talk about whatever you need to talk about ask any questions and so forth okay so those are your"
+    },
+    {
+        "start": "00:08:50.920",
+        "end": "00:09:19.600",
+        "text": "support resources it's really well supported Ben's exceptional at customer service so you know it's it's a really good you know company in terms of just supporting their product good product etc so that's that now I also just as part of this unboxing video I just want to let you know that there's gonna be a discount code for anyone who has not bought one of these you know hey I've got worked out with Ben a discount code Calmer discount it'll save you a hundred bucks on on an H2 Genesis if you're interested in getting one after"
+    },
+    {
+        "start": "00:09:19.600",
+        "end": "00:09:47.440",
+        "text": "you watch this video it's gonna last as long as it's gonna last so you know there's no expiration date as of now so if you're interested you know I just just want to point out take advantage of the discount and you can go ahead and get yourself one all right so let's get into the video now this is how it comes basically it comes in one tape no two boxes taped together all right and so once you get it you're gonna basically well make sure you got both of them together that's the main thing that didn't get separated in in shipping so"
+    },
+    {
+        "start": "00:09:47.440",
+        "end": "00:10:16.880",
+        "text": "then when you open up the boxes the little box is gonna contain all of your parts okay so you've got your cannulas your your drinking containers your expansion chamber your bubbler filters your you know your your bottle holders all that and in the bigger box you've got the generator itself and the power court okay so now as you go ahead and unpack all of this stuff the very first thing you're gonna want to do obviously is a parts check so make sure you've got all the parts you've got the generator you've got the power court that's what's"
+    },
+    {
+        "start": "00:10:16.880",
+        "end": "00:10:45.000",
+        "text": "in the big box okay now in the little box you've got these other parts right here and you know like I said it's really important you do a parts check so really what it is is you want to make sure that you've got the basically the expansion chamber which is gonna go on top of the generator okay and then it's gonna come with a little you know amount of Teflon tape you're gonna need that Teflon tape to make sure that all your connections are tight as it relates to the expansion chamber you've got your two filter bubblers all right and you've"
+    },
+    {
+        "start": "00:10:45.000",
+        "end": "00:11:14.520",
+        "text": "got the hose that connects the two of them together so you've got the expansion chamber connects to one filter bubbler filter bubbler to the next filter bubbler and the filter bubbler the second filter bubbler goes to the water container all right and so they all have hoses and you just want to make sure all the hoses there okay and then of course you've also got your right here if you look right here I'm just gonna speed this up a bit you've got your bottle holders and they're basically the same thing that goes on a bicycle to hold a water bottle and they work perfectly for this so you can go ahead"
+    },
+    {
+        "start": "00:11:14.520",
+        "end": "00:11:43.640",
+        "text": "and attach those to the generator and you got an extra little parts packet in case you need any more you know air splitters and bubblers and then of course it does come with two seven-foot cannulas and then it also comes with what you need to mix the let me see if I can just get to that real quick it comes with what you need to mix so let's see if I get to that picture okay well there's the lie right there so I want to point out that you have to get your own lie but if you look at the bottom right there I'm just trying to see there it is"
+    },
+    {
+        "start": "00:11:43.640",
+        "end": "00:12:11.320",
+        "text": "right there whoop okay so then this is what else it comes with it comes with a plastic gloves a plastic spoon a little measuring cup that's kind of got it basically in a sharpie it's got like it says 25 grams on the cup so the you know with the idea that I believe h2 buyer hackers they I think that they you know obviously they're saying hey you know use this cup you could measure out 25 grams but when for the lie that I'm using and you know it all could be about"
+    },
+    {
+        "start": "00:12:11.320",
+        "end": "00:12:36.600",
+        "text": "particulate size creates greater volume or smaller size creates more volume right you know basically you know granular versus powder kind of thing but went with the lie that I bought I discovered that it's way more than 25 at the 25 line so that's why I recommend that you have a gram scale so you know for sure what it is so the little funnel is if you were to actually add the"
+    },
+    {
+        "start": "00:12:36.600",
+        "end": "00:13:06.560",
+        "text": "electrolyte directly into the generator whereas I didn't do that I and I actually poured the electrolyte through the expansion chamber which you know just it was easier so anyway you basically again right there you want to have a little gram scale you want to have your own electrolyte okay and then here you go so now this is what I was talking about I use my little gram scale to measure the like to measure the sodium hydroxide also known as lie and so you can see where this little line is on the little cup well I just kind of want to"
+    },
+    {
+        "start": "00:13:06.560",
+        "end": "00:13:36.040",
+        "text": "point out here as I was measuring the lie and again you know it could be that but the granulars of the lie that I bought are smaller than the ones he was using for measuring this but you can see we're at the 25 line right it measures out at 34 grams so you know so bottom line is you want to go but with a scale versus going by a line drawn on a cup because you don't know what type of lie you're using but at the end of the day you're gonna need 50 grams okay so you"
+    },
+    {
+        "start": "00:13:36.040",
+        "end": "00:14:02.320",
+        "text": "want to measure out 50 grams and you're gonna want to add 50 grams okay to 700 milliliters of distilled water so before you get started you want to get your distilled water again you know I use this Pyrex container because you know it has measuring lines it makes it so simple mason jars don't you know so again you know if you have one of these they're really cheap you know it's good to get and you can use it for other purposes right after you wash it so anyways so"
+    },
+    {
+        "start": "00:14:02.320",
+        "end": "00:14:31.920",
+        "text": "you can see the distilled water only never never never never never put any other kind of water inside the tank if you do you will destroy the plates in your electrolyzer and you're out of generator okay so only used distilled water and so in this example you've got the very starting batch you measure it to 700 milliliters with 50 grams of lie and you go ahead and just mix it up so the very first thing if you've never done this before you know you just pour in a little"
+    },
+    {
+        "start": "00:14:31.920",
+        "end": "00:15:01.740",
+        "text": "bit because the thing about lie is it turns into a rock as soon as it hits water so you've got to get in there and stir really quickly and kind of scrape it off the bottom and then it's gonna turn super milky and it's getting and then it's gonna get really hot okay so it's getting really hot it's gonna be milky but then you know what if you just keep stirring and stirring and stirring and keep it moving and I would say that I gave it a good you know like at least 60 seconds stir just to make sure that all the lie was dissolved so you want to do a little bit stir a little bit retinal the rest of it and"
+    },
+    {
+        "start": "00:15:01.740",
+        "end": "00:15:30.600",
+        "text": "stir but you got to make sure you go fast because it will turn into a rock and I've had that happen to me when I wasn't paying attention anyway oh and if you and if you notice I'm outside doing this never is another thing never never never never mix this stuff up inside your house okay I'm wearing glasses I've got my gloves on I'm outside I'm upwind to this thing because the fumes coming off of this when you mix it are nasty so please do not do this inside your house"
+    },
+    {
+        "start": "00:15:30.600",
+        "end": "00:15:59.360",
+        "text": "but here you go this is the example you keep stirring this thing for about 60 seconds and you scrape off all the hard parts off the bottom and it's gonna go crystal clear white right now it's still just a little bit murky but as you'll see when I go to add it to the degenerator after it cools off it'll be completely clear anyway you can put the bottle holders on either side of the generator okay now I chose to put it now it's in the picture it's on the right side I chose to put it on the left side primarily because of where I have it"
+    },
+    {
+        "start": "00:15:59.360",
+        "end": "00:16:24.240",
+        "text": "positioned next to my desk because I have it this is where I keep it I you know want to sit there and inhale browns gas all day long while I'm working at home so that's why I put it on the left side but it can go on either side you can have one on both sides whatever you want to do but anyway that's the screw you put it in now in terms of I think I just jumped over this so one of the things about the the expansion chamber right here so one of the things is this"
+    },
+    {
+        "start": "00:16:24.240",
+        "end": "00:16:50.280",
+        "text": "thing comes the expansion chamber nozzle came with like teflon tape on it already but it was kind of all kind of like wrinkled up and stuff I took it off and I put on a fresh rolled three wraps just to make sure everything super tight because this is one thing you do not want leaking if that stuff leaks on to the generator it'll eat the paint off okay and you know you want it to look nice so then basically after I put fresh teflon tape on the nozzle then I"
+    },
+    {
+        "start": "00:16:50.280",
+        "end": "00:17:20.000",
+        "text": "basically screw on the or you're gonna do this when you have yours you screw on your expansion chamber onto the top of the generator okay so once you get that on then you go and you hook it up to the next thing and the next thing and the very next thing that you would hook up the expansion chamber to would be the first bubbler so once that's tight there you go you hook up to the first bubbler then you take the second one with the little hose I showed you and you connect that bubbler to the second bubbler and once you have the second"
+    },
+    {
+        "start": "00:17:20.000",
+        "end": "00:17:47.040",
+        "text": "bubbler then you're gonna want to connect it to the drinking container and it's really that simple now of course as you notice it's all empty because I like to put it on this in my way again I put it all together before I put any water in anything now here let me just talk about water without what kind of water do you put into the outsides of these things okay well I want to point out that the water to use in the bubblers the filters should also be"
+    },
+    {
+        "start": "00:17:47.040",
+        "end": "00:18:16.440",
+        "text": "distilled water and when you need to fill up your tank again because you're keeping an eye on that meter right on the front of it you're gonna want to use the water out of these filter bubblers now the rule of thumb is you should empty these and refill them with fresh distilled water every 10 hours of run and you got a ballpark it and keep track okay but the bottom line is what these things capture is any residual side sodium hydroxide that escapes with the"
+    },
+    {
+        "start": "00:18:16.440",
+        "end": "00:18:44.800",
+        "text": "gas and that's what it's for it traps any residuals we're talking parts per million sometimes parts per billion of you know sodium hydroxide getting into the filter bubbler water you're never gonna drink this or you do not drink this but it just basically a port back into the generator okay through the expansion chamber the top of the expansion chamber and you'll see that in a second so that's what these are for every 10 hours give it fresh distilled water take what you have water that you have in it and you pour it back into"
+    },
+    {
+        "start": "00:18:44.800",
+        "end": "00:19:14.600",
+        "text": "the expansion chamber now you never want to overfill your expands in chambers so you'll be able to tell if the water gets too high and you can see it inside the chamber it's full okay and then if you have any excess in the bubblers you just throw it away but the bottom line is that's what these filters are for so filter out the light and at the same time you use that water to put back into your jenny to keep it filled and keep it running all right because it's gonna be burning up water to make hydrogen and oxygen for you okay so then of course you got the power cord you want to put power connect it to power and then once"
+    },
+    {
+        "start": "00:19:14.600",
+        "end": "00:19:41.760",
+        "text": "you've got the bubblers filled up you're gonna and you've got everything's plugged in and everything's connected then you want to take your now notice it's perfectly clear now it's cooled off that's your electrolyte that I did earlier outside and then you see how the top of the expansion chamber just pops right off with some like teflon tape to keep it snug and then that's how I did it I just pour it right in there it's a lot easier than trying to use a tiny funnel with a tiny nozzle just do this and then save yourself some trouble and then"
+    },
+    {
+        "start": "00:19:41.760",
+        "end": "00:20:10.400",
+        "text": "notice I do have a towel wrapped around the bottom because I don't want to get any spills any drops anything onto my generator again it'll eat the paint okay so then here you go once I pour the 700 milliliters in then basically I put the cover back on however now the machine will take up to 1.1 liters and that 1.1 equals full all right if you read the quick start guide it says you go ahead and get it up to 0.8 so I just added after this I didn't film it I added a"
+    },
+    {
+        "start": "00:20:10.400",
+        "end": "00:20:39.240",
+        "text": "little bit more just plain distilled water into the expansion chamber and mine actually popped up to 0.9 there's a little bit of a delay between what you're looking at on the in the gauge in the front as and and what you're pouring so as I was pouring it in I saw 0.8 and I stopped little did I know it went up to 0.9 after that because there's a little delay before that gauge you know actually you know accurately levels right so that's fine though the main thing is you don't want to go over 1.1 liters and so and then keeping it at"
+    },
+    {
+        "start": "00:20:39.240",
+        "end": "00:21:08.800",
+        "text": "0.9 actually is about 50% full and that's fine it runs perfectly fine at 50% full and so but you know bottom line though is you don't want to go over 1.1 and so I try to keep it at 0.9 to 1 at all times so that you don't have problems with over filling and you don't have problems with not having enough water in it so once you fill up once you pour water into your Jenny then you basically take the top of the expansion chamber and you just snugly fit it right"
+    },
+    {
+        "start": "00:21:08.800",
+        "end": "00:21:37.880",
+        "text": "back onto the top and you are good to go and you go ahead and you're done you just turn on that Jenny and you're good to go now here here's where I ran into a problem I went ahead and turned it on and I got power I've got my control panels going my gauges are reading I'm putting amps in there it's at a hundred percent power and look over here nothing no gas was coming out of the generator so that's kind of where I was like okay so I had to stop now so I this"
+    },
+    {
+        "start": "00:21:37.880",
+        "end": "00:22:02.480",
+        "text": "is what I did I took out the user guide and I went through the troubleshooting steps and I had to check every single little connection that I made because any one of those little connections all the hoses and everything expansion chamber you name it could be leaking air you know or gas right so I checked all of it everything was snug and then I finally figured out there you know why you know where it was having the problem and because when I went back and I took"
+    },
+    {
+        "start": "00:22:02.480",
+        "end": "00:22:27.720",
+        "text": "the top of the expansion chamber off and I listened to what was going on inside the tank and I could hear water bubbling inside the Jenny all right so the water the gas was coming out of the generator but it wasn't getting into the filters and so I discovered okay well what's blocking it and it turns out to be that little tiny valve on the top of the expansion chamber this is mine okay just"
+    },
+    {
+        "start": "00:22:27.720",
+        "end": "00:22:57.000",
+        "text": "for me but mine mine had the little valve on the top of the expansion chamber was blocked whatever was defective part so I just took it off right there so you see right here whoops right there right there I took off the little valve and I just connected the hose directly to the expansion chamber because it works fine you don't have to have the valve there okay so so I just connected it directly to the expansion chamber and once I got that valve out of the way then the gas"
+    },
+    {
+        "start": "00:22:57.000",
+        "end": "00:23:25.960",
+        "text": "was free to flow and my Jenny worked just fine so there's that little valve and that thing was just effective nobody's fault you know they don't make those themselves so that you know but bottom line is if you remember that little parts bag I could easily just put one back up there but I don't really want to mess with it I got it running I'm very happy so then I want to turn it down to 40 so I can go ahead and inhale so this is how you would turn it down you push the down button it turns down the power again you said it at 40 now if I could make the power go up by pushing the up button and then these two buttons on the"
+    },
+    {
+        "start": "00:23:25.960",
+        "end": "00:23:54.360",
+        "text": "left again are the frequency now what I like to do for frequencies I like to set mine to like 528 you know it's like the Salfegio range there's also the nozier range there's different ranges of frequencies and feel free I mean this is something you want to play with to see what works best for you and other people kind of like you know some people actually report that they feel differently breathing browns gas depending on the frequency that they're running into the tank well you know you never know right okay so that's basically it so let me kind of show you this is what I this is my setup so this"
+    },
+    {
+        "start": "00:23:54.360",
+        "end": "00:24:20.280",
+        "text": "is my desk it's I made a mistake when I bought my desk when I moved and I just it looked big in the picture but it turned out to be really small so anyway I got a TV tray but anyway this is how this is how I set it up so it's just sitting next to my desk and you can see why I put the bubblers on the left right so and then but this is how I do it instead of bubbling into that container I have one of these you know like these Leila quantum water bottles"
+    },
+    {
+        "start": "00:24:20.280",
+        "end": "00:24:49.440",
+        "text": "and and so I kind of just like to bubble my water in the actual stainless steel water bottle so I just you know I don't mess around with the you know the little splitters and all of that it's just you know it's just too many tubes right so I just kind of keep it simple and I just have one tube that I have hanging over my generator and the other tube is my cannula right so I just and I just swap them out by hand right here at the second bubble whenever I need to swap back and forth and you don't drink that many water bottles every day you"
+    },
+    {
+        "start": "00:24:49.440",
+        "end": "00:25:17.720",
+        "text": "know for that to be a hassle mainly like 99% of the day I've got a cannula on and I'm breathing but basically I bubble into my my Leila Q water bottle using a bubbler stone and then I just pluck that out plug in my cannula and I'm good to go and I turn it up and down depending on what I'm doing and that's really it so that's my setup the last thing I want to leave you with before I leave you is one of the things about accessories that I really want to point out which is"
+    },
+    {
+        "start": "00:25:17.720",
+        "end": "00:25:47.440",
+        "text": "really cool about H2 Genesis is that you know you one of the concepts of browns gases and it's really really helpful to be bubbling water if you know like studies show or not studies but anecdotal testimonies have indicated that if you could drink at least 1.5 liters of bubbled water a day that it has therapeutic effects right so that's a really good thing to do and that's what I do one of those Leila bottles is like I think 7 like 75 or 0.75 milliliters so"
+    },
+    {
+        "start": "00:25:47.440",
+        "end": "00:26:17.400",
+        "text": "just two of those a day right I bubble to those a day to get a therapeutic effective browns gas drink from just drinking and then on top of that I'm inhaling but there's another way to benefit from browns gas that a lot of people kind of overlook and and so one of the things I want to point out is that you can what we call bagging and so these are some of the accessories now the accessories on the left are things that I got off of Amazon and promo life okay and where their plastic cast covers right like for when you're hurt you know"
+    },
+    {
+        "start": "00:26:17.400",
+        "end": "00:26:44.840",
+        "text": "and so you got one for arms and you got for like no those work just fine and you can get those on Amazon and you can just basically take your water bubbler stone right and you just you know and connect it to your generator and you just stick that in the bag and then tighten it down and the bag fills up and you can basically treat yourself topically with browns gas okay so that's a really cool accessory I just want to point this out to you know it's not included in the"
+    },
+    {
+        "start": "00:26:44.840",
+        "end": "00:27:12.080",
+        "text": "box all right but it is something that's like the third way to benefit from and if you're going to get a generator and spend that level of money you're going to want to maximize your you know the benefit that you're going to get from having the browns gas generator so definitely try bagging I just my testimony on bagging is one time I burnt the holy crap out of my hand cooking by getting hot grease on my wrist and I had like three quarter in"
+    },
+    {
+        "start": "00:27:12.080",
+        "end": "00:27:40.120",
+        "text": "size third-degree burns basically on my wrist and it was painful and so what I did was I grabbed one of these that I just happened to have and I plugged into my browns gas and that thing puffed up like a big balloon right not my hand the bag and then I just treated it for like I don't know through a whole movie or something right and I'll tell you what like within like before I even noticed and it was like really painful these things were blistered out and the"
+    },
+    {
+        "start": "00:27:40.120",
+        "end": "00:28:07.440",
+        "text": "burns right but within is you know within the movie time right the pain was gone and I you know and so it was just amazing that the you know it just because nothing else would do that and six that's all I did was use the browns gas and so my personal testimony on bagging was that it eliminated the pain and the thing about it was the pain wasn't just gone that moment it was never it never came back it took several weeks for the blisters to you know some side and the"
+    },
+    {
+        "start": "00:28:07.440",
+        "end": "00:28:36.120",
+        "text": "burned the heel but from that moment on it never hurt again and I was just just shocked just shocked that it was like that effective but that's just my testimony so I'm a big proponent of bagging with browns gas so again go to Amazon if you want to get the plastic one but there's one downside to the plastic ones and that is that you get really really really sweaty so they get really wet and you know and that you know whether you you like that or not that's gets it's like you know but it's gonna get really kind of gross now this"
+    },
+    {
+        "start": "00:28:36.120",
+        "end": "00:29:05.280",
+        "text": "other bag that I've got over here is a teflon bag and it's also a leg bed but it's not like it's not like a cast cover and I really just kind of wanted point it out because I actually used to use that with my browns gas generator another one and the thing about it the reason it's made out of teflon because I use I also do ozone bagging and so that you know if for ozone you have to use a teflon teflon tubing and teflon bags so that's why I have a teflon leg bag but it you know it works right so it's just another form another type of"
+    },
+    {
+        "start": "00:29:05.280",
+        "end": "00:29:34.640",
+        "text": "bag that you can use for topical application of gas now if you if you are interested in teflon bags you know you can get those off us off of you know and just go search for it and then of course the plastic bags but this is the what I want to point out was about a year or so ago H2 Genesis started maker H2 biohacker started making these these sleeves and what's really cool is they're making they're made out of this material that's kind of like the stuff"
+    },
+    {
+        "start": "00:29:34.640",
+        "end": "00:30:01.600",
+        "text": "that they make tents out of right and it what's really weird is you wouldn't think that a cloth bag would hold the gas well but it actually holds it really really well and so the way they make these sleeves is you and they're very versatile so you can put it any you can like basically target whatever area of your body that's hurting you right you've gotten you cinch off both ends and then you put the tube in there and then and then it pop it poofs up with the gas but"
+    },
+    {
+        "start": "00:30:01.600",
+        "end": "00:30:26.920",
+        "text": "then it doesn't get so expanding where you have to let the gas out it just kind of it's just it's like perfect it's perfect material that will hold it enough gas in but once the pressure builds out it'll let it seep naturally out and it's really really kind of handful I mean handy and those are available on the H2 biohacker website so you know if you're interested in bagging I just I just really wanted to point that out this is going to just close the the loop here"
+    },
+    {
+        "start": "00:30:26.920",
+        "end": "00:30:53.880",
+        "text": "okay so again that is how you set up the H2 Genesis from H2 biohacker all right again there's a discount code to try to save you guys some money thank you for watching this unboxing video I hope you learned something if you got any questions for myself or Ben you can find Ben here at the H2 biohacker.com website very super helpful again if you do buy one you can go ahead and join the telegram chat group for Genesis owners again and my name is K Elmer and"
+    },
+    {
+        "start": "00:30:53.880",
+        "end": "00:31:22.400",
+        "text": "I am the guy who runs the tinker's Academy and if you have any questions for me you can find me at tinker's.academy and your URL window goes right to my blog I got a huge page by the way I have a big page all about browns gas tons of resources I've been collecting information about browns gas for a couple of years now I'm just fascinated by it so it's everything is on that site everything from the patents for it different videos I've done about it and so forth so if you want to learn more about browns gas come to the tinker's"
+    },
+    {
+        "start": "00:31:22.400",
+        "end": "00:31:35.360",
+        "text": "Academy if you're interested in getting an H2 Genesis head on over to H2 biohacker to ask for Ben great guy and I hope this was helpful so thank you for watching and have a great day a la"
+    }
+]

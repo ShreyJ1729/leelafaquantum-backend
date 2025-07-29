@@ -1,0 +1,1162 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.880",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kayama and in this video I'd like to share with you a wonderful discussion I had today with Philip von Holzendorf of Leila Quantum Tech about their newest product that was released today called the Leila Quantum Block. For those of you who are familiar with Leila products, this is the device that creates other products. So for those of you who are new to the concept of quantum energy"
+    },
+    {
+        "start": "00:00:26.880",
+        "end": "00:00:56.880",
+        "text": "devices, I kind of just want you to know that I broke the discussion into two parts. The very first half of our discussion really centers around what is this energy? What does it do? How is it different than other types of quantum energy devices on the market and really wanted to dive into how you know like what is the validation of for the claims that are made about what it can do? And so Philip was gracious enough to kind of walk through each one of those ideas"
+    },
+    {
+        "start": "00:00:56.880",
+        "end": "00:01:25.760",
+        "text": "and really explain it so that everybody who's sort of new to this idea that an a simple object could contain energy and could also emit frequencies that could be positive for your health and well-being. It's kind of a different concept that a lot of people are not used to so this discussion the first half really sort of lays the foundation to kind of understand you know what these products are all about and what they can do and how they can help you. Now the second half is"
+    },
+    {
+        "start": "00:01:25.760",
+        "end": "00:01:54.040",
+        "text": "really just kind of a user's instruction on okay if you had a quantum block what would you do with it and how would you use it and how would you create other devices from it and that sort of thing. And then and then of course we covered what do you do when you've got other devices you've already purchased from different types of vendors and different types of items like everything from crystals to you know tensor coils you know and that sort of thing and what would you do if you already had those items and how could you enhance them and"
+    },
+    {
+        "start": "00:01:54.040",
+        "end": "00:02:19.120",
+        "text": "how could you actually make them better for your overall well-being and your health. So it's pretty interesting conversation it is those two halves for those of you are just interested in like hey what's the product and how do I use it versus you want to understand because you're new to this and I think that first half would be really really helpful for you. Overall we had a great discussion I mean I just never ran out of questions in talking with Philip about this new"
+    },
+    {
+        "start": "00:02:19.120",
+        "end": "00:02:44.960",
+        "text": "product and just the overall concept of the quantum energy you know industry or you know the space. So without further ado I'm going to go ahead and jump right into the interview and again I just want to say thank you for stopping by thank you for your time and your interest in in these videos and in the content that I provide and especially thank you Philip for your time this morning I really enjoyed our conversation. So Aloha thank you very much and here's the"
+    },
+    {
+        "start": "00:02:44.960",
+        "end": "00:03:12.560",
+        "text": "interview. Aloha everyone and welcome to another video I am your host Kay Elmer and I have the wonderful opportunity to have Philip Von Holtzendorf with me who is the owner operator of Leila Quantum Tech. This is our fourth interview that we've had because I've been covering the launch of his new product line and his new business. He's also one of our our dearly beloved C60 characters who's been with"
+    },
+    {
+        "start": "00:03:12.560",
+        "end": "00:03:40.640",
+        "text": "us for a long time and but he started a new business last year and I've been just kind of following him and I wanted to share some more developments. Now Philip welcome and let's just kind of show everybody you know who we're who we're talking to. This is Philip Von Holtzendorf. Philip did you want to kind of introduce yourself from the Leila Quantum Tech perspective? Yes thank you for having me and Kay I'm looking forward to the interview and yeah most people"
+    },
+    {
+        "start": "00:03:40.640",
+        "end": "00:04:10.360",
+        "text": "probably know a little bit about my background so I'll be very brief today. So you know I'm from Germany originally live in the US with my family and yeah have a few business ventures that are all geared towards providing something new absolutely cutting edge that's helpful to humanity and it sounds pretty big but you know obviously something big can be also small and starts also"
+    },
+    {
+        "start": "00:04:10.360",
+        "end": "00:04:38.080",
+        "text": "small and you know we're here talking about Leila Quantum Tech. Leila Quantum Tech works with its own technology to charge various products with various frequencies that are very helpful for humans or for animals or for plants with different different kinds of frequencies that we actually have"
+    },
+    {
+        "start": "00:04:38.080",
+        "end": "00:05:00.000",
+        "text": "developed together with a healer network with some healers that are extremely special and well known and well regarded all over the world and also with quantum energy. So yeah and they're the different purposes for these products you can use them in various ways in general they promote health they"
+    },
+    {
+        "start": "00:05:00.000",
+        "end": "00:05:28.320",
+        "text": "provide energy they help to tap into more into who we truly are and yeah that in a nutshell is kind of what we do it's very exciting and looking forward to talking a little bit about yeah the new product that we offer now which is not really a new product it's just now it's finally available to offer."
+    },
+    {
+        "start": "00:05:28.320",
+        "end": "00:05:57.120",
+        "text": "Alright so just kind of paraphrase Leila Quantum Tech is your new venture you also have a business with C60 products but your Leila Quantum Tech is an energy product that that supports the human bio field basically and and in some ways attenuates with it which is we'll get into that and then but you're not just a one person coming up with your own ideas like I was showing why"
+    },
+    {
+        "start": "00:05:57.120",
+        "end": "00:06:23.240",
+        "text": "you're talking there's this actual healer network and so these healers are all people around the world that have come together and kind of work together that put together the ideas behind the products and and the frequencies that you've come up with the products you've come up with so you've got all these different people and so it's a consortium of energy workers right with that yes you describe it and people that are in the wellness and health"
+    },
+    {
+        "start": "00:06:23.240",
+        "end": "00:06:49.720",
+        "text": "community they've been doing it for decades I mean what would you say of the combined number of years of experience of people working with for wellness and healing of other people around the world is probably over a hundred years of experience right here so that's all together has come together to form Leila Q and the products that that you come up with so I just kind of wanted to point that out for anyone that's new to Leila Q that it's that is"
+    },
+    {
+        "start": "00:06:49.720",
+        "end": "00:07:17.080",
+        "text": "very very special one of the things to I also want to kind of point out Leila Q is at Leila Q dot com and Phillips the owner operator and we've done three other videos so I'll link them in the video description below for people would like more information we did one interview right when the Leila Q was launched so it kind of discusses the background behind the products and there was one video that I really highly recommend which is the test results of"
+    },
+    {
+        "start": "00:07:17.080",
+        "end": "00:07:47.000",
+        "text": "all of the different products they were tested third-party two different institutions and we walk through the different test results and so this is what's really quite unique was I kind of I personally have been involved in in energy products as well as bio electrical magnetics and C60 for quite a long time and so I own a whole bunch of different little things like purple plates and tensor coils and I did organize for a long while and and all of those kinds of things to kind of like explore the concept of energy and I got"
+    },
+    {
+        "start": "00:07:47.000",
+        "end": "00:08:11.280",
+        "text": "to say that for me personally this is one of the most amazing devices or you know product lines that come out because I have quite a few and and it really approaches it from a different standpoint so I kind of am really amazed by this and I just suggest that anyone that has any interest at all you know just you know spend some time on it but what's most important of the point I want to make is that when we went through the test results you know it's"
+    },
+    {
+        "start": "00:08:11.280",
+        "end": "00:08:38.800",
+        "text": "it's so far out there that I've looked at it's the only real quantum energy type of product that actually has test results like you look at some of these other results that just and you know I don't want to single anybody out but they don't have test results they haven't third-party somebody else tests these things and says hey what does it do to the human bio field what does it do to the bioinogenics of a person what does it do to their height or heart rate variability when you have it and you don't have it and the results were"
+    },
+    {
+        "start": "00:08:38.800",
+        "end": "00:09:05.680",
+        "text": "amazing so I do highly recommend anyone that's interested in the science or the actual like what really happens because I know there's a lot of people out there that are so adamantly interested in like okay what is it really really do well what does it really really do go take a look at that video about the test results and then the other third video that we did was about the different frequencies that Layla offers so the lot of background on that and it's all there I'll have the links there in the below but so today though today's special"
+    },
+    {
+        "start": "00:09:05.680",
+        "end": "00:09:32.600",
+        "text": "because Philip you've launched a new product now and we're gonna talk about that and so that product is called the Layla Quantum Block and that's what it looks like so how would you describe this new product that you've got I mean like what is it and what does it do yeah so the Layla Quantum Block is basically the underlying technology that we use in order to charge the"
+    },
+    {
+        "start": "00:09:32.600",
+        "end": "00:10:00.520",
+        "text": "products and we're now also making it available so one of the reasons why we couldn't start you know two months ago is because we certainly worked on making it look not not just energetically fit right you know that that was what we already have had for quite some time but it needed to look great we wanted to make it look in a way that it fits pretty much in everyone's home as a as a"
+    },
+    {
+        "start": "00:10:00.520",
+        "end": "00:10:29.360",
+        "text": "beautiful device not just energy wise but that also looks nice that it's very functional that's not too big not too small and all of that and obviously if you then offer it you know each one needs to look like the other one and that's kind of what we have done and now we're finally ready we put information on the website and what it is it's it's basically a tool on a technology that"
+    },
+    {
+        "start": "00:10:29.360",
+        "end": "00:10:53.800",
+        "text": "provides a concentrated quantum energy space right in between those two plates that people can see now right so in there there's a concentrated quantum energy space it's not just the quantum energy feel it's truly a space because it's it's fully multi-dimensional and it works completely without any"
+    },
+    {
+        "start": "00:10:53.800",
+        "end": "00:11:20.800",
+        "text": "electricity or without any magnets both of which are actually limited limiting and disturbing to a quantum energy space so that being said what can you do with it so first of all you can just put it in your home and just by not putting anything in or doing anything with it it already does a whole lot for"
+    },
+    {
+        "start": "00:11:20.800",
+        "end": "00:11:46.200",
+        "text": "you at home it's sort of like an energetic feng shui that it does automatically so it provides a very nice and harmonious energy field it's important also the harmonious part because it actually interacts extremely well with the human cells and the human energy system certainly also with animals and all that but it's it's extremely harmonious that's one of the things that"
+    },
+    {
+        "start": "00:11:46.200",
+        "end": "00:12:12.960",
+        "text": "people say about it and it has a radius of about 40 meters 40 to 45 meters I think in in feats that that's maybe around 130 145 feet I think and it not only is this energetic feng shui it really it optimized and harmonized this"
+    },
+    {
+        "start": "00:12:12.960",
+        "end": "00:12:38.160",
+        "text": "emf which we all have in our homes obviously through Wi-Fi microwave or now 5g and all of that and you mentioned the study so we've also done a study for the quantum block specifically it's unfortunately it's not up on the website yet because we're still waiting to to get the the results back in writing but"
+    },
+    {
+        "start": "00:12:38.160",
+        "end": "00:13:05.880",
+        "text": "we have them verbally already and yeah it's it's absolutely amazing some of the tests that that have been done and how quickly it really promotes health and well-being frankly for anyone in the home so we we tested a specific home where there was a couple they had a cat and they had a rabbit and and all of those people including the rabbit and the cat and all of them were tested"
+    },
+    {
+        "start": "00:13:05.880",
+        "end": "00:13:33.880",
+        "text": "beforehand they were tested after the quantum block was in the home and they were actually also tested once the quantum book was taken out of the the home again and the results are really fantastic we've done other tests I'm not gonna go too much into them because we maybe want to talk about those results well once we have them also in writing and can can refer to them but I want to"
+    },
+    {
+        "start": "00:13:33.880",
+        "end": "00:14:00.600",
+        "text": "point out one thing so that was actually that the testing Institute had the impulse to to analyze snow so they had gotten a lot of snow recently and then they were like well you know we know about a chemtrails we know about you know other things that are really not that good for the environment and so they analyze the the snow and they found all this the hat stuff it had aluminum and"
+    },
+    {
+        "start": "00:14:00.600",
+        "end": "00:14:24.880",
+        "text": "zinc and all that kind of stuff and then they put the snow in the quantum block and after that all those harmful frequencies were gone and neutralized so yeah I think in a nutshell I stopped here that's how I would explain it it's very hard to explain with words some of the things it does because it's truly"
+    },
+    {
+        "start": "00:14:24.880",
+        "end": "00:14:54.880",
+        "text": "incredible it's it's not earthbound at all it it doesn't interact you know on the magnetic side and yeah it's yeah that's that's how I can explain it with words well let me I want to point out a couple of things is that if you go to Leila Q site and you click on this little menu one of the things that you will see right here is research studies and certificates so for those of you"
+    },
+    {
+        "start": "00:14:54.880",
+        "end": "00:15:21.400",
+        "text": "folks who really want to look at the science and the science that Philip's describing is essentially bio-energetics and heart rate variability and these are like you know known methodologies by which you measure a person's response to an external stimuli so what really is being described here is measuring a person without a you know a stimulus whether it's EMF or a toxin or whatever"
+    },
+    {
+        "start": "00:15:21.400",
+        "end": "00:15:49.960",
+        "text": "and then measuring their biological responses to that stimulus before and after so you're saying Philip that just by taking this device and putting it in someone's home that that the person and all the different living beings in that home actually have a positive biological response as opposed to without it right I mean like absolutely like there are five on a scale of one to ten 10s good I'm just making that up just as an example but and you put this thing in"
+    },
+    {
+        "start": "00:15:49.960",
+        "end": "00:16:16.840",
+        "text": "that they're actually going to get better that it actually promotes wellness right absolutely wellness and it has actually also in the at least where we tested it it also helped with better sleep and rest because one thing to say about this is it's not an artificial energy pusher if you will it is it is really harmonious so it really adapts extremely well with your bio energetic"
+    },
+    {
+        "start": "00:16:16.840",
+        "end": "00:16:44.600",
+        "text": "field or the one of a cat or dog rabbit whatever and yeah so so that's also why you know if you it has a lot of concentrated quantum energy right it has a lot more quantum energy concentrated in there than any other device on the market by far in large frankly and you know people may think okay well if it's"
+    },
+    {
+        "start": "00:16:44.600",
+        "end": "00:17:12.680",
+        "text": "so strong so you know how how can I then deal with it do I have to adapt to it am I gonna be thrown out a balance and no that's actually not the case because it it is so harmonious that even you if you live in a home and you've you've had your quantum block around for two three weeks and and all that now you have suddenly a visitor come over that has never heard anything about energy work"
+    },
+    {
+        "start": "00:17:12.680",
+        "end": "00:17:37.680",
+        "text": "where it has never been close to quantum energy or anything it's just a random normal person he will not have any that that visitor will not have any issues whatsoever with energy of the quantum block frankly the opposite will be the case they'll also feel this harmony and so I think that's that's"
+    },
+    {
+        "start": "00:17:37.680",
+        "end": "00:18:02.800",
+        "text": "worth mentioning okay I think the thing for folks that have that are new or have not heard of these types of devices is here's the concept I know that it looks like two metal plates and four rods that's what it looks like but that the metal the the object that itself has been charged with an energy and I guess"
+    },
+    {
+        "start": "00:18:02.800",
+        "end": "00:18:31.520",
+        "text": "the for those of you who are into the science aspect of it you know you might be familiar with the studies and experiments that have been done with consciousness so that and that scientists have then have now proven that there is an actual energy being measured in when when people are concentrating and it's their what they're calling conscious energy there's also the idea of scalar energy right there's also the idea of quantum energy at the"
+    },
+    {
+        "start": "00:18:31.520",
+        "end": "00:18:57.720",
+        "text": "quantum space right so there's all these different words for energy that is not something you can pick up magnetically or electrically and and so that's what this is this is a an energy force that is is known to science but never quantified there's no meter for it except the human body you can actually measure the effect of the energy but not the energy itself is that safe to save"
+    },
+    {
+        "start": "00:18:57.720",
+        "end": "00:19:26.880",
+        "text": "Philip because it's it's hard I think that yeah that's a great explanation and I want to add to that something that you wouldn't find in the book of if you you know read about this type of of energy but if you now imagine that you close your eyes and you you tap into your own energy field then you try to expand out and you kind of connect like if for example in a deep meditation right and"
+    },
+    {
+        "start": "00:19:26.880",
+        "end": "00:19:53.680",
+        "text": "then you kind of feel the energy around you and you can you can almost call that in and and almost inhale more of it right so that's that type of energy and that's the closest that thing I can provide right now as as form of a picture that that you can sense that and not out of artificial at all yeah"
+    },
+    {
+        "start": "00:19:53.680",
+        "end": "00:20:21.600",
+        "text": "that's kind of like that so I've struggled to try to figure out how to explain this to to folks that are you know kind of like more leaning towards the academia type of approach to to how things are and you know the whole rule of if you can't measure it right there's that rule in science but this is something that you can measure and I think you can measure it if you look at it from the standpoint of what's the effect of it as opposed to measuring it directly and it's it is very hard to wrap your hand around I mean it took me a"
+    },
+    {
+        "start": "00:20:21.600",
+        "end": "00:20:49.200",
+        "text": "while you know even though I've been dabbling in this kind of stuff for quite a long time you know like what you know is this is you know what is this energy and and so that's kind of what I want to point out because it looks so simple but yet it's so powerful and and I'm speaking from personal experience so okay so we're we're talking about this object as you're calling it the quantum you know the cube block right and so the and you're saying that this is like"
+    },
+    {
+        "start": "00:20:49.200",
+        "end": "00:21:13.600",
+        "text": "you literally this is what you're using in your your factory or your you know your development process so you're putting raw material into this little cube thing this little block and then and then you just leave it in there and then you take it out and and it so what's unique about it right is it's not only a energy device but it also creates other energy devices that's correct right"
+    },
+    {
+        "start": "00:21:13.600",
+        "end": "00:21:44.320",
+        "text": "that is absolutely correct and you know certainly we also use much larger models you know for some of the products that they you know it's it's hard if you want to charge a hundred hoodies and you know it's so so we do have a larger model and then we also have the infinity block won't go really much into that but at"
+    },
+    {
+        "start": "00:21:44.320",
+        "end": "00:22:13.920",
+        "text": "least want to mention that because most of our products are charged in the two-way process and so they they are charged in the quantum block or quantum block type right and then they'll get an extra charge in the infinity block and what that does I'll explain it at a different time but it adds yeah even more benefits than to the products okay so that's kind of how it works and by the way"
+    },
+    {
+        "start": "00:22:13.920",
+        "end": "00:22:42.400",
+        "text": "so I think what's what's important to tell people is you know you see how big this is it's it's actually eight by eight by eight inch and you could remove actually up to three of those rods and then fit an object in that is a little bit weirdly shaped as an example just I want to"
+    },
+    {
+        "start": "00:22:42.400",
+        "end": "00:23:03.120",
+        "text": "point that out and then also what's what's great with this is you can you cannot see it here really but if you were to zoom in the picture you could see that on the top there are these I don't even know how you call them it's interesting and in German we call them mothers and you can unscrew"
+    },
+    {
+        "start": "00:23:03.120",
+        "end": "00:23:28.800",
+        "text": "them and then you can take the upper plate off and then you can take those five meters away those plates and you still have a fully functional field in between so you can easily charge your car with it if you wanted to right the old car doesn't fit in so you would have to do parts right but you"
+    },
+    {
+        "start": "00:23:28.800",
+        "end": "00:23:52.960",
+        "text": "can you can take the plates away easily five meters and you'll still have a perfect field in there and one way to do is just to you know put it vertically on the on the sides on the floor for example that would be one thing and then you could put um you know any large long object or a thick"
+    },
+    {
+        "start": "00:23:52.960",
+        "end": "00:24:19.040",
+        "text": "object in between and then charge it if you want okay and do you want me to talk about the charging in general because we said okay what does it do if it's in the home just sitting there right um yeah I kind of wanted to just cover like what is the energy and I think we've covered that and then how to know that it's working I do want to point out a couple of things that Philip has done like and by the way there's a telegram chat group called quantum power where we talk about this"
+    },
+    {
+        "start": "00:24:19.040",
+        "end": "00:24:44.480",
+        "text": "energy and the products what they can do and you got questions about the products so you know I'm put the link below so come on in there if you got any questions at all everyone is welcome to join in on the discussion and one of the things though that Philip was kind of just showing us that you could actually do at home is the cut flower experiment I mean if you really want to know like oh is this like is this like hocus pocus or you know is this real then the simplest the simplest"
+    },
+    {
+        "start": "00:24:44.480",
+        "end": "00:25:12.800",
+        "text": "thing you could do is go to your store your local grocery store get some fresh carnations right take split the split the bouquet put half in one vase and with water and half in the other vase with water and then charge one of them and then using one of these or even using one of the little capsules that lay like you cells um and you will find out one hundred percent of the time that whatever you charge the flowers in that vase will last longer than the other ones and it's"
+    },
+    {
+        "start": "00:25:12.800",
+        "end": "00:25:39.520",
+        "text": "just like it's somehow this whole conscious energy versus scalar versus quantum versus life force energy but this energy promotes life it promotes health and wellness and you will see what it does to a cut flower and I think that's the simplest way right Philip for people just to say hey is this working or what does it do yep now that's definitely one uh one thing too for people to simply have something they can watch and look at really what you can also do is just put your"
+    },
+    {
+        "start": "00:25:39.520",
+        "end": "00:26:07.040",
+        "text": "hand in it for example uh and feel what it does with your hand um immediately you know the the cells will um get get a boost and uh it's that's that's pretty fascinating and you could you know sit down in meditation put your hand in and then see if you can get deeper into it as one example um yeah but those are a few things you can do pretty quickly and rapidly to to feel okay so"
+    },
+    {
+        "start": "00:26:07.040",
+        "end": "00:26:35.280",
+        "text": "yeah I just want to kind of point out that and um the other thing that like for what I do is you know I'm a dowser I don't know for those of you who are familiar with dowsing that is an ancient art and it has been around so for so long with humanity I don't know nobody knows when it started but dowsing is the ability for someone to just tie into energy fields uh using wire rods or pendulums okay and it's it's very well established that it works anybody who's ever been on a farm"
+    },
+    {
+        "start": "00:26:35.280",
+        "end": "00:27:04.240",
+        "text": "and you know you've seen your grandfather your father go find where the well is supposed to be dug uh using dowsing and also to find negativity and uh negativity spaces and energy in any type of environment so when I got I got a cue block and I immediately dowsed it and it was it was off the the energy was was off the chart coming off of this thing it was amazing as opposed to an empty space with nothing around it so uh so yeah I could you could tell by dowsing as well if you're a"
+    },
+    {
+        "start": "00:27:04.240",
+        "end": "00:27:28.880",
+        "text": "dowser okay so um so we talked about the device itself and um and you mentioned that this is one of two so it's the first one that you're releasing and that there's another one called an infinity block and we'll talk more about that later so do you have an uh an idea when that one will be ready for uh you know for sale on the website uh yes I I'm guessing within the next two to three weeks"
+    },
+    {
+        "start": "00:27:28.880",
+        "end": "00:27:58.880",
+        "text": "okay all right and then then we'll cover what the difference is so now uh for anyone who's interested uh in the Leleque products there's uh charged clothing a emf clothing there's charged pet products there's charged uh people products and penance and things like that where you can wear this and then the benefit from the different frequencies and the positive energy for yourself now this thing by itself you're saying that it has a field of about what 130 150 or 200 feet right"
+    },
+    {
+        "start": "00:27:58.880",
+        "end": "00:28:22.720",
+        "text": "or something like that yes about yeah 130 145 feet yeah so you bring it into your home and you put it in the middle of your home and your whole home just resonates with uh with the energy now is are there any frequencies built into the or put into the key block or is it just like neutral energy neutral I mean everything is frequency anyway so we couldn't say there's no frequency in it right"
+    },
+    {
+        "start": "00:28:22.720",
+        "end": "00:28:53.680",
+        "text": "because energy is frequency but I think from the um to explain it to the mind and how we think it's neutral energy in there and then it has the capacity to create and recreate any frequency that exists so it's like this little energy portal that you know kind of resonates a field uh and it just resonates its energy and and you're and the testing the third party testing is as demonstrated that it has a positive effect on living organisms as in"
+    },
+    {
+        "start": "00:28:53.680",
+        "end": "00:29:22.400",
+        "text": "in respects to emf dirty electricity all that stuff so okay so with that established now what happens if I put something in it um that like has let's say um you know just anything like you know a lot of folks are are very attuned to uh reiki uh using different stones and crystals and and the claims of of those different types of uh items having their own frequencies or let's say um you know just putting in a multivitamin and I want that you know the vitamin or the positive"
+    },
+    {
+        "start": "00:29:22.400",
+        "end": "00:29:49.280",
+        "text": "benefits of of those you know of that to permeate through the house um what if I just put something inside that would that then like resonate the frequency of that item resonate throughout the field um if you put the intention in yes uh if not then not um and that's really so if you just put something in uh for it to be charged let's say you want to put you put your phone in for that phone"
+    },
+    {
+        "start": "00:29:49.280",
+        "end": "00:30:17.680",
+        "text": "to be charged then that's all it does if um you put in um some organic peppermint oil and you want that frequency to radiate throughout your whole home um you know throughout the day or for an hour or whatever and then you put that intention in it it sounds crazy but it's exactly how it works um and then uh it also radiates you know through that field until you take that bottle of"
+    },
+    {
+        "start": "00:30:17.680",
+        "end": "00:30:42.480",
+        "text": "the peppermint oil out of the quantum block and now with charging objects um that just happens so and and there are different types of objects obviously that you can put in you can put in anything whether it's groceries or water or beverages or nuts or a phone or a Wi-Fi router"
+    },
+    {
+        "start": "00:30:42.480",
+        "end": "00:31:07.840",
+        "text": "or your shoes for that matter maybe starting with the shoes now so if you want to charge your shoes because this is a true quantum energy space with a free and dynamic um quantum energy in it which is very important it is not impacted by magnets you can therefore it's completely dynamic you can"
+    },
+    {
+        "start": "00:31:07.840",
+        "end": "00:31:34.480",
+        "text": "put your shoes in there and if you have charged your shoes for an hour um the energy will be in your shoes and you can walk around run with your shoes even for months and the energy will still be in there so that is that is very unique and and very cool and now some other things you can put"
+    },
+    {
+        "start": "00:31:34.480",
+        "end": "00:32:00.480",
+        "text": "in for example you can charge your water or your orange shoes or a kiwi or you know any such things and literally you don't need to leave anything for longer in there than one minute because after one minute it'll be already fully charged with some of those objects where you know like the shoes for example we recommend one hour but with any such objects that i just mentioned"
+    },
+    {
+        "start": "00:32:00.480",
+        "end": "00:32:29.440",
+        "text": "a one minute is perfectly fine and even if you want to charge an aluminum card or something like that really one minute is absolutely enough and um and with your phone again one two three minutes for a phone is already enough however we've noticed that if you leave it in there for you know 30 minutes it actually starts to do something pretty interesting because the energy is is really going into all"
+    },
+    {
+        "start": "00:32:29.440",
+        "end": "00:32:57.440",
+        "text": "the network connections um and they'll be even more optimization but it really would would still be okay to just leave it in there for three minutes because it's it's so fast it's so immense the the energy in there that it's just so quick and um frankly if you want to copy frequencies right that's something you can do as well that literally happens within 30 seconds we we do officially talk"
+    },
+    {
+        "start": "00:32:57.440",
+        "end": "00:33:24.960",
+        "text": "about and recommend one minute uh just to be on the safe side but there's uh it's not needed at all to be in there for any longer than one minute and then it's already done okay so so with regards to frequencies so if like i i was pointing out why you were talking earlier um i wanted to just point out that you know we did a video about different frequencies and there's all these different frequencies um that are available at the later key website so something as simple as like a sleep"
+    },
+    {
+        "start": "00:33:24.960",
+        "end": "00:33:53.840",
+        "text": "and rest card which promotes sleep and rest right so if i wanted to kind of like broadcast that in a in as a term throughout the field then you're saying i could just put that card inside this quantum block with the put in an intention make an intention uh consciously uh that i want this frequency to permeate through the field and then my whole house will have this this they will resonate with the frequency of sleeping and resting and that's that's how that would work right"
+    },
+    {
+        "start": "00:33:53.840",
+        "end": "00:34:19.360",
+        "text": "that's exactly right and um you know also if you want to put the inner piece card in there for example um and let let's say you know you had someone is at a home and and you just all had a bad day and you've been kind of at the edge you know and you have kids screaming and maybe the kids are fighting and all that and you can put that in and then they'll you know they'll just be more even"
+    },
+    {
+        "start": "00:34:19.360",
+        "end": "00:34:44.480",
+        "text": "more harmony um and and inner piece promoted yeah that's exactly right okay so that's how that would work and then and then what you were saying earlier too in terms of transferring your frequency so let's say if i put uh the inner piece and boy does my two-year-old need some inner piece right i could make a little pendant for him right or her and i could just put the the card in there with the pen"
+    },
+    {
+        "start": "00:34:44.480",
+        "end": "00:35:10.000",
+        "text": "with the pendant or whatever the kid likes to wear right t-shirt whatever and then that would take the frequency from the uh it would copy it onto the onto the item oh that that's and then it only takes a minute yes it only takes a minute okay so you just put it in there boom 60 seconds take it out put the put the thing on the kid and and uh and then over time you know they the frequency harmonizes"
+    },
+    {
+        "start": "00:35:10.000",
+        "end": "00:35:36.400",
+        "text": "all right so for you guys with kids there you go um okay no that's really kind of interesting so one thing i do want to ask so is you know when you when you make the claim um that let's say you know like that's fascinating to hear i put my cell phone in because obviously it's a really good idea because of its emf protective type of uh or not protective emf mitigation right from a biological standpoint is the best way to explain it but if i put my cell phone in there and i kind"
+    },
+    {
+        "start": "00:35:36.400",
+        "end": "00:36:02.160",
+        "text": "of want to neutralize the negative energy coming out of it that it's going to reach out and go out to everything else in the house that it's connected to um well yes pretty much and so there are all all the network waves that you know okay basically end up in the phone and you know through whatever you're doing whether you're downloading something or you're having a phone call sending a text message"
+    },
+    {
+        "start": "00:36:02.160",
+        "end": "00:36:30.880",
+        "text": "all these things right it's it's like you can describe them energetically as tiny little wires right um and um that's indeed the case that if you leave it in there for longer than two three minutes it starts to even go into all those connections um okay you know i just saw the curiosity um you know when your healer network uh kind of put this idea together and kind of"
+    },
+    {
+        "start": "00:36:30.880",
+        "end": "00:36:58.160",
+        "text": "uh you know formulated the idea of creating this device um how could you explain like how do you know that i mean how do you like i know that rome you have uh one of your healer networks name is roman hofner and he's super super sensitive from an energy standpoint but is could you describe like how do you how do you see what it's doing or you know knowing what it's doing because you know we're not talking cut flowers anymore we're talking about shirts and"
+    },
+    {
+        "start": "00:36:58.160",
+        "end": "00:37:28.240",
+        "text": "devices and and food and water how are you how are you able to see that the energy is moving around and frequencies are picking up and you know like what what what's your like how do you see that i'm just so fascinated that there's these people exist i could see it but could you describe that i mean how do you know that it's happening yeah so i mean it's see people say it's it's always seeing it's not it's not always seeing for everybody because there"
+    },
+    {
+        "start": "00:37:28.240",
+        "end": "00:37:51.040",
+        "text": "there's definitely some healers and clear warriors that have different ways on how they see right you know yeah but it's just for some it's annoying it's just a but we call it seeing but i think that's first because it's not really exactly the same for everybody"
+    },
+    {
+        "start": "00:37:51.600",
+        "end": "00:38:20.240",
+        "text": "and then there are different granularity levels on how to see things like that and so for Romans specifically you know first of all we're working with those healers that that are not just like some random healers that just kind of started getting into it and they you know heal a little here and heal a little there they're extremely well known and they have all trained"
+    },
+    {
+        "start": "00:38:20.240",
+        "end": "00:38:43.760",
+        "text": "lots of healers in some cases thousands and way over 10 000 healers so they have very specific and and and deep pure abilities so with Roman when he was born he had he saw all the energies"
+    },
+    {
+        "start": "00:38:43.760",
+        "end": "00:39:08.480",
+        "text": "and frequencies all the time and he would look at a person as a human and he would he had really hard time with the physical scene that's what he had to learn right you know that's something we don't have to learn typically right when when you're born then yeah you see all the matter and everything and for him it was the the other way around he could see all the energies and frequencies"
+    },
+    {
+        "start": "00:39:08.480",
+        "end": "00:39:37.200",
+        "text": "and and the organs and what the organs would do and he could look at someone and immediately say oh you have a heart problem or you know okay or you're you know tommy comes from this and if if you change that then you change it and then you know obviously over time for him it's not it was not just that he saw that he also learned very quickly on how he could move energies and frequencies"
+    },
+    {
+        "start": "00:39:37.200",
+        "end": "00:40:06.400",
+        "text": "isolate them move them around add them somewhere so he could fix things right i mean honestly and that's basically what what you know a true healer would do and so to best explain how it is for him and i think that's a picture that everybody can resonate with if if i told you okay you know could you please go into your living room now i've never been in your living room but you know i"
+    },
+    {
+        "start": "00:40:06.400",
+        "end": "00:40:33.920",
+        "text": "imagine you know there's you know a chair in there there's maybe a sofa and then there are a few books or something and some pictures and hey could you please grab that white candle pick it up and then put it in your kitchen then that would be a pretty easy task for you right and for roman he he can see frequencies exactly like you would see all your different books and"
+    },
+    {
+        "start": "00:40:33.920",
+        "end": "00:41:01.360",
+        "text": "phases and candles and all that in your in any room right i we could tell him hey roman could you please tell us all the frequencies that are here and there's a specific vitamin c frequency can you please locate that and then you know take that out and put it somewhere else for example or whatever you want and that's really how it works for him so i think that maybe and that's the really"
+    },
+    {
+        "start": "00:41:01.360",
+        "end": "00:41:24.320",
+        "text": "the seeing and yeah so and then obviously people can we all have that ability and so most people have completely forgotten right that there is something like energy that we we that's what we're made of and that that we have these capabilities we we do it's just that we most people have to"
+    },
+    {
+        "start": "00:41:24.320",
+        "end": "00:41:53.120",
+        "text": "really learn that again and train that but that you know life on earth isn't really set up anymore in a way where where that's you know what you learn when you're young and quite frankly you learn the opposite right yeah it's it's it's all set up in a way where you know everything tries to distract you everywhere and and and limit your abilities to remember your own power and and"
+    },
+    {
+        "start": "00:41:53.120",
+        "end": "00:42:20.240",
+        "text": "your your abilities right and and that's why we have to put in our work then to get through that and then once we start to remember that and we kind of think oh wow you this is cool because you know this is really that's more me you know what i mean it's it's less me to go to mcdonald's and eat a big mac right and and and and do all these other things that that are offered um on earth"
+    },
+    {
+        "start": "00:42:20.240",
+        "end": "00:42:50.000",
+        "text": "right yeah and yeah so i encourage everybody and so the the quantum blog to come back to that is a device that can actually truly help with that because it it does raise all vibration and it does so in a in a super natural and non-artificial way and also not in the pressuring way at all um where you can you know raise your own vibration and people that are on this inner path that's"
+    },
+    {
+        "start": "00:42:50.000",
+        "end": "00:43:14.880",
+        "text": "kind of what they want to do right you know we we go meditate we go to yoga we do you know different things just because we want to get deeper into ourselves um and raise our vibration um and yeah so that can hundred percent help with that okay no thank you for that explanation i think if anyone's interested i mean really do some research on on gifted individuals indigo children that kind"
+    },
+    {
+        "start": "00:43:14.880",
+        "end": "00:43:41.280",
+        "text": "of thing there are some human beings on this planet that are extremely exceptional i believe roman's one of them i've had interactions with them before and it's been pretty amazing uh as well as your wife crew she's amazing as well so the idea here is that's how you can win so when phillip is describing it i just appreciate the explanation so that's how that's how he knows that's how this has been determined as like what uh these things can do what these cube blocks can"
+    },
+    {
+        "start": "00:43:41.280",
+        "end": "00:44:05.280",
+        "text": "do so before we jump in it may i really just add real quick and but we know certainly that there's you know the world is full of people that and there's still some people and that actually is that community is growing that people that know that right and people that also are sensitive and they understand all this but then there's the the vast majority so people that they need to look"
+    },
+    {
+        "start": "00:44:05.280",
+        "end": "00:44:31.360",
+        "text": "at science right it's just you know hey you know if uh if a famous healer she said well you know that they don't believe in something like that so that's why we made the effort to really also look at it from a scientific perspective and there's a lot more coming out of the next two three weeks actually in that regard but i wanted to point that out because just knowing that it does all that and that we know all that wasn't enough for us we wanted to also make sure that"
+    },
+    {
+        "start": "00:44:31.920",
+        "end": "00:44:59.600",
+        "text": "we can scientifically um prove as much as possible of that no that's awesome i mean that's kind of why i'm so gravitated towards Layla Q is because you've done both you've actually you know using accepted academia methods of measuring biological responses to stimuli plus you know on top of the fact that you're using these gifted individuals and then combining those two things and saying hey"
+    },
+    {
+        "start": "00:44:59.600",
+        "end": "00:45:26.320",
+        "text": "this is what we're coming up with it's pretty amazing and i just kind of wanted to really level set that as a baseline for the understanding of what a Layla Q products are and then and then what's really most important about you know about this interview is that we're talking about the quantum block and this is this is a device by itself for like the whole home and then it also could be used to create other devices and i think that's what's really important is that there aren't"
+    },
+    {
+        "start": "00:45:26.320",
+        "end": "00:45:51.920",
+        "text": "that many other devices out there on the market that you can buy and create more like you know like basically create more devices usually you have to just keep going back to the well and keep buying and buying and buying different pieces if you want to share with family and friends so but before we get into like how do you do that aspect like how what's the user instructions how to create devices so you touched on something that i'd appreciate if you'd expand on a little"
+    },
+    {
+        "start": "00:45:51.920",
+        "end": "00:46:18.160",
+        "text": "bit but this idea of the energy um kind of like being natural and being like uh you know uh like i guess it's like attenuates with the human bio field uh in a natural way it's not artificial i was wondering if you could kind of expand on that because other products are sort of like to me i mean from what i have experienced or sort of like brute force you know it's kind of like"
+    },
+    {
+        "start": "00:46:18.160",
+        "end": "00:46:47.360",
+        "text": "coffee um you know if i need to pick me up uh you know a five hour energy drink or a cup of coffee but it's artificial because once it wears off i'm i'm back to where i started but as i understand the cube lock in the and the lay like hue frequencies and energy isn't artificial it's because you said it's not tied to the earth right so it's more like i mean you know for those of you're familiar with the phrase source energy um but you know it's definitely different it's not the"
+    },
+    {
+        "start": "00:46:47.360",
+        "end": "00:47:13.360",
+        "text": "same energy is that correct and then and then could you expand on that? yes and so the the reason why we don't use any magnets um is because of that so you can find that out there that there is quantum energy in it um very one-dimensional though with only one"
+    },
+    {
+        "start": "00:47:14.560",
+        "end": "00:47:44.320",
+        "text": "quantum consciousness level um and up to nine at most there will in a device where you have magnets especially specifically a lot of magnets you just won't have more than nine quantum consciousness levels in there which is actually fairly weak um and it's then propped up through the magnetic force of the magnets which is the brute force that that you're describing that's what i'm picking"
+    },
+    {
+        "start": "00:47:44.320",
+        "end": "00:48:12.240",
+        "text": "up is exactly what what you're what you're talking about and that is something that you can notice as energetic pressure or like a slight energetic sledgehammer if you will and something that can put you out of balance um for a while until you adjust to it um you know meaning that if you have that in your home and then you know you prop that up uh you know have a"
+    },
+    {
+        "start": "00:48:13.280",
+        "end": "00:48:41.280",
+        "text": "more brute force if you will you still have quantum energy but you have it combined with um the magnetics it's first of all it's not a stable field anymore second of all it's energetically it's actually an imprisoned quantum energy field um set differently it is um it is static right it is it is static in a way where if you were to charge your shoes with it"
+    },
+    {
+        "start": "00:48:42.160",
+        "end": "00:49:08.320",
+        "text": "that energy would be gone after like you know 12 to 24 hours it's it's it's gone because it's not dynamic and the and then also interacts constantly with the earth's magnetic field which which also changes and has interactions so the by not using that we're able to just"
+    },
+    {
+        "start": "00:49:09.280",
+        "end": "00:49:30.960",
+        "text": "use pure quantum energy and really increase and maximize that so um that's one of the things for example with the with the infinity block then you know that that radius of an infinity block is one kilometer uh which is which is huge right and then you'd be like oh my god that's there's"
+    },
+    {
+        "start": "00:49:30.960",
+        "end": "00:49:58.320",
+        "text": "and it actually has the just the first infinity block uh has already 600 uh quantum consciousness levels or perspective levels there are various ways on how to describe that um which is already a lot more than than a quantum block which already has a lot and then if you're wondering oh my god how could i take that energetically yeah you can beautifully take that frankly just because it's"
+    },
+    {
+        "start": "00:49:58.320",
+        "end": "00:50:26.960",
+        "text": "so harmonious and it's so pure um if it were to have brute force with it yeah it just it wouldn't even work it wouldn't even work that way okay i hope that helps a little bit again some of these things are hard to explain yeah yeah i've been studying this for a long time and i'm still wrapping my head around it but as you were talking i was thinking like so you're saying that like these levels of consciousness um it's like different colors combining together the form a"
+    },
+    {
+        "start": "00:50:26.960",
+        "end": "00:50:56.240",
+        "text": "palette of of just you know as opposed to uh linear stacking so that like even like 24 consciousness wouldn't equal 24 times one but it'd be just a blend of different colors so that it's not overwhelming to the to the bio field right is that kind of like a a good metaphor okay so it's just more colors so the more colors you have the more well-rounded the more i guess the more you know i guess the yeah okay i'm just trying to figure out a metaphor for it but it just seems"
+    },
+    {
+        "start": "00:50:56.240",
+        "end": "00:51:26.400",
+        "text": "to me that it's it's just it's more colors i see in my mind when you describe it i see colors as opposed to every time you add another consciousness it's another like you know like another step up and it's just more and more and more and more pressure or more and more energy it's not that way but it's more just more harmonious more more you know in tune with with uh you know source okay yes and then to two other analogies maybe one analogy is you know if you imagine uh you you pick"
+    },
+    {
+        "start": "00:51:26.400",
+        "end": "00:51:52.800",
+        "text": "up a rock and and you put that on the floor and then you stand there and then you look at that rock and and you're like oh wow this is um and you're looking at that rock now imagine you have uh ninety people with you uh they're all standing around the rock right in a circle and they're all look at this rock and they're all like oh my god this is such a beautiful rock you know the energy"
+    },
+    {
+        "start": "00:51:52.800",
+        "end": "00:52:14.160",
+        "text": "that's being created in that moment is completely different if just one person looks at it or if if ninety look at it and create that energy that's one thing and then um if you want to um put in an affirmation for example and something that has in a device that has ninety consciousness levels"
+    },
+    {
+        "start": "00:52:14.160",
+        "end": "00:52:44.640",
+        "text": "versus one that has one it's at minimum ninety times more powerful and faster to manifest things um yeah so I think with what you said and these two analogies that I just gave um people may develop an understanding of of what that means yeah so okay so let's get into um if I were to get a quantum block which I by the way I have one everybody and then just wanted to kind"
+    },
+    {
+        "start": "00:52:44.640",
+        "end": "00:53:12.080",
+        "text": "of show you it's kind of like my proud baby this is what it looks like when the stork delivers your quantum block for you it arrives in a box and and it's all packed up very nicely and then when you unpack your your quantum block then this is what it looks like and honestly fill up good you know kudos to you it looks like a piece of art and it's just beautiful um but so yeah it's very easy to put together and and it's not hard at all to assemble and that's what it looks like"
+    },
+    {
+        "start": "00:53:12.080",
+        "end": "00:53:35.040",
+        "text": "and so uh let's talk about how do you use it and so um and then what else is it does so let's just say because in my house like I'd mentioned earlier I have like I kind of tinkered around and I've got one of those tacky on disc you know those purple disc plastic things from the tacky I forgot his name and then there's the purple plates and I've got like you know I I've got these other devices"
+    },
+    {
+        "start": "00:53:35.040",
+        "end": "00:54:01.600",
+        "text": "in my home so how does this energy interact with other devices that you have in your home from other you know people that have created these types of devices I mean what happens when when you get the cue block comes into your house and it itself is you know and I mean I just you know because it's very unique and then you got these other things and you know like people who have crystals in their homes right a lot of people have crystals um you know so what happens to those"
+    },
+    {
+        "start": "00:54:01.600",
+        "end": "00:54:26.400",
+        "text": "other objects and how do they interact with the cue block you can you can you talk about that yeah so the quantum block doesn't have any negative interaction with any other energy devices or anything like crystals the opposite is the case if there is something that is disharmonias or where there's something"
+    },
+    {
+        "start": "00:54:26.400",
+        "end": "00:54:49.520",
+        "text": "with brute force or something like that the quantum block immediately becomes the boss the boss in quotation marks right because it's it's not really bosses we think of it typically but it's it's the the one that holds the energy in its hand if you will right so it's it's it's providing the main"
+    },
+    {
+        "start": "00:54:49.520",
+        "end": "00:55:15.840",
+        "text": "guidance and if there's anything with disharmony or with brute force it's actually leveling that out and it doesn't so it provides a very very nice field overall it does not impact crystals or the energy of the crystals in any negative way whatsoever and frankly if you wanted to if you're like a"
+    },
+    {
+        "start": "00:55:15.840",
+        "end": "00:55:45.840",
+        "text": "crystal healer or you love crystals just for the beauty of it you know you can optimize you know the energy level of your crystals actually with the quantum block for that you would just put the crystal in and not more than three minutes we've we've tested that one to three minutes is absolutely enough for that and it'll then yeah it what it does it it brings out the"
+    },
+    {
+        "start": "00:55:45.840",
+        "end": "00:56:11.760",
+        "text": "the core primal power of that individual rock right so it doesn't it doesn't do anything artificial with it it's just it's um yeah the the potential of a rock right um is fully being reactivated if you will okay so I could take anything else from someplace else like you know purple plate or"
+    },
+    {
+        "start": "00:56:11.760",
+        "end": "00:56:40.160",
+        "text": "something and if I put it inside the cube lock well first of all if I have a purple plate in my house and I got a cube lock in my house there's really no interaction other than the cube lock being a more you know I guess a stronger device or more neutral device is gonna kind of I take precedent I guess over the the energy coming off of a purple plate right is that canal yes okay but if I wanted to take the purple plate and enhance it I put it in the cube lock and then I"
+    },
+    {
+        "start": "00:56:40.160",
+        "end": "00:57:08.080",
+        "text": "get even more out of the purple plate would that be kind of a way to look at it exactly you can literally enhance anything you put put in there okay um you know I was reading the um I was reading your website here and in your website somewhere in here it says um you know the time frame so one minute if I want to transfer frequency is it three minutes tops if I just want to charge something up what if I like what if I forget it and I leave it in there overnight or something"
+    },
+    {
+        "start": "00:57:08.080",
+        "end": "00:57:29.280",
+        "text": "are there any like cautions or well and not really cautions I'll get into the cautions maybe also but if you know let's let's take a kiwi for example if you leave that in it may may not if you leave it in there overnight it may just be over ripe as as as an example right I mean there's"
+    },
+    {
+        "start": "00:57:29.280",
+        "end": "00:57:58.880",
+        "text": "it's just those types of things um you know we have what the quanta blog it's not really an issue if you leave things in there for too long the infinity blog is so strong that if you leave certain things in there for too long it's it's going to be permanently or temporarily connected to that quantum space of the infinity blog even if you take it out for a day or two"
+    },
+    {
+        "start": "00:57:58.880",
+        "end": "00:58:24.640",
+        "text": "so there there are a few more precautions I mean that's not really it's it's nothing bad right it's just something to be aware of and with a quanta blog you don't have that it's just some of these things it's it's it's going to be too much for the kiwi right um at some point and but yeah you can still leave stuff in there overnight if if you have a titanium sphere and"
+    },
+    {
+        "start": "00:58:24.640",
+        "end": "00:58:51.760",
+        "text": "you leave that in there by accident then you know that's okay it won't do anything with it anymore you know it's it's just so after a short so rapidly so after three minutes you're you're it's kind of like topped off and that's it so and it's not going to get right it's not going to get yeah with with certain materials we say you know leave it in there like the shoes for example if you want to have the energy in there permanently that it's a different thing with shoes um for"
+    },
+    {
+        "start": "00:58:51.760",
+        "end": "00:59:18.480",
+        "text": "for one hour okay and um is that applied all clothing materials and and like sheets like you know and if you want to put pillows in there and is that so one hour for like organic soft stuff and more like three minutes for more dense or metal type of objects plastic it's no for for fabrics in general i would say 30 minutes and but already after three minutes it's already uh there's"
+    },
+    {
+        "start": "00:59:18.480",
+        "end": "00:59:46.640",
+        "text": "there's just one other level added basically between the minute three and minute 30 if you put fabrics in there um and that has to do with with permanency um that that's how i would describe it but it's not that you you further optimize it okay so shoes one hour fabrics 30 minutes metals plastics three minutes food one minute right and food in the area of food would be like if"
+    },
+    {
+        "start": "00:59:46.640",
+        "end": "01:00:09.520",
+        "text": "you wanted to put pharmaceuticals and supplements as well one minute yes and so with um what's interesting to note for pharmaceuticals for example i mean you can you can copy the frequency of a pharmaceutical for example and then leverage it you know in a frequency way um now you could what"
+    },
+    {
+        "start": "01:00:09.520",
+        "end": "01:00:35.360",
+        "text": "what happens at the same time is that the pharmaceutical let's say you put an ibuprofen in right um within this one minute the negative slash harmful um frequencies of the ibuprofen you know that are harmful for the body right that that's important to say because you know we can't really determine what's negative what's positive but what's really harmful for the body and destructive in a way"
+    },
+    {
+        "start": "01:00:35.360",
+        "end": "01:01:00.800",
+        "text": "that is being neutralized and then what's also happening is that um homeopathic levels are added to this ibuprofen and in this example um and you could leave in the ibuprofen for way longer the the drug never mutates right that's very important to note uh that is very different"
+    },
+    {
+        "start": "01:01:00.800",
+        "end": "01:01:25.440",
+        "text": "if you had a device that uses brute force you know magnets because then indeed you can see mutations um that's not what's happening here however we recommend to never leave um any pharmaceutical in there for more than um yeah one to two minutes frankly and i wouldn't do more than a minute but"
+    },
+    {
+        "start": "01:01:25.440",
+        "end": "01:01:52.320",
+        "text": "you can do two minutes also if you want but the longer you leave it in the higher the potency of the homeopathic level um gets and you know you can also at some point really call it the quantum level you know the way that homeopathy works you cannot say that um a frequency made with quantum energy on the quantum level is 10 times or even x times stronger than homeopathy"
+    },
+    {
+        "start": "01:01:52.320",
+        "end": "01:02:21.840",
+        "text": "that's bs frankly because that's not how it works because homeopathy in and of itself can be already 1000 times stronger and more potent than the same substance on a different homeopathic level right so now with the quantum block though you can enhance that to levels that are incredible and incredibly potent so that's just something where you know we recommend you know one to two"
+    },
+    {
+        "start": "01:02:21.840",
+        "end": "01:02:47.760",
+        "text": "minutes at most and then um i think after that it will be really uh um it may just be too strong right i mean some people may want to test the outputs um yeah i wouldn't okay um okay how about water like if i wanted to structure charge water to drink give my pets water my plants"
+    },
+    {
+        "start": "01:02:47.760",
+        "end": "01:03:15.040",
+        "text": "um just by itself i put a glass of water in there like is that one minute as well or yes one two three minutes one two three minutes and then if i wanted to impart a frequency onto the water let's say i want to add like you know like i'm want to water my plants so i put in some i put a sample of plant food um and a glass of water right in the cube lock is it one to three"
+    },
+    {
+        "start": "01:03:15.040",
+        "end": "01:03:38.720",
+        "text": "minutes take them both out and that water now has the frequency of the plant food and i can give that to my plants right exactly the frequency will already be in the in the water already after 30 seconds uh you know and then water absorbs it like super quickly it may even be 10 seconds only in the quantum block but you know just be on the safe side you know 30 to 60 seconds and then you're"
+    },
+    {
+        "start": "01:03:38.720",
+        "end": "01:04:07.840",
+        "text": "good to go geez philip i just realized something i i've been trying to get my dogs to take vitamins and they hate me for it right i never even i just realized right now i was like oh my god i should have been doing this all along yeah i just got to put okay i've got the dog bite i'll just put it in the water oh crap because i you know i don't know if i told you uh i already like i made like ball chain necklaces for them with the dog you know heal for dog frequency and and i can tell you"
+    },
+    {
+        "start": "01:04:07.840",
+        "end": "01:04:34.880",
+        "text": "i mean ever since i gave them those those ball chain necklaces with that frequency on it because they're so small that they look weird when you put a collar on them uh so i just gave them these little ball chains and with the frequency and uh yeah it's like my older dog now literally i watch him and he plays more often it's like he never used to really play at night because he's old right he's like me uh but now he's like playing with the puppy morn and in the evening so i'm like wow"
+    },
+    {
+        "start": "01:04:34.880",
+        "end": "01:05:01.440",
+        "text": "that's pretty amazing but okay all right i just got it you know so if you want to give your pets vitamins put it in their water as a frequency there you go wow okay yeah and what you can do is you could take a bowl uh and then charge it in the yeah that's what i'm doing this quantum block with those vitamins and then make sure you know those are vitamins i mean you you know that but i'm this for the listeners uh those are vitamins that would be good for the dog right yeah yeah"
+    },
+    {
+        "start": "01:05:01.440",
+        "end": "01:05:29.840",
+        "text": "humans and dogs need different things and yeah and then maybe what i would do if if you had that bowl that would be your vitamin water bowl if you will right um and also maybe maybe have another bowl also where there are no vitamins in it not that's there's you know you can just do two different things right it's could you okay here's an idea i'm sorry to go off on a side track everybody but"
+    },
+    {
+        "start": "01:05:29.840",
+        "end": "01:05:56.720",
+        "text": "i i'm just you know i've been trying to help my dog it's easy my older dog has joint problems and so it he needs to take a joint supplement which he also hates to take and have to fight with him um so is it possible i mean you know from your perspective by put his food into the cube lock right with a a piece of his joint supplement right because he refuses to eat it and he just spits"
+    },
+    {
+        "start": "01:05:56.720",
+        "end": "01:06:21.280",
+        "text": "it out and we have these big fights all the time with each other but if i can i charge the food his food with the frequency of the joint supplement would the food pick it up so that he's getting like the frequency of his because i don't want the puppy you know because she's so little but young she doesn't need joint supplements so i could give him the frequency of joint supplements through his food and then i could give them both the frequency of dog vitamins just through their"
+    },
+    {
+        "start": "01:06:21.280",
+        "end": "01:06:49.920",
+        "text": "water so i could do that right i mean and if you could absolutely do that i would still monitor that with with a joint supplement because there's even with humans it's uh you know there's some people that you know if they do that just on the frequency a basis right whether it's if from a suticle for example um it it it works to some extent to some in in in in some cases right works completely you don't need anything else and then with vitamins and a frequency"
+    },
+    {
+        "start": "01:06:49.920",
+        "end": "01:07:16.320",
+        "text": "way for some people that's absolutely sufficient and then for other people they still need you know the the physical but what it does then if they also take the physical it's it becomes much more bio available that way that's wrongly phrased in a way it's more that the cells can absorb it way better and leverage it way better so you get a whole lot more out of it"
+    },
+    {
+        "start": "01:07:16.320",
+        "end": "01:07:43.520",
+        "text": "so those are the different ways and that's why i would just monitor it so i would not officially recommend here you know if you have a you know medicine for your dog and the dog doesn't want to take it you know it's an important medicine to just provide it as a frequency that may work where it may not work right up in your point so you don't you don't just uh stop giving them the the actual physical supplement but you'd see just kind of just see it just a additional"
+    },
+    {
+        "start": "01:07:43.520",
+        "end": "01:08:09.920",
+        "text": "enhancement or a support right that you're giving it two ways instead of one way yeah so that's where roman would come in handy as an example because these are things that would need to be checked then on an individual level i guess you had a specific medicine for for for dog or so and then you know he could check hey is the frequency actually uh doing the same thing is it is this enough for the dog or would there need to be anything else okay good to know okay okay so that's"
+    },
+    {
+        "start": "01:08:09.920",
+        "end": "01:08:38.160",
+        "text": "real interesting so uh definitely you can charge and transfer frequencies of supplements food water that's really interesting um just going down the list here i'm just kind of looking this is the website folks so uh a lot obviously a lot more detail if you read the webpage now when will this be available to the public because i know i'm looking at a preview uh this page here on the quantum block it is currently available to the public okay okay great so anyone interested you"
+    },
+    {
+        "start": "01:08:38.160",
+        "end": "01:09:02.160",
+        "text": "can kind of go through this and read we just talked about home yeah but the let's talk about sound you know capturing sound um using a cube block so um you know i'm sure people are familiar with the work of sherry edwards and the q wave uh technology out there you know taking sound and turning that into a health and wellness audio frequency for your bio field but there's a"
+    },
+    {
+        "start": "01:09:02.160",
+        "end": "01:09:29.280",
+        "text": "way to capture sound right and put that into an object or even into a glass of water and then drinking the water right i mean so you can use the cube block for that and and how would you go about doing that yep that's um easily done frankly so all you do is you play the music to glass of water and um then you put the glass of water into the quantum block um i mean"
+    },
+    {
+        "start": "01:09:29.280",
+        "end": "01:09:50.160",
+        "text": "and you can transfer the frequency the sound frequency would then be in the water and then you can transfer it from there into let's say a card or you know anything else where you want it in and then leverage it that way the only thing that's where i also would say caution is that what"
+    },
+    {
+        "start": "01:09:50.160",
+        "end": "01:10:10.320",
+        "text": "most people don't know is that well any frequencies somewhat is also um you can perceive it as a sound in a way the the specific sound frequencies are different in that regard and if you have them"
+    },
+    {
+        "start": "01:10:10.320",
+        "end": "01:10:36.480",
+        "text": "on charged on a card for example you don't physically hear um but it still um can create an imbalance over time because we have our own sound the body has its own sound and so that's also why you know if you leverage sound frequencies and you really listen to them you wouldn't do that all day"
+    },
+    {
+        "start": "01:10:36.480",
+        "end": "01:11:00.880",
+        "text": "right you do that for a short period of time typically and that's how i would leverage those cards as well right okay yeah that's a you know really good point let me expand on that i mean um for those of you are familiar with the work of sherry edwards she's done the incredible work um capturing the audio of it's just like it's really hard to explain but she's captured the"
+    },
+    {
+        "start": "01:11:00.880",
+        "end": "01:11:25.840",
+        "text": "frequency of audio sounds and how they interact with different conscious states you know uh depression and so forth and then she creates these soundtracks working with musicians in which when you listen to the the music uh you're getting like uh you know uh you're getting the frequencies and the the energy or not the energy but the frequencies and the sound uh to you know stimulate your brain"
+    },
+    {
+        "start": "01:11:25.840",
+        "end": "01:11:51.040",
+        "text": "or uh there's one for like you know helping you uh overcome effects of the flu or something like that but then she herself even says the same thing you just said Philip which is hey this is sort of like medicinal you know you don't want to play it 24 hours a day because you know you don't need it you know just you take it as you would if it was a supplement or you take it as you would if it was medicine and it's not just all day long 24 hours a day so caution so there's a caution"
+    },
+    {
+        "start": "01:11:51.040",
+        "end": "01:12:19.520",
+        "text": "which is if you're using sound like when a sherry edwards is tracks and you burn it into let's say a pendant because you want that that with you uh but you shouldn't be wearing that pendant all the time it should be used as needed as opposed to you know subjecting your body to that audio all the time right yes and that's that's how it's different from um an inner piece frequency card for example because you could literally wear that all the time and it doesn't create any stress I"
+    },
+    {
+        "start": "01:12:19.520",
+        "end": "01:12:46.640",
+        "text": "mean the opposite is actually the case um uh at the same time I just want to mention real quick even though that's not the topic today uh the way it's created with the quantum blog is actually the frequency card that the frequency is available in a way where you kind of your system kind of learns how to leverage it better and how how to recreate it uh it takes different times for"
+    },
+    {
+        "start": "01:12:46.640",
+        "end": "01:13:13.120",
+        "text": "different people uh and sometimes we we want to go back to that but it's it's something that you don't it's not just a substitute or something that you would then always have to use in order to create inner pieces rather almost like a little coach uh in your pocket if you will right um yeah okay and then so you also said something I think that uh I don't know if we we were talking for a"
+    },
+    {
+        "start": "01:13:13.120",
+        "end": "01:13:38.800",
+        "text": "while but I just like I want to stress something that it's about the difference between the cue block and other uh you know quantum products out there is that this thing attenuates it in trains and it can literally lift your own frequency um and then even if you take it away you're still resonating with that frequency and it's not like that whole coffee crash kind of effect right"
+    },
+    {
+        "start": "01:13:38.800",
+        "end": "01:14:03.760",
+        "text": "so that like as you're saying this thing kind of you you blend with it and you pick up those frequencies but in a harmonious right as opposed to like it's artificial would you just in terms of how it compares with other products is that a good way to say it absolutely yeah I think you yeah there's nothing more to add almost okay so like if I were to use a frequency uh like the"
+    },
+    {
+        "start": "01:14:03.760",
+        "end": "01:14:34.240",
+        "text": "inner piece and and I'm just then I eventually over time become kind of like you know I just kind of absorb it and it becomes part of my overall frequency so that even if I take the device away I still benefit from the from the frequency right so that is absolutely right and I think what's what may be a good way to for people to understand is you know if you work with with a healer or you know with a sham shaman or you know whatever you have a certain topic you"
+    },
+    {
+        "start": "01:14:34.240",
+        "end": "01:15:05.200",
+        "text": "have a certain issue or problem in your life or whatever that you want to talk about and you want to find a way in how to you know get over it or fix it neutralize it harmonize it you know and all of that or you know get get worked through a traumatic experience as one example right I'm told you've done it and so you they help you with that and what do they do they do energy work with you there are lots of different ways how to do that they provide offer different"
+    },
+    {
+        "start": "01:15:05.200",
+        "end": "01:15:29.360",
+        "text": "frequencies right no healer can heal anybody it's just everybody can only heal themselves but the the healer would provide the energy fields and the frequencies in a way that that healing can actually happen right so now what we try to do is actually for certain topics you know create this"
+    },
+    {
+        "start": "01:15:29.360",
+        "end": "01:15:50.480",
+        "text": "little healer for your pocket if you will right where for certain topics whether it's the inner piece or you know something else it's something as if you work with the with the healer now I must say that life session with someone like Roman on a certain topic you know goes above and beyond"
+    },
+    {
+        "start": "01:15:50.480",
+        "end": "01:16:20.000",
+        "text": "what what a card can do but what what what it would be extremely difficult and likely very expensive to work on a healer with a healer on a constant basis every day yeah 24 hours a day right that's not feasible at all and there there that's where the cards really come in hand extremely handy like have a Roman in your pocket okay you know I know where we're coming up on an"
+    },
+    {
+        "start": "01:16:20.000",
+        "end": "01:16:45.840",
+        "text": "hour and I want to be sensitive to your time but I do have a couple more questions if you have some time because I think this is such this is the the amazing I mean you know everything we've talked about it's pretty amazing if you're if you're new to this subject it's it's pretty woo-woo but wait till you find out that it's actually real but then for those of us that are like really into energy kind of work and things like that you've you've been able to take this to a whole"
+    },
+    {
+        "start": "01:16:45.840",
+        "end": "01:17:15.120",
+        "text": "other level and let's if you don't mind I'd like to just could I get you to kind of describe how the cube lock works with you know your your own intentions and affirmations and and then not just like putting it into the field like we described earlier but also putting it into devices and other living things like I could literally put an intention like into my pet right kind of thing and so can you talk about that because the cube lock is very unique in that"
+    },
+    {
+        "start": "01:17:15.120",
+        "end": "01:17:41.840",
+        "text": "respect as I understand it yes so you can work with an intention or with an affirmation for example and then really leverage the super concentrated quantum space in the quantum block in order to bring this or take this into manifestation and relatively quick manifestation I want to point"
+    },
+    {
+        "start": "01:17:41.840",
+        "end": "01:18:10.480",
+        "text": "out though that there's you know everybody has his her own soul plan and then there's also you know something I would call the universal law right which you know if you're tuned in if people that are that that's one of the biggest differences between psychopaths and just a regular human being right where the psychopath doesn't really have the ability anymore to"
+    },
+    {
+        "start": "01:18:11.760",
+        "end": "01:18:37.360",
+        "text": "really know what's right and wrong you know what I mean so yeah there's no soulless right we have yeah and and but yeah yeah but you would have that ability so you to do you know what's kind of right and wrong and so and there's certain things that are they're not wrong that are they're not right or that are against the the universal law or against the soul plan and those things you"
+    },
+    {
+        "start": "01:18:37.360",
+        "end": "01:18:57.360",
+        "text": "also can't manifest that with a quantum block because it's just it's not on the agenda if you know what I mean yeah but everything that fits into all the possibilities and those are also by themselves unlimited into what is possible and can be done in one's life and achieve right if it"
+    },
+    {
+        "start": "01:18:57.360",
+        "end": "01:19:26.080",
+        "text": "resonates with the universe and with your soul plan then you can manifest things so much quicker and faster it's it's absolutely amazing and so here's how it works if just without a quantum blog you can already okay you know go into meditation and then from within really if you have that"
+    },
+    {
+        "start": "01:19:26.080",
+        "end": "01:19:50.000",
+        "text": "connection okay come up with okay so what do you want to do next what is it that you would like to do or achieve right and and again it's something that should really resonate with what's right for you and if you put just the thought and intention in there that's one thing but you need to"
+    },
+    {
+        "start": "01:19:50.640",
+        "end": "01:20:16.400",
+        "text": "create a feeling around it because otherwise it's almost like a phone without power right so you have to have this feeling so you go into your you're envisioning what you want to achieve you create a feeling for that you literally see yourself being that or doing that or having that or whatever it may be and that by itself already creates so much because we create our worlds with"
+    },
+    {
+        "start": "01:20:16.400",
+        "end": "01:20:42.800",
+        "text": "our with our thoughts and we attract what we think and that's also one of the you know kind of difficult things for the for the collective right now that there's so much fear being created on earth that there is so much fear in the field right and and people that that are fearful they create more of that um so that's not really helpful so we all want to be clean and pure"
+    },
+    {
+        "start": "01:20:42.800",
+        "end": "01:21:11.440",
+        "text": "and and what we think so that's the basic concept now you can absolutely magnify that by leveraging the quantum block because it has 90 of those quantum consciousness levels which is which is immense and if you for example write down your affirmation or or you know your intent on a piece of paper and then you put it in that's where the extra power comes in and"
+    },
+    {
+        "start": "01:21:11.440",
+        "end": "01:21:40.320",
+        "text": "it comes in then without you adding anything to it so you can then next minute just forget about that thought and and and all that and it's still working it's way through into manifestation and then you know you could do other things you could you know copy the frequency of your affirmation on you know let's say in a capsule and then wear that capsule or a pendant or in an"
+    },
+    {
+        "start": "01:21:40.320",
+        "end": "01:22:07.360",
+        "text": "aluminum foil and then have that foil in your capsule or with you things like that you know you could put it in water even drink the water I mean those possibilities are endless and up for tinkering and discovering probably but it's yeah it's uh it's pretty cool and and amazing what's possible there that's amazing um okay I totally get what you're saying I hope everyone else followed"
+    },
+    {
+        "start": "01:22:07.360",
+        "end": "01:22:31.120",
+        "text": "along uh you know I was just thinking um you you could so if let's say I want to help my dog heal right he has um uh you know like a knee problem it's right old guy has knee problems I could I could use the cue block and put in and put in the intention of helping him heal but I also could put his leg in the cue block and we could kind of do like a like a hands you know hands-on healing"
+    },
+    {
+        "start": "01:22:31.120",
+        "end": "01:22:58.800",
+        "text": "um affirmation and intention using the cue block to kind of you know enhance the experience right if I wanted to do hands-on healing on my dog um yes yeah okay and I just you can absolutely do that what I want to add though is that if we talk about beings like you know dogs and cats and all that they they certainly they have their their own will as well and and so which"
+    },
+    {
+        "start": "01:22:58.800",
+        "end": "01:23:25.920",
+        "text": "wants to be respected and it and it will be so let's say that um it's not that you know dogs plan to have a healed knee as an example if that were to be the case and it's really not part of the dog's plan a higher plan then you just that also won't work but um then if that word if the case you"
+    },
+    {
+        "start": "01:23:25.920",
+        "end": "01:23:52.400",
+        "text": "could work with the dog and maybe finding maybe there's just some blockage frankly why why there's no um how do you say that um willingness to heal if you will because that that that maybe something you can then solve actually also with the quantum block but yeah absolutely you can you can do that and there's no you're not stepping over the dog's boundaries in that sense anyway"
+    },
+    {
+        "start": "01:23:52.400",
+        "end": "01:24:18.320",
+        "text": "because the dog will ultimately always the dog's energy system will have the right if you will to say yes or no to these things um that's amazing um definitely going to try that um yeah you're giving me so many new ideas and I just want to kind of caveat to anyone listening that when I talk about healing with hands I'm not referencing any type of religious ideology in that regard I'm"
+    },
+    {
+        "start": "01:24:18.320",
+        "end": "01:24:47.200",
+        "text": "referring to the fact that I'm someone of of you know I'm very much interested in biological magnetics and when I'm talking about healing with hands I'm talking about it from a biological magnetic standpoint and if anyone's interested in understanding what I mean read the book rainbow in your hands by Albert Roy Davis who's one of the proponents of of bio-magnetics and he wrote an amazing book about how our bio-fields that our bodies generate our magnetic and biomagnetic"
+    },
+    {
+        "start": "01:24:47.200",
+        "end": "01:25:14.880",
+        "text": "in nature and how you could use that energy and heal other beings with your own bio-field and it's called rainbow in your hands by Albert Roy Davis okay so um just want to clarify that I'm not a religious person and so I do everything from a research standpoint but okay so let's we so we talked about affirmations I think that's fascinating I don't really play around with that but it's really got to be something where you're not going to say oh I want I want the ability to fly you know"
+    },
+    {
+        "start": "01:25:14.880",
+        "end": "01:25:39.680",
+        "text": "like it's just not possible but you can you can attenuate your own you know destiny right or I'm sorry I'm not attenuated but enhance or or increase it in that regard so that's really cool the other last question is we you touched on I think somewhere in here I was reading this and somewhere in here I guess I got to the bottom but somewhere in here I was reading I think I was reading the draft"
+    },
+    {
+        "start": "01:25:39.680",
+        "end": "01:26:02.880",
+        "text": "and it talked about entanglement and so I'm not sure you know I actually did an experiment earlier I think last year use you know kind of with the idea of entanglement but I just kind of wanted to see you know what are your thoughts or what what experiments have you done using the cue block from an entanglement standpoint for those of you that aren't familiar with the term entanglement"
+    },
+    {
+        "start": "01:26:02.880",
+        "end": "01:26:28.800",
+        "text": "it's the ability to connect to different or or more to or more you know consciousness beyond you know space and time so it's kind of like two different places on the planet kind of attuning to each other and they're both feeling and thinking seeing the same thing at the same time and it's very scientific and it's out there look up quantum entanglement it works it's it's been"
+    },
+    {
+        "start": "01:26:28.800",
+        "end": "01:26:49.920",
+        "text": "measured in the lab so but but you can use the cue block for that so what are your thoughts and what have you done in terms of of experimenting with that yeah so 100 percent quantum entanglement with the quantum block works and we've done lots and lots of tests and actually also study around"
+    },
+    {
+        "start": "01:26:49.920",
+        "end": "01:27:18.720",
+        "text": "it so as an example you could put up you take a picture of your shoes and then you put that picture in and it does not matter where those shoes and are and where the quantum block is right as an example well let's let's say you take a picture of your shoes in in Costa Rica and then you leave"
+    },
+    {
+        "start": "01:27:18.720",
+        "end": "01:27:45.200",
+        "text": "your shoes there and then you you travel back with the quantum block to I don't know how why and then in how why you put the this picture of the shoes in there in the in the quantum block and then the energy will charge the shoes even though they're you know thousands of miles away"
+    },
+    {
+        "start": "01:27:45.760",
+        "end": "01:28:10.400",
+        "text": "and so the interesting part is also that we found that you can actually also permanently charge objects through the distance like that which is uh which is a new finding and it's it's pretty immense it's absolutely possible and so you could yeah so if you had a friend somewhere that"
+    },
+    {
+        "start": "01:28:11.200",
+        "end": "01:28:38.880",
+        "text": "you know had some issues you could literally over distance charge something for them that they can then wear and it really works like that you know that you know I've you know been asked by people you know does there need to be any other information on the picture then but there really doesn't need to be any any target coordinates and all that that's all like"
+    },
+    {
+        "start": "01:28:38.880",
+        "end": "01:29:06.560",
+        "text": "just thinking just some thoughts is totally irrelevant and unnecessary because the picture has a clear individual signature if you will energetic signature and certainly it would have to be the exact object right so if you wanted to charge your shoes then you would really have to take a picture of your shoes and not like a stock picture of those"
+    },
+    {
+        "start": "01:29:06.560",
+        "end": "01:29:35.360",
+        "text": "shoes that are available on on a website because that would not be specific oh yeah okay and then you know we have done other things like you know for example we you know we we charged um um a fabric and then through that way and then we actually wanted to not only energetically know that and see that we actually uh um had um based on test that and they um you know then then a person would"
+    },
+    {
+        "start": "01:29:35.360",
+        "end": "01:30:04.560",
+        "text": "be tested and then the person would be tested again after wearing that fabric and yeah 100 percent of the energy was in and it was working perfectly could you do frequency as well yeah wow okay um so for those of you playing at home um this is quite an amazing announcement um for you know I've been like I said studying this for a long time this is pretty wild if you do want to do more research"
+    },
+    {
+        "start": "01:30:04.560",
+        "end": "01:30:32.240",
+        "text": "into quantum entanglement um and the idea of how you could use that in your day-to-day life um then you know definitely look up the science of radionics that's another way of describing it quantum entanglement also has been like I did say it's been proven in the lab that there is actually such a thing more you know the scientific detail is too much for this video um but yeah radionics quantum entanglement uh that's amazing Philip that you could literally so you can literally"
+    },
+    {
+        "start": "01:30:32.240",
+        "end": "01:30:57.360",
+        "text": "help somebody heal um let's say uh somebody that your friends and family living like uh at a distance and you could then you kind of like you know use the cue block to and with intention send them like the the frequency of of of healing supplements and and you know and medicines and things like that or or just your intention for them to heal like you know get well soon but like on a"
+    },
+    {
+        "start": "01:30:57.360",
+        "end": "01:31:23.520",
+        "text": "energy level right yes yes that's pretty wild okay you do that okay so um you know we're over the one hour mark and I do apologize I try to keep everything down to an hour I know everyone's time is so valuable but before we go I do want to talk about purchasing instructions um because I know that there's a license agreement and so we're gonna I'd like you to chat about that and then at the same time though you know we're looking at this and you look at you look right now you've"
+    },
+    {
+        "start": "01:31:23.520",
+        "end": "01:31:52.160",
+        "text": "got it on sale so I've got a couple of questions about you know like if anyone's interested in obtaining a quantum block um then there's a couple of things and and it's like well it's a lot of money to spend that's the first question so how would if you're brand new to this how would you you know Philip what would be your recommendation to someone does you know try before you buy like maybe do a pendant first or you know experience I think you touched on that earlier but you know what would be your recommendation to someone that's like well that's really a lot of money you know I"
+    },
+    {
+        "start": "01:31:52.160",
+        "end": "01:32:22.560",
+        "text": "want to try this energy but you know I you know what can I try first before I commit to a larger amount question one question two is like this is pretty awesome sale how long is the sale last and then my question three is you know what are the what's what like what what is the license agreement what do I got to know so maybe you can just take like what you know question one you know how does someone introduce themselves to the Layla Q um product and and you know like before you want to commit to a cube lock what would you recommend to somebody"
+    },
+    {
+        "start": "01:32:22.560",
+        "end": "01:32:46.720",
+        "text": "yeah I think then in that case unless someone knows instantly and if you're like a newcomer you've never heard about this and you instantly know wow you know this is what I need then you know go ahead because that's uh you know I think with some people they just know this or they see that but if you're not that person then absolutely like you said you know maybe uh try a frequency card or"
+    },
+    {
+        "start": "01:32:49.280",
+        "end": "01:33:19.120",
+        "text": "the heel capsule for example because you know that's not as much of an investment but you get to experiment you know some of that energy already and yeah and then you'll develop a feeling for that and and I think then you'll be able to make a better decision that's that's probably a good way to go for that okay yep okay and then the other thing was the the sale I mean how long is uh this"
+    },
+    {
+        "start": "01:33:19.120",
+        "end": "01:33:45.520",
+        "text": "sale price gonna gonna I mean do you have like is it a specific sale for right now um and and then how would it compare to like I know that you're not going to launch the infinity block for a couple of weeks but you know like if you're one of the people like myself I kind of jump into the deep end of the pool because I just want to tinker uh and so uh but like if people are thinking hey you know this one's on sale right now but there's another one coming out do I want to wait till the"
+    },
+    {
+        "start": "01:33:45.520",
+        "end": "01:34:09.120",
+        "text": "other one comes out or you know could you kind of touch on that like like from a like which one should someone get if they're gonna should they wait for that other one and how do they know which one to get do they want to have both you know could you comment on that yeah so first of all it's not a requirement to have one to also get the other so that's uh or or both obviously right so"
+    },
+    {
+        "start": "01:34:09.120",
+        "end": "01:34:37.440",
+        "text": "that's that's you know however um you want to decide and um in terms of the price uh we want to say that the actual value is way higher than the 1499 way way higher if you also compare it to other devices on the market but at the same time you know we always look okay what's what's the right price from a universe perspective and currently you know it's"
+    },
+    {
+        "start": "01:34:38.000",
+        "end": "01:35:07.680",
+        "text": "it's tough for a lot of people in the world financially you know there's COVID going on still and and all of that and we don't want to limit this so that's why we set the price as is and why is there now a great discount that's that's the special um yeah launch slash COVID support discount if you will and I can't say at this point how long this will be available but we wanted to"
+    },
+    {
+        "start": "01:35:07.680",
+        "end": "01:35:37.520",
+        "text": "at least make it available for the first 30 days so that's as much as I can say okay um yeah and then about the um about the like the infinity like um you know like I was saying like how how would someone decide which one should I get you know I'm just because uh you know when I see this but I know that you've got something even stronger because I'm a guy right we want the biggest TV we want the strongest you know we're never satisfied like oh there's a bigger one let's get"
+    },
+    {
+        "start": "01:35:37.520",
+        "end": "01:36:03.920",
+        "text": "you know so I mean is that something that I mean for my like should our should people be thinking like hey wait till you see the infinity before you make a decision on the queue or you know like how I mean how would you approach that I mean if I want someone to say hey Philip which one should I get and what's the answer to that yeah so if if one's focus is is uh truly only on um power and"
+    },
+    {
+        "start": "01:36:03.920",
+        "end": "01:36:29.280",
+        "text": "range and um quantum consciousness levels and manifesting faster and better and all of that the infinity blog is is way stronger even um certainly and then you you can actually also I mean there's there's really no limit to it and and again in a completely pure way right that I"
+    },
+    {
+        "start": "01:36:29.280",
+        "end": "01:36:47.680",
+        "text": "want to mention that that's that's very important there's there's zero brute force in there um but so with a with a quantum block it's it's a lot easier to do basic charging and to um work with"
+    },
+    {
+        "start": "01:36:47.680",
+        "end": "01:37:16.400",
+        "text": "frequencies to um to create your homeopathic or quantum medicine um objects right to get more harmful effects out of out of pharmaceuticals for example I would not recommend to put a pharmaceutical into an infinity block and then take it I mean even if you put it in for three"
+    },
+    {
+        "start": "01:37:16.400",
+        "end": "01:37:41.280",
+        "text": "four seconds it's just uh it's just going to be too strong so so you know that's this is here the and and then you know additionally everybody that's you know sort of new to this or doesn't have any such device definitely this year I would I would recommend the quantum block and it's again it's it's way way stronger way way stronger than anything"
+    },
+    {
+        "start": "01:37:41.280",
+        "end": "01:38:07.040",
+        "text": "out there uh in terms of pure quantum energy yeah so it's already quite advanced uh but you can certainly take it energetically and yeah that's as much as I can say about the infinity block okay okay cool uh yeah as you were talking I just I was thinking you know like if I were a farmer um or you know like let's say um you know like wanted to do an entire nursing home you know"
+    },
+    {
+        "start": "01:38:07.040",
+        "end": "01:38:35.440",
+        "text": "then getting an infinity block has got a much bigger field uh and you could you could affect a much larger area and anything in that so if I were to like if I wanted to like uh let's say uh you know energize my field I would definitely get an infinity so that there's size matters I guess uh and then anyone who's interested in that kind of stuff the concept of that is called uh there's a you know quantum field broadcasting uh and there's a couple of good websites out there"
+    },
+    {
+        "start": "01:38:35.440",
+        "end": "01:39:05.360",
+        "text": "that talk about using quantum technologies with uh agriculture uh so here's the uh so the infinity block would be perfect for that okay so oh let me wrap up so there's there's a license agreement so most people buy products there's usually not a license agreement so could you explain you know like well why it is and and what it is so that people understand so from a purchasing let's say somebody wants to tinker and they want to get a quantum block it's on sale for at least 30 days you got a great price but what's what is the license agreement and and how does the you know"
+    },
+    {
+        "start": "01:39:05.360",
+        "end": "01:39:34.640",
+        "text": "purchasing instructions how does that work yeah it's just uh for personal use and by the way so it's this is the the license agreement here okay process um it's not there right now so if anybody currently wants to purchase uh please send an email there to um um info at lilaq.com and then we'll um we'll also send you that uh very simple and basic agreement frankly and it's"
+    },
+    {
+        "start": "01:39:34.640",
+        "end": "01:39:57.040",
+        "text": "basically states it's for for individual use um and not for commercial use however we do offer also um you know to use this commercially so you know that's something you can inquire about that's absolutely possible as well okay so this is if uh if i buy a cube block and i want to like"
+    },
+    {
+        "start": "01:39:57.040",
+        "end": "01:40:24.640",
+        "text": "make um um items and for friends and family um then it that's considered personal use right but if i try to sell the items or let's say i'm a winery and i want to impart quantum energy into my my wine and it to enhance the flavor you know and you know stand out from the other competitors then it would be a commercial license and they need to talk with you about because they're selling it right they're using it to sell stuff exactly exactly if you were jewellery shops for example"
+    },
+    {
+        "start": "01:40:24.640",
+        "end": "01:40:52.080",
+        "text": "and you wanted to charge your your items then with that and you know they're for sale then you know that would also fall under commercialized and well this would be such a really interesting project to kind of get you know one of these for a restaurant can imagine if a restaurant were to like charge a plate every time they serve it that would be interesting to see what would happen with that restaurant yep but that would be a commercial license okay so that's it there so"
+    },
+    {
+        "start": "01:40:52.080",
+        "end": "01:41:21.520",
+        "text": "the the website's called lailaq.com um and now it the so the um and this is their website and blue phillips website and then if you want to if you're interested in any of the products you just go down here to learn about products if you want to purchase then it's you click on shop learn more about the healer network right here and then again those test results are right here under research studies and certificates so um philip uh is there anything else you would like to add before we uh"
+    },
+    {
+        "start": "01:41:21.520",
+        "end": "01:41:45.760",
+        "text": "and any other like uh you know the thought you want to share well first of all just thank you again for you know being secure is about it and um asking you such great questions um and then the last thing i would add is just you know for everybody listening you know if you're interested in this topic you're you're always welcome to reach out to me directly um you know you can go through the"
+    },
+    {
+        "start": "01:41:45.760",
+        "end": "01:42:15.520",
+        "text": "general email but then you can also do that on telegram and yeah maybe join our quantum power group on telegram which is a very fun group and we have lots of great things planned actually for 2021 a lot of great interviews and information and you know you don't have to engage really it's just if you just want to listen in and just learn a little bit about the topic or or ask questions frankly you know you're absolutely welcome it's not that there's a bunch of people that"
+    },
+    {
+        "start": "01:42:15.520",
+        "end": "01:42:43.840",
+        "text": "just know so much about it and then you know they don't want anybody else and the opposite is the case it's a completely like give and take and it's it's just a wonderful community and uh yeah so feel free to join if you want and i'm sure that k will have the um but the link uh in the description also yeah for those of you not familiar with telegram it's just uh online chat group and it's just comprised of a few hundred folks right now and growing uh people that are interested in the"
+    },
+    {
+        "start": "01:42:43.840",
+        "end": "01:43:11.680",
+        "text": "topic uh of quantum energy as well as the lay the products and have questions and you know if you wanted to ask anybody you know like there's no such thing as like amazon reviews for this but that's where you would go and you can just ask anybody who's like a regular customer non-affiliated uh just like hey and does it work for you and then you're gonna get a lot of responses so it's a good place to ask questions a good place to kind of meet other people that are interested uh in this technology and uh in in an energy work in general so yeah i'll put the link in for the telegram chat"
+    },
+    {
+        "start": "01:43:11.680",
+        "end": "01:43:30.600",
+        "text": "group uh so okay uh philip hanging on the line and uh i just want to say thank you for your time everybody and and for listening to this video philip congratulations on your new product very excited looking forward to tinkering with mine so thank you very much and thank you appreciate your time. So hang on. All right. Thanks, everybody. Aloha."
+    }
+]

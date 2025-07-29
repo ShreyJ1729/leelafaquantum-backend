@@ -1,0 +1,233 @@
+
+[00:00:00.000 --> 00:00:03.160]   Aloha, everyone, and welcome to another Tinker's Academy video.
+[00:00:03.160 --> 00:00:07.120]   I'm your host, Cam, and in this video, I'll make it as brief as possible.
+[00:00:07.120 --> 00:00:12.040]   I'd like to discuss whether or not is brown's gas toxic, and why am I asking this question
+[00:00:12.040 --> 00:00:17.960]   and I apologize if this is clickbait, but I wanted to cover feedback on a study that
+[00:00:17.960 --> 00:00:23.440]   was dropped into our H2H2H2O telegram chat group that kind of raised some fears by people
+[00:00:23.440 --> 00:00:25.800]   who don't normally read science studies.
+[00:00:25.800 --> 00:00:31.600]   And so I wanted to just share my interpretation of this study, put some context in it around
+[00:00:31.600 --> 00:00:37.320]   it, and so that it can be just openly discussed in the context of what it did in the terms
+[00:00:37.320 --> 00:00:38.480]   of the study itself.
+[00:00:38.480 --> 00:00:44.320]   So links in the video description, you can read it yourself, but this study is called
+[00:00:44.320 --> 00:00:49.860]   the electrodes modified with nickel, electro deposition, decrease, hexavalent, chromium
+[00:00:49.860 --> 00:00:54.580]   generation in an alkaline electrolysis process, say that three times fast.
+[00:00:54.580 --> 00:00:56.800]   And so bottom line, what was this study?
+[00:00:56.800 --> 00:01:03.200]   Well, this study was done obviously back in 2019, published 2020, and basically it was
+[00:01:03.200 --> 00:01:10.720]   a study to determine if there was a better way of producing hydrogen using electrolysis
+[00:01:10.720 --> 00:01:12.520]   that was less toxic.
+[00:01:12.520 --> 00:01:17.760]   So they decided to take stainless steel plates, plate them with nickel to see if that was
+[00:01:17.760 --> 00:01:20.760]   not as bad as just plain stainless steel.
+[00:01:20.760 --> 00:01:25.300]   So the whole idea is, and this is all factual stuff, it's like SS, right, I'm going to just
+[00:01:25.300 --> 00:01:28.900]   read some highlights, that stainless steel anodes do not withstand high concentration
+[00:01:28.900 --> 00:01:33.940]   alkaline solutions, alkaline solutions meaning the solutions that's inside the tank of your
+[00:01:33.940 --> 00:01:40.540]   generator where you put lie in there, sodium hydroxide, it creates it a very alkaline solution,
+[00:01:40.540 --> 00:01:45.460]   and that's what increases the amount of current that goes between the plates, which thus produces
+[00:01:45.460 --> 00:01:48.300]   browns gas, right, hydrogen, oxygen, so forth.
+[00:01:48.300 --> 00:01:56.820]   And so they basically proved, which is no surprise that when you do that, right, and the electricity
+[00:01:56.820 --> 00:02:01.160]   is going between the plates, that there's going to be ions coming off of the metal plates
+[00:02:01.160 --> 00:02:07.060]   inside the tank, and that those ions are going to be part of the metal, and part of
+[00:02:07.060 --> 00:02:09.180]   stainless steel as you know is chromium.
+[00:02:09.180 --> 00:02:13.940]   And so chromium is coming out amongst other types of metal like ferrous oxide and things
+[00:02:13.940 --> 00:02:16.500]   like that are being generated.
+[00:02:16.500 --> 00:02:20.620]   And so it's kind of like what they did say, and this is interesting, was that if it's
+[00:02:20.620 --> 00:02:27.060]   up to 1.6 volts across the plates, you know, it can generate anything over 1.6, and it
+[00:02:27.060 --> 00:02:33.220]   starts actually generating hazardous hexavalent chromium, or CR6 plus, okay, at the anode
+[00:02:33.220 --> 00:02:37.860]   of the two different plates, you've got the cathode and the anode, right, so the whole
+[00:02:37.860 --> 00:02:41.340]   point of this was, you know, it says, hey, you know, you run these things, it's going
+[00:02:41.340 --> 00:02:46.860]   to generate chromium, and so there was a concern, right, the chromium toxicity in browns gas
+[00:02:46.860 --> 00:02:53.260]   being carried from the tank into your drinking water, and so, but this is what the study did,
+[00:02:53.260 --> 00:02:55.740]   and this is why it's so important to have context.
+[00:02:55.740 --> 00:03:02.020]   Now, it just says the performance curve after 70 hours of operation with the nickel plated
+[00:03:02.020 --> 00:03:07.820]   electrodes showed an overpotential at 0.5 volts, and at 10 amps compared to stainless
+[00:03:07.820 --> 00:03:12.700]   steel electrodes, chromium was detected in the electrolyte and bubbler water of the
+[00:03:12.700 --> 00:03:17.460]   system, okay, and it was exceeded the standard, and the standard is extremely low on the amount
+[00:03:17.460 --> 00:03:23.500]   of acceptable chromium, it's like a per to the, I believe, for the EPA, the acceptable
+[00:03:23.500 --> 00:03:28.180]   level chromium at any tested solution like drinking water, reservoirs, things like that,
+[00:03:28.180 --> 00:03:33.180]   it's like 100 micrograms per liter, so, I mean, they were getting milligrams, to kind
+[00:03:33.180 --> 00:03:38.140]   of give you an example how much chromium was coming off of the plates in the tank, so,
+[00:03:38.140 --> 00:03:44.660]   and then also in the bubbler, but here was what I want to point out, as you read the study,
+[00:03:44.660 --> 00:03:49.660]   you will find out that they did not use a commercially available browns gas generator
+[00:03:49.660 --> 00:03:53.780]   that you could get from, you know, all the different providers that sell the browns gas
+[00:03:53.780 --> 00:03:57.940]   generators that we all talk about in our telegram chat group, but they instead actually built
+[00:03:57.940 --> 00:04:01.880]   their own, they designed it, they built it, they created their own plates, they nickel
+[00:04:01.880 --> 00:04:06.300]   plated them, which the other, you know, none of the manufacturers right now are using nickel
+[00:04:06.300 --> 00:04:10.260]   plated plates, and please correct me if I'm wrong, but I don't believe everyone's just
+[00:04:10.260 --> 00:04:16.100]   using medical grade stainless steel, and then they ran it for 70 hours, and then after
+[00:04:16.100 --> 00:04:21.100]   the 70 hours, of course, sorry, another point you need to know is 100 watt machines, so,
+[00:04:21.100 --> 00:04:28.340]   after the 100 hours in a 5% saline solution using sodium hydroxide, which is what we
+[00:04:28.340 --> 00:04:33.960]   all use, lie, right? Then they basically started measuring stuff, and so, this is what they
+[00:04:33.960 --> 00:04:39.040]   measured, and this is why this is so important in terms of context. The performance curves
+[00:04:39.040 --> 00:04:43.580]   were obtained using a test system that included a power source, a phase separator, electrolyte,
+[00:04:43.580 --> 00:04:48.200]   recirculator, bubbler, dryer, mass flow meter, and electrolyzer, alright, so, and then the
+[00:04:48.200 --> 00:04:52.760]   electrolyzer was, and this is the other key thing, so let me show you diagram in a second,
+[00:04:52.760 --> 00:04:56.720]   what they actually measured, and then the most important thing here is that they measured,
+[00:04:56.720 --> 00:05:02.640]   they ran the machine for 70 hours, and they measured it every 10, so they measured it
+[00:05:02.640 --> 00:05:06.800]   seven times, and they came out with all these little nice performance curves, you can see
+[00:05:06.800 --> 00:05:11.880]   all of that, in terms of what was going on, and what they were measuring along the way,
+[00:05:11.880 --> 00:05:16.400]   but here's the thing that I want to point out, is what did they measure, exactly? Well,
+[00:05:16.400 --> 00:05:20.520]   this is their, this is their own design, they created their own browns gas generator, where
+[00:05:20.520 --> 00:05:25.160]   they basically had a power source, an electrolyzer, and this would have been basically what's
+[00:05:25.160 --> 00:05:34.520]   your tank, sorry, then it produces oxyhydrogen up here, and then there's the recirculator,
+[00:05:34.520 --> 00:05:40.320]   right, which so this is all, like basically would be inside your tank, and then it comes
+[00:05:40.320 --> 00:05:44.960]   into the first filter bubbler, then it goes through a dryer, and then they start, this
+[00:05:44.960 --> 00:05:49.320]   is a meter that they met, and they measured the amount of flow of gas coming out of this
+[00:05:49.320 --> 00:05:55.000]   generator, so there's only one bubbler, okay, and that's my, that's going to be very important
+[00:05:55.000 --> 00:05:59.840]   here, and so that was what they measured, so they measured it in the electrolyzer, they
+[00:05:59.840 --> 00:06:04.680]   measured it up here in the recirculator, and they measured it right here, in the bubbler,
+[00:06:04.680 --> 00:06:09.160]   okay, and that's where they found that, yes, chromium is coming off of the plates and gut
+[00:06:09.160 --> 00:06:14.840]   getting into those three areas of their generator that they built, so another, you know, so this
+[00:06:14.840 --> 00:06:19.120]   is just more highlights about, you know, hey, they basically how they analyzed it, you can
+[00:06:19.120 --> 00:06:22.760]   read this yourself, that's, you know, just read the, if you want to read the study, but
+[00:06:22.760 --> 00:06:26.840]   this is basically it, and again, I want to point out it was after 70 hours of operation,
+[00:06:26.840 --> 00:06:30.480]   and that they had found chromium, and it was very, it was at a very dangerous level, and
+[00:06:30.480 --> 00:06:34.640]   that's really, that's what this study found out, and so their whole idea was they're trying
+[00:06:34.640 --> 00:06:40.920]   to figure out a better way of producing hydrogen that doesn't produce chromium, because one
+[00:06:40.920 --> 00:06:47.160]   of the key points of this, and I think probably the main key point that I took away from this
+[00:06:47.160 --> 00:06:52.520]   was that it generates chromium, and I had been basically dumping my tank into the kitchen
+[00:06:52.520 --> 00:06:57.160]   sink when I flush it, now I'm starting to wonder maybe that's a toxic thing, and there's probably
+[00:06:57.160 --> 00:07:00.880]   maybe a better way, and I don't know we could talk about that in the telegram chat group,
+[00:07:00.880 --> 00:07:03.920]   but you know, hey, we all should be thinking about that, right, you know, because where
+[00:07:03.920 --> 00:07:09.520]   does your kitchen sink go to, right, so anyway, so that's that point, so that's what I wanted
+[00:07:09.520 --> 00:07:15.880]   to kind of point out, so let's go back to, I just did the pH and TDS test, and so this
+[00:07:15.880 --> 00:07:22.240]   is what we do in real life, first of all, we don't use their own design, we use our H2
+[00:07:22.240 --> 00:07:28.160]   Genesis, our aquacures, our H2 lights, you know, and that's what we all been using, and
+[00:07:28.160 --> 00:07:34.200]   so what's going on inside here, right, is not where we're drinking the water foam, and
+[00:07:34.200 --> 00:07:38.560]   then after it comes out of the actual, you know, the recirculator, which would be the
+[00:07:38.560 --> 00:07:43.480]   expansion chamber right here, it goes into the filter bubbler, okay, the first filter
+[00:07:43.480 --> 00:07:46.840]   bubbler, and if you have a second one, you've got a second filter bubbler, and then you've
+[00:07:46.840 --> 00:07:50.440]   got a third container, that's what you're actually bubbling, and or you're inhaling
+[00:07:50.440 --> 00:07:55.400]   from that. Okay, now as I mentioned in my other video, there's some specific time frames
+[00:07:55.400 --> 00:08:00.920]   that are the guidelines for using these types of generators, and none of them, none of them
+[00:08:00.920 --> 00:08:05.920]   say, run the whole thing for 70 hours and then drink water out of the filter, none of them
+[00:08:05.920 --> 00:08:10.440]   say, run this thing for 70 hours straight, and breathe it straight out of the, you know,
+[00:08:10.440 --> 00:08:16.480]   the expansion chamber, right, they all say use two filters, change it every 10 hours,
+[00:08:16.480 --> 00:08:22.360]   right, and then every 120, you know, flush the tank and put in some fresh electrolyte,
+[00:08:22.360 --> 00:08:26.920]   and so by the time you're getting it here, which is what I showed in the TDS total dissolved
+[00:08:26.920 --> 00:08:33.600]   solids test that I just did this week, as well as the pH test showed that nothing is
+[00:08:33.600 --> 00:08:39.200]   getting through from a pH, I'm sorry, from a wall, from pH standpoint, as well as a total
+[00:08:39.200 --> 00:08:42.720]   dissolved solid, so that's using a PPM meter, right, and I'll show you the results in a
+[00:08:42.720 --> 00:08:48.000]   second, but the idea here is that they measured it right here, right here at the filter, and
+[00:08:48.000 --> 00:08:51.520]   they measured what's inside the tank, and in the real world, you're not drinking that,
+[00:08:51.520 --> 00:08:54.640]   you're not going to inhale from that, you're not going to drink from that, so this does
+[00:08:54.640 --> 00:09:01.040]   not apply to us, there is no toxicity to us if we don't do this and their instructions
+[00:09:01.040 --> 00:09:06.080]   are don't do that, the instructions are breathe from the third thing, you know, the third
+[00:09:06.080 --> 00:09:09.840]   container, and/or drink water from that third container, and if you do that, these are the
+[00:09:09.840 --> 00:09:15.440]   results of the study that I just did, now I measured the filter bubbler 1,2, and I measured
+[00:09:15.440 --> 00:09:20.960]   the drinking container, and I measured the pH of both after you follow the recommended
+[00:09:20.960 --> 00:09:26.480]   guidelines, so you would always change it at 120, the machine I was using in the test had
+[00:09:26.480 --> 00:09:30.640]   only been running for three weeks, and then every 10 hours, you start with a brand new
+[00:09:30.640 --> 00:09:35.520]   fresh water in your filters, and the most you're ever going to bubble the water for is 10 minutes,
+[00:09:35.520 --> 00:09:40.800]   that's all you need to per liter, right, so it's like after 10 hours max is when I basically let
+[00:09:40.800 --> 00:09:45.520]   these things go to full saturation, where the guidelines said okay, time to replace them, so
+[00:09:45.520 --> 00:09:50.880]   right at the moment, it was time to replace it, I ran a fresh, you know, a batch of water to drink,
+[00:09:50.880 --> 00:09:54.960]   and of course, you know, it's the same thing if I'm inhaling, and the results were that there
+[00:09:54.960 --> 00:10:04.880]   was a 0.04, a 400th increase in pH, there's almost nothing, and absolutely zero, zero increase
+[00:10:04.880 --> 00:10:10.800]   of dissolved solids, and so the ions of the metal plates are considered a dissolved solid, and there
+[00:10:10.800 --> 00:10:16.400]   was absolutely none detected in the drinking container, which would be the same as the inhalation
+[00:10:16.400 --> 00:10:22.240]   that you're doing. Now, I just do want to say that there was a 0.30, like it went from, you know,
+[00:10:22.240 --> 00:10:28.240]   the starting pH was a PPM, I'm sorry, total dissolved solids in filter 1, started at 0.04,
+[00:10:28.240 --> 00:10:36.000]   and ended at 0.04, sorry, 0.34, so there was an increase in the parts per million of total dissolved
+[00:10:36.000 --> 00:10:42.480]   solids detected in the first filter, as I had shown in my video, and this is what I measured,
+[00:10:42.480 --> 00:10:49.440]   and a 0.002, I'm sorry, not 0.02, just an 0.02, two parts per million, this is 30 parts per million,
+[00:10:49.440 --> 00:10:55.840]   increase in dissolved solids in the second filter, and zero parts per million detected in the third
+[00:10:55.840 --> 00:11:00.720]   container, so this kind of aligns with their study where they said, hey, we measured, right,
+[00:11:00.720 --> 00:11:05.600]   what was coming out of filter 1, and they measured that there was definitely some contaminants,
+[00:11:05.600 --> 00:11:10.800]   well, I agree, there's definitely contaminants in filter 1, so that's why you have a filter,
+[00:11:10.800 --> 00:11:15.440]   you have a filter 2 to catch anything that doesn't make it, you know, that makes a pass filter 1,
+[00:11:15.440 --> 00:11:20.480]   and by the time filter 2 gets it, you're clean, that's, this is what this showed, these are my
+[00:11:20.480 --> 00:11:26.080]   own measurements, I encourage everyone to just, you know, double check my math and redo your test,
+[00:11:26.080 --> 00:11:30.320]   this test, to just prove it to yourself if you really need it, but that's kind of what I wanted
+[00:11:30.320 --> 00:11:36.240]   to point out, I really want to point out that the safety of at least this machine that I measured,
+[00:11:36.240 --> 00:11:41.680]   the h2 genesis from h2 biohacker is completely safe, it's safe from the standpoint of leakage
+[00:11:41.680 --> 00:11:47.440]   of lie, it's safe from the standpoint of leakage of any dissolved solids specific to this paper
+[00:11:47.440 --> 00:11:51.840]   that we're talking about, which is saying, hey, metal ions are coming off of this, off the plates,
+[00:11:51.840 --> 00:11:56.720]   and they're bad for you, and it's absolutely true, they are bad for you, if you drink from the tank,
+[00:11:56.720 --> 00:12:02.240]   or you drink from the bubber, you probably would not live a long time, okay, so point is though,
+[00:12:02.240 --> 00:12:08.080]   you don't do that, nobody does that, you follow the guidelines and you're fine, that's the entire
+[00:12:08.080 --> 00:12:15.680]   point of is browns, gas, toxic, in the context of chromium, you know, seepage into the, into the
+[00:12:16.320 --> 00:12:22.640]   recirculator and into the bubbler filter, yeah, there's definitely toxicity of these areas of the
+[00:12:22.640 --> 00:12:27.280]   generator, but that's not where you drink from, that's not where you inhale from, that's the point
+[00:12:27.280 --> 00:12:31.760]   I made, and so I just wanted to say, and then I did put it, you know, I just was really worried
+[00:12:31.760 --> 00:12:36.960]   about this, because people were interpreting a pH test that someone had done, and they were
+[00:12:36.960 --> 00:12:41.280]   interpreting this study, from the standpoint of, hey, you know, there's something to worry about,
+[00:12:41.280 --> 00:12:47.120]   there's, you know, it's dangerous, and I do apologize to this one individual who posted a comment about
+[00:12:47.120 --> 00:12:52.320]   that in the spooky chat, and I jumped in, and I, with no disrespect, and I do apologize if it
+[00:12:52.320 --> 00:12:57.600]   came off wrong, but I just simply wanted to put that statement in context, when he expressed his
+[00:12:57.600 --> 00:13:01.840]   opinion that it was, you know, it was dangerous, or, I wouldn't even say he didn't use that word,
+[00:13:01.840 --> 00:13:06.080]   I'm sorry, but it's just, you know, so you should watch out for it, right, that's, you know, that
+[00:13:06.080 --> 00:13:11.040]   was his opinion, and I agree, you should watch out for it, but in context, is it, is it, is it
+[00:13:11.040 --> 00:13:17.040]   toxic? No, it's not, you don't drink that, you would never drink that, it's not toxic in this
+[00:13:17.040 --> 00:13:22.160]   context, and I did compare it to something, and I want to point out, you know, that I compared it to,
+[00:13:22.160 --> 00:13:27.760]   hey, it's not, it's not any worse, it's definitely not worse than being on the freeway, and I kind of
+[00:13:27.760 --> 00:13:32.720]   want to point out why I said that, because when I'm asthmatic, and so I'm very up to date on like,
+[00:13:32.720 --> 00:13:36.800]   what's the problems with asthmatics, and one of the things about the, if you go to the American
+[00:13:36.800 --> 00:13:42.560]   Lung Association website, they talk about how bad it is to be on the freeway, and it's basically
+[00:13:42.560 --> 00:13:48.000]   true that, you know, breathing inhalation on a brown skies generator, an H2 generator, you know,
+[00:13:48.000 --> 00:13:51.840]   if you follow the directions of the manufacturer, and you make sure that you keep your filters clean,
+[00:13:51.840 --> 00:13:58.640]   you flush regularly, right, you are actually getting, and the safety level is very high,
+[00:13:58.640 --> 00:14:03.360]   compared to, if you're driving on the freeway, you know, bottom line is, I don't know if you know
+[00:14:03.360 --> 00:14:07.760]   this, but they found, the studies have found increase in premature death from people living near
+[00:14:07.760 --> 00:14:12.880]   highways and urban roads, they found increase in heart attacks, because of all of the fumes,
+[00:14:12.880 --> 00:14:16.960]   and all of the pollution that comes off with driving on the freeway, that was my comparison,
+[00:14:16.960 --> 00:14:21.440]   and that was, again, another level of context that I'm trying to put towards this argument about
+[00:14:21.440 --> 00:14:27.200]   whether or not browns gases is toxic, and so that's what I wanted to state, so that's kind of my
+[00:14:27.200 --> 00:14:33.040]   clarification, my interpretation, welcome comments, a welcome debate, that's what telegrams for,
+[00:14:33.440 --> 00:14:38.720]   you know, in the comments in my video today, so there you go, and I want to just say thank you now,
+[00:14:38.720 --> 00:14:44.560]   okay, last thing I want to point out was that, you know, it's, this is just one study, right,
+[00:14:44.560 --> 00:14:48.960]   are there other studies out there that talk about, you know, the third bubbler, that kind of thing,
+[00:14:48.960 --> 00:14:53.600]   and I got to tell you, I went looking, and you know what, when you go to Google Scholar and you're
+[00:14:53.600 --> 00:14:58.640]   trying to find studies, and it's just, you know, it's about how many hours of time do I have,
+[00:14:58.640 --> 00:15:03.360]   and I don't have a lot, but you know, I do want to point out that I did look, I did a cursory look
+[00:15:03.360 --> 00:15:07.760]   about, you know, hydrogen production electrolysis, and I went through, and I just was reading all the
+[00:15:07.760 --> 00:15:14.240]   all the titles, and honestly, you know, without spending a lot of time, it would be very difficult,
+[00:15:14.240 --> 00:15:20.240]   so if anyone else have ever ran across a study specific to hydrogen production, and an alkaline
+[00:15:20.240 --> 00:15:24.640]   electrolysis process, please share it on telegram, and let's keep talking about this, because we're
+[00:15:24.640 --> 00:15:29.920]   all breathing in brownscasts, and it's been very beneficial to the majority of people who have done
+[00:15:29.920 --> 00:15:36.480]   it, doing, you know, with the right dosage, and it's kind of like, it's so beneficial that I just,
+[00:15:36.480 --> 00:15:40.560]   I'm a very strong proponent of it, because I've been using it myself for two years, and it's really
+[00:15:40.560 --> 00:15:45.920]   basically prevented me from ever having asthma issues, among other health benefits, so I'm really,
+[00:15:45.920 --> 00:15:50.080]   really positive about it, but if you do know of any other studies, because I tried to find them,
+[00:15:50.080 --> 00:15:56.080]   and there's all these, there are so many hydrogen studies on there, but it's approaches, you know,
+[00:15:56.080 --> 00:16:00.720]   you know, it's like, it's nearly impossible to find unless I spend, you know, a lot of hours
+[00:16:00.720 --> 00:16:04.880]   that I just don't have, you know, to find out, are there other studies that have studied this,
+[00:16:04.880 --> 00:16:09.760]   and there's other opinions about it, so I want to state that, just want to be transparent,
+[00:16:09.760 --> 00:16:15.120]   and put a disclaimer out there that no, I did not go on a massive study hunt to find, if there's
+[00:16:15.120 --> 00:16:19.120]   anything else other than this study, I'm just pointing out this one study, because that's what
+[00:16:19.120 --> 00:16:22.960]   got put onto the, onto the chat group, and the other thing I want to point out too, that yeah,
+[00:16:22.960 --> 00:16:30.320]   if you wanted to, you could take the water, right, in your filter, like, I mean, not the filter,
+[00:16:30.320 --> 00:16:33.760]   you wouldn't bother, you, we already know that there's going to be chromium in here,
+[00:16:33.760 --> 00:16:38.800]   but you could take the water right here, right, in the drinking container, that we're measuring,
+[00:16:38.800 --> 00:16:43.600]   that I'm measuring, you guys could measure yourself, I'm measuring zero parts per million of anything
+[00:16:43.600 --> 00:16:47.840]   in there, there's like nothing in there, that the my meter's picking up, right, and you could easily
+[00:16:47.840 --> 00:16:53.040]   go to tap score, it's just one, I mean, this is just random, tap score measures, you can have your
+[00:16:53.040 --> 00:16:57.680]   water tested, and they do have a hexavalent, I hope that I'm pronouncing that correctly,
+[00:16:57.680 --> 00:17:03.360]   chromium water test, so if you've got 165 dollars to blow, I don't, you can definitely send that
+[00:17:03.360 --> 00:17:10.320]   water in and go have it tested, to triple, you know, triple check, whether or not, you know,
+[00:17:10.320 --> 00:17:14.720]   is there anything in there, and I welcome people to do that, and if you got 165 dollars to blow,
+[00:17:14.720 --> 00:17:18.480]   go ahead and please test it, share the results with us, because I honestly, I just don't have
+[00:17:18.480 --> 00:17:23.680]   160 dollars to blow on this, so that's kind of where I'm at, and that's all I got to say, so you
+[00:17:23.680 --> 00:17:29.280]   know this, thank you so much for bearing with me, I hope that this is educational and helpful to you,
+[00:17:29.280 --> 00:17:35.520]   and again, you know, I apologize to the individual, and you know who you are, I meant no disrespect,
+[00:17:35.520 --> 00:17:39.520]   I just wanted to put some context around it, because I'd been thinking a lot about it since
+[00:17:39.520 --> 00:17:43.920]   that that study was put out there, and I was thinking a lot about the whole ph thing as well,
+[00:17:43.920 --> 00:17:48.640]   because I am an avid user, and it's important to my health, because I'm inhaling it myself,
+[00:17:48.640 --> 00:17:53.200]   and you know, and so that's why my brain just went, hey, you know what, what's the context,
+[00:17:53.200 --> 00:17:56.800]   and so that's kind of why I did these tests, and that's why I'm doing this video, I just really
+[00:17:56.800 --> 00:18:01.280]   wanted to share that with everybody, so thank you again for paying any attention to me,
+[00:18:01.280 --> 00:18:06.400]   if you want to know more about Brown's Gas, I have a blog, it's called the Tinkers Academy,
+[00:18:06.400 --> 00:18:10.960]   you can get there, link below, and you can get there just by typing tinkers.academy, and you are
+[00:18:10.960 --> 00:18:16.240]   all window, and it'll pop over to my blog, I do have a page on my blog dedicated to Brown's Gas,
+[00:18:16.240 --> 00:18:20.160]   I've been using Brown's Gas for well over two years, I've been studying it for well over two
+[00:18:20.160 --> 00:18:26.400]   years, I've got clinical trials on my site, I've got every study, every paper I can find
+[00:18:26.400 --> 00:18:30.640]   about Brown's Gas, there's not a lot, because the majority of the focus, as you know, has been on
+[00:18:30.640 --> 00:18:35.680]   molecular hydrogen by itself, but I found as much everything I can find, and every time I find
+[00:18:35.680 --> 00:18:41.120]   something, I post it to my page, you can find studies, clinical trials, testimonials, machine
+[00:18:41.120 --> 00:18:44.960]   specs, all that stuff, how, you know, set up specs, you name it, and some interviews that I've
+[00:18:44.960 --> 00:18:49.600]   done, so I got a lot on Brown's Gas on my blog, and I just, I'm very passionate, as you can imagine,
+[00:18:49.600 --> 00:18:55.520]   about Brown's Gas, and so if you have other studies, if you know of other studies,
+[00:18:55.520 --> 00:18:59.600]   please share them with all of us, because that's what the whole point is, is we all learn together,
+[00:19:00.160 --> 00:19:06.720]   and then if you can keep it in context, and do test yourselves, more power to us, right?
+[00:19:06.720 --> 00:19:11.520]   So thank you so much, I really appreciate you guys watching my videos, and the very kind
+[00:19:11.520 --> 00:19:16.400]   and respectful comments that you give me, and so thank you so much, and have a great night,
+[00:19:16.400 --> 00:19:20.720]   and let's just keep learning together.
+

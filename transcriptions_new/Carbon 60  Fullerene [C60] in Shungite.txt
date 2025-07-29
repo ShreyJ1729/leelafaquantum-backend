@@ -1,0 +1,407 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.720",
+        "text": " Hello everyone and welcome to another Carbon-60 video by me calmer and in this video I'd like to share with you the research that I've done in trying to determine the amount of fullerenes and or C-60 carbon-60 in a rock called shungite. It seems like all the people that sell this thing called shungite are saying that it's got C-60 in it and I would like to just share with you"
+    },
+    {
+        "start": "00:00:28.720",
+        "end": "00:00:55.200",
+        "text": "the science of whether or not it really does. So let's jump right in. The very first step in all of this is to understand the terminology. So if you don't mind I'm just going to do a little bit of terminology, a little bit of geology, and then let jump into the subject matter so that we're all on the same page. So the very first thing to understand is when you say what is fullerene, C-60 and shungite. Let's start with the first word fullerenes. Fullerenes are a carbon allotrope"
+    },
+    {
+        "start": "00:00:55.200",
+        "end": "00:01:25.120",
+        "text": "and what that means if you remember from your basic science was carbon is one of the many elements on the periodic table and when you take carbon atoms and you cluster them together in different they come out in different forms. Some of them come out in this amorphous form where they make up the poofy kind of powdery or charcoal kind of carbon and then the other carbon atoms form different structures in a crystalline as opposed to amorphous and the ones that are most popular"
+    },
+    {
+        "start": "00:01:25.120",
+        "end": "00:01:52.160",
+        "text": "the ones that you know pretty much everybody recognizes is the graphite in your pencil or the diamonds on your wife's wedding ring. And so those are the types of carbon and they're just pure carbon but it's you take those atoms those carbon atoms and you arrange them in different structures you get different allotropes okay. Now one of the allotropes which is the purpose of this video is going to talk about fullerenes which is a crystalline type of carbon allotrope."
+    },
+    {
+        "start": "00:01:52.160",
+        "end": "00:02:18.240",
+        "text": "Fullerenes also are in the same branch of of allotropes as carbon nanotubes so they come either as what is called essentially a caged molecule or I'm sorry caged molecule of carbon or a tube of carbon atoms connected together and that's what's called fullerenes or you know or essentially carbon allotropes but it's it's also a fullerene okay it's one of the carbon"
+    },
+    {
+        "start": "00:02:18.240",
+        "end": "00:02:40.560",
+        "text": "allotropes sorry okay so then what are fullerenes okay so now up to as of nowadays there's about 39 different types of fullerenes that have been identified by science in the study they're as small as c20 which is 20 carbon atoms clustered together in a form of a of a spherical or you can either"
+    },
+    {
+        "start": "00:02:40.560",
+        "end": "00:03:06.880",
+        "text": "go elliptical I'm sorry lipsoids tubes and other shapes all the way up to c720 which is 720 carbon atoms clustered together to form a little cage. Now our favorite which is the purpose of my my own entire research and everything that I'm I'm interested in is this specific carbon molecule called carbon 60 which is one of the 39 fullerenes and this is the one that's probably the studied"
+    },
+    {
+        "start": "00:03:06.880",
+        "end": "00:03:35.520",
+        "text": "the most it's got the most interesting for you know you know attributes and things like that but yeah I just want to point out and this is very important to this discussion is that there are multiple numbers of fullerenes fullerenes are one of many forms of carbon and within fullerenes themselves there are many forms of fullerenes and c60 is just but one of 39 okay and so now we ask yourself well you know what is shungite well shungite essentially is a fossilized"
+    },
+    {
+        "start": "00:03:35.520",
+        "end": "00:04:05.040",
+        "text": "organic material of the sea bottom pre cambrian sediments that have a high level of carbon and it's a rock okay and it's a rock made up of the bottom of the sea floor you know a couple billion years ago and then what makes it unique is that it's got a high level of carbon but it's also got silica and silicate mica and other trace minerals it comes in different types I'll get into that more later all the way from type one all the way to type five and these are the when you look at it it's pretty much going to look like these two different types and but it does there's"
+    },
+    {
+        "start": "00:04:05.040",
+        "end": "00:04:34.320",
+        "text": "five different types of shungite that exist and then so when you know that's when people are trying to sell it to you they you know that's what it looks like and now in terms of like how old it is and this I get I'm going off on geological nerd chip here because I'm really into this kind of stuff but you know this is a basically a timeline of planet earth and it you know scientifically stating and started about 4.6 billion years ago and then shungite right here formed about 2.0"
+    },
+    {
+        "start": "00:04:34.320",
+        "end": "00:05:02.320",
+        "text": "to 2.1 billion years ago and the protorozoa eon which is the largest eon on planet earth and so it kind of it's it's kind of cool the oceans formed after the first snowball earth and then over time basically the planet froze over again and second snowball earth and so forth dinosaurs you know sorry dinosaurs showed up etc and then the first hominids about two million years ago so you could say it was a really long time ago that this ocean existed and over the time and the you know the"
+    },
+    {
+        "start": "00:05:02.320",
+        "end": "00:05:32.160",
+        "text": "tectonic plates shifting around on the outside of the earth the crust crunching together it buried that ocean floor underneath the ground and it heated it up and pressure and so forth and it created what we now call shungite and where you find shungite is specifically right here in this area of Russia on the border of Finland and that's where that specific type of rock exists but what I want to point out by this slide and I I found this to be absolutely fascinating because I didn't"
+    },
+    {
+        "start": "00:05:32.160",
+        "end": "00:05:55.840",
+        "text": "know this it was was you know the idea of fullerenes in general right having a terrestrial and extra terrestrial origin so if that's of any interest here there's a fascinating paper that was put out by the Department of Earth Sciences at Rice University in Houston called terrestrial and extraterrestrial fullerenes and so you know if you've been in the C60 type of community for a little"
+    },
+    {
+        "start": "00:05:55.840",
+        "end": "00:06:20.640",
+        "text": "while you heard you know about a year ago some folks started saying that C60 was a technology and you know all that kind of nonsense right but you know here's a paper that just absolutely dispels any concept of the fact you know that C60 was created I mean it exists on our planet there's 17 identified locations on planet earth that fullerenes exist in nature and of course fullerenes exist"
+    },
+    {
+        "start": "00:06:20.640",
+        "end": "00:06:46.400",
+        "text": "in the universe and space and so but we're talking about just the one the one right here in the area which is called Karelia Russia and so when you take a closer look at that area of Russia like I said it's on the border of Finland between the white sea and the Gulf of Finland and at the northern border of a lake called the Lake Onaga okay it's about 60 kilometers north east of St. Petersburg so"
+    },
+    {
+        "start": "00:06:46.400",
+        "end": "00:07:13.440",
+        "text": "that's right there that little red dot that is the shungite field from a mindless we talk about geological mining terminology this is their field this is a substrate a map of that field and this I got all this from geology type of documentation but it's specifically oh by the way if you don't if you're not familiar with my videos I link everything so you can do all your own research so trust me just read yourself all in the video description there's links to all of these papers"
+    },
+    {
+        "start": "00:07:13.440",
+        "end": "00:07:40.240",
+        "text": "okay so knock yourself out I highly recommend people do their own research learn for yourself know what the truth is so forth so anyway so here's a substrate a map of Lake Onaga the northern shore of Lake Onaga by the bay of Provenenski and here's the town of Shunga which is what shungite was named after and then I highlighted these other two all of these little words here which I can't pronounce are all other mines that are mining this giant field of shungite"
+    },
+    {
+        "start": "00:07:40.240",
+        "end": "00:08:06.720",
+        "text": "underneath the ground and you know in the in the in this paper it talks about this field right here holds about two or 20 million tons of shungite is is mineable in this area and right now all of these different Russian mines are pulling out about 200,000 tons a year of shungite and they use it for all sorts of different industry types of purposes and different materials and paints and"
+    },
+    {
+        "start": "00:08:06.720",
+        "end": "00:08:35.680",
+        "text": "and you name it so it is a pretty valuable rock and that they're able to exploit economically and it's it makes up a big deal of the economy in this area so it's a it's a pretty you know it's shungite by itself is a pretty interesting thing I don't want to go too deep into that but it's it's it's it's really interesting to read about but so now these other two mines that I highlight right here the conda paga pogab sorry and the zag hogno pogino mines are two of ones"
+    },
+    {
+        "start": "00:08:35.680",
+        "end": "00:09:01.120",
+        "text": "that are mentioned in the literature about fullerene so I just wanted to highlight so you can have a visual idea of where shunga is at the northern end of lake onaga and where the mines are where people took samples of cc I'm sorry samples of shungite to measure the amount and or detection of fullerenes in these mines so this is where it came from this mine here and this mine here or where the samples came from which is interesting because there hasn't been any I couldn't find papers about"
+    },
+    {
+        "start": "00:09:01.120",
+        "end": "00:09:28.560",
+        "text": "that had samples from any other mine other than these two mines and and generally you know in general the charelia area so as I mentioned earlier shungite in the literature is considered highly heterogeneous and so what that means is it has more than one phase as it's forming so unlike so there's a difference between a carbon allotrope and a heterogeneous you know element of a"
+    },
+    {
+        "start": "00:09:28.560",
+        "end": "00:09:56.480",
+        "text": "specific type of rocket and what this means particularly is that you can find shungite in five different types and the types have been classified based on the amount of carbon that that type contains okay so that's type one all the way to type five so if you have if the rock has less than or the shungite rock has less than 10 percent carbon it's considered a type five or if it has more than 75 percent carbon it's considered type one and so that's your concept here if it's really"
+    },
+    {
+        "start": "00:09:56.480",
+        "end": "00:10:26.080",
+        "text": "low in carbon it looks like this but more carbon it has it actually gets quite crystalline looking and very shiny and so that's what that means so that so this is actually kind of important because when scientists start looking at different shungite then it's real important like okay well what type of shungite were you looking at to see if the fullerenes existed which begs the question you know are there fullerenes and all of the different types or just one or two types or and so forth and so what's interesting was that the literature does come out and say that they"
+    },
+    {
+        "start": "00:10:26.080",
+        "end": "00:10:50.880",
+        "text": "found fullerenes in type one two and three so there is you know fullerenes in these that have been detected and so now let's get into the actual reference papers and so I want to point out something I think it's very important is you know after literally a couple of weeks of just some concerted effort I have a day job so concerted effort outside of the day job and on weekends where I'm pulling up papers and researching and reading a lot I found 21 separate papers on the concept"
+    },
+    {
+        "start": "00:10:50.880",
+        "end": "00:11:17.040",
+        "text": "and I read them all and I just kind of narrowed it down to there's only five out of 21 papers that really talked about the presence of fullerenes and even more more important which is why what I am very interested in was the presence of C60 the one out of 39 right of the fullerenes you know how much of that was in there not just that there was fullerenes but so the fullerenes in Shanghai it kind of narrowed down to five papers and the origins of these five papers come"
+    },
+    {
+        "start": "00:11:17.040",
+        "end": "00:11:45.680",
+        "text": "from the International Journal of Advanced Scientific and Technical Research and Geological Society of America National Geophysical Research Institute in India and the Indian Institute of Chemical Technology and also to the St. Petersburg State University in St. Petersburg so there was five out of 21 papers that actually even gave me or anyone a glimpse of the concept of fullerenes in Shungite and so here are the basically the results that I extracted from those papers"
+    },
+    {
+        "start": "00:11:45.680",
+        "end": "00:12:11.840",
+        "text": "though there are links to all of those papers you know everyone is welcome full transparency I'm not trying to disrupt the Shungite market or anything but I want to just be really really transparent very clear and very honest scientifically accurate about this okay and the reason why it's important is you'll see at the end of the video so the very first paper and you know I did number them so they're numbered right here so I don't go you know it's just there's not enough room on the"
+    },
+    {
+        "start": "00:12:11.840",
+        "end": "00:12:40.800",
+        "text": "on the slide to put the name of the paper so paper one they went to the zag, oh no I'm sorry I just can't pronounce that ah if you're Russian I apologize okay so they looked at type three Shungite and the results were and it was right there in the paper that they did detect that were fullerenes content in their sample and it was anywhere from 0.01 to 0.0001 percent"
+    },
+    {
+        "start": "00:12:40.800",
+        "end": "00:13:08.800",
+        "text": "of the sample and they looked at it through a transmission electron microscope and they were able to detect that the size of the particulates of fullerenes were anywhere between 10 and 30 nanometers in size and that's sort of important because if you know your science that you'll know that C60 molecule is approximately one nanometer in size but you know right that it does cluster"
+    },
+    {
+        "start": "00:13:08.800",
+        "end": "00:13:38.320",
+        "text": "together in crystals or clusters that could be anywhere from 10 to 300 or bigger I mean way bit way way bigger where you can literally see it with the naked eye you cannot see one molecule C60 without an electron microscope but you can see clusters of them in the hundreds and hundreds of nanometers but but so this is this size is the fullerenes okay and and so they so paper number one is they discovered or the end they detected that hey there's fullerenes in here they did not"
+    },
+    {
+        "start": "00:13:38.320",
+        "end": "00:14:06.160",
+        "text": "look for C60 they just said there are fullerenes so they don't you don't you don't know how many of the 39 or which ones of the 39 you just know that there were fullerenes in that sample their paper number two did not specify which exact mind they basically said they took type 2 changai based on the description of the carbon content from the area of chorilla and they studied it and this second paper I mean was from the geological society of America okay and they went and said"
+    },
+    {
+        "start": "00:14:06.160",
+        "end": "00:14:30.960",
+        "text": "we find this is right out of the paper we find no evidence of fullerenes in changai sample from various locations all right and so they didn't find anything the third one was the mine in condo paga sorry condo poga which I think is how you pronounce it they studied type one and two and another study was type one the first one was out of 12 chorilla and changai samples we found"
+    },
+    {
+        "start": "00:14:30.960",
+        "end": "00:14:54.960",
+        "text": "fullerenes in only three samples of all of which were bright changai of glassy nature which is obviously type one so they looked at type one and two and they only found three out of 12 and of course all three were found in type one and then the same individuals that did that study also mentioned in another study that were they studied for c60 and this is what was interesting"
+    },
+    {
+        "start": "00:14:54.960",
+        "end": "00:15:19.600",
+        "text": "these the gentlemen that did this this was actually this paper here number three was a response to this paper here so they put out somebody put out this paper these guys wrote a response and then they did their own study when they did their own study now they actually went looking for c60 and this is the only paper I could find that even actually tested for c60 and it was just the one and"
+    },
+    {
+        "start": "00:15:19.600",
+        "end": "00:15:45.600",
+        "text": "basically their response their their results were that then and they state state this in their paper the mass spectrum of the carbonaceous material from changai samples shows peaks corresponding to c60 and then they also took the the material which is the crushed changai right and they dissolved it in benzene and they used a magnetic renaissance spectrum and it exhibited a clear peak at 143.2"
+    },
+    {
+        "start": "00:15:45.600",
+        "end": "00:16:10.720",
+        "text": "parts per million corresponding to the full right c60 structure now because it was the only one that even got close to even trying to identify so I I pulled it out of the paper I just wanted you to see what their graphite you know their their graphics showed this is out of paper number four and this is just the you know basically condopogifying acrelia and they ran it through the"
+    },
+    {
+        "start": "00:16:10.720",
+        "end": "00:16:35.440",
+        "text": "mass spec of the electron ionization mass spec okay and they did find fullerenes and they were able to identify and this is what's critical and this is this is what's really cool is that they detected actually detected c60 you know one of the 39 fullerenes they actually detected it because they went looking for it and that 720 mole and that's the weight of a c60 molecule so when they saw"
+    },
+    {
+        "start": "00:16:35.440",
+        "end": "00:17:04.320",
+        "text": "that they confirmed that it existed in natural fullerenes okay and so and then again they went they melted it I'm sorry they dissolved it in benzene and they measured the parts per million of the of the sample in benzene and they came out with this number and this number is a corresponding to fullerenes c60 structure so I want to stop for a second here and I noted this I just highlighted this word here natural fulleren the fullerenes c60 structure that does not mean that it is c60"
+    },
+    {
+        "start": "00:17:04.320",
+        "end": "00:17:30.880",
+        "text": "it means fullerenes is another word for saying fullerenes or when you have a sample of a you know carbon sample and there are multiple different types of fullerenes in the sample that sample is called fullerenes okay and so is they were testing fullerenes they were testing a mass of fullerenes and they detected c60 in one of those samples so that's fascinating and so that was paper number"
+    },
+    {
+        "start": "00:17:30.880",
+        "end": "00:17:56.400",
+        "text": "four so you know so now we've got some confirmations of there is they've detected fullerenes they've detected c60 but then there's other papers here right at the same time saying that they didn't and then I've actually read other papers where they looked at my like meteorites and one group of scientists said yeah there's fullerenes on this meteorite and another group of scientists looked at the same you know of you know area and they pulled out their samples and they said there's no you know that there's no fullerenes on that meteorite so"
+    },
+    {
+        "start": "00:17:56.400",
+        "end": "00:18:20.960",
+        "text": "it's a huge depends it really depends on what area what type of shungite and so forth or what mine you know whether or not you know the scientists found fullerenes so it's a big depends it's not one it's not every single time you're gonna find fullerenes that's that's pretty much it now the fifth paper they didn't even study a sample it just was a bunch of really super smart guys using"
+    },
+    {
+        "start": "00:18:20.960",
+        "end": "00:18:48.720",
+        "text": "quantum chemical calculations and based on how atoms and carbon behave and within the confines of the other atoms and different molecules within shungite they calculated whether or not c60 could exist in its its a very interesting paper and it's a lot of math but basically they come out in their conclusion and they state a collective character of the self-organization of carbon"
+    },
+    {
+        "start": "00:18:48.720",
+        "end": "00:19:12.320",
+        "text": "molecules into aromatic structure is indicated by coinciding energies of formation of c60 molecules you know and basically they said yeah it's you know it's possible and based on the math and the only reason I include that is because I couldn't find any more than this this was all I could find that would even talk about whether or not it really is in there or not in there in their meanings"
+    },
+    {
+        "start": "00:19:12.320",
+        "end": "00:19:41.840",
+        "text": "fullerenes and or c60 in a rock called shungite so let's talk about that for a second so this is what I learned number one was that you know all studies focused on the presence of fullerenes not c60 and that is such a very important point to me they went looking and they said hey we found some of these but they didn't say how many of this how much it weighed what percent of the sample was just this but as we found an existence or the presence of all of the you know"
+    },
+    {
+        "start": "00:19:41.840",
+        "end": "00:20:10.240",
+        "text": "quote they found fullerenes they did not get into finding c60 except for that one paper and that one paper I want to say right here that it was only detected it was not measured they did not quantify you know like what percent of every sungite you see in the world is going to have six no they just detected it and they primarily detect and scientists primarily detected see our fullerenes in type one there's that one other one that detected you know fullerenes in type"
+    },
+    {
+        "start": "00:20:10.240",
+        "end": "00:20:39.520",
+        "text": "three but primarily all if you read them all they primarily found it in type one not all of them so it really really really depends what type of shungite we're talking about when you talk about fullerenes and you talk about c60 but again the presence of fullerenes does not mean you know that's 39 different kinds it does not mean that there's a presence of c60 there there's no quantifiable statement and c60 was not found it was detected which is a big difference right"
+    },
+    {
+        "start": "00:20:40.320",
+        "end": "00:21:08.720",
+        "text": "and then also too you know they just want to point out again that I was unable and I read a lot of stuff and I you know obviously there's probably way way more out there yeah I only have so much time that's why this is I want to quantify my conclusion by saying that I was just unable to find any study that measured the quantity of specifically c60 in a sample of shungite and if you find one I would love to read it so if you find one you know about a study like that please"
+    },
+    {
+        "start": "00:21:08.720",
+        "end": "00:21:36.560",
+        "text": "let me know I would love to read that and then do a follow-up to this video okay so you know that's just how that's as far as I could go with this and then lastly of the one paper which is the paper right here that basically measured the actual percentage of fullerenes which is the paper here from the international journal of advancing scientific and technical research where they actually measured the amount this is what's so important right it means like it's one thing to say oh I detected something but it's"
+    },
+    {
+        "start": "00:21:36.560",
+        "end": "00:22:03.440",
+        "text": "another thing to say I actually measured the amount in the sample and their measurement stated that there was one gram of shungite powder inside of one gram of shungite powder and had an estimated 0.01 percent to 0.001 percent which is like if you looked at it as a gram it's like 0.001 or never mind I'm just going off on a test sorry okay of okay this was important though"
+    },
+    {
+        "start": "00:22:04.160",
+        "end": "00:22:27.040",
+        "text": "of fullerene content not C60 content fullerene so if it's 0.01 let's just be you know let's say from the the guys who are trying to sell all this stuff to everybody okay let's just be really generous to you and say okay you're right there is C60 detected but it's but it's 0.01 percent so"
+    },
+    {
+        "start": "00:22:27.040",
+        "end": "00:22:53.840",
+        "text": "you know that a percent is 0.01 right so if it's 0.01 percent it's 0.001 right grams per whatever right of fullerene but here's the thing it's a fullerene content there's 39 different fullerenes there's no mention in that paper that well how much of it was this so let's say okay you know we could you know I don't want to actually I don't even want to speculate how many of these were there"
+    },
+    {
+        "start": "00:22:53.840",
+        "end": "00:23:22.880",
+        "text": "they measured that there was fullerenes but there's no idea of how much was of of that was C60 you know that there's 39 fullerenes so it could be 139th of 0.001 grams you know that kind of thing so I just want to conclude this video by stating all right let's be scientifically honest and let's take this number and say if it's fullerenes then we know that C60 is a fraction of the fullerene content"
+    },
+    {
+        "start": "00:23:22.880",
+        "end": "00:23:51.680",
+        "text": "right if you have fullerenes you have a fraction of that so a fraction of this number you take it to the you know how far down these zeros do you have and let's round up and let's answer the question but before I do that I just forgot I wanted to mention something you know a couple of weeks ago I was on Facebook and I was kind of interacting with an individual who was talking about C60 in his shung-out water and I kind of just pointed out I shared a paper with him that said you know C60"
+    },
+    {
+        "start": "00:23:51.680",
+        "end": "00:24:15.520",
+        "text": "doesn't exist in water and it's not really healthy for you and then Chris Burris jumped in as a fascinating Chris Burris if you don't know who he is he's one of the founders of SES research this guy they they started their company in 1991 and they actually worked with the graduate students who were were basically working under smalley and kroto were the scientists who discovered"
+    },
+    {
+        "start": "00:24:15.520",
+        "end": "00:24:42.320",
+        "text": "C60 in 86 and had gotten the Nobel Science Prize in 1996 for their discovery these are Nobel-winning scientists and the graduate students that helped them with that discovery Chris Burris worked with those individuals and when they first decided to commercialize the production of C60 for the academics that would then start studying it and then further on into developing it for for"
+    },
+    {
+        "start": "00:24:42.320",
+        "end": "00:25:06.480",
+        "text": "commercialization and industry and so Chris Burris goes way back he's a 660 scientist times you know a thousand right and so he jumps in on this conversation which was amazing to me and he goes and he tells this guy right he goes hey shung-out was proven to not contain C60 by Dr. Smalley's group now Dr. Smalley was the guy who was one of the three scientists who got a Nobel Prize in science"
+    },
+    {
+        "start": "00:25:06.480",
+        "end": "00:25:32.720",
+        "text": "for their discovery of C60 and he goes on to say you know this is this is this is yeah you know this is from the source right if my memory serves me correctly and we're all hoping that you know Chris takes a lot of C60 so he's probably proud of pretty sharp memory but if his memory serves me correctly they tested samples on three separate occasions samples of shung-ai this is what we were talking about because they really hoped there was C60 in shung-ai and and they didn't find any"
+    },
+    {
+        "start": "00:25:32.720",
+        "end": "00:26:01.280",
+        "text": "that there was proven not to contain so Smalley's own group the people who discovered C60 went looking for C60 in shung-ai they didn't do a paper on it it's just this story that came out of the lab and they did not find any okay that's that's remarkable I mean I wish I could have you know they would wrote this down and I could add it to this but I've got it like a witness here that basically said hey they they couldn't find it and so so now I'm gonna get back to this right here so"
+    },
+    {
+        "start": "00:26:02.160",
+        "end": "00:26:31.040",
+        "text": "if there's point of there's a estimated 0.01 percent of fullerenes and there's an estimated within every batch of fullerenes or you know fullerenes there's you might have one out of 39 different types so let's just be generous and say okay it's you know point of this number it's a fraction of that number and science what do you do in science well you round up right you can't you know you want to be scientifically accurate and so the definition of scientifically accurate is as"
+    },
+    {
+        "start": "00:26:31.040",
+        "end": "00:27:00.640",
+        "text": "well how many decimal points do you want to round up to to just basically state whether or not something isn't is exists in a sample or not and so I'm going to say hey well you know let's just I'm going to be out there and just speculate if it's a fraction of this 0.01 you add a few more zeroes because you don't know what were the contents of the fullerenes and there was some C60 in there but if it was more like this we'll just take this in let's say if it's this number right here okay it's that this is the amount of the you know let's just guess that of the fullerenes"
+    },
+    {
+        "start": "00:27:00.640",
+        "end": "00:27:28.720",
+        "text": "there was some C60 and at the end of the day there's this much C60 0.001 all right so then what do you do when you publish your paper well most people will then round up you round up the number to give you the number that you're going to want to claim in your paper that says this is how much of this stuff is in this other stuff right so here you go this is my conclusion for discussion okay as of what I know today with all the material that I've read up to now okay so I do reserve the right"
+    },
+    {
+        "start": "00:27:28.720",
+        "end": "00:27:57.280",
+        "text": "to change my my conclusion with more data but the question that I want to answer here for everybody based on everything that I've just conveyed to you and all the material that I've linked to that you can look at yourself is there C60 in shungite and I will say that there is approximately 0.00 percent C60 in shungite and that is a scientifically accurate statement based on the material in the"
+    },
+    {
+        "start": "00:27:57.280",
+        "end": "00:28:26.640",
+        "text": "science literature for this topic and there you go that's the answer there is none uh at least there is 0.00 all right so that's it so that's the conclusion and I would love to be proven wrong but there that's all I can find and then that you know that anyone has ever proven all right so so now one other thing I do want to get into before I close up and I just want to talk about shungite water a little bit because over here you know you see right here at the very end of"
+    },
+    {
+        "start": "00:28:26.640",
+        "end": "00:28:55.040",
+        "text": "of Chris's post he also says additionally C60 is not water soluble because this gentleman was convinced that when he put shungite in water that he was drinking C60 water right and so Chris is you know being Chris and he's trying to help the guy additionally C60 is not water soluble so you can put Piers C60 crystals in water and you will not transform that body of water instantly"
+    },
+    {
+        "start": "00:28:55.040",
+        "end": "00:29:23.360",
+        "text": "into C60 fullerenes in other words you put it in water even if you have Piers C60 you put it in water it's not going to do you any good all right because it's not water soluble so now I went looking for some literature on the subject I want to add it to the end of the video and I just want to share so here are two studies on C60 I'm sorry shungite water okay one from St. Petersburg State University in Russia St. Petersburg Russia and another Russian paper from the"
+    },
+    {
+        "start": "00:29:23.360",
+        "end": "00:29:51.520",
+        "text": "Institute of Geology and the Corellian Research Center so these are two Russian scientific papers from Russia about one is about the chemical composition of extracts from shungite and shungite water and the extraction of fullerenes from shungite carbon by water containing solvents all right so when you have when you put shungite in water are you drinking C60 water well okay that answers that but okay let's just get into it a little bit more okay all right so let's take a"
+    },
+    {
+        "start": "00:29:51.520",
+        "end": "00:30:20.240",
+        "text": "look at these two papers and you'll know why I'm telling you this the first one St. Petersburg State University this is right out of the paper go look it up there's a link below the interaction of ground shungite with water gives a solution with rather high concentrations of a number of micro elements including heavy metals the concentrations of micro components and aqueous extracts from shungite three are rather high and frequency and frequently exceed the maximum"
+    },
+    {
+        "start": "00:30:20.240",
+        "end": "00:30:48.240",
+        "text": "permissible concentrations for potable and household water this is Russian these are the Russians telling the other Russians don't drink this stuff okay it's not even it's it's beyond the acceptable limits for health and you know this is what's important about this and let me jump into this one before I get into that from the Institute of Geology Corellian Research Center comparative analysis of extracts obtained in shungite carbon that's what that's what this"
+    },
+    {
+        "start": "00:30:48.240",
+        "end": "00:31:18.160",
+        "text": "symbol means and C60 FWS which means a donor acceptor complex is a fullerenan water so that's fullerenan water fullerenes now C60 fullerenes which I don't you know I don't even know what that really means but fullerenes and N60 maybe lead to a supposition that fullerenes and shungite carbon are presented mainly in the form of chemical derivatives and strong molecular complexes"
+    },
+    {
+        "start": "00:31:18.160",
+        "end": "00:31:45.680",
+        "text": "all right so translation it's a chemical derivative of a C60 fulleren and what that means is it's not just C60 it's C60 with other atoms attached to it like oxygen hydrogen silica and it changes it once you add any add you add an extra atom to C60 of something else it's not C60 anymore it's something else okay so these guys are saying that when you put it in water and we tested it you"
+    },
+    {
+        "start": "00:31:45.680",
+        "end": "00:32:10.080",
+        "text": "there is you don't get pure C60 it will like he's basically saying this right here in very simple ways it's not going to become C60 water it doesn't it becomes something else like you know polyhydroxylated or you know that kind of stuff it gets off into all these different other molecules but they're not molecules of C60 which is my point now this is my last point on this thing as I mentioned earlier"
+    },
+    {
+        "start": "00:32:10.080",
+        "end": "00:32:37.200",
+        "text": "that the karelian region pumps out you know 200,000 tons of this stuff a year it is the basis of their economy in that region it is a big deal that they have a lot of economy a lot of money a lot of people's working lives at stake about whether or not C60 sorry shungite is you know is a valuable rock and used in industry and it is okay so there's a huge economic incentive right to promote this"
+    },
+    {
+        "start": "00:32:37.200",
+        "end": "00:33:07.200",
+        "text": "thing so that the world wants to buy more right you know I mean that's just clear right it's it's we're let's all be adults this is you know sometimes science does not necessarily I represent the best interest of science when money is involved right especially at the at that level so what's comes is really shocking to me is that there's two Russian papers that basically say not good doesn't have it you know doesn't have C60 and don't drink it okay and that's what was really surprising what these these are Russian papers these are Russian and St. Petersburg University"
+    },
+    {
+        "start": "00:33:07.200",
+        "end": "00:33:36.720",
+        "text": "is highly renowned you know so so there you go if the Russians themselves are saying that shungite water is not not good and especially not good but not not healthy for you I just want to really point that out for all of you guys who believe that C60 is or the shungite has C60 in it and for all of you that believe that drinking shungite water is healthy for you the Russians themselves are telling you that it's not so I also just I really just please exercise caution"
+    },
+    {
+        "start": "00:33:36.720",
+        "end": "00:34:02.240",
+        "text": "because you know we're all in this together and uh the science says you know this is probably not a good idea all right shungite water or believing anybody that says this load of BS right here which is and this is please exercise caution if if anything in my research that's more alarming to me than anything else was I went on eBay I typed in the words C60 shungite and this kind of BS"
+    },
+    {
+        "start": "00:34:02.240",
+        "end": "00:34:28.160",
+        "text": "showed up this guy here selling C60 for that literally C60 for olive oil or olive coconut oil genuine high quality natural fluorine okay that couldn't be a bigger load of BS based on what I just told you and all of the science material on the subject this one here shungite powder Corellian stone full-range C60 pure powder C60 pure powder oh really oh really did we not read"
+    },
+    {
+        "start": "00:34:28.160",
+        "end": "00:34:57.680",
+        "text": "the paper so you know this is a absolute false advertising scam people are buying this crap probably adding it to oil and poisoning themselves with what heavy metals so um please don't do that I just it just I just feel bad when I think that people are actually doing that so it's it's it's alarming to me so anyway I just you know that's that so please exercise caution"
+    },
+    {
+        "start": "00:34:57.680",
+        "end": "00:35:27.040",
+        "text": "um and I just one last thing I went looking at this one this guy has a website and he claims that he has a patent you know and he claims that he's got a safety data sheet on on this product so you know I looked at the patent and the patent has nothing to do with C60 it's a patent for grinding shungite stone into powder and looked at a safety data sheet on his website it was a safety data sheet for the use of shungite as a um as an additive to mattress linings for"
+    },
+    {
+        "start": "00:35:27.040",
+        "end": "00:35:52.240",
+        "text": "beds it had nothing to do with safety for you know for ingestion it was just complete BS so yeah you know um yeah enough on that I'm sorry I went on a tangent but it's personal to me you know I don't want you guys see anyone I anyone of you guys get sick so that's it here's the answer there's approximately 0.00 percent C60 shungite an absolutely accurate scientific statement thank"
+    },
+    {
+        "start": "00:35:52.240",
+        "end": "00:36:19.200",
+        "text": "you thank you for staying with me on this video and learning with me as I go along in my journey to know more about C60 um I hope that this put this to rest I hope you guys can link it to your friends who who may who think that who think the opposite don't fall for the marketing hyperbowl it's just that it's the truth is is the truth okay it's it's the zero zero zero zero"
+    },
+    {
+        "start": "00:36:19.200",
+        "end": "00:36:33.840",
+        "text": "so thank you for your time it is valuable and I do appreciate it very much thank you for your kind comments I hope you have a great week and just you know aloha have a great day bye"
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.840",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me, Camar, and in this video I'd like to share with you just a little bit of research that I did with C60 examined under a microscope. After my solvent free video I had some nagging questions in my head and I decided to go out get a microscope, a fairly inexpensive one, and then take a look at some different C60 samples to see what I could see."
+    },
+    {
+        "start": "00:00:27.840",
+        "end": "00:00:54.720",
+        "text": "So let's just jump in. The first thing I really want to make a point about, especially in this video is where I'm coming from, okay, and so I just want to make sure everyone who watches this, you've got to know that I don't make or sell any C60 products, I don't endorse any products, I'm going to be 100% transparent with you because I want you to be very clear that I am coming"
+    },
+    {
+        "start": "00:00:54.720",
+        "end": "00:01:21.880",
+        "text": "from a position where I don't make or sell this, I don't endorse it, I don't represent it in any way, I don't have a stake in anybody's company, I'm just an independent armchair scientist type of person, I just really enjoy science, C60 has been something on my area of focus and interest for quite some time, and I don't get paid for this, so because what's going to come out of this video is going to be pretty interesting."
+    },
+    {
+        "start": "00:01:21.880",
+        "end": "00:01:49.520",
+        "text": "So anyway, I want to be really clear, I'm being very transparent in this video, I don't mean to rock the boat on anybody's stuff, I just want to be, just share, I'm just sharing what I'm learning and that's what I've been trying to do since my very first video was I wanted to learn more about C60 and I wanted to share it with everybody along the way. So that's this video and it's just a little alarming what I found."
+    },
+    {
+        "start": "00:01:49.520",
+        "end": "00:02:17.880",
+        "text": "Okay, so now this material is for research purposes only, any statements that I make are my personal opinion and is not to be construed as absolute fact because everyone should do their own research. So I'm going to tell you everything I did, be extremely transparent, hopefully I don't ruffle any feathers and everyone is completely free to repeat what I'm doing here, look"
+    },
+    {
+        "start": "00:02:17.880",
+        "end": "00:02:46.320",
+        "text": "for yourself, come up with your own opinions, it's not that expensive to do and go from there all right. So I just want to say that this is just transparent, it's what I saw, I'm going to share it with you and then we can come in our own conclusions all right. So this is actually a follow up to the video I made called Solvent Free and so in that video I'm just going to go real quick, you can take a look at it, of course all the links in"
+    },
+    {
+        "start": "00:02:46.320",
+        "end": "00:03:15.760",
+        "text": "the video description below. So the whole idea is you know, is C60 Solvent Free and so in that video I just want to go real quick, I covered the issue on how is C60 synthesizers three different general ways and then when you run it through these things it produces a soot, okay and it's called full luring soot, it's also referred to as full right, then the people who make C60 then you"
+    },
+    {
+        "start": "00:03:15.760",
+        "end": "00:03:42.720",
+        "text": "have to you know there's a bunch of you know different types of carbon in that soot and they have to extract out you know the C60 from all the different C70, C84 etcetera and so there's all this stuff in there and it's just a big pile of soot and how do you get that one specific thing that you want which is your C60, you know obviously if you're going to try to get it out so there's two methods to get the C60 out of the soot and"
+    },
+    {
+        "start": "00:03:42.720",
+        "end": "00:04:11.480",
+        "text": "it could be anywhere you know like 1% of the soot could be C60, I've seen it as high as 13% so there's you know there is C60 in this pile of soot after you go through this process and then the methods that they use to get it out or to extract it from the soot is they uses a process called the solvent method and that's literally almost everyone uses this method and by using the solvent method they basically mix it with a solvent,"
+    },
+    {
+        "start": "00:04:11.480",
+        "end": "00:04:40.840",
+        "text": "benzene, toluene basically paint thinner you know kind of it smells like paint thinner and then that's what they use and they mix it together they heat it up and so forth and then there's this other extremely rare way which is called sublimation where they just pack it in the bottom of a tube and then they just heat it up I mean heat it up really hot and as the as the actual carbon just literally vaporizes it goes down the tube it cools off and depending on where in the tube it cools off that's where it collects based on the"
+    },
+    {
+        "start": "00:04:40.840",
+        "end": "00:05:08.040",
+        "text": "molecular dynamics of carbon so anyway I'm going to focus on this puppy right here because this right here the solvent method is the primary method by which C60 is extracted from fullerene soot slash fulle right okay so now using the solvent method they mix it with a chemical and depending on what carbon allotrope or you know what form of carbon C60 is a form"
+    },
+    {
+        "start": "00:05:08.040",
+        "end": "00:05:36.940",
+        "text": "of carbon called allotrope you know depending on what it'll turn different colors okay but it's the same like you know this is all the same solvent and it's just the different colors that it comes out based on on how they extract it so they know that hey if it's purple it's the C60's in there if they turns red they know that it's C70 and all of this is basically high performance liquid chromatography and that's how they basically you know extract"
+    },
+    {
+        "start": "00:05:36.940",
+        "end": "00:06:04.660",
+        "text": "it out they put it in a solvent it changes different colors and then they separate the different colors okay and so then they take all the purple and put it in one vat and all the red one and and so forth as they're able to they are able to basically divide it up by color so then the very last step really is how do you make it solvent free because you know obviously you've got this thing and you want to hopefully sell it to people who are going to put it in oil and drink it so oh my gosh you got to get the solvent"
+    },
+    {
+        "start": "00:06:04.660",
+        "end": "00:06:34.460",
+        "text": "out right so the steps there are pretty simple it's you take the C60 solvent mixture I mean you take this stuff right now you can't you can't use the C60 in this manner so then they heated up really hot only and you know until a powder remains so just try to imagine they boil it off basically and evaporates you know the solvent the paint thinner it's called toluene and then they take that powder off the bottom you know that's all that's"
+    },
+    {
+        "start": "00:06:34.460",
+        "end": "00:07:03.640",
+        "text": "left over after the solvent evaporates off they take the powder they wash it in ether which is less of a toxic chemical than the paint thinner obviously and then they take that ether mixture so now think about it right they've got C60 in a and it's been soaked in ether then they take that C60 ether mixture and they bake it in a in a vacuum oven you know and so because it's a vacuum you know it and it extracts out all you know anything"
+    },
+    {
+        "start": "00:07:03.640",
+        "end": "00:07:28.080",
+        "text": "that's going to come that's going to come out of that as you heat it up so and then they just bake it and they bake it really hot up to 450 500 degrees centigrade and it basically when they go to test it when they're done they don't see any solvents left over and then they declare it you know quote solvent free so now the the point of the last video"
+    },
+    {
+        "start": "00:07:28.080",
+        "end": "00:07:57.000",
+        "text": "on solvent free was that I had discovered a run across a weird word I run across a couple of of studies that basically went and studied the C60 powder that is produced by these manufacturers and one of the studies came out of a book called physics and chemistry of fullerenes and derivatives it's on the internet you go to page 48 and read this study and the basis of that study was simply that hey you know that this one group of scientists took a commercially"
+    },
+    {
+        "start": "00:07:57.000",
+        "end": "00:08:24.360",
+        "text": "available C60 powder that people are using in oils right at the time that they did it was it was a long time ago so you know at that time what was being produced is what they studied I want to be clear about that in today's time maybe ten years later I am not aware and I don't think anyone could claim that they're actually you know extracting it differently it's the same process to get it out of the set this using solvents has"
+    },
+    {
+        "start": "00:08:24.360",
+        "end": "00:08:50.200",
+        "text": "continually been the same process but if I am wrong then you know by all means right please correct me but the process that they use to create a commercial product back in the day that they did this study maybe ten years or so ago they bought commercial C60 they put it in an oven and they baked it up and this is your vacuum oven process right here and so as they baked it they took pictures of it they were there examining it with all"
+    },
+    {
+        "start": "00:08:50.200",
+        "end": "00:09:18.540",
+        "text": "the different tools they had and then you know under 300 degrees you know they didn't see any any sign of toil and then what happened was was after they got past the point that the vacuum oven process would have covered so as they're doing this okay these guys then you know they do their thing they stopped they look at and they go hey nothing's there well they collaborated they you know a collaborator no sorry cooperated that statement basically by saying hey yeah we don't see nothing right here you know we don't see it either so"
+    },
+    {
+        "start": "00:09:18.540",
+        "end": "00:09:47.160",
+        "text": "hey everyone's good to go they package up and sell it okay but then what they did was they kept heating it though to see what would happen and so after it got past 500 and right around in here around right at the point where these vacuum oven processes stopped and if you just keep going then that's when these scientists had discovered that there was toiline in the C60 and there was also benzene in it and that these substances were present present"
+    },
+    {
+        "start": "00:09:47.160",
+        "end": "00:10:16.120",
+        "text": "in the the sample and they peaked around 600 for toiline around 700 for and benzene and so forth and then after 650 you know the C60 changed into a form that became insoluble and useless so what was interesting about this was that they kind of found out that this process works only if you live in this world but if you keep heating it you didn't get it all out because you didn't keep heating it and so you really should be heating it"
+    },
+    {
+        "start": "00:10:16.120",
+        "end": "00:10:43.240",
+        "text": "up to 650 I'm not sure if people are doing that today but since the study came out but what this study did prove is that doing all of this does not get the solvents out and there is a such a thing as residual solvents and that was just that one study on that one sample 10 plus years ago and so I just want to make sure everyone's level said that it was just you know you know that was a study if a scientist finds something that doesn't"
+    },
+    {
+        "start": "00:10:43.240",
+        "end": "00:11:10.960",
+        "text": "mean that it's that's the answer to you know that's the the situation across the entire enterprise you know and across the entire industry it's just that one sample that one scientist group so then I you know I like I said I ran across a second study and this one was done 10 years ago right 1990 actually 20 years ago and this was done by the American Chemical Society at the same time roughly at the same time that other one was done I think the other one was on like 2006 maybe but anyway it was a while ago and so this study"
+    },
+    {
+        "start": "00:11:10.960",
+        "end": "00:11:35.960",
+        "text": "actually took a look at commercial C60 okay processed via this the solvent method using the extractors and things like that using solvents and so this other study and this is what was really nagging at me and this is why I'm doing this video this study you know links below and then this study was basically you know they looked at it and they determined"
+    },
+    {
+        "start": "00:11:35.960",
+        "end": "00:12:02.080",
+        "text": "from a I guess a molecular science standpoint you know be the way that atoms attached to each other and the way that those and they form molecules and how those molecules then form clusters and and and how they crystallize and then all of the different ways that basically you know at the subatomic part of I'm sorry not the subatomic but the at the atomic particle"
+    },
+    {
+        "start": "00:12:02.080",
+        "end": "00:12:31.240",
+        "text": "level and molecular level how things kind of work you know and and they looked at that and then what they found out by studying a commercial C60 powder was that the first bullet that prolonged vacuum this is caught right out of the study prolonged vacuum heating of the sample samples fail to remove completely the solvent molecules from Fulurite and that Fulurite is the same as Fulurine so it's somewhat okay so they just they found out that"
+    },
+    {
+        "start": "00:12:31.240",
+        "end": "00:13:00.840",
+        "text": "hey you know what you do all this stuff and they were trying to tell obviously they were doing a study to see if this process was as it was as thorough as necessary to claim something is solvent free you know the C60 is solvent free and so they went through it and they went hey you know they they this is a result of their study was just heating it in a vacuum for a long time does not remove the completely remove the solvent molecules"
+    },
+    {
+        "start": "00:13:00.840",
+        "end": "00:13:30.120",
+        "text": "okay because even though you test it right here and you don't see any right here this these guys prove that it's still there then these guys also then said yeah it's still there and this is what they they basically made the assumption based on on what they knew at the time which was under prolonged heating there's a possibility for micro crystals to be centered okay in this case some of them solvent molecules can be entrapped into cavities"
+    },
+    {
+        "start": "00:13:30.120",
+        "end": "00:13:55.920",
+        "text": "inside the centered micro crystals and they meant of C60 and if they further stated it in their and their conclusion this may be the reason solvents cannot be completely removed by vacuum heating of samples of C60 and only sublimation makes it possible to obtain virtually solvent free materials and so that's where we go back up here again and bottom line is"
+    },
+    {
+        "start": "00:13:55.920",
+        "end": "00:14:22.280",
+        "text": "that study said look you can't get it all out of of of you can't get the solvent out if you use it to extract C60 use because if you add the solvent there's no way to get it all out when you heat it up the solvent molecules will get trapped within the clusters of C60 in the crystalline structure as the carbon you know coalesces on upon itself and forms clusters and only this way was doing it because if you do it this way sublimation"
+    },
+    {
+        "start": "00:14:22.280",
+        "end": "00:14:46.400",
+        "text": "there's just no solvent use and that's what they said and so it kind of was nagging at me so this is what I decided to do was I just did this little simple little there wasn't even an experiment it was just a little I guess you know an examination I guess we'll call it that and so I examined some samples of C60 to see what I could see and traditional"
+    },
+    {
+        "start": "00:14:46.400",
+        "end": "00:15:13.080",
+        "text": "calmer fashion I'm sharing with you so here we go the materials and methods of my examination consists of I went and purchased this op this opti tech scope digital USB microphone camera microscope camera and it had a high definition up to 200 X okay so what I what I'm able to do is I'm able using this device is to look at anything from the top down okay and it's"
+    },
+    {
+        "start": "00:15:13.080",
+        "end": "00:15:39.840",
+        "text": "there's two types of microscopes one the light shines up from underneath it and you look through it and that's usually for stuff like blood and stuff you know virus and things like that but you need this other one that the light shines down on it because you know this stuff is solid right and so I got this little guy right here I bought this I obtained five different C60 samples from different sources I used a white card stock which is just the back of"
+    },
+    {
+        "start": "00:15:39.840",
+        "end": "00:16:03.960",
+        "text": "my business cards and then I just have this little tiny little lab spatulas these little tiny stainless steel spatulas that you can use to you know to move in and and work with samples little tiny samples of stuff and that was it I'll show you a picture of what it all looks like unfortunately I didn't I'm having problems with my camera and I can't show the video of me doing this so but it's pretty step it's this is this you know so like"
+    },
+    {
+        "start": "00:16:03.960",
+        "end": "00:16:32.600",
+        "text": "I'm just gonna skip it because it's so simple it's I put a little little itty-bitty spec of a C60 sample on the back of a business card I took a picture so the picture the first picture you see will be C60 on it on it on the back of a business card at 200x microscopic view okay and then the second picture is when I took the spatula it's like a so it's a little tiny spatula little stainless steel spatula and I just pressed down on the sample and then"
+    },
+    {
+        "start": "00:16:32.600",
+        "end": "00:16:59.200",
+        "text": "smeared it okay that's it and then I took a look at the smear because this was the thinking if these guys said that solvents get trapped inside the crystals okay of C60 because you know C60 isn't individual molecules like you don't well there's this one product that looks like that but but you know it's not it is you can't just buy like a little vial of"
+    },
+    {
+        "start": "00:16:59.200",
+        "end": "00:17:24.600",
+        "text": "individual molecules because carbon doesn't work that way most stuff doesn't work that way I mean carbon like anything else it has an electrical you know attraction to itself and so it's going to stick to each other so everything sticks to each other and then what you see by the naked eye are the clusters right I mean just try to imagine that that you know for C60 the molecule is one nanometer and put that in perspective you line up you"
+    },
+    {
+        "start": "00:17:24.600",
+        "end": "00:17:50.560",
+        "text": "take C60 molecules and you make a line of them it would take 100,000 C60 molecules to span the width of the average human hair that's how small it is so if you can see it you're looking at gigantic clusters of it at a molecular level I mean we're talking just millions and millions of molecules stuck together just so you can see a tiny edd grain of it okay"
+    },
+    {
+        "start": "00:17:50.560",
+        "end": "00:18:20.560",
+        "text": "so that's keeping that in mind so so I figured well if I just smear it and crush those you know crush the the crystals just smear it onto on the back of something white you know maybe I could see something and and that's what I did so let's start the very first sample is a 99.95% purity C60 from SES research it was acquired I'd say about six months ago"
+    },
+    {
+        "start": "00:18:20.560",
+        "end": "00:18:45.920",
+        "text": "before they started putting out a browner product this was there probably the last few runs of their black product and so on the left side you'll see a picture of what it looks like and and this is the thing that I discovered because I just want to you know disclaimer here I'm just a regular guy who bought a microscope so I had a lot of challenges using this puppy because I didn't think about it from the standpoint of it's like you're using a satellite and"
+    },
+    {
+        "start": "00:18:45.920",
+        "end": "00:19:12.600",
+        "text": "you're trying to look down on a mountain and so this right here is like the tip of the mountain but you know because it's a little pile of powder you can't see you know it's like the way the camera focuses you can see what's closest you can't see what's far away and that's why these pictures are all fuzzy so you know so that's kind of how this worked out and I learned this as I was going and I had to do a lot of you know dinking around to get that to get as good as pictures as I could that's why I'm encouraging anyone"
+    },
+    {
+        "start": "00:19:12.600",
+        "end": "00:19:40.480",
+        "text": "else that that is interested please you know you know do it yourself and and see what you can see so this is the best picture I could get at 200x using the optoscope and you can see this is it this is what it looks like this is what the C60 looks like it was a little grayer than I thought it was gonna be and then there's some some brownish in here now this was pretty brown see SES cuz SES most recently their product started coming out brown as"
+    },
+    {
+        "start": "00:19:40.480",
+        "end": "00:20:07.320",
+        "text": "opposed to black and I'd actually emailed Chris Bruce and and I said you know why is it brown and he said because they are now pulverizing it and so they're making a finer particulate size product and basically per him the finer the product the more brown that it is and so I'm like okay cool so but so this is what it looked like just just sitting there on the card and then I smeared it and then this is the smear so you can see that there's you"
+    },
+    {
+        "start": "00:20:07.320",
+        "end": "00:20:37.320",
+        "text": "can see that there's there remains some black in here and then you all can see this there's this amber colored particulates and then there's also brown particulates in here so I'm gonna blow this puppy up so you can see it just a little bit closer it's a little difficult here whoop little difficult and there you go so this is what I found inside the SES sample and what was interesting was that you can definitely see black which is obviously the"
+    },
+    {
+        "start": "00:20:37.320",
+        "end": "00:21:02.920",
+        "text": "color of carbon the brown which would be the you know the finer particulates of carbon you can see the brown up here the black right here right and then you can see but this is the other thing all these little yellow crystals little yellow crystals all over and so that's kind of what I found in the SES one and I'm not here to say what these are because I have no way to tell you what it is I want to make that so clear I don't know what all of"
+    },
+    {
+        "start": "00:21:02.920",
+        "end": "00:21:30.760",
+        "text": "these different things in here are it supposedly solvent-free C60 but this is what's in it when you squish it and and you smeared across the card okay so that's that picture and the next one is a as an undisclosed source but it was 99.95% C60 validated by Solaris and this was actually came out of the first batch of bulk C60 that the telegram C60 chat group co-op acquired"
+    },
+    {
+        "start": "00:21:30.760",
+        "end": "00:21:57.560",
+        "text": "and the reason I don't that it was the source was undisclosed was quite simply the individual that was able to get us such a good price on it which was I think one 120 a gram they didn't want to disclose their source because they had basically cultivated the source and they didn't want to kind of like didn't want to give it away and have to share the source with people so and I respect that and so but but you know we did you know like anyone else we're like okay"
+    },
+    {
+        "start": "00:21:57.560",
+        "end": "00:22:21.240",
+        "text": "well is it really real and so samples were sent to Solaris and Solaris verified it with HPLC that this is C60 so that's why it's an undisclosed source but it was 99.95% C60 validated by Solaris and so here's what it looks like it's very brown it's and it looks like it's you know it's what's really interesting is that they all look different now this one it's really"
+    },
+    {
+        "start": "00:22:21.240",
+        "end": "00:22:49.560",
+        "text": "really really brown and and but it just and it looks really like way more granular than the the ses sample but then when smeared it was like really really really full of these again you can see the sample of this inside the smeared you can see all of this of this yellow crystals you could see the the brown and of course you could see the black but"
+    },
+    {
+        "start": "00:22:49.560",
+        "end": "00:23:14.280",
+        "text": "if you take a look you know at these like if I could you know it's hard to do side by side but it's almost as if this one has it even more so the yellow stuff in it than than the ses sample so that that's sorry that's that's what that looked like now sample three is the MTR and and so they are one of the few along with I think sigma Aldrich where you can get samples of sublime so"
+    },
+    {
+        "start": "00:23:14.280",
+        "end": "00:23:40.040",
+        "text": "they they they advertise this as sublime and so under a microscope you know you look at the absolute utter difference in how this this C60 product look it comes out as little like BBs little pebbles and that was really interesting to see that C60 because it was like wow that really looks really cool and then but when I smeared it and I smushed it then this is"
+    },
+    {
+        "start": "00:23:40.040",
+        "end": "00:24:05.480",
+        "text": "what it comes out to looking like so this was the what they what they what they is claimed to be and advertised as sublime so what's really interesting here is that there's a lot more black clearly but then there is still these amber colored crystals within the sample and so"
+    },
+    {
+        "start": "00:24:05.480",
+        "end": "00:24:31.880",
+        "text": "you know you can start to form some some conclusions or not at least not conclusions but some opinions about like what is that stuff you know because but then you look like okay I'm sorry right over here in this corner in this I noticed that you know it was like that that looks like just all carbon right that is all carbon it's like one of those little pebbles got crushed and there was like there was nothing in it but here's the point about my whole you know"
+    },
+    {
+        "start": "00:24:31.880",
+        "end": "00:24:56.520",
+        "text": "examination was when you crush these little crystals or these little pebbles or whatever you're looking at you know there's stuff inside of them that's my whole point right here there is stuff inside of these and it's this yellow brownish amber colored crystals okay so that's that sample let me try to get back to okay so that's what that looked like and then"
+    },
+    {
+        "start": "00:24:56.520",
+        "end": "00:25:26.120",
+        "text": "now the next sample sample number four and you know you might find this interesting but Bob Gresco was actually very very gracious enough to give me an actual sample of the of his powdered C60 I wanted to include it in this examination because you know quite frankly you know it's a little his his product has been looked at you know quite negatively by a couple of his competitors so I decided well let's take a look at it as part of this sample because I'm going to compare"
+    },
+    {
+        "start": "00:25:26.120",
+        "end": "00:25:52.760",
+        "text": "them all why not and surprisingly he gave me a very small sample of his powder because you can't get his powder you just can't get it he only sells you know C60 in with sunflower oil right so so I got some of his powder so I could you know kind of do your comparison here and then under a microscope the powder just looks kind of like car it just you know I mean when you look at"
+    },
+    {
+        "start": "00:25:52.760",
+        "end": "00:26:19.720",
+        "text": "it what do you think the first thing I think of is it looks exactly like I would think when you said carbon you know it's just clusters of black stuff and so you can see little tiny itty-bitty pieces and easy big giant you know crystal size and then when I smeared it this is what it looks like okay so in when I'm smearing it there is nothing else in there and you remember now everyone says you know they're all all five manufacturers are saying there's our solvent"
+    },
+    {
+        "start": "00:26:19.720",
+        "end": "00:26:44.520",
+        "text": "solvent free but here you go here you here you have a product that says hey it's solvent free and there's nothing but the white is the you know the business card and the black is obviously carbon so this was really surprising because I did these in order and so when I got to this one I was like whoa there is nothing in here there really really isn't anything it's just black so that you know and all of these are data points put them together connect the dots"
+    },
+    {
+        "start": "00:26:44.520",
+        "end": "00:27:10.680",
+        "text": "however you wish you know this is um this is all you know basically I'm just sharing what I found but yeah I thought this was amazing that there is just just carbon it looks like carbon it's carbon right and so and there's nothing else in there there's no other color there's no other crystals and there's no crystals at all it's just carbon right so and so here you go that was that was interesting I'm sure there's no tiny EDB-D mic you know at 200x you really can't get into it"
+    },
+    {
+        "start": "00:27:10.680",
+        "end": "00:27:36.040",
+        "text": "okay so the fourth uh I'm sorry the fifth sample is a sample from red line and this is the red the red line um their newest uh c60 a year ago they were outsourced they were outsourced where they would buy a third-party product pulverize it and sell it and make oil with it and then this year they are actually producing their own c60 in there in their on their plant"
+    },
+    {
+        "start": "00:27:36.040",
+        "end": "00:27:59.240",
+        "text": "and then they're taking that and pulverizing it and um making product with it so now it comes in ethanol okay that's the 200 proof alcohol it's the kind you drink um and so it basically be like 200 proof vodka or something like that ever clear you name it but that's what it comes in and so you know because one of the tricky things about this product here and this product here so"
+    },
+    {
+        "start": "00:27:59.240",
+        "end": "00:28:26.840",
+        "text": "you've got the grasca c60 and the red line c60 is both of these two as opposed to the other three not only do they advertise that they're solvent-free that's the new puppy not only do they advertise that it's solvent-free but they also advertise that they sell it in a mono molecular form and meaning that the particulate size is way smaller than uh then you would normally get in a commercial"
+    },
+    {
+        "start": "00:28:26.840",
+        "end": "00:28:51.880",
+        "text": "grade c60 powder in other words it's pulverized it's crushed and then it's very very small so uh and and so how grasca sells his product he sells it basically you know suspended in sunflower oil and then how red lion sells their mono molecular pulverized c60 they sell it in ethanol then you you know i have videos about what to do with it so so now what i did was is now when you when you"
+    },
+    {
+        "start": "00:28:51.880",
+        "end": "00:29:17.240",
+        "text": "get the when you buy it you get this big syringe and this little tiny black cap that seals off the tip of it and so this is how i you know because how are you gonna do this right it's not a powder it's a liquid so i took the cap off and there was just a little bit of residual c60 you know there was some c60 on the on the end of the cap and i just put that down onto the business card okay that's what i did and i just rubbed it off on the business card and then i put the cap back"
+    },
+    {
+        "start": "00:29:17.240",
+        "end": "00:29:43.480",
+        "text": "on the syringe and so this is what the c60 looked like uh at 200x um it's really black there's a lot of little white shiny things in here um you know you can just see them and then under a microscope uh this is i'm sorry after i smeared it this is what it looks like and so again i i want to point out if you and you i'm sure you immediately notice that there's no other colors in here"
+    },
+    {
+        "start": "00:29:43.480",
+        "end": "00:30:12.760",
+        "text": "it is just black but then you can see all of these little crystals and and so you know i don't want to start trying to guess what these other things are when you look at all of these different samples but this is what uh is sold as solvent-free and it comes in alcohol and and that's what it looks like when you smear it there is there's no yellow there's just these little tiny white clear crystals like like they look like sugar uh okay and that's what the inside of that one"
+    },
+    {
+        "start": "00:30:12.760",
+        "end": "00:30:37.240",
+        "text": "so this and this is what it looks like um i took this picture because i a lot you know i can't get the video out and so um whoops sorry about that i'm trying to refocus here so this is what the five samples look like i put the sample here smeared it took a picture before i smeared it smeared it took a picture you know um and then i went to this one this came out of the co-op"
+    },
+    {
+        "start": "00:30:37.240",
+        "end": "00:31:03.400",
+        "text": "mtr sample the the gresca sample and then the the red lion sample so this is what the back of the business cards look like when i was done and that and how i got the pictures using my little usb camera so that's what i wanted to share i think that it's uh interesting i think that it will help you uh you know understand a little bit better about what's going on when it comes to solvent-free"
+    },
+    {
+        "start": "00:31:03.400",
+        "end": "00:31:31.080",
+        "text": "and so i just want to let's just discuss it for a minute a minute again i want to point out that all of these samples uh were sold are being sold as as solvent-free there's clearly other particulates other types of material in four of the five samples clearly okay so there's something else in there with the black and you know carbon it's black okay and so there's something"
+    },
+    {
+        "start": "00:31:31.080",
+        "end": "00:32:00.360",
+        "text": "else in there in four of the five samples and the thing that was most interesting was that the samples that are sold or as prepared and then sold as monomolecular didn't have any of the yellow coloration the red lion sample having a coloration or you know let's just say it's another type of particulate right and it has a different particulate in there than the other four and it's the only"
+    },
+    {
+        "start": "00:32:00.360",
+        "end": "00:32:26.200",
+        "text": "one obviously processed with alcohol so there's an assumption there that you know that maybe right so i just kind of want to point out that three of the four are produced with uh actually i'm sorry these two are produced with toluene or benzene or something um and there's there's something else in there and it's this coloration this one is advertised"
+    },
+    {
+        "start": "00:32:26.200",
+        "end": "00:32:55.400",
+        "text": "as sublime but it's still there so question mark question mark is it really sublime because it looks kind of like that so that's interesting um then of course you've got this one which is just there's nothing else there but black then there's this one here where there's black nothing else no no yellow amber anything and then but you've got those clear crystals so you know it's interesting when you start comparing and and you're looking at these things and they"
+    },
+    {
+        "start": "00:32:55.400",
+        "end": "00:33:21.320",
+        "text": "look different and they're not supposed to look different you know and then what else is that and what in other words what is that stuff in there so i you know i like i just really want to be clear that there's no way i could tell i you know i'm just a regular joe i just could buy a you know a ninety dollar camera and take some pictures and share it with you i were at this point right here i'm right here hey man uh you know if there's any like real scientists out there who have access"
+    },
+    {
+        "start": "00:33:21.320",
+        "end": "00:33:48.600",
+        "text": "to a lab could you please for the community for all of the thousands of people who are taking this thinking that they're going to get healthy can you please please please please test that that yellow stuff test that clear stuff what is it i mean because i can just see it you can just see it now i just shared it with you but what is it you know and and uh you know people are ingesting this stuff and we are the human experiment you know this is um all not FDA approved stuff it's"
+    },
+    {
+        "start": "00:33:49.560",
+        "end": "00:34:19.800",
+        "text": "it's just you know i'm just concerned because it's out there and and i want to know more but i can't now that was at a 200x 200 magnification and that's kind of where i stop i just want you all know that's where i stop looking at this stuff i looked into getting microscopes to get me higher power magnification so i could look really closely at those crystals you know get get closer to them and um the next one up is like $700 and that's just the microscope doesn't even come with the"
+    },
+    {
+        "start": "00:34:19.800",
+        "end": "00:34:41.560",
+        "text": "camera there's just no way i can afford that and i also don't have any access to or enough money to run all this stuff to to a lab to see if they could test it and see what that amber colored stuff and the crystal stuff is so you know i just want to say that's as much as i could do being an armchair uh you know scientist guy and and so but that's what i can do so it's kind of like"
+    },
+    {
+        "start": "00:34:41.560",
+        "end": "00:35:06.440",
+        "text": "where you know where there's a possibility for further exploration then there definitely should be more exploration and i i should hope that um you know access uh people who have access to labs can take this to the next step okay please because there's definitely something there there's definitely it's definitely not c60 it's not that's not carbon it's different color"
+    },
+    {
+        "start": "00:35:06.440",
+        "end": "00:35:34.680",
+        "text": "and so what is it and is it harmful to everybody so now i really now with that said okay keep this in mind that you know c60 has been studied a lot in terms of its toxicity so that means these products here this stuff this right here this you know these products have been on the market for quite some time and they've been used and study after study after study after study and then the study says hey there's no there's no toxic damage you know the whole rat study thing was about"
+    },
+    {
+        "start": "00:35:34.680",
+        "end": "00:36:00.760",
+        "text": "trying to kill some rats with c60 and they live twice as long so you know the studies show that even taking it in this form you know where you've got this this yellow stuff in it uh you know is not toxic and then if you read and and i've you know i've read a lot of these and if you read the studies that say that there's no toxicity uh you know that you look for exactly you know like what did they look at to make that declaration well they've said that there's no tumors in the mice"
+    },
+    {
+        "start": "00:36:00.760",
+        "end": "00:36:26.520",
+        "text": "the rats the zebrafish and all that kind of stuff that they use uh there's and they didn't see any damage in their liver they didn't see any damage you know wherever they but they and they they basically said hey it didn't hurt them okay but what they what i did never have found and this is because you know it's this it hasn't been around that long actually um you know since the late 90s or late 80s right but i haven't found any studies that said what's the long term because it"
+    },
+    {
+        "start": "00:36:26.520",
+        "end": "00:36:53.720",
+        "text": "hasn't been long term but what's the study of the long term bioaccumulation of taking C60 when you know that it's been processed with solvents you know that that hasn't been studied so and they didn't study like you know let's say take let's go through the brain and see how much of the salt you know they didn't look for the solvents in the brains in the livers and so forth they just basically said there was no damage and so it's C60 i want to just really make sure that that everyone's"
+    },
+    {
+        "start": "00:36:53.720",
+        "end": "00:37:21.880",
+        "text": "you know understands where i'm coming from is that these studies stand up they do they stand up 100% that if you you know the if you're a rat you take C60 in oil you're gonna probably live twice as long you know you're not going to have any damage in your liver or your spleen you're not going to have any tumors so it's it's an awesome freaking thing to take i mean that's why so many people are just jumped up about it okay so you know the study stand they they they are real then"
+    },
+    {
+        "start": "00:37:21.880",
+        "end": "00:37:46.200",
+        "text": "and but what's what just keeps nagging at me is that there's you know the solvent free thing it really nags at me because nobody's looking at okay what's the long-term impact of taking this okay because it sort of implies you know that there's there's stuff in there and that and then this is very clear you know that that you know this is the the theory right here and then this actually"
+    },
+    {
+        "start": "00:37:46.200",
+        "end": "00:38:13.880",
+        "text": "proved it so okay food for thought or let us say should i say um C60 for thought or so anyway i wanted to just share that with you um and that's what i did this last couple of weeks so thank you for spending your time with me um i've just welcome your comments about this this has really got me perplexed and but uh hey i just want to say thank you thank you for taking your time to"
+    },
+    {
+        "start": "00:38:13.880",
+        "end": "00:38:18.560",
+        "text": "to watch my video. Have a great day. Aloha!"
+    }
+]

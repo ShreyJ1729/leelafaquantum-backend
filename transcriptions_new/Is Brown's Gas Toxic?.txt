@@ -1,0 +1,217 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.800",
+        "text": " Aloha, everyone, and welcome to another Tinker's Academy video. I'm your host, Cam, and in this video, I'll make it as brief as possible. I'd like to discuss whether or not is brown's gas toxic, and why am I asking this question and I apologize if this is clickbait, but I wanted to cover feedback on a study that was dropped into our H2H2H2O telegram chat group that kind of raised some fears by people who don't normally read science studies."
+    },
+    {
+        "start": "00:00:25.800",
+        "end": "00:00:54.580",
+        "text": "And so I wanted to just share my interpretation of this study, put some context in it around it, and so that it can be just openly discussed in the context of what it did in the terms of the study itself. So links in the video description, you can read it yourself, but this study is called the electrodes modified with nickel, electro deposition, decrease, hexavalent, chromium generation in an alkaline electrolysis process, say that three times fast."
+    },
+    {
+        "start": "00:00:54.580",
+        "end": "00:01:20.760",
+        "text": "And so bottom line, what was this study? Well, this study was done obviously back in 2019, published 2020, and basically it was a study to determine if there was a better way of producing hydrogen using electrolysis that was less toxic. So they decided to take stainless steel plates, plate them with nickel to see if that was not as bad as just plain stainless steel."
+    },
+    {
+        "start": "00:01:20.760",
+        "end": "00:01:48.300",
+        "text": "So the whole idea is, and this is all factual stuff, it's like SS, right, I'm going to just read some highlights, that stainless steel anodes do not withstand high concentration alkaline solutions, alkaline solutions meaning the solutions that's inside the tank of your generator where you put lie in there, sodium hydroxide, it creates it a very alkaline solution, and that's what increases the amount of current that goes between the plates, which thus produces browns gas, right, hydrogen, oxygen, so forth."
+    },
+    {
+        "start": "00:01:48.300",
+        "end": "00:02:16.500",
+        "text": "And so they basically proved, which is no surprise that when you do that, right, and the electricity is going between the plates, that there's going to be ions coming off of the metal plates inside the tank, and that those ions are going to be part of the metal, and part of stainless steel as you know is chromium. And so chromium is coming out amongst other types of metal like ferrous oxide and things like that are being generated."
+    },
+    {
+        "start": "00:02:16.500",
+        "end": "00:02:41.340",
+        "text": "And so it's kind of like what they did say, and this is interesting, was that if it's up to 1.6 volts across the plates, you know, it can generate anything over 1.6, and it starts actually generating hazardous hexavalent chromium, or CR6 plus, okay, at the anode of the two different plates, you've got the cathode and the anode, right, so the whole point of this was, you know, it says, hey, you know, you run these things, it's going"
+    },
+    {
+        "start": "00:02:41.340",
+        "end": "00:03:07.820",
+        "text": "to generate chromium, and so there was a concern, right, the chromium toxicity in browns gas being carried from the tank into your drinking water, and so, but this is what the study did, and this is why it's so important to have context. Now, it just says the performance curve after 70 hours of operation with the nickel plated electrodes showed an overpotential at 0.5 volts, and at 10 amps compared to stainless"
+    },
+    {
+        "start": "00:03:07.820",
+        "end": "00:03:33.180",
+        "text": "steel electrodes, chromium was detected in the electrolyte and bubbler water of the system, okay, and it was exceeded the standard, and the standard is extremely low on the amount of acceptable chromium, it's like a per to the, I believe, for the EPA, the acceptable level chromium at any tested solution like drinking water, reservoirs, things like that, it's like 100 micrograms per liter, so, I mean, they were getting milligrams, to kind"
+    },
+    {
+        "start": "00:03:33.180",
+        "end": "00:04:01.880",
+        "text": "of give you an example how much chromium was coming off of the plates in the tank, so, and then also in the bubbler, but here was what I want to point out, as you read the study, you will find out that they did not use a commercially available browns gas generator that you could get from, you know, all the different providers that sell the browns gas generators that we all talk about in our telegram chat group, but they instead actually built their own, they designed it, they built it, they created their own plates, they nickel"
+    },
+    {
+        "start": "00:04:01.880",
+        "end": "00:04:28.340",
+        "text": "plated them, which the other, you know, none of the manufacturers right now are using nickel plated plates, and please correct me if I'm wrong, but I don't believe everyone's just using medical grade stainless steel, and then they ran it for 70 hours, and then after the 70 hours, of course, sorry, another point you need to know is 100 watt machines, so, after the 100 hours in a 5% saline solution using sodium hydroxide, which is what we"
+    },
+    {
+        "start": "00:04:28.340",
+        "end": "00:04:56.720",
+        "text": "all use, lie, right? Then they basically started measuring stuff, and so, this is what they measured, and this is why this is so important in terms of context. The performance curves were obtained using a test system that included a power source, a phase separator, electrolyte, recirculator, bubbler, dryer, mass flow meter, and electrolyzer, alright, so, and then the electrolyzer was, and this is the other key thing, so let me show you diagram in a second, what they actually measured, and then the most important thing here is that they measured,"
+    },
+    {
+        "start": "00:04:56.720",
+        "end": "00:05:25.160",
+        "text": "they ran the machine for 70 hours, and they measured it every 10, so they measured it seven times, and they came out with all these little nice performance curves, you can see all of that, in terms of what was going on, and what they were measuring along the way, but here's the thing that I want to point out, is what did they measure, exactly? Well, this is their, this is their own design, they created their own browns gas generator, where they basically had a power source, an electrolyzer, and this would have been basically what's"
+    },
+    {
+        "start": "00:05:25.160",
+        "end": "00:05:55.000",
+        "text": "your tank, sorry, then it produces oxyhydrogen up here, and then there's the recirculator, right, which so this is all, like basically would be inside your tank, and then it comes into the first filter bubbler, then it goes through a dryer, and then they start, this is a meter that they met, and they measured the amount of flow of gas coming out of this generator, so there's only one bubbler, okay, and that's my, that's going to be very important"
+    },
+    {
+        "start": "00:05:55.000",
+        "end": "00:06:22.760",
+        "text": "here, and so that was what they measured, so they measured it in the electrolyzer, they measured it up here in the recirculator, and they measured it right here, in the bubbler, okay, and that's where they found that, yes, chromium is coming off of the plates and gut getting into those three areas of their generator that they built, so another, you know, so this is just more highlights about, you know, hey, they basically how they analyzed it, you can read this yourself, that's, you know, just read the, if you want to read the study, but"
+    },
+    {
+        "start": "00:06:22.760",
+        "end": "00:06:52.520",
+        "text": "this is basically it, and again, I want to point out it was after 70 hours of operation, and that they had found chromium, and it was very, it was at a very dangerous level, and that's really, that's what this study found out, and so their whole idea was they're trying to figure out a better way of producing hydrogen that doesn't produce chromium, because one of the key points of this, and I think probably the main key point that I took away from this was that it generates chromium, and I had been basically dumping my tank into the kitchen"
+    },
+    {
+        "start": "00:06:52.520",
+        "end": "00:07:22.240",
+        "text": "sink when I flush it, now I'm starting to wonder maybe that's a toxic thing, and there's probably maybe a better way, and I don't know we could talk about that in the telegram chat group, but you know, hey, we all should be thinking about that, right, you know, because where does your kitchen sink go to, right, so anyway, so that's that point, so that's what I wanted to kind of point out, so let's go back to, I just did the pH and TDS test, and so this is what we do in real life, first of all, we don't use their own design, we use our H2"
+    },
+    {
+        "start": "00:07:22.240",
+        "end": "00:07:50.440",
+        "text": "Genesis, our aquacures, our H2 lights, you know, and that's what we all been using, and so what's going on inside here, right, is not where we're drinking the water foam, and then after it comes out of the actual, you know, the recirculator, which would be the expansion chamber right here, it goes into the filter bubbler, okay, the first filter bubbler, and if you have a second one, you've got a second filter bubbler, and then you've got a third container, that's what you're actually bubbling, and or you're inhaling"
+    },
+    {
+        "start": "00:07:50.440",
+        "end": "00:08:16.480",
+        "text": "from that. Okay, now as I mentioned in my other video, there's some specific time frames that are the guidelines for using these types of generators, and none of them, none of them say, run the whole thing for 70 hours and then drink water out of the filter, none of them say, run this thing for 70 hours straight, and breathe it straight out of the, you know, the expansion chamber, right, they all say use two filters, change it every 10 hours,"
+    },
+    {
+        "start": "00:08:16.480",
+        "end": "00:08:42.720",
+        "text": "right, and then every 120, you know, flush the tank and put in some fresh electrolyte, and so by the time you're getting it here, which is what I showed in the TDS total dissolved solids test that I just did this week, as well as the pH test showed that nothing is getting through from a pH, I'm sorry, from a wall, from pH standpoint, as well as a total dissolved solid, so that's using a PPM meter, right, and I'll show you the results in a"
+    },
+    {
+        "start": "00:08:42.720",
+        "end": "00:09:09.840",
+        "text": "second, but the idea here is that they measured it right here, right here at the filter, and they measured what's inside the tank, and in the real world, you're not drinking that, you're not going to inhale from that, you're not going to drink from that, so this does not apply to us, there is no toxicity to us if we don't do this and their instructions are don't do that, the instructions are breathe from the third thing, you know, the third container, and/or drink water from that third container, and if you do that, these are the"
+    },
+    {
+        "start": "00:09:09.840",
+        "end": "00:09:35.520",
+        "text": "results of the study that I just did, now I measured the filter bubbler 1,2, and I measured the drinking container, and I measured the pH of both after you follow the recommended guidelines, so you would always change it at 120, the machine I was using in the test had only been running for three weeks, and then every 10 hours, you start with a brand new fresh water in your filters, and the most you're ever going to bubble the water for is 10 minutes,"
+    },
+    {
+        "start": "00:09:35.520",
+        "end": "00:10:04.880",
+        "text": "that's all you need to per liter, right, so it's like after 10 hours max is when I basically let these things go to full saturation, where the guidelines said okay, time to replace them, so right at the moment, it was time to replace it, I ran a fresh, you know, a batch of water to drink, and of course, you know, it's the same thing if I'm inhaling, and the results were that there was a 0.04, a 400th increase in pH, there's almost nothing, and absolutely zero, zero increase"
+    },
+    {
+        "start": "00:10:04.880",
+        "end": "00:10:28.240",
+        "text": "of dissolved solids, and so the ions of the metal plates are considered a dissolved solid, and there was absolutely none detected in the drinking container, which would be the same as the inhalation that you're doing. Now, I just do want to say that there was a 0.30, like it went from, you know, the starting pH was a PPM, I'm sorry, total dissolved solids in filter 1, started at 0.04,"
+    },
+    {
+        "start": "00:10:28.240",
+        "end": "00:10:55.840",
+        "text": "and ended at 0.04, sorry, 0.34, so there was an increase in the parts per million of total dissolved solids detected in the first filter, as I had shown in my video, and this is what I measured, and a 0.002, I'm sorry, not 0.02, just an 0.02, two parts per million, this is 30 parts per million, increase in dissolved solids in the second filter, and zero parts per million detected in the third"
+    },
+    {
+        "start": "00:10:55.840",
+        "end": "00:11:20.480",
+        "text": "container, so this kind of aligns with their study where they said, hey, we measured, right, what was coming out of filter 1, and they measured that there was definitely some contaminants, well, I agree, there's definitely contaminants in filter 1, so that's why you have a filter, you have a filter 2 to catch anything that doesn't make it, you know, that makes a pass filter 1, and by the time filter 2 gets it, you're clean, that's, this is what this showed, these are my"
+    },
+    {
+        "start": "00:11:20.480",
+        "end": "00:11:47.440",
+        "text": "own measurements, I encourage everyone to just, you know, double check my math and redo your test, this test, to just prove it to yourself if you really need it, but that's kind of what I wanted to point out, I really want to point out that the safety of at least this machine that I measured, the h2 genesis from h2 biohacker is completely safe, it's safe from the standpoint of leakage of lie, it's safe from the standpoint of leakage of any dissolved solids specific to this paper"
+    },
+    {
+        "start": "00:11:47.440",
+        "end": "00:12:15.680",
+        "text": "that we're talking about, which is saying, hey, metal ions are coming off of this, off the plates, and they're bad for you, and it's absolutely true, they are bad for you, if you drink from the tank, or you drink from the bubber, you probably would not live a long time, okay, so point is though, you don't do that, nobody does that, you follow the guidelines and you're fine, that's the entire point of is browns, gas, toxic, in the context of chromium, you know, seepage into the, into the"
+    },
+    {
+        "start": "00:12:16.320",
+        "end": "00:12:41.280",
+        "text": "recirculator and into the bubbler filter, yeah, there's definitely toxicity of these areas of the generator, but that's not where you drink from, that's not where you inhale from, that's the point I made, and so I just wanted to say, and then I did put it, you know, I just was really worried about this, because people were interpreting a pH test that someone had done, and they were interpreting this study, from the standpoint of, hey, you know, there's something to worry about,"
+    },
+    {
+        "start": "00:12:41.280",
+        "end": "00:13:11.040",
+        "text": "there's, you know, it's dangerous, and I do apologize to this one individual who posted a comment about that in the spooky chat, and I jumped in, and I, with no disrespect, and I do apologize if it came off wrong, but I just simply wanted to put that statement in context, when he expressed his opinion that it was, you know, it was dangerous, or, I wouldn't even say he didn't use that word, I'm sorry, but it's just, you know, so you should watch out for it, right, that's, you know, that was his opinion, and I agree, you should watch out for it, but in context, is it, is it, is it"
+    },
+    {
+        "start": "00:13:11.040",
+        "end": "00:13:36.800",
+        "text": "toxic? No, it's not, you don't drink that, you would never drink that, it's not toxic in this context, and I did compare it to something, and I want to point out, you know, that I compared it to, hey, it's not, it's not any worse, it's definitely not worse than being on the freeway, and I kind of want to point out why I said that, because when I'm asthmatic, and so I'm very up to date on like, what's the problems with asthmatics, and one of the things about the, if you go to the American"
+    },
+    {
+        "start": "00:13:36.800",
+        "end": "00:14:03.360",
+        "text": "Lung Association website, they talk about how bad it is to be on the freeway, and it's basically true that, you know, breathing inhalation on a brown skies generator, an H2 generator, you know, if you follow the directions of the manufacturer, and you make sure that you keep your filters clean, you flush regularly, right, you are actually getting, and the safety level is very high, compared to, if you're driving on the freeway, you know, bottom line is, I don't know if you know"
+    },
+    {
+        "start": "00:14:03.360",
+        "end": "00:14:33.040",
+        "text": "this, but they found, the studies have found increase in premature death from people living near highways and urban roads, they found increase in heart attacks, because of all of the fumes, and all of the pollution that comes off with driving on the freeway, that was my comparison, and that was, again, another level of context that I'm trying to put towards this argument about whether or not browns gases is toxic, and so that's what I wanted to state, so that's kind of my clarification, my interpretation, welcome comments, a welcome debate, that's what telegrams for,"
+    },
+    {
+        "start": "00:14:33.440",
+        "end": "00:15:03.360",
+        "text": "you know, in the comments in my video today, so there you go, and I want to just say thank you now, okay, last thing I want to point out was that, you know, it's, this is just one study, right, are there other studies out there that talk about, you know, the third bubbler, that kind of thing, and I got to tell you, I went looking, and you know what, when you go to Google Scholar and you're trying to find studies, and it's just, you know, it's about how many hours of time do I have, and I don't have a lot, but you know, I do want to point out that I did look, I did a cursory look"
+    },
+    {
+        "start": "00:15:03.360",
+        "end": "00:15:29.920",
+        "text": "about, you know, hydrogen production electrolysis, and I went through, and I just was reading all the all the titles, and honestly, you know, without spending a lot of time, it would be very difficult, so if anyone else have ever ran across a study specific to hydrogen production, and an alkaline electrolysis process, please share it on telegram, and let's keep talking about this, because we're all breathing in brownscasts, and it's been very beneficial to the majority of people who have done"
+    },
+    {
+        "start": "00:15:29.920",
+        "end": "00:15:56.080",
+        "text": "it, doing, you know, with the right dosage, and it's kind of like, it's so beneficial that I just, I'm a very strong proponent of it, because I've been using it myself for two years, and it's really basically prevented me from ever having asthma issues, among other health benefits, so I'm really, really positive about it, but if you do know of any other studies, because I tried to find them, and there's all these, there are so many hydrogen studies on there, but it's approaches, you know,"
+    },
+    {
+        "start": "00:15:56.080",
+        "end": "00:16:22.960",
+        "text": "you know, it's like, it's nearly impossible to find unless I spend, you know, a lot of hours that I just don't have, you know, to find out, are there other studies that have studied this, and there's other opinions about it, so I want to state that, just want to be transparent, and put a disclaimer out there that no, I did not go on a massive study hunt to find, if there's anything else other than this study, I'm just pointing out this one study, because that's what got put onto the, onto the chat group, and the other thing I want to point out too, that yeah,"
+    },
+    {
+        "start": "00:16:22.960",
+        "end": "00:16:47.840",
+        "text": "if you wanted to, you could take the water, right, in your filter, like, I mean, not the filter, you wouldn't bother, you, we already know that there's going to be chromium in here, but you could take the water right here, right, in the drinking container, that we're measuring, that I'm measuring, you guys could measure yourself, I'm measuring zero parts per million of anything in there, there's like nothing in there, that the my meter's picking up, right, and you could easily"
+    },
+    {
+        "start": "00:16:47.840",
+        "end": "00:17:14.720",
+        "text": "go to tap score, it's just one, I mean, this is just random, tap score measures, you can have your water tested, and they do have a hexavalent, I hope that I'm pronouncing that correctly, chromium water test, so if you've got 165 dollars to blow, I don't, you can definitely send that water in and go have it tested, to triple, you know, triple check, whether or not, you know, is there anything in there, and I welcome people to do that, and if you got 165 dollars to blow,"
+    },
+    {
+        "start": "00:17:14.720",
+        "end": "00:17:43.920",
+        "text": "go ahead and please test it, share the results with us, because I honestly, I just don't have 160 dollars to blow on this, so that's kind of where I'm at, and that's all I got to say, so you know this, thank you so much for bearing with me, I hope that this is educational and helpful to you, and again, you know, I apologize to the individual, and you know who you are, I meant no disrespect, I just wanted to put some context around it, because I'd been thinking a lot about it since that that study was put out there, and I was thinking a lot about the whole ph thing as well,"
+    },
+    {
+        "start": "00:17:43.920",
+        "end": "00:18:10.960",
+        "text": "because I am an avid user, and it's important to my health, because I'm inhaling it myself, and you know, and so that's why my brain just went, hey, you know what, what's the context, and so that's kind of why I did these tests, and that's why I'm doing this video, I just really wanted to share that with everybody, so thank you again for paying any attention to me, if you want to know more about Brown's Gas, I have a blog, it's called the Tinkers Academy, you can get there, link below, and you can get there just by typing tinkers.academy, and you are"
+    },
+    {
+        "start": "00:18:10.960",
+        "end": "00:18:35.680",
+        "text": "all window, and it'll pop over to my blog, I do have a page on my blog dedicated to Brown's Gas, I've been using Brown's Gas for well over two years, I've been studying it for well over two years, I've got clinical trials on my site, I've got every study, every paper I can find about Brown's Gas, there's not a lot, because the majority of the focus, as you know, has been on molecular hydrogen by itself, but I found as much everything I can find, and every time I find"
+    },
+    {
+        "start": "00:18:35.680",
+        "end": "00:18:59.600",
+        "text": "something, I post it to my page, you can find studies, clinical trials, testimonials, machine specs, all that stuff, how, you know, set up specs, you name it, and some interviews that I've done, so I got a lot on Brown's Gas on my blog, and I just, I'm very passionate, as you can imagine, about Brown's Gas, and so if you have other studies, if you know of other studies, please share them with all of us, because that's what the whole point is, is we all learn together,"
+    },
+    {
+        "start": "00:19:00.160",
+        "end": "00:19:20.720",
+        "text": "and then if you can keep it in context, and do test yourselves, more power to us, right? So thank you so much, I really appreciate you guys watching my videos, and the very kind and respectful comments that you give me, and so thank you so much, and have a great night, and let's just keep learning together."
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.760",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me, Kay Elmer, and in this video I'd like to just cover with you some information I gathered by talking to various individuals in the C60 industry as to how coronavirus is impacting their business and just any of their personal opinions about what's going on right now. So I thought that would be very interesting to share with everybody and I just put this video together. I do want to say this is a"
+    },
+    {
+        "start": "00:00:25.760",
+        "end": "00:00:51.680",
+        "text": "re-record. I did release this for about a day earlier this week and there was so much new information in the last few days plus I made a mistake which I apologize for and so now I just want to do a full re-record and put this information out again because I do think it's very valuable and I think it's very eye-opening as to what's going on as far as coronavirus and the C60 industry. So let's just jump right in what I did and where I got the idea for doing this"
+    },
+    {
+        "start": "00:00:51.680",
+        "end": "00:01:18.760",
+        "text": "video was on the February 22nd and February 28th Sarah Westall had interviewed a couple of individuals in the C60 industry and in those interviews you know they brought up the fact that they were having problems finding bottles and that kind of just like you know just set a flag off in my head that you know there's gonna be an impact as you know there's you know people running around all over the country now swiping up you know toilet paper and bottled water but you know like what would happen to the C60"
+    },
+    {
+        "start": "00:01:18.760",
+        "end": "00:01:48.360",
+        "text": "industry for those of us who have come to rely on C60 as one of our daily supplements so I thought that was really interesting so there are links in the video description below for all the companies mentioned in this video again you know as typical I just want to mention it's not an endorsement this is me sharing my research so but you know Max and Phil from Live Longer Labs 22nd of February mentioned that they had a shortage of bottles they were having a hard time finding bottles you know they buy by the thousands right and that they they were starting to recommend the people you know you when you finish your"
+    },
+    {
+        "start": "00:01:48.360",
+        "end": "00:02:13.800",
+        "text": "bottle if you buy it commercially you know don't throw it away they were suggesting that there may be a point where if they if producers can't get bottles that it may they may switch to a system where you send them your old ones they sterilize them and then refill them and send them back so so it's definitely a good idea at this point for everyone just you know just you know start being frugal about things like that and think about the reality that you know we won't get resupplied for a while because China's been down for so"
+    },
+    {
+        "start": "00:02:13.800",
+        "end": "00:02:42.960",
+        "text": "long on February 28th Ken Schwartz talked with Sarah on the Sarah West all YouTube channel and he had the same con he had the same comment he actually said that he had to go warehouse hunting all over China to find bottles and then he actually stated that you know based on what he learned trying to get supplies for his company which is C60 purple power that he stated in the beginning of March all of the current ships from China will have unloaded and there's nothing after that which is true if you look on the"
+    },
+    {
+        "start": "00:02:42.960",
+        "end": "00:03:10.320",
+        "text": "mainstream news right now I just watched a interview of the port authority for LA the port of LA and it literally it's it's it's quite empty so you know the chips the ships have slowly trickled down because of the shutdown in China and you know there's gonna be a point and a gap in our supply line where you know we're gonna run into shortages and things like that so definitely it's something to think about as it relates to C60 now we also talked a lot in this"
+    },
+    {
+        "start": "00:03:10.320",
+        "end": "00:03:37.680",
+        "text": "video this is actually very good interview if you want to learn more about C60 and how the coronavirus works because Ken is a chemist and he's talking about it from a chemist standpoint and he did mention that the virus what the doctors have been finding and scientists have discovered that it just depletes the body's glutathione and it basically causes a radical oxygen species or radical you know a free radical storm in the body that the body it overwhelms"
+    },
+    {
+        "start": "00:03:37.680",
+        "end": "00:04:06.360",
+        "text": "the body's ability to overcome that and all that free radical does all this damage and he said that you know that he knows that you know that his statement was that C60 can play the role of glutathione which is what's getting devastated and depleted as these viruses ravaged people so it can actually play the role of glutathione when you're when people are devastated by the virus he also said that vitamin C helps and so I'll get into that in a little while but you know so that was comments from Ken Swartz so when I saw these two videos I"
+    },
+    {
+        "start": "00:04:06.360",
+        "end": "00:04:34.560",
+        "text": "really thought you know hey you know what else is going on so I reached out to several people that I do know I know these you know six individuals and and through Dave Chase at C60 Labs he got in touch with Dr. Pierre-Louis Brunner of the Salares Camp the Canadian C60 Ross C60 chemical company and got a quote from him for this video so thank you for that Dave so now when I reached out to Bob Gresca with Gresca C60 I reached out to Martin Redlion talk with"
+    },
+    {
+        "start": "00:04:34.560",
+        "end": "00:05:02.600",
+        "text": "and this is all via email by the way talk with Ian Mitchell at C360Health he also runs carbon 60 plus and live pet Dave of course at C60 Labs and Rebecca the C60 company in the UK and then Philip Von Holzendorf of Leela Labs in Germany so I kind of just tried different countries you know what's going on that's what this video is all about is what do these people have to say about how the virus is affecting their business and what they're hearing from customers all"
+    },
+    {
+        "start": "00:05:02.600",
+        "end": "00:05:28.480",
+        "text": "right so let's jump right in to what folks had to say Bob Gresca with Gresca C60 in the United States got back to me my question essentially to all of these individuals was you know you know what are you hearing are you having in your in issues with your supply chain and what do you think you know because these are all very experienced professionals in the C60 industry and so Bob rolled back to me and said today it appears there has not been one scientific study"
+    },
+    {
+        "start": "00:05:28.480",
+        "end": "00:05:54.320",
+        "text": "on carbon 60 and the and the coronavirus which is true even though there is not a lot even though there is a lot of speculation that C60 will help against coronavirus there's no scientific evidence that C60 will be effective against coronavirus there have however been studies on functionalized C60 atoms or molecules chemically attached to C60 and viruses these studies on viruses and functionalized C60 have reported promising results it would be a sumptive and premature to conclude similar results based on our non"
+    },
+    {
+        "start": "00:05:54.320",
+        "end": "00:06:23.720",
+        "text": "functionalized C60 and a different virus which means you can't take the the results from people tweaking C60 for drug type of of objectives and comparing that to the commercial C60 oil product that people use for supplements okay so Bob further goes on to say I could not personally make the conclusion that C60 will help with the coronavirus as there's no scientific studies to back up the speculation and I cannot legally give medical advice very smart thing to say"
+    },
+    {
+        "start": "00:06:23.720",
+        "end": "00:06:53.680",
+        "text": "but he does say yes we are seeing an increase in sales but no supply chain problems so that's really good to hear from from Bob he's located in Colorado so so far no supply chain problems increases in sales and I really want to make a point of what Bob saying here is again you know you know I try to remind everybody all the time when people forget because it's been around for so long now the C60 still not been approved by the FDA it's still been no human trials have been published it's still very you know experimental and that you"
+    },
+    {
+        "start": "00:06:53.680",
+        "end": "00:07:21.840",
+        "text": "as you taking it you are part of the grand human trial on this thing so yeah it's very experimental and it's a very good reminder that that you know of that fact okay so but really good points that that Bob is bringing to the table now when I chatted with Martin from Red Lion he's located in Ireland I basically said that COVID-19 seems to be like the flu on steroids so far none of our customers have caught the flu this winter if anything I got a sniffle which went away I have a young daughter you know what schools are like centers for"
+    },
+    {
+        "start": "00:07:21.840",
+        "end": "00:07:50.740",
+        "text": "disease I got not a single thing for her this year even when she had the flu I didn't bother taking any precautions but still no flu there then there's the older lady who worked in the building with bad air and she also reported no flu this season and a few other people and that's a lady that he comments in his in his last newsletter I believe so I'm going to ask people in newsletters if anyone has caught the flu using red line 60 olive oil it would be great if we"
+    },
+    {
+        "start": "00:07:50.740",
+        "end": "00:08:16.200",
+        "text": "got feedback on this because obviously we can only surmise the results until someone with COVID-19 uses red line or red line 66 olive oil or 66 olive oil in general and then he asked me perhaps you could help in this I want to make a plea for for a feed you know for data so right now sales right now are getting stronger by the day I think that because people have realized they've got no flu this season for example we got our first order from Saudi Arabia the other"
+    },
+    {
+        "start": "00:08:16.200",
+        "end": "00:08:42.240",
+        "text": "day I expect sales to peak in July prefer not to get sales this way but then again it could be very positive I have to agree with you that it isn't going away anytime soon and so what yeah I mean at the end of the day I mean there's there's a there's a case to be made that C60 is really helpful for the immune system as you know from all the other videos I've made other people have made you know what does it do it it helps your body heal itself because of its"
+    },
+    {
+        "start": "00:08:42.240",
+        "end": "00:09:11.640",
+        "text": "ability to scavenge all of your radical you know free radicals in your body and so he's noticing that people who are taking C60 aren't getting the regular flu and we're all and so that really piques my interest to say well how how are you guys doing for everybody who watches this video if you take red line or if you if you if you don't take if you take another product if you could just comment please you know it's marcher ready right so if you could just comment in the video comments I'll pass this along to Martin but what we want to"
+    },
+    {
+        "start": "00:09:11.640",
+        "end": "00:09:41.280",
+        "text": "know Martin and I we would like to know for people who are taking 60 C60 oil have you and specifically his product but you know whatever product you know have you caught the flu this year and that would be very indicative if we find that there's a ton of people who have not and then you know and that are you know that are taking C60 oil and that would be a very very interesting data point so if you could help us out please comment in the video about how you're doing this year with in relation to illnesses okay and then you know it's"
+    },
+    {
+        "start": "00:09:41.280",
+        "end": "00:10:07.520",
+        "text": "just more data the more data and the whole purpose of this video is to the more we know the more we share information amongst ourselves the better decisions that we can make about what we want to do for ourselves and for our family and that's really why I'm presenting this video and collecting all these different comments and sharing them with you so the more data we can get the more we collaborate you know the better will all be from it so please if you could do that that would be awesome okay so speaking with Ian Mitchell and"
+    },
+    {
+        "start": "00:10:07.520",
+        "end": "00:10:33.560",
+        "text": "by far Ian Mitchell if you know who he is he is literally the top scientist in the C60 field and again he is in the United States he operates out of two different labs I know one of them is in Colorado I think and anyway his good product or his company he's got three that's C360 health carbon 60 plus and live pet so he does a pet product as well as C60 pet product now Ian got back to me and said I foresee it definitely hitting the supply chain is not I'm"
+    },
+    {
+        "start": "00:10:33.560",
+        "end": "00:10:59.360",
+        "text": "sorry as a lot of the factories that produce C60 were in Wuhan which I was very surprised I did not know that that's that's an amazing because Wuhan has been shut down for weeks and so try to imagine all of that C60 that's not being produced and not being sent out to everybody who buys it so I think it will so I'm sorry Ian goes on to say I think it will likely spike sales as people always make emotional sales choices and fear is a pretty hefty"
+    },
+    {
+        "start": "00:10:59.360",
+        "end": "00:11:26.080",
+        "text": "emotion very true it is a great overall mitochondrial supporter and has shown some antiviral properties so I imagine a lot of people will be pushing it for this there are some recent studies using intravenous vitamin C showing that it slowed down symptoms in low-level cases but did nothing to affect patient outcomes in more severe cases people will likely make the leap to C60 because it's a stronger antioxidant and they will think that correlation is"
+    },
+    {
+        "start": "00:11:26.080",
+        "end": "00:11:52.760",
+        "text": "meaningful I think somebody will crack it soon and I figure there are quite a few ways to do it so I wouldn't be it wouldn't surprise me if there is a way to do it incorporating C60 doing it meaning finding a way to cure to treat you know coronavirus but unfortunately and unfortunately it still isn't mainstream enough to garner the researchers probably required to pull that off okay so very very prudent information and that you know in"
+    },
+    {
+        "start": "00:11:52.760",
+        "end": "00:12:17.240",
+        "text": "speculation here that you know by C60 could help and it could be very helpful and eventually it'll just take some time for that to actually come out I don't know if you knew this but I and Mitchell's actually developed a cancer serum using C60 as a carrier so so you know he if anybody knows he's got several patents to his name how to do this kind of stuff it's it's I am thank you and by the way and thank everybody who's got responded to me and now Dave"
+    },
+    {
+        "start": "00:12:17.240",
+        "end": "00:12:46.980",
+        "text": "over at C60 Labs in the United States basically he stated for C60 Labs I got concerned about the potential supply issues late January the cobalt glass bottles caps bottle reducers and oral syringes we all we use are all manufactured in China or Taiwan so we purchased and stored large quantities of each item very very smart Dave at current production levels I'm confident we have over a year's worth of packaging supply so yeah that's that's someone looking"
+    },
+    {
+        "start": "00:12:46.980",
+        "end": "00:13:16.600",
+        "text": "future you know very smart while we have not seen a noticeable increase in business over the past few weeks I am answering a lot more questions from concerned customers the general consensus seems to be that doing anything to boost immune levels will go a long way towards helping to fight off this virus as with most viruses and ailments and I completely agree and it goes right back to Martin's point it goes back to IAN's point you know that C60 you know if there is speculation that it can help and so you know so definitely there's"
+    },
+    {
+        "start": "00:13:16.600",
+        "end": "00:13:44.880",
+        "text": "something there now Rebecca is from the C60 company located in the United Kingdom and I and she rolled me back and said at the moment I do not see any impacts as long as the C60 you are buying is from a USA lab I don't buy anything from China for our supply chain so not concerned at this stage however I do understand that even the even they USA Labs buy the graphite rods from China so eventually all supply has the potential to dry up and then the"
+    },
+    {
+        "start": "00:13:44.880",
+        "end": "00:14:14.840",
+        "text": "prices will increase I've seen a massive uptick in sales since Saturday and this is last Saturday today is March 8 2020 so since last Saturday clients are putting in huge orders to stock up for the next 12 months at the moment I am struggling to keep up with demand and products are selling out before they have finished their manufacturing cycle I've ordered enough C60 to get me through the next two months and will assess the situation again at the end of this month interestingly I had an email from China today offering me C64 sale they"
+    },
+    {
+        "start": "00:14:14.840",
+        "end": "00:14:44.000",
+        "text": "were based in Wuhan difficult to get the truth out of the Chinese at the best of times but I thought Wuhan was on lockdown which they are so you know you never know okay so thank you Rebecca and then when speaking with Philip Von Holzendorf owner operator of Lila Labs in Germany he responded regarding our C60 cosmetics powders and oils I don't really foresee any change anything change for us since we do not buy anything from China and I don't see any components"
+    },
+    {
+        "start": "00:14:44.000",
+        "end": "00:15:11.480",
+        "text": "originating from China we only buy high quality organic oils and other organic ingredients that we mainly buy in Germany Austria USA and Canada as an example organic olive oil or organic hemp seed oil are all products that also our suppliers don't get from Asia so at this point I don't see an issue because of that that's awesome however if at a point of panic should lead people to buying hoarding products then this may impact all products eventually lastly if"
+    },
+    {
+        "start": "00:15:11.480",
+        "end": "00:15:39.760",
+        "text": "the virus at some point were to spread similarly from China and also similarly impact Europe and the US then will also be heavily impacted so you know and since he wrote this to me we all know what has happened in Milan so it's definitely in Europe at this point so yeah that's how fast you know things are changing right now now Philip also goes on to say oh that for the C60 market in general I see prices increase by the way and shortage play a role probably that is only"
+    },
+    {
+        "start": "00:15:39.760",
+        "end": "00:16:08.280",
+        "text": "partially because of supply chain it's rather the combination with increased demand due to the virus we will keep prices stable as long as we can and are not impacted by any shortage or price increase ourselves so that's that's that seems to be going really well in Germany good job and thank you Philip so now Dr. Pierre-Louis Brunner of Solaris Kim responded to Dave and this was shared with me in his response to the questions that I posed to everybody was of course"
+    },
+    {
+        "start": "00:16:08.280",
+        "end": "00:16:35.760",
+        "text": "China slowed down on the production of many materials and supply for all of for all the industries I believe it is more critical for the complex manufacturing involving multiple parts coming from all over the world such as the automotive industry is only one part is missing the whole line is frozen however the situation is temporary and they seem to have the situation fairly under control manufacturing in China was stopped anyway for the festivities as usual and resume slowly later on the bright side it is clearing their skies"
+    },
+    {
+        "start": "00:16:35.760",
+        "end": "00:17:04.760",
+        "text": "which is very true if you've seen the NASA pictures for us we were also very lucky to have the inventory renewed early this year so here's another producer another manufacturer that bought their annual supplies early very very very smart even if most our suppliers are from North America and Europe with China cut off these suppliers also experience shortages due to higher demand for more local suppliers this is also what happened to us recently when where we saw an increase in demand do most probably to customers that needed a"
+    },
+    {
+        "start": "00:17:04.760",
+        "end": "00:17:33.760",
+        "text": "new source besides their Chinese suppliers we are trying to have a good amount in stock to fulfill these demands our customers that are on a monthly base plans are prioritized in case temporary shortage due to large larger sales volumes so this is a very important point everyone is that you know even if the company you're buying from doesn't have a shortage or they don't deal with China it's all the people who do deal with China are getting cut off from their supplies and so where are those customers going to go where are"
+    },
+    {
+        "start": "00:17:33.760",
+        "end": "00:18:00.960",
+        "text": "they going to go so you know there's definitely you know the power the possibility if not the probability of shortages in the near future both in terms of raw materials oils C60 graphite rods bottles I mean all of it's just you know we're looking at you know that there's gonna be an impact and so if you step back and think about it and I first I just want to say thank you everyone for responding to my my requests for information thank you for contributing"
+    },
+    {
+        "start": "00:18:00.960",
+        "end": "00:18:30.440",
+        "text": "to this video I think again the more information we have the better decisions we can make so if I were to summarize you know kind of like what everyone was saying you know bottom line is what I'm hearing is sales are increasing so you know it's just like everything we're seeing in the news and there are impacts to the supply lines versus right now it's only bottles you know what will it be next you know oils or whatever so now I think the another thing that's really kind of poignant is that you know I had pointed out vitamin C is a potential treatment and so what I did I don't know if you"
+    },
+    {
+        "start": "00:18:30.440",
+        "end": "00:18:55.920",
+        "text": "noticed my other video I think a few weeks ago right I actually created a video because the zanghua sorry if I mispronounce that hospital in Wuhan started a clinical trial with high-dose intravenous vitamin C as a treatment for coronavirus since February 13th that video was done there have been two other clinical trials with high-dose vitamin C being you know trialed in in China"
+    },
+    {
+        "start": "00:18:55.920",
+        "end": "00:19:22.800",
+        "text": "right now in Hubei province and so I just wrote a blog post a couple of days ago as an update to that video and one of the critical updates that has come out I believe Monday which was last Monday that today's Sunday this prior Monday I think was March 3rd it came out that the Shanghai government officially endorsed high-dose vitamin C for coronavirus and so if there's a"
+    },
+    {
+        "start": "00:19:22.800",
+        "end": "00:19:52.600",
+        "text": "link to my blog in the video description it's the most recent article it lists all of the different you know all the different press releases and things like that that have come out about those clinical trials and these are real formal clinical trials they're registered with the clinical trials.gov and they're very and there's all the list of all the doctors that are involved and the institutions that are involved this is very formal and so what's what's happening with vitamin C now with high-dose vitamin C is that there's three"
+    },
+    {
+        "start": "00:19:52.600",
+        "end": "00:20:18.280",
+        "text": "trials there's been sufficient evidence from the first trial that you know there's been tremendously large quantities of C-60 ordered and delivered and trucked into Hubei province and that now the Shanghai government has come out and said this is the treatment for coronavirus so unfortunately I you know I searched mainstream news Google YouTube and that story has not made it out into the general public yet but it's out there if you click on if you go to my article on"
+    },
+    {
+        "start": "00:20:18.280",
+        "end": "00:20:46.840",
+        "text": "my blog click on the links you can see the actual government press releases and all of the people and institutions behind these clinical trials and this announcement so it is a huge deal and and so I want to point that out as point number one here that vitamin C is a potential treatment if you haven't heard about that watch my video read my blog article about this the second thing is is that C-60 as iron alluded to and some other of these individuals have eluded"
+    },
+    {
+        "start": "00:20:46.840",
+        "end": "00:21:16.280",
+        "text": "to is it is well technically it's 172 times stronger than vitamin C as an antioxidant and now vitamin C as a strong antioxidant and taking high dose vitamin C knocks out this virus then you know the question remains and this is what iron was eluding to which is what happens if you use C-60 you know it's it's way stronger and what would happen and then what we just don't have enough data which is what Martin is asking for is hey folks could you you know just chime in you know let us know how things are going so it's it's very"
+    },
+    {
+        "start": "00:21:16.280",
+        "end": "00:21:41.600",
+        "text": "probable that that C-60 is going to definitely strengthen your immune system during this escapade we're living through and it also could possibly be possibly be a treatment now I want to make a very important claims name claim here in the fine print just like in the pharmaceutical ads these statements have not been approved by the FDA and are not to be construed as medical or health advice all right but I want to get back to my bullets so it's possible it's probable"
+    },
+    {
+        "start": "00:21:41.600",
+        "end": "00:22:09.280",
+        "text": "it may be highly likely that it's it's going to help and so I would say to you guys if you're taking C-60 keep taking C-60 it's going to help you one way or another now if you actually get the virus a high-dose vitamin C is proven through those clinical trials and this might be a good fallback you know as as another possibility so I just wanted to share that with you that's kind of what I got and then also my other research on vitamin C and I really do"
+    },
+    {
+        "start": "00:22:09.280",
+        "end": "00:22:38.320",
+        "text": "want to point out something over here you know the FUD is is strong boy the FUD is strong on this whole story fear uncertainty and doubt and I just want to say that I'm not at all trying to push that I really want to bring you the science I want to bring you what people professionals in the field who own their own companies are saying this is not hearsay this is directly from the sources if you if you look at those links that I put in my blog article or my"
+    },
+    {
+        "start": "00:22:38.320",
+        "end": "00:23:05.240",
+        "text": "other video it's everything is backed up by the science and by the research and and by what's been published so I don't want anyone to construe anything that I've said in this video or anything that anyone else has said in this video as any fear uncertainty or doubt these are all facts these are scientific facts and anything that is speculation I really want to make sure it's clear that it is speculation so I don't want to push any FUD on you guys there's enough FUD"
+    },
+    {
+        "start": "00:23:05.240",
+        "end": "00:23:32.680",
+        "text": "already so and then as you listen to other videos and as you do your research you know there's a lot of fear I mean there is I mean with us be honest with ourselves but you know keep in mind the distinguish between someone trying to share information with you and someone trying to scare you okay so the last thing I want to say and I just want to bring this up because this was in the prior video that I I'm gonna take down I did take down and replace with this video was the announcement that Monty has decided to take a break for running the"
+    },
+    {
+        "start": "00:23:32.680",
+        "end": "00:24:00.000",
+        "text": "C60 telegram co-op and so you know this incredible gentleman has spent this is Monty over here with his lay you know thank you Monty because for over the last year and a half he has single-handedly run the co-op at his own expense literally he puts out a considerable amount of money I mean tens of thousands of dollars buys huge lot you know lots of C60 personally rez packages them into"
+    },
+    {
+        "start": "00:24:00.000",
+        "end": "00:24:29.480",
+        "text": "little one gram vials personally does all the labeling personally does all the shipping and handling and going to the post office at zero zero profit I mean literally at cost it's been completely voluntary and he's done batch after batch after batch and and at this point you know Monty is just needs a break and so I just and we're just you know so Monty's taking a step down and the entire community and there's over 500 of us and and like he told me is like you"
+    },
+    {
+        "start": "00:24:29.480",
+        "end": "00:24:58.320",
+        "text": "know when it first started it was like maybe a couple hundred of us and it was manageable but now there's 500 it's more than doubled and he just couldn't keep up with it anymore because he has a very you know he's just like the rest of us he's a working guy a full-time job family the whole bit so but you know so he's taking a step down wanted to say thank you from the community thank you from the bottom of my heart for what you've done I mean it's the most generous thing you could ever do which is volunteer your time away from your family to help complete strangers save money so they can improve their health and I just want"
+    },
+    {
+        "start": "00:24:58.320",
+        "end": "00:25:27.080",
+        "text": "to say thank you so much Monty thank you very much for what you've done so now he's taking a step down and and honestly for a few days we didn't know what we were going to do I announced this in the first version of this video that you know we're just not going to have one and then I just want to say you know by the universe is good graces Philip Von Holtzendorf of Layla Labs found out that Monty was stepping down and by you know just absolute"
+    },
+    {
+        "start": "00:25:27.080",
+        "end": "00:25:54.200",
+        "text": "fortune us you know just alignment of the stars whatever but Philip has volunteered Layla Labs resources to take over production of the telegram co-op you know and so what what's gonna happen now and and by the way thank you so much Philip I mean the community is so thankful there are so many people who want to take C60 who just absolutely can't afford it it's just beyond what"
+    },
+    {
+        "start": "00:25:54.200",
+        "end": "00:26:23.560",
+        "text": "they can pay and that's what the whole co-op was designed to do but you know but so what Philip's doing is basically he's running at bare bones minimum you know profit he's going to basically take over all of the orders of this of the C60 co-op the telegram co-op but it's got it has to conform to his existing fulfillment or it's gonna cost him more money and he's he doesn't have any margin I mean other he has no room and he's not making any money so he"
+    },
+    {
+        "start": "00:26:23.560",
+        "end": "00:26:51.120",
+        "text": "doesn't have any he can't run it at a loss nobody can run a business at a loss so what he's asking me to convey is that Layla Labs is gonna rescue our co-op you can buy C60 through the co-op Layla Labs will be the fulfillment and the payment wing of that and but it fits into their how they do stuff which is it's gonna be a minimum a two or five gram order going forward we used to do I think Monty used to actually even sell down to the half a gram but now you know it's"
+    },
+    {
+        "start": "00:26:51.120",
+        "end": "00:27:18.200",
+        "text": "just only gonna be two or five and then everybody that comes in from the co-op is gonna get the co-op discount and I think Monty was selling C60 for 110 plus shipping I think it's only gonna go up to maybe like 115 120 plus shipping so it's only a little bit more for Layla Labs to take it over and when you look at the price of retail C60 you know it's like 230 240 I mean so it's still at"
+    },
+    {
+        "start": "00:27:18.200",
+        "end": "00:27:46.480",
+        "text": "120 it is incredible co-op bargain and thank you and if you guys ever talk to Philip or DM and please give him a thank you for for the community because he's doing a huge favor and not making anything off of us to kind of pick up and take care of the community and that is just awesome I mean it's how many people do you know like that so thank you Monty thank you Philip for helping in the telegram co-op and helping all the people that benefit from the co-op so"
+    },
+    {
+        "start": "00:27:46.480",
+        "end": "00:28:12.720",
+        "text": "thank you very much so this is it thank you to all of the individuals who responded to my emails for information thank you for watching my video I know time is precious so I but again I'd wanted to share this with you I thought it was very interesting I wanted to know what other people were thinking about coronavirus what it's doing to the C60 whether or not you know maybe I should get a little bit more and to be transparent I did after I heard all these people come back to me and say yeah sales are increasing like a hard time"
+    },
+    {
+        "start": "00:28:12.720",
+        "end": "00:28:40.680",
+        "text": "getting stuff I'm like okay so I went out and stocked up myself on C60 so I'm assured of being able to continue to take my daily supplement I take it tablespoon a day and and it's it's the reason I go you know it's like my coffee but it's healthy super super healthy coffee so yeah I mean so I've definitely stocked up myself and and I just wanted to let you know what people are saying what people are doing again you know honestly the better the information you have the better decisions you have in very uncertain"
+    },
+    {
+        "start": "00:28:40.680",
+        "end": "00:29:08.720",
+        "text": "times on how you can take care of your loved ones and yourself so please take care of yourselves thank you for watching my video and lastly well we still you know are running the C60 chat group on telegram the join link is in the video description below again I did start a blog it's called the Tinkers Academy and if you want to go ahead and go to that blog or you want to go the blog and read the vitamin C article in your browser URL window just type in Tinkers.academy and it'll take you right there that's the URL for the new blog again thank"
+    },
+    {
+        "start": "00:29:08.720",
+        "end": "00:29:12.360",
+        "text": "Thank you very much for watching this video today. Have a great weekend, aloha."
+    }
+]

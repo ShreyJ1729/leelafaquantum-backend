@@ -1,0 +1,675 @@
+
+[00:00:00.000 --> 00:00:08.560]   a lot of everyone and welcome to a new Tinkers Academy video. This is a Tinkers chat. I've
+[00:00:08.560 --> 00:00:14.320]   got Ian Mitchell and Philip Von Holzendorf on the line and we've got a great lineup of
+[00:00:14.320 --> 00:00:18.920]   discussion topics for you today. You know, I just want to introduce these two gentlemen
+[00:00:18.920 --> 00:00:26.120]   for anyone who doesn't or hasn't heard of them before. Ian Mitchell is with Wizard Sciences.
+[00:00:26.120 --> 00:00:33.840]   He is a one of the more profound C60 scientists out there. He's got three, I believe, right
+[00:00:33.840 --> 00:00:41.320]   three different patents to your name regarding C60. And you're also the father of the first
+[00:00:41.320 --> 00:00:47.840]   P53 knockout rat study to validate the body study that actually launched the C60 supplement
+[00:00:47.840 --> 00:00:53.800]   phenomena. Plus, you're also done multiple dog studies on C60. And it's just, this guy
+[00:00:53.800 --> 00:01:01.720]   knows C60. And he's also an incredible biohacker wizard. Yeah. And so, and then all of us, we've
+[00:01:01.720 --> 00:01:07.280]   got Philip Von Holzendorf on the line. And he is with the Layla Labs, the Layla C60 Labs
+[00:01:07.280 --> 00:01:14.200]   and Layla Quantum Tech. He's an interesting thing about Philip is he's a former cell phone
+[00:01:14.200 --> 00:01:23.400]   industry executive, national tennis player, and turn entrepreneur. So there's some guys
+[00:01:23.400 --> 00:01:30.320]   got some great background. But he's also a C60 entrepreneur and has multiple products
+[00:01:30.320 --> 00:01:36.600]   out there that are C60 related as well as in the quantum space as well. So hey, guys,
+[00:01:36.600 --> 00:01:41.680]   welcome. Good morning. Thanks for having us, Kay. Philip, how are you doing today?
+[00:01:41.680 --> 00:01:45.400]   Hey, Kay. Thanks so much. Okay. Yeah. Thanks so much. That's I'm looking forward to the
+[00:01:45.400 --> 00:01:50.000]   discussion. Yeah, you know, I do want to point out one thing. And it's the beauty of Google.
+[00:01:50.000 --> 00:01:55.200]   And I want to go pull your pictures for this slide just to show what you two look like.
+[00:01:55.200 --> 00:01:59.640]   I kind of want to, I found a real interesting picture I wanted to share. And this is a picture
+[00:01:59.640 --> 00:02:12.360]   of young Philip that is out on Google. That is fantastic, man. That is great. Isn't Google
+[00:02:12.360 --> 00:02:17.240]   wonderful? Okay. So kids, I just want to say, you know, it's a warning. So this is if you
+[00:02:17.240 --> 00:02:21.920]   look like this now, and you start investing in crypto, this is you're going to get scruffy
+[00:02:21.920 --> 00:02:34.040]   looking. You know, so this is what crypto does to you. It's either that or teenagers.
+[00:02:34.040 --> 00:02:38.240]   I think we all have a teenager actually minds off the college now. But look what teenagers
+[00:02:38.240 --> 00:02:42.160]   does to you, but we're all still looking pretty young because we all do see 60. But yeah,
+[00:02:42.160 --> 00:02:47.400]   that was pretty funny. This has got to be when you were working in telecom. Is that you're
+[00:02:47.400 --> 00:02:54.120]   like your LinkedIn photo? Yeah, probably. I don't even know if you wish here that was,
+[00:02:54.120 --> 00:03:03.720]   but it's quite some time ago. Yeah. Anyway, that's Google for you. So so anyway, I couldn't
+[00:03:03.720 --> 00:03:15.160]   find one of you. I and I looked all over. Thank God, reach out to my mom. Okay. That's
+[00:03:15.160 --> 00:03:22.880]   all right. You know, I love Google. Sometimes you find the wildest stuff out there. Okay.
+[00:03:22.880 --> 00:03:28.560]   So hey, so the discussion topics today is we're going to talk about the latest research. These
+[00:03:28.560 --> 00:03:33.680]   two incredible minds are doing. There's some of the new products that are coming out. Some
+[00:03:33.680 --> 00:03:38.320]   of the new projects are working on. And you know, any C60 stuff that comes up for anybody
+[00:03:38.320 --> 00:03:43.920]   that's still interested in C60, although it's kind of waned down last couple of years and
+[00:03:43.920 --> 00:03:48.320]   we've kind of like moved off to different subjects. But because I'm actually really
+[00:03:48.320 --> 00:03:53.400]   looking into all sorts of other things as well as C60 now. But so these the last time
+[00:03:53.400 --> 00:03:59.360]   we kind of chatted, you know, you know, I and you'd launched the resistor product. It
+[00:03:59.360 --> 00:04:04.320]   was an ozone based product. And then there was the Layla Quantum jacket that was launched
+[00:04:04.320 --> 00:04:08.360]   out there. But so what I'd like to do is just kind of open it up and just say, Hey, guys,
+[00:04:08.360 --> 00:04:11.600]   you know, like, what are you working on now? And then, you know, start with either one
+[00:04:11.600 --> 00:04:16.760]   of you and let's just go from there. What do you want to talk about? Well, if you want
+[00:04:16.760 --> 00:04:24.400]   to take this one first? Sure, why not? So there are different fronts. Obviously, one
+[00:04:24.400 --> 00:04:30.920]   is the C60 side. And you know, we're very happy with the product portfolio we have currently.
+[00:04:30.920 --> 00:04:38.280]   So we're we're just optimizing. And one thing we don't have to dive into really much. But
+[00:04:38.280 --> 00:04:45.280]   I want to mention it at least today is that we're optimizing further our C60 in black
+[00:04:45.280 --> 00:04:50.360]   seat all capsules. So very unique product that some of you may already know of. It's
+[00:04:50.360 --> 00:04:58.600]   the only one that contains Aztec santin, which we found to be extremely competitive, compatible
+[00:04:58.600 --> 00:05:05.880]   and helpful in this mix. And we're actually working with iron right now to improve this.
+[00:05:05.880 --> 00:05:13.400]   So I think give it another four or five weeks and we'll, we'll be ready to announce it.
+[00:05:13.400 --> 00:05:19.160]   So there's not a whole lot of change, but it's just going to be even better quality.
+[00:05:19.160 --> 00:05:25.360]   And I'm really looking forward to that. And also, you know, for everybody, you know, watching
+[00:05:25.360 --> 00:05:31.280]   this from the US, Canada, you know, the production will be here. So that's a that's
+[00:05:31.280 --> 00:05:36.840]   a nice thing. Yeah, and then we're having actually a lot of things in the pipeline right
+[00:05:36.840 --> 00:05:43.160]   now on the quantum side for Lila quantum tech. I think probably some people are wondering
+[00:05:43.160 --> 00:05:51.560]   about the jackets and the jackets will be available should be available within the next 30 to 45
+[00:05:51.560 --> 00:05:59.980]   days. They're pretty much almost ready with with production. But we we still have some
+[00:05:59.980 --> 00:06:06.400]   some scheduling to do to roll it out. That's a that's a bigger, bigger issue. And I think
+[00:06:06.400 --> 00:06:11.520]   definitely within the next 45 days, this will be live on the website and people can then
+[00:06:11.520 --> 00:06:18.200]   get it. And yeah, so that's exciting. And then we're working on new frequencies that
+[00:06:18.200 --> 00:06:24.760]   we will launch. Actually, we have worked on them over the last six months. And there
+[00:06:24.760 --> 00:06:32.080]   is the forever young frequency, which will release probably in the next 30 days. That
+[00:06:32.080 --> 00:06:37.920]   one was developed by Zunya Fisher. It's one of the healers in our network. And I'll
+[00:06:37.920 --> 00:06:43.360]   actually also post a video with her very soon. And then there's a very exciting one that
+[00:06:43.360 --> 00:06:54.040]   Kay Elmer came up with. So that that's that's your thing. Okay, so you jump in with whatever
+[00:06:54.040 --> 00:07:00.440]   I may be missing. But it's it's so Kay actually did a lot of different things. And this one
+[00:07:00.440 --> 00:07:07.880]   was got me very excited because I may have a perspective on that too. It seems that testosterone
+[00:07:07.880 --> 00:07:13.960]   levels in man nowadays are actually relatively low. And you know, wherever you look at in
+[00:07:13.960 --> 00:07:22.000]   terms of food, diet, and other behaviors here on earth right now, it doesn't really support
+[00:07:22.000 --> 00:07:27.520]   testosterone levels. And you want testosterone levels to get those up again. It's quite tricky
+[00:07:27.520 --> 00:07:33.240]   actually. There are certain ways, basically, on what you can do other than sunning your
+[00:07:33.240 --> 00:07:41.160]   balls and to quote Cliff high here. But you can take certain things, but then you run
+[00:07:41.160 --> 00:07:48.360]   into the risk of possibly overdosing that or having other effects that you may not want.
+[00:07:48.360 --> 00:07:56.160]   And so this idea of Kay, I thought was amazing to create a frequency card that contains the
+[00:07:56.160 --> 00:08:02.440]   best possible nutrients and supplements you can take to actually boost your test testosterone
+[00:08:02.440 --> 00:08:11.160]   levels. And we got it then actually tested by by Roman. And yeah, he is very excited
+[00:08:11.160 --> 00:08:17.040]   about that. And he doesn't get so excited very fast. And he said this should have absolutely
+[00:08:17.040 --> 00:08:24.280]   measurable effects. So this one will be live, I think later today. That's exciting. And
+[00:08:24.280 --> 00:08:33.120]   then we have another, another one, which we call the DNA and cell protector, which basically,
+[00:08:33.120 --> 00:08:39.920]   I mean, does what the title says really, right? You know, it is intended to protect your DNA
+[00:08:39.920 --> 00:08:47.200]   and your cells. And from, you know, various influences, whether it's external substances
+[00:08:47.200 --> 00:08:54.440]   that are potentially harmful or other outside forces, you know, people are thinking about
+[00:08:54.440 --> 00:08:59.120]   the VACs currently. So that's definitely consideration. We don't want to go much into
+[00:08:59.120 --> 00:09:06.320]   that since this is a public video here. But, you know, people that got the VACs, they're
+[00:09:06.320 --> 00:09:10.880]   asking themselves, well, you know, am I safe now? And they're hearing some bad things.
+[00:09:10.880 --> 00:09:16.480]   So they're worried and a lot of people that don't get the VACs, they're very worried because
+[00:09:16.480 --> 00:09:23.760]   now they have heard that actually mRNA and all of that spike proteins, etc. can jump over
+[00:09:23.760 --> 00:09:29.920]   to you. And we actually got some evidence in regards to that as well. So, and then there's
+[00:09:29.920 --> 00:09:34.040]   certainly lots of other considerations in general where you want to protect your cells
+[00:09:34.040 --> 00:09:40.000]   and your DNA. And that card will also be available later today. And yeah, we're very excited
+[00:09:40.000 --> 00:09:46.720]   about this one. We actually tested extensively over the last five months with a lot of test
+[00:09:46.720 --> 00:09:54.440]   persons and actually around the globe, not just in the US. And yeah, we're very excited
+[00:09:54.440 --> 00:09:55.440]   about this one.
+[00:09:55.440 --> 00:10:03.040]   Yeah, it sounds amazing. Yeah, the testosterone booster, it originally started as one of
+[00:10:03.040 --> 00:10:08.800]   the five components of the men's booster overall, except the men's boosters really for men that
+[00:10:08.800 --> 00:10:14.240]   are like in there over 40. So, but I know that, you know, people younger than that are having
+[00:10:14.240 --> 00:10:18.800]   specific issues with testosterone. And then one of my friends was like, he's in his same
+[00:10:18.800 --> 00:10:23.120]   age as I am in the late 50s. And he started getting shots. And so when he did that, I
+[00:10:23.120 --> 00:10:27.840]   started researching like what he was doing to himself. And then it just wasn't, it wasn't
+[00:10:27.840 --> 00:10:32.200]   a good idea because, you know, once you have your body relying on a, on a, on a different
+[00:10:32.200 --> 00:10:37.520]   substance and actual injection of hormones, your body stops producing the hormones, right?
+[00:10:37.520 --> 00:10:41.600]   And starts relying on the injections. And so I just thought that was a really bad idea.
+[00:10:41.600 --> 00:10:47.760]   So I, I just took out the old original testosterone booster and then they had to tip off to Jack
+[00:10:47.760 --> 00:10:52.800]   Knoll, who he traded me. We did some frequency trainings. I got some more other substances.
+[00:10:52.800 --> 00:10:58.400]   And I kind of upgraded it and made this and I was pretty stoked that Roman really, really
+[00:10:58.400 --> 00:11:02.000]   picked up on it. So I'm actually testing it now, everybody. So we'll let you know how
+[00:11:02.000 --> 00:11:07.040]   it works on. I've actually got testosterone test kits and testing the frequency out of
+[00:11:07.040 --> 00:11:11.360]   myself. And we'll see what the results are. So I'm looking forward to that. So awesome.
+[00:11:11.360 --> 00:11:19.600]   Yeah. That's actually one word. One thing I'll jump in on that is, and I, I wasn't planning
+[00:11:19.600 --> 00:11:26.240]   on talking about testosterone, but having seen a couple of very aberrant jumps and people's
+[00:11:26.240 --> 00:11:30.720]   testosterone levels when I was reviewing their blood work from a couple of the trials that I've
+[00:11:30.720 --> 00:11:37.200]   been doing over the past two and a half years, I, I started looking at testosterone because
+[00:11:37.200 --> 00:11:41.120]   their levels had been increasing, which was for a guy, obviously a good thing, because Philip,
+[00:11:41.120 --> 00:11:44.960]   what you would have alluded to is completely spot on just due to the, the preponderance of
+[00:11:44.960 --> 00:11:50.880]   xenoestrogens and phytoestrogens, you know, whether it's chemical compounds that mimic estrogen or,
+[00:11:50.880 --> 00:11:55.600]   you know, plant compounds like soy and things like the isoflavones and stuff like that, that
+[00:11:55.600 --> 00:12:02.720]   mimic estrogens. There can be some, some issues with that. But I, I did notice one of the stats
+[00:12:02.720 --> 00:12:07.840]   that was really bizarre was that the, there was a big study done by the clinical endocrinology
+[00:12:07.840 --> 00:12:17.920]   guys in like 2006 or 2007. And they had shown that since the 1980s, the average testosterone in
+[00:12:17.920 --> 00:12:25.520]   males was dropping 1% per year. So at this point, you know, a guy would have on average 40% lower
+[00:12:25.520 --> 00:12:33.040]   testosterone than a guy would in 1980. And I, you know, it's, that's a pretty profound decrease.
+[00:12:33.040 --> 00:12:39.040]   Yeah, it's, yeah, it's all that's, that's everything that I'm reading as well.
+[00:12:39.040 --> 00:12:46.720]   So I'm hoping this helps, because I know that it's, I mean, everybody, every man I know, it's,
+[00:12:46.720 --> 00:12:51.200]   yeah, it's an issue. And we've been, what just, you know, all that plastic packaging and all of
+[00:12:51.200 --> 00:12:58.720]   that stuff is, has been, has a very bad toll on us. So yeah, I'm hoping this helps. And so from a,
+[00:12:58.720 --> 00:13:03.840]   so I am from a, from a, you know, from a science wizard standpoint, I mean,
+[00:13:03.840 --> 00:13:08.880]   what would be your solution other than injections for, if for someone that wants to
+[00:13:08.880 --> 00:13:13.040]   boost her testosterone? Because I take the supplements right now, you know, of course,
+[00:13:13.040 --> 00:13:18.560]   I created this frequency set to kind of boost the actual physical supplements that I'm taking
+[00:13:18.560 --> 00:13:22.640]   and trying to see, you know, if it goes up, but what would you recommend for up there? Anyone?
+[00:13:22.640 --> 00:13:29.840]   Ah, I would take, um, you're a come along to folia, or we also known as Tomcataly,
+[00:13:29.840 --> 00:13:35.280]   sometimes it's called long jack. And there, and it's a root, right? Basically, it's a dried
+[00:13:35.280 --> 00:13:41.360]   powdered root, but it's an aromatase inhibitor. So it doesn't actually trigger your body to
+[00:13:41.360 --> 00:13:45.840]   produce more testosterone, because most people don't have an absence of testosterone. Their
+[00:13:45.840 --> 00:13:49.760]   endocrine system's still producing some, you know, or normally they're not completely
+[00:13:49.760 --> 00:13:57.280]   dysregulated. They're just, you know, out of kilter, not turned off. Um, so it, if you take
+[00:13:57.280 --> 00:14:03.280]   an aromatase inhibitor, what happens is effectively it builds a dam in your system so that your body
+[00:14:03.280 --> 00:14:08.960]   doesn't break down the testosterone is rapidly. So you end up with your own endogenous testosterone
+[00:14:08.960 --> 00:14:14.880]   levels going higher, just because you've dammed them up and the breakdown isn't happening with
+[00:14:14.880 --> 00:14:21.040]   the rapidity, which it would have naturally, if you just let the aromatase break it down and cycle
+[00:14:21.040 --> 00:14:26.160]   it on. So the, the result of that is you end up with, you know, higher free testosterone levels.
+[00:14:26.160 --> 00:14:33.520]   Oh, okay. Yeah. Actually, I captured the frequency of that in the booster, um, and, uh, along with,
+[00:14:33.520 --> 00:14:40.240]   a bunch of other stuff. So yeah, that's, that's great. So, okay, so you've got the new frequencies,
+[00:14:40.240 --> 00:14:46.000]   and we're, we're trying to test the testosterone now. Um, are you, you know, uh, Philip, I know that
+[00:14:46.000 --> 00:14:50.960]   you go with, you know, the BESA Institute and iGAF, are you going to have these other frequencies
+[00:14:50.960 --> 00:14:54.800]   tested with those guys? And, uh, just like we did the other ones, or you did the other ones?
+[00:14:54.800 --> 00:15:02.880]   So the DNL and cell protection, this one we've already tested. So we're, we're done with this
+[00:15:02.880 --> 00:15:07.120]   one and the testosterone booster. All right. That is something, you know, you're doing your
+[00:15:07.120 --> 00:15:13.120]   test and then we want it to expand on that. So I think we'll, we'll do one because I find this topic
+[00:15:13.120 --> 00:15:19.440]   extremely fascinating, actually. And it's, it seems to be something that can be measured relatively
+[00:15:19.440 --> 00:15:26.400]   easily. So let's see what we can find out there. We do have more research planned indeed because
+[00:15:26.400 --> 00:15:31.600]   that's really very close to my heart because that's, that's what we want to do, right? You know,
+[00:15:31.600 --> 00:15:37.680]   people, we've always said these energy products is amazing for people that can see energies and
+[00:15:37.680 --> 00:15:42.320]   feel and sense them. And then you have so many people out there that can't do that and they,
+[00:15:42.320 --> 00:15:47.840]   they just want to see some signs. So we want to continue to produce that and there's actually
+[00:15:47.840 --> 00:15:57.200]   study in India planned. Okay. Uh, with two doctors that have come across our products and they've
+[00:15:57.200 --> 00:16:06.160]   found out that they're apparently beneficial results to kids and other people with
+[00:16:06.160 --> 00:16:15.600]   that are autistic. And now these two doctors, they have about 35 new autistic kids that
+[00:16:15.600 --> 00:16:24.160]   enroll into their, their program each month. And they're just really interested in setting up a real
+[00:16:24.160 --> 00:16:31.440]   clinical study that would run, I think, three to six months. It's, it's, it's quite an undertaking
+[00:16:31.440 --> 00:16:37.440]   actually. And they're, they want to work with official boards there in India. But for India,
+[00:16:37.440 --> 00:16:43.920]   the positive thing is that India is very open and general as a country towards,
+[00:16:43.920 --> 00:16:52.400]   you know, things that may not be mainstream, right? So they already have support for that. And we'll
+[00:16:52.400 --> 00:16:58.480]   start that study probably over the next 60 days. So that's exciting. Another study that we're,
+[00:16:58.480 --> 00:17:03.920]   that we're actually in the planning stages of right now, there are actually two and those will
+[00:17:03.920 --> 00:17:10.400]   be in the US. One will be another dark field microscopy study. So we've, we've done a lot of
+[00:17:10.400 --> 00:17:14.480]   dark field microscopy already. But what we want to do now is take it a step further
+[00:17:15.520 --> 00:17:22.720]   and really make it a very, well, you know, make it an even better study. Let's say it that way.
+[00:17:22.720 --> 00:17:29.280]   I just believe it at that. And then the last one that we are currently in the planning phases of
+[00:17:29.280 --> 00:17:37.280]   is actually in regards to Lyme disease. That's also with a bunch of doctors of the functional
+[00:17:37.280 --> 00:17:45.520]   medicine here in the US. And we found a way on how we can actually measure that really,
+[00:17:45.520 --> 00:17:53.040]   really nicely in a visual way. And yeah, we're currently in the planning stages. So I think maybe
+[00:17:53.040 --> 00:18:00.080]   in the next, yeah, 45 to 60 days, that study can also begin. And it's the first phase of that is
+[00:18:00.080 --> 00:18:07.040]   probably going to be three month, three month timeframe. And we'll certainly report out of those.
+[00:18:07.040 --> 00:18:11.680]   But that's very exciting. It's a lot of work. But I think that's, yeah, that's what we need to do.
+[00:18:11.680 --> 00:18:19.600]   That's awesome. Yeah, I mean, one, one quick shout out guys. This is regarding the quantum block.
+[00:18:19.600 --> 00:18:25.520]   I, you know, since we're all obviously tinkering with it these days and playing with frequencies.
+[00:18:25.520 --> 00:18:31.840]   Phillip, I wanted to let you know, a friend of mine that I had turned onto it got one of the blocks.
+[00:18:31.840 --> 00:18:37.680]   And he's been able to eat things that normally give him histamine reactions where he'd break
+[00:18:37.680 --> 00:18:45.840]   up hives without breaking out, which I got to say, man, hats off. Yeah, I read that. That is
+[00:18:45.840 --> 00:18:50.640]   indeed fascinating. Yeah, somebody reported that in the chat as well, that they had food
+[00:18:50.640 --> 00:18:56.320]   allergies and that they put the food in their eye block and it nullified it or neutralized it.
+[00:18:57.200 --> 00:19:02.320]   It's, yeah, it's amazing. You know, it's, that's the thing about this, this, this, I don't know what,
+[00:19:02.320 --> 00:19:07.440]   you know, I don't have a better word for it, but this phenomenon that just, it, it does a lot
+[00:19:07.440 --> 00:19:11.600]   of different things that you don't expect it to do. And that was definitely a really interesting
+[00:19:11.600 --> 00:19:17.440]   one. And in fact, in my piloting, as I was mentioning earlier, you know, and before we started the
+[00:19:17.440 --> 00:19:24.000]   recording, which I also worked with a, with a young man that had autism and primarily working
+[00:19:24.000 --> 00:19:30.400]   with his father. And the thing that was very unique about this test was I was using the
+[00:19:30.400 --> 00:19:36.560]   infinity block. But what was most interesting was that this young gentleman goes to a facility
+[00:19:36.560 --> 00:19:42.480]   every day in which they, you know, work with him and they rate him. So there's, he's been under
+[00:19:42.480 --> 00:19:46.880]   clinical observation for years. And so, and then every day he gets, he gets, they fill out this
+[00:19:46.880 --> 00:19:51.360]   questionnaire on his behavior and they score him. And so there's been this long track record
+[00:19:52.080 --> 00:19:58.960]   for this young gentleman on how he's doing. And so what was fascinating was, is that I started
+[00:19:58.960 --> 00:20:08.240]   putting him in the infinity block on Mondays. For the first time, he had positive scores. He'd
+[00:20:08.240 --> 00:20:13.520]   always had negative scores on Mondays up until this moment. And soon as he started going into the
+[00:20:13.520 --> 00:20:20.080]   eye block, he started having positive scores. And the his two caretakers were reporting that his
+[00:20:20.640 --> 00:20:26.000]   demeanor was, was much more positive on Mondays. And you know, because you could see that,
+[00:20:26.000 --> 00:20:30.560]   you could see the history. And so that's what made that one very unique because you don't really
+[00:20:30.560 --> 00:20:35.920]   get that kind of feedback, you know, from some of these trials. But here's someone who'd been,
+[00:20:35.920 --> 00:20:39.680]   you know, observed for quite a long time and scored. And all of a sudden, now all the new
+[00:20:39.680 --> 00:20:45.120]   scores going forward are very different and they're positive. And then he also started really coming
+[00:20:45.120 --> 00:20:50.480]   out of his shell and things like that, that he hadn't done since for a year or so. So yeah,
+[00:20:50.480 --> 00:20:56.320]   I think this whole issue about autism and all of these other issues, food and everything, it's,
+[00:20:56.320 --> 00:21:01.760]   it's pretty amazing. So I mean, Philip, you know, you were mentioning something about
+[00:21:01.760 --> 00:21:10.880]   the like Romans take on autism, is that something you could share in terms of just like the uniqueness
+[00:21:10.880 --> 00:21:15.600]   of that condition. I think it's fascinating. I don't know if you could you if you recall that
+[00:21:15.600 --> 00:21:21.600]   yes, earlier discussion by just yes, that was real interesting. And why possibly that this works
+[00:21:21.600 --> 00:21:30.400]   so well for autistic folks? Yes. So so the way he described it is that, you know, someone that's
+[00:21:30.400 --> 00:21:38.320]   autistic basically can't focus on this reality here. They're they're constantly pulled into these
+[00:21:38.320 --> 00:21:46.800]   other realities that they're that they're in. And the quantum energy, the pure quantum energy
+[00:21:46.800 --> 00:21:51.440]   of the infinity block, certainly also of the quantum book. But even more so he says of the
+[00:21:51.440 --> 00:21:57.760]   infinity book was almost counterintuitive because it's the infinity block is way stronger. He said
+[00:21:57.760 --> 00:22:05.040]   that pulls them in here and that gives them something to hold on to, if you will, and makes
+[00:22:05.040 --> 00:22:14.640]   them be more in this reality and and and feel themselves more and and this reality. And so for
+[00:22:14.640 --> 00:22:19.840]   him, that wasn't that wasn't a surprise at all that that it worked so well what you did,
+[00:22:19.840 --> 00:22:23.600]   which is kind of funny, right? For all of us, we're like, wow, this is amazing. For Romans,
+[00:22:23.600 --> 00:22:31.840]   like, yeah, I mean, this is exactly what I would have expected. So it's easy from that perspective.
+[00:22:31.840 --> 00:22:37.680]   And yeah, it's and then, you know, those things together also made me then think, okay, so now
+[00:22:37.680 --> 00:22:43.040]   we're finding out these things. Now we really need to do a study. So when these Indians came along,
+[00:22:43.040 --> 00:22:48.560]   I was just like, hey, this is just amazing. Let's let's do this study. So I yeah, there may be really
+[00:22:48.560 --> 00:22:55.520]   something to it. And it's it's something we again, we we struggle with to explain what is the actual
+[00:22:55.520 --> 00:23:02.160]   mechanism, you know, Roman can define that for us from his energetic viewpoint. But you know,
+[00:23:02.160 --> 00:23:07.920]   if we talk to a mainstream scientist, now they would be like, okay, so just tell me how this works,
+[00:23:07.920 --> 00:23:13.840]   right? And then we would start to to struggle to explain exactly how it functions, right, what it
+[00:23:13.840 --> 00:23:22.080]   does. Yeah, no, that is the difficulty. You know, you can see downstream effects. Oh, sorry, go ahead,
+[00:23:22.080 --> 00:23:26.720]   okay? I was just gonna say I just I just don't think there's a language yet. That's that's, you
+[00:23:26.720 --> 00:23:30.000]   know, because it's all about words and languages. It's like a foreign language where the guy tries
+[00:23:30.000 --> 00:23:34.480]   to explain something to you. And this is I can't think of a word in your language for X, right?
+[00:23:34.480 --> 00:23:38.800]   That's what I see this as. I just don't think there's a language yet that can explain this. And
+[00:23:38.800 --> 00:23:44.480]   we don't have words yet that we could use. But yeah, it's there's something definitely happening.
+[00:23:44.480 --> 00:23:50.560]   But I'm sorry. And what we're gonna say? No, it's exactly that. I think it's it's akin to and
+[00:23:50.560 --> 00:23:55.680]   Phillip and I have talked about this before. It's akin to people in, you know, the 14 or 1500s
+[00:23:55.680 --> 00:24:00.960]   trying to describe what we're doing with cell transmissions, you know, they simply lack the
+[00:24:00.960 --> 00:24:07.920]   vernacular there, there isn't an adequate capacity to linguistically convey the concept. And, you know,
+[00:24:07.920 --> 00:24:13.600]   and part of that is, you know, a lot of times the people who name things and come up with different
+[00:24:13.600 --> 00:24:17.600]   concepts, they're either in the arts or in the sciences, which are, you know, at their peak sort
+[00:24:17.600 --> 00:24:22.320]   of blended. Because, you know, anybody who's reached a certain degree of technical proficiency
+[00:24:22.320 --> 00:24:28.000]   when you push past that it becomes more of an art than than an actual science. And, you know,
+[00:24:28.000 --> 00:24:32.240]   you're striving for elegance in what you do. And I think with regard to the quantum, since I've
+[00:24:32.240 --> 00:24:37.360]   been working on it a lot for the past year with the bio charge projects and a couple of other projects,
+[00:24:37.360 --> 00:24:44.240]   it's difficult because I wasn't able to test things directly. And it's it's the first time
+[00:24:44.240 --> 00:24:50.000]   I've actually played with something where you can't run a standard analysis and get the standard
+[00:24:50.000 --> 00:24:55.600]   responses. You actually have to look for downstream effects, you know, you're dealing with a force
+[00:24:55.600 --> 00:25:01.440]   that you haven't completely identified. And, and frankly, in a spectrum that we haven't actually
+[00:25:01.440 --> 00:25:06.960]   identified, which is, you know, something that I think is a little different because, you know,
+[00:25:06.960 --> 00:25:11.600]   typically you think quantum and you're thinking, well, there's going to be some sort of EMF wave
+[00:25:11.600 --> 00:25:15.440]   that I can, you know, I can calibrate or some sort of gamma emission that I can look at.
+[00:25:15.440 --> 00:25:21.120]   And in my lab, we've actually just started finding some some gamma frequencies that we're
+[00:25:21.120 --> 00:25:28.000]   noticing in that spectrum. But, but it's difficult because you start to look for it and go, well,
+[00:25:28.000 --> 00:25:32.080]   okay, what are what are the precepts here? Well, people have done this before, you know, where
+[00:25:32.080 --> 00:25:37.360]   they tried to identify things that were happening, but they had no terminology for it. They didn't
+[00:25:37.360 --> 00:25:42.080]   exactly know where they were. So you're relegated to doing exactly what we're doing collectively,
+[00:25:42.080 --> 00:25:46.720]   all of us, you know, looking for the tangible physical effects, doing dark field microscopy,
+[00:25:46.720 --> 00:25:51.600]   saying, how does this affect the blood in real time? What are the actual results in your case,
+[00:25:51.600 --> 00:25:56.160]   you know, looking at the testosterone levels? So we're looking for physical correlates,
+[00:25:56.160 --> 00:26:00.880]   and then we're slowly starting to pull on the gordian knot that is quantum, you know, because
+[00:26:00.880 --> 00:26:05.920]   everybody wrinkles their nose when you say quantum anything. And myself included, honestly,
+[00:26:05.920 --> 00:26:12.880]   because it sounds like such a woo-woo marketing thing. But there really isn't a more adequate way
+[00:26:12.880 --> 00:26:19.680]   to describe it yet than to say, oh, it's some sort of little packeted, you know, variation in energy
+[00:26:19.680 --> 00:26:24.960]   or fluxing of fields. I really think we're all kind of still groping around in the dark.
+[00:26:24.960 --> 00:26:31.120]   The interesting thing is we're all having our own personal tangible experiences. And in my case,
+[00:26:31.120 --> 00:26:38.080]   I'm having quantifiable lab data. And, you know, the same thing with some of the products for Lila,
+[00:26:38.080 --> 00:26:43.360]   it, you know, there's quantifiable lab data. I've looked at it, I've shown it to a lot of people,
+[00:26:43.360 --> 00:26:48.160]   because it's impressive. You know, when you actually see that there is a physical manifestation
+[00:26:48.160 --> 00:26:53.200]   over them, over a matter of minutes, and it's statistically quantifiable. So that means it is
+[00:26:53.200 --> 00:26:58.000]   happening. But, you know, it gets back to that whole being a true scientist, you have to approach
+[00:26:58.000 --> 00:27:03.040]   it with the understanding that I'm not going to understand everything. If I do,
+[00:27:03.040 --> 00:27:08.160]   I'm not really pushing the boundaries one Iota, you know, because we're trying to grow, right?
+[00:27:08.160 --> 00:27:12.000]   I mean, that's the whole goal, at least for me, that's the whole goal of this sort of...
+[00:27:12.000 --> 00:27:18.400]   Oh, yeah, whoop, do we lose some species and just see what we can do?
+[00:27:18.400 --> 00:27:25.040]   I totally agree. You know, I get some comments sometimes on some of my quantum videos of, you know,
+[00:27:25.040 --> 00:27:30.320]   people just... Obviously, they just rejected before they try to understand it. And my common
+[00:27:30.320 --> 00:27:34.720]   always is that, you know, the first step of science is observation. You know, that's how
+[00:27:34.720 --> 00:27:39.760]   everything ever started. I mean, the first caveman that saw lightning strike a tree and some kind of
+[00:27:39.760 --> 00:27:44.240]   yellow thing shooting out of the branch walked over to it. You know, that was an observation
+[00:27:44.240 --> 00:27:49.600]   that led to the discovery of fire. It's science starts with observation. So that's what I'm trying
+[00:27:49.600 --> 00:27:55.360]   to do. It's just tinker and observe and then, then, you know, it kind of drilled down from there.
+[00:27:55.360 --> 00:27:59.760]   But yeah, it's pretty amazing. You know, and just since you're talking about that,
+[00:27:59.760 --> 00:28:06.800]   I want to segue over to a comment that you made when you were talking to Luke's story about this,
+[00:28:06.800 --> 00:28:14.720]   your product called BioCharge Resistor and how you were using lasers to kind of quantumly charge
+[00:28:14.720 --> 00:28:21.200]   this product. So that's kind of a segue between what, you know, Leila Q is doing because it's
+[00:28:21.200 --> 00:28:27.840]   quantum energy, but you were doing quote quantum charging. I mean, and then you were talking to
+[00:28:27.840 --> 00:28:31.120]   Dave Asprey, who was kind of giving you a hard time about using the word quantum.
+[00:28:31.120 --> 00:28:36.480]   Yeah, well, but you were saying, yeah, I'm using lasers. So, I mean, what do you mean when you
+[00:28:36.480 --> 00:28:44.400]   were using lasers and things to charge the product? Could you... Well, okay, I don't understand that.
+[00:28:44.400 --> 00:28:50.880]   Yeah. The first thing is to say that there's... And, you know, obviously, I'm doing my job and
+[00:28:50.880 --> 00:28:56.160]   trying to push the balance. So my understanding is different now than it was, you know, nine months
+[00:28:56.160 --> 00:29:01.760]   ago when I was talking to Dave Asprey and even a little bit more thorough than it was when I was
+[00:29:01.760 --> 00:29:11.040]   talking to a Luke's story. And the issue there is we're both calling something quantum because it's
+[00:29:11.040 --> 00:29:16.560]   in a spectra that hasn't really been identified. In the case of mine, it's more identifiable because
+[00:29:16.560 --> 00:29:22.240]   it's something tangible. And I can actually tell you what the frequency is numerically that I'm
+[00:29:22.240 --> 00:29:29.600]   pulsing things at and what I'm trying to do. With the quantum from, say, Leila Q, it's different.
+[00:29:29.600 --> 00:29:35.040]   It's actually the quantum that I've been focusing on more lately because I think it's... Honestly,
+[00:29:35.040 --> 00:29:41.680]   I think it's more impactful and profound. But it, as of yet, is still different than what I was
+[00:29:41.680 --> 00:29:48.800]   doing using the lasers and the pulse frequencies. So the whole scoop with the lasers was really...
+[00:29:48.800 --> 00:29:56.000]   Are you familiar with holographic plates? Slightly. Okay. So basically, if you look at a holographic
+[00:29:56.000 --> 00:30:01.520]   plate, you shine a light through it and everybody's probably seen one. You know, it contains an image
+[00:30:01.520 --> 00:30:08.480]   inside the plate. And the interesting thing about a hologram is that if you crack that glass plate,
+[00:30:08.480 --> 00:30:15.440]   every small component of it contains all of the information for the entire image that was stored
+[00:30:15.440 --> 00:30:21.200]   down to a molecular level. And now, if you just shine a light through it, like most people do,
+[00:30:21.200 --> 00:30:26.320]   you get the imagery created with a pretty fair degree of resolution. But if you shine coherent
+[00:30:26.320 --> 00:30:31.920]   light through it from another laser, you actually get a perfect representation of what was captured
+[00:30:31.920 --> 00:30:37.760]   in that glass sheet down to photonic scale. So you get actual subatomic resolution
+[00:30:37.760 --> 00:30:43.120]   when you shine co-current light back through it. So when I was working on developing resistor,
+[00:30:43.120 --> 00:30:48.560]   my goal there was to come up with a way to replace autohemotherapy, which is where you pull your
+[00:30:48.560 --> 00:30:55.680]   blood and then you inject ozone into it. And then ozone is about the third most reactive molecular
+[00:30:55.680 --> 00:31:00.880]   species. So what happens is, in a matter of seconds, literally, because there are 100
+[00:31:00.880 --> 00:31:05.120]   million molecular interactions with the ozone a second, it's basically just stripping electrons
+[00:31:05.120 --> 00:31:09.680]   as rapidly as you can. And since electrons was around at the speed of light, it's a pretty quick
+[00:31:09.680 --> 00:31:18.160]   interaction. So after a few seconds, the ozone is all gone. It has interacted with the lipids and
+[00:31:18.160 --> 00:31:23.600]   membranes and has formed these things called stabilized ozonides. And the ozonides are signaling
+[00:31:23.600 --> 00:31:28.560]   molecules that go in and they have an unstable oxygen kicked off on the side. So it's more
+[00:31:28.560 --> 00:31:34.960]   stable than ozone by a great degree, but it's less stable than your standard molecule. And so it
+[00:31:34.960 --> 00:31:39.920]   goes in and it sets up signaling cascades. And that has a whole bunch of downstream effects,
+[00:31:39.920 --> 00:31:44.560]   like upregulating your mitochondrial function. And you can actually feel it because it flushes
+[00:31:44.560 --> 00:31:49.360]   you out in terms of temperature. So that was my goal with that whole project. But I didn't know
+[00:31:49.360 --> 00:31:55.520]   that it would actually be doable in the normal sense, because I had tried lots of ozonated oils
+[00:31:55.520 --> 00:32:02.400]   and it didn't work. They had an effect, but they didn't have nearly as pronounced an effect as
+[00:32:02.400 --> 00:32:08.000]   I was looking for. So then I went back and started looking at the original research and Tesla had
+[00:32:08.000 --> 00:32:14.560]   done the original ozonated oil. And he, in lieu of how everyone has done it for the past 100 years,
+[00:32:14.560 --> 00:32:20.800]   since he came up with the concept 120 years ago, he had this whole thing set up with magnetic field
+[00:32:20.800 --> 00:32:25.760]   beds and he would fill it with oil. And then he would slowly bubble ozone through the oil
+[00:32:25.760 --> 00:32:31.200]   while they were under the influence of these magnetic field beds. And nowadays, everyone who
+[00:32:31.200 --> 00:32:36.640]   produces it takes two and a half weeks or so to produce their ozonated oil, just by bubbling ozone
+[00:32:36.640 --> 00:32:40.720]   through through the oil and running it through with a venturi over and over and told that it's
+[00:32:40.720 --> 00:32:46.160]   done a full three triple-triple redox reaction. Basically, you keep reducing it until you can't
+[00:32:46.160 --> 00:32:52.320]   reduce it anymore. And so that's actually why people question me about using a polyunsaturated
+[00:32:52.320 --> 00:32:58.960]   fatty acid. It will get no longer is that at the end of the process, so it ceases to be a poofa.
+[00:32:58.960 --> 00:33:06.000]   But regardless, so his process, Tesla's process, took eight weeks. And when I first looked at that,
+[00:33:06.000 --> 00:33:11.280]   I thought, Tesla was a smart guy. There is no way in the world he was trying to waste money and
+[00:33:11.280 --> 00:33:17.120]   time. What was he doing? So it dawned on me after just kind of using on it for a little bit that
+[00:33:17.120 --> 00:33:23.680]   in his infinite wisdom, he had realized that he was creating polar molecules. And you could
+[00:33:23.680 --> 00:33:29.760]   orient the polar molecules, basically make everybody pack up single file and get something that was
+[00:33:29.760 --> 00:33:35.040]   much, much, much stronger than everyone else's oil, because theirs was still viscous and rolling
+[00:33:35.040 --> 00:33:41.200]   around. And as his increased and its solidity, because it almost turns to a gel,
+[00:33:41.200 --> 00:33:49.280]   it starts to solidify and doesn't move around. But it's already ordered in such a way that you
+[00:33:49.280 --> 00:33:55.360]   have minimized the amount of molecular interactions where the ozonites clink together and then the
+[00:33:55.360 --> 00:34:02.080]   oxygens that are unstable move off in the form of a stabilized O2. So I thought, Jesus, this guy's
+[00:34:02.080 --> 00:34:07.760]   sharp. He must have felt somewhat lonely back in the early 1900s, because I'm sure he was probably
+[00:34:07.760 --> 00:34:13.440]   the only guy that got it. So anyway, so I thought, well, okay, I can do that. So that was an easy
+[00:34:13.440 --> 00:34:18.240]   thing to mimic. But then I thought, you know, I've got about a hundred years of tech that Tesla
+[00:34:18.240 --> 00:34:24.080]   didn't have, some of which he actually theorized. But you know, I actually have it in my lab. So
+[00:34:24.080 --> 00:34:31.440]   I started looking at ways to amp amp things up. And so I amped up the process of how it was functioning.
+[00:34:32.240 --> 00:34:39.200]   And then I thought, well, the spin states are going to drop. Basically, I was trying to lock in
+[00:34:39.200 --> 00:34:46.160]   the energy. And this is how it relates to the holographic plates. So what I did was I used
+[00:34:46.160 --> 00:34:54.240]   lasers to basically turn the gel after I had stabilized the gel. I used lasers to lock in the
+[00:34:54.240 --> 00:35:01.280]   enhanced spin state that they were in so that they wouldn't drop out as readily. And so it's,
+[00:35:01.280 --> 00:35:06.560]   you basically, you set up a reference beam and an incidence beam. And when they splash together,
+[00:35:06.560 --> 00:35:13.680]   they hit everything and it binds that reference pattern in. So you've got an interactive waveform
+[00:35:13.680 --> 00:35:21.360]   that's encoded into the media. So you're using the gel as a sort of storage medium, just like they
+[00:35:21.360 --> 00:35:26.640]   do with glass, because neither of them is actually a solid. You know, glass is an amorphous solid.
+[00:35:26.640 --> 00:35:31.680]   It's not crystal. And so if you look at a different time scale, it's actually falling
+[00:35:31.680 --> 00:35:38.800]   towards the bottom of, say, a window as if it were just a sheet of soap bubbles. It actually
+[00:35:38.800 --> 00:35:44.160]   drops down with the expression of gravity on it over time, which is why in churches that are
+[00:35:44.160 --> 00:35:48.800]   1,000 years old, you have stained glass windows where the bottom of the stained glass is substantially
+[00:35:48.800 --> 00:35:55.360]   thicker than the top, because it is literally falling down like a soap bubble. So I just looked
+[00:35:55.360 --> 00:36:03.920]   at the speed of the lasers in comparison to the speed of glass becoming completely amorphous and
+[00:36:03.920 --> 00:36:10.800]   dropping down versus a gel doing the same thing and realized that the disparity between the lasers
+[00:36:10.800 --> 00:36:16.560]   and the other two was far greater. So I should be able to mimic that. So I used the gel as a
+[00:36:16.560 --> 00:36:22.880]   holographic media and entrained it and locked it in just the same way you would with a holographic plate.
+[00:36:24.240 --> 00:36:29.200]   Wow. I totally got what you just said, but I had to think really hard while you were talking.
+[00:36:29.200 --> 00:36:35.040]   You know, it's amazing. I mean, to be fair, it took me a bit, man. I mean, it really did. It
+[00:36:35.040 --> 00:36:39.920]   took me a couple of months. I mean, just think about 120 years ago, Tesla was messing around with
+[00:36:39.920 --> 00:36:44.240]   molecular bond angles and not even knowing that he was doing that. He was just thinking
+[00:36:44.240 --> 00:36:50.160]   magnetic charging probably are. Did you? Man, you know, here's the thing. I that there
+[00:36:50.160 --> 00:36:56.640]   were I understand it really. Yeah, I do. Wow. I really do. You know, when I'm sure you've seen
+[00:36:56.640 --> 00:37:01.040]   this quote, you know, someone asked Einstein, what's it like to be the most intelligent man in the
+[00:37:01.040 --> 00:37:10.240]   world? And he said, Oh, you know, you'll have to ask Nikola Tesla. Yeah. You know, it's amazing,
+[00:37:10.240 --> 00:37:13.920]   right? Phillip, you got to yet agree with me on this one. But I can't, you know, the way that
+[00:37:13.920 --> 00:37:18.880]   irons brain works, right? I mean, just listening to you, I just blows my head. I mean, but this is
+[00:37:18.880 --> 00:37:24.880]   the same guy who goes home and his wife yells at him to take out the trash. You know, 100% true.
+[00:37:24.880 --> 00:37:32.000]   Or to the point chides me for not having done it before I left for the lab. So
+[00:37:32.000 --> 00:37:41.920]   that's in genius. So, so is there any chance that that the the the Leila quantum energy
+[00:37:41.920 --> 00:37:47.280]   can can substitute for this, this type of imprinting that you're doing? I mean, is there
+[00:37:47.280 --> 00:37:52.560]   or is it completely separate energy? There, there are different, there are different parts of the
+[00:37:52.560 --> 00:37:57.920]   spectrum. You know, and I always prattle on it. And I know I've told both of you guys this, I'm
+[00:37:57.920 --> 00:38:02.320]   always trying to do that Henry David throw thing of, you know, being the one hacking at the branches
+[00:38:02.320 --> 00:38:07.360]   of evil or not. Rather, you know, his quote was, for every 1000 hacking at the branches of evil,
+[00:38:07.360 --> 00:38:11.600]   there's one hacking at the root. And so I always wanted to be the guy, you know, hitting hitting
+[00:38:11.600 --> 00:38:17.840]   the real issue. And the reason I think the the the quantum in terms of what, you know,
+[00:38:17.840 --> 00:38:23.360]   Philip is doing and Roman is working on and you're working on as well. Okay. I think that is more
+[00:38:23.360 --> 00:38:28.480]   impactful because when I assess the different space that it's coming from, that's a more
+[00:38:28.480 --> 00:38:33.840]   fundamental issue. So you're able to send out a cascade through a larger, a larger area.
+[00:38:33.840 --> 00:38:38.960]   With with more minimal effort, it's just we're just still groping around in the dark. I mean,
+[00:38:38.960 --> 00:38:45.360]   mine is quantifiable. And I can repeat it. And which is great, you know, for production.
+[00:38:45.360 --> 00:38:51.680]   But it's different, you know, it's it's a lower energy state. I'm looking at quantizing electrons
+[00:38:51.680 --> 00:38:56.400]   band, you know, and that's that's something that hasn't been done before. And it required me to kind
+[00:38:56.400 --> 00:39:02.640]   of rejigger the de Broglie equation from 1924 in order to do it. Because at the time, those guys
+[00:39:02.640 --> 00:39:08.720]   looked at energy states as, you know, all the energy contained within the system. And in the
+[00:39:08.720 --> 00:39:14.000]   way, they were basically saying it to break it down was, you know, everything in between the outer
+[00:39:14.000 --> 00:39:18.720]   most shell of the electron has a certain energy and wavelength, right, which makes sense. But
+[00:39:18.720 --> 00:39:26.000]   they were also looking at it as all of the energy is coming from the revolution of the electrons
+[00:39:26.000 --> 00:39:32.080]   around the nucleus of the atom or, you know, in an aggregate sense, the molecule. What's funny
+[00:39:32.080 --> 00:39:37.440]   about that is it's not right. It's it's mostly right, but it's not completely right because what
+[00:39:37.440 --> 00:39:42.880]   you what you really need to look at is they're like everything in nature. We didn't realize it
+[00:39:42.880 --> 00:39:50.320]   in 1924. You know, so this isn't any skin off Roy's back is everything has rotation, right,
+[00:39:50.320 --> 00:39:56.640]   fermionic and bosonic spin. So everything in nature is not only moving, it's rotating. And
+[00:39:56.640 --> 00:40:02.160]   they didn't realize that back in the day. So really what's going on is you can actually
+[00:40:02.160 --> 00:40:07.920]   change the inherent energy in a system, not just by having things jump orbital shells when you
+[00:40:07.920 --> 00:40:13.920]   pump energy into them. You can actually keep them in their own orbital shells so that there's no
+[00:40:13.920 --> 00:40:19.920]   bump out and then drop down an emission of a photon. You simply have to get the spin harmonized.
+[00:40:19.920 --> 00:40:23.680]   Because if you look at the solar system, that would be akin to saying all the power in the solar
+[00:40:23.680 --> 00:40:29.120]   system is from the planets rotating or revolving around the sun. But it's really not. There's
+[00:40:29.120 --> 00:40:35.280]   a tremendous amount of confined energy in the axial rotation of the planets on their own axis,
+[00:40:35.280 --> 00:40:39.680]   you know, because they're big fat spinning bodies with a lot of energy, a lot of mass.
+[00:40:39.680 --> 00:40:44.800]   And yeah, and exactly. And that's the thing. So there's a tremendous amount of confined energy
+[00:40:44.800 --> 00:40:51.600]   in that system. And the same thing applies to, you know, electrons running around a nucleus.
+[00:40:51.600 --> 00:40:56.080]   So I was manipulating that and just came up with different ways to approach that issue. So I
+[00:40:56.720 --> 00:41:03.600]   could enhance the potential for interaction without changing the molecular configuration.
+[00:41:03.600 --> 00:41:09.680]   But that's still, that's an outward effect. If you really get more to the issue, you're looking
+[00:41:09.680 --> 00:41:16.000]   at the quantum and the true quantum, which is what I'm beginning to hypothesize, you know,
+[00:41:16.000 --> 00:41:21.200]   going back to my handy dandy scientific method, you know, I had a question. Now I'm hypothesizing.
+[00:41:21.200 --> 00:41:27.920]   And my initial test date is actually starting to suss out a bit, that there is something that is
+[00:41:27.920 --> 00:41:35.440]   more fundamental than all matter and energy through which those things emerge. And if you can start
+[00:41:35.440 --> 00:41:41.760]   creating effects at that level, then they propagate up. And that's my hypothesis right now as to
+[00:41:41.760 --> 00:41:46.640]   what's happening with what we're determining, you know, on the Leela front, quantum energy is
+[00:41:46.640 --> 00:41:52.400]   it's something that's happening in a level that is below manifest energy and physicality,
+[00:41:52.400 --> 00:41:59.280]   it's something that's just in a vibratory field that then cascades through. So the longest answer
+[00:41:59.280 --> 00:42:05.040]   ever. Yeah, because you know, yeah, because I've tried to quantify that the, you know,
+[00:42:05.040 --> 00:42:10.800]   just trying to explain it to people and it's so hard to explain, you know, people that understand
+[00:42:10.800 --> 00:42:15.200]   source and source energy or consciousness, or the, you know, the power of consciousness,
+[00:42:15.200 --> 00:42:21.600]   they get it. And I'd, so I kind of put it in those terms that, you know, it's like source energy or
+[00:42:21.600 --> 00:42:27.120]   consciousness. But you know, I'd love to hear if you ever kind of like really theorize, because
+[00:42:27.120 --> 00:42:34.480]   one of the most fascinating aspects of this, you know, the Leela Q block is that it can transfer
+[00:42:34.480 --> 00:42:41.440]   a molecular frequency of a substance onto another object. And that other object gets, gets imprinted
+[00:42:41.440 --> 00:42:48.080]   on it, just like you were describing, using lasers, you know, this, this quantum block has that same
+[00:42:48.080 --> 00:42:54.640]   ability, where then the second object now has a copy of the molecular frequency. That's what
+[00:42:54.640 --> 00:43:01.280]   these boosters are, you know, it's kind of, you know, the frequency sets at Leela. I try to explain
+[00:43:01.280 --> 00:43:06.320]   it to people where, you know, they're really, there's only really three types of these sets
+[00:43:06.320 --> 00:43:11.120]   and one's etheric, right, which is created from consciousness, or, you know, but it's, it's,
+[00:43:11.120 --> 00:43:17.600]   you've got some very talented gifted healers that are able to formulate these etheric frequencies
+[00:43:17.600 --> 00:43:22.400]   like the weight loss frequency. And I'm guessing that you're new for every young frequency, right?
+[00:43:22.400 --> 00:43:26.960]   Phillip is also one of those, and as well as your DNA and cell protection.
+[00:43:26.960 --> 00:43:34.000]   And so those are quite healers with their consciousness. And then the stuff that I
+[00:43:34.000 --> 00:43:39.920]   tinker with, because I'm a mere mortal, is I just deal with 3D substances, but that have molecular
+[00:43:39.920 --> 00:43:44.880]   frequencies, because you're right, everything vibrates and rotates and spins. And so these
+[00:43:44.880 --> 00:43:49.920]   molecular frequencies, but what I don't have my, I can't grasp them. And maybe you can explain
+[00:43:49.920 --> 00:43:54.720]   it, and it is, I can't wrap my head around is like, how can how in the world doesn't work, right?
+[00:43:54.720 --> 00:44:00.160]   Because I know it works, because I've made these boosters and the people that, that try them out,
+[00:44:00.160 --> 00:44:04.880]   you know, if you just read the chat, people are just, it's amazing that it helps people, and it
+[00:44:04.880 --> 00:44:10.160]   blows me away that like, okay, it works, but how, you know, but you know, I'm just capturing these
+[00:44:10.160 --> 00:44:16.720]   substances. It's like this new one, the testosterone booster, and I put it into a metal card. And now
+[00:44:16.720 --> 00:44:20.960]   all of a sudden you carry that card. It's like you have this substance with you, or in you, you
+[00:44:20.960 --> 00:44:25.520]   know, and it or you're exposing yourself to it. But I mean, how would you familiar? Yeah, I mean,
+[00:44:25.520 --> 00:44:31.360]   how do you familiar with happy? With what? Happy, H-A-P-B-E-E.
+[00:44:31.360 --> 00:44:37.760]   No. Okay, so happy is kind of an interesting company. They have a device that you wear around
+[00:44:37.760 --> 00:44:43.520]   your neck that does exactly what we're doing. And they've got a lot of documented clinical
+[00:44:43.520 --> 00:44:50.000]   science for the past 20 years. And it just went public actually a couple months ago, and Scott,
+[00:44:50.000 --> 00:44:58.640]   the CEO is a friend of mine, and they are doing really neat stuff. He's a real sharp guy. And
+[00:44:58.640 --> 00:45:04.480]   they've got some interesting tech, and they're taking frequencies and locking it in and recreating
+[00:45:04.480 --> 00:45:08.800]   those frequencies and getting the same effects, you know, like you can lock in nicotine and produce
+[00:45:08.800 --> 00:45:15.760]   the effect of nicotine or lock in CPD. The same thing. I think a lot of people are tending in that
+[00:45:15.760 --> 00:45:20.720]   direction right now. And what you were asking, Kay, and you know, in terms of can I explain it,
+[00:45:20.720 --> 00:45:28.240]   yeah, at this point, I actually can. Quick, quick digression, or perhaps not so quick,
+[00:45:28.240 --> 00:45:33.760]   you're coming about source energy and consciousness. So there's a fellow that I've worked with for a
+[00:45:33.760 --> 00:45:41.360]   couple of years named Barry Morgan. He's a surgeon trained at UCLA, endoscopic surgeon used to go
+[00:45:41.360 --> 00:45:46.160]   all of the world training people for endoscopic surgery. And he's a really interesting guy,
+[00:45:46.160 --> 00:45:53.920]   very sharp, good MD. But his real gig these days is he runs a thing called energy for success.
+[00:45:53.920 --> 00:46:00.640]   And they work on source energy. So he's the only the only westerner who's ever become a
+[00:46:00.640 --> 00:46:05.760]   grandmaster of this, you know, ancient energy tradition that he learned in China over the span
+[00:46:05.760 --> 00:46:10.720]   of 25 years when he was traveling there to teach people in Chinese hospitals how to do endoscopic
+[00:46:10.720 --> 00:46:15.360]   surgery, he would go there and teach, and then go into the mountains and train to the monastery
+[00:46:15.360 --> 00:46:22.560]   in the mountains for 25 years. And he's kind of an interesting guy. But he's, you know, a grandmaster
+[00:46:22.560 --> 00:46:29.280]   of this stuff. And right after we first met, the thing that actually enabled me to reframe my
+[00:46:29.280 --> 00:46:34.560]   appreciation of what was happening with the molecular structure in terms of its energy density
+[00:46:35.200 --> 00:46:42.000]   was he put his hand over. He had had a guy, we were at paleo effects, like I ripped open a packet
+[00:46:42.000 --> 00:46:47.040]   of protein powder and scootched it into two separate piles. And Dr. B walked over and just put his
+[00:46:47.040 --> 00:46:53.120]   hand over one of the piles for just a couple of seconds and then said, I had faced him. And I was
+[00:46:53.120 --> 00:46:56.640]   standing right there, you know, no slight of hand or anything. It was just, you know, he just held
+[00:46:56.640 --> 00:47:02.880]   his hand above it, no close contact. And I tasted the two piles, one tasted like normal protein powder.
+[00:47:02.880 --> 00:47:08.240]   And then the one that he put his hand over tasted incredibly different, you know, no bitter taste,
+[00:47:08.240 --> 00:47:14.800]   no weird chemical aftertaste, it was good. And it kind of flummoxed me, I said, what did you do?
+[00:47:14.800 --> 00:47:19.600]   And he said, well, I charged it with source energy, you know, and his society went, what does that
+[00:47:19.600 --> 00:47:24.880]   mean? And he said, well, you don't actually think all of the receptors you have to discern whether
+[00:47:24.880 --> 00:47:29.840]   something is beneficial for you are just visible to you. And you know, kind of going back to the
+[00:47:29.840 --> 00:47:35.360]   whole lock and key mechanism of sensory input, which actually is as we speak, kind of being
+[00:47:35.360 --> 00:47:40.080]   debunked, because people are realizing that it's that it's actually a quantum biology function
+[00:47:40.080 --> 00:47:45.600]   where it has to do with vibration. And there's a there's a book called Life on the Edge by Jim
+[00:47:45.600 --> 00:47:51.040]   Al-Kaliel, that's really kind of goes in depth on the quantum biology front right now. And it's
+[00:47:51.040 --> 00:47:56.800]   very well researched. And if you follow the thought progression behind how they've done some of the
+[00:47:56.800 --> 00:48:02.480]   experiments to suss out that, you know, it's not a lock and key mechanism for say, old factory input,
+[00:48:02.480 --> 00:48:07.120]   it's actually a vibratory mechanism of sensory, then it starts to make more sense. But when he
+[00:48:07.120 --> 00:48:12.160]   did that, it really it kind of threw me because I looked at it, there was no change in temperature,
+[00:48:12.160 --> 00:48:16.960]   there was no change in color. So that rules out a whole host of different types of molecular
+[00:48:16.960 --> 00:48:21.760]   interactions. And and so it just it's stuck in the back of my head, you know, like, what the
+[00:48:21.760 --> 00:48:27.680]   heptus that means? Source energy charged source energy. And what I came to figure out is initially
+[00:48:27.680 --> 00:48:33.520]   my first blush at it was, it's a, you know, it's a quant, it's a quantization of the electron spin.
+[00:48:33.520 --> 00:48:39.520]   That's what I thought. Actually, as I as I've moved through it farther over the past nine months,
+[00:48:39.520 --> 00:48:43.840]   continuing to try and, you know, better my understanding of it, I've realized that that's actually
+[00:48:43.840 --> 00:48:50.640]   more align aligning with what Roman and Philip are doing, in that it's actually an even more subtle
+[00:48:50.640 --> 00:48:56.160]   vibration than I was thinking of. So it's not necessarily such a such a gross thing, gross
+[00:48:56.160 --> 00:49:01.200]   meaning in the material plane. It's more of a vibratory function. And so that's that's kind of
+[00:49:01.200 --> 00:49:07.040]   the setup for the quick answer. The quick answer is nothing solid. Matter isn't actually matter,
+[00:49:07.040 --> 00:49:16.320]   it's almost entirely space like 99.999% space. And if you put a pin in the yard and you walked out
+[00:49:16.320 --> 00:49:22.240]   30 feet and put another pin down and then drew that in circles, he had a 60 foot diameter,
+[00:49:22.240 --> 00:49:27.680]   that's generally speaking, the distance between the nucleus of an atom and the first orbital shell.
+[00:49:27.680 --> 00:49:34.560]   And that's a lot of space, you know, and that's, and that's literally that's, that's the relative
+[00:49:34.560 --> 00:49:40.240]   scale. So we're not actually solid in the way we think we are. So what does that really mean?
+[00:49:40.240 --> 00:49:45.120]   If you've got little things that are running around in a circle at the speed of light that are
+[00:49:45.120 --> 00:49:49.440]   there part of the time and not there part of the time, what it really means is something else is
+[00:49:49.440 --> 00:49:54.880]   holding it together, right? It's some sort of electron interaction. And to my my conception now,
+[00:49:54.880 --> 00:50:01.600]   it's an electron interaction with an overarching field, sort of mental or consciousness field that
+[00:50:01.600 --> 00:50:06.080]   actually holds it together. Now, I haven't completely proven that out yet, but that's,
+[00:50:06.080 --> 00:50:10.800]   that's my hypothesis. And that's what the data seems to be showing so far. So you know,
+[00:50:10.800 --> 00:50:16.000]   just being completely honest, but like, I can't say it definitively yet. I can tell you intuitively
+[00:50:16.000 --> 00:50:22.080]   it sure feels right. But that's what I'm trying to prove out is that it's a wave function. So whether
+[00:50:22.080 --> 00:50:28.640]   you have something that operates at a, like a level like happy where it's creating an EMF pulse
+[00:50:28.640 --> 00:50:34.080]   at a certain frequency, that's a copy of a molecular pulse from saying nicotine or caffeine,
+[00:50:34.080 --> 00:50:39.840]   or whether you're doing something at the quantum level, you know, like charging a card
+[00:50:39.840 --> 00:50:45.680]   with the quantum frequencies, you know, as is arrived at by somebody who can tap in
+[00:50:45.680 --> 00:50:52.400]   intuitively to that field, and then do that all a Roman, you're, you're getting the same effect
+[00:50:52.400 --> 00:50:57.840]   because you're acting on something that's not actually static. It's vibratory and nature and
+[00:50:57.840 --> 00:51:04.000]   everything is just interacting patterns and waves and varying levels of complexity. And we're still,
+[00:51:04.000 --> 00:51:09.680]   we're still nudging it to ripple at a level that's below what we have looked at before.
+[00:51:09.680 --> 00:51:14.560]   So, and that's why I say, you know, I'm nudging it at one level. But when you go a little bit farther,
+[00:51:14.560 --> 00:51:22.160]   you hit that source energy quantum field level. So, yeah, that's, yeah. So Philip, you agree?
+[00:51:22.160 --> 00:51:30.240]   Well, I think it's fascinating. And that's what, you know, what I'm very interested in and hearing
+[00:51:30.240 --> 00:51:38.080]   more about in general is, you know, this, this science take and other people's takes that can
+[00:51:38.080 --> 00:51:45.920]   phrase it in a similar way, have the scientific understanding that that ion has, and then looking
+[00:51:45.920 --> 00:51:51.360]   at this and trying to break it down from that perspective, because that's surely something I
+[00:51:51.360 --> 00:51:57.440]   cannot do because I'm just not a scientist. I can look at it from an energetic perspective and often
+[00:51:57.440 --> 00:52:02.640]   that that's really what we're trying to do, right? Science is trying to play catch up.
+[00:52:03.360 --> 00:52:10.960]   And all of what I just said intuitively to me also feels exactly how I see it.
+[00:52:10.960 --> 00:52:18.560]   And yeah, I'm curious when you can go even a little deeper or to the next level and then say,
+[00:52:18.560 --> 00:52:25.200]   okay, now I got it. And this is exactly how it works. Yeah, you know, the one thing about this
+[00:52:25.200 --> 00:52:31.680]   guys, and this is kind of an odd thing is sometimes I feel like the 1000 part machine trying to grasp
+[00:52:31.680 --> 00:52:36.240]   an awareness of the billion part machine. I am actually beginning to think that
+[00:52:36.240 --> 00:52:41.200]   I'll be able to take pot shots at it and do secondary effect studies. But I don't know that
+[00:52:41.200 --> 00:52:46.320]   we're actually going to arrive at being able to verbally or mathematically demonstrate something
+[00:52:46.320 --> 00:52:55.920]   that is far below the level of, you know, manifest creation, which really, you know, in truth is
+[00:52:55.920 --> 00:53:00.880]   kind of what I'm looking at. It's you have to, I think, be on a certain point, your intellect
+[00:53:00.880 --> 00:53:06.000]   has to just get put on a shelf and you have to realize there's a certain degree of, you know,
+[00:53:06.000 --> 00:53:11.840]   universality or divinity that's really coming into play here. And I can do a pretty good shot at,
+[00:53:11.840 --> 00:53:17.280]   you know, quantifying this stuff and making it understandable. But, you know, it's like looking
+[00:53:17.280 --> 00:53:22.640]   at a miracle. You know, I can break down a lot of things that would be considered miraculous.
+[00:53:22.640 --> 00:53:28.080]   And they're not really miraculous. They're just how this place works, right? The universe that
+[00:53:28.080 --> 00:53:34.240]   we're in, it's just how it was built. We just haven't gotten far enough down the berry path
+[00:53:34.240 --> 00:53:38.640]   to read that far into the rule book. And, you know, and that's as a scientist, that's what I'm
+[00:53:38.640 --> 00:53:43.520]   trying to do is push it forward. The other thing of note, with reference to the hologram,
+[00:53:43.520 --> 00:53:49.920]   that's kind of an intriguing thing. And that I think is worthy of being aware is like any other
+[00:53:49.920 --> 00:53:55.040]   thing that's holographic in nature, if you're dealing with things that are interactive wave
+[00:53:55.040 --> 00:54:01.360]   forms all the time, then there's a permanent record of every interaction. So that being said,
+[00:54:01.360 --> 00:54:07.680]   mind your peas and cubes, be kind, you know, because it's all going down there. And, you know,
+[00:54:07.680 --> 00:54:13.760]   it is in a sense, it's a perfect journal of everything that's ever happened is definitively
+[00:54:13.760 --> 00:54:19.040]   stored out in a vibratory interaction. And that, that I can demonstrably say.
+[00:54:19.760 --> 00:54:26.720]   Yeah, karma. Hey, I know you have a hard stop because you've got you both got meetings here
+[00:54:26.720 --> 00:54:31.040]   in about 15 minutes. So I do want to hit on a couple of high notes before we drop.
+[00:54:31.040 --> 00:54:37.360]   One of the things, and thank you for that explanation. And I'm just, I wish we had so much more time.
+[00:54:37.360 --> 00:54:41.840]   I've got so many questions, but I want to hit on these things. So now this new product that
+[00:54:41.840 --> 00:54:48.560]   you've got, I am called the bio charge resistor. You and I chatted on SMS text about my reaction.
+[00:54:48.560 --> 00:54:53.360]   It seems like I had a detox reaction to it. And so I just wanted to put that out there. And if you
+[00:54:53.360 --> 00:54:57.360]   could explain what you told me, which was, you know, how to dilute it, because, you know, this
+[00:54:57.360 --> 00:55:01.760]   stuff, I thought that one tiny little capsule was nothing. And, you know, you were kind of like
+[00:55:01.760 --> 00:55:08.720]   joking with, with, you know, with, I think, Dave, Ashley about, or Luke, about don't take three,
+[00:55:08.720 --> 00:55:16.480]   you know, or just take one. And so I just, I just took one, and like it affected my sleeve. I broke
+[00:55:16.480 --> 00:55:21.120]   out an eczema, but then you were telling me that, you know, it's been, there's so much positive
+[00:55:21.120 --> 00:55:27.920]   feedback. And then I probably had a Herx. And so, yeah, if anyone else that tries it, if you pull a
+[00:55:27.920 --> 00:55:35.280]   Herx dilute it, right? So you want to go ahead and just make sure, yeah, it's, well, it is, it's,
+[00:55:35.280 --> 00:55:39.600]   you know, what I was shooting for was to replace autohemotherapy. And I, you know,
+[00:55:39.600 --> 00:55:44.000]   which is a pretty intense therapeutic regime, you know, when you have your blood,
+[00:55:44.000 --> 00:55:50.800]   bolt and mix it, and then re-inject it. And yeah, sometimes people do have a reaction where, if,
+[00:55:50.800 --> 00:55:56.240]   if there are some toxins in their system, and there are two that I've noticed at this point that,
+[00:55:56.240 --> 00:56:03.360]   that seemingly come about, is you can get the capsules to go all the way down the GI tract,
+[00:56:03.360 --> 00:56:08.960]   because they're in a delayed release capsule, and end up in the small intestine where it gets kind of
+[00:56:08.960 --> 00:56:14.720]   systemically dropped in the ozone. I'd move more throughout your body, or it, if taken with food,
+[00:56:14.720 --> 00:56:21.680]   can occasionally open up in, in your stomach, and in the area, you know, where it's exposed to a lot
+[00:56:21.680 --> 00:56:29.360]   of, say, candida or something like that. And it will eviscerate that stuff very rapidly. And the
+[00:56:29.360 --> 00:56:34.880]   problem there is when you have a massive die-off of something like that, it will trigger a detox
+[00:56:34.880 --> 00:56:39.520]   sort of reaction where you start to have a herb timer, because there are too many toxins going
+[00:56:39.520 --> 00:56:44.240]   into your system for you to process. So, you know, what I tell people if they're having that, or,
+[00:56:44.240 --> 00:56:49.280]   or they're concerned that they might have something like that, is take it with activated charcoal,
+[00:56:49.280 --> 00:56:54.720]   binders, binders, binders. And if need be, you know, break it down and dilute it, you know,
+[00:56:54.720 --> 00:56:59.360]   you can, you can crack open the capsule and just take half of it with a little bit of extra oil or
+[00:56:59.360 --> 00:57:04.560]   something like that. You know, for those of you who are thinkers, or just take a load of activated
+[00:57:04.560 --> 00:57:09.200]   charcoal and, you know, there's some really good binders, you know, quicksilver makes a really good
+[00:57:09.200 --> 00:57:17.040]   binder. It's crocheted stuff, works really well. And, you know, just, just search out some really
+[00:57:17.040 --> 00:57:22.400]   good binder so you don't have those kind of reactions. It's not hard to work around, but what it does
+[00:57:22.400 --> 00:57:28.080]   tell you is that there's definitively something that, you know, is in your body that's not really
+[00:57:28.080 --> 00:57:32.720]   aces and not so beneficial for you. Because when you're balanced and you take that stuff,
+[00:57:32.720 --> 00:57:36.960]   really all you feel is kind of a flooding of a little bit of heat. And that's just from the
+[00:57:36.960 --> 00:57:42.880]   upregulation of the mitochondria. And so you feel that extra pop of mitochondrial upregulation
+[00:57:42.880 --> 00:57:48.480]   as a little flooding of heat. Oh, yeah, I must be more messed up than I think.
+[00:57:48.480 --> 00:57:53.520]   So, you know, this little, this little word here on the label, when it says advanced detox,
+[00:57:54.800 --> 00:58:01.440]   I mean it. You know, it's a funny thing because, you know, you're trying to make something,
+[00:58:01.440 --> 00:58:06.320]   I really was trying to make something that would have a definitive impact. Because I had taken a
+[00:58:06.320 --> 00:58:12.480]   lot of little, you know, 300 milligram capsules from other companies that were doing oils and they
+[00:58:12.480 --> 00:58:20.560]   just didn't, they didn't pack a punch. You know, the problem is sometimes packing a punch is great
+[00:58:20.560 --> 00:58:28.320]   if your systems in a good area. But if you're really far from equilibrium, sometimes
+[00:58:28.320 --> 00:58:34.880]   not so cool. Yeah, no, I just, you know, that's the thing. I take a lot of different, I'm tinkering
+[00:58:34.880 --> 00:58:41.280]   and trying supplements all the time. And so, yeah, I had no idea. I just, yeah, this one was like
+[00:58:41.280 --> 00:58:47.840]   one of those ones that was really through me. So yeah, so word to the wise, take it slow, take it
+[00:58:47.840 --> 00:58:55.120]   dilute it on this one, but it works. And yeah, you'll see the results. So now, before we drop off,
+[00:58:55.120 --> 00:59:00.160]   I definitely want to touch on, and I want to thank you. I got mine last night. So there's this
+[00:59:00.160 --> 00:59:06.800]   brand new product also by IAN that I just received it last night. I just tried it this morning
+[00:59:06.800 --> 00:59:12.000]   called the neural RX, right? And so, I just want, I want to make sure you mention this and like,
+[00:59:12.000 --> 00:59:16.240]   when is it going to go for on sale? And then, could you talk a little bit about it? Because
+[00:59:18.160 --> 00:59:23.600]   I'd actually done a video on C60 with MCT oil. So I'm very familiar with the, you know,
+[00:59:23.600 --> 00:59:28.240]   you using caprylic acid, but then you've actually added additional supplements. So, you know,
+[00:59:28.240 --> 00:59:32.480]   can you talk about this new product? And especially like, because it looks awesome. I mean, I just,
+[00:59:32.480 --> 00:59:36.160]   I got it the minute I read the label, I'm like, okay, this is going to be so good. You know,
+[00:59:36.160 --> 00:59:41.200]   because this is going to be a really good one. Yeah, it's your brain, you know.
+[00:59:41.200 --> 00:59:44.880]   So yeah, what's this all about? And when is it going to be available?
+[00:59:46.320 --> 00:59:53.120]   It'll probably be available in, you know, a month or so, maybe, maybe sooner. But it's, yeah,
+[00:59:53.120 --> 00:59:58.240]   it's just a new tropic and it's literally, it's what I take personally. It was the,
+[00:59:58.240 --> 01:00:03.600]   the best thing that I could come up with that elicited the strongest response. And so,
+[01:00:03.600 --> 01:00:08.960]   I wanted to do a couple of things and, and upregulate the pace of which I was, you know,
+[01:00:08.960 --> 01:00:15.120]   pumping out new neurons. And, and it does that. So it's actually, it's kind of interesting because
+[01:00:15.120 --> 01:00:21.840]   the product is cool. But what you really have to do when you take it is you have to find new things
+[01:00:21.840 --> 01:00:27.360]   to stimulate your brain in directions that you haven't been stimulated before. Because
+[01:00:27.360 --> 01:00:32.480]   neurons are incredibly consumptive in terms of oxygen and just general resources for energy.
+[01:00:32.480 --> 01:00:40.160]   So your body prunes them synaptically. And it won't, won't keep them because they,
+[01:00:40.160 --> 01:00:43.360]   they really are a drain. You know, your brain accounts for between two and three percent of your
+[01:00:43.360 --> 01:00:49.680]   body mass and sucks up 20 percent of your oxygen. And so it's, it's kind of a difficult situation.
+[01:00:49.680 --> 01:00:56.480]   But this, it kicks out new neurons, but you want to cement them in place. So I do a ridiculous
+[01:00:56.480 --> 01:01:01.520]   number of things after I go through a course of taking it on about the third week when I'm really
+[01:01:01.520 --> 01:01:07.760]   at the apex of when new neurons start getting pumped out. I will start doing some sort of
+[01:01:07.760 --> 01:01:11.920]   brain training that I haven't done before. Like the most recent and Philipp, you'll appreciate this
+[01:01:11.920 --> 01:01:18.080]   was trying to learn wraps in German. Because I had never done anything remotely like that.
+[01:01:18.080 --> 01:01:25.920]   Wait, wait, wait, wait. Wait, did you just say you're trying to learn how to wrap in German?
+[01:01:25.920 --> 01:01:32.400]   That's exactly right. I started learning how to wrap in German. Yeah, because I don't speak
+[01:01:32.400 --> 01:01:39.120]   German. And it was something that was entirely different, you know, and truly entirely different.
+[01:01:40.000 --> 01:01:43.600]   Yeah. And, you know, and I do mental puzzles every day and things like that just to keep my
+[01:01:43.600 --> 01:01:47.200]   acuity on the uptick. Because if you, you know, it's like anything else, you don't use it,
+[01:01:47.200 --> 01:01:51.760]   you lose it, your body's incredibly efficient. And it's always trying to optimize homeostasis.
+[01:01:51.760 --> 01:01:56.560]   And the way it does that is by dropping off things that are inefficient. And, you know,
+[01:01:56.560 --> 01:02:01.680]   generally speaking, neurons are painfully inefficient because they suck up so much oxygen.
+[01:02:01.680 --> 01:02:06.800]   So unless you have a need for them, it proves them. So what I do is I find oddball things that
+[01:02:06.800 --> 01:02:11.920]   can cement them into place so that I'm just getting smarter and smarter and smarter and smarter
+[01:02:11.920 --> 01:02:17.040]   by having a larger engine to push through things with. And, you know, and it really does make a
+[01:02:17.040 --> 01:02:21.760]   difference. I mean, the rapidity with which I can learn things now is fundamentally different than
+[01:02:21.760 --> 01:02:26.720]   it used to be a decade ago. I'm just, I'm a better organism, at least in that capacity.
+[01:02:26.720 --> 01:02:30.720]   I don't, I don't know that that is a capacity in terms of going for a sprint.
+[01:02:32.400 --> 01:02:37.840]   I run out of oxygen a lot more rapidly. But in terms of just cognitive function,
+[01:02:37.840 --> 01:02:42.800]   yeah, I'm aces compared to where I was a decade ago. And a lot of it has to do with, you know,
+[01:02:42.800 --> 01:02:48.880]   stuff like this, taking things that stimulate neuronal growth and, you know, also up-regulate
+[01:02:48.880 --> 01:02:53.520]   ATP production, just all of the sorts of things that you'd want to be hitting on
+[01:02:53.520 --> 01:02:56.800]   to just really boost your mental function.
+[01:02:57.520 --> 01:03:03.520]   No, right on, I'm, I'm so on top of this. I mean, I'm a massive biohacker and I love this stuff.
+[01:03:03.520 --> 01:03:08.880]   So everyone in about a month, this is going to go on sale. It's iron secret brain juice.
+[01:03:08.880 --> 01:03:14.720]   And in three weeks, I got to learn how to wrap in German. So, yeah, there you go. That's what
+[01:03:14.720 --> 01:03:22.080]   this really is all about. I wonder reporting, please. It's, yeah, just FYI, Philip. It was a
+[01:03:22.080 --> 01:03:31.760]   CEDO builder Ryan Colff was the, the first one. Oh, okay. Wow, okay. So, yeah, I'm gonna definitely
+[01:03:31.760 --> 01:03:36.240]   give it a try. Not the German wrap, but I'm gonna do this and come up with something. But
+[01:03:36.240 --> 01:03:41.920]   awesome. This is, so this is iron secret brain juice, everybody. Yeah, this is cool. I was
+[01:03:41.920 --> 01:03:45.680]   actually working on my own, but we don't have time to get into that. Hey, we are hitting that
+[01:03:45.680 --> 01:03:50.320]   dead stop. I know you guys got other meetings, so I just kind of want to, oh, hate wrapping it up.
+[01:03:50.320 --> 01:03:53.040]   There's so many things I want to ask, but, you know, I just want to say thank you.
+[01:03:53.040 --> 01:03:58.960]   Thank you for everyone listening in and just, you know, participating in our conversation.
+[01:03:58.960 --> 01:04:04.560]   This is fascinating. I mean, these two guys are just amazing. And eventually, next time we talk,
+[01:04:04.560 --> 01:04:09.600]   I really want to hear more about like what the two of you are doing together because that just,
+[01:04:09.600 --> 01:04:14.160]   like, just is just amazing to me. So just before we wrap up, though, I want to just,
+[01:04:14.880 --> 01:04:21.200]   for anyone who's interested in getting hold of iron and following him. So I do know that
+[01:04:21.200 --> 01:04:26.400]   wizard scientists, you have a URL right now called Mitchell Sciences, but you're actually going to
+[01:04:26.400 --> 01:04:30.080]   come up with a new one, right? Are you going to come up with a new website called Wizard
+[01:04:30.080 --> 01:04:35.760]   Sciences? Because the URL now is Mitchell. That's the one. Yeah. Okay. And so this is the,
+[01:04:35.760 --> 01:04:41.040]   and it's coming soon. And then, of course, you've got Layla C60 from Philip. If you want to get
+[01:04:41.040 --> 01:04:45.280]   hold of them there, all the links will be in the video description below. The Layla Quantum Tech
+[01:04:45.280 --> 01:04:50.800]   website link will be in the description below. And then, of course, I didn't get a chance to
+[01:04:50.800 --> 01:04:55.520]   even mention this, but there's a third thing that Philip does because does it's called The Path of
+[01:04:55.520 --> 01:05:01.600]   Love. And that is an awesome business venture as well. And so in order to get a hold of Philip,
+[01:05:01.600 --> 01:05:06.000]   just any one of these websites, all the links below. We've also got the Tinkers Academy. That's
+[01:05:06.000 --> 01:05:10.000]   how you get a hold of me at Tinkers.academy and your URL window. And that comes to my blog,
+[01:05:10.000 --> 01:05:15.280]   and all of this stuff will be on the blog. And just want to say, thanks, guys. This has been
+[01:05:15.280 --> 01:05:21.280]   a great discussion. I love the way your guys' brains work. And I think all these new products
+[01:05:21.280 --> 01:05:26.000]   are going to be really, really cool. So, wow. Thanks. Any part of the word, Zion?
+[01:05:26.000 --> 01:05:33.520]   No, be kind. Much love. Thanks for having us. Yeah. The consciousness is everything, right?
+[01:05:33.520 --> 01:05:41.360]   So, yeah, it is. I would agree. Thanks so much for having us, Kay. That was amazing. It's a
+[01:05:41.360 --> 01:05:48.320]   pleasure to speak with the two of you. It's fun, and it sparks even new ideas. And it feels like,
+[01:05:48.320 --> 01:05:53.680]   you know, we're all like trying to do great things. And in between, there's like a little touch base
+[01:05:53.680 --> 01:06:00.160]   when we talk about it. And yeah, it's just great to share. And yeah, thank you also to everybody
+[01:06:00.160 --> 01:06:08.320]   listening. And yeah, just to hope that everybody, you know, gets through these times in a phenomenal
+[01:06:08.320 --> 01:06:15.600]   way, because it truly carries some opportunities that may be still hidden a little bit. But yeah,
+[01:06:15.600 --> 01:06:21.440]   the time definitely carries that. All right. So, thank you very much, and have a great day. Aloha,
+[01:06:21.440 --> 01:06:23.440]   everyone.
+

@@ -1,0 +1,332 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.800",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kailner and in this video let's talk about biohacking and is biohacking for rich people because it certainly seems that way and I just wanted to just talk about this topic because it kind of came up this year after the most recent biohacking conference where some of the attendees or at least one of video, another video I did see from two different individuals were sort of just commenting on the concept that"
+    },
+    {
+        "start": "00:00:28.800",
+        "end": "00:00:54.160",
+        "text": "you know it's like twenty five hundred dollars just to attend you know and you listen to some great speakers and you get introduced to some great new devices and modalities and treatments that are out there for all you know for the entire purpose of biohacking but the idea was was that you know geez you know there's so many different devices and they're not that cheap and so the idea that you know the concept that kind of came out and I didn't attend by the way but the concept"
+    },
+    {
+        "start": "00:00:54.160",
+        "end": "00:01:22.800",
+        "text": "that came out was you know hey is biohacking just for rich people because it seems like everything you see is all product related you know in terms of just people trying to say hey biohacking or really expect expensive supplements and things like that so I thought I'd make just a quick video just to share my thoughts on the subject is biohacking for rich people so the very first thing I think it's really important is to understand the difference between just you know taking care of your health"
+    },
+    {
+        "start": "00:01:22.800",
+        "end": "00:01:52.640",
+        "text": "and the concept of biohacking so what is biohacking by definition it's the practice of using methods for bio you know from biology genetics neural science and nutrition to improve your health and well-being okay so that means improving it beyond just optimal normal being healthy okay so if you want to kick it up a notch that's called biohacking you want to do more than just be healthy you want to just like really you know increase you'll this pretty much falls in the world of athletics right"
+    },
+    {
+        "start": "00:01:52.640",
+        "end": "00:02:19.600",
+        "text": "you want to increase your performance you want to be sharper at work you know you want to be able to have more stamina for the kids that sort of thing and so the all you know the other idea too is it also can be used to enhance right which is what I'm going getting to with enhancing your physical or mental performance or achieve a specific health outcome you know like run faster swim faster all that kind of stuff so really the idea here in my definition is that there is a definite"
+    },
+    {
+        "start": "00:02:19.600",
+        "end": "00:02:44.400",
+        "text": "you know definitive difference between just maintaining your health and then biohacking and in my personal opinion you know health right now is when you're at optimal health and you're already operating at peak performance naturally and that keyword is naturally and this means you've addressed your issues with vitamin and mineral deficiencies everyone is deficient in something have you been"
+    },
+    {
+        "start": "00:02:44.400",
+        "end": "00:03:12.800",
+        "text": "evaluated have you taken care of you're just your basic health which is you know you're not deficient in anything making sure that you you are addressing those issues making sure that you're looking at your toxic load you know because we're all being poisoned all the time every time we breathe every time you know all this stuff that's in the food water air you name it are you detoxing do you have a detox regimen that you're following every day in making sure that you're kind of making"
+    },
+    {
+        "start": "00:03:12.800",
+        "end": "00:03:42.720",
+        "text": "sure you're keeping your toxicity levels down and if you've bio accumulated it for a long time before you got interested in your health you know you're you're behind the you know you're behind eight ball on that you've got to catch up and then maintain right and also those you know there's another thing people have is we all have a pathogen load and a pathogens or you know viruses and bacteriums molds and fungi that live in and on our bodies and have you addressed that because all of those things are detrimental to our health and then the most important thing in my personal"
+    },
+    {
+        "start": "00:03:42.720",
+        "end": "00:04:09.440",
+        "text": "opinion is your gut microbiome because it really is the you know the basis for our immune system and our immune response is how healthy is your digestive system I mean we literally should all be like our dogs where we like basically poop twice a day if you aren't processing and you've got a really strong digestive process and your system's really healthy then you know that's something that's really really critical to look at in terms of you're maintaining a healthy gut"
+    },
+    {
+        "start": "00:04:09.440",
+        "end": "00:04:35.840",
+        "text": "microbiome and of course your physical strength you know your your our muscles are are basically our base our electrical battery packs that run our electric body bottom line they generate the electricity that runs through our bodies that keeps our bodies moving because we are bio electric beings okay so having muscle strength now you don't need to be you know muscle building but just being able to have that strength as you get older muscle strength is real"
+    },
+    {
+        "start": "00:04:35.840",
+        "end": "00:05:02.800",
+        "text": "important and of course dealing with your trauma because trauma manifests itself as physical conditions and dealing with that also is your you know affects your mental health your emotional health and so forth so for me I think that you know one of the things before people jump into biohacking is to really take a hard look at their overall health take a look at these five things about yourself and you know are you doing the most you can do for just that that to me is par"
+    },
+    {
+        "start": "00:05:02.800",
+        "end": "00:05:31.280",
+        "text": "for the course until you can get to a baseline you know then you know honestly you know trying to get better at your brain working when you have digestive problems and you're vitamin something deficient you know it's kind of like well you know you're kind of approaching it out of sequence because you really want to make sure that your health is optimal and then of course of course you don't have to but that's just my opinion but I really think that there's a huge difference between maintaining your health and then biohacking and which is kicking it up a notch"
+    },
+    {
+        "start": "00:05:31.280",
+        "end": "00:05:57.520",
+        "text": "and taking it one step further so the reason I kind of made this video is not only where the comments that came from the biohacking conference this year but also too this kind of this guy this guy's name is Brian Johnson I don't know if you saw this in the news he's been in so many different magazines and and news sites and it really kind of popped up this year he basically is this tech CEO executive who spends two million dollars a year on biohacking you know basically"
+    },
+    {
+        "start": "00:05:57.520",
+        "end": "00:06:24.000",
+        "text": "his story is he kind of abused the crap out of himself and his youth like the rest of us right and he's playing ketchup right now trying to basically reverse all of that and then you know kind of you know seeking the fountain of youth through tons of different things so the guy takes like you know 61 pills a day eat 70 pounds of veggies a month and he's you know he's doing some really wacky things but he's just basically the guy's got money and he's doing sick you know heavy"
+    },
+    {
+        "start": "00:06:24.000",
+        "end": "00:06:50.880",
+        "text": "duty biohacking to kind of turn his biological age and turn the clock backwards and this guy really made the news because of just how much he's spending and the overall goal for biohacking basics you know bottom line is this guy's really focused on anti-aging physical and mental performance and he's spending a lot of money to do it and so then again that you know raises the question hey you know what you know if you want to go to the conference and it costs you $2,500"
+    },
+    {
+        "start": "00:06:50.880",
+        "end": "00:07:18.960",
+        "text": "just to get in the door you know this guy two million a year you know it's like wow is really is biohacking really for rich people or can anybody just do it you know and you know and bottom line is anybody can just do it so here's kind of just you know my thoughts on just the basics okay now right off the bat supplementation is critical right just supplementation just for your optimal health just for regular health and how I do it and this is a kind of a graph of how I break out my expenses"
+    },
+    {
+        "start": "00:07:18.960",
+        "end": "00:07:45.040",
+        "text": "every month and yeah I'm sort of a nerd when it comes to this I track everything I budget and you know I do all this stuff spreadsheets are are my thing so one of the things about the supplements I take is I kind of break it up into tears because it really gets expensive and that goes along with you know rich people right I mean how much can you afford because there are some incredible supplements out there and there's new ones being developed and released every single day and they're"
+    },
+    {
+        "start": "00:07:45.040",
+        "end": "00:08:13.440",
+        "text": "not cheap some of them are very very expensive so one of the approaches that I take is I look at it like hey my health just run of the mill optimal performance of my meat sack you know just running every day and so I spend about 200 a month just on plain old health supplements and the health supplements I mean are the new essential nutrients the vitamins the minerals right the probiotics the prebiotics and things that are just going to keep all of that stuff I mentioned earlier"
+    },
+    {
+        "start": "00:08:13.440",
+        "end": "00:08:41.600",
+        "text": "optimal performance so you can kind of see where I focus on my general health cardiovascular stuff I have I have a kidney issue that you know just kidney stone I've had a few times so I take some kidney stuff that's specific to that of course I'm getting older so I look at my joints I make sure I'm addressing my immune system I'm taking detox type of supplements I do take a few brain supplements you know in that tier one health and then of course focusing"
+    },
+    {
+        "start": "00:08:41.600",
+        "end": "00:09:05.760",
+        "text": "on my gut 15% of my costs every month I'm spending on gut health and but here it is too though I also do this tier two where I actually will spend up to 200 a month just on anti-aging because if you can work on that anti-aging stuff then it it slows the degradation of your physical body right so then you have less health problems so that's my theory right so right now I'm right"
+    },
+    {
+        "start": "00:09:05.760",
+        "end": "00:09:34.000",
+        "text": "now I'm basically in my world right now I've got I do tier one and tier two this is the breakdown of it so just to kind of show you how much money I put towards different things every month and just my basic philosophy and then I get into tier three where I really get into my brain and my balls and just trying to keep those help you know basically boosting testosterone and boosting and boosting mental performance is another 70 dollars a month so you can see where"
+    },
+    {
+        "start": "00:09:34.000",
+        "end": "00:10:00.080",
+        "text": "just tier one and two is 400 a month and then if I throw in my brains and my balls it's 470 and I never even get to tier four which is this giant list of wish list stuff that I always want to try or I have to rotate in and out but I just can't afford it you know and so a lot of people and I can't even imagine the average Joe today you know when you look at some of the financial news out there and realize that you know the boomer generations the biggest generation"
+    },
+    {
+        "start": "00:10:00.080",
+        "end": "00:10:26.800",
+        "text": "ever that our you know our country has ever seen and that literally half of them if you look at some of the news half of them don't even have a thousand dollars saved up for retirement I mean and then of course you've got all the millennials struggling with inflation and Gen X's and Gen Z's and and so you know inflation's a big deal so money's really tight a lot of people living paycheck to paycheck and how do you maintain your health when you're not quote rich people and so the idea here"
+    },
+    {
+        "start": "00:10:26.800",
+        "end": "00:10:52.640",
+        "text": "though and what I'm trying to say is if money's really tight you know biohacking can be done there's a lot of really good ways to do biohacking I'll cover that at the end but at the end of the day you know the question here is is it for rich people and yeah you know it kind of is because of the cost of some of this stuff these are just things that you need because you're not ever gonna get all the minerals and vitamins you need from the food you eat it's just not possible and the reason"
+    },
+    {
+        "start": "00:10:52.640",
+        "end": "00:11:21.200",
+        "text": "for that is because the food's been depleted in nutrients so here we go so now the other thing too is not only just supplements but we're looking at devices so you know I took a look at the sponsorship of the conference and some of these you know some of these vendors popped out as they were sponsoring the conference you also if you follow biohacking news which I do I'm really I've been a biohacker for 20 years been really super into my health for 20 years and and honestly if you saw me and you'd be like you'd be a gasket like you're you know you're a health nut and I'm"
+    },
+    {
+        "start": "00:11:21.200",
+        "end": "00:11:47.280",
+        "text": "like yeah I'm you know I'm overweight and I got gray hair and you know but I'm super healthy for my for my height but bottom line though is that there's a combination here of supplementation which I think is critical to our health but also too you know there's all these devices that are being promoted out there in the quote biohacking space but here's the key though is it for rich people and the answer is kind of like yeah because you look at some of the stuff like hyperbinder by the"
+    },
+    {
+        "start": "00:11:47.280",
+        "end": "00:12:13.840",
+        "text": "way all this stuff is excellent I mean it really is it does what it says it's going to do science is behind it that's why there's all these products are out there and nothing wrong with all those guys selling these products and promoting these products you know good for you everyone you know wants to make a living and they want to help the world but I got to tell you though from the you know from the standpoint of me right now in my financial situation I'm with the rest of you I'm fighting inflation I'm trying to save money I'm trying to really make my dollar last as far as I"
+    },
+    {
+        "start": "00:12:13.840",
+        "end": "00:12:43.440",
+        "text": "can make it last now and so I'm kind of like past that point in my life where I'm buying expensive doodads and gizmos and I'm more focusing on what I could do naturally you know just without having to have all this equipment but I'll tell you when you look at some of those things that were being promoted at the conference and things that are promoted in the biohacking sphere you know you're like and they're awesome and man I would love to try this stuff but you can't even there's no way in hell and I'm going to spend five thousand dollars on a cold plunge tub and you know and"
+    },
+    {
+        "start": "00:12:43.440",
+        "end": "00:13:13.200",
+        "text": "there's a huge difference a lot of people go out and get a freezer you know or just get a you know get a metallic tub and then use ice use big chest freezers and things like that you can get it for you know you get those things from under 500 and so yeah there's a way to do it but if you just wanted to go out and buy one and there's a big difference and I don't want to get into the difference here's in the key but the key is this if you buy one that's like you know off the shelf really good one then the thing's not only going to you know keep it as cold as you want all the time it's going to keep the water clean you don't have to use ice that's why it's expensive it's"
+    },
+    {
+        "start": "00:13:13.200",
+        "end": "00:13:40.560",
+        "text": "really built well it's going to last a long time that's why these dollar prices are so high and so you've got you know things like the biosynchronizer you know by VEMI and you look at this and go wow what does this thing do well it's a combination of PMF acoustics and infrared and you sit on this thing for 10 minutes and it just boosts your cellular performance or a sauna dome you know heat as well as cold are really really super healthy for us you know in terms of just you know like a sauna right just or a sauna room but you know you can get a dome but it's"
+    },
+    {
+        "start": "00:13:40.560",
+        "end": "00:14:09.840",
+        "text": "2,900 bucks now I've got asterisks here next to the hyperbaric oxygen in the biosynchronizer because you know you go to your website they don't even give you a price you have to ask for a quote and you know anytime you have to ask for a quote you know it's so damn expensive that they don't even want to tell you what it is on the website because it's going to be turn off they want you to talk to a sales guy who can then try to convince you that the dollars are worth it you know and so"
+    },
+    {
+        "start": "00:14:09.840",
+        "end": "00:14:35.120",
+        "text": "you know when they ask for a quote it's like a real big like red flag to me I'm like oh crap that thing must be so expensive you know that they know they don't even want to put the number down and so then there's other devices out there too I mean you look at the biocharger which is one of these remarkable devices and which is kind of a lacovsky multi-wave oscillator but these things are 15, 16,000 dollars to have one and what they work on is they work on your energetic bio field and"
+    },
+    {
+        "start": "00:14:35.120",
+        "end": "00:15:02.640",
+        "text": "they basically entrain the you know the frequencies of you know all of these different types of you know what's bottom line multi-wave oscillator I can't get into the science of it but bottom line it's frequency medicine and it entrains your body to for maximum cellular performance throughout your entire being and you know you are you are a quantum being like quantum biology and so we all resonated frequencies blah blah blah but these things are designed to bring you up to optimal"
+    },
+    {
+        "start": "00:15:02.640",
+        "end": "00:15:30.160",
+        "text": "frequency and then you know like the biocharger is like got all these programs you can run in it my multi-wave oscillator this thing was invented like geez 100 years ago almost and this thing is almost you know it's actually been attributed to cure the big C so you know these are some incredible devices out there but look how expensive they are and then you look at like a device like the nano V which they won't even give you the price on the website this thing is a proton folding"
+    },
+    {
+        "start": "00:15:30.160",
+        "end": "00:15:56.720",
+        "text": "device it you know it's a protein folding and that's what it's you know basis for you've got the V light which is like cranial electro stimulation to stimulate your brain and increase your brain performance and also through cold laser therapy and things like that and so you've got these really incredible gizmos but if you look at the prices of some of these they're just unbelievable and again you know you get into the lower range stuff like the red light"
+    },
+    {
+        "start": "00:15:56.720",
+        "end": "00:16:23.280",
+        "text": "you know you can do red light therapy and I know I put out some of the expensive ones but you know like just to get a couple of panels three grand you know PMF as you've ever looked into PMF the mats and the coils and all of those things they range anywhere from you know three five thousand all the way up to like something like this it's like thirteen thousand dollars for coils the big the ones that sit on the countertops are like anywhere up to twenty grand you can get"
+    },
+    {
+        "start": "00:16:23.280",
+        "end": "00:16:52.800",
+        "text": "hydrogen inhalers you can get little cheapy ones that are like really low producing ones that they're not too bad they're three hundred six hundred but then if you really want to get one that's robust and I'm going to give you a really big dose of molecular hydrogen you know like twenty five thousand or twenty five hundred and then if you look at ryfing technology that's another frequency type of healing modality and also wellness you know like this example right here's the g before thousand and this puppy runs forty five hundred so you know they're not cheap"
+    },
+    {
+        "start": "00:16:52.800",
+        "end": "00:17:22.080",
+        "text": "and so when you say hey you know all this stuff you know that and you know like these are all really great toys to really improve your health and maintain your wellness and kick you up that notch you know but you're looking at hundreds if not thousands of dollars in gizmos and then you look at what Brian Johnson's doing this guy over here I mentioned right you know he's actually getting into if you read the articles about him he does hormone therapies and stem cell therapies and you know we're talking about going to the doctor and doing all this stuff and you know"
+    },
+    {
+        "start": "00:17:22.080",
+        "end": "00:17:48.080",
+        "text": "going to the doctors never going to be cheap and it's certainly probably not covered under insurance so out of pocket you know this guy's got bucks like most of us don't but you know you there's some credible biohacking treatments you can get from all these different doctors out there you know they're selling their wares to you know to do stem cell therapies which which by the way is just incredible from you know injury healing kind of thing"
+    },
+    {
+        "start": "00:17:48.080",
+        "end": "00:18:13.040",
+        "text": "as well as general health and anti-aging because as you get older you don't produce as many stem cells blah blah blah hormone therapy same thing as you get older your hormones you know you just need some hormonal and then like one of the things that Brian Johnson's doing which I think is really creepy you know he has a teenage son and he and he has he does blood therapy where they you know they've proven that if you take blood out of young people right and put it into old people"
+    },
+    {
+        "start": "00:18:13.040",
+        "end": "00:18:40.080",
+        "text": "it helps the old people it actually really really improves the older people's health by getting younger blood because of all the antibodies and all the stuff that's in young people's blood that our bodies older people don't produce and so you know I just think that's weird I would never ask my daughter to hit her up from some blood but bottom line though my point is this and the question is this biohacking for rich people when you look at the cost of supplements you look at"
+    },
+    {
+        "start": "00:18:40.080",
+        "end": "00:19:04.960",
+        "text": "the cost of the gizmos and the doodads and the doohikis and all this stuff that's just like you know is out there in the biohacking sphere saying hey this is the stuff you should get you should try and the answer is like do you really need all that or can I even afford all that I just want to be healthy but I also want to really you know as I get older you know I need to keep my brain sharp I need to keep my body moving and I need to keep healthy and I just want to you know work"
+    },
+    {
+        "start": "00:19:04.960",
+        "end": "00:19:32.320",
+        "text": "on all of these things and so is biohacking for me do is it for rich people and you know what here's the answer no it's not for rich people it's for anyone that wants to do it and if you can't afford a gizmo or a device and you know and yeah they all work in everything but you know it's just not practical for all of us to be able to afford all this stuff I personally was fortunate to have a very good job in my career I've since retired but when I was cranking and making the bucks you"
+    },
+    {
+        "start": "00:19:32.320",
+        "end": "00:19:57.120",
+        "text": "know I didn't have any problems buying some of these toys I still have them thankfully but now that I'm you know past that point where I'm living off of my own money you know you know the income is not you know there's not a lot of income coming in and so I really need to be watching where I spend my money and so I'm really been focused lately on thinking that in terms of you know hey how do I maintain my health and my wellness and how do I keep biohacking when money's getting tighter"
+    },
+    {
+        "start": "00:19:57.120",
+        "end": "00:20:21.600",
+        "text": "and tighter as you know as I go into retirement so one of the things I want to point out is hey you know what you can biohack naturally for free biohacking is not just for rich people sure the rich people will go out there and buy all this crap and yeah it'll it basics it's like a shortcut really it's like a shortcut to performance but you and me now you know normal people you know we can"
+    },
+    {
+        "start": "00:20:21.600",
+        "end": "00:20:51.200",
+        "text": "biohack for free naturally and it's so so common sense and I just wanted to remind everybody that no it's not just for rich people it's for everybody and it's even for people who have no money because it's for free what can you do for free that would really really move the dial if you just spend some time on it so if you have time make time but making sure you get sunlight every day how incredibly important you know that goes into the whole photo bio modulation stuff it's good for"
+    },
+    {
+        "start": "00:20:51.200",
+        "end": "00:21:16.960",
+        "text": "your brain it's good for your skin it's good for your health the vitamin D also grounding grounding has been shown that's also called earthing and it grounding just putting your feet on grass 20 minutes will lower your blood pressure like 20 points or something like that maybe if you read the science but just basically do you know basically grounding out all that built-up electrical charge that's you carry around with you all day because you're around electronics constantly right"
+    },
+    {
+        "start": "00:21:16.960",
+        "end": "00:21:43.120",
+        "text": "but how incredibly healthy is it just to ground it what does it cost you to just step out on your backyard and put your feet on the grass for a few minutes and by the way it's literally instantaneously it isn't they've measured it and it's it's so fast that it's it's like it's microseconds by that you put your feet on the ground your bare feet on the ground and boom you've immediately discharged now the longer you do it the better you're going to get the effective grounding"
+    },
+    {
+        "start": "00:21:43.120",
+        "end": "00:22:12.480",
+        "text": "but just grounding hey it's free fasting a huge thing with biohacking is intermittent fasting and fasting in general up to three days 72 hours but just what our bodies do as we fast it kicks off this thing called autophagy it really helps us with our analytics you know in terms of getting rid of sinesis cells blah blah blah it is huge important thing if you can fast and in fact there's so many studies out there right now that that have demonstrated that calorie calorie restriction"
+    },
+    {
+        "start": "00:22:12.480",
+        "end": "00:22:38.560",
+        "text": "equals longevity it just flat out equals longevity you know the whole three meals a day thing is all BS you don't need that one meal a day there's the you know the one meal a day people there's the intermittent fasting people then there's the fasting people but bottom line is if you prolong the time between meals the healthier you are and if you could do intermittent fasting like oh go over 12 hours you will kick off some body processes that you normally don't have that are"
+    },
+    {
+        "start": "00:22:38.560",
+        "end": "00:23:05.600",
+        "text": "really super good for anti-aging and performance improvements okay and then again you know when it comes to our brains meditation whoa they have found the science has found so many benefits of just mental and emotional health from just doing 15 minutes a day minimum you know just or any chance you get just even in your car you know before you go in and out of your house or office just doing some little quick meditation sent to yourself it's just incredibly"
+    },
+    {
+        "start": "00:23:05.600",
+        "end": "00:23:32.320",
+        "text": "healthy for you of course exercise and everybody tells you to exercise yeah that's a no-brainer go for a walk you know walk your dog not not a problem yoga now comes to the point of stretching again you're working those muscles in a different way than just exercising and doing yoga has been proven to be incredibly great for anti-aging and overall just mood you know just your mood and then cold now it's winter time right if you thought about just sitting outside in the cold"
+    },
+    {
+        "start": "00:23:32.320",
+        "end": "00:23:56.240",
+        "text": "and letting your body your skin temperature drop to a really low level like around you know i think if you it's the science is called cold thermogenesis and what the whole idea was is that our bodies are just burned tons of calories to just stay warm but also it kicks off epigenetic processes when your body gets cold and so the idea though is to you know you can either immerse your face in"
+    },
+    {
+        "start": "00:23:56.240",
+        "end": "00:24:24.480",
+        "text": "a bowl of ice water or i like what i do is i just go sit outside you know and yeah i'm having a cigar while i'm doing it but i'm doing cold thermogenesis bioacting that's how i that's how i mentally process that and but at the at the end of the day i get out there and i let myself get really really cold and then of course i come back inside and warm up but i do that every day during winter and that cold therapy is so good i mean i don't know if you knew this but people in scandinavia"
+    },
+    {
+        "start": "00:24:24.480",
+        "end": "00:24:51.680",
+        "text": "they put their babies outside for their naps during the day outside where it's like zero or minus something right and it's in an immune system and the health of babies in scandinavia from doing that it boosts their immune system so much that they don't have half the problems that we do here uh you know in our country right and then of course sleep there's you can't say enough about sleep but sleep is actually really tied to uh your your emotional state and you're because if you"
+    },
+    {
+        "start": "00:24:51.680",
+        "end": "00:25:17.520",
+        "text": "don't get enough sleep you don't get enough uh you know rem you don't get enough deep sleep blah blah blah there's this whole science behind sleep but you need to get good sleep so making sure you you book you know book time of your day to sleep and especially take a nap a little 20 minute power nap huge improvement for your health and then lastly relationships relationships there you know it's like why do married men live longer than single men right and you"
+    },
+    {
+        "start": "00:25:17.520",
+        "end": "00:25:43.920",
+        "text": "you've heard that study before but the bottom line a really healthy pair bonded uh couple who have just you know who who just basically support each other emotionally etc uh you know those people live longer they just do and it's just the science uh it's just that and the relationships with your pet you know if you've all heard the same stories about pets that's why they bring dogs and cats into hospices and nursing homes because it's so beneficial for the"
+    },
+    {
+        "start": "00:25:43.920",
+        "end": "00:26:10.320",
+        "text": "health uh and not just physical I mean not just mental and emotional but also physical health of the patients and just like there's something about a cat's per has a frequency that's really beneficial to our overall uh you know wellness and happiness the same thing with you know holding your dog and just interacting with your dog and bonding with your dog but just relationships keep us living longer and healthier and it's just amazing but that's what the science says and guess what"
+    },
+    {
+        "start": "00:26:10.320",
+        "end": "00:26:37.040",
+        "text": "all of that stuff's for free so it's biohacking for rich people absolutely not you can do this whole list for free and that's the point of my video today is that you know biohacking has kind of gone off on a tangent where it's all about gizmos right I've been biohacking for 20 years I mean I've been doing all this weird stuff I've got I've got I've have this device I've got uh this device I've got this I've got this I've got this right so I'm one of those people right that buys a lot of gizmos"
+    },
+    {
+        "start": "00:26:37.040",
+        "end": "00:27:04.720",
+        "text": "because I'm like a gearhead but at the end of the day um you know it's not about gizmos it's not about devices it's about how you live your life and so if you could just kind of squeeze in some of these things if not all of these things you know it's so much better uh to do it naturally A that's where I always default to and at the same time it's free it's free guys so no it's not for rich people you can do it and you don't have to spend any money I personally just you know at this I'm"
+    },
+    {
+        "start": "00:27:04.720",
+        "end": "00:27:33.600",
+        "text": "at this stage of life where I don't buy them anymore gizmos I'm focused on how to do the most I can naturally and of course I just want to leave off a couple of little things here that you know to live naturally and you want to bio act or free you know there's some other things too that you need to avoid doing and one of the things you really need to avoid is blue light we've heard all the stories about how blue light you know being in front of screens and everything's really bad for our brains it is bad for your brain you know so avoid sorry avoid blue light at night avoid energy"
+    },
+    {
+        "start": "00:27:33.600",
+        "end": "00:28:02.080",
+        "text": "vampires you know this is true people do suck the energy out of you you know who they are you're most likely related to them by marriage so energy vampires will sap the living crap life out of you don't don't let them just you know and so uh you know bottom line at the end of the day avoid them and avoid alipas there's this really funny story you can google it uh where there was a uh hospital strike in california a few years back and they actually measured the death rate of people"
+    },
+    {
+        "start": "00:28:02.080",
+        "end": "00:28:30.800",
+        "text": "enduring and after the strike and they discovered that while the hospitals were on strike the death rate in that county or whatever it was in california somewhere decreased by like 20 percent just think less people died you know when the alipas you know the doctors and the hospitals were closed right it's try to think about what that means and of course if you look at the death rate you know what's the percentage of of people who die and what are the causes you know basically"
+    },
+    {
+        "start": "00:28:30.800",
+        "end": "00:28:58.560",
+        "text": "malpractice is like up in the top five so personally i avoid them i avoid the doctors they're gonna end up you live longer and that's actually true you know so that's a free thing there but you need to avoid some stuff uh as part of your biohacking health journey as much as you should try to do some of these things and of course the gizmos are fun there's cheaper ways to do it and if you want to learn about some of those cheaper ways to do some of that's fancy stuff you know we i have a"
+    },
+    {
+        "start": "00:28:58.560",
+        "end": "00:29:27.840",
+        "text": "health and healing telegram group uh that we talk about this stuff all the time and we're always you know but you know diy cold plunges diy rifing and all that stuff and pmf and so there's all these really great modalities that you could do that you're not going to break the bank uh and so that's definitely you know something to think about also you know that's how you know so if you want to learn more uh i've got the telegram group link in a book video description below or you can read more about all this stuff that i do and i cover all this stuff i have a whole section of my blog"
+    },
+    {
+        "start": "00:29:27.840",
+        "end": "00:29:54.720",
+        "text": "on biohacking in addition to the other stuff i'm interested in so i have a blog it's called the takers academy video uh the link in the video description below if you want to learn more about that stuff but otherwise thanks for watching i just had this on my mind and i just wanted to share my thoughts real quick if you like this type of content really appreciate it if you like it to subscribe for more and that's what i do so anyway hey guys thank you very much go out and biohack today take care of your health have a great day a la"
+    }
+]

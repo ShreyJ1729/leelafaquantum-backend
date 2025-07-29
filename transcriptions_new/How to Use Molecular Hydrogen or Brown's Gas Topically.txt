@@ -1,0 +1,222 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.640",
+        "text": " Aloha and welcome to another Tinkers Academy video. I'm your host Kay Elmer and this is one of my impromptu videos because I just was setting up this new box and if you're wondering what this box is, it's actually an incubator for kittens and puppies where they need to give them oxygen and what I'm setting this box up for is my older dog who's sick right"
+    },
+    {
+        "start": "00:00:27.640",
+        "end": "00:00:51.440",
+        "text": "now and I wanted to treat them with some browns gas and so I kind of wanted, as I was setting this up, I was thinking this might be a good thing to share with people because some of you who own these machines, you own generators for hydrogen or browns gas or even have oxygen, there's different ways you could apply and a lot of people just bubble to water or they"
+    },
+    {
+        "start": "00:00:51.440",
+        "end": "00:01:17.960",
+        "text": "use their cannulas, I've got mine right here, you know, so if you've, this is Tinker Academy headquarters by the way and so like I've got my cannula, right, so I'm always like basically you know as I'm sitting at my desk I've got the generator running and I'm inhaling and or I am going to then plug in a stone so I've got my you know my bubbler stone so I'll be"
+    },
+    {
+        "start": "00:01:17.960",
+        "end": "00:01:42.920",
+        "text": "filtering water and that's used primarily to main use cases but you know as I was doing this I realized that you know I've never really done a video or mentioned in depth a lot more about other uses for your browns gas generator so I just kind of want to share with you some of the different applications you could use and where you could get the supplies so the very first thing obviously this is your standard browns gas generator, this is the H2 Genesis"
+    },
+    {
+        "start": "00:01:42.920",
+        "end": "00:02:07.320",
+        "text": "model from Biohacker something, it's been a while and so all really I do is I just went and got this six foot cord or hose off of Amazon and it's got the two connectors so here's one and so then with this connector this is really what you all you need is this six foot hose and then you could start plugging it into different accessories and peripherals"
+    },
+    {
+        "start": "00:02:07.320",
+        "end": "00:02:37.240",
+        "text": "so this box I got off of Amazon I'll cover that and at the end of the video in terms of the link and the only thing about it it's just you know it doesn't have a it didn't come with washers but it has a hole right here and this adapter and so really what it is it's just plugging in you know the hose into this adapter it's not airtight they're not supposed to be it's for oxygen and so you know it's sort of a cheapy way to do it there's more expensive"
+    },
+    {
+        "start": "00:02:37.240",
+        "end": "00:03:05.240",
+        "text": "models I'll show you on Amazon but the idea here simply is that you don't want it to be airtight because you know you're going to create a pressure in there by pumping browns gas in there and you want it to kind of you know be able to vent out obviously anytime you do any of this stuff huge disclaimer it's you know oxygen hydrogen and and browns gas right they're all incredibly flammable so you've got to be in a non-static environment you know no no electrical"
+    },
+    {
+        "start": "00:03:05.240",
+        "end": "00:03:33.560",
+        "text": "static also you know and then of course you know be really careful about flame because these things could blow up and they will and so you got to be really super careful but I just kind of want to share so idea number one is that there's a box that you could get and it got little latches here and then holds it up once I put my dog in there and I'll show you what that looks like the the lid you know it just comes unassembled it's really super easy to some like three minutes and then here are some of the other accessories that I've used with my browns gas generator"
+    },
+    {
+        "start": "00:03:34.760",
+        "end": "00:04:02.680",
+        "text": "sorry for the lighting I'm in just one of those weird moments where I just decided to grab a camera and start talking so the first things first is these are all the different things that I've done if you just go again get yourself a pair of safety goggles this is a safety science goggles they're called safety goggles and you could use that now the reason it's they're really good is they got this really good seal so you just put the goggles on if you want to treat your eyes with browns gas and then you would just kind of just stick this right here inside you know on"
+    },
+    {
+        "start": "00:04:02.680",
+        "end": "00:04:29.960",
+        "text": "on your on your on your on your cheek and then the gas is going to be pumping into these things now these again these aren't airtight either and so as the gas is kind of enveloping your eyes this the goggles will hold it you know hold it in so that you can treat your eyes with browns gas or hydrogen and so that's one way to do it for you if you want to treat your eyes now another way to do it and this is something I got from AquaCare because I also own a AC50 and so basically it's"
+    },
+    {
+        "start": "00:04:29.960",
+        "end": "00:04:55.400",
+        "text": "just this little tiny you know expandable cup and it comes with AquaCare has different hose adapters you would need to use the AquaCare with this one because of the way that they've done this but you can use any kind of coffee I'm sure you could get these off of Amazon I've never tried because I've got this one or any like you know like target or team or anything like that but basically it's like a funnel it's essentially a expandable funnel and then basically you know"
+    },
+    {
+        "start": "00:04:55.400",
+        "end": "00:05:22.920",
+        "text": "you connect the hose to one end of the funnel right now you'd need to use an adapter because of the way that this thing works but you could figure it out and then you just would cup yourself you would just put this over whatever hurts like if you have a wound or you know or just like let's say a particular area that's small enough for the for the funnel and you put the funnel over that area and then boom you would then pump browns gas into the funnel hold that against the let's say"
+    },
+    {
+        "start": "00:05:22.920",
+        "end": "00:05:52.680",
+        "text": "your your wound and then you could then apply browns gas and or hydrogen directly to your wound for healing purposes there of course now also on also I think they I think George sells these on his side which is the Eagle research site but you know if you just go on Amazon as well you can get the whole leg so basically these are called cast covers and so you can go get a whole bag that's meant for your leg and you can then apply browns gas to your leg let's say if you've got you know anything from"
+    },
+    {
+        "start": "00:05:52.680",
+        "end": "00:06:21.240",
+        "text": "a burn psoriasis xm you know you want to treat that with browns gas or hydrogen on your leg then you would get a basically a cast bag right it's called a leg glove and then you could then put that over your leg place this right you know we're at the top of your leg and the thigh tied up you know not tied up too tight you know you don't want to put a tourniquet but if you look at the the little bag here you can see where they've got kind of like I'm sorry about the leg it sucks here yeah there you"
+    },
+    {
+        "start": "00:06:21.240",
+        "end": "00:06:49.400",
+        "text": "go so you can kind of see how you would then use the straps to kind of you know you know keep the water out if you've got a cast but in this world in this application you would then you know want to keep the gas in so that's one way to do it of course now there's such a thing called an arm glove same thing it's for your it's a cast bag if that fits your hand and it goes all the way up to your your middle arm again you would strap on you would take the bag put it over your arm"
+    },
+    {
+        "start": "00:06:50.120",
+        "end": "00:07:19.400",
+        "text": "and then put the hose right here inside the the top of the bag and then put the straps on and hold it tight so that then the bag fills up full of browns gas for hydrogen to treat your arm now i've done actually i've done this i've actually put use this bag i will one like it you know they wear out and i use this bag for one time when i burn my hand so i just i just just basically put my hand in a bag pump the gas in there for good i don't know half hour an hour just as i was watching"
+    },
+    {
+        "start": "00:07:19.400",
+        "end": "00:07:42.600",
+        "text": "television and treated my wound with browns gas it worked really well pain went away immediately healed twice as fast okay then the other thing too i kind of want to point out now these are bags you can just get on amazon like again there i said they're cast covers for taking showers and then another thing too then if you go to the h2 biohackers website which is where the h2"
+    },
+    {
+        "start": "00:07:42.600",
+        "end": "00:08:09.000",
+        "text": "genesis comes from uh he actually sells these what he's actually created browns gas baggies and so what these baggies are is basically made out of material so it's not plastic so these are these are plastic and the only problem about the plastic ones is that you will sweat and it gets really gross and that's why you know it's like a one-use kind of thing but they're cheap but you"
+    },
+    {
+        "start": "00:08:09.000",
+        "end": "00:08:36.040",
+        "text": "know they work okay but here's what he's done he's kind of like i can't really describe some kind of a nylon material like for parachutes or something but it's really thin and it breathes but it will hold the gas in but then once there's a certain amount of pressure the gas releases through the fabric and so he actually creates these bags and you could use this bag for your hand i've got another model of this baggies sells a couple of different versions where he's got one for legs"
+    },
+    {
+        "start": "00:08:36.040",
+        "end": "00:09:00.360",
+        "text": "where you could use it on your knee on your elbow and so forth this one is just a full-on bag the other bagg has us you know one of these uh cinches on both ends and so you basically would put the bag on you would just cinch it tight uh with the with the hose inside the bag and then you could treat a hand a foot uh and so forth and then you use the other bag that's got cinches on both ends"
+    },
+    {
+        "start": "00:09:00.360",
+        "end": "00:09:28.520",
+        "text": "so it's more like a a sleeve and then you could then use that to treat knees elbows and things like that so so yeah so hydrogen for health i'm not sorry h2 pile hacker uh has these bags and these are like the breathable kind uh purpose made for browns gas um you know uh atopical treatment these are on amazon amazon uh you can get this anywhere you just it's just any cup at all i think"
+    },
+    {
+        "start": "00:09:28.520",
+        "end": "00:09:56.360",
+        "text": "the trick is going to be is the adapter and then the whole box too the whole box is for uh i got that on amazon so i kind of walked through at the end of the video all the different websites so you guys kind of get an idea so again i just want to say that i've you've been using browns gas for wall over five years i have treated burns and cuts and sprains um with browns gas and it works exceptionally well it really worked well on burns uh and so i think it's it's a great way to use your"
+    },
+    {
+        "start": "00:09:56.360",
+        "end": "00:10:19.160",
+        "text": "browns gas generator uh in another way other than just bubbling water and inhaling okay so you know it's a tool and you spend a ton of money on this thing why not get the most out of it and use it for healing purposes so there you go so those are all the different options i'm using uh maybe if you got a different idea or something you know you're doing i didn't mention please post that in the comments that'd be great so anyway i'm gonna go ahead and uh put the dog in and i'll show you what"
+    },
+    {
+        "start": "00:10:19.160",
+        "end": "00:10:45.960",
+        "text": "that looks like okay so i've got uh norman in the box i just wanted to kind of show you my settings typical h2 genesis the top numbers the frequency i've got it running at 50 because of the box normally it's 40 for humans it's pulling about three amps and so right now the water level is good so gas is boiling coming through the first filter the second filter through this hose and into"
+    },
+    {
+        "start": "00:10:45.960",
+        "end": "00:11:10.680",
+        "text": "the box so there's norman like i said he's not doing well he's pretty sick so i wanted to treat him so i thought uh well you know i do bronze gas all the time and it's super helpful for me so i'm going to go ahead and get one for norman now unfortunately the box is just a little small for him uh they come in three sizes this is the biggest size rated for a 25 pound critter uh normans"
+    },
+    {
+        "start": "00:11:10.680",
+        "end": "00:11:40.280",
+        "text": "28 so he does fit and uh he doesn't look unhappy this is literally the first time i've done this like i like i said i just was doing this and thought i'd just whip out a video just to kind of share uh because it is interesting and it's my my new tinker so anyway so there's norman uh got the browns gas going into the box and what i wanted to try to do is just see if this helps him feel better um and uh and i'm just going to run him like for an hour in here or as long as he will"
+    },
+    {
+        "start": "00:11:40.280",
+        "end": "00:12:04.840",
+        "text": "let me he seems pretty calm doesn't seem upset being in a box so that's a really good sign so anyway that's what i'm trying to do i'm trying to leverage uh browns gas uh it's helped me so i'm trying to help my dog and uh thought i'd share that with you plus all the other tinker stuff i've got going on uh but anyway so that's norman hopefully he feels better soon and um yeah"
+    },
+    {
+        "start": "00:12:04.840",
+        "end": "00:12:29.080",
+        "text": "so that's that's how you do it so that's uh how to give your small dog uh browns gas or molecular hydrogen now there is one other way to do it but you have to sedate it and that's how veterinarians do it so i will show you that on amazon but i did consider that but uh there's no way i'm gonna be able to hold a mask up to a you know a dog that's awake and so you know they have uh what they call"
+    },
+    {
+        "start": "00:12:29.080",
+        "end": "00:12:56.600",
+        "text": "anesthesia masks uh for applying gas to animals and they're just masks that come in different sizes you put over a dog's or a cat's uh you know face and so but you know that the animals always are sedated because you know your animals they hate having stuff on their face so i did consider that but i just realized that there's no way i'm gonna hold hold that on norman's face for an hour and he's gonna just get pissed off but right now look at him he's pretty calm he's pretty calm in there"
+    },
+    {
+        "start": "00:12:56.600",
+        "end": "00:13:26.120",
+        "text": "i did wake him up from a nap so that's probably good timing but uh yeah so this way he's gonna get some browns gas and uh this is all a uh a test to see how it goes i'm just trying to help my little guy and now for bigger dogs man i really don't have a solution for that you know i i don't have a bigger dog i got two little ones so but yeah bigger dogs would be quite a challenge because there's really nothing made for them you'd have to actually build one um they do have"
+    },
+    {
+        "start": "00:13:26.120",
+        "end": "00:13:52.920",
+        "text": "bigger boxes of these this guy was like i don't know about 88 bucks they've got big ones that you could use for a bigger dog but those are like four hundred five six hundred dollars uh and then anything bigger than that i highly don't recommend because you know you can get those those spas you know how people have those weird little spas with their head sticks out of a tent uh you know that was something that one time uh one of our uh telegram friends mandy was planning"
+    },
+    {
+        "start": "00:13:52.920",
+        "end": "00:14:22.680",
+        "text": "on doing and then we all reminder to that that that would be a very large explosion if it had that much gas trapped in there and caught on fire now if it's just this must gas it would be a big boom but it wouldn't blow my house up that probably would blow your house up so i don't recommend filling up a tent full of incredibly flammable gas but with this i think we're okay i just you know i made sure there's no static in here i don't have any of my electrical stuff running because that stuff that will definitely spark so i've made sure everything's turned off and you know"
+    },
+    {
+        "start": "00:14:22.680",
+        "end": "00:14:50.120",
+        "text": "but uh yeah so that's the other thing you know you could put them in a tent a big dog i mean but i don't even know how that would work because the dog's not going to want to sit in a tent you know anyway so that's just where i'm at right now i'm focused on the small dog anyway there you go okay so this is uh for those you guys who are interested in trying this uh just i just go on amazon uh type in leg glove for casts and you'll see them right here different brands different stuff"
+    },
+    {
+        "start": "00:14:50.120",
+        "end": "00:15:14.680",
+        "text": "i mean they're pretty cheap sort of uh you know they've got the bigger ones that inflate which you know either way you could use i mean you could just kind of tinker around but you can kind of see where you can find different uh uh bags that you could use for your legs and then of course on amazon type in the same thing arm glove for casts and you can find different ones now you know they've got different brands right but one of the things that i was looking at this i thought was kind of interesting"
+    },
+    {
+        "start": "00:15:14.680",
+        "end": "00:15:39.240",
+        "text": "which is for 1299 you can get like 50 of them and these are the same ones that veterinarians use you know when they're sticking their arms up you know large animals and so yeah so there's definitely different price ranges but you can definitely just go look for arm glove for casts or leg glove for casts and you can find those for arms and legs i did go on uh george's site here at"
+    },
+    {
+        "start": "00:15:39.240",
+        "end": "00:16:08.120",
+        "text": "eagle research and he doesn't sell them anymore so he originally was selling the bags along with selling the stuff for his brownscast ac 50 but it's not there anymore so the other thing too now the safety goggles just type that into amazon and the thing i just want to really point out is that they've got different kinds of safety goggles but you don't want to get this kind which is just the hard plastic pieces against your eyes your face you definitely want to get the nicer one the"
+    },
+    {
+        "start": "00:16:08.120",
+        "end": "00:16:34.840",
+        "text": "more expensive one which has got that rubber like i showed you a seal that'll seal in the gas against your face and so you kind of want that uh that rubber piece not just a piece of plastic on your face but a piece of plastic with you know rubber seal around it to hold the gas in uh the next thing to the silicon funnels again you know like i i was guessing when i made that other piece of the video but yeah you can get a really super cheap like five bucks you can get any one of these"
+    },
+    {
+        "start": "00:16:34.840",
+        "end": "00:17:03.160",
+        "text": "is what george was using or you can get this model right here and you just have to figure out how to hook the hose up to it but yeah that's definitely for like spot placement this is the pet atomization nest a pet incubato that i had purchased that i showed you in the video again it comes in three different sizes so the large one i spent eighty six forty two uh four and this is the box and again you know like they basically have uh different weights so like the large buck to small one"
+    },
+    {
+        "start": "00:17:03.160",
+        "end": "00:17:31.560",
+        "text": "i can accommodate pets within uh four point four pounds medium size pets up to um let's see thirteen pounds and the big ones up to twenty five pounds so and that's basically it now there are different models of this that get more pricey and again like i was telling you you know there's all these different ones you could get but they're pretty much for you know puppies and kittens right and you know you can get like a super expensive one like here's one that i was kind of looking at"
+    },
+    {
+        "start": "00:17:31.560",
+        "end": "00:18:00.520",
+        "text": "but i was like man i didn't want to spend that kind of money uh it is really large but you know it's not large enough for like a doberman or a pointer or something like that but you can see where you know the price gets kind of crazy so that's kind of why i just bought the you know the plastic one here and and you know as you can see it works just fine i got Norman here behind me he's he's just laying down now he's pretty comfortable he's not making any fuss he's just laying in there it's been uh approximately twenty minutes now so he's he's flying he's happy in there and he's"
+    },
+    {
+        "start": "00:18:00.520",
+        "end": "00:18:25.720",
+        "text": "inhaling brownscars now you definitely obviously want to get the tube so you're going to go oxygen tube six feet oh by the way if you want i just i'll put links in the video description to make it easy for you but oxygen tube and then you six feet right and then right here there you go it's like for $9.99 you can get a tube or you can get them cheaper if you shop around here's one for $6.99 but basically that it anything for brownscars generators or molecular hydrogen generators you"
+    },
+    {
+        "start": "00:18:25.720",
+        "end": "00:18:53.800",
+        "text": "know if you're looking for supplies you just type in oxygen and and all of the supplies for oxygen concentrators are the same for that you know for what i'm talking about and lastly if you go to the h2 biohacker site as i mentioned here's the the bags that they make and so you can see where this one has cinches on both ends like i was saying the one i showed you was cinched on each and he sells them for like 60 bucks apparently they're on sale for 50 bucks for now for both"
+    },
+    {
+        "start": "00:18:53.800",
+        "end": "00:19:21.960",
+        "text": "bags and so you can kind of see where he's got different tubes and you know so and that's been benacosia great guy and so yeah so he's got all of these different supplies and you know for accessories that go along with his with his model he sells that h2 genesis but yeah that's really it um i just want to say hey thanks for watching the video again i just threw this together i didn't even think it through i just i thought it through as i was recording it because i thought i just would share it with you because it's a really great idea that i'm doing"
+    },
+    {
+        "start": "00:19:21.960",
+        "end": "00:19:48.120",
+        "text": "right now as you can see and i encourage all of you guys you know get the most out of that investment you guys spend a couple grand on these generators and so why not use them for everything you can which is you know beyond just you know for health but you can use it for healing so there you go thanks for watching uh tickers academy video you know more about me go to my blog blah blah blah blah i got a couple telegram check groups all that stuff's going to be in the video links and thanks for your time hope you found this interesting hello"
+    }
+]

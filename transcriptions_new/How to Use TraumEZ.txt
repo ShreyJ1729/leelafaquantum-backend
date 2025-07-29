@@ -1,0 +1,542 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.040",
+        "text": " Hello everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and this video I've got Philip on Holzendorf with me, the owner, operator, guru, leader of our patch for Leila Quantum Tech. He's with me and we're going to be doing a tutorial on how to use Tram EZ. So, Philip, welcome. Thank you for joining me. Thanks for having me on. Yeah, this is forward to this. Yeah, appreciate your time. As always, you know,"
+    },
+    {
+        "start": "00:00:29.040",
+        "end": "00:00:54.800",
+        "text": "I think the other two videos we did on Tram EZ was basically to explain how it works and then answering questions. So, this one is literally the tutorial for it. Now that it's been out for several months and kind of just really to help everybody understand how to best utilize it because there's been a lot more information that's been added to the user guide and so we're going to go through that and then talk about the different features of"
+    },
+    {
+        "start": "00:00:54.800",
+        "end": "00:01:22.480",
+        "text": "the service because I think, Philip, you were telling me and I totally agree with you a little while earlier that Tram EZ is this incredibly powerful tool and it's kind of like, you know, it's this third thing that you offer and there's not a lot of attention put onto it. I don't know how much like I watch your interviews and stuff but it just seems to be like this lonely little product out there that has so much potential and it doesn't get a lot of attention, you know."
+    },
+    {
+        "start": "00:01:23.200",
+        "end": "00:01:50.640",
+        "text": "So, I'm glad we're doing this. So, yes, I mean, indeed from my perspective, it's the most underestimated tool that we offer and for that fact, I really haven't talked much about it and one of the reasons is because when I get invited to these podcasts, people always heard about Lita Quantum Tech or like a friend told them about it or they got a capsule and they love"
+    },
+    {
+        "start": "00:01:50.640",
+        "end": "00:02:14.800",
+        "text": "it and know they want to know more and all of that. So, then I need to talk about that and then the next thing they hear about is like the quantum upgrade. So, we talk about that and I don't want to overwhelm people or the audience by bringing up yet another thing because then it just dilutes about what we're talking about and so the Tram EZ really, we have only really launched and"
+    },
+    {
+        "start": "00:02:14.800",
+        "end": "00:02:39.840",
+        "text": "communicated to the existing community and they know about it but we haven't really told anyone else about it and even the existing community, we haven't told enough, I feel. So, I'm glad we're talking about it today because it really is so powerful and I want to say up front why I think it is so powerful. First of all, because it really works, it really works and the second thing is"
+    },
+    {
+        "start": "00:02:39.840",
+        "end": "00:03:09.680",
+        "text": "and some people may not like this and I even sometimes with really hard stuff I'm working through sometimes also have a little resistance because you do the work with it. But then if you turn around everyone, everyone in the group that I know of at least, they've always been asking me since the beginning of the times in the community there, how can I perceive energy"
+    },
+    {
+        "start": "00:03:09.680",
+        "end": "00:03:39.040",
+        "text": "better, how can I practice that better, how can I connect more with my inner power and all of that and one of the things is you need to practice when you need to do it, you need to feel and this is a tool that actually lets you do that. So, because as you're going into these feeling like the heaviness of a trauma or something that's there, something that's blocking you, you're doing the"
+    },
+    {
+        "start": "00:03:39.040",
+        "end": "00:04:02.640",
+        "text": "work, you're putting the attention there, but then you have this tool that provides this energy orchestra to actually really release it. So, you have the help and you're also working, it's not that you just lay down like for a massage, you get a massage and then you're done with it, right? You're at the same time really doing some work, you're really getting into the, also the awareness"
+    },
+    {
+        "start": "00:04:02.640",
+        "end": "00:04:30.160",
+        "text": "of why it happened and all of that and that is so freeing and it's so powerful because that gets you further than anything you can just have done to you, you know what I mean? Yeah, it's honest for me, it's the hardest thing to try to use because there's so much to work through. I mean, you know, and that's why we're trying to do this video, right? But yeah, I've tried using it,"
+    },
+    {
+        "start": "00:04:30.160",
+        "end": "00:04:59.440",
+        "text": "it is very difficult because there's no one there to guide you like if you were to go into a session with, you know, with, you know, with, you know, energy workers or any of those types of individuals and they guide you, you have a guide, you know, for this one you're just kind of figuring that on your own. So, there's a steep learning curve, but yeah, you're right, the more I use it, the easier it becomes and then you have the, yeah, go ahead. Do you want to pay 250, 300, 400,"
+    },
+    {
+        "start": "00:04:59.440",
+        "end": "00:05:28.240",
+        "text": "500, 600 dollars per hour working with someone on just one trauma, right, that you may then release and then you have a hundred others or a thousand others and where do you really learn to get added yourself as things come up, you're working with it. And that's really the trick because you become an energy worker because you have the tool with that at hand that can actually"
+    },
+    {
+        "start": "00:05:28.240",
+        "end": "00:05:53.440",
+        "text": "release it as long as you sit down or lay down and just dedicate some attention to it. That's a really good point. That's a really good point because yeah, you know, just seeing a natural path is expensive, let alone energy workers. I mean, it is because you're using someone's time, but even more so though, I think just for me, it's I didn't really truly understand until I started"
+    },
+    {
+        "start": "00:05:53.440",
+        "end": "00:06:22.160",
+        "text": "getting into it that, you know, releasing traumas is it's not one at a time. It's like you just peel off it outside edge of an onion and just one trauma has multiple layers and it branches off into other stuff, you know, because once it happens, you become sensitive to related things or and so it's just bizarre that, you know, because when I first started, I was really naive. I thought, oh, I have XYZ, you know, so I'll just start working on this one. And then it was just like"
+    },
+    {
+        "start": "00:06:22.160",
+        "end": "00:06:52.640",
+        "text": "opening up the floodgates to a whole bunch of other stuff. And it was like, oh, it's not just a one for one thing. You got to keep working at it and working at it. So yeah, there's a there's a lot of effort involved. But you know, it's been very, I opening to say the least as to my progress. I'm thrilled with it. And it also scares me. Yeah, what what the floodgates open, you never know what's going to come out. You know, so yeah, it's it's pretty power stuff. So I'm really"
+    },
+    {
+        "start": "00:06:52.640",
+        "end": "00:07:22.240",
+        "text": "supportive of this. And I'm glad we had the chance to do this. So let's jump in. But just let everybody know, we're going to talk about that there's a 10 step process for using the, you know, trauma easy service product on on yourself. And then you have two levels of trauma. So Philip's going to talk about both your conscious trauma that you're aware of. And then we all have unconscious trauma that we're not even aware we have we either brought it into our existence from"
+    },
+    {
+        "start": "00:07:22.240",
+        "end": "00:07:49.040",
+        "text": "our past prior to, you know, our birth or, you know, even things that happen when we were kids and we don't remember it happening. But there's we all have conscious and unconscious. So we're going to chat about that. There's also been questions that come up in our chat and our chat groups about, you know, how do we help children? How do we help the elderly? How do we help people that are, you know, that can't do it themselves? Right. And so, you know, Philip's going to admit talking about that. And of course, you know, you can use trauma easy when it's running on your"
+    },
+    {
+        "start": "00:07:49.040",
+        "end": "00:08:15.600",
+        "text": "phone, you could use a church food, water, you know, how that work. And then, of course, that new service that's coming up. So we'll touch on that. So before I jump in, they'll fill up on the on the main thing, which is, you know, using trauma easy for yourself. I do want to make sure everybody who has trauma easy is aware that, you know, Philip's gone ahead and had his team put together, you know, or update the original guide from the original time when it launched several months ago,"
+    },
+    {
+        "start": "00:08:15.600",
+        "end": "00:08:43.520",
+        "text": "there was a like a four or five page guide. Now the guide is now up to like 10 pages. There's so much more detail in the guide. It talks about what I just mentioned. So please, if you haven't took a look, you know, took a look at that new guide, the updated one, you know, go to traumeezy.laq.com and go at the bottom of the page, you can download the guide again. And so you'll get this new really detailed updated guide and also the updated audio guide that accompanies"
+    },
+    {
+        "start": "00:08:43.520",
+        "end": "00:09:08.880",
+        "text": "the PDF. Okay. So make sure you've got the most recent one, because that's the one Philip will be talking through as we go today. All right. So Philip, let me just kind of leave it to you right now. And let me tell everybody what's on the screen. There's 10 steps. It's like, I think it takes up six or seven of the pages of the new one. There's that much detail now. And then so I did ask Philip, you know, like if he could kind of like, how do you simplify it, you know, and so this is what"
+    },
+    {
+        "start": "00:09:08.880",
+        "end": "00:09:36.880",
+        "text": "he gave me and so I'm just going to leave it to you, Philip. Now, how do you use traumeezy for yourself or your conscious trauma? And so go ahead. Yeah. So you identify and name name the trauma, whether that is, okay, the specific childhood trauma, or you had an accident at some point, or I don't know, you're always, you know, when you"
+    },
+    {
+        "start": "00:09:36.880",
+        "end": "00:09:57.840",
+        "text": "travel in an airplane, you start to have a lot of fear and you get a lot of anxiety, you know, whatever that is, you kind of have really a good feeling for that. And then you say you name it. Then you ask your body and your consciousness, how strong or heavy on a scale from zero to 10,"
+    },
+    {
+        "start": "00:09:57.840",
+        "end": "00:10:21.520",
+        "text": "this trauma is. And what I always do is to really also say, you know, including any emotions, attachments, fear, pain regarding this, you know, whatever this is, right? And then that's your first task. And it's actually pretty easy. You don't need to"
+    },
+    {
+        "start": "00:10:21.520",
+        "end": "00:10:51.040",
+        "text": "brain into that or like have anxiety that you don't get a number of zero to 10. You will feel it. It's just you will just feel it. And it may just come to you and you'll be like, oh, five. And I actually speak it out loud. You don't have to, but that's what I do. And maybe it's a five, maybe it's a six. And even if you say then it's six, then you may have been feeling, oh, that's actually an eight or, oh, this is like, oh my god. And it"
+    },
+    {
+        "start": "00:10:51.040",
+        "end": "00:11:20.480",
+        "text": "may actually happen that right at that point, like things get very tense in your body, right? That's with very heavy stuff that that can really happen where you like, oh my god, like I'm having trouble breathing. It's just like we're because you're right there. You're poking. The bear, I shouldn't say that. You're poking at the trauma, right? And so it's visible. It's right there. Maybe it's a nine, maybe it's a ten, whatever it is. You list that and then you stay"
+    },
+    {
+        "start": "00:11:20.480",
+        "end": "00:11:46.320",
+        "text": "in this, you close your eyes. That's an important factor actually. You want to close your eyes with this because you want to really stay in this feeling this. And so one important thing is, and that's why that's one reason why we're having this conversation, is that if we have uncomfortable feelings come up, usually our reaction is to run away from it or to bury it"
+    },
+    {
+        "start": "00:11:46.320",
+        "end": "00:12:13.440",
+        "text": "or not to ignore it, right, to put it somewhere. And I must say, in my early life, that's exactly what I did. Like I put this stuff anywhere I could, but I would not look at it. And that's why I had such a long time of working through it since, I mean, I started this journey in the early 2000s, right? And oh my god, I did a half stuff that came up and I was thinking, well,"
+    },
+    {
+        "start": "00:12:13.440",
+        "end": "00:12:39.120",
+        "text": "I was done with everything and then stuff came up. So in this case here, you're getting this feeling, you're getting like the age, for example, and you feel this tension or you feel an uncomfortable or you feel that heaviness and breathing, stay there, like feel it, feel it, you know, let it come up, you know, be there. And no, you have this tool on your thymas gland,"
+    },
+    {
+        "start": "00:12:39.120",
+        "end": "00:13:08.880",
+        "text": "that is actually it's like an energy orchestra that is playing, that is transforming that. And you can even ask, you know, then, okay, so then, so what I do is, I, you know, that I ask that this be transformed now in all dimensions, in all bodies, and in all times, right, that's, you know, you don't have to do that, but you can just add to that maybe by doing that."
+    },
+    {
+        "start": "00:13:08.880",
+        "end": "00:13:31.840",
+        "text": "And you stay with this feeling, you know, you stay with this, this emotion that may come up where you stay with it. But what you don't do is you don't hold on to it. Okay, so and that's an important distinction, you feel it. But at the same time, you allow yourself to let go. And when you're stuck, let's say, and then you're going from eight to seven, and then you're stuck at the"
+    },
+    {
+        "start": "00:13:31.840",
+        "end": "00:13:56.480",
+        "text": "seven, and it's like for five minutes, you're at the seven as an example, then you are holding on. So then just stay, you know, we're letting this go, we are letting this go, but it's not like that you're ignoring it, you're still feeling it, but you're also letting it go. And then you'll, you'll see how it will move again. And then you go to six, and you until you add the zero, right?"
+    },
+    {
+        "start": "00:13:56.480",
+        "end": "00:14:22.400",
+        "text": "And then basically, so we're at the point four now, where you then basically done with zero, and then you repeat those steps by asking your whole we basically, which includes your soul, your subconsciousness, your consciousness, and your body. And you do the same thing, right?"
+    },
+    {
+        "start": "00:14:23.760",
+        "end": "00:14:53.040",
+        "text": "This is the simplified version in general. Also, even what's in the in the guide is sort of simplified, because you could also go more in more detail by going through each of these, you could do the body and consciousness together, then you could do the subconsciousness, and then you could do the soul level, and then you do the we so you would have four, four run throughs, basically. That's when you go at it in very detailed, could be used for very heavy traumas,"
+    },
+    {
+        "start": "00:14:53.040",
+        "end": "00:15:16.640",
+        "text": "for example, if you have the feeling to do that, you could just do that, right? I mean, that's totally fine. Most people in general, and with most traumas, it's okay to just do it this way, and it's certainly the quicker way to do it. But if you have the feeling, you just want to take your time with it, then you can do it the other way as well. Yeah, and then after that, you're done."
+    },
+    {
+        "start": "00:15:16.640",
+        "end": "00:15:44.640",
+        "text": "And you know, you could then check the next day, for example, or even right after, you can do those last step one more time, right? Asking, asking again, because maybe something just bubbled up, you know, and came back in, you know, the next layer of the onion showed up, or there's something that you missed, right? Or that you count it too fast, and then you'll just"
+    },
+    {
+        "start": "00:15:44.640",
+        "end": "00:16:12.160",
+        "text": "feel if there's a four again, or a five, or you if you're still at zero, until you're really at zero, and then you're pretty much done with it. And so the positive thing is, so you're not done with these five steps, right? Because the important part is, and that's so essential in trauma work, really, is that you are then asking for understanding why it happened, right? So basically,"
+    },
+    {
+        "start": "00:16:12.800",
+        "end": "00:16:38.320",
+        "text": "step six, I should have put there, is that you ask your soul, why did this happen to me? You know, what's the reason? What is what did I need to learn, right? You know, that's basically what you want to find out. And then just you sit back, you just wait, you know, maybe you see a picture, maybe you hear something, maybe you feel something, maybe you suddenly know something,"
+    },
+    {
+        "start": "00:16:38.320",
+        "end": "00:17:04.560",
+        "text": "maybe there's an aha moment, there's, or there's like, there's going to be something that is also practicing, you know, how to listen to your inner God, right, to your, to your higher self. And it's just listening, you know, and you will know you will get this feeling. And then when that is"
+    },
+    {
+        "start": "00:17:04.560",
+        "end": "00:17:31.600",
+        "text": "done, maybe it's like, oh, okay, because I needed to learn that if I, if I shut off completely, it has this negative effect on all these other people as well. And I hurt them with that, right? And then, and then you're like, oh, wow, no, and I know I really realized this now. And now I just don't do that anymore, right? Maybe, you know, you don't bury your feelings anymore,"
+    },
+    {
+        "start": "00:17:31.600",
+        "end": "00:17:58.480",
+        "text": "maybe you deal with them as they come up, you know, that could be one of those things. And then the last step really is you, you ask, okay, so what's, what's, what's your soul's desire now, you know, basically to, to make out of this, you know, how do we move forward from this? And, and you'll also feel that, and usually it's very related to the awareness, you know, to give you"
+    },
+    {
+        "start": "00:17:58.480",
+        "end": "00:18:27.200",
+        "text": "this example, maybe you, you always bury your feelings. And now you realize, wow, this hurt my kids, right? Because I, because I did so, I was so closed off and I just hurt them all the time because of that. And now I don't do that anymore. And because I just realized that like next time I'm going to be sad or I'm, I'm angry or whatever, I deal with these feelings. Now what's the soul's"
+    },
+    {
+        "start": "00:18:27.200",
+        "end": "00:18:53.040",
+        "text": "desire in that specific case? It's just that you really deal with the things as they come up and that you don't bury this stuff, right? That is really what your inner core really wants. And then you got it, you solved it, you transformed the trauma, you realized why you had it, what a great learning experience. And wow, now we can move forward with this new energy to treat these things"
+    },
+    {
+        "start": "00:18:53.680",
+        "end": "00:19:19.360",
+        "text": "differently moving forward. And you'll, you'll see that that specific trauma is gone. It is gone. And you're not falling back into it. It's that you have a completely different attitude to that. Doesn't mean it's not difficult when you run into these situations with, oh, there's tough emotions coming or my mother dies or, you know, this or that doesn't mean, but it's, it's the way how you"
+    },
+    {
+        "start": "00:19:20.560",
+        "end": "00:19:49.840",
+        "text": "deal with it. And, and that is the key. So, so I hope people understand that and you can apply this example on how to go through to any trauma. There's not a single trauma you couldn't go through with this like that. Okay. Yeah, you know, just for some clarification, because questions come up all the time, but I just want to point out to everybody that, you know, the inner, it's, it's an energy and a frequency. It's on your phone. Your phone does not need to"
+    },
+    {
+        "start": "00:19:49.840",
+        "end": "00:20:16.000",
+        "text": "be turned on. So it can be on off or in airplane mode. It doesn't matter. But it's, think about it as it's no longer a phone. When you're using it for traumasie, it becomes a quantum device. So you take this quantum device, it's got this incredible energy and frequency on it. And use that as a tool, like you would be a capsule, right? And so then the placement to I kind of want to clarify for"
+    },
+    {
+        "start": "00:20:16.000",
+        "end": "00:20:42.160",
+        "text": "everyone, because I clarified this before we started with Philip, I just want to make sure, you know, the place the the placement of your thymus gland is between the throat and heart chakra. So it's right in the middle between the two. So you want to make sure that it goes right there. And and I did have a question for you, Philip, like, how did you discover that that was the place that that your body was to me, it's like a portal, right? It's a portal of your emotional"
+    },
+    {
+        "start": "00:20:42.160",
+        "end": "00:21:12.000",
+        "text": "being. And that that when you place that energy at that portal? Absolutely. Yeah. So that's actually something that Johannes, the healer from Austria, you know, set up from the from the beginning. That's that's how he set up the whole thing. So that's I can't take any credit for that. For me, it makes sense, though, because on just on the first of all, on the physical level, that's an important gland, actually, and then energetically, it's right between your heart, you know, which is the most"
+    },
+    {
+        "start": "00:21:12.000",
+        "end": "00:21:35.280",
+        "text": "powerful, you know, area we have energetically in our physical existence here. And then the throat chakra, which is basically it stands for expressing yourself in this reality, right? To and and if because of trauma, often our heart is damped in, or we can't really express"
+    },
+    {
+        "start": "00:21:35.280",
+        "end": "00:21:57.840",
+        "text": "what's really truly within us. So it's I think a pretty good spot energetically in general for that, but but you're totally right, you know, it is. That's where you if you put it there, it's sort of activating this process. And then, you know, obviously, most people don't really"
+    },
+    {
+        "start": "00:21:57.840",
+        "end": "00:22:24.640",
+        "text": "yet see energy in the way they they wonder they can and probably will at some point in the future. So they may be wondering, okay, so why can't I just place it there and it just transforms all of my traumas? Well, you know, that because that's not how it works. And it really is you're in the driver's seat, right? It's it's your life, and it's also your responsibility."
+    },
+    {
+        "start": "00:22:24.640",
+        "end": "00:22:48.880",
+        "text": "So now if and it's it's also free will. So if you now put your attention towards something that you want to release, that is coming up and then now actually this energy can actually help you do that, right? And then you can go on to the next one and to the next one and you're working on these, you know, to be aware of what's actually happening. So that is"
+    },
+    {
+        "start": "00:22:48.880",
+        "end": "00:23:15.680",
+        "text": "that is why that is. Yeah, so putting it here is real important. And it really does work. And so okay, so that's that and okay, so these are the simplified 10 steps. The full 10 steps is in the guide. Okay, so this is the guide if you download it. So recommend reading through the guide, you know, read the directions. These are the quick, you know, the quick reference steps, you know,"
+    },
+    {
+        "start": "00:23:15.680",
+        "end": "00:23:45.360",
+        "text": "and going heading and doing it. And then again, like to your point, Philip, and I think this is really important is you have to really work with it. You have to try it, practice makes perfect, and and let your let your I guess you let your heart, you know, guide the way, right? Yes. And again, so you know, that's that's the one thing. So we we often have this resistance of doing something or then we may feel like, well, but I can't do this, like, you know, like, how can I"
+    },
+    {
+        "start": "00:23:45.360",
+        "end": "00:24:15.360",
+        "text": "now release this trauma or it feels so heavy? How can I get it done? But know that you have this tool and it'll do that. All you need to do is you need to dedicate a little bit time, some attention to it, and and the willingness to face it. Okay, so that is so you man up by doing that. Or you woman up, you know, and days, well, and then now I need to repeat it like"
+    },
+    {
+        "start": "00:24:15.360",
+        "end": "00:24:41.040",
+        "text": "100, 100 more times, right? Yeah, really other 600 genders we have. But you get the point, that's kind of what you're doing. And that's that's what that's what's required in the process, because we need to we need to deal with it. We need to face it. But then as we do, you know, then there's the instant blessing because it it can go. And and that makes us feel so much"
+    },
+    {
+        "start": "00:24:41.040",
+        "end": "00:25:10.720",
+        "text": "lighter. And you will notice by using this on a regular basis, you will get much more connected with yourself. You will sense energy way better. And guess what? And after having done this multiple times, you'll be actually learning how to help others with this, right? And that's actually a thought I'm having because we're still working on, you know, the certified quantum healer course,"
+    },
+    {
+        "start": "00:25:10.720",
+        "end": "00:25:35.120",
+        "text": "we're on the bottleneck because we wanted to launch it already like six months ago, and it probably still takes another three or six months until we launch it. And I think another one will be or that will be just like an add on to that is, you know, how to help others with trauma. And then, you know, this app can be used. And you can also really help someone like, you know, the ones that"
+    },
+    {
+        "start": "00:25:35.120",
+        "end": "00:25:57.280",
+        "text": "that just feel they just can't get it, they need to have someone to learn it. And then maybe the first five, six session, you do it or for every every trauma, you do it with them, which also brings me to an idea that I have that in the future, I would want to at least two, three times a year set up"
+    },
+    {
+        "start": "00:25:57.280",
+        "end": "00:26:26.160",
+        "text": "a free webinar with everyone that has the trauma easy app to, you know, dedicate that to a little bit Q&A, but to a real trauma release session, right? So where I will pick a trauma that comes up that is, you know, usually something that everyone has, and then we'll work through that together. And if"
+    },
+    {
+        "start": "00:26:26.160",
+        "end": "00:26:51.360",
+        "text": "someone already just worked on that specific trauma, they just can pick your own, their own, and they can still participate in this. So that way it becomes a little bit also of a group effort, and we can exchange and all that. That's an idea I have that I want to do because we should really talk about this more and help people use it because it's so powerful. And by the way, I want to say"
+    },
+    {
+        "start": "00:26:51.360",
+        "end": "00:27:17.280",
+        "text": "you're also, and Johannes asked me, so Johannes is not available for any private sessions or anything, so please do not reach out to him. He specifically asked me, he doesn't want to deal with any emails, he doesn't have any time for any private sessions, not even if you offer a half a million bucks, he doesn't do that anymore. He just focuses on this and keep the energy running and all of that,"
+    },
+    {
+        "start": "00:27:17.280",
+        "end": "00:27:46.640",
+        "text": "and to keep developing it. So yeah, because we had two cases that reached out to him lately, I wanted to set up sessions, and he just does not have the time for that. We apologize, but you know, he says, please, you know, learn how to use this and you'll be self-sufficient. Yeah, okay. Thanks for sharing that. But yeah, you know, your point's really well-taken. I didn't"
+    },
+    {
+        "start": "00:27:46.640",
+        "end": "00:28:15.920",
+        "text": "think about it until you told me just now that you're using this process, you're training yourself to become an energy worker first on yourself, and then the imagine, you know, imagine the benefit you can have for your loved ones, once you get really good at this, you can help them as well. So that's, that's a, I didn't think about it that way, but wow, you're right, I didn't think about it. Teaching, I am actually teaching myself to be an energy worker. That's pretty wild. So"
+    },
+    {
+        "start": "00:28:15.920",
+        "end": "00:28:45.680",
+        "text": "speaking of helping others, well, this segue is right into our next update that's on the guide, is using trauma easy for unconscious trauma, which is basically helping yourself, but you're helping yourself with something you're, you're not conscious of. So can you talk, talk about that, and then let's, and then I've got here the steps for how to go about doing it. But for people that, like, not may not be familiar with what, what you mean when you put in the guide, you know,"
+    },
+    {
+        "start": "00:28:45.680",
+        "end": "00:29:08.960",
+        "text": "what is unconscious trauma? How would you, you know, what's your, what's your quick explanation for that? Well, that's the typical situation. You're on a, I don't know, a tall building and you get complete anxiety, right? And you, you just don't know why. I have that. So I don't know why."
+    },
+    {
+        "start": "00:29:08.960",
+        "end": "00:29:35.280",
+        "text": "Terrified heights. Yeah. And it can have multiple reasons, right? It could come from a past life. It can come from whatever, right? Something out of the childhood that you just don't remember, you have no, no excess to it. Whatever, right? So, and you don't know. So then just name the"
+    },
+    {
+        "start": "00:29:35.280",
+        "end": "00:30:04.960",
+        "text": "situation. Just name the situation. And so let's say, okay, so this, the, the situation of, step by step, always when I'm on a tall building, I get this anxiety and the trauma related to this, the trauma, the origin related to this, okay? Then you basically work through, through the, the very same way that we just described. It's just that you go at it like that."
+    },
+    {
+        "start": "00:30:04.960",
+        "end": "00:30:29.680",
+        "text": "And, and I want to say something important here. That's also part of something that we didn't. I don't think we, we, we put it into the, the guide yet and we, we really should. But, so, you can not only release traumas with it, but also promises and oaths and curses."
+    },
+    {
+        "start": "00:30:29.680",
+        "end": "00:30:53.520",
+        "text": "Yes. But you wouldn't, you would need to name that. So let's say you're working on something and then you're working through the, the trauma, right? And then you still feel like a heaviness or something or something didn't go away, right? Then just list art in relation to this."
+    },
+    {
+        "start": "00:30:53.520",
+        "end": "00:31:20.880",
+        "text": "Are there any promises, curses, oaths out of any lifetime and give me, so I'll give me a number between zero to 10, okay? So then in relation to exactly that, you will also get a number from zero to 10. You go through the very same process. There's nothing"
+    },
+    {
+        "start": "00:31:20.880",
+        "end": "00:31:49.680",
+        "text": "different. It's the same thing. And then all of those will get transformed in relation to this specific topic, right? Wow. Really? Okay. Have you tried that on yourself? Yes. Oh, yeah. Wow. No, it's wild. It's wild. Because I swear, I'm carrying a curse from a prior life, I swear. I have this really weird thing about me that it's, and I've been like, why, you know, why? I've"
+    },
+    {
+        "start": "00:31:49.680",
+        "end": "00:32:19.120",
+        "text": "been asking myself my entire life, why do I have this weird thing about me? And I just swear that, you know, like, I'm like paying my karmic debt. Is that's kind of what you mean, right? If we're stuck because we're all stuck with karmic debt, right? From past lives. And you're telling me that we could use that even because it's unconscious, we're not sure what the debt is. But we could, like basically name an emotion that we feel or a situation we suspect of and ask our soul,"
+    },
+    {
+        "start": "00:32:19.120",
+        "end": "00:32:43.600",
+        "text": "hey, is this a karmic debt? Is this a curse or is an oath I took or, you know, and then use that and name it and then, and then walk through the emotional step step of it and then just, so that's right. I mean, that's what you're saying. Yep, pretty much the way you do that. So in regards to this, are there any curses oath or promises? You can also then expand it to attachments,"
+    },
+    {
+        "start": "00:32:43.600",
+        "end": "00:33:05.920",
+        "text": "whatever, right? You know, so all of those, because all of those will be transformed. And you, you ask for a number from zero to 10. So you, in your case, how great is that? You even know that there's a curse somewhere, right? So that's that's already more than most people know for a specific situation. And actually, in the last situation, I dealt with, I didn't know that there was actually"
+    },
+    {
+        "start": "00:33:05.920",
+        "end": "00:33:31.600",
+        "text": "a huge promise, right? I had no clue. And, but then as you name it, then it just comes up because you're, you're subconscious, your soul is then is taken over because it's, it's, it's showing you the heaviness of that, right? That's why you're like zero to 10. Okay, zero, there's nothing. Okay, yeah. Okay, there's nothing. I feel great. I feel totally like, but if it's heavy, something is"
+    },
+    {
+        "start": "00:33:31.600",
+        "end": "00:33:58.720",
+        "text": "happening, you know, you will feel it. And you don't have to know that that's a curse. You just list it and list list them all together. Curse oath, promise. Is there anything? Give me a number from zero to 10. You get a number, you work with the app, go on zero, done. Wow. Okay, that's amazing. I never thought about that way. But yeah, yeah. Okay. Okay. I, I, it feels like a curse,"
+    },
+    {
+        "start": "00:33:58.720",
+        "end": "00:34:24.880",
+        "text": "but I know that I'm just, I'm just living my karma. I mean, we're all just living our karma. But you know, it's kind of like, you know, why does, why does this life have to pay for that life? It wasn't me. I didn't do that stuff. I was like, but you're, but the universe goes, no, no, no, that was you. And okay, all right, I'm definitely going to try some of that. Yeah,"
+    },
+    {
+        "start": "00:34:24.880",
+        "end": "00:34:54.400",
+        "text": "I actually can name it, you know, because there's, it's just like, it's just this coincidental thing that's happened throughout every relationship I've had, every, you know, intimate and really, you know, relationship. And I was like, why does every single time does this manifest itself? And okay, no, no, you need to report out in the, I've got some I've got, you know, it's like, well, you know, like, we're like, we're all of us are just, you know, we're all humans, but we're also, you know, we're all these, you know, we're traveling souls,"
+    },
+    {
+        "start": "00:34:54.400",
+        "end": "00:35:20.400",
+        "text": "right? I mean, when you say contract or like oaths and promises, you're, are you mentioning like, do you fall feel like it falls into the whole concept of soul contracts? You know, like, yes, yeah. And contracts, by the way, that's a good point. Obviously, in this that as well, like, promises, oath, curses, contract, just this, all of those, if you have a feeling that is something, yeah. Okay, so there's conscious and unconscious, follow the same steps, put a name to it,"
+    },
+    {
+        "start": "00:35:20.400",
+        "end": "00:35:49.520",
+        "text": "but it's not just trauma now, we just learned something new, that you can get into your soul contracts, you can get into your karmic debt, you can get into curses and all these kinds of things. So that's really amazing. Okay, all right, so that's something new, folks. So give it a try. And, you know, and good luck on your journey becoming an energy worker. Okay, so now helping children, that's come up a lot, you know, because because obviously, children are just traveling souls and they've been around a lot longer, they're just smaller."
+    },
+    {
+        "start": "00:35:49.520",
+        "end": "00:36:18.800",
+        "text": "Is there anything special about helping a child when you yourself are actually using the trauma service on another person? And this, yeah, so if it's if it's a child that cannot do it on his or her own, right, because it's still too young, the kid is still too young, then you, you pretty much do it the same way you can do it with a cat over to dog. And I wanted to get"
+    },
+    {
+        "start": "00:36:18.800",
+        "end": "00:36:39.520",
+        "text": "into that as well. You can actually also use it for dogs. And I actually had a good friend that reached, had reached out and said, you know, I, I've actually seen that my dog has this trauma and is there anything I can do? And so yeah, so here's how you deal with that. You,"
+    },
+    {
+        "start": "00:36:39.520",
+        "end": "00:37:07.840",
+        "text": "you can basically then connect energetically to the dog and or the child, right? And you feel in like you connect and the phone, of course, will be will be placed on the thymus gland, not of yourself, but the the child in this case, right, or the dog on that, that area"
+    },
+    {
+        "start": "00:37:07.840",
+        "end": "00:37:34.800",
+        "text": "up there close to the throat. And then you, when you then ask, like the zero, so you name it then, right, or you describe it, then you ask the zero to 10. And you're basically, you're getting the answer for that, because you're connecting. And it's actually very simple, because you can energetically do that, right? Your subconscious right away knows that it's just a matter of you getting some"
+    },
+    {
+        "start": "00:37:34.800",
+        "end": "00:38:04.320",
+        "text": "form of feeling for it. That's another practice, actually, right? And, and you can really help. And you just go through the same process. So it's actually relatively simple. Wow. Okay, I'm going to definitely give that a try. I think the key, though, is like, this is your response on telegram when you were asked. I don't know if you knew I did that, but I grab your answers on telegram for these decks. But yeah, this is what you responded. And I think you're you're right. I think step one is the key. You got to get good at it using it on yourself"
+    },
+    {
+        "start": "00:38:04.320",
+        "end": "00:38:33.840",
+        "text": "before trying to use it on someone else. But once you familiarize yourself, then you could work with other folks on it. And you've now are, you know, you've now graduated as an energy worker. But yeah, that, okay. So our animals as well. I want to say here, because so the way that they had set it up in Austria is that this app, or you know, the the Trump easy version that they have there, that it cannot be used by so if you own"
+    },
+    {
+        "start": "00:38:33.840",
+        "end": "00:39:01.520",
+        "text": "this phone, right? And it's your Trump easy, for example, you cannot use it for anyone else. The way that we set it up, though, for our community worldwide is that you can indeed use it for someone else. So not only are you training yourself to really become much more connected and learning more to perceive energy and yeah, becoming growing into becoming an energy"
+    },
+    {
+        "start": "00:39:01.520",
+        "end": "00:39:28.880",
+        "text": "healer in a way, you can actually also do the work. And there's one thing, one big advantage that you have over anyone else learning to work with energy is that you have this super powerful tool with you that you can leverage. So you don't have to do it all yourself. So, you know, with someone with traumis, they could literally loan their phone to somebody, right? To use it for themselves, use it, you know, you help them or in this case, they can"
+    },
+    {
+        "start": "00:39:28.880",
+        "end": "00:39:57.680",
+        "text": "wide open wide open. Yeah. So that's the whole that's, yeah, that's the beauty of just the way you do businesses, you know, it's share, give it away, share it, you know, help others spread the spread the energy, you know, that's awesome. Okay, so that's how you would help people who can't help themselves. And then also here, the other thing that the Trump easy service does is it charges food and water. So now I took this off a telegram, someone said, well, you know,"
+    },
+    {
+        "start": "00:39:57.680",
+        "end": "00:40:22.400",
+        "text": "how long. So I just want to just make sure we're all on the same page. You said that it was one to two minutes for a regular charge and four minutes for a sensitivity challenge. Could you clarify what the difference is? Yeah, so most people, if they don't have any food sensitivities whatsoever, one to one to two minutes is totally fine, usually with with any"
+    },
+    {
+        "start": "00:40:22.400",
+        "end": "00:40:51.920",
+        "text": "foods and water and so on. But anyone that has little trouble with the guts or food sensitivity in general, you know, go ahead, do it for four minutes. And yeah, that's the real only difference. Or you know, hey, even if you're not sensitive and you have the time, just go ahead and do it. Okay, all right. So yes, you can literally charge your food and water. So now the proximity, as you as we were chatting earlier, is you place like in the picture right here, you would place"
+    },
+    {
+        "start": "00:40:51.920",
+        "end": "00:41:17.840",
+        "text": "your phone next to the food and water, right? Yeah. And then, correct, even if you're in a restaurant and you're you're on the other side of the table is your friend, right? I mean, his or water would still get energized by that because water is so receptive and the energy of the phone really so goes way further. But you know, I would always, if I really want to charge something,"
+    },
+    {
+        "start": "00:41:17.840",
+        "end": "00:41:42.960",
+        "text": "I always put it right next to it. I think that's good practice. Okay, so now what about other stuff? We had this question about, you know, can it charge plants? Can it charge other people, you know, like my people, plants, animals, you know, but you're mentioning that it's just it's purely just for food and water. That only has that much energy, right? That it can only go up to just a plate of food or a glass of water. Is that correct? Yeah, you know, I mean, I wouldn't, you know,"
+    },
+    {
+        "start": "00:41:42.960",
+        "end": "00:42:10.560",
+        "text": "you can't really charge metals with it and with plants that's untested. So I don't know what, you know, what can be done there. It's definitely not programmed to specifically help plants because it's really targeted towards humans. And then in regards to the trauma release and the EMF protection and all of that, obviously that's for anyone, any dog and cat and all of that."
+    },
+    {
+        "start": "00:42:10.560",
+        "end": "00:42:38.320",
+        "text": "So the toxin harmonization, same thing, obviously, anyone in anything in that proximity then benefits from that. But yeah, we really haven't tested to charging specific vegetables. Okay. All right. So tinker away, everybody. That's not tested. I don't know. Okay. All right. So then the last thing about trauma Z and I just wanted to touch on this for anyone who did not"
+    },
+    {
+        "start": "00:42:38.320",
+        "end": "00:43:05.760",
+        "text": "watch the product update video, Phillip and I did a month ago, I guess, is that there's a new feature coming out this year called Vax Harmonization. So do you want to just mention it? And then I guess we're going to, once that product is released, then we'll go and do a specific tutorial for all of the steps involved with this. But yeah, Phillip, did you want to mention that since we're doing a trauma Z video? Like what's coming up and when is it coming out? I guess is the big"
+    },
+    {
+        "start": "00:43:05.760",
+        "end": "00:43:35.200",
+        "text": "question people keep asking. Yeah, we already wanted to release it a few weeks ago and we've been ready since several weeks, but the app has been approved for the Google Play Store already, but Apple is still going back and forth with us. So we're answering them, we're answering them, getting more questions and so on. So I hope it'll be done within a week, but it really depends on Apple. So I can't tell you, I hope within the next couple of weeks we'll be done with that"
+    },
+    {
+        "start": "00:43:35.200",
+        "end": "00:43:59.600",
+        "text": "and can launch it. And then you will have this and then also the amazing travel function and the way that this works here is that this is in regards to any Vax you've ever received and any impact of shedding that may have happened and also any substance abuse of any kind,"
+    },
+    {
+        "start": "00:44:00.880",
+        "end": "00:44:25.520",
+        "text": "any drug, any medication, alcohol, you know, you name it, all of that doesn't matter. You can basically go harmonize it with this. And right after you're done, you can actually also do a specific trauma release in that regard. Let's assume, okay, because with the Vax, for"
+    },
+    {
+        "start": "00:44:25.520",
+        "end": "00:44:51.360",
+        "text": "example, you're sort of entering a contract also by doing that. And it's traumatic, you know, having received that on some level, at least it could be way more dramatic in some cases and less dramatic in other cases. Regardless, it's a trauma and you can work through that after that. But the harmonization happens first, it's about a 10 minute process, give or take,"
+    },
+    {
+        "start": "00:44:51.920",
+        "end": "00:45:21.680",
+        "text": "and there you actually don't need to do anything other than sort of name it and you place it on your thymus gland. But I don't want to go through the exact steps here. It's just super, super simple because once we launch it, you'll have the exact steps there. It'll show you exactly how to do it. Okay. All right. So we're just basically anytime in the next month or so, it's going to be releasing it. Oh, okay. So it actually comes with an app that works with the energy on the phone. I guess"
+    },
+    {
+        "start": "00:45:21.680",
+        "end": "00:45:50.080",
+        "text": "that's the best. Yes. And you can also use this for your friend or spouse, you know, again, so, which is quite amazing. And there's no extra cost, you know, for this feature, by the way. Oh, that's cool. It's included. Okay. Great. Okay. So that wraps up the, how to use trauma easy and all of the new stuff that's in the guide. Again, I want to remind everybody go to traumys.layla.q or laylaq.com at the bottom of the page, download your new guide."
+    },
+    {
+        "start": "00:45:50.080",
+        "end": "00:46:16.720",
+        "text": "And of course, there's this audio guide where a person speaking to you, walking you through the 10 steps. So, you know, there's a little bit of a companion audio that goes with the guide. It's got full detail. You can reference this video, this slide right here for the quick steps. And then don't forget, once you get really, you know, get comfortable doing yourself, you can do your unconscious stuff, then you could do helping others and so forth. And,"
+    },
+    {
+        "start": "00:46:16.720",
+        "end": "00:46:45.280",
+        "text": "you know, when you go out to eat, bring your phone, but who doesn't, right? Okay. So thank you very much. I just want to just say thank you so much for, for taking the time to help us kind of, you know, continue to work with this great product. And if anyone has more questions, you know, obviously we're on telegram and there's the quantum tech and also the upgrade telegram chat groups. Either one, you can ask traumys questions in and we'll get back to you as soon as we have the answer. And if you want to find me on the Tinkers Academy, I've got a blog and also"
+    },
+    {
+        "start": "00:46:45.280",
+        "end": "00:47:11.200",
+        "text": "I have my own telegram chat group as well. So thank you very much, Phillip. I really appreciate this. And everybody out there, you know, just work with it, trust yourself, you know, none of us know what we're doing when we start, right, Phillip? And we just, you know, we're just muddling through and figuring it out and and trying it over and over and over. And from what you're telling me today, you know, I mean, learning about these new steps. I mean, just the new ideas that you could"
+    },
+    {
+        "start": "00:47:11.200",
+        "end": "00:47:38.080",
+        "text": "use it on pets, you could use it on, on Carmen debt and things like that in soul contracts and wow. Now I want to go do it more. So but yeah, thank you so much. Any parting thoughts? Yeah, well, thank you. I really appreciate your effort in regards to that. It's truly amazing also that you asked, Hey, you know, let's let's talk about this, that you, you know, help to get the information out. I think it's amazing for the community. And thank you"
+    },
+    {
+        "start": "00:47:38.080",
+        "end": "00:48:06.480",
+        "text": "for the community and to the community for being out there. And again, being being pioneers in this. And I'm pretty certain that in the coming times, you over the next year or two, you know, this work will become even more beneficial for everyone. And then other people will need it, you know, that is very, very clear. So yeah, thanks for being at the forefront of this and"
+    },
+    {
+        "start": "00:48:06.480",
+        "end": "00:48:10.560",
+        "text": "Getting more into it. Thank you so much, Phillip. Have a great day, everybody. Thank you"
+    }
+]

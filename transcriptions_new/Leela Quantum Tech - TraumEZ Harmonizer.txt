@@ -1,0 +1,507 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.040",
+        "text": " Hello everyone and welcome to another Tinkers Academy video. I'm your host K. Elmer and in this video I've got Phillip Von Holtsendorff, the CEO and founder and owner and operator and everything for Layla Quantum Tech and Quantum Upgrade with me. Aloha Phillip, how are you today? I'm great. How are you K? Thanks for having me on. It's great. It's early and it's starting to get cold where I'm at so it's really refreshing."
+    },
+    {
+        "start": "00:00:25.040",
+        "end": "00:00:52.800",
+        "text": "I'm enjoying it. So today, a real special treat everyone. I've got Phillip on a call to announce this long-awaited that was announced like a year ago but now it's here. A brand new service that's specific towards overcoming trauma and so I asked Phillip to join me on a call. I'd like to go ahead and just pick his brain about it and it launches on Tuesday, October 10,"
+    },
+    {
+        "start": "00:00:52.800",
+        "end": "00:01:18.000",
+        "text": "correct? Yes, that is correct. All right, so this thing is going to go live. Yeah, so that's pretty cool. So let's talk about it but before we jump into that everybody, you know we got our deal of disclaimers. Nobody wants to get sued so let me go ahead and get through this real quick. Now neither Layla Quantum Tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions or other information that may be mentioned in this video. Reliance on any information appearing and discussing this video solely at"
+    },
+    {
+        "start": "00:01:18.000",
+        "end": "00:01:47.760",
+        "text": "everyone's own risk. Statements made have not been evaluated evaluated by the EFSA or FDA or any governmental derivatives thereof. Layla Quantum Tech products and products that Layla Quantum Tech may represent are not intended to diagnose, treat, cure or prevent any disease. All right, so what we're going to do is it's basically just kind of just put out some general questions. We're going to have a two-part series. This is to introduce the service, kind of explain what it's all about. And then there's going to be a part two where we're going to do after the"
+    },
+    {
+        "start": "00:01:47.760",
+        "end": "00:02:15.280",
+        "text": "service has been going on for a few weeks, we're going to collect any questions you have. So if you have questions after you sign up or anything in general, post them on Telegram in our Telegram chat group. We're going to collect those questions and do a follow-up Q&A video to answer all of the questions regarding the service just like we did with the upgrade service. Okay, and also, you know, I'll probably try to build in, you know, kind of a tutorial as well. But this video is just to announce the new service and what it's all about. And I"
+    },
+    {
+        "start": "00:02:15.280",
+        "end": "00:02:38.880",
+        "text": "read through the whole thing full up last night and it sounds amazing. So my very first question for you, you know, it's like, okay, so like, what is this? You know, what is this is the webpage for it? So, you know, what is trauma? Are we calling it trauma ease or trauma easy? Traum easy. That's how we call it. And you know, the original idea was to call it the trauma release"
+    },
+    {
+        "start": "00:02:38.880",
+        "end": "00:03:03.200",
+        "text": "harmonizer. And then we, you know, we always are mindful of what the FDA does and things and all of that, even though, you know, it's kind of a pain. But just out of precaution, we did not call it a trauma release. We call it trauma easy. And but basically, it really is the main goal is here to"
+    },
+    {
+        "start": "00:03:03.200",
+        "end": "00:03:26.320",
+        "text": "overcome trauma, as you said, but it can do way more than that, actually. So it's a whole bundle of things that you can do with it. But that's the main, main thing. Yeah, when I read through the website, I was pretty amazed at what other claims that are made. So I like, you know, let's if we had time, let's go through some of those. But the very first question, though, is, okay, so this is"
+    },
+    {
+        "start": "00:03:26.320",
+        "end": "00:03:52.240",
+        "text": "not just specific to trauma. It also can deal with EMF. It can deal with you can now charge food and water, right? And so forth, you know, through quantum entanglement, just like, is this correct? So I'm just, you know, right? I mean, I'm just paraphrasing the website, but is that is that kind of like what it does and what it is? Sort of indeed. Now in the sense where you have"
+    },
+    {
+        "start": "00:03:52.240",
+        "end": "00:04:21.120",
+        "text": "the phone, it's not really the quantum entanglement anymore, because the it'll be uploaded on your phone. That's that's how it works. Oh, once you sign up, you know, it'll be uploaded on your phone, and basically the energy will be on your phone. And then with that, you basically EMFs all around your phone will be completely harmonized. That's one thing. Then you could indeed transform and"
+    },
+    {
+        "start": "00:04:21.120",
+        "end": "00:04:45.360",
+        "text": "harmonize toxins, pesticides, heavy metals, whatever, including microwaves also and chemical residues, free radicals, all of that into life force energy or life energy is, I think, how we call it on the website. And that's because the energy is being transmitted from your phone. So you would need to"
+    },
+    {
+        "start": "00:04:45.360",
+        "end": "00:05:13.040",
+        "text": "use your phone to do that. And the reason why we chose the phone is because everyone has one, right? And everyone has also an issue with the phone, because if you have a phone and you're not already using one of our systems, basically, then you're always dealing with EMFs. So that's the first thing that takes takes care of that, basically. And then it does all these other"
+    },
+    {
+        "start": "00:05:13.040",
+        "end": "00:05:40.160",
+        "text": "great things. And then obviously, the main thing is to really work on trauma, which it was a very long development. I mean, you know, you guys in the Telegram group, you know, you probably know better than me. But I think we've been talking about this almost since a year and a half to make this happen. But it's, yeah, it took some development time is this stuff isn't easy. And you know, we need to make sure everything is covered,"
+    },
+    {
+        "start": "00:05:40.160",
+        "end": "00:06:05.760",
+        "text": "everything works 100% at all times. And yeah, now we're here and it's super exciting and happy to talk about all the details of what it can do and how to use it. Okay, that's pretty okay. So that's amazing. Yeah, I didn't make that connection. When I read the material and it mentioned that you needed the phone, I was thinking like, you know, how the quantum upgrade service uses the phone,"
+    },
+    {
+        "start": "00:06:05.760",
+        "end": "00:06:34.560",
+        "text": "you know, it sends it can send energy to the phone. So you're saying that your phone becomes the quantum device. Once you download this app onto it, right, then it turns your phone into a quantum device. That's pretty much what you're saying. Okay. All right, let's talk about that. So before we get into that though, what I'd like to understand is so is that this is not a new thing. I just because one of the things I want to I'd like to emphasize, you'd mentioned this in another video"
+    },
+    {
+        "start": "00:06:34.560",
+        "end": "00:06:57.200",
+        "text": "you and I chatted way back in the day where, you know, you were you were working in partnership with one of the Leila network healers, another healer and his name is Johan, right? And Austria. Yep. Can you talk about that? Like what what what what is the the foundation of this new service that you've now combined with Leila Q and created this incredible new service? Like, you know, like,"
+    },
+    {
+        "start": "00:06:57.200",
+        "end": "00:07:22.720",
+        "text": "what is like what's the history of that? So Johan is he's a he's a very special and gifted clairvoyant who lives in Austria. And he's he's an amazing person, you know, he's similar to Roman, he's he's extremely advanced in the way he sees energy and perceives energy and he's been helping"
+    },
+    {
+        "start": "00:07:22.720",
+        "end": "00:07:48.080",
+        "text": "people for quite a long time. And he basically specialized in trauma work. That was really his main thing. And he developed at some point a combination of energies and and with certain steps if you would go through those in combination with that energy is almost like I think of it as like"
+    },
+    {
+        "start": "00:07:48.080",
+        "end": "00:08:14.720",
+        "text": "opening a portal to an energy that makes it very easy for you to release trauma to identify trauma to to release it and to really transform it and then to refill that space with love and and life energy, right? That's that's also quite important. So that's basically what he had focused on and hundreds and hundreds and then thousands and thousands of people would go to him"
+    },
+    {
+        "start": "00:08:15.520",
+        "end": "00:08:40.400",
+        "text": "to get their trauma released with that method. So then, you know, he was thinking about, you know, how he could do that in a way where he doesn't need to be present, okay? And then he developed that basically. And when when we talked and quite a bit, then both of us had the had the impulse that we"
+    },
+    {
+        "start": "00:08:40.400",
+        "end": "00:09:03.680",
+        "text": "should combine what we developed with Lila Quantum Tech and what he developed and see what it does. And it almost felt like he called it like a like a marriage made in heaven like between the two technologies that we indeed combined and then what happened. So usually if he if there was a"
+    },
+    {
+        "start": "00:09:03.680",
+        "end": "00:09:27.360",
+        "text": "work done with his system of trauma, any trauma basically, they could release and transform within, you know, 45 to 50 minutes, in some cases, 60 minutes. That's that's how long it took until that trauma was really dealt with and transformed and really transformed on all levels. Like,"
+    },
+    {
+        "start": "00:09:27.360",
+        "end": "00:09:51.200",
+        "text": "we're not just talking some energetic, you know, yeah, you just transform just on an energetic level. No, this is transformed on three different levels, literally in the physical and the emotional on the soul level. And it is it happens in a way where there's an, no, I don't know the word right"
+    },
+    {
+        "start": "00:09:51.200",
+        "end": "00:10:19.440",
+        "text": "now, but it's that you understand why that happened to you, which is actually a very important process for releasing a trauma that you understand, why that happens, and that you'll be able to also refill this space, because what happens with the trauma is that you have a lot of bound energy, right, and stuck energy. And it's basically something where that becomes a baggage. You know,"
+    },
+    {
+        "start": "00:10:19.440",
+        "end": "00:10:47.200",
+        "text": "we call this the the the stuff, the heavy stuff and weights in your backpack, right? And if you and you can, if you transform it, and then you can refill this whole space with with life energy, then then it's just an amazing feeling and you can move on you don't ever have to deal with this again. Of course, with some traumas, there are multiple layers, right? And you may find with some,"
+    },
+    {
+        "start": "00:10:47.200",
+        "end": "00:11:15.760",
+        "text": "I don't know if you had a mother that beat you all the time and did all these different things, there's there's a lot of work you can do regarding that, right? And that applies to many other things as well. There's, you know, it doesn't mean there's just one word. Anyway, now coming back to that. So when we combined the technologies, it was possible to basically release the trauma in about"
+    },
+    {
+        "start": "00:11:15.760",
+        "end": "00:11:39.840",
+        "text": "five minutes. And it happened over and over again. Yeah, exactly. And and so that's basically what we're talking about here. And and it's and then the beauty is everyone can do that on his her own. Like you literally like once you signed up, you within 10 to 30 minutes, you'll have your phone"
+    },
+    {
+        "start": "00:11:39.840",
+        "end": "00:12:09.840",
+        "text": "activated. And it will stay activated as long as you stay a member, basically. And you can cancel any time. But then, you know, once you cancel, that's not it doesn't doesn't work anymore. So, and then you just you there's there's basically like a PDF, I think that we have on the website, where, yeah, that's the one where it shows the different steps that you would would go through."
+    },
+    {
+        "start": "00:12:09.840",
+        "end": "00:12:36.880",
+        "text": "And you can literally do that at home on the sofa, on your own, like you take your time, you know, with yourself, you you think about you. And some traumas, obviously, we know about, you know, that we have those, or we think there may be a trauma, right? Those are the first spots to go to, obviously, or if we have children, and we may know what their trauma is, then we can also,"
+    },
+    {
+        "start": "00:12:36.880",
+        "end": "00:13:05.680",
+        "text": "you know, do that with them, right? Obviously. And then you have traumas that you don't know, you even have, right? So, but you can you can you can start digging, you can can start guessing, and yeah, you may get an impulse out of a dream. So, any of those you can you can actually work on. And it's, it's quite impactful. But, but again, we didn't want to just stop there. So, this"
+    },
+    {
+        "start": "00:13:05.680",
+        "end": "00:13:35.120",
+        "text": "energy on the phone, you know, is basically working 24/7, to help with certain things, like we just alluded to earlier. Okay. No, that's pretty amazing. So, it's, it's a, turns your phone into a quantum device. But the key here, I think that, you know, I think we need to convey to everybody that it's not, it's not like the quantum upgrade. It's not like energy is just going to your phone, and then you don't do anything to actually go through this traumas"
+    },
+    {
+        "start": "00:13:35.120",
+        "end": "00:14:00.240",
+        "text": "easy, is that you need to work with it, and you need to have follow certain steps, right, as outlined in the PDF. So, in this guidebook, it walks you through the nine steps. You need to follow and then use your phone as the quantum device to, you know, to basically overcome those traumas. So, it's definitely have to participate. You actually have to do stuff. It's not just going"
+    },
+    {
+        "start": "00:14:00.240",
+        "end": "00:14:25.760",
+        "text": "to happen, right? Correct. For the trauma release, for sure, you need to go through these steps, which is, which is very important, but it's super easy also. I mean, it's, you know, it's not like, you need to be an expert or something like anyone that can read and just think as an almost human being, you're able to do that. It's really simple. For the other things, you know,"
+    },
+    {
+        "start": "00:14:25.760",
+        "end": "00:14:51.520",
+        "text": "that you have harmonization and what we just discussed, you don't need to really do anything. Okay. So, I think, yeah, in terms of like a tutorial on how to use it, I think we can kind of do later. This is a more of an intro. So, this is what it can do and what the history of it is. So, it's, you know, it's pretty amazing. So, bottom line is this thing launches on Tuesday. And if"
+    },
+    {
+        "start": "00:14:51.520",
+        "end": "00:15:16.720",
+        "text": "people are interested in using their phone as a quantum device to help themselves heal for trauma, also using it to mitigate, you know, toxins and radiation and charge food and stuff like that, you can also use your phone as the quantum device to do so. And I guess we'll have more instructions coming out on how to do that. So, those are the things that this does."
+    },
+    {
+        "start": "00:15:16.720",
+        "end": "00:15:41.280",
+        "text": "And obviously, you know, since Johannes has been working on this for his career, his lifetime, and then you two have now combined through the network to produce it. But, you know, I saw that there's actually like testimonials here on the very bottom. So, like, did it go like, what kind of a, like, did you have a bunch of people sign up or, you know, test, test guinea pig folks? You know,"
+    },
+    {
+        "start": "00:15:41.280",
+        "end": "00:16:09.280",
+        "text": "what was the feedback from the first group, I guess, of testers that tried this out? Because it looks like they were pretty, pretty happy with the results. Yeah. So, I think we have, we had over 50 test persons. Okay. Most of the vast majority in Europe, because that was just technically easier to do it that way. And it was, it was overseen. And yeah, I mean, it's, it's,"
+    },
+    {
+        "start": "00:16:09.280",
+        "end": "00:16:33.520",
+        "text": "it's just overwhelmingly positive. Like, people just feel relieved. They feel lighter after that. They, they, they literally feel that something happens. Like, it's, it's with each of those steps, like, and you do a self-assessment, you know, within those, like, let's say, you know, where, where you just showed on the PDF, the different steps, like, um, one step three, for example,"
+    },
+    {
+        "start": "00:16:33.520",
+        "end": "00:16:59.600",
+        "text": "you'll see right the emotion of this trauma from zero to 10, where zero is no trauma at all, and 10 is a severe trauma. Like you, with that, you, you need to feel what it is. And there's no right or wrong again, right? It's just your feeling. And if you feel that it feels so freaking heavy, like, it does. And then, but you'll notice how, how that changes. You literally"
+    },
+    {
+        "start": "00:16:59.600",
+        "end": "00:17:24.240",
+        "text": "notice how it changes in the end, you'll notice it's not there anymore. Like, you, you, you look for it and you, you can't find it anymore. And that's, that's the point where the trauma is released and where it's transformed. So it is quite noticeable, actually. So this is, this is, this is, this is, I think it's very noticeable even for people that can't sense very much, because if you're"
+    },
+    {
+        "start": "00:17:24.240",
+        "end": "00:17:49.440",
+        "text": "going through this step process, um, somehow it forces you to feel and be relatively easy to feel, and you'll see something happens there. That's amazing. No, no, it's, I'm, yeah, that's pretty amazing. So you had 50 person test group and it's been a year and a half and in the works and now we're going to release this. So it's pretty exciting. So now there's different ways people can sign up,"
+    },
+    {
+        "start": "00:17:49.440",
+        "end": "00:18:18.560",
+        "text": "correct? And so I want to kind of point that out. You can sign up as an individual, or you can sign up as a family. So I guess the, we'll get into the pricing here in a different, but if you sign up as a family, it's up to five people. I want to talk about this right here where, you know, what to expect. Once your phone becomes a quantum device, it's got a 23 foot, uh, I guess, uh, diameter, right, uh, field around it. So now it becomes like a little, does it, would you say that it's kind of"
+    },
+    {
+        "start": "00:18:18.560",
+        "end": "00:18:44.080",
+        "text": "becomes like a little block at that point? Or is it more like a, like a card, like a really powerful capsule or something? I would, you know, like, yeah, I would, I would say it's like a very powerful capsule, or a combination of the two, or like a hybrid, something like that. Yeah, because there's, yeah, it's, it's more than the other and it's less than the other, but it's, it's then very,"
+    },
+    {
+        "start": "00:18:44.080",
+        "end": "00:19:10.800",
+        "text": "it's very specific with the energy, right? It's different also. It's because the block, again, would be just a neutral, pure quantum energy field. And this is, this is a very specific energy that it carries. So it's, it's really a combination. It's, it's an orchestra that plays, if you will. Okay. All right. And so you kind of use it like a capsule where if you want to charge"
+    },
+    {
+        "start": "00:19:10.800",
+        "end": "00:19:39.520",
+        "text": "foods and water, you put it near, put your phone next to it. I'm assuming your phone has to be turned on, like it has to be powered to use it. No. Oh, okay. So your phone just becomes a device. Wow. That's pretty cool. Okay. So those are the different statements and claims that are being made in there. And I think one of the interesting things here, if we could just touch on this, because it's come up, I don't know why it came up, but it came up last month, where this whole dark energy thing, and I, you guys came out with a protection frequency on upgrade"
+    },
+    {
+        "start": "00:19:39.520",
+        "end": "00:20:09.040",
+        "text": "specific to that, right? Which is individuals out there who may be dealing with energy vampires, if you know what I mean, or just negative energies, either where there it's from people or what's, you know, the remnants of people in your, in your space. But so there's a frequency now on upgrade, but you're saying also that the, the trauma easy energy can also be used to basically exercise trap souls and kind of deal with that dark energy as well on top of all the"
+    },
+    {
+        "start": "00:20:09.040",
+        "end": "00:20:38.320",
+        "text": "other things that it can do. Is that correct? That is correct. Yeah. Okay. That's pretty wild. Okay. So now this is the homepage for trauma easy. It's everybody. And that PDF that we're talking about right here is at the bottom of the page. So the actual instructions on how to use it for trauma easy is right here in your, in your guide. So you'd want to go ahead and go to the home page, take a look at the guide, understand how it works, and then how you sign up is right here. You just"
+    },
+    {
+        "start": "00:20:38.320",
+        "end": "00:21:04.640",
+        "text": "pick which one that you want to sign up for. So before we get into the pricing, though, Phillip, you know, one of the things that really popped up in my mind when I read all of this was, you know, like, how does it compare, right? To someone who, you know, owns a capsule or or specifically own a block. And then all of a sudden, you know, there's this upgrade service, which now really just gives you so much more features and customized ability. And now that"
+    },
+    {
+        "start": "00:21:04.640",
+        "end": "00:21:34.480",
+        "text": "with the frequencies in there, it's really, really, really, really super handy is, you know, just really much more convenient. But then you've got this third service now, and there seems to be a lot of overlapping. So I know our, I know our members. And the first question I think everyone's going to ask is like, well, if I already have a block, or if I already subscribe to the U service, and I'm doing frequencies, should I, you know, and obviously, first question is, is if I get"
+    },
+    {
+        "start": "00:21:34.480",
+        "end": "00:22:03.760",
+        "text": "the trauma easy and I start using that, does it affect any of the other ones? First question. No, so it does not negatively affect each other in any way would rather positively amplify everything. And I think a very important thing is so if you're already using the quantum upgrade and or lead a quantum technology, then you do not need this unless"
+    },
+    {
+        "start": "00:22:03.760",
+        "end": "00:22:31.200",
+        "text": "you want to work on trial laws, right? Because, you know, all these other things like charging your foods and in harmonizing toxins, well, you couldn't do that really with the quantum upgrade, to be honest, right? So obviously, you know, you couldn't put your bread. You would need a block to put your bread in there and neutralize the gluten and all that. So, but if you have a block,"
+    },
+    {
+        "start": "00:22:31.200",
+        "end": "00:22:53.600",
+        "text": "let's just say you have a block, you can literally do all these things here, except the trauma work, because that really is a very specific set of energies and frequencies that even allows that this happens. So if you're not interested in any trauma release, then you don't need this"
+    },
+    {
+        "start": "00:22:53.600",
+        "end": "00:23:20.800",
+        "text": "if you have a block. Now, if you, you know, don't have a block, then obviously, you may be interested in the trauma work, but you may also be interested in all these other things that it does, right? So it, yeah, there's some overlap. Of course, and I think this is actually great, because I think it's very beneficial. We wanted to make it a really"
+    },
+    {
+        "start": "00:23:20.800",
+        "end": "00:23:46.960",
+        "text": "comprehensive set that you then have on your phone. But the main thing really is where it's different from, from all the other products out there that we have is the trauma release. Oh, thanks for that. Yeah. Okay. So now, yeah, I understand it better now. Each one of these services and product sets have a very distinct advantage and a very specific, you know, benefit."
+    },
+    {
+        "start": "00:23:46.960",
+        "end": "00:24:15.520",
+        "text": "And so, so this one here, if you've already got the block, then, you know, then, and you're fine with being able to charge food and all that. And if you got the upgrade service and you've got the positive energy coming to you, you can use frequencies, but you can't charge food and water. But neither one of those two things, if you really are focused on trauma work, then this is the service. And really honestly, just use it until you're free. And then that's the whole point of it, right? Is that it"
+    },
+    {
+        "start": "00:24:15.520",
+        "end": "00:24:43.040",
+        "text": "goes fairly quickly, but you work with it. And the major benefit of this is to helping people release trauma. So okay, so that's how it compares to the other services. Thanks for that. Now, the next one too, you know, it's like, there's a lot of folks out there that are going to ask, you know, okay, well, I can definitely work on myself, but you know, can I sign someone else up for this? What's your answer to that? Because, you know, we get that a lot in the upgrade service,"
+    },
+    {
+        "start": "00:24:43.040",
+        "end": "00:25:09.920",
+        "text": "right? And that's what the sharing features for. So, but if like, let's say, you know, like, I'm a parent and I have a child and they're just going through some rough bullying or whatever at school or, you know, whatever, you know, can I sign up a child for this or sign up a spouse or a parent or a sister? You know, okay, so then, but they still have to do the work, right? It just doesn't happen. Not like, you know, the upgrade service to me is just a beautiful thing where"
+    },
+    {
+        "start": "00:25:09.920",
+        "end": "00:25:38.880",
+        "text": "you could sign up somebody and all of a sudden their world gets bathed in positive energy. Nobody's got to do anything, right? But this one, you have to act, you have to participate. So, well, you also get in positive energy automatically because as soon as it's turned on, and you have, as long as you have your phone somewhere near you, then you're already benefiting from the positive energy 100%. So that that instantly starts as soon as it's activated."
+    },
+    {
+        "start": "00:25:38.880",
+        "end": "00:26:06.640",
+        "text": "For the trauma work, indeed, you know, if they want to release specific traumas, then there's, you know, they need to go through the steps. That's correct. All right. Okay. And then, okay, so that's basically one of your FAQs. All right. So then, in terms of pricing and how this is working, so the concept here is you can sign up for a single, which is $20 a month and a one time $35 sign up fee, right? And so if I want to subscribe,"
+    },
+    {
+        "start": "00:26:06.640",
+        "end": "00:26:33.200",
+        "text": "I just hit subscribe, and then it's going to go into the cart, and then I could look at the cart, and then right here, and then it's basically the 20 and the 35 combined, and that's just the one time, and then it's 20 a month afterwards, and you go ahead and check out. And I don't have the, well, this won't be the tutorial on what to do next, but I'm assuming if you can kind of walk everybody through what to expect next after they hit checkout."
+    },
+    {
+        "start": "00:26:33.200",
+        "end": "00:26:55.920",
+        "text": "So after the checkout, just you put in your information and the payment information and everything. I think at this point, it's a credit card that's required for this. I don't think PayPal is an option. And yeah, then you just go through, and once you clicked,"
+    },
+    {
+        "start": "00:26:55.920",
+        "end": "00:27:25.840",
+        "text": "and the last time, which is submitted basically, and it's all placed, then within 10 to 30 minutes, the whole thing is activated, and then it's on your phone. I mean, if you're sensitive, you will feel it, you will see it on your phone once it's active. If you're unsure, then definitely just wait 30 minutes, at least until you do your first trauma work."
+    },
+    {
+        "start": "00:27:25.840",
+        "end": "00:27:53.280",
+        "text": "So usually it should happen within 10 to 15 minutes, but there's, we build in a buffer just in case, and that's why we're saying 10 to 30 minutes in case there's ever any technical delays. Does the person have to actually download an app onto their phone? Nope. We call it an app at some places, but it's not, it's being uploaded energetically,"
+    },
+    {
+        "start": "00:27:53.280",
+        "end": "00:28:22.480",
+        "text": "basically. Oh, okay. Okay. Cool. All right. And so then your phone just starts emanating this energy. And so there's no real indication as when you can start working with it, you just kind of just wait 30 minutes, and after you hit subscribe and, and then it just starts automatically. Is that correct? Correct. And then there's, it's really totally up to you. You know, how often you want to use it for a trauma work, because, you know, that's really totally up to you. You can, you know,"
+    },
+    {
+        "start": "00:28:22.480",
+        "end": "00:28:49.680",
+        "text": "do it 10 times a day. You can do it once a week. It really depends on you and how you feel. You know, whenever you feel you want to work on something or release something, then you just do it. And it's again, you know, it's as easy as laying on the sofa and going through the process. Okay. And then I'm assuming that it keys off of the phone number, right? So, you know, that's the key to this entire service. Is it ties to the phone number?"
+    },
+    {
+        "start": "00:28:49.680",
+        "end": "00:29:19.600",
+        "text": "Yes, that's a great question. I'm glad you asked because indeed, so you wouldn't want to put a wrong phone number in, make sure you have the correct phone number. And that was the absolute key. Otherwise, it wouldn't work for your phone and would work for someone else's phone. Okay. And that's only smartphone devices or let's say, you know, I don't know anybody who has, but if somebody only has a landline, would that work in this regard? Or is we're talking about portable"
+    },
+    {
+        "start": "00:29:19.600",
+        "end": "00:29:45.600",
+        "text": "phones, right? No, we're just talking portable phones. Yeah, that's what I was thinking. Okay. All right. So then now if I wanted to sign up my family, then every person that I want to sign up, just I have to have the phone number for that individual. And I put that into the subscription, right? So if I hit subscribe to family and I go to cart, that's $30 a month, by the way,"
+    },
+    {
+        "start": "00:29:45.600",
+        "end": "00:30:12.960",
+        "text": "it's family as single as 20 a month, family is 30, and that's up to five people. Obviously, if you're married, it's way cheaper to go with a family. But and it's still just a flat 35 sign up fee. So you just get charged that first month. Let me show the zero. You get charged that just just real quick for people to understand why there's this. And just for people to understand why there's a sign up here, because usually we don't have that, right? So we don't have that"
+    },
+    {
+        "start": "00:30:12.960",
+        "end": "00:30:38.560",
+        "text": "with quantum upgrade, but here it really is an effort. So there's real work involved to get this done, so that this is uploaded on your phone, that it's fully working and activated. And that's why there is this activation fee, basically. Okay. Okay. No, that's good. Thank you for sharing. Okay. So now this is the family one. And so I noticed that it's just asking for"
+    },
+    {
+        "start": "00:30:39.120",
+        "end": "00:31:08.720",
+        "text": "me, the guy that's signing up, everybody. And and of course, the monthly for that and a sign up. So when I hit subscribe for family, this is obviously my phone number. So is there going to be a separate page out there that says, giving you all the five phone numbers? There should be. Yes. Okay. So that's where you would enter the other four phone numbers. And then if I ever had to change your phone number, is that something where I have to do"
+    },
+    {
+        "start": "00:31:08.720",
+        "end": "00:31:33.840",
+        "text": "contact Emma and Layla support, or is there a dashboard where I can change phone numbers as I need to? Customer service. Okay. And the family, like definition of family is basically, you're just paying for five people and it doesn't matter how they're related. It's just called the family plan. I mean, in essence, yeah. So I mean, it really is meant to be for a family, but hey,"
+    },
+    {
+        "start": "00:31:33.840",
+        "end": "00:32:02.720",
+        "text": "you know, I mean, if you have four roommates that are not your family, then, you know, you can do that too. Okay. All right. It ultimately is, you know, it's about the phone numbers. Okay. So yeah, so you sign up five phones. Okay. That's great. Now let's see. We kind of talked about all of that stuff. And one thing that I did notice was this little statement down here that so you guys. So now this one is a service you're actually offering a 30 day money back guarantee."
+    },
+    {
+        "start": "00:32:02.720",
+        "end": "00:32:28.560",
+        "text": "Can you describe what that is? Yeah. So that is for if you're not satisfied, which hasn't happened, we don't expect that to happen with anyone again, because it's actually quite noticeable and people will notice it and we trust that everyone is also honest about it and doesn't want to, you know, just do a return"
+    },
+    {
+        "start": "00:32:29.280",
+        "end": "00:32:55.280",
+        "text": "for no reason, basically, then you would get the membership fee back, you know, if within the first 30 days you say, you know, well, I tried this and it didn't work for me. You'll get it back. Okay. So yeah, so it's kind of a different version of the seven day fee trial for upgrade. Now it's a 30 day money back on TROM EZ. So so yeah, so just want I wanted to point that out."
+    },
+    {
+        "start": "00:32:55.280",
+        "end": "00:33:22.000",
+        "text": "So that's your pricing everybody. It's either 20 or 30 a month, one person or five people, 30 day money back guarantee. And of course, the instructions are in the PDF. So I guess my last questions, you know, and I really appreciate your time this morning to share this. This, you know, I guess one of the things too, you know, when I actually was looking at your website and you actually did have a page on what is trauma and you know, and I think that's I think the last"
+    },
+    {
+        "start": "00:33:22.000",
+        "end": "00:33:46.960",
+        "text": "thing I'd like to just kind of talk about are maybe if you could share is like, what are the success stories that you're aware of so far? Because one of the things you actually mentioned here and it's also actually also in the PDF, it's not just trauma that we experience, but it's also the trauma of our ancestors. And you hear that term in other, you know, other healers, energy"
+    },
+    {
+        "start": "00:33:46.960",
+        "end": "00:34:13.600",
+        "text": "workers that I've dealt with where they talk about ancestral trauma. You know, and that is something where, and I just wanted to point that out to people who've never heard that term, but, you know, if you have an irrational fear that you have no idea why you are afraid of spiders or falling or, or, you know, being alone or whatever those things are, but there's no point in your life. You ever had a bad experience with that? Well, it's because it carries forward. It's"
+    },
+    {
+        "start": "00:34:13.600",
+        "end": "00:34:40.000",
+        "text": "ancestral trauma. Something happened in the past, and there's actual science behind that where it gets wrapped into your DNA. And so you end up like, you know, the next generations, all of a sudden, you know, afraid of big tigers, because the first generation, you know, got eaten by saber-toots, you know, things like that. So, so I kind of, if you could talk about this, and this is the thing about the different types of trauma that, you know, like this one little paragraph"
+    },
+    {
+        "start": "00:34:40.000",
+        "end": "00:35:11.040",
+        "text": "here kind of covers, but like, what have you seen in terms of like people working with different kinds of trauma, like physical trauma versus emotional trauma versus mental trauma versus ancestral trauma? But like, what did you see when 50 people, you know, went and tried this out and and gave you feedback? I think that would be really, really interesting to hear. Yeah, great question. And it's indeed the case that there's so many different types of traumas,"
+    },
+    {
+        "start": "00:35:11.040",
+        "end": "00:35:34.640",
+        "text": "and there's one more that will be like a past life trauma, one that you had, you know, there's something you went through at some point, and you also don't remember that. Or similar to that, it's something that really happens in the early childhood, where you just, you have no memories of, right? But it, but it still happened. We've, we've seen pretty much everything in, in our work in"
+    },
+    {
+        "start": "00:35:34.640",
+        "end": "00:36:01.520",
+        "text": "that regard. And it doesn't really matter what type of trauma it is, because it all can be released with, with this method here. And there's also not, not a huge difference actually in between the different kinds of traumas. It's just the difference in between okay, so how deep, how heavy is the"
+    },
+    {
+        "start": "00:36:01.520",
+        "end": "00:36:29.680",
+        "text": "trauma? Because if it, if it's very deep and very traumatic, then it blocks a whole lot of energy. And then the middle speaking makes our lives miserable in, in this context, right, or difficult, because we, we constantly live with this bound and stuck energy, and we may react because of experiences out of this trauma, or because of the fear that something doesn't happen"
+    },
+    {
+        "start": "00:36:29.680",
+        "end": "00:36:55.680",
+        "text": "again, or that something touches this trauma, right? That's, that's, that's usually fear. And then we go into either avoidance or in irrational reactions. We get, we get very angry suddenly, or something like that. We don't really know why. So if it's very heavy, then you just have the most release and the relief. So it could be that even within this work that some tears or"
+    },
+    {
+        "start": "00:36:57.920",
+        "end": "00:37:21.440",
+        "text": "that you have some tears, some release, literally with, with physical tears. But, but yeah, you can rest assured though, and then we've seen this in, in all those tests, that usually going through trauma work, you know, if you have a, if you have a therapy, you know, and you go through that,"
+    },
+    {
+        "start": "00:37:21.920",
+        "end": "00:37:49.280",
+        "text": "it, it can be quite miserable at times, frankly, because they make you imagine that again, and you need to talk about it a lot. And that can be freeing, but it can also be at times really, really, you know, hard. And we haven't seen this being hard. And part of that is actually the energy field that is there. And because it, it instantly, you're working through these steps,"
+    },
+    {
+        "start": "00:37:49.280",
+        "end": "00:38:15.760",
+        "text": "actually relatively quickly in order to release very quickly. So there's not, you don't have to like relive this trauma or anything. Like that's not what you're doing when you're going through those steps. And, and I think again, it just, just imagine what types of different traumas you may have and just pick a couple and just go try this out. And, and if you have, if you feel fearful of"
+    },
+    {
+        "start": "00:38:15.760",
+        "end": "00:38:45.360",
+        "text": "like a very heavy trauma, then just pick an easy one first so that you'll see how actually simple the process is. And, and you'll, you'll notice that again, if there's a heavy trauma, there's a very strong and powerful relief and, and recharging of energy that you'll feel. And if it's just a very like tiny, subtle trauma that, you know, it never really was a big deal, then also you'll feel a"
+    },
+    {
+        "start": "00:38:45.360",
+        "end": "00:39:14.480",
+        "text": "less. Okay. Yeah. Because when I read the guide, the actual steps in the PDF, you know, it talked about, you know, being able to pull something up, but sometimes, you know, people have trauma, they don't know where it came from. So this also works on that quote, unconscious trauma, correct? And that you, you're basically it's noted here in the steps, you know, the nine steps, which is basically, you know, seek out your higher self, your higher self will then tell you, right? What"
+    },
+    {
+        "start": "00:39:14.480",
+        "end": "00:39:43.840",
+        "text": "that unconscious trauma is, or bring it to the surface for you, you can work on it. So there's a lot of not just inner work, but working with your higher self, interacting with your phone as the quantum device to kind of go through this process. And if you go step by step by step and talk to your soul, which is sort of like, you know, you're phrasing here to talk to your inner self and say, hey, you know, you know, please let us know, you know, and seeking guidance from yourself,"
+    },
+    {
+        "start": "00:39:43.840",
+        "end": "00:40:13.120",
+        "text": "your unconscious self, correct? Yes. Yes. And so that's a great point, because some people may wonder, okay, so what if I can't name the trauma? Like, okay, no, I remember when I was seven years old, I had an accident with my mom in the car. And she died. And, you know, I got hurt. And obviously, you know, the day, you know, that was a trauma, a traumatic experience, I still need to work on it. Okay, that's very, very clear. But then what about other things where it's not"
+    },
+    {
+        "start": "00:40:13.120",
+        "end": "00:40:40.320",
+        "text": "clear? And in that case, you don't need to know all of that. You maybe, maybe you are, I don't know, when you see a red light, somewhere, you're always getting super angry, or you getting super sad, or whatever, you know, and that may be a bad example. But it could also be you react rationally to something or there's always like a weird emotion or stuck energy or fear or an"
+    },
+    {
+        "start": "00:40:40.320",
+        "end": "00:41:04.400",
+        "text": "avoidance mechanism, etc, coming up in certain situations. So you're noticing you have something there, but you don't know where it came from. But knowing how you're reacting and what it is, name that, then it would be it's the trauma around avoiding to take an elevator, for example, right? You don't know where it came from, but it's, you know, you obviously there's a symptom that you"
+    },
+    {
+        "start": "00:41:04.400",
+        "end": "00:41:33.120",
+        "text": "can't take an elevator. You always need to take the stairs because there's fear. So just name that. And then that is the trauma you're going to work on. So it's relatively easy to pull in the issues you're having, because, you know, you know yourself best. And the issues you're having, the difficulties, you know, I don't know, maybe you're 25 year old man. And every time you, you"
+    },
+    {
+        "start": "00:41:33.120",
+        "end": "00:41:57.680",
+        "text": "know, you want to go out to a dead, you can't talk because you're, I don't know, you're scared of saying the wrong thing when you meet with a girl or something like that. So you may not know where that comes from, but you don't need to. You know what, what is the problem? So name the problem. And then you can work on the problem. That's pretty much how it works."
+    },
+    {
+        "start": "00:41:57.680",
+        "end": "00:42:23.760",
+        "text": "Okay. So essentially unconscious trauma is what drives our anxieties, our fears, right, our trepidation and do some self reflection to figure out like, why do I feel this way? And then that's that's actually a trauma. And that's something that you could use this service to help alleviate. So yeah, that's, that's amazing. So that's what I got out of reading this. So, hey, Phillip, I know we're reaching your hard stops. So I kind of want to just say thank you for"
+    },
+    {
+        "start": "00:42:23.760",
+        "end": "00:42:51.360",
+        "text": "answering all of these questions. I know we're going to get a bunch more everybody. So as a reminder, you know, as you interact with the service, if you've got questions, post them on either group, I don't think we're going to put a new group. But I think just either group, and we'll go ahead and capture those questions and try to do our best to keep track of them and have a follow up Q&A. So Phillip, I want to say thank you so much for today. I'm so excited. You know, I've been waiting since the moment you announced this because we've been looking for, right?"
+    },
+    {
+        "start": "00:42:51.360",
+        "end": "00:43:19.200",
+        "text": "Since the beginning, we've always been looking for that trauma frequency. And there really isn't one, but you discovered this with working with Johannes. And now there's a trauma energy, which I think is just fantastic. So it's been a long time waiting. I know there's a lot of people been asking about it. So here you go, everybody. We've got the new product, or Phillip's got the new product, Trump, easy, available October 10th. And definitely just give me, you know, want to give"
+    },
+    {
+        "start": "00:43:19.200",
+        "end": "00:43:45.120",
+        "text": "it a try. So now if you want to learn anything more about what we're doing, you can reach Philip here at Laila Quantum Tech or Quantum Upgrade, you can reach me at Tinkers Academy. All the links will be in the video description below. And again, of course, we all have Philip has two different telegram groups. I've got two different groups. So lots of different ways to reach us to ask questions about about Trump easy and and leave us your comments. So really appreciate everyone's"
+    },
+    {
+        "start": "00:43:45.120",
+        "end": "00:44:12.320",
+        "text": "watching this video and really excited. So, you know, go ahead, give it a try, everybody, and let us know what what happens and how it helps you. So Philip, any parting words? Yeah. So first of all, this also has been tested and certified by the Bayes Institute. And we just don't have it up on the website. Maybe it'll be with be there by the 10th. But if not, then a little later, because they're still it's it's still in in processing and and translation,"
+    },
+    {
+        "start": "00:44:12.320",
+        "end": "00:44:41.600",
+        "text": "basically the certificate. But it is already certified. Wow, it's important to say it. And then other than that, yeah, I think really what what you just mentioned, you know, let us know, you know, in the telegram groups, how you feel with it, and you know, what what it has done for you once you tried it. And obviously, if you have any questions, any other questions, let us know. Okay. Well, thank you so much for your time today, Philip. This is exciting, a new service. That sounds like it's going to really help a lot of people. So I personally am looking"
+    },
+    {
+        "start": "00:44:41.600",
+        "end": "00:44:48.320",
+        "text": "forward to trying it myself. So thank you very much for your time this morning and have a great day. Thank you, you too. Aloha."
+    }
+]

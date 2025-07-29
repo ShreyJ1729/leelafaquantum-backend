@@ -1,0 +1,792 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.680",
+        "text": " I love how everyone and welcome to another Tinkers Academy video. I'm your host, Kaylmer, and today I've got two guests with me to talk about an exciting subject. I've got Ein Mitchell of Wizard Sciences and Philip Montholtzendorf of Leila Quantum Tech. Hey, guys. How are you doing today? Doing well. Okay. Good to see you. All right. So let me know. Yeah. So let me go ahead and introduce these guys to you guys. For those of you who don't know who these two, one incredible gentleman are."
+    },
+    {
+        "start": "00:00:29.680",
+        "end": "00:00:57.280",
+        "text": "Ein Mitchell, again, like I mentioned, he's the owner/operator/founder of Wizard Sciences. He's an incredible scientist. Several patents under his belt, and he's also an aspiring German rap star from the last I heard. And he does now, and most lately, he's doing motorcycle stunts on his feet. Yeah. He's an amazing person. He's a stuntman. He's a rapper. And he's a scientist and an all-around good guy."
+    },
+    {
+        "start": "00:00:57.280",
+        "end": "00:01:26.600",
+        "text": "He's a father of teenagers, so that might explain some of his mental lapses when it comes to motorcycle riding. And then there's Philip Montholtzendorf, my buddy. He is an amazing person, you know, telecom tech executive who turned into this incredible human being when abandoning the corporate lifestyle, shaman, literally trained shaman. He's the owner/operator of Leila Quantum Tech, Quantum Upgrade."
+    },
+    {
+        "start": "00:01:26.600",
+        "end": "00:01:54.560",
+        "text": "And also Leila Labs. I mean, it's really interesting how you guys have a lot in common when it comes to, we all met each other, I think, through C60. Our work, I mean, you know, Ein has a C60 company, Philip has a C60 company. I'm like this C60 nerd, and that's kind of how we all met. But then you also have this really interesting link between the two of you with motorcycles because Philip's son, as I believe, competes at a professional level or an amateur level, right?"
+    },
+    {
+        "start": "00:01:54.560",
+        "end": "00:02:20.920",
+        "text": "And he says his own little experiences with stunt driving. So yeah, I was thinking between the two of you, you know, and also Ein is now the Leila Quantum Tech Science Advisor. So I was thinking maybe if you guys ever branch out and create a subsidiary, you might want to create something for people who experience motorcycle accidents because, you know, it seems to be something that runs in your timeline there."
+    },
+    {
+        "start": "00:02:20.920",
+        "end": "00:02:50.640",
+        "text": "So, but anyway, I thought that I mean, between Philip's son, you, Ein, I think the last 12 or 18 months have been quite adventurous. And I'm glad to hear that everybody has enough, and I'm really glad to hear that you've healed up so well and that Philip's son is back to writing. And yeah, and if you listen to other interviews, everybody, I'm just joking around. But we were talking about Philip's son and Ein had major accidents in the last 18 months, but everything's better now. And there were some quantum healing involved in that."
+    },
+    {
+        "start": "00:02:50.640",
+        "end": "00:03:17.600",
+        "text": "So there you go. So yeah, everyone of quantum healing. Yeah. Yeah. So let's talk about that when it comes to quote wound healing, right? So anyway, hey, you know, this is part two, everybody. And so you can other be linked to the part one video in the video description where we talk about in the part one, we talked about the language of quantum energy and how it's just really a new, a new aspect to an existing science quantum mechanics, right? And quantum healing."
+    },
+    {
+        "start": "00:03:17.600",
+        "end": "00:03:46.800",
+        "text": "But you know, when you take this traditional quantum mechanics in the physics realm and you start expanding on that into quantum biology and quantum healing and all of that, you know, there was really, you know, what's there is there and is there now? Was there, is there language that explains what's really going on and what we're seeing in results from testing and studies? So we talked about that. We talked about how, how Kiwi works at a high level, you know, how we're conscious this place into it. And then the idea of quantum entanglement and then how to apply quantum energy to your daily life."
+    },
+    {
+        "start": "00:03:46.800",
+        "end": "00:04:14.960",
+        "text": "You can find all of that in part one. And so as we kind of go through part two, we're going to be touching on some of these issues to see what the updates are. But more so, I think the very first thing and I think the most exciting thing that I've seen in the last 12 months is our first video about the science of quantum energy is how advanced you two guys and I just applaud you guys because you are doing something literally nobody else is doing. You know, I can't find and I do some deep dive searches on where is, you know, what are"
+    },
+    {
+        "start": "00:04:14.960",
+        "end": "00:04:42.400",
+        "text": "other people doing in this space and there's like almost nobody doing anything. I mean, there's, there's a here and there, right? But nothing like what you have done, which is you're producing actual valid response doing, you know, you know, double blind, shamp studies, you're doing all this dark field microscopy, bioenergetics, and I just amazing what you're doing. But you know, I'd like you, if you guys don't mind, you can jump in and kind of talk about like in the last year, I think that the studies or the, or the preliminary studies, right?"
+    },
+    {
+        "start": "00:04:42.400",
+        "end": "00:05:12.080",
+        "text": "That they're preliminary and they haven't been published yet or the studies actually came out on the effect of quantum energy for autism, EMF, you know, the effects on allergens and toxins as they relate in ATP production and wound healing. So, and just on as a side note, guys, I'm, I'm, I've self promoted myself to scribe for your work and I created a series of videos called the benefits of quantum healing where I'm basically reporting on the studies as they come out."
+    },
+    {
+        "start": "00:05:12.080",
+        "end": "00:05:38.880",
+        "text": "So folks, for you guys are interested in learning a lot about these, I do a video on each one of these things. So, but that's the new series that I've been creating since the beginning of the year. So you can find out more information there, but I got you two guys on the line. So hey, guys, what's new? What have you learned in the last year as to the science of quantum energy and what it's capable of doing? Go ahead, I just really am just excited to hear what you guys are thinking."
+    },
+    {
+        "start": "00:05:38.880",
+        "end": "00:06:07.720",
+        "text": "Well, why don't you jump in and I'll, I'll chime in behind because I have my kind of my own opinion about how things have gone for the year. Yes, sounds good. Yeah. So, I mean, it's, it's actually quite remarkable that, that after all the initial first results and testing and experiments and all of that, there's so much more that, that came out over the last year and it just seems that as soon as there's a new research area popping up"
+    },
+    {
+        "start": "00:06:07.720",
+        "end": "00:06:34.240",
+        "text": "where we get some anecdotal reports from folks out of the telegram groups or something we find out ourselves, if we dive deeper into this and there's more research facilitated that those results are also produced. So I mean, you, you listed these all up here. You, you know, you mentioned the autism, the EMF, intelligence and toxins, ATP production, wound healing."
+    },
+    {
+        "start": "00:06:34.240",
+        "end": "00:06:58.840",
+        "text": "I mean, these are, these are huge fields if you think about it and if you just pick one of those that the ATP production, that's massive on its own. So yeah, I think we find out a lot more the last year was incredible. I think frequency, medicine, quantum medicine is the future."
+    },
+    {
+        "start": "00:06:58.840",
+        "end": "00:07:26.280",
+        "text": "And indeed, I think it will be a field that, that will grow. I want to say though, that, that quantum mechanics has a fundamental flaw in it. And that's also, it's, what I see is that's why you don't see any results there. Some scientists that, that really believe in the whole quantum mechanics stuff because it's rabbit hole."
+    },
+    {
+        "start": "00:07:26.280",
+        "end": "00:07:49.280",
+        "text": "It does not at all actually look at the reality and how it is quantum, quantum mechanics actually would describe the whole thing as that consciousness comes after the fact. And they also remove the ether out of the equation. I don't know how many years ago that happened."
+    },
+    {
+        "start": "00:07:49.280",
+        "end": "00:08:14.440",
+        "text": "When that happened, basically you can now not even explain things anymore in a real way. And where we pull out that energy is directly out of the ether. And we work with the consciousness field. And that that is what needs to be understood that the consciousness was always the first that existed. Nothing else."
+    },
+    {
+        "start": "00:08:14.440",
+        "end": "00:08:40.120",
+        "text": "Consciousness is, was and always will be, and it's the one and only thing that is always there. That is the truth. And then you can go into the next levels and you can, you can look at the ether model where we pull out the energy, for example, and yes, we call it quantum energy because it really is quantum energy. It's the, it's the, it's the, it's the, it's on the lowest level that you could, could"
+    },
+    {
+        "start": "00:08:40.120",
+        "end": "00:09:09.240",
+        "text": "even think of that, that's why it's quantum, but it's not the quantum mechanics stuff that a lot of other people talk about. It really isn't. And I actually believe those people won't produce any results because there's a fundamental flaw in how they approach things. And that's why there's a lot of theoretical modeling going on, but they're not getting to the actual energy. And that's where there's the big difference."
+    },
+    {
+        "start": "00:09:09.240",
+        "end": "00:09:38.720",
+        "text": "We're doing that. And then if we're talking about frequencies, probably later we'll get into that that within the quantum field, all frequencies exist. And the frequency though, in order to be transmitted would need the quantum energy to be boosted. And that's, that's, I think the, the unique part about what we're doing really is that we've found a way and how you could transmit and transport frequencies in a way not seen"
+    },
+    {
+        "start": "00:09:38.720",
+        "end": "00:10:02.160",
+        "text": "before. You don't need an electrical device. You don't need to turn on a sound like a speaker in order to hear a frequency. Literally the frequency can be vibrating in any object. And yeah, that's, that's my quick, quick summary. We're seeing a lot where we're very, very deep into a lot more research."
+    },
+    {
+        "start": "00:10:02.160",
+        "end": "00:10:32.000",
+        "text": "We actually hired a person just a few months ago, who's now doing a lot of the groundwork on, on a lot more research. And then I know, of course, the chief science advisor helping us a great deal and he's instrumental in, you know, understanding of these things and helping to look at these human cells and what happens there."
+    },
+    {
+        "start": "00:10:32.000",
+        "end": "00:10:58.360",
+        "text": "It's just, it's amazing. It's a lot of fun to work on it. And, and I wrap up with this here because we're still so early that even though we're producing all of these results and there's, it's just so many different results and so many different fields with so many different institutes and test methods. And there's still a lot of people out there that either haven't heard about it or that"
+    },
+    {
+        "start": "00:10:58.360",
+        "end": "00:11:22.760",
+        "text": "they can't wrap the head around it because it's so not mainstream. It's, it's, we haven't heard about it and it brings us back to, okay, so if you think about the early times of the internet, you wouldn't think that's something like that is possible. Even if you go back 200 years and then tell people, you know, iron brought that up, you"
+    },
+    {
+        "start": "00:11:22.760",
+        "end": "00:11:48.040",
+        "text": "know, how cell phones work, you, you can't really imagine how that works until it works. And, and this is the same thing with this technology. Oh, yeah, no, well said. Yeah, totally. I mean, so, okay, I want to get a million questions, but I am, and so, you know, what's your take on, on, you know, because I guess the thing we talked about in part one, which"
+    },
+    {
+        "start": "00:11:48.040",
+        "end": "00:12:17.920",
+        "text": "was we can't explain exactly what's going on, but we can prove it does something. And then now we've got a year of studies, right, under our belt that says this is the something it's doing, right, and then, and then in terms of like explaining like, okay, well, you know, why do you think or what are the, what are these results coming from? I mean, what would be, you know, what's your take on that? Ask, ask the question one more time. Yeah, you broke up for just a second. Oh, okay."
+    },
+    {
+        "start": "00:12:17.920",
+        "end": "00:12:43.440",
+        "text": "Well, the question really is like, hey, you know what, we, you know, in the last video, right, we, we talked about, you know, like we don't really have a, and even in your other interviews, right, it's basically, we don't know the exact mechanics of, of how quantum energy is doing what it's doing, but it's doing something. So because of the result, you know, you know, that it exists and you can validate that there's something there and in front of us right here on the slide is this is what's happening."
+    },
+    {
+        "start": "00:12:43.440",
+        "end": "00:13:12.000",
+        "text": "We've got some amazing things that are happening that nobody before us or before you has ever been able to produce, which is, hey, I'm, I'm increasing ATP production by using this quantum entanglement, you know, service by sending, you know, energy from another distance. I mean, that's kind of unheard of, right? Same thing with mitigating the effects of that. So, you know, like the question is like we're these amazing results, you know, and then,"
+    },
+    {
+        "start": "00:13:12.000",
+        "end": "00:13:39.880",
+        "text": "and then so like how, you know, like what do you, what do you think now a year later that you're seeing these results? Have you been able to kind of figure out, you know, what's really the driver, you know, behind all this? I guess to Phillips, you know, credit is about consciousness, but, but what's your take on, on how these things are, you know, why is this happening and how, how are we getting these results? Well, so I think over the past year, we've, we've definitively done some really good"
+    },
+    {
+        "start": "00:13:39.880",
+        "end": "00:14:05.740",
+        "text": "tests and, and also have done them in triplicate or triplicate, you know, with, with the actual test being run in quadruplicate, you know, so we've done the same experiment three different ways to drill down and, and, and identify things and do it in a double-blinded fashion. And I think the biggest change is that with the data we have, we, we can now effectively say, yeah, this is sort of the smoking kind of quantum biology."
+    },
+    {
+        "start": "00:14:05.740",
+        "end": "00:14:34.980",
+        "text": "We can repeatably show with tremendous statistical significance that we are eliciting big jumps in it to the tune of 20 to 26% increases in ATP production remotely using quantum energy and whatever and over and we can prove it over and over and I think this is part of the technological curve. We're drilling down farther and farther, but it reminds me of, you know, Faraday playing with magnets. There's, there's a lot of work that has to be done just to figure out the interactions,"
+    },
+    {
+        "start": "00:14:34.980",
+        "end": "00:15:03.420",
+        "text": "which is where we are now. And then after we started to codify it, which is what we're just starting to do, then I think we'll, we'll start adding different descriptors to the lexicon so that we actually do have kind of one, one language that we can all speak to because the Philip is exactly right and, and the thing that's the most amazing about the way things have played out of the past year in terms of what, what assessments you can make by looking at the datasets that we've received from all the experimentation."
+    },
+    {
+        "start": "00:15:03.420",
+        "end": "00:15:31.780",
+        "text": "And the thing that is most profound to me is that it's clear that there is an underlying intelligence that connects everything. It would be impossible for the datasets to express the way they have without, in a double-blinded fashion, without fully acknowledging, turns out there is in fact something that connects all things regardless of distance. And I don't know that we, you know, other than calling it, you know, consciousness or something like that."
+    },
+    {
+        "start": "00:15:31.780",
+        "end": "00:15:55.460",
+        "text": "I don't know that we're really pegging the, the terms yet, but we have definitively made strides in the mechanisms and the mechanics and, and how it's functioning and being able to identify that, yes, there is some underlying connectivity between all things. It's monumental because the, the implications of, you know, being able to see huge jumps,"
+    },
+    {
+        "start": "00:15:55.460",
+        "end": "00:16:21.420",
+        "text": "relevant statistically in, in cell cultures, you know, performed by, and a non-perceptible energetic function, 7,000 miles away, which we've done multiple times now, is, is, it's brilliant. It's, I mean, it, it's paradigm shifting and part of the reason I personally love this is because you actually have to think as you're doing this because sometimes the data is bizarre, it doesn't make sense with what we've traditionally been taught."
+    },
+    {
+        "start": "00:16:21.420",
+        "end": "00:16:46.020",
+        "text": "But again, if you, if you look at things and say, ah, consciousness is the epiphenomenon. It's the outcropping of, you know, awareness and that's the, you know, after you have a brain, I don't actually think you can solve these puzzles to, to Philip's point. I think you literally have to say, okay, we're looking at it with blinders on kind of almost in reverse. We don't see the whole picture. We see a very narrow band and we're looking at it from the wrong end."
+    },
+    {
+        "start": "00:16:46.020",
+        "end": "00:17:11.000",
+        "text": "If you look at things and approach it from the standpoint of consciousness is the pre-eminent function here, the connectedness between all things and then the expression of those things through awareness, that's when things get interesting and, and, and of course, tend as we all are towards going, well, okay, how does it work? Then that's, I think when you get into the, the vibratory component of things where we're"
+    },
+    {
+        "start": "00:17:11.000",
+        "end": "00:17:36.440",
+        "text": "trying to actually skew vibrations, which we can measure to express certain functions. So kind of a long-winded answer for what's been happening, but we are drilling down, but we're still in the experimental phase. So I think, I think more time is what I'd like, but I'm tickled pink with the results because they, they really are sort of smoking gun that says, ah, yeah, so everything's connected."
+    },
+    {
+        "start": "00:17:36.440",
+        "end": "00:18:05.040",
+        "text": "It's just the way it is, we can now start trying to deal with it rationally and go, okay, well, it turns out we weren't right, you know, we need to rewrite what we're doing. Yeah, no, that's amazing. Yeah, I mean, just flat out everybody's listening to this. The, the results from the studies are just absolutely amazing and remarkable. So it's, it's good to hear that, you know, you, the more studies you do, right? The better you get at doing studies on quantum energy, but in terms of, if I'm just paraphrasing,"
+    },
+    {
+        "start": "00:18:05.040",
+        "end": "00:18:34.040",
+        "text": "in terms of the language and the actual definition of the mechanics of, of what's happening, that's still, you know, still out there to be determined. But the, in terms of the data sets coming from all these studies, I'm just kind of curious if, if you thought about feeding them into, into like a chat GPT for what, boy, I think we've lost time. No, I'm still here. Oh, okay. Wow. Go to meetings showing you left. Okay. No. Thank God you're still here. So, but you know, I mean, it's like, have you ever thought about that?"
+    },
+    {
+        "start": "00:18:34.040",
+        "end": "00:18:59.400",
+        "text": "Like taking all of these results and feeding it into chat GPT for and saying, Hey, what, you know, what do you think? What, what do you think would have had a curiosity, so I could not tell you what happens because I haven't spent enough time to actually look into chat GPT. I mean, I've been following this and I have some rudimentary knowledge about it, but you"
+    },
+    {
+        "start": "00:18:59.400",
+        "end": "00:19:27.320",
+        "text": "know, I, we would definitely need some help of someone to get this actually done and why not actually. Yeah, I'm just, yeah, I'm just throwing it out there because you know, I've been, you know, I kind of follow what's been going on. It's gotten really, you know, really blew up this spring and, but you know, there's been several articles and study or stories about doctors and scientists who've just done just that. They've taken a body of information that it into the AI and the AI is like now designing"
+    },
+    {
+        "start": "00:19:27.320",
+        "end": "00:19:53.920",
+        "text": "new pharmaceuticals, for example, you know, to do different things. So it's kind of real interesting on what that technology can do. Not GPT three, but definitely GPT four probably could be more beneficial in that line, but I'm just curious because that seems to be the hot topic of the day, but yeah, thanks for sharing that. So the more studies we're doing, the more we're learning how to do studies and the more data we're getting that gives us more like data points right for eventual conclusions. That's great."
+    },
+    {
+        "start": "00:19:53.920",
+        "end": "00:20:20.960",
+        "text": "That's what's happening new, you know, and if you guys are anybody out there listening, if you're interested in studies, you can find them on the website and you can find the video series on my YouTube channel. Okay. So in the light of like what's new, we've done a bunch of studies, we're gaining in knowledge. But what are we learning? So here's some questions that, you know, as I listen to your interviews, you know, with various personalities, and by the way, your guys's Luke story interview is awesome when the two of you guys met with him."
+    },
+    {
+        "start": "00:20:20.960",
+        "end": "00:20:47.800",
+        "text": "And so I have, you know, one of the questions I have is like, and I get this in the Telegram chat group too, it's like, have you guys done any studies or what is your, what is your, you know, opinion and or, you know, findings for how long do these effects last? Like, for example, I know from talking with you Philip a couple of years ago, when you launched your EMF jacket, you mentioned that, okay, you've, you guys found out that if you"
+    },
+    {
+        "start": "00:20:47.800",
+        "end": "00:21:12.160",
+        "text": "wear the jacket, the effect of the jacket is, you know, has a benefit to the blood microscopy. And then if you took the jacket off, that effect would last for at least four hours, for example. So what about these other effects, you know, like the ATP production, you, you, I guess the experiment was you set the participants up on a U subscription for quantum upgrade."
+    },
+    {
+        "start": "00:21:12.160",
+        "end": "00:21:38.920",
+        "text": "And then you saw the, the impact of that, of that subscription or the energy being sent to them via entanglement, then you saw the ATP go up right in the cell cultures. But how long does it last? That's the question. I mean, if you turned it off, or let's say took your hand out of a block or you walked away from a block field, have you guys really been able to determine the lasting effects?"
+    },
+    {
+        "start": "00:21:38.920",
+        "end": "00:22:06.720",
+        "text": "So energetically, it's about two hours, two to three hours that after, let's say, either you, you've had your hands in the block or you're using the quantum upgrade, let's say you're using it at 800 on the Hawkins scale, as an example, and then you turn it off, then it kind of dissipates over like a two hour period, maybe, maybe even an up to three, three"
+    },
+    {
+        "start": "00:22:06.720",
+        "end": "00:22:30.960",
+        "text": "hour period. And you would still have lasting effects beyond that. You wouldn't, wouldn't have this extra energy boost anymore, you wouldn't feel that. But certainly your, your body functions are not going back to before right away, which"
+    },
+    {
+        "start": "00:22:30.960",
+        "end": "00:22:54.600",
+        "text": "is different for ATP production and the blood and an HRV, for example, because what we need to understand is that the, this pure quantum energy feel, what it does is it, it, it brings you into your center and it supports the, the optimal state, right? That's what it, that's what it promotes."
+    },
+    {
+        "start": "00:22:54.600",
+        "end": "00:23:19.240",
+        "text": "And while you can increase ATP production like we've been shown, I think we're all in agreement that it wouldn't do that over a very long period of time, just run at higher ATP production, because that may not even be good, if, if a dip out, right, because you, you need to"
+    },
+    {
+        "start": "00:23:19.240",
+        "end": "00:23:49.000",
+        "text": "have a balance still in your body, however, with a blood, it's something that this would last for quite some time, but it's impossible to say, I don't even, I don't think we, we can even answer that question even in the future, because everyone is so different, and it's so different, what do you do afterwards, right? If you drive off, you sit under a five G tower afterwards, right after the treatment, you're"
+    },
+    {
+        "start": "00:23:49.000",
+        "end": "00:24:14.800",
+        "text": "going to have a completely different reversal that happens way faster as if you go out and I don't know, sit in the forest at a lake, you know, with, with no cell reception, and you're just having a great day meditating there, you're going to be keeping these results for way longer. So I don't think we'll be able to answer the question."
+    },
+    {
+        "start": "00:24:14.800",
+        "end": "00:24:40.120",
+        "text": "Okay, I, I can jump in with, well, one interesting bit of data on the wound healing experiments, and we're literally, you know, we've been going through these right now, actually, yesterday and today. One of the more interesting things is, when we structured the experiment, we would set up cells on a, on a plate, right, so a petri dish, and then you scrape them, so you actually"
+    },
+    {
+        "start": "00:24:40.120",
+        "end": "00:25:09.120",
+        "text": "make a cut through the center of them that's about 10 microns wide, and then you put it under a microscope and you track how long it takes for the cells, in this case, human dermal fibroblasts, those skin cells, to actually grow back and become confluent to cover the surface of the petri dish again. So what's kind of intriguing is that we would charge the cells while they were healing in certain, certain dishes and not in other dishes, and the wound healing is much more rapid,"
+    },
+    {
+        "start": "00:25:09.120",
+        "end": "00:25:30.840",
+        "text": "you know, ballpark state, twice as quick, in the cells that are exposed to the quantum energy. Now, after the first pass of this, where we would take all the pictures with the microscope on the, on the cuts and look at the, the relative healing rates, we would do another pass with a secondary scrape while the cells weren't being charged, and every time the cells in"
+    },
+    {
+        "start": "00:25:30.840",
+        "end": "00:25:58.800",
+        "text": "the wells that have received the quantum upgrade prior to, outpace the cells that hadn't again. So the effect persisted for, in this case, at least two extra days, just in a cell culture that made a statistically significant increase in the, the rapidity of the wound healing. So I can't say beyond that, but I can definitively say, you know, we have, we have data showing"
+    },
+    {
+        "start": "00:25:58.800",
+        "end": "00:26:27.360",
+        "text": "at least an uptake of lasting over two days after being taken out of the field. So, So that's an amazing data that is an absolutely amazing data point. And so I think what this, what this shows is, so because we know that, you know, after, you know, what I said, two, three hours or so, the, the field wouldn't, wouldn't really be recognizable anymore, right energetically. So if you turn it off, then two, three hours in the field, if you couldn't measure it anyway,"
+    },
+    {
+        "start": "00:26:27.360",
+        "end": "00:26:54.640",
+        "text": "you couldn't, couldn't observe it anymore. But it seems that the, that the cells or the physiological organism got so much stronger during the charging process, that these strengthen, strengthening effects last, you know, obviously for these cells here for at least these two days and, and you know, it'd be great to see"
+    },
+    {
+        "start": "00:26:54.640",
+        "end": "00:27:23.640",
+        "text": "in other experiments, how long that lasts, but that's, that's how I see it, right? I mean, I would you agree that that's like a strengthened effect that is lasting? Oh, yeah, 100% that that's what's, that's what's so remarkable about it is we can't, I can't identify anything that morphologically in terms of the shape of the cells. I can't identify anything that's changed from the time when they were charged to the time when they're not charged."
+    },
+    {
+        "start": "00:27:23.640",
+        "end": "00:27:48.920",
+        "text": "But what I can tell you is relative to the control group, they still so greatly outperformed it that it's, it's an obvious persistent effect and something is fundamentally altered. And like you said Philip, it, it could be that, you know, when we start drilling down on methylation pathways and looking at the genomics of the thing, we can identify how it's methylating or not methylating in those cells and look at, you know, effectively the health and the"
+    },
+    {
+        "start": "00:27:48.920",
+        "end": "00:28:14.600",
+        "text": "age of the cells to say, yeah, okay, so giving it quantum energy for two days while we're doing the first round of wound healing will increase its effectiveness and, and actually kind of come out with a, with a curve because there does appear to be a declination, you know, some, some sort of decline in the, in the graph when you look at the, the fullness and the rapidity of the wound healing. So it's not as strong, but it's still stronger than a normal cell."
+    },
+    {
+        "start": "00:28:14.600",
+        "end": "00:28:44.400",
+        "text": "And like you said, it, it could well be that it's just restructuring the cells internally and giving them more oomph so that their processes are better, you know, and because we know that the ATP levels have gone up. So the corollary or the, the correlation there is the, the rapidity of the wound healing. Um, again, how long that will be persistent, we don't know, but you're exactly right in your assessment there, it's, it's very conclusive that it has fundamentally changed the cell function."
+    },
+    {
+        "start": "00:28:44.400",
+        "end": "00:29:10.600",
+        "text": "Yeah, it's interesting, you know, because you're the result, if you're getting that type of wound healing results, it sort of reminds me of the same results that people are getting using PMF or microcurrent on wounds, you know, rapid or, you know, expedited healing. And, and in that regard, right, as you, as you know, ion is that the current replicates the energy of the body, some radians, and it brings, it does two things, right?"
+    },
+    {
+        "start": "00:29:10.600",
+        "end": "00:29:37.660",
+        "text": "It does mitigate the inflammation response and then go straight into healing as opposed to, you know, swelling up really tight and then obviously creating a barrier for the body to heal. And so, yeah, it's real. That's really interesting. So the quantum is doing the same thing, but maybe working in a, in a different way by actually changing the cell dynamics itself, which leads to the other question, Oh, go ahead. Well, I was just going to say that from personal experience in my, you know, my evil,"
+    },
+    {
+        "start": "00:29:37.660",
+        "end": "00:29:59.560",
+        "text": "like an evil days of your seven, seven months ago when I completely broke myself on a motorcycle, the wound healing, you know, in terms of the actual wounds and, you know, the, my tibia being inside of my femur, which is not where it belonged, the pace of healing was greatly altered."
+    },
+    {
+        "start": "00:29:59.560",
+        "end": "00:30:28.920",
+        "text": "So I did, I used the quantum block, quantum upgrade, I used a pulse electromagnetic field, C 60 lasers. I did a whole host of modalities to hasten the pace, but the initial prognosis was 12 weeks with no pressure on my leg whatsoever and multiple surgeries with plates and pins and screws being put in. At the end of the day, I had no surgery, no plates and pins."
+    },
+    {
+        "start": "00:30:28.920",
+        "end": "00:30:56.360",
+        "text": "Everything moved back into position. The wounds healed and the bones mended entirely to a point of getting it all clear from the orthopedic surgeon in nine weeks, as opposed to 12 weeks before I could put any pressure on the leg whatsoever. So I was up and walking and done. Yeah. Well, and that's, you know, personally speaking, it was profound. And, you know, I know that all of those different modalities had different effects because,"
+    },
+    {
+        "start": "00:30:56.360",
+        "end": "00:31:23.360",
+        "text": "you know, when you're laying there and the only thing you're doing is perceiving what your physical form is kind of doing and how it's moving and how it's repairing. You become acutely aware of what is and is not working and you can feel, and this is totally subjective, but you can feel the effects of the quantum field and how it manipulates your biology. I mean, we've shown that with allergies and Phillip, you can talk about the allergy studies"
+    },
+    {
+        "start": "00:31:23.360",
+        "end": "00:31:49.460",
+        "text": "because those are equally as brilliant in terms of the real world application. Yes, I mean, oh, okay, go ahead. No, no, I was just saying, yeah, I mean, to me, of all the things you guys are doing, not one, that one is the most unbelievable because of the ramifications of what it means"
+    },
+    {
+        "start": "00:31:49.460",
+        "end": "00:32:17.820",
+        "text": "given our current environment that we live in, where everything is poisonous to us. And what those allergen tests are coming out, the results, it just, it's, you know, if you expand on like what's Cape, you know, in other words, I really thought it through and I'm like, wow, man, if this is really happening, and it is, what does that mean to everything about the idea that our environment's voice into us? Anyway, go ahead."
+    },
+    {
+        "start": "00:32:17.820",
+        "end": "00:32:42.020",
+        "text": "Yeah, and you're right, you know, I want to be very mindful with that topic, obviously, but it could have some really, really positive implications on a much, much broader scale that we can imagine because you're right, you know, we're living in the toxic soup, right? Wherever we look, we get it out of the air, we get it out of the food, we get it out of"
+    },
+    {
+        "start": "00:32:42.020",
+        "end": "00:33:11.020",
+        "text": "the water, there's just toxins and the body has to do just a lot of big work to fight that off. And with that, apparently, there's a tool now that can ease these things and that can take off stress response by, you know, 65% to 100% in the cases that have been measured so far."
+    },
+    {
+        "start": "00:33:11.020",
+        "end": "00:33:35.540",
+        "text": "And with people that haven't heard about that, you know, we've done these experiments, even life on stage at the Biohacking Conference and there's a clinic in Germany that has been running a study that did a pilot, and now they're running a larger study, it's taking all unfortunately longer than expected because they don't have, they don't have tons"
+    },
+    {
+        "start": "00:33:35.540",
+        "end": "00:34:03.900",
+        "text": "of these patients, so they can only conduct another experiment when they also have a patient with the food allergy. So yeah, and everything points to that. It's just we need to be very careful with claims in this regard because, you know, we just really want more data, points that we can actually, yeah, give some guidance."
+    },
+    {
+        "start": "00:34:03.900",
+        "end": "00:34:31.380",
+        "text": "Yeah, no, I told you, you know, it's even with various methods, right? I mean, it's what the base institute already found two years ago, frankly, right? I mean, they, they have a different testing method in KU understand that testing method more than most people, it's an amazing testing method, you know, but I don't think it's enough, you know, for us to go out and say, you know, this is really what it does in that"
+    },
+    {
+        "start": "00:34:31.380",
+        "end": "00:34:53.940",
+        "text": "regard, but yeah, everything that has been tested so far with different methods points to that. And I think by the end of this year, we we probably have a lot more data points and can be more more open with guidance. Yeah, you know, in that regard, do you guys have anything planned to do a lab, you know,"
+    },
+    {
+        "start": "00:34:53.940",
+        "end": "00:35:21.180",
+        "text": "a lab level test of allergen and toxins on human bodies in terms of like histamine response or inflammation response to stimuli, you know, are you guys planning anything like that? So, you know, take it outside of the bioenergetics world, which is a bonafide reputable world, right? You know, meridian stress assessments, the key term there. But in terms of like literally being able to go into the body and measure that before"
+    },
+    {
+        "start": "00:35:21.180",
+        "end": "00:35:48.260",
+        "text": "and after histamine levels, right, from someone who's, let's say, allergic to particular substance and actually, you know, measuring at the, you know, in a lab, are you guys getting anything planned for that? I would love to do that. I just I would have to refer to I and if he has an idea or any contact, yeah, not too hard. I do actually. It's I had done some study a few years back in a clinical trial on mice where I looked"
+    },
+    {
+        "start": "00:35:48.260",
+        "end": "00:36:16.420",
+        "text": "at cytokine levels and one of the experiments that I want us to do before the end of the year and I actually just got numbers on how to do this is to run a cytokine assay on people's actual blood both before and after being exposed to the quantum upgrade. So we can see what with the actual changes are now granted, it's still downstream effect. I mean, all of the things we're looking at are secondary functions are not, you know,"
+    },
+    {
+        "start": "00:36:16.420",
+        "end": "00:36:46.100",
+        "text": "we're not, we don't unfortunately don't have a quantumometer yet and can't can't read the, you know, the effectiveness of the quantum field as it expresses in an organism. But we do have really awesome tools for blood work and we can very definitively say, ah, you had a histamine reaction at this level, you had a cytokine reaction at this level. This cytokine, you know, cratered IL-6 went down, IL-8 went down. Those are the kind of things that we can look at and I before the end of the year, I think we actually will have that completed."
+    },
+    {
+        "start": "00:36:46.100",
+        "end": "00:37:13.220",
+        "text": "And again, though it's not terribly popular, it's a great test and you can actually see the physiological effects and to your point K, I think a lot of times things are more believable for the average person when they move out of the electrical field, you know, but just still even though people talk about it and use it all the time, electricity and, you know, electrical fields and electromagnetic fields, it's all sort of ethereal and ephemeral"
+    },
+    {
+        "start": "00:37:13.220",
+        "end": "00:37:41.740",
+        "text": "and people can't really grab it, whereas blood work, you know, everybody's pretty familiar with blood. Yes, oh, absolutely. So I think kind of, yeah, I mean, I, to me, I think the cool factor is when we can actually measure the, you know, like those cytokine and histamine reactions pre- and after exposure to an allergic substance or any kind of toxin because, you know, where I'm going with this"
+    },
+    {
+        "start": "00:37:41.740",
+        "end": "00:38:07.180",
+        "text": "is just like, because one of my things about, you know, helping and advising people on telegram constantly on the telegram checkers is, it's just, you know, like, it's just instructions and guidelines, you know, like the quantum energy, how long does that last, then translates to, hey, this is how you use these tools for quantum healing, like, you know, like Philip, yeah, that good, you know, that wasn't a good example, a horrible example, where your"
+    },
+    {
+        "start": "00:38:07.180",
+        "end": "00:38:36.980",
+        "text": "son broke both of his wrists, but now based on, on your experience, that's what I'm actually telling people is a try this, you know, I think it was 15 minutes a day in an eye block twice a day, right? And he did that and that double it cut his healing time in half, right, just recovery was cut in half. Is that correct? And, you know, so I always tell them, you know, so that's what, that's the example that I give people, I go, well, when, when Philip's son broke his wrist, this is what he did and he, you know, his recovery time was cut in half, you know, so that's kind of"
+    },
+    {
+        "start": "00:38:36.980",
+        "end": "00:39:04.140",
+        "text": "like start with that, you know, and I think that's where it's really going to be incredibly helpful, you know, from guiding people on how to use the tools based on what we're learning about how long stuff lasts. And then in terms of like, especially like how long, like, I think the first allergen test, right, was like, we determined or you determine like four minutes in an eye block with transmute, right, the substance to not be, you know, a trigger to the individual that was exposed to it."
+    },
+    {
+        "start": "00:39:04.140",
+        "end": "00:39:33.700",
+        "text": "So, we know now, so now I tell people, hey, four minutes in an eye block, generation one, give me the minimum, you know, that's the minimum. And then you're going to put that food in there and I've done my own test with my own eye block on allergic to MSG, I break out in hives and I had the exact same results that Todd did before and after, you know, so it's pretty, you know, so it's pretty, it's pretty, to me, it's duplicatable, you know, you can duplicate it, that means it's definitely real. And then now it's like, okay, creating those guidelines, how to use these tools to actually"
+    },
+    {
+        "start": "00:39:33.700",
+        "end": "00:40:02.340",
+        "text": "get into like, you know, healing modalities and instructions and procedures. So yeah, great stuff, because you know, honestly, if this does what I think it really, really, really does, then, you know, really just trying to make sure people understand that people who want to live healthy, you know, put your food and water in this thing before you digest them. And then of course, knowing how long that lasts, like we get a question a lot in the block and I'm sorry, in the telegram group, maybe one of you guys can answer this, but people"
+    },
+    {
+        "start": "00:40:02.340",
+        "end": "00:40:29.060",
+        "text": "are saying, well, you know, I'm charging water, how long does the charge last in the water? Because I charge a pitcher at a time and I don't drink the whole thing, obviously, right then in there. But, you know, like, how long does that energy last in the water? Or do I charge my food, right, put it away and then cook it and eat it and that's still carry that energy by that point, you know, two weeks or an hour or a week from now, or if I freeze, you know, if I freeze my food, should I, you know, when should I, when should"
+    },
+    {
+        "start": "00:40:29.060",
+        "end": "00:40:56.180",
+        "text": "I charge it, and so that I get those effects, right, of basically toxin mitigation and so forth. And so what I've been trying to tell people and correct me if I'm wrong, maybe you guys could both comment on that because really big issue, right, for everybody, I think that people are investing so much capital into buying these incredible tools. They're not free. They're not cheap. But they're so valuable. I mean, I look at it like a complete investment in your health and your well-being."
+    },
+    {
+        "start": "00:40:56.180",
+        "end": "00:41:19.740",
+        "text": "So could you two kind of comment on that, like, because what I tell people is like, hey, just to be safe, you know, you can't go wrong, just charge it before you eat it, right, instead of charging your groceries and then putting them away. So what do you think about food and what do you guys think about water in terms of like, what would you recommend to people for that, you know, for the best effect?"
+    },
+    {
+        "start": "00:41:19.740",
+        "end": "00:41:48.300",
+        "text": "So it's hard to tell, but we know that the energy gets out of the water again over time. Even frequency is lose efficacy and that can, yeah, we can't tell at this point how long that actually takes because also there, the environment and the circumstance matters. Again, you can take a glass of water, you charge it and then you put it underneath the"
+    },
+    {
+        "start": "00:41:48.300",
+        "end": "00:42:13.380",
+        "text": "5G tower, right, and I don't know, do other things to the water that aren't helpful or you put the water in a really great environment and let it sit there. So it totally matters. I would say with everything that is not very dense, like groceries, fruits, vegetables,"
+    },
+    {
+        "start": "00:42:13.380",
+        "end": "00:42:41.340",
+        "text": "sugary items, water, et cetera, if you have these sensitivities, then definitely I would recommend to charging all this stuff before you consume it and not the moment you purchase it, meaning that if you purchase it and you charge it and then you put it in the fridge for two weeks and then you consume it, you don't have the full effect anymore. You may still have some effect and you most likely, you will have some effect."
+    },
+    {
+        "start": "00:42:41.340",
+        "end": "00:43:10.380",
+        "text": "I mean, we actually know that because we tested that with a professional fitness bar producer who's about to use our technology to charge their bars. So we know that there's also a lasting effect, but again, there's a difference between the everyday regular person that doesn't have sensitivities and one that does. How long exactly that lasts in the water we can't tell?"
+    },
+    {
+        "start": "00:43:10.380",
+        "end": "00:43:39.780",
+        "text": "I would say, once you charge water, you'll have some charge at least for a day, but already after 15 minutes, if it's in an open glass exposed to oxygen, you start losing it already after 10 minutes gradually. Okay, I would add in thoughts, yeah, and this is of course probably sort of the mad scientist"
+    },
+    {
+        "start": "00:43:39.780",
+        "end": "00:44:08.100",
+        "text": "approach here, but it's a really simple experiment. To kind of dial in and see in your environment, because it really does change from environment to environment, and obviously it changes even in that environment, as Phillip is alluding to with interactions with, you know, electromagnetic fields and, you know, like what kind of 5D is being pumped through there? Do you have smart meters and all that sort of stuff? But simple experiment that's kind of interesting is you can take a piece of fruit, like an apple,"
+    },
+    {
+        "start": "00:44:08.100",
+        "end": "00:44:37.480",
+        "text": "something that you're used to seeing a certain oxidation pattern on, and either put one entire apple in a block next to another apple that isn't in a block, and then slice them open and look at their rates of oxidation, but just basically how long it takes for them to turn brown, and you'll actually see a difference in reduction oxidation potential between the one that is charged and the one that is not charged after just a couple of minutes in"
+    },
+    {
+        "start": "00:44:37.480",
+        "end": "00:45:05.660",
+        "text": "a block. Like, visibly you'll see a difference, and we can actually, and can't know if I sent this to you, but we did this with vitamin C and showed that even though the compound spectroscopic, we was identical and it came from the same vial, after a few minutes in a quantum block, the same compound started expressing an entirely different reduction oxidation potential, you know, you, yeah, and it's literally just being four minutes unheard of."
+    },
+    {
+        "start": "00:45:05.660",
+        "end": "00:45:34.740",
+        "text": "Yeah, I'll actually, I'll send you, yeah, I'll send you that data because it's, it's, it's a compelling image because in one set you see that they're identical, and then the same compound taken from the same vial put into two little creatures was then, you know, exposed and unexposed, and then rerun for reduction oxidation potential, and it's entirely different. That's amazing. That's, that's actually my next question, but I just real quick to anybody out there."
+    },
+    {
+        "start": "00:45:34.740",
+        "end": "00:46:02.320",
+        "text": "I mean, when, when people come onto the telegram chat group and they say, well, how do I, I'm trying to convince my spouse that I didn't waste my money, you know, and, and it really does work. How do I prove it to my spouse, right? And the first thing, and the common thing is like, well, just get some cut flowers. 100% of the time the cut flowers, I think that just ties right to it, right? You take cut flowers, same vase of water, split it in the two, split the flowers in the two, but take one vase and charge the water in the base."
+    },
+    {
+        "start": "00:46:02.320",
+        "end": "00:46:30.480",
+        "text": "And that, and those flowers will last longer than the other one that didn't get charged and they will wilt and die while the other ones are still vibrant. So, and we've got lots of pictures on, on, on the telegram chat group of, of just people doing that. And it's pretty cool. But yeah, so it's exactly the same thing. So, where that leads though, and this is something you've mentioned in a couple of times in a couple, a couple of your, in your interviews, I and, with other folks was you'd mentioned the term transmutation and wave form."
+    },
+    {
+        "start": "00:46:30.480",
+        "end": "00:46:58.920",
+        "text": "So is that what you're, could you kind of explain like, okay, so you take like you just said, you take vitamin C and vitamin C does X, Y, Z, right, when it goes to the body. But then you put it, you know, you expose it to quantum energy, the coin, you know, quantum upgrade or you put it in a block. And then it now expresses a different set of attributes. And you kind of alluded to the idea that the wave form or the, you know, it's transmuted. But could you kind of expand on that?"
+    },
+    {
+        "start": "00:46:58.920",
+        "end": "00:47:28.680",
+        "text": "Like, what's the actual, you know, like science mechanics going on with, you know, why is this even happening? Like how can something all of a sudden do something different that, that it's not known to do? Well, okay, so if you, the simplest way to think about it is to look at something inside a box. And I, and I always say, you know, science is point on a line. And we're, we're just trying to move the point farther into the future with, you know, better data, better testing, and then hopefully, you know, better tools over time so we can"
+    },
+    {
+        "start": "00:47:28.680",
+        "end": "00:47:56.680",
+        "text": "actually have analytical equipment to do a lot of this stuff and provide us with insights. So in this case, what I mean is fundamentally compounds are, you know, atoms, right, that have aggregated in a certain fashion. And all of those things are vibrating bits of things that come together. So there's a certain wave form that's, that's expressing itself with everything, you know, people, rocks, water, everything."
+    },
+    {
+        "start": "00:47:56.680",
+        "end": "00:48:21.320",
+        "text": "It's all things coming together that are, that are fundamentally really more vibratory in nature than, than solid, tangible things are more like vibrating energy than solid tangible things. We perceive them as solid, right? Like we, we very convincingly express solidity, but you're never actually touching anything. You're just pushing on something as electron clap out. So there's, there's just a repulsive force when you feel pressure on something. It's not actually touching you."
+    },
+    {
+        "start": "00:48:21.320",
+        "end": "00:48:48.480",
+        "text": "That said, all of those things that are expressing those, those electromagnetic forces are wave forms, very complicated wave forms, and when you expose them to quantum energy, it manipulates them and changes what's happening in a vibrational fashion, right? So the, the vibratory feel that's coming off of those things is different. Now, how, how I can say that dependably is the, the test that I just forwarded the, the"
+    },
+    {
+        "start": "00:48:48.480",
+        "end": "00:49:17.800",
+        "text": "data, the images from the data sets over to, uh, Philip. So he could descend into you, and you can, and you can actually look at them and see this. When you look at a spectral analysis of this compound, it's vitamin C, right? So we're in this case specifically, it was a squabic acid. So we're looking at this and it has one expression, which means the molecules in the configuration that we call them the squabic acid have this certain frequency and a certain potential."
+    },
+    {
+        "start": "00:49:17.800",
+        "end": "00:49:42.840",
+        "text": "We modify their exposure to a quantum field, and suddenly they no longer have the same potential. Now, structurally, it looks as if it's the same molecule, nothing has changed conformationally, it's not twisted differently, but in terms of what it's expressing when it interacts with other molecules, it's fundamentally different. So the, the component that we can alter there is something having to do with vibration and"
+    },
+    {
+        "start": "00:49:42.840",
+        "end": "00:50:08.720",
+        "text": "or spin of, of the actual subatomic particles and how those react. And the analogy that I've probably used before is if you fill a suitcase with gyroscopes and you're running down a hall and all of them are just sitting there loose, you can run and zigzag and turn left and right and do whatever you want. If however, you get all of those gyroscopes in the briefcase spinning in the same direction in the same orientation and you run down the hallway and then try and take a turn at a"
+    },
+    {
+        "start": "00:50:08.720",
+        "end": "00:50:34.960",
+        "text": "90-degree angle, you'll be lifted off of your feet because of the conservation of angular momentum that's being expressed on those gyroscopes. You can't move it that way, it simply won't function that way. And likewise, by analogy, we can say, okay, we're seeing this happen in subatomics, which is obviously cascading up to atomic things and then to molecular things because we know that it's reacting differently."
+    },
+    {
+        "start": "00:50:34.960",
+        "end": "00:51:04.400",
+        "text": "We can't really see inside of the black box just because we don't have the analytical tools to do that yet. We can just say this is the molecule, this is how it's supposed to express. Now we can say, well, this is the molecule under exposure to quantum energy, it can actually express under this condition or this condition or this condition, but they are fundamentally different than when it's not exposed to quantum energy. So again, we're still kind of taking potshots, if you will, trying to hone in what we're"
+    },
+    {
+        "start": "00:51:04.400",
+        "end": "00:51:33.360",
+        "text": "doing. We can say definitively it happens, we can repeat it every single time, we'll get the same data. But we just aren't quite fine enough, the granularity, we're not there yet. But we're close enough that we can tell you it is happening and give you some idea of how. And admittedly, I will say since she can't look the answers up on Google, this is our"
+    },
+    {
+        "start": "00:51:33.360",
+        "end": "00:51:59.920",
+        "text": "best assessment of what is transpiring. Now we're likely to not a couple hundred years or a thousand years from now, if people look back at this and they kind of say, oh, these guys were basically just on the cutting edge of something and they were playing with what is maybe equal with the magnetism, here's how it actually functions, they thought it function like this and they built all these cases that would say it can function like this, which is exactly what we're doing."
+    },
+    {
+        "start": "00:51:59.920",
+        "end": "00:52:29.720",
+        "text": "It's kind of a scientific approach to this, is we see the data, we surmise what has to happen, we do test to see if that fits the conditions, we've been doing that and it's working. So we're assuming that it's moving in one of a couple of different directions and that's why it's happening. But truly do we know, like I said, we don't have a quantumometer yet so we can't directly measure it, we can only indirectly measure it and then surmise what we think is happening based on all of the data that we get."
+    },
+    {
+        "start": "00:52:29.720",
+        "end": "00:52:53.800",
+        "text": "Yeah, just want to, yeah, absolutely, I think you're on to the right thing though when you mentioned that in an interview and I really started to try to figure out are there other people working on that. I did find a quantum engineer working at UCLA that's building technology that can try to measure some of these changes and what that person's finding is that within the exposure"
+    },
+    {
+        "start": "00:52:53.800",
+        "end": "00:53:18.280",
+        "text": "to a weak magnetic field that they're also seeing changes and transmutation of substances and how they reacted biologicals. So there's a common, there's a distinct relationship between quantum biology, we are biological and we're quantum beings and then the actual application of the quantum energy to the substances that interact with us."
+    },
+    {
+        "start": "00:53:18.280",
+        "end": "00:53:46.920",
+        "text": "And there's this other term that I discovered on the favorite term but the term called spin chemistry has come into play as well with when the electron starts spinning in a different direction or a different vibration. It changes what that atom will do and then of course the molecule itself. So yeah, it's out there but again you guys are so far ahead of the leading edge and there's very few people working on it but I think you guys are definitely on to something and"
+    },
+    {
+        "start": "00:53:46.920",
+        "end": "00:54:16.440",
+        "text": "it's going to be really exciting to see where it goes from here and you know I'm just starting with like what can it do but okay you know I forgot to ask you guys do you have a hard stop like what time like right now I got 1215 CST I mean how many more minutes do I have of your time? I can go for probably another 20 minutes okay all right you have 15 okay so we'll stop in 15 then okay thank you guys all right so I'm going to just start skipping over some of"
+    },
+    {
+        "start": "00:54:16.440",
+        "end": "00:54:43.800",
+        "text": "my questions I have so many questions for you it's such a rare treat to have you guys on the line but so let's talk about something else though in terms of frequency. This is something again that you haven't I haven't seen any studies coming out with you you know either one of you kind of I'm sure you have but you just haven't published anything but you know like can you talk about like how do frequencies play into this because it seems like all the results so far is just pure quantum energy does XYZ right all these"
+    },
+    {
+        "start": "00:54:43.800",
+        "end": "00:55:07.240",
+        "text": "different amazing things but what about the frequencies are you guys planning to do anything have you done anything like you know where does the frequencies play into this? Well I'll start with that maybe because there indeed have been studies in regards to frequencies already by the EAGUE of Institute and also by BASA specifically where they looked at the"
+    },
+    {
+        "start": "00:55:07.240",
+        "end": "00:55:36.880",
+        "text": "so-called HEAL frequency and there's just a couple of others that we've done but you're right there's there's a lot more to be done so here's how that works so all frequencies exist within the quantum field there's not a single frequency that doesn't exist within the quantum field and if we want a frequency to be transmitted whether that is through"
+    },
+    {
+        "start": "00:55:36.880",
+        "end": "00:56:03.600",
+        "text": "the quantum upgrade or you know you have a carrier like a like a card and you want want this frequency to be transmitted it needs quantum energy to do that so that's kind of like the carrier mechanism and that is the that's what I call frequency medicine right and there's other frequency medicines out there right because you know there's stuff that"
+    },
+    {
+        "start": "00:56:04.880",
+        "end": "00:56:33.920",
+        "text": "Sherri Edwards is doing for example with sound frequencies that's that's also I would also call that frequency medicine and then you have you know arrived machines and things like that it's just all they're all different mechanisms um with the frequencies if we add those we can amplify results on top of what we're seeing with just the pure quantum energy and it depends"
+    },
+    {
+        "start": "00:56:33.920",
+        "end": "00:56:55.280",
+        "text": "on the use case so what we're guessing at this point and we'll be able to validate that hopefully still this year that if we added the heal frequency to the wound healing experiment that the results will be even better that is currently our I mean we we very much believe that that is going to be"
+    },
+    {
+        "start": "00:56:55.280",
+        "end": "00:57:20.720",
+        "text": "the case and there's actually yeah not only are our so-called healers seeing that but we we even have a mutual friend a taught shipment that it may go too far to get into that but there was a very very interesting thing that that they noticed once they turn once he turned on the the heal frequency"
+    },
+    {
+        "start": "00:57:20.720",
+        "end": "00:57:48.560",
+        "text": "in the in the quantum upgrade so we're estimating that you can increase that now with something like sleep again I don't want to get into a claim and I'm not making a claim yet but the assumption right now is if you if you turn on the inner peace frequency that that it will aid you with your anxiety levels which can and should be measured in regards to the HRV and even you know sleep"
+    },
+    {
+        "start": "00:57:48.560",
+        "end": "00:58:16.560",
+        "text": "parameters so that's pretty much how that works but the thing is that we're still so early on and there's still so much that we we want to show and want to find out that we we can't we just we're probably to spread too thin in order to test all these different frequencies at the same time so what we're doing is and I think it's the right approach to figure out what can the basic"
+    },
+    {
+        "start": "00:58:16.560",
+        "end": "00:58:44.240",
+        "text": "system do and achieve and then once we have all that data you know we can gradually move into you know adding these specific frequencies and and the thing is always like we know already what those frequencies do and certainly the people also want to know like we give give them the best idea about all of that but yeah some more scientific testing I think will definitely be"
+    },
+    {
+        "start": "00:58:44.240",
+        "end": "00:59:06.480",
+        "text": "done in regards to the frequencies sure cool so Ian are you are you playing around with any of that or have you tried? No we really kind of where we are is just identifying the broad strokes now some of it obviously just because we're always tinkering with this no pun intended with deference"
+    },
+    {
+        "start": "00:59:06.480",
+        "end": "00:59:36.640",
+        "text": "to your your show one of one of the things that you can't help but notice is there there are and and of course there you know all anecdotal things and of one kind of stuff that comes through but we hear a lot of stuff and I personally know a lot of people where just like Philip was saying where they do things you know hey here's a strange effect that seems to be consistent and so those are all things that relate to specific frequencies not just exposure to an eye block or"
+    },
+    {
+        "start": "00:59:36.640",
+        "end": "01:00:04.720",
+        "text": "something like that and so yeah I'm kind of tinkering with it just on the periphery it hasn't been the focal the focal point of any of the studies or data yet and I think realistically it'll probably be the very end of this year before we really start queuing that up or kind of in one of the the repeat performances of the of the healing of the wound healing experiment where we actually do"
+    },
+    {
+        "start": "01:00:04.720",
+        "end": "01:00:31.280",
+        "text": "what Philip was just saying and we do the experiment again because you know the first three times we did that experiment it was kind of a process of refining things to isolate for variables make sure that everything was good and then continue to do it in quick group look at so we could actually see with you know have statistical error bars and really isolate all the effects and make sure that what we were seeing is what we thought we were seeing and in some cases it wasn't initially and then"
+    },
+    {
+        "start": "01:00:31.280",
+        "end": "01:00:56.400",
+        "text": "you know over time everything got really tightened up but I think we will likely do that same experiment again since we're quite adept at it now and I have everything set up you know in terms of my cross could be to track all the imagery you know because you literally take hundreds of pictures to track those to look at the growth cycles so yeah we'll likely do the experiment for wound healing"
+    },
+    {
+        "start": "01:00:56.400",
+        "end": "01:01:23.040",
+        "text": "this year towards the end of the year with with the heal frequencies and see what you know kind of what rapidity or decrease occurs from that you know or rather what increase or decrease occurs from that so okay we shall see so yeah no yeah totally uh that's kind of I think that's the interesting thing I feel like while you guys were talking I'm thinking you know if you think about the idea of transportation and spin you know electron spin you know transmutation of the"
+    },
+    {
+        "start": "01:01:23.040",
+        "end": "01:01:47.360",
+        "text": "electron spin and that's what's causing these physiological changes and when it interacts with quantum biology right what happens when you add a frequency to that do you actually then get it to transmuteate but then it entrains to the frequency it's so it's so it's kind of like transmuting even more into something completely different than just energy itself and then it creates a different effect so that might be an answer there but yeah I'm doing my own little"
+    },
+    {
+        "start": "01:01:47.360",
+        "end": "01:02:16.320",
+        "text": "experiments all the time too and I use I only work with plants I don't want to have a bunch of mice here but um it's you know I definitely want to I'm following along the same lines just doing what I can as an armchair scientist I think okay so yeah so I think that's the thing so for folks of you out there wondering how these things work it's it's all about you know I think Nikola Tesla best said at the I said at the best is I'm gonna misquote him here but I think he said if you want"
+    },
+    {
+        "start": "01:02:16.320",
+        "end": "01:02:45.840",
+        "text": "to understand the universe you have to understand vibration and frequency and I think I think he was right so there you go yeah I think he was right too yeah I mean it's like that it comes down to that right so the last set of questions before I let you guys go is the role now I know like this this has come up it was interesting though when we when you first launched the products fill up it was really focused you know there's so much attention on on the idea of intentions and consciousness and"
+    },
+    {
+        "start": "01:02:45.840",
+        "end": "01:03:14.480",
+        "text": "then then you know we've it's like three years later and and even though it's kind of talked about it's not as you know as profound as as a as a topic in the group but you know but I think for the most part nothing has changed right in terms of how our thoughts and intentions actually affect those results because I know that happens in science right I am you know that there's plenty of plenty of experience right it's like you know it depends on who does the experiment"
+    },
+    {
+        "start": "01:03:14.480",
+        "end": "01:03:39.120",
+        "text": "that comes out different because that person's mentality of the day and even like I think one I think one of you guys told me once a long time ago when you're when you're making your oh yeah Philip was you when you're making your C 60 you have to be of calm mind and mind and presence right because whatever your emotional state is is going to go into that C 60 oil and your product will not be the best it can be and I think I think that was you telling me that long time ago so I I"
+    },
+    {
+        "start": "01:03:39.120",
+        "end": "01:04:04.960",
+        "text": "know that our thoughts and our intentions are driving results so can you guys elaborate on that like like okay you know people have the upgrade especially the upgrade you know because I think it's a little different than the block because when you're using a block you're placing an intention in a block right because you've got the source of the energy right in front of you and you're putting it in we're basically at the at the headwaters right but when you've got the upgrade"
+    },
+    {
+        "start": "01:04:05.760",
+        "end": "01:04:34.400",
+        "text": "how do you use you know and energy is being sent to you from a source you know what where do thoughts and intentions play on those lines in terms of driving I try to explain so there's some things to unpack so first of all this stuff works regardless of any thoughts and intentions so you don't have to believe that it improves your blood for example it just does that but it just has a"
+    },
+    {
+        "start": "01:04:34.400",
+        "end": "01:05:01.440",
+        "text": "certain effect you know like with that apple for example that you know you don't have to think that the apple will do that and the apple will just do that anyway so so that happens however in general we know that if we think something if we have a certain intention that gets amplified it gets amplified even more when there's a strong pure quantum energy field available"
+    },
+    {
+        "start": "01:05:02.640",
+        "end": "01:05:29.360",
+        "text": "because it that's just the nature of the field right so you can further amplify the results by putting these intentions in by thinking this you know with a quantum blog or an infinity blog you know you can even put a piece of paper with that intention into the block we know that um so so I would always encourage people to to still watch their intention and to play with those because"
+    },
+    {
+        "start": "01:05:29.360",
+        "end": "01:05:58.720",
+        "text": "you can further amplify results with the quantum upgrade um you so if you have the field for you for example then at this point it's not possible to add specific intentions to that though we have the idea to actually add that so I think maybe by the end of this year we'll we'll have the opportunity that people can put in a specific intention and add it to the quantum upgrade"
+    },
+    {
+        "start": "01:05:58.720",
+        "end": "01:06:23.920",
+        "text": "which will be really cool it's basically then um an additional feature you know next to the frequencies right that you can add right now so um at this point you would just want to have these intentions internally that's the only way on how you can do it uh which is wise to do right I mean I think in life in general it's good to work with with intentions"
+    },
+    {
+        "start": "01:06:25.280",
+        "end": "01:06:51.360",
+        "text": "not so iron are you are you okay thank you Philip um okay good advice so from a science perspective iron um in terms of driving results have you actually done any have any of his studies you know utilize that as a natural as a as a variance and then if not you know what what are what are your thoughts on on doing that in term to get in best results well I think the thing again that's been"
+    },
+    {
+        "start": "01:06:51.360",
+        "end": "01:07:18.240",
+        "text": "probably the most profound to me of anything I've seen in quite a while was in in the study where we showed very clearly you know we were able to affect ATP production levels inside cells from 7,000 miles away in a double-blinded fashion the the idea that there is this underlying intelligence and connectivity that in order for a double-blinded experiment to play out the way it"
+    },
+    {
+        "start": "01:07:18.240",
+        "end": "01:07:44.000",
+        "text": "did every single time has to be there you know the the consciousness has to connect all things in all points at the base we haven't yet done anything to modulate the frequencies like I said we probably will do that with the wound healing before the end of the year to verify that and validate it but what Philip is alluding to um right now we're just showing data that says if if you're"
+    },
+    {
+        "start": "01:07:44.000",
+        "end": "01:08:09.520",
+        "text": "supported by the quantum field things function more effectively um now kind of like my analogy about you know Faraday looking at magnetism what we're playing with is we've we've identified some precepts that we can use when we structure these experiments and say okay this is what we expect will happen at this rate and we can even do an experiment with exposure to a quantum field and"
+    },
+    {
+        "start": "01:08:09.520",
+        "end": "01:08:37.440",
+        "text": "then exposure to a quantum field with a frequency added to it and isolate that data um a year ago we just didn't have the the the tool set or you know the experience of having done it failed done it got it to work done it done it again done it again done it again to uh to validate what we're seeing so we haven't done it yet we certainly will again like I said definitively before the"
+    },
+    {
+        "start": "01:08:37.440",
+        "end": "01:09:03.600",
+        "text": "end of the year I think we'll we'll have that experiment done with wound healing um to show the the relative rates um but I think sometimes we kind of miss in in my click in science uh kind of misses the the more important thing of oh my god everything is connected every thought you have and every intention you express obviously has an impact it's waveform that waveform propagates"
+    },
+    {
+        "start": "01:09:03.600",
+        "end": "01:09:29.200",
+        "text": "you know albeit at a very small level it still propagates and continues to move and send a ripple throughout everything all the time so uh the the biggest aha moon in the past year is kind of the thing that I would like to leave everybody with is we can definitively say all things are connected and the intent that you express towards something more likely than not it is translating"
+    },
+    {
+        "start": "01:09:29.200",
+        "end": "01:09:54.560",
+        "text": "as some sort of vibratory field but it's having an impact on everything else so as you move through your day and your week and your month and your year really be mindful of the idea that your thoughts and intentions are actually having an impact you may not be seeing it but they are definitively having an impact so you know be nice be kind be loving it all makes a huge difference so I will"
+    },
+    {
+        "start": "01:09:54.560",
+        "end": "01:10:24.560",
+        "text": "one aggressive answer there but I'll leave it at that yeah absolutely I think the the hippies in the 60s about good vibes were right i mean these guys invented the good vibes they do and you know how correct were they it's amazing but okay so we've got multi-dimensional things going on we've got the energy doing stuff when you add frequency on it they get even better results you add attention you get even better results and there's and we're learning as we're going and thank you"
+    },
+    {
+        "start": "01:10:24.560",
+        "end": "01:10:50.960",
+        "text": "guys so much it's just such a treat to have you two guys on so I just want to say thank you so much if you want to find uh you know we'll reach out to i and you can find him at wizardsciences.com and then you can find fill up at lay like quantum tech or quantum upgrade and again you can reach me at the tickers academy so again gentlemen thank you for your time today I really appreciate it and I think everyone's going to find this discussion quite fascinating so thank you and aloha"
+    },
+    {
+        "start": "01:10:50.960",
+        "end": "01:11:02.560",
+        "text": "thank you hey thank you thanks kay that was great all right you guys take care now great to talk to you guys all right see you guys bye see you guys aloha okay"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.960",
+        "text": " >> Hello and welcome to the first annual Dragonfly Health Innovation Awards. I am Sarah Glenn, CEO and founder of Dragonfly, and I am so excited to be here with all of you who are watching live tonight and also with those of you who are tuning in later. Dragonfly created the Health Innovation Awards to honor brands driving impactful change in"
+    },
+    {
+        "start": "00:00:25.960",
+        "end": "00:00:52.920",
+        "text": "the health care landscape by recognizing innovators, Dragonfly aims to inspire others to push boundaries, improve access, and revolutionize health care. These awards celebrate creativity, perseverance, and dedication in tackling pressing health challenges and optimizing health for the world, ultimately fostering a community committed to driving positive change in wellness."
+    },
+    {
+        "start": "00:00:52.920",
+        "end": "00:01:22.440",
+        "text": "All right, so let's jump right in. Wow, we had a tremendous response from this campaign. We ended up with 77 nominations and over 11,000 votes. So our nominations fall into five categories, and what we're going to be doing this evening is we're going to take a look at who was nominated, who made it to the final round,"
+    },
+    {
+        "start": "00:01:22.440",
+        "end": "00:01:45.560",
+        "text": "and tada, who are the winners. Okay, next category we have, mental health and well-being. The Mental Health and Wellbeing Innovation Award recognizes new therapeutic approaches and advancements in technology that address the rising mental health crisis, enhance emotional well-being, and foster resilience."
+    },
+    {
+        "start": "00:01:45.560",
+        "end": "00:02:10.160",
+        "text": "So the finalists are, since AI, the world's most complete brain training system for home use, the ultimate five-in-one enhanced neurofeedback headset and gamification app that provides users with customized pathways for better sleep, enhanced cognitive performance, elevated well-being, and advanced meditative states."
+    },
+    {
+        "start": "00:02:10.160",
+        "end": "00:02:39.280",
+        "text": "Wheel of Quantum text, heel capsule, again, has been researched and tested extensively, and this product from Wheel of Quantum contains primal human healing frequency and primal water frequency along with nutritional bio-based frequencies. It can be worn around your neck, which is nice because some of their other devices, you can only use at home. Love Life Supplements Calm is a formulation of carefully selected ingredients which can"
+    },
+    {
+        "start": "00:02:39.280",
+        "end": "00:03:08.960",
+        "text": "help relax your body and quiet your mind, leaving you feeling refreshed. And last but definitely not least, we have brain taps, headset, and app. This uses advanced brain training technology and guided visualization techniques to optimize your brain's performance. This is one of those products that I'm seeing out at a lot of conferences right now. Every time I sneak over there and I do my brain tap session because I get so busy and"
+    },
+    {
+        "start": "00:03:08.960",
+        "end": "00:03:38.840",
+        "text": "so overwhelmed by all the conversations and all of the new information and I can say firsthand that that brain tap works, so I'm not surprised that the brain tap community is stepping up and saying a big yes to brain tap. Let's find out which product in this category is the winner for this share. Congratulations to Leela Quantum Tech, heel capsule. Wow, okay, so yeah, one of the things that I will say about this, you can see those little"
+    },
+    {
+        "start": "00:03:38.840",
+        "end": "00:04:07.000",
+        "text": "pearl balls there, it is quite a divine presentation. So if you're not familiar with Leela Quantum, be sure to check this out and the heel capsule price point is relatively affordable. It makes a beautiful gift if you're looking for something interesting for your friends or family and definitely maybe something you want for yourself according to the community. There was an overwhelming number of votes for this product. I will share with you because I have all the behind the scenes scoop that this was the product"
+    },
+    {
+        "start": "00:04:07.000",
+        "end": "00:04:15.800",
+        "text": "that got the most votes out of any of the products in the whole entire contest in any category, so something big is happening there with these Leela Quantum capsules."
+    }
+]

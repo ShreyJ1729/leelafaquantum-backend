@@ -1,0 +1,850 @@
+
+[00:00:00.000 --> 00:00:09.980]   And welcome to the Tinkers Academy video, I'm your host, Kay Elmer, and in this video,
+[00:00:09.980 --> 00:00:14.080]   I've got Philip some more of on Holtzendorf of Leila Quantum Tech.
+[00:00:14.080 --> 00:00:20.040]   And he and I are both very excited about this new service that they're launching.
+[00:00:20.040 --> 00:00:23.480]   It's a separate company called Quantum Upgrade.
+[00:00:23.480 --> 00:00:26.720]   And I thought we could just get them on the line and we could just kind of talk about
+[00:00:26.720 --> 00:00:27.720]   it.
+[00:00:27.720 --> 00:00:33.180]   It's going to be officially up tomorrow, today is August 5th, 2022.
+[00:00:33.180 --> 00:00:36.640]   And tomorrow the new website for the new service will be up.
+[00:00:36.640 --> 00:00:40.280]   And I've been just kind of studying the website, all the details.
+[00:00:40.280 --> 00:00:44.760]   I've been looking at the studies that are coming out from the trial, the pilot.
+[00:00:44.760 --> 00:00:46.760]   And you know, it's quite amazing.
+[00:00:46.760 --> 00:00:48.560]   And I just really am just excited about this.
+[00:00:48.560 --> 00:00:51.440]   And I thought I'd, you know, get Philip on the line, let's talk about this.
+[00:00:51.440 --> 00:00:52.720]   So hey, Philip, good morning.
+[00:00:52.720 --> 00:00:53.720]   How are you doing?
+[00:00:53.720 --> 00:00:54.720]   Hi Kay.
+[00:00:54.720 --> 00:00:55.720]   Thanks for having me on.
+[00:00:55.720 --> 00:00:58.160]   Glad to have you back to this.
+[00:00:58.160 --> 00:00:59.160]   Yes.
+[00:00:59.160 --> 00:01:00.160]   Yes.
+[00:01:00.160 --> 00:01:06.600]   So let me, first of all, for anyone who hasn't heard of Philip before, Philip is the healer.
+[00:01:06.600 --> 00:01:07.600]   He's a healer.
+[00:01:07.600 --> 00:01:12.120]   He's a founder and owner of an operator of Leila Q Quantum Tech.
+[00:01:12.120 --> 00:01:17.400]   And before we jump into too much detail, let me just throw out the disclaimer.
+[00:01:17.400 --> 00:01:20.160]   It's our standard Leila tech disclaimer.
+[00:01:20.160 --> 00:01:24.600]   So neither Leila Quantum Tech nor the Tinkers Academy recommend or endorse any specific
+[00:01:24.600 --> 00:01:28.240]   tests, physicians, procedures, opinions, or other information that we mentioned in this
+[00:01:28.240 --> 00:01:32.680]   video, reliance on any information appearing and discussed in this video is solely at everyone's
+[00:01:32.680 --> 00:01:33.920]   own risks.
+[00:01:33.920 --> 00:01:38.560]   Statements made have not been evaluated by the EFSA or FDA or any governmental derivatives
+[00:01:38.560 --> 00:01:39.560]   thereof.
+[00:01:39.560 --> 00:01:43.320]   Leila Quantum Tech products and products that Leila Quantum Tech may represent are
+[00:01:43.320 --> 00:01:46.520]   not intended to diagnose, treat, cure, or prevent any disease.
+[00:01:46.520 --> 00:01:47.520]   All right.
+[00:01:47.520 --> 00:01:48.520]   So I'll get the official stuff out of the way.
+[00:01:48.520 --> 00:01:52.720]   But hey, Philip, let's talk about your new service.
+[00:01:52.720 --> 00:01:55.600]   First of all, this is the website.
+[00:01:55.600 --> 00:01:57.400]   It officially launches tomorrow.
+[00:01:57.400 --> 00:02:00.360]   It's called Quantum Upgrade.
+[00:02:00.360 --> 00:02:05.360]   And I think the first question that everyone's going to have is, okay, well, what is Quantum
+[00:02:05.360 --> 00:02:06.360]   Upgrade?
+[00:02:06.360 --> 00:02:07.360]   What do you mean by that?
+[00:02:07.360 --> 00:02:12.120]   Because mostly, everyone who is aware of you and the countless number of interviews
+[00:02:12.120 --> 00:02:16.560]   you've had with all these different personalities and Dave Asprey and Luke Story and all these
+[00:02:16.560 --> 00:02:21.440]   guys, you've talked a lot about your technology, but now you've got a service.
+[00:02:21.440 --> 00:02:23.360]   So why don't we just start with that?
+[00:02:23.360 --> 00:02:26.880]   What exactly is Quantum Upgrade as a service?
+[00:02:26.880 --> 00:02:27.880]   Yes.
+[00:02:27.880 --> 00:02:33.280]   And before I get there for everyone to know, so it's quantum upgrade.io.
+[00:02:33.280 --> 00:02:35.200]   It's very important.
+[00:02:35.200 --> 00:02:37.160]   It's not.com.
+[00:02:37.160 --> 00:02:42.360]   That was already taken by some business out of Puerto Rico.
+[00:02:42.360 --> 00:02:50.920]   So it's .io in the end so that not that you get distracted from something else.
+[00:02:50.920 --> 00:02:52.120]   And so what is this?
+[00:02:52.120 --> 00:03:01.120]   It's basically a quantum energy charging service on steroids and in an extremely flexible
+[00:03:01.120 --> 00:03:02.760]   manner.
+[00:03:02.760 --> 00:03:12.480]   It leverages the Leela Quantum Tech technology, but that has been optimized, upgraded and
+[00:03:12.480 --> 00:03:21.440]   worked on for a period of 12 months now, to actually make it possible to offer it in
+[00:03:21.440 --> 00:03:28.680]   this way, meaning that some people may be familiar with the block technology.
+[00:03:28.680 --> 00:03:32.320]   If you have an infinity block, then you know what I'm talking about or a quantum block
+[00:03:32.320 --> 00:03:37.720]   or travel block, that, for example, you can put your picture in, right?
+[00:03:37.720 --> 00:03:44.480]   And then there is a quantum entanglement happening and you're getting the charge of
+[00:03:44.480 --> 00:03:48.280]   that block in that moment.
+[00:03:48.280 --> 00:03:56.960]   But if you then put a picture of some random politician in there or someone else, then with
+[00:03:56.960 --> 00:04:02.840]   yourself together, then you can mingle these energies and you shouldn't do that and we
+[00:04:02.840 --> 00:04:08.120]   always recommend no one shall do that, nor us, right, obviously.
+[00:04:08.120 --> 00:04:16.400]   So we've created a technology where there is no commingling whatsoever and not even
+[00:04:16.400 --> 00:04:18.240]   in the slightest way.
+[00:04:18.240 --> 00:04:24.880]   We optimize the technology in a way where it buffers and I will get to that in a second
+[00:04:24.880 --> 00:04:33.440]   and we optimize the technology in a way where it can flexibly provide specific Hawkins levels
+[00:04:33.440 --> 00:04:36.560]   of consciousness.
+[00:04:36.560 --> 00:04:40.440]   And with the buffering mechanism, that's very important.
+[00:04:40.440 --> 00:04:46.960]   So if you, for example, select 800 on the Hawkins scale for the service that you're
+[00:04:46.960 --> 00:04:54.200]   invoking, but you're actually just able to take in 700 because you're really not used
+[00:04:54.200 --> 00:04:57.640]   to such a strong level.
+[00:04:57.640 --> 00:05:00.040]   It does not overwhelm your nervous system.
+[00:05:00.040 --> 00:05:05.600]   It doesn't overwhelm a detox reaction.
+[00:05:05.600 --> 00:05:15.120]   Detox may always happen for newcomers, but it's really in a much more harmonious way.
+[00:05:15.120 --> 00:05:25.360]   And so it basically picks up the person or the pet or whatever is being charged where
+[00:05:25.360 --> 00:05:31.680]   that object, that pet or that person is, but that is very, very critical.
+[00:05:31.680 --> 00:05:39.600]   However, then as you're using this field more and more and you're upgrading yourselves and
+[00:05:39.600 --> 00:05:45.960]   your own consciousness level increases over time, you can take in a lot more of that energy.
+[00:05:45.960 --> 00:05:52.600]   And if at some point you feel you want to have more a stronger field, you can do that.
+[00:05:52.600 --> 00:05:59.080]   And you can also, and then I'll stop talking for a moment, set up a booster, which is for
+[00:05:59.080 --> 00:06:05.800]   30 minutes, every day you can set it up or just for particular days, and you can choose
+[00:06:05.800 --> 00:06:10.440]   a much higher consciousness level on the Hawkins scale for that time, meaning that you could
+[00:06:10.440 --> 00:06:18.720]   have, let's say, a 700 on a regular basis, and you could have the booster of maybe 1,000
+[00:06:18.720 --> 00:06:22.960]   just for 30 minutes in the mornings at 9 a.m. because that's your time where you want to
+[00:06:22.960 --> 00:06:27.280]   get going and that's where you need to energy the most as an example.
+[00:06:27.280 --> 00:06:32.600]   And last but not least, you'll be able to set your time zone, like in which time zone
+[00:06:32.600 --> 00:06:37.780]   you live in or you currently are in when you're traveling, and you can set your days and night
+[00:06:37.780 --> 00:06:43.640]   times, which is important because you may want to have a lower Hawkins scale level at
+[00:06:43.640 --> 00:06:52.200]   night, let's say maybe 500 or 600, and during the day you may want to have 700 or 800, whatever
+[00:06:52.200 --> 00:06:57.160]   it may be, but it may be for you that you want to have it at night in a different way.
+[00:06:57.160 --> 00:07:03.040]   And you can set that all easily up in your account.
+[00:07:03.040 --> 00:07:08.680]   Wow, that sounds, but I can't no wonder it took you a year to build.
+[00:07:08.680 --> 00:07:14.760]   I'm just talking and I'm processing all of the different variables, and I'm like, so
+[00:07:14.760 --> 00:07:19.240]   it's basically like a block that's got little dials on it and you can just customize the
+[00:07:19.240 --> 00:07:24.080]   experience for your own, you know, for your own particular situation, right?
+[00:07:24.080 --> 00:07:26.880]   I'm just like a virtual way, right?
+[00:07:26.880 --> 00:07:32.560]   This is like a Layla block that's got dials on it that you can tune it in, all different
+[00:07:32.560 --> 00:07:36.440]   kinds of ways to kind of suit exactly what you want it to do.
+[00:07:36.440 --> 00:07:39.680]   That's how that's how that's what I'm seeing in my mind when you're talking.
+[00:07:39.680 --> 00:07:41.080]   That's pretty amazing.
+[00:07:41.080 --> 00:07:46.880]   So this is, okay, so, so, okay, so I get so many questions.
+[00:07:46.880 --> 00:07:49.760]   Let's start off with some of the stuff that you mentioned, okay?
+[00:07:49.760 --> 00:07:54.320]   I kind of was, I put together this PowerPoint after I looked at the web slides, but I hadn't
+[00:07:54.320 --> 00:07:58.700]   gotten that explanation, everybody, until just the second as Philip's been busy on vacation
+[00:07:58.700 --> 00:08:00.800]   and I've been on my own doing my own thing.
+[00:08:00.800 --> 00:08:05.600]   So we finally got together today's, you know, and talk about this for the first time together.
+[00:08:05.600 --> 00:08:12.160]   So this is actually experiencing quantum healing from a distance, right?
+[00:08:12.160 --> 00:08:16.120]   That's, that's how you can describe it.
+[00:08:16.120 --> 00:08:22.280]   And I also really liked the analogy that you just brought up with this, you know, block
+[00:08:22.280 --> 00:08:26.960]   that you can really customize and dial in, because that's, that's indeed pretty much
+[00:08:26.960 --> 00:08:29.000]   how it works.
+[00:08:29.000 --> 00:08:33.560]   And it is that this field is being made available for you.
+[00:08:33.560 --> 00:08:37.680]   I mean, if people could, for you, there's, there's these other services too that we can
+[00:08:37.680 --> 00:08:43.240]   get into where it works a little bit differently if you have a business, but you can do that
+[00:08:43.240 --> 00:08:45.600]   for, for your business actually too.
+[00:08:45.600 --> 00:08:46.600]   Okay.
+[00:08:46.600 --> 00:08:47.600]   All right.
+[00:08:47.600 --> 00:08:52.600]   So before we jump too far into the how this thing works, in terms of like how to subscribe
+[00:08:52.600 --> 00:08:57.240]   and how to sign up for the service and how the service operates, I want to caveat that
+[00:08:57.240 --> 00:08:59.120]   we're going to get into it in a little bit.
+[00:08:59.120 --> 00:09:03.560]   But that, Philip, you mentioned that you'd done, you did a, you've done studies and you
+[00:09:03.560 --> 00:09:08.840]   also did a pilot with about like 20 different people, right, using the service ahead of
+[00:09:08.840 --> 00:09:14.240]   time to kind of build out, you know, the features and kind of flush out how this thing works.
+[00:09:14.240 --> 00:09:19.640]   So I read just recently, you know, this morning's been really busy, Philip just sent the studies
+[00:09:19.640 --> 00:09:20.640]   over to me.
+[00:09:20.640 --> 00:09:24.320]   So I haven't read them page, you know, front to end, but I read the summaries and I just
+[00:09:24.320 --> 00:09:28.400]   want to point out to anyone who's just like wondering like, like, wow, you know, this,
+[00:09:28.400 --> 00:09:29.920]   this sounds pretty crazy, right?
+[00:09:29.920 --> 00:09:34.400]   I mean, it does, honestly, but I mean, I, I mean, I, we've got studies and we're going
+[00:09:34.400 --> 00:09:39.080]   to show them to you and it is unbelievable that, and this is the thing right, Philip,
+[00:09:39.080 --> 00:09:44.160]   at the end of the day, if I have a block in my home, I put my hands in the block.
+[00:09:44.160 --> 00:09:50.960]   Or the service, it's the same result, that the concept of quantum entanglement, which
+[00:09:50.960 --> 00:09:56.960]   is healing at a distance, where it doesn't matter how far away you are, that you can
+[00:09:56.960 --> 00:10:00.160]   actually experience the quantum healing.
+[00:10:00.160 --> 00:10:03.920]   And then that's what the study showed, right, because your studies are saying, hey, everything
+[00:10:03.920 --> 00:10:07.400]   that the block can do in person, it could do at a distance.
+[00:10:07.400 --> 00:10:10.400]   And we, and we can dial it into you as a person.
+[00:10:10.400 --> 00:10:14.320]   Yes, right, can you expand on that?
+[00:10:14.320 --> 00:10:19.600]   Like, you know, like, like the concept of the entanglement, I think that's the thing that
+[00:10:19.600 --> 00:10:24.560]   I mean, first of all, I think when I, when I, you know, help new members kind of understand
+[00:10:24.560 --> 00:10:28.720]   what's going on in the chat group, the first thing is, you know, they're trying to understand
+[00:10:28.720 --> 00:10:33.320]   or wrap their head around quantum healing, or just the quantum energy itself and then
+[00:10:33.320 --> 00:10:37.920]   how does that work and, and, and if I have a block or a capsule, right?
+[00:10:37.920 --> 00:10:41.320]   So they're, that's their frame of reference is that they're touching it.
+[00:10:41.320 --> 00:10:46.520]   And so they're kind of, so they first start trying to figure out how does it work.
+[00:10:46.520 --> 00:10:48.880]   And then it's all wrapped around how to touch it.
+[00:10:48.880 --> 00:10:53.360]   But then you introduce this concept that says, oh, it also works from a distance where you're
+[00:10:53.360 --> 00:10:54.880]   not even touching anything.
+[00:10:54.880 --> 00:10:59.920]   And then that just kind of just like, what, you know, it's, it's like, you know, so it's
+[00:10:59.920 --> 00:11:03.480]   really hard for a lot of folks to conceptualize quantum entanglement.
+[00:11:03.480 --> 00:11:07.800]   So let me just let you talk about that and so that you can kind of explain that, you
+[00:11:07.800 --> 00:11:12.480]   know, that all of this stuff that the website's making claims for, there are studies that
+[00:11:12.480 --> 00:11:13.480]   back it up.
+[00:11:13.480 --> 00:11:14.480]   Okay.
+[00:11:14.480 --> 00:11:15.480]   I want to put that out there.
+[00:11:15.480 --> 00:11:20.920]   But secondly, the concept, though, the concept that you could actually build an energy.
+[00:11:20.920 --> 00:11:22.960]   That's not that, you know, you're not touching.
+[00:11:22.960 --> 00:11:23.960]   Okay.
+[00:11:23.960 --> 00:11:24.960]   I'm going to let you talk.
+[00:11:24.960 --> 00:11:25.960]   Yeah.
+[00:11:25.960 --> 00:11:32.360]   So the prerequisite obviously is that you need a highly concentrated pure quantum energy
+[00:11:32.360 --> 00:11:40.400]   field if you want to somehow experience pure quantum energy over the distance.
+[00:11:40.400 --> 00:11:47.960]   Now if you have that, and if we have this field, this multidimensional quantum energy
+[00:11:47.960 --> 00:12:03.720]   space or field, and you put in an exact signal of someone or something that it, that it is
+[00:12:03.720 --> 00:12:13.600]   clear it is that object or is it's that human or it's that pet, then the quantum field provides
+[00:12:13.600 --> 00:12:21.920]   the energy as if that object that person or that pet would be literally physically in
+[00:12:21.920 --> 00:12:24.280]   that space.
+[00:12:24.280 --> 00:12:30.560]   Even though it sounds crazy, it really isn't that crazy once you understand the whole concept.
+[00:12:30.560 --> 00:12:39.600]   And if you can see energy, it's just hard because we're not used to these concepts.
+[00:12:39.600 --> 00:12:42.480]   So this signal, that is the important one.
+[00:12:42.480 --> 00:12:47.080]   So you can, you know, if you have a block, you can do that with a picture, for example.
+[00:12:47.080 --> 00:12:51.400]   If I take a picture of myself, that is a very clear signal.
+[00:12:51.400 --> 00:12:58.160]   Another clear signal could be, you know, one of my hairs as an example.
+[00:12:58.160 --> 00:13:02.800]   Another clear signal could be my full name and my birth date, right?
+[00:13:02.800 --> 00:13:09.700]   So those are very clear signals, and with the phone, for example, it could be the phone
+[00:13:09.700 --> 00:13:15.120]   number, the exact phone number, including the country code.
+[00:13:15.120 --> 00:13:21.960]   And inside this field, time and distance do not matter.
+[00:13:21.960 --> 00:13:28.080]   So as soon as you get the signal in, the field just provides the energy.
+[00:13:28.080 --> 00:13:32.880]   It's as easy as it can be for that field.
+[00:13:32.880 --> 00:13:37.800]   But for us, it's just hard to understand that that really happens.
+[00:13:37.800 --> 00:13:45.360]   And it also doesn't matter whether you're 10,000 miles away or 1,000 miles away or just
+[00:13:45.360 --> 00:13:49.040]   10 meters away.
+[00:13:49.040 --> 00:13:50.720]   There's no real difference.
+[00:13:50.720 --> 00:13:57.680]   Quantum entanglement has been proven multiple times in the lab, so that's not a new concept.
+[00:13:57.680 --> 00:14:04.960]   And it's new that you can use these applications the way that we're providing it nowadays.
+[00:14:04.960 --> 00:14:13.280]   Yeah, I mean, it is a completely new concept for people who have never experienced it.
+[00:14:13.280 --> 00:14:19.440]   But if you've experienced quantum energy, you can also experience it from a distance.
+[00:14:19.440 --> 00:14:20.920]   And that's what this service provides.
+[00:14:20.920 --> 00:14:23.400]   And I think that's pretty amazing.
+[00:14:23.400 --> 00:14:26.400]   And so there's a lot to it.
+[00:14:26.400 --> 00:14:30.680]   But at the end of the day, the claims that are made on the website have been validated
+[00:14:30.680 --> 00:14:36.000]   by an independent third party institution that's done studies on this very thing.
+[00:14:36.000 --> 00:14:37.640]   And we'll get it deeper into that.
+[00:14:37.640 --> 00:14:41.720]   But before we get into the studies, though, let's talk about, you know, people, I mean,
+[00:14:41.720 --> 00:14:43.720]   my first question was like, wow, this is really cool.
+[00:14:43.720 --> 00:14:46.760]   I get, you know, I already get it, you know, like, well, how does it work?
+[00:14:46.760 --> 00:14:50.440]   You know, so first thing I noticed was that you had different options, right?
+[00:14:50.440 --> 00:14:55.960]   So I could sign up people myself, right.
+[00:14:55.960 --> 00:15:00.920]   And then the options where you could have set it up where you could have your pet experience
+[00:15:00.920 --> 00:15:08.280]   the energy, your car, a business, cell phones, and your whole home, is that correct?
+[00:15:08.280 --> 00:15:10.960]   So these are the seats that are out there.
+[00:15:10.960 --> 00:15:11.960]   Yes.
+[00:15:11.960 --> 00:15:12.960]   Yes.
+[00:15:12.960 --> 00:15:19.040]   And there's supposed to be a bundle as well that I'm not 100% certain if that will be
+[00:15:19.040 --> 00:15:24.800]   live already tomorrow, but that's, that's the goal to have also a bundle, which would
+[00:15:24.800 --> 00:15:34.400]   be, you know, I think $70 per month and that covers pretty much all of these services.
+[00:15:34.400 --> 00:15:39.360]   So you could, you could then choose all of these services or, you know, just a subset
+[00:15:39.360 --> 00:15:41.040]   of those services.
+[00:15:41.040 --> 00:15:42.040]   Okay.
+[00:15:42.040 --> 00:15:43.520]   All right.
+[00:15:43.520 --> 00:15:49.760]   So, so if you wanted to experience quantum healing, you've got multiple different options
+[00:15:49.760 --> 00:15:55.680]   on how to experience it yourself, your pets, your car or all of it as a bundle, which that's
+[00:15:55.680 --> 00:15:58.760]   going to be presented in the website.
+[00:15:58.760 --> 00:16:03.120]   And then when you go to register, you know, I did notice that it was like a subscription,
+[00:16:03.120 --> 00:16:04.120]   right?
+[00:16:04.120 --> 00:16:08.040]   That you had this, you know, that there's a subscription that you sign up for.
+[00:16:08.040 --> 00:16:11.200]   And then one of the things though that on the subscription was, like you mentioned it
+[00:16:11.200 --> 00:16:14.000]   earlier, was this Hawkins scale.
+[00:16:14.000 --> 00:16:18.680]   And so, and you were mentioning, you know, if you could kind of explain, like when they
+[00:16:18.680 --> 00:16:23.280]   go to the register section and they say, hey, I have to pick a Hawkins scale, you kind of
+[00:16:23.280 --> 00:16:26.640]   described it earlier, but, you know, could you describe it a little bit more like so
+[00:16:26.640 --> 00:16:30.320]   people who've never even heard of this thing, like, well, you know, how do I know what, what
+[00:16:30.320 --> 00:16:32.760]   scale or what, you know, where I am on this scale?
+[00:16:32.760 --> 00:16:36.240]   I think that's going to be the first question that everybody has is like, oh, I want to
+[00:16:36.240 --> 00:16:37.240]   try it.
+[00:16:37.240 --> 00:16:39.920]   You know, by the way, there's a seven day free trial guys.
+[00:16:39.920 --> 00:16:41.840]   So go ahead and try it.
+[00:16:41.840 --> 00:16:46.480]   And then when you pick something, mostly yourself, your pet, whatever you choose that you want
+[00:16:46.480 --> 00:16:52.680]   to have experienced the quantum healing or quantum energy, when it comes to that point
+[00:16:52.680 --> 00:16:56.640]   where you have to pick a Hawking scale, Philip, when people say, well, how do I know what
+[00:16:56.640 --> 00:16:57.640]   to pick?
+[00:16:57.640 --> 00:17:04.520]   What would be your answer for that to pick on the Hawking scale, you mean?
+[00:17:04.520 --> 00:17:05.520]   Yeah.
+[00:17:05.520 --> 00:17:12.040]   When I was kind of playing around the website, there was this that you had to, if you decided
+[00:17:12.040 --> 00:17:17.720]   you wanted, let's say, pick one for my pet, my dog, and it's sign up your pet, right?
+[00:17:17.720 --> 00:17:22.720]   And this is to basically set up that signal so that the signal knows where to go.
+[00:17:22.720 --> 00:17:27.280]   The name of the pet, right, where you live, your city country, so it knows how to dial
+[00:17:27.280 --> 00:17:28.640]   in, right?
+[00:17:28.640 --> 00:17:32.560]   But then there's this Hawking scale thing.
+[00:17:32.560 --> 00:17:37.880]   Is this something they could choose exactly what the amount is or is that just for people?
+[00:17:37.880 --> 00:17:38.880]   No.
+[00:17:38.880 --> 00:17:45.840]   So you will be able to make these choices in your account, but there's a default setting
+[00:17:45.840 --> 00:17:50.560]   that we recommend for the general public, if you will.
+[00:17:50.560 --> 00:17:57.320]   And then if you are much more experienced with energy work or you can hand an infinity
+[00:17:57.320 --> 00:18:03.960]   blog and all that, then you may just want to have more energy and then you can set that.
+[00:18:03.960 --> 00:18:05.520]   That is no problem whatsoever.
+[00:18:05.520 --> 00:18:10.160]   So it's very, very flexible and you can even do it on a day by day basis if you wanted
+[00:18:10.160 --> 00:18:11.160]   to.
+[00:18:11.160 --> 00:18:14.520]   Like you can say, well, I'll just do this today and then tomorrow I'll just try a little
+[00:18:14.520 --> 00:18:15.520]   bit more.
+[00:18:15.520 --> 00:18:20.480]   That's something you can do for your pet, obviously, you know, I would really start at
+[00:18:20.480 --> 00:18:29.080]   the lower level, you know, I think we have a preset at 600 for during the day, but also
+[00:18:29.080 --> 00:18:32.200]   there you can make adjustments.
+[00:18:32.200 --> 00:18:36.920]   So we usually recommend if you don't know anything about it, just go with the default
+[00:18:36.920 --> 00:18:42.440]   settings at first and then experience and feel and then see if you would want to make
+[00:18:42.440 --> 00:18:49.440]   adjustments and you'll probably get these inputs when over time where you know, oh, okay,
+[00:18:49.440 --> 00:18:55.320]   so I really, I can start feeling this energy now I want more or I want less.
+[00:18:55.320 --> 00:18:56.880]   You'll make these adjustments.
+[00:18:56.880 --> 00:19:05.120]   So the Hawkins scale was developed by Dr. David Hawkins many years ago, who was an absolutely
+[00:19:05.120 --> 00:19:12.920]   amazing guy, actually, and he looked at consciousness levels and he developed the scale from zero
+[00:19:12.920 --> 00:19:18.040]   to one thousand, which is displayed in his book, "Pala versus Force."
+[00:19:18.040 --> 00:19:22.000]   If anyone is interested in reading the book, go ahead.
+[00:19:22.000 --> 00:19:29.000]   The audio book is probably the more convenient way of then listening to it.
+[00:19:29.000 --> 00:19:34.880]   And it explains in a very, very good way what's actually all behind it.
+[00:19:34.880 --> 00:19:43.760]   There's a lot of science behind it, frankly, and so you're talking about lower levels of
+[00:19:43.760 --> 00:19:51.080]   consciousness, for example, in the low hundreds, which is about jealousy and things like that.
+[00:19:51.080 --> 00:19:59.440]   So if you go, I think to the level of 500, everything above is considered unconditional
+[00:19:59.440 --> 00:20:08.480]   love and then it goes even further and the level 700 to 1,000 are kind of like the most
+[00:20:08.480 --> 00:20:16.360]   expansive levels of consciousness that he at the time determined to be possible here
+[00:20:16.360 --> 00:20:21.800]   on earth in a physical representation.
+[00:20:21.800 --> 00:20:30.800]   Now it doesn't mean, so if you can test your own consciousness levels too, by the way.
+[00:20:30.800 --> 00:20:38.000]   So if someone tests to be at a level of 550, that doesn't mean that all the aspects of
+[00:20:38.000 --> 00:20:42.760]   our lives are at this 550 level, right?
+[00:20:42.760 --> 00:20:49.840]   It may be that we have a certain issue with, I don't know, cats.
+[00:20:49.840 --> 00:20:55.600]   I don't know, we have very difficult encounter with cats at some point.
+[00:20:55.600 --> 00:21:02.560]   Now there's this underlying hate of cats or something, or there's a lot of fear that
+[00:21:02.560 --> 00:21:08.120]   suddenly comes up and then it puts us in states of lower consciousness, for example, that
+[00:21:08.120 --> 00:21:14.320]   is actually possible, but then in other areas, you may have much higher levels of consciousness.
+[00:21:14.320 --> 00:21:22.640]   And so if I measure my consciousness level, then it would be the combination of everything
+[00:21:22.640 --> 00:21:27.440]   that I am basically, and it's sort of the average, okay?
+[00:21:27.440 --> 00:21:45.120]   So we're able to set the level of our technology onto different levels on the Hawkins scale,
+[00:21:45.120 --> 00:21:54.080]   because that's just, the technology is so advanced that it has these fields that have
+[00:21:54.080 --> 00:22:00.560]   such a high level of consciousness that is way, way higher than the maximum that we
+[00:22:00.560 --> 00:22:07.520]   make available, so we couldn't go higher than that, but we can certainly go lower than that
+[00:22:07.520 --> 00:22:11.520]   and offer the different variations.
+[00:22:11.520 --> 00:22:17.440]   And those different variations are needed because we're all different people.
+[00:22:17.440 --> 00:22:23.480]   We all have different stories and different consciousness levels ourselves and different
+[00:22:23.480 --> 00:22:27.600]   days and things that are coming up in our lives, so we wanted to make it as flexible
+[00:22:27.600 --> 00:22:31.640]   as possible, but at the same time, it shouldn't be overwhelming.
+[00:22:31.640 --> 00:22:38.880]   That's why we have these default levels and it's something you can play with moving forward.
+[00:22:38.880 --> 00:22:41.000]   Okay, that's a great explanation.
+[00:22:41.000 --> 00:22:46.160]   I think I was looking at something that was like you could actually set it, but this makes
+[00:22:46.160 --> 00:22:47.160]   a lot more sense.
+[00:22:47.160 --> 00:22:53.120]   You can set it, like in your account, in your account, you will be able to set it, so if
+[00:22:53.120 --> 00:23:00.800]   you have a default level of 600 and then you want to take it to 700 or 800 or 900 or 500,
+[00:23:00.800 --> 00:23:01.920]   you'll be able to do it.
+[00:23:01.920 --> 00:23:08.760]   We just have boundaries, we would not be able to set it to 1000 on a regular basis, only
+[00:23:08.760 --> 00:23:17.840]   with a specific authorization by the customer service, so we make exceptions for certain
+[00:23:17.840 --> 00:23:23.280]   people if we know and they know that they can tolerate that level of energy.
+[00:23:23.280 --> 00:23:25.200]   Cool, no, that's really cool.
+[00:23:25.200 --> 00:23:31.320]   So basically, if I wanted to experience this, I could do this seven-day free trial.
+[00:23:31.320 --> 00:23:36.080]   It'd be like if for people who I guess don't have a block already or even want to just
+[00:23:36.080 --> 00:23:37.320]   try it.
+[00:23:37.320 --> 00:23:39.400]   Could you register someone else?
+[00:23:39.400 --> 00:23:43.200]   Like let's say I have a block, but I got my best friend that lives in a couple of cities
+[00:23:43.200 --> 00:23:47.960]   away and I want to gift this person quantum energy I've been putting their picture in
+[00:23:47.960 --> 00:23:51.920]   and in my own block, but could I gift that service to somebody?
+[00:23:51.920 --> 00:23:55.220]   Like sign someone else up?
+[00:23:55.220 --> 00:24:03.320]   If that someone is aware of it and wants to do it, then yes, otherwise I don't recommend
+[00:24:03.320 --> 00:24:11.320]   it really, that's your choice, but in general I would say please ask people if they want
+[00:24:11.320 --> 00:24:15.360]   to just don't just do it for them.
+[00:24:15.360 --> 00:24:22.000]   Okay, so how this works is if you're experiencing quantum energy, you choose one of your options
+[00:24:22.000 --> 00:24:27.920]   or all, then you register, it starts off at 600 on the Hawkins scale.
+[00:24:27.920 --> 00:24:32.280]   You can always increase it if you want to go to the next level.
+[00:24:32.280 --> 00:24:33.680]   So that all makes sense.
+[00:24:33.680 --> 00:24:37.680]   Now on the website, you did talk about the frequencies, right?
+[00:24:37.680 --> 00:24:42.240]   So you've got two separate things, as I always want to remind everybody that there's quantum
+[00:24:42.240 --> 00:24:45.600]   energy is one thing and frequencies is another, right?
+[00:24:45.600 --> 00:24:49.640]   And then together they even are better, they complement each other.
+[00:24:49.640 --> 00:24:54.560]   You can use the energy to send frequency, but frequencies and energy are two separate
+[00:24:54.560 --> 00:24:55.560]   things.
+[00:24:55.560 --> 00:25:00.520]   So I noticed you had this set of frequencies.
+[00:25:00.520 --> 00:25:05.440]   How do these frequencies play into the services that you're offering?
+[00:25:05.440 --> 00:25:09.400]   You know, people pets, cars, homes?
+[00:25:09.400 --> 00:25:14.400]   Do they get to select frequencies or is it built into like, hey, if I say a car, then
+[00:25:14.400 --> 00:25:19.320]   I'm automatically going to get what you have decided is best for cars, business.
+[00:25:19.320 --> 00:25:25.200]   No, there's no specific frequency whatsoever at this point that is abatable.
+[00:25:25.200 --> 00:25:33.700]   It's really pure quantum energy and with all its benefits and with the buffering, et cetera,
+[00:25:33.700 --> 00:25:34.700]   what I mentioned.
+[00:25:34.700 --> 00:25:35.700]   Okay.
+[00:25:35.700 --> 00:25:42.080]   However, in the future, there will also be specific frequencies that you can basically
+[00:25:42.080 --> 00:25:43.560]   load in.
+[00:25:43.560 --> 00:25:48.920]   So that's not available yet and I'm guessing that'll take another three months.
+[00:25:48.920 --> 00:25:52.800]   So we have the technology in the back and works already.
+[00:25:52.800 --> 00:25:58.640]   We have successfully already developed all of that, but it takes all some time to build
+[00:25:58.640 --> 00:26:01.160]   it for the front end as well.
+[00:26:01.160 --> 00:26:07.440]   And before we add those frequencies, what will come next is to actually have an app.
+[00:26:07.440 --> 00:26:13.200]   So at this point here, you can log in to my account on the website and you can change
+[00:26:13.200 --> 00:26:17.160]   all these settings in near real time.
+[00:26:17.160 --> 00:26:22.800]   And in about a month or a month and a half, you'll also have an app available for Android
+[00:26:22.800 --> 00:26:30.080]   and for iPhones where you can simply do it on your app and then it'll be even more convenient.
+[00:26:30.080 --> 00:26:35.000]   And once that's done, then we'll work on the next step that there are a few frequencies
+[00:26:35.000 --> 00:26:36.320]   that you can book in.
+[00:26:36.320 --> 00:26:41.920]   As an example, you may then want to have the inner piece frequency for the night or for
+[00:26:41.920 --> 00:26:43.880]   just one night during the week.
+[00:26:43.880 --> 00:26:49.720]   It's all something that you can set yourself in and you can select these frequencies.
+[00:26:49.720 --> 00:26:50.720]   Okay.
+[00:26:50.720 --> 00:26:51.720]   All right.
+[00:26:51.720 --> 00:26:52.720]   Okay.
+[00:26:52.720 --> 00:26:58.360]   So you can't dial in a frequency just yet and when you see these descriptions here, EMF
+[00:26:58.360 --> 00:27:03.440]   protection, ESuffering and proof focus, that's actually the result of just quantum energy
+[00:27:03.440 --> 00:27:04.440]   by itself.
+[00:27:04.440 --> 00:27:05.640]   So they're not frequencies.
+[00:27:05.640 --> 00:27:07.840]   It's literally the benefit of quantum energy.
+[00:27:07.840 --> 00:27:14.520]   And this is what has been the results of experiencing just neutral positive quantum energy.
+[00:27:14.520 --> 00:27:16.040]   So it's not a frequency.
+[00:27:16.040 --> 00:27:20.040]   So I took it like when I saw the word frequency, I thought it was a frequency for that, but
+[00:27:20.040 --> 00:27:21.960]   this is just the benefits of quantum energy.
+[00:27:21.960 --> 00:27:23.720]   So okay, I get it now.
+[00:27:23.720 --> 00:27:24.720]   All right.
+[00:27:24.720 --> 00:27:28.280]   Like I said, everybody, I just was looking at all this stuff just this week.
+[00:27:28.280 --> 00:27:31.000]   So this is my first chance to clarify with Philip what I'm reading.
+[00:27:31.000 --> 00:27:32.000]   Okay.
+[00:27:32.000 --> 00:27:33.000]   So that's really helpful.
+[00:27:33.000 --> 00:27:34.000]   Okay.
+[00:27:34.000 --> 00:27:35.440]   Now let's talk about the studies.
+[00:27:35.440 --> 00:27:40.360]   So could you, you did, you hired BESA and then you also did a pilot, right?
+[00:27:40.360 --> 00:27:41.800]   Is that kind of what you?
+[00:27:41.800 --> 00:27:47.560]   So how did you go about validating that this would even be beneficial for people?
+[00:27:47.560 --> 00:27:48.560]   Yeah.
+[00:27:48.560 --> 00:27:55.480]   So the BESA Institute already did several tests and experiments over the last 12th month,
+[00:27:55.480 --> 00:28:02.200]   basically showing the effects and what it does and that it works every time.
+[00:28:02.200 --> 00:28:09.200]   And they actually have worked with the doctors practice in Europe and are now not only just
+[00:28:09.200 --> 00:28:14.720]   doing their BESA testing, but they're also doing lifeblood analysis.
+[00:28:14.720 --> 00:28:21.580]   And we said, okay, so BESA testing is great, but we would really like to look into this
+[00:28:21.580 --> 00:28:23.760]   physical evidence.
+[00:28:23.760 --> 00:28:30.920]   And if they could run a study, a pilot study at first with four test persons, that's typically
+[00:28:30.920 --> 00:28:41.880]   what you do in order to see if there are any differences and how it works with a distant
+[00:28:41.880 --> 00:28:44.720]   charging of our service.
+[00:28:44.720 --> 00:28:49.560]   And that was randomized and completely double blind.
+[00:28:49.560 --> 00:28:56.200]   And it was amazing because in 100% of the cases, significant changes, positive changes,
+[00:28:56.200 --> 00:29:04.200]   and the blood happened in regards to the white blood cells and red blood cells all over the
+[00:29:04.200 --> 00:29:05.200]   place.
+[00:29:05.200 --> 00:29:10.800]   Literally everything that you can see under a dark field microscope improved significantly
+[00:29:10.800 --> 00:29:14.640]   in just a few minutes through this distant charging.
+[00:29:14.640 --> 00:29:20.640]   Now, even though that was happening in 100% of the cases, a study with four people isn't
+[00:29:20.640 --> 00:29:24.400]   enough to get to statistical significance.
+[00:29:24.400 --> 00:29:31.440]   So then the next step was to set up a larger study with 12 test persons, and they actually
+[00:29:31.440 --> 00:29:37.800]   had 13 in the end of the day, and then the same results happened.
+[00:29:37.800 --> 00:29:45.800]   So now that just on its own proves the absolute statistical significance.
+[00:29:45.800 --> 00:29:53.240]   The results were incredible across the board, and again, in 100% of the cases, and now it
+[00:29:53.240 --> 00:30:02.520]   was 17 out of 17 people showed significantly positive changes in their blood, white blood
+[00:30:02.520 --> 00:30:10.400]   cells, red blood cells, blood clotting reversal, and things like that across the board.
+[00:30:10.400 --> 00:30:12.240]   So it's fascinating.
+[00:30:12.240 --> 00:30:17.560]   It leaves me speechless almost every time.
+[00:30:17.560 --> 00:30:23.320]   And when the head of the BESA Institute witnessed that, that that was happening, even though
+[00:30:23.320 --> 00:30:30.360]   he knew that it would work, and it should work, and all of that, it was still, for him,
+[00:30:30.360 --> 00:30:36.160]   he cried when he was on the phone telling me about the results, because he said it's
+[00:30:36.160 --> 00:30:44.760]   just so unbelievable, so amazing to see these changes, and that it is possible that way.
+[00:30:44.760 --> 00:30:54.440]   Yeah, and that's, yeah, I gotta say, I mean, I was looking at this this morning right
+[00:30:54.440 --> 00:31:00.760]   before you jumped on the call, and I'm gonna walk everybody through this, but I just want
+[00:31:00.760 --> 00:31:06.160]   to state, this is profound, okay.
+[00:31:06.160 --> 00:31:14.320]   I'm not a young chicken, so I've been around a while, had my, had my fill of allopathy medicine
+[00:31:14.320 --> 00:31:22.000]   got into natural healing modalities, and this is, what we're talking about here is physical
+[00:31:22.000 --> 00:31:26.840]   evidence here, but I think, but before I jump into the actual results, for people who don't
+[00:31:26.840 --> 00:31:31.880]   know what BESA is, could you kind of explain what BESA is, so that people understand that
+[00:31:31.880 --> 00:31:35.800]   you didn't do these studies yourself, or hire your, you know, your brother-in-law?
+[00:31:35.800 --> 00:31:43.420]   Oh, yeah, yeah, of course, yeah, so, yeah, we wouldn't know how to run these studies,
+[00:31:43.420 --> 00:31:49.860]   first of all, and second of all, that will be just a terrible, bad practice if we did
+[00:31:49.860 --> 00:31:57.520]   this ourselves, so we hand off our products or a service that needs to be tested to institutes
+[00:31:57.520 --> 00:32:04.720]   that do that for a living, you know, that test technologies, that test people, and all
+[00:32:04.720 --> 00:32:05.720]   of that.
+[00:32:05.720 --> 00:32:12.980]   Now, the BESA Institute is the largest independent biofeedback and biosystem analysis of testing
+[00:32:12.980 --> 00:32:19.700]   and research institute in Europe, and they do these things for a living, so that's, that's
+[00:32:19.700 --> 00:32:26.160]   literally what they do, and so, and they're very, very detailed, by the way, and very,
+[00:32:26.160 --> 00:32:32.280]   very thorough, so in terms of this, this whole study also, it took them a long time to do
+[00:32:32.280 --> 00:32:37.440]   that because they didn't even want to do more than two people, because they figured, okay,
+[00:32:37.440 --> 00:32:44.140]   if we, if we do this, too much maybe, if we have been 10 people, maybe the effect on
+[00:32:44.140 --> 00:32:49.700]   the first two already affects the other one, so they wanted to completely eliminate anything
+[00:32:49.700 --> 00:32:57.240]   that could influence the results, and yeah, so they, that's what they do, and they set
+[00:32:57.240 --> 00:33:02.500]   up these studies, and all we hear about is, okay, that, you know, when is the study going
+[00:33:02.500 --> 00:33:09.100]   to start, and how many test persons, is it going to be, and what's, what's the general
+[00:33:09.100 --> 00:33:15.020]   protocol that they're going to be testing, and that's pretty much it, and then we wait,
+[00:33:15.020 --> 00:33:21.420]   and, and then we hear back, and then it's always this moment of truth, basically, and
+[00:33:21.420 --> 00:33:26.180]   getting these results back is just amazing, but yeah, that's, that's the BESA Institute,
+[00:33:26.180 --> 00:33:31.340]   they work with, yeah, they work internationally, but they're, they're well known in, in Europe.
+[00:33:31.340 --> 00:33:36.620]   Okay, so I just want to, let's just, you know, benchmark that this is a third party, independent
+[00:33:36.620 --> 00:33:41.540]   third party scientific organization that is, that's, you know, all they do is do these
+[00:33:41.540 --> 00:33:45.860]   kinds of studies, so you hire them, they do whatever they're going to do, the results
+[00:33:45.860 --> 00:33:50.060]   or whatever they are, and you have no influence on it at all, you know, I just go ahead and
+[00:33:50.060 --> 00:33:54.740]   pay a lot of money for these, these studies to be produced, and so you, in, in the Lele
+[00:33:54.740 --> 00:34:00.060]   Quantum Tech environment, all of your products have been evaluated by BESA and IGAF, and
+[00:34:00.060 --> 00:34:07.100]   all these different entities, and the validation of quantum energy and the frequency, the concept
+[00:34:07.100 --> 00:34:13.140]   of quantum healing has been validated with the physical objects, capsules, cards, you
+[00:34:13.140 --> 00:34:19.780]   know, blocks, but what makes this so profound, so unbelievably amazing to me is that you've
+[00:34:19.780 --> 00:34:27.500]   now run studies, or you had BESA run studies on the concept of quantum energy and healing
+[00:34:27.500 --> 00:34:33.940]   over distance, which is called quantum entanglement, and that here are the studies when you actually
+[00:34:33.940 --> 00:34:40.940]   applied this new quantum upgrade service to different people and what happened to them,
+[00:34:40.940 --> 00:34:45.660]   and then, and so, this is the before and after, I want to walk through this and let's talk
+[00:34:45.660 --> 00:34:51.820]   about it, but so this particular study, now there's different ways to measure the impact
+[00:34:51.820 --> 00:34:58.420]   of, of energy on a person, like whether they'd be Wi-Fi, EMF, whatever, you know, but in
+[00:34:58.420 --> 00:35:03.860]   this case, they were measuring what quantum energy does for a person, and they were looking
+[00:35:03.860 --> 00:35:09.540]   at their blood, and so this is a blood analysis called dark field microscopy, but it's not
+[00:35:09.540 --> 00:35:14.260]   just looking at the blood under a microscope, it's actually measuring the various components
+[00:35:14.260 --> 00:35:17.740]   within the blood, so I want to kind of walk through that, because this is what I read
+[00:35:17.740 --> 00:35:22.620]   this morning, and again, I just want to say how profound this is, I mean, try to imagine
+[00:35:22.620 --> 00:35:28.100]   talking to your, if you have an allopath doctor, and typical, you know, went through
+[00:35:28.100 --> 00:35:32.140]   the, you know, quote, healthcare field, which is not really healthcare, but, you know, and
+[00:35:32.140 --> 00:35:35.660]   there's like the little white coat people you see for five minutes that, you know, with
+[00:35:35.660 --> 00:35:39.740]   your health insurance from your work, okay, those are allopaths, try to, can you imagine
+[00:35:39.740 --> 00:35:46.540]   if you told them that, hey, there's a way to actually improve all of my blood, I can
+[00:35:46.540 --> 00:35:52.140]   actually improve my health when I sign up for a service, and it's all quantum energy over
+[00:35:52.140 --> 00:35:56.260]   distance, they would, you know, you just know what they would say, because they don't understand
+[00:35:56.260 --> 00:36:01.580]   it, but here you go, here's proof, and that's what, I mean, I'm just amazed, so let's start
+[00:36:01.580 --> 00:36:05.820]   off with the most important stuff is for a level set with everybody, that what these
+[00:36:05.820 --> 00:36:10.700]   studies show, now if you, if you have your own block, right, and you put a picture in
+[00:36:10.700 --> 00:36:14.780]   it, it's just, it's sort of the same concept, right, I mean, you're pretty much, you can't
+[00:36:14.780 --> 00:36:18.700]   dial in as, as well as the services, it's a kind of like an upgrade, I guess that's
+[00:36:18.700 --> 00:36:23.660]   why you called an upgrade, right, it has more features, but doing the same thing, quantum
+[00:36:23.660 --> 00:36:29.100]   entanglement, quantum healing over distance, this is what it's actually doing to your
+[00:36:29.100 --> 00:36:34.380]   blood, to the person that you're trying to help and try to heal, or the pet, and then
+[00:36:34.380 --> 00:36:37.100]   I guess we could talk a little bit more about like, I mean, what would that do to a car
+[00:36:37.100 --> 00:36:41.020]   or a business, right, but let's talk about just a person, because this is what I think
+[00:36:41.020 --> 00:36:48.060]   all of us are most adamant about is how do we help heal our pets, our family, our loved ones,
+[00:36:48.060 --> 00:36:53.100]   you know, and I think that's where we all start, I think that's the starting point
+[00:36:53.100 --> 00:36:59.580]   for everybody is helping, helping our friends and family, so the thing about analyzing blood,
+[00:36:59.580 --> 00:37:04.060]   and I just want to point out some things like any too technical, is it looks at all of these
+[00:37:04.060 --> 00:37:07.740]   different things, right, so you look at all the, I don't even get into the science of it,
+[00:37:07.740 --> 00:37:13.100]   but see, on this side is what they're measuring for, and if you read these, oh, and then by
+[00:37:13.100 --> 00:37:16.940]   the way, these studies are going to be available on the website, right, so anybody can just read
+[00:37:16.940 --> 00:37:21.340]   these, okay, so all of this is going to know, you know, full transparency, everything's going to
+[00:37:21.340 --> 00:37:25.020]   be out there, you guys can evaluate it yourself, but when you read this, this is what they're
+[00:37:25.020 --> 00:37:30.620]   measuring, and then over here is the explanation of why it's important, or what it does for you,
+[00:37:30.620 --> 00:37:35.820]   so like right here, it's like this, you know, this aspect of your blood affects your immune system,
+[00:37:35.820 --> 00:37:43.340]   this aspect of your blood affects your stress tolerance, or cellular metabolism, immune system,
+[00:37:43.340 --> 00:37:48.540]   detoxification, all this stuff, so this is why these different categories are so important,
+[00:37:48.540 --> 00:37:52.860]   because when you do a full on blood analysis, you're measuring all the different things in
+[00:37:52.860 --> 00:37:56.780]   your blood, which is, you know, that's why they call it your life blood, because your blood is
+[00:37:56.780 --> 00:38:02.140]   your, I mean, that is like literally the most important thing in your body, and it carries all
+[00:38:02.140 --> 00:38:06.220]   the oxygen and all that, it just does everything for you, right, your blood is the most important
+[00:38:06.220 --> 00:38:10.940]   thing in your body keeping you alive, and so here's all the different attributes of your blood,
+[00:38:10.940 --> 00:38:15.820]   it can determine the load on your kidneys, it can determine bacterial infections, it can
+[00:38:15.820 --> 00:38:21.580]   determine all these different things about your health, right, and so here we go, so they did a
+[00:38:21.580 --> 00:38:27.260]   full on blood analysis of all of these different attributes to determine what happened to people
+[00:38:27.260 --> 00:38:32.540]   before and after they were exposed to the quantum upgrade service, and this is some of the results,
+[00:38:32.540 --> 00:38:35.340]   and so this is all going to be there, you guys can download all this, I'm just going to walk you
+[00:38:35.340 --> 00:38:41.100]   through it, but when I first saw this Phillip, I'm just blown away, I mean, look, look at this,
+[00:38:41.100 --> 00:38:45.900]   look, look, look at the count, so here's a before, and after pro band one just means this is test
+[00:38:45.900 --> 00:38:50.780]   subject one, right, there's test subject one, pro band two is that second person, three,
+[00:38:50.780 --> 00:38:56.460]   four, these are your different people, that's what pro band means, so on the very first person,
+[00:38:56.460 --> 00:39:01.020]   right, they measured him before him or her, they don't know, right, it's just all blind,
+[00:39:01.020 --> 00:39:07.900]   and this person showed basically, right here, this is this is kind of like the bad stuff,
+[00:39:07.900 --> 00:39:12.780]   they had a money roll formation, that's when your blood clots up into little, like they call it
+[00:39:12.780 --> 00:39:17.500]   relay formations, they look like little rolls of coins, and when you do that you have really low
+[00:39:17.500 --> 00:39:23.580]   oxygen adjacent, oxygen adjacent, I never get that word right, and you have, and it's really
+[00:39:23.580 --> 00:39:27.260]   bad for you, it just means your blood's all clumped up, you're not getting enough oxygen,
+[00:39:27.260 --> 00:39:31.340]   and so forth, they look at this, I don't know how to pronounce that word count,
+[00:39:31.340 --> 00:39:39.180]   leukocyte, and then they look at the fillet information, which is it measures your oxidative
+[00:39:39.180 --> 00:39:44.620]   stress, it measures water, oxygen in the blood, and then this one here, these different colors,
+[00:39:44.620 --> 00:39:51.020]   measure the flow property of the blood, and the cell membrane vitality, all, like I said earlier,
+[00:39:51.020 --> 00:39:55.420]   you can look at the top part here, familiarize yourself with what these different things mean,
+[00:39:55.420 --> 00:40:02.140]   they all affect different parts of your health, and what happens, so before, basically the blood
+[00:40:02.140 --> 00:40:07.580]   is clumped up, and it wasn't very healthy, very low numbers on the stuff that's important,
+[00:40:07.580 --> 00:40:11.660]   so this is the stuff that's bad, these two colors here, these things right here, this is
+[00:40:11.660 --> 00:40:15.980]   important, you want that to be high, and you want these to be low, right, bottom line, if you read
+[00:40:15.980 --> 00:40:22.220]   the description, and then after they expose, so can you talk about after they were exposed, so
+[00:40:22.220 --> 00:40:26.780]   what is that like, like they sign up, so this is if a person signed up for the service, and you
+[00:40:26.780 --> 00:40:34.380]   turned it on, and this is like the next day, or is it, you know, is how, how, like what is quote after?
+[00:40:34.380 --> 00:40:43.340]   So if you use the, if you sign up for the service, then you need to go into my account,
+[00:40:43.340 --> 00:40:49.340]   and you need to select your time zone, and that's the minimum you need to do, you can then also play
+[00:40:49.340 --> 00:40:56.220]   around with the hark, and scale out of that, but at minimum you need to set your own time zone,
+[00:40:56.220 --> 00:41:03.340]   and then you click on, I think, update, and that's after clicking that, that's when the service starts,
+[00:41:03.340 --> 00:41:10.860]   and this here, yeah, and so this what you see here wasn't after a day or so, that was about,
+[00:41:11.500 --> 00:41:19.020]   I think, 10 to 15 minutes of charging, so I think it was literally just 10 minutes, and I think
+[00:41:19.020 --> 00:41:27.900]   after, yeah, 10 or 15 minutes, they took the next measurement, and yeah, they also took videos,
+[00:41:27.900 --> 00:41:35.980]   frankly, and they were able to even see how it's changing, and as soon as the energy comes in,
+[00:41:36.780 --> 00:41:46.060]   it is, it is indeed profound, and yeah, on all levels, as you said, those, those, those aspects
+[00:41:46.060 --> 00:41:51.980]   changed and improved, like the money rolls, for example, or you can call it blood clotting,
+[00:41:51.980 --> 00:41:59.340]   but then again, which was interesting because we know people have that have followed that in the
+[00:41:59.340 --> 00:42:05.340]   past, Dr. Rubik in the US was the first one to actually tell us that the white blood cell
+[00:42:05.340 --> 00:42:11.500]   mortality and activity also improved significantly, because that's one of those things that happened
+[00:42:11.500 --> 00:42:17.900]   with EMF, that your white blood cells, which are directly linked to your immune system,
+[00:42:17.900 --> 00:42:27.500]   they get paralyzed, and so if, so then they are inactive, and so the, the energy was able to,
+[00:42:27.500 --> 00:42:32.300]   to make them active again, and increase this activity and mortality, and this happened here too,
+[00:42:32.300 --> 00:42:38.700]   so they specifically looked at that as well, which is, which is profound, because that's what you're
+[00:42:38.700 --> 00:42:43.340]   looking at, if you want to be healthy, you, you want to have a healthy immune system, it's not really
+[00:42:43.340 --> 00:42:50.220]   going to happen without a healthy immune system. Right, so what's, okay, so after like roughly 15
+[00:42:50.220 --> 00:42:56.300]   minutes, this person's blood analysis, and there's two different sets of documents, you can actually
+[00:42:56.300 --> 00:43:01.980]   look at the actual study themselves, this right here is literally just a summary, but these graphs
+[00:43:01.980 --> 00:43:06.220]   are actually present within the studies themselves, I encourage everyone to read this,
+[00:43:06.220 --> 00:43:11.340]   I mean, this is an investment in your health, and I encourage everybody to kind of understand,
+[00:43:11.340 --> 00:43:16.780]   you know, what that value of that investment is, but here, this is, this is the first person,
+[00:43:16.780 --> 00:43:23.180]   immediately his blood turns from being kind of clotted, and, and, and basically, you know,
+[00:43:23.180 --> 00:43:27.340]   barely doing what it's supposed to do to, all of a sudden, boom, it's open, it's free,
+[00:43:27.340 --> 00:43:32.620]   the oxygen's flowing, the membrane valve, you know, it's, everything's just immediately better
+[00:43:32.620 --> 00:43:37.740]   after 15 minutes, and this is quantum entanglement, this is not, he's not touching anything, he's just,
+[00:43:37.740 --> 00:43:43.340]   this is just in a room, and somewhere far away, they're, they're, they're, they're sending him
+[00:43:43.340 --> 00:43:49.500]   quantum healing. So here's another person, ProVant 2, same thing, really highly clotted, really low
+[00:43:49.500 --> 00:43:54.300]   performance on blood performance, I'll just call it that, and then all of a sudden, you know,
+[00:43:54.300 --> 00:43:59.100]   this guy doesn't go to zero, but is, but the negative aspects of the blood drop,
+[00:43:59.100 --> 00:44:06.300]   and the positive aspects of the, of the blood go up, and then, again, another one, where basically
+[00:44:06.300 --> 00:44:10.540]   the negative positive, and then the negatives go down, the positives go up, and on this
+[00:44:10.540 --> 00:44:17.020]   isn't like you were saying, right, all 17 subjects, this was 100% of them experienced positive benefits,
+[00:44:17.020 --> 00:44:23.980]   right? Yes, that is correct, 100%. So every single one of these persons, so this was what,
+[00:44:23.980 --> 00:44:28.940]   this one here right now, ProVant 4 is interesting, because I noticed that this was the first one,
+[00:44:28.940 --> 00:44:33.980]   that actually, they measured the parasitic load, okay, and that's kind of an extra attribute that
+[00:44:33.980 --> 00:44:40.220]   I didn't see in the other ProVans, and so here's something that, this is mind-blowing, okay,
+[00:44:40.220 --> 00:44:46.700]   but here you go, this is the parasitic load, and it goes from a 7, right, in the, in the blood
+[00:44:46.700 --> 00:44:53.340]   analysis, and it drops to 2, okay, that's literally like 300% decrease, almost, right, so I'm doing
+[00:44:53.340 --> 00:44:58.300]   math in my head, but look at the decrease in parasitic load, and so for everybody, and this,
+[00:44:58.300 --> 00:45:03.580]   this kind of goes back in time, right, because how many people have experienced Leyla, you know,
+[00:45:03.580 --> 00:45:09.500]   quantum energy, and then said, and some, and not, not, not, not all of them, but there's been several
+[00:45:09.500 --> 00:45:14.300]   people over like the last couple years that I've been doing this with you, where they report that,
+[00:45:14.300 --> 00:45:20.060]   hey, you know, they don't, it's like they, they feel like a little nauseous sometimes, or they feel
+[00:45:20.060 --> 00:45:24.380]   a little queasy, or it's like, or they, you know, they kind of get exposed to it, and then they got
+[00:45:24.380 --> 00:45:29.180]   to take, like a capsule with the five spheres, they try all five, it makes them feel a little weird,
+[00:45:29.180 --> 00:45:32.940]   so they take, we tell them, hey, take, take the capsule, you know, that the spheres out, and just
+[00:45:32.940 --> 00:45:39.420]   start with the empty capsule, or just one sphere, right, which is the same concept of quantum energy
+[00:45:39.420 --> 00:45:44.700]   on a Hawkins scale, right, is that in terms of amount of energy coming to them, but this is it,
+[00:45:44.700 --> 00:45:50.220]   right here, this is where the science comes in. Bottom line is quantum energy is decreasing,
+[00:45:50.220 --> 00:45:56.380]   it's improving your blood, so that it, the blood's flowing better, and it's, it's basically detoxing
+[00:45:56.380 --> 00:46:01.740]   you, and it reduces your parasitic load, because your body's able to flush it out faster and better,
+[00:46:01.740 --> 00:46:06.380]   and that's why people, and so this is this, all of a sudden the light bulb went off in my head,
+[00:46:06.380 --> 00:46:10.860]   when I read this page, and I realized, ah, that's why people are having those experiences,
+[00:46:12.220 --> 00:46:17.180]   because I never considered once for that quantum energy could reduce a parasitic load, but it makes
+[00:46:17.180 --> 00:46:22.700]   sense that if it improves your blood, your blood's, you're basically, how your, your blood is the
+[00:46:22.700 --> 00:46:28.620]   process by which you haul out all your pathogens, you know, and your, and your digestive system,
+[00:46:28.620 --> 00:46:32.860]   right, but your blood is one, if it's anything in your blood, it needs to be moving quickly and,
+[00:46:32.860 --> 00:46:37.580]   and functioning really high, ah, to eliminate all those pathogens, molds, fungus,
+[00:46:37.580 --> 00:46:42.700]   bacterias, and viruses in your bloodstream, there you go, it's just, this, this, I mean,
+[00:46:42.700 --> 00:46:47.660]   can you, did you notice this, or did you guys talk about this at Baysa, what did they say about this,
+[00:46:47.660 --> 00:46:52.300]   because this is, this is new, you never ever did a parasitic load study, I just, you know,
+[00:46:52.300 --> 00:46:57.500]   that is, that is correct, and it's, ah, I'm grateful that they did it, and
+[00:46:57.500 --> 00:47:06.300]   indeed, if you, if you think about it, this is, um, this, this is very, very profound, because
+[00:47:06.300 --> 00:47:10.140]   also people need to understand that we're, like you said before, the blood is,
+[00:47:10.140 --> 00:47:16.940]   I mean, the blood is within us, right, and the blood is pretty much everywhere, and if it's,
+[00:47:16.940 --> 00:47:24.620]   if it's in bad shape, we're in bad shape, so it could not be underestimated to look at a healthy
+[00:47:24.620 --> 00:47:35.660]   blood, um, and, and get it to that point. Now, there's, yeah, it's, it's, it's just, um, mind blowing,
+[00:47:35.660 --> 00:47:40.940]   I don't even know what else to add, ah, at this point, because, ah, it really works on all of
+[00:47:40.940 --> 00:47:49.740]   those levels, and, yeah, yeah, still speechless sometimes. Yeah, this one's really, this one right
+[00:47:49.740 --> 00:47:55.580]   here, Probound 4 is very fascinating, because they have like the, the positive markers, they're,
+[00:47:55.580 --> 00:48:00.700]   they're like, it's really weird, everybody else is like really high, bad stuff, low good stuff,
+[00:48:00.700 --> 00:48:05.260]   but this guy is high, good stuff, and bad stuff, right, and then he switches over to,
+[00:48:05.260 --> 00:48:09.820]   all of a sudden his blood starts flowing really, really high. It's like eight times what it was
+[00:48:09.820 --> 00:48:14.940]   before, and his good stuff kind of goes down a little bit, but then his bad stuff just goes down
+[00:48:14.940 --> 00:48:20.540]   too. So, yeah, this was really weird, but it's definitely a, an official positive effect,
+[00:48:20.540 --> 00:48:27.980]   especially on this acidic load thing is for people to, to understand. So it's the, the quantum energy
+[00:48:29.820 --> 00:48:36.860]   is providing the possibility for the body to initiate these changes, because in the end of the day,
+[00:48:36.860 --> 00:48:44.780]   it's your body that kicks in suddenly into the self healing mode, right, and into the mode of
+[00:48:44.780 --> 00:48:51.580]   really pushing through, but because of all the exposure that we have throughout the day and
+[00:48:51.580 --> 00:48:56.940]   throughout our lives, frankly, with bad air, bad food, and the emf soup we live in, and,
+[00:48:56.940 --> 00:49:01.820]   and other stress, frankly, right, you know, we need to pay our bills and, I don't know, you know,
+[00:49:01.820 --> 00:49:07.180]   our kid head and accidents, all these stressors that always, you know, as soon as these stressors
+[00:49:07.180 --> 00:49:14.060]   come in, we can operate and function a little bit less, and then, you know, the body is constantly
+[00:49:14.060 --> 00:49:22.220]   just playing catch up, and so what happens is if you're getting this increased level on the
+[00:49:22.220 --> 00:49:27.980]   Hawkins scale or increased quantum energy field that you then have available, it's almost as if it's
+[00:49:27.980 --> 00:49:34.620]   this, your battery can recharge and you're tapping into this extra load and you're taking that and
+[00:49:34.620 --> 00:49:41.740]   your body is taking these actions suddenly that it's otherwise not really able to do. That is what's
+[00:49:41.740 --> 00:49:47.740]   happening. So the energy itself doesn't just do all these things on its own. It's really
+[00:49:48.700 --> 00:49:56.620]   providing it for your body to get into this gear of now I can take this on and I can take that on,
+[00:49:56.620 --> 00:50:02.380]   and obviously, you know, if you do that on a longer term basis, there's much more than you can achieve,
+[00:50:02.380 --> 00:50:07.020]   but it's it's absolutely profound that you can see something like this here already happening
+[00:50:07.020 --> 00:50:13.660]   within 10 to 15 minutes. Yeah, I don't want to beat this up too much because people can read it,
+[00:50:13.660 --> 00:50:18.620]   and but here's I just want to point out one more person and then they in the test, but this person
+[00:50:18.620 --> 00:50:23.740]   came in high triglycerides and for those of you guys watching your cholesterol, that's what they
+[00:50:23.740 --> 00:50:29.500]   look at, right? So this guy's got high cholesterol, he's got blood clotting, he's got signs of inflammation
+[00:50:29.500 --> 00:50:35.020]   and allergies, he's got protein clumping, kidney stress, I mean, this is not a very healthy person,
+[00:50:35.020 --> 00:50:41.660]   and then boom, soon as he experiences quantum energy, his blood starts to flow, all of his stress
+[00:50:41.660 --> 00:50:46.220]   indicators are down. So these just make a note that when you're reading this that the attribute
+[00:50:46.220 --> 00:50:51.180]   that they're measuring changes by person, right? So they're measuring different things for different
+[00:50:51.180 --> 00:50:56.780]   people just to see what's changing. And you can see it's just unbelievable improvement by all of
+[00:50:56.780 --> 00:51:01.980]   these markers going down, because all these markers are negative markers, right? So keep an eye out
+[00:51:01.980 --> 00:51:06.700]   for what they're actually measuring. So it's not always from, you know, from frame to frame to frame,
+[00:51:06.700 --> 00:51:10.860]   it's not consistent as to what they're measuring. So you have to kind of make sure you read,
+[00:51:10.860 --> 00:51:14.060]   because when I saw this, I'm like, why do they all go down? I'm like, oh, because they're all bad,
+[00:51:14.060 --> 00:51:20.140]   and then they all got much better. But try to imagine those of you watching your cholesterol,
+[00:51:20.140 --> 00:51:25.820]   and it goes from a, what is that, the yellow one, a seven, right? It goes from a seven to a one,
+[00:51:25.820 --> 00:51:33.100]   after 15 minutes, that's decreasing the cholesterol. Amazing stuff. So let me jump back, and again,
+[00:51:33.100 --> 00:51:37.740]   all of this will be on the website, but, you know, it's the proofs in the pudding. This is it.
+[00:51:37.740 --> 00:51:41.820]   These are the studies that validate the claims on the website.
+[00:51:41.820 --> 00:51:48.380]   So let's talk about the website in terms of like, okay, well, now that you're, we kind of like
+[00:51:48.380 --> 00:51:55.900]   talked about the amazing, you know, validation of quantum healing for people, pets, living things,
+[00:51:55.900 --> 00:52:02.220]   right? But what about like, how does that would, how would that even apply to a car,
+[00:52:03.260 --> 00:52:07.180]   or, or like, here's your, here's your choices, right? Here's, so I'm just kind of like,
+[00:52:07.180 --> 00:52:12.460]   could you kind of explain like, okay, well, we just, we just walk through exactly what this does,
+[00:52:12.460 --> 00:52:18.060]   how it helps living creatures. And I'm assuming it's going to help plants the same way because
+[00:52:18.060 --> 00:52:23.740]   plants have their own way of doing things, but plants obviously have lifeblood as well.
+[00:52:23.740 --> 00:52:29.100]   It's not blood, I guess it's called. Yes, and if you, if you pick the service for your home,
+[00:52:29.100 --> 00:52:35.100]   for example, and you explain that the plants you have in your home will benefit from that energy,
+[00:52:35.100 --> 00:52:42.860]   because the difference then, which if you do it for yourself, then literally you have this energy
+[00:52:42.860 --> 00:52:50.940]   field available at all times that you have this on. And if you have it in just in your home and
+[00:52:50.940 --> 00:52:57.740]   not for yourself, then it's you're still always in your energy without this additional boost,
+[00:52:57.740 --> 00:53:03.260]   but in your home itself, you'll have more energy available and that, that applies to
+[00:53:03.260 --> 00:53:13.980]   plants as well, obviously. And, and with a car, certainly the goal is not to improve the car. I
+[00:53:13.980 --> 00:53:20.060]   mean, maybe there's something there that we're not aware, right, that maybe, maybe there's
+[00:53:20.060 --> 00:53:26.140]   more optimal oil function or something like that. That's certainly possible. That's not at all
+[00:53:26.140 --> 00:53:32.540]   the goal. The goal here right now is, if you have your car charged, that when you're in it,
+[00:53:32.540 --> 00:53:40.460]   you're in a, in a positive quantum energy field, that all the EMF in your car are neutralized and
+[00:53:40.460 --> 00:53:47.660]   harmonized. And yeah, that you have that energy available while you and someone else are in your
+[00:53:47.660 --> 00:53:53.020]   car. That's the idea about it. Okay, same thing with the phone pretty much. And the phone,
+[00:53:53.020 --> 00:54:01.020]   we actually tested has quite a radius, actually, once you, once you set the service. And wherever
+[00:54:01.020 --> 00:54:09.340]   you take that phone, that phone actually radiates a field. And all the EMF issues that you would
+[00:54:09.340 --> 00:54:17.580]   have otherwise are non-existent as long as your phone is in that field. Okay. Okay, so then,
+[00:54:17.580 --> 00:54:22.540]   that's great. That's a good explanation. Now, I kind of understand how quantum energy benefits
+[00:54:22.540 --> 00:54:28.940]   cars and phones. It's from an EMF and positive, positive energy field. What about business? I mean,
+[00:54:28.940 --> 00:54:33.020]   how would you describe to someone like, what this service could do for your business? Like,
+[00:54:33.020 --> 00:54:41.740]   if I sign up for my business, positive energy in my office, how does that translate to like,
+[00:54:41.740 --> 00:54:45.260]   results or what they would expect or what they would like to see?
+[00:54:47.020 --> 00:54:54.860]   Yes, it's so the service for the business supports the business energetically on all levels.
+[00:54:54.860 --> 00:55:02.620]   And it's a little bit hard to explain because there's so many aspects to it. And it's sometimes
+[00:55:02.620 --> 00:55:06.620]   difficult to put it in words. But it has an impact on
+[00:55:10.060 --> 00:55:20.140]   everything you're doing on your staff, your whole leadership. Let's imagine a company with 100
+[00:55:20.140 --> 00:55:25.180]   people that work there, right? And they may be in different places. So it's an organization.
+[00:55:25.180 --> 00:55:31.500]   You can look at it as an energetic bundle of energy, right? This entity that has.
+[00:55:31.500 --> 00:55:37.180]   Yeah, exactly. Like suppliers, they have customers, and then they have these employees that are at
+[00:55:37.180 --> 00:55:43.500]   the heart and the core of the company. And then you may have some people in there that are
+[00:55:43.500 --> 00:55:50.540]   working against the company, or they're just there to get paid. And they don't really support
+[00:55:50.540 --> 00:55:57.740]   from within the company's vision and all of that. So as soon as this energy comes in,
+[00:55:57.740 --> 00:56:04.220]   more of these things become very visible and obvious. And it can happen relatively quickly,
+[00:56:04.220 --> 00:56:11.340]   actually, that such people kind of move themselves out or expose themselves in another way,
+[00:56:11.340 --> 00:56:19.260]   or they get a job offer somewhere else, suddenly, just so that if they don't fit into this organism,
+[00:56:19.260 --> 00:56:24.700]   because remember what quantum energy does is pure quantum energy in this high consciousness field,
+[00:56:24.700 --> 00:56:33.740]   it helps that everything can be in its optimal form, right? And if there's something that is
+[00:56:33.740 --> 00:56:39.820]   parasitic, for example, like these employees that work against the company and not for the
+[00:56:39.820 --> 00:56:44.540]   vision of all of that, you can view them as parasitic with the energy of using it as parasitic.
+[00:56:44.540 --> 00:56:50.060]   So they get, there's at some point, no chance anymore for them to stay. They'll just be moved
+[00:56:50.060 --> 00:56:55.580]   out one way or another. And suddenly, you may find, oh, wow, you know, you wanted, and we already
+[00:56:55.580 --> 00:57:03.180]   had that, actually, in the test with a couple of companies. One of them was, it's actually pretty
+[00:57:03.180 --> 00:57:09.100]   famous guy. I can't mention him, though, because he needs to stay anonymous. But they've been looking
+[00:57:09.100 --> 00:57:16.700]   for a new employee for months for a specific role and couldn't find anyone, right? Not even close,
+[00:57:16.700 --> 00:57:22.860]   right? There was just no one there. And then they turned the service on, and within one week,
+[00:57:22.860 --> 00:57:28.940]   suddenly, there was someone reaching out to them, and they were like, wow, this is exactly what
+[00:57:28.940 --> 00:57:34.220]   you're looking for. They had an interview. It was just the perfect fit. And there you go, there was
+[00:57:34.220 --> 00:57:39.500]   this person. And at the same time, two other people actually moved out of the company through
+[00:57:39.500 --> 00:57:45.180]   different reasons, right? You know, you can always find a reason in the autowell, too. But these
+[00:57:45.180 --> 00:57:56.140]   things are triggered. And so if you look at it really as this, what's the potential for a company,
+[00:57:56.140 --> 00:58:05.740]   really? And we must say also, this is not to support evil doings, right? Or manipulation.
+[00:58:05.740 --> 00:58:15.180]   So if there's a company out there that works to rip off their customers, or it's just doing
+[00:58:15.180 --> 00:58:21.260]   bad business practices, those are not going to be supported because the quantum energy field
+[00:58:21.260 --> 00:58:28.060]   doesn't support such things. It really doesn't. It's going to make an effort to change these
+[00:58:28.060 --> 00:58:36.060]   things. So rather, I would say that this service here is rather for conscious companies, or for
+[00:58:36.060 --> 00:58:44.140]   companies that want to move into being a more conscious company. Because you want to work from
+[00:58:44.140 --> 00:58:47.900]   your heart, and you want to try to do good things. And yes, companies need to make money,
+[00:58:47.900 --> 00:58:51.500]   because if you don't make money, you can't pay your employees, you can't exist, you can't
+[00:58:51.500 --> 00:58:58.140]   develop your products and services for this. So that's all great, right? But if there's a good
+[00:58:58.140 --> 00:59:04.860]   intention behind it, all of that gets supported. If you have bad intentions somewhere, those things
+[00:59:04.860 --> 00:59:10.540]   will surface and they'll come up. So that's pretty much how it works.
+[00:59:10.540 --> 00:59:14.620]   That's amazing. Okay, that's a great explanation. I totally get it. It's all about harmonization.
+[00:59:15.980 --> 00:59:20.220]   And essentially, in training, in training to the positive energy.
+[00:59:20.220 --> 00:59:28.700]   So yeah, you're right. There is a reducer, parasitic load aspect as well. But for a whole
+[00:59:28.700 --> 00:59:35.020]   different viewpoint, that's interesting. Okay, so thank you for explaining that. So we talked
+[00:59:35.020 --> 00:59:41.260]   about the studies, how to go ahead and register, and how the system works. But I think the last
+[00:59:41.260 --> 00:59:45.660]   thing, I just wanted to cover a few questions that I had, that I know people would kind of
+[00:59:45.660 --> 00:59:49.980]   ask to kind of wrap this up. And I just want to say, again, thank you for your time this morning.
+[00:59:49.980 --> 00:59:54.460]   I know you've got a hard stop here in a few minutes. So I just wanted to ask some questions.
+[00:59:54.460 --> 00:59:59.660]   And again, everybody, you know, about our telegram chat group. So if you have questions about
+[00:59:59.660 --> 01:00:05.660]   the new service, we're using the same telegram chat group. We're not going to have a second one
+[01:00:05.660 --> 01:00:12.940]   or anything. Same one. I don't think we're going to, we can probably talk about it. But
+[01:00:12.940 --> 01:00:19.820]   the idea was to either have no chat group or have a separate chat group. And we actually
+[01:00:19.820 --> 01:00:27.260]   have a small chat group already, because we had this, you know, we had two 20 to 30 people that
+[01:00:27.260 --> 01:00:33.020]   had tried the service already. And we set up a chat group and actually it seemed to be beneficial
+[01:00:33.020 --> 01:00:38.780]   for people. So yeah, tell me what you think. Obviously, I'm happy to do that offline as well.
+[01:00:38.780 --> 01:00:43.020]   Yeah, let's let's ask the folks, because we have the pilot group has a separate chat group. And
+[01:00:43.020 --> 01:00:48.700]   let's ask them, because you know that right now there's 5,000 folks or plus or 5,100 members,
+[01:00:48.700 --> 01:00:56.300]   Leila Quantum Tech. And it's all about, you know, the products and using them. And I think that
+[01:00:56.300 --> 01:01:00.700]   anyone who's jumping in that wants to talk about the service, it might, I don't know, I want to
+[01:01:00.700 --> 01:01:05.580]   make sure everyone gets their questions addressed as best as we can. And I don't want anyone to
+[01:01:05.580 --> 01:01:10.220]   get lost in the shuffle, because we're, you know, someone's talking about a device versus someone's
+[01:01:10.220 --> 01:01:16.460]   talking about the service. So yeah, there is two chat groups right now. And so we'll go ahead and
+[01:01:16.460 --> 01:01:20.620]   we'll figure that one out. But I just want to make sure everyone's aware that, you know, that the
+[01:01:20.620 --> 01:01:26.060]   whole idea is on topic, right? You want people to be talking about, you know, and they got questions
+[01:01:26.060 --> 01:01:30.220]   about the service. We don't want them to get weeded out because there's, you know, 3000 people
+[01:01:30.220 --> 01:01:35.660]   asking about devices. So, okay. Yeah, that's been my understanding so far as well that we don't
+[01:01:35.660 --> 01:01:41.820]   combine these these groups. Okay, so do okay, we'll figure out what to do about that later,
+[01:01:41.820 --> 01:01:47.020]   everybody. Okay, so I'll send you the link, I'll send you the invite link to the other group. And
+[01:01:47.020 --> 01:01:51.980]   then we'll just see, you know, if it if it makes sense so far, it's been beneficial because people
+[01:01:51.980 --> 01:01:59.820]   did indeed have questions. And yes, it's more to manage, but as long as it's beneficial.
+[01:01:59.820 --> 01:02:07.180]   You need more amas. You need to clone Emma, you need about six of them. Emma one, Emma two.
+[01:02:07.180 --> 01:02:13.340]   Okay, so now some quick questions here is where I've been throwing these questions. And as we're
+[01:02:13.340 --> 01:02:18.540]   talking, so we did talk about choosing the right Hawkins level for me. And I guess at the end of
+[01:02:18.540 --> 01:02:23.340]   the day, you know, if you've tried it for, I would say how many days would you recommend someone try
+[01:02:23.340 --> 01:02:28.540]   it before they start, you know, increasing the Hawkins level, which is, I would think that people
+[01:02:28.540 --> 01:02:32.700]   would just give it a week. And if you're not really feeling anything, then you know, then boost it
+[01:02:32.700 --> 01:02:38.940]   up a bit. Would that be a kind of a good response? Yeah, it probably depends a little bit on how
+[01:02:38.940 --> 01:02:44.460]   experienced you are with these things and how sensitive you are to your own inner world. You
+[01:02:44.460 --> 01:02:49.580]   know, can you can you feel energy shifts really easily? Or do you have a hard time? And so
+[01:02:49.580 --> 01:02:54.940]   for some people already after a day, that may be possible. And some people, it may take three or
+[01:02:54.940 --> 01:03:00.860]   four days or like you said seven days. So it really depends. So just put yourself into a category,
+[01:03:00.860 --> 01:03:07.180]   total newbie to all of this or quite experienced and very sensitive, and then go from there and
+[01:03:07.180 --> 01:03:12.700]   just feel. Yeah, use your intuition, but then also take your time, everybody, a lot of this
+[01:03:12.700 --> 01:03:17.820]   quantum energy stuff is so subtle that you don't even notice it's doing anything until time has
+[01:03:17.820 --> 01:03:22.540]   passed and you need to look backwards in time and go, wow, those are a couple amazing months,
+[01:03:22.540 --> 01:03:26.940]   you know, and then you didn't realize that they were amazing months while they were happening
+[01:03:26.940 --> 01:03:31.740]   and that they were different from the months before. So it does take some time and it's very
+[01:03:31.740 --> 01:03:37.900]   subtle, but as you can see, you know, the studies show it's doing something. It's definitely
+[01:03:37.900 --> 01:03:44.060]   improving things about you. So give it some time and use your intuition. We talked about the
+[01:03:44.060 --> 01:03:50.140]   frequencies. Now we talked about does the field run. So you were, okay, so when I sign up for the
+[01:03:50.140 --> 01:03:55.900]   service and I click, okay, start, does the field just set up and then it just stays that way for
+[01:03:55.900 --> 01:04:04.460]   24/7? Correct. Yeah, with the caveat though, that you are able and we also recommend that to
+[01:04:04.460 --> 01:04:11.580]   select, you know, what you want to have for your nighttime and we, you know, if you sleep in your
+[01:04:11.580 --> 01:04:15.820]   nighttime, obviously it's different. If you're working night shifts, then, you know, you'll set
+[01:04:15.820 --> 01:04:21.340]   that as your daytime or vice versa. And you can have these different levels and then you can set
+[01:04:21.340 --> 01:04:27.660]   your booster if you like to. So, but yeah, that then automatically runs and then your booster,
+[01:04:27.660 --> 01:04:32.540]   you don't need to do anything if it's set. Then if it's set for 9 a.m. in the morning or 8 a.m.
+[01:04:32.540 --> 01:04:38.060]   It'll turn on right at that time in your time zone. And then after 30 minutes,
+[01:04:38.060 --> 01:04:44.940]   it's going to get back to your default setting. Okay. All right. Perfect. Now, what if I already
+[01:04:44.940 --> 01:04:51.980]   have a LeleQ card? I'm wearing a heel capsule or I own a block. Would this service be even
+[01:04:51.980 --> 01:04:57.740]   applicable to me since I already have that stuff? Or what's your recommendation or would it interfere?
+[01:04:57.740 --> 01:05:04.540]   Yeah. So, I'm having a hard time obviously making a recommendation for people that have a
+[01:05:04.540 --> 01:05:09.900]   blog. I don't want to sell them anything in addition. That's really not what it's about.
+[01:05:10.620 --> 01:05:16.780]   But yeah, there are benefits and it depends on what for, right? So, if you have a business,
+[01:05:16.780 --> 01:05:24.060]   for example, then this would be something that you couldn't really do in this way with your blog.
+[01:05:24.060 --> 01:05:35.340]   Also, the coverage for specific things. I mean, the energy is more advanced. You can get to
+[01:05:35.340 --> 01:05:40.540]   different consciousness levels that way. And through the buffering mechanism, it's something
+[01:05:40.540 --> 01:05:47.100]   that you can't do with your blog at home at this point. So, meaning that if I have an infinity
+[01:05:47.100 --> 01:05:53.660]   blog or an upgraded infinity blog, I couldn't possibly, you know, usually leave the picture of
+[01:05:53.660 --> 01:06:01.820]   myself in like at all times, right? It would be too much. And that's something if you wanted
+[01:06:01.820 --> 01:06:07.660]   to have that for longer periods of time, that's where this comes in because it doesn't stress you
+[01:06:07.660 --> 01:06:13.580]   out in any way. Okay. Now, that makes sense. So, it's pretty much if you have a blog, you may or
+[01:06:13.580 --> 01:06:20.860]   may not really gain much from having the service unless it's something for a business or something
+[01:06:20.860 --> 01:06:26.780]   you want to run 24/7. Because I know, you know, like my blogs, I'm always using it for something
+[01:06:26.780 --> 01:06:31.340]   and nothing ever stays in there more than, you know, a day or so. So, okay. All right. So,
+[01:06:31.340 --> 01:06:35.740]   that kind of puts it into play. But, you know, but for folks, I just want to try quantum energy.
+[01:06:35.740 --> 01:06:39.740]   They don't know where to start. This is a great place to start. And then, of course,
+[01:06:39.740 --> 01:06:44.700]   you've got the seven day free trial. I want to mention one more time, okay? And then that's on
+[01:06:44.700 --> 01:06:49.500]   the website. You just click on the link when you see it. And then what I'm like, so if I'm wearing
+[01:06:49.500 --> 01:06:55.180]   Leleque clothing, you know, like I wear your beanie all the time for my EMF beanie. And so,
+[01:06:55.180 --> 01:07:01.100]   but the thing's charged. And if I set up the service, any issue, like if I'm wearing the shirt or,
+[01:07:01.100 --> 01:07:06.220]   you know, I just want to make sure that for people who have already kind of invested in your
+[01:07:06.220 --> 01:07:10.460]   products and are using your products, you know, if, you know, would the service benefit?
+[01:07:10.460 --> 01:07:16.620]   It sounds like the service would definitely benefit people, you know, regardless, you know.
+[01:07:16.620 --> 01:07:22.780]   Yes, that's correct. There's no interference. So, if you wear a t-shirt and I actually, we've
+[01:07:23.340 --> 01:07:29.660]   run tests with that. And I've tested it myself also. There's no problem whatsoever to have your
+[01:07:29.660 --> 01:07:37.100]   EMF blocking t-shirt and then the service itself. Not at all. You can keep doing that. Sure. Or you
+[01:07:37.100 --> 01:07:42.460]   don't need the t-shirt then, possibly. Okay. Yeah, no. Okay. So then, you know, here's a question
+[01:07:42.460 --> 01:07:47.180]   we get all the time in the chat group anyway, which is what it would it affect other devices,
+[01:07:47.180 --> 01:07:52.300]   you know, because all these so many people own different energy devices, because that's the community
+[01:07:52.300 --> 01:07:57.100]   that, you know, is interested in this stuff. So they already come in owning all these little,
+[01:07:57.100 --> 01:08:02.060]   you know, trinkets and things I do. I have a ton of them, you know, everything from crystals,
+[01:08:02.060 --> 01:08:07.740]   the EMF protective thingies. And I mean, so would it have you looked at, you know, applying the
+[01:08:07.740 --> 01:08:12.060]   service to people who have, you know, a few of those things in their home or are they wearing them?
+[01:08:12.060 --> 01:08:16.220]   And does it benefit? Yes. Is it benefit? You know, any issue that they need to know about?
+[01:08:17.340 --> 01:08:23.020]   No, no interference in that sense. So if you have crystals, for example,
+[01:08:23.020 --> 01:08:27.580]   it's awesome. It works extremely well together. The crystals will continue to
+[01:08:27.580 --> 01:08:33.500]   radiate their own frequency and qualities. If you have, you know, devices like,
+[01:08:33.500 --> 01:08:40.620]   you know, like a somovative or blue sheet, all those things, you really don't need them. That's
+[01:08:40.620 --> 01:08:46.700]   frankly something that's totally unnecessary if you have the service, because the service operates
+[01:08:46.700 --> 01:08:54.700]   on such a high consciousness level that these other devices can't even reach. And all the use cases
+[01:08:54.700 --> 01:09:00.780]   that they cover is anyway are all covered by the service. So that's definitely not necessary. But
+[01:09:00.780 --> 01:09:07.820]   if you have them and then you feel, well, you know, they just provide just a tiny aspect of what I
+[01:09:07.820 --> 01:09:15.340]   really want to achieve, then definitely get the service. And you could also then keep the devices
+[01:09:15.340 --> 01:09:19.580]   because it's there's not going to be any harm, you know, let's say that way.
+[01:09:19.580 --> 01:09:25.500]   All right. Perfect. Thank you. Now, in terms of like, I already asked you whether you could gift
+[01:09:25.500 --> 01:09:30.860]   the service to another person. So basically the response, make sure to just remind everybody is
+[01:09:30.860 --> 01:09:36.300]   like, not without their consent, because you want them to be involved in the healing, right? They
+[01:09:36.300 --> 01:09:42.700]   have to be, you know, consent to it and want want it. And then at the same time, too, if you know,
+[01:09:42.700 --> 01:09:48.060]   if you if you don't have a block, this would probably be the best way to like help other people that
+[01:09:48.060 --> 01:09:52.060]   you care about. Or if you do have a block, but you use it all the time for all sorts of different
+[01:09:52.060 --> 01:09:55.820]   things, and you want to use it, you know, you want to set them up so that they're constantly
+[01:09:55.820 --> 01:10:01.340]   getting this positive energy, then yeah, the service would be okay. And so it is so if I wanted
+[01:10:01.340 --> 01:10:05.980]   to, right, I could just put in that other person's name on the registration site. And it would just
+[01:10:05.980 --> 01:10:11.020]   go ahead and send it to them. And then you would charge me for the cost. So you can do that, right?
+[01:10:11.020 --> 01:10:18.380]   Yes, that's possible. It's just, you know, important that whoever does that, then either gets the login
+[01:10:18.380 --> 01:10:25.900]   information to to do the setting of the time zone and possibly other things, or that you do it for
+[01:10:25.900 --> 01:10:31.180]   that person if the person wants to do that, for example. I mean, if you have a grandmother that's
+[01:10:31.180 --> 01:10:35.100]   ADA, and she would like to have a service, then you probably want to set it up for her
+[01:10:35.100 --> 01:10:40.940]   and do all that. Yeah, yeah. Okay. All right. So then we did talk about increasing the energy
+[01:10:40.940 --> 01:10:45.260]   that's increasing the Hawkins scale on their on once you open up your account. And then the last
+[01:10:45.260 --> 01:10:49.660]   question I was thinking about is like, you know, is there a refund if I don't feel anything, or
+[01:10:49.660 --> 01:10:53.820]   what would you say to people that sign up for this thing? And like a month later, they're like,
+[01:10:53.820 --> 01:10:58.860]   I don't feel anything. You know, would you say? Yeah. Yeah, what's the response for that?
+[01:10:58.860 --> 01:11:04.620]   So first of all, we have the seven day trial, which I think is a good time for people to,
+[01:11:05.420 --> 01:11:11.740]   you know, get into this and to feel and notice, notice differences. And then after that,
+[01:11:11.740 --> 01:11:17.740]   you can set up for the monthly service. So you can also say save and then set up for the yearly
+[01:11:17.740 --> 01:11:23.580]   service. But if it's a monthly service, you can basically cancel it month to month. So
+[01:11:23.580 --> 01:11:33.660]   as long as you cancel before the next billing date, which is once a month, then it's canceled
+[01:11:33.660 --> 01:11:38.860]   right away. And it's very simple to cancel. Obviously, you know, that, you know, you can send an email to
+[01:11:38.860 --> 01:11:47.420]   support@quantumupgrade.io or you can actually also cancel it in your account yourself. So that's
+[01:11:47.420 --> 01:11:53.420]   all easy and simple and no problem whatsoever. Okay, no, great. So yeah, I definitely encourage
+[01:11:53.420 --> 01:11:57.420]   everyone to give it a try. Even if you have a block, you know, it's a seven day free trial,
+[01:11:57.420 --> 01:12:03.180]   give it a shot. Okay, so I got to wrap it up. Both of us have got a hard stop in three minutes.
+[01:12:04.140 --> 01:12:07.740]   So first of all, I just want to say thank thank you, Philip, for your time this morning. I really
+[01:12:07.740 --> 01:12:13.100]   appreciate it. I answered all my questions. So thank you so much. This is an amazing new service.
+[01:12:13.100 --> 01:12:19.180]   The results from the studies are just unbelievably just. It's just amazing. I mean, I'm still blown
+[01:12:19.180 --> 01:12:25.820]   away by all of this happening via software and miles away and all the positive stuff that comes
+[01:12:25.820 --> 01:12:30.140]   from it. And it's all validated with studies. And I'm like, but it's blowing my mind. It really
+[01:12:30.140 --> 01:12:35.420]   is. It's unbelievable. But so just thank you for your time. The website now, it's going to be
+[01:12:35.420 --> 01:12:43.180]   up live tomorrow, right? On the sixth? Yes. Okay, so it's the quantum upgrade.io is the website.
+[01:12:43.180 --> 01:12:47.740]   There'll be links in the video description below. We have our existing quantum power group right
+[01:12:47.740 --> 01:12:53.260]   now with which for Leila quantum tech, this will be a new entity, a new business entity called
+[01:12:53.260 --> 01:12:58.620]   quantum upgrade, Leila quantum upgrade, right? Is that the name of it? No, no, no, Leila.
+[01:12:58.620 --> 01:13:05.180]   It's just called Leila. Just quantum upgrade. Okay, so if you have any questions in the meanwhile,
+[01:13:05.180 --> 01:13:09.900]   you'll feel free to come in our telegram chat group where I'm going to post this video,
+[01:13:09.900 --> 01:13:15.020]   or you can always reach me. I'm Kay Elmer at the Tinkers Academy where you can ask me questions.
+[01:13:15.020 --> 01:13:19.740]   You can ask Philip questions at the quantum power group. And then, of course, starting tomorrow,
+[01:13:19.740 --> 01:13:23.900]   the new service will be launched. And go ahead, sign up for your seven-day free trial,
+[01:13:23.900 --> 01:13:28.540]   please. And just let us know how it worked out for you. So again, thank you, Philip. Really
+[01:13:28.540 --> 01:13:34.060]   appreciate your time today. Any pretty words? Thanks. Thanks so much, Kay. Thanks to everyone
+[01:13:34.060 --> 01:13:41.340]   listening. And yeah, everyone, please have a great weekend. And again, if you sign up for this
+[01:13:41.340 --> 01:13:47.660]   seven-day free trial, let us know how it goes for you. I'll provide you, Kay, with the invite link to
+[01:13:47.660 --> 01:13:53.740]   this other currently very small telegram group just because people may indeed be interested in
+[01:13:53.740 --> 01:13:58.940]   sharing their feedback there or asking questions. So we'll just do that. And yeah, thanks again
+[01:13:58.940 --> 01:14:03.580]   for having me on. All right. Well, thank you very much. And have a great weekend, everyone.
+[01:14:03.580 --> 01:14:07.900]   And we'll talk to you on telegram. Loha.
+

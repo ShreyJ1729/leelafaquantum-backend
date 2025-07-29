@@ -1,0 +1,182 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.040",
+        "text": " Aloha, everyone, and welcome to another video by me, Camar, and this video is a C60 question and answer. I've had a couple of questions lately about sonication, and Mr. Buxke here just posted this morning on the C60 Good Vibe chat room, and you know, five questions for me, and it's a lot easier to just record the answer than type it all out, and then I realized, you know, I might as well just make this public because you probably, other people probably"
+    },
+    {
+        "start": "00:00:29.040",
+        "end": "00:00:56.680",
+        "text": "have the same questions. So let me go ahead and just jump right in, and I'm just going to answer the questions in this video. So thank you very much, Mr. Buxke, for your compliments. I do appreciate it. The first question now is, number one, is the ultrasonic DIY method by using the recommended device, not only the fastest, but also the generally better way to DIY C60 that you could personally recommend ultrasonic better than stirring for 14 days?"
+    },
+    {
+        "start": "00:00:56.680",
+        "end": "00:01:26.160",
+        "text": "And the answer is, I can't recommend ultrasonic, or I don't recommend ultrasonic is the best fast way. You know, when you look at making C60, there's a fast way, and then there's the benchmark standard Bati way, which is in two weeks, turbo, right? So that's the standard, that's the benchmark stir two weeks, but there are ways to make it faster, and ultrasonic is one way, and the other way, which I've just been tinkering with in the last couple of months, is using heat."
+    },
+    {
+        "start": "00:01:26.160",
+        "end": "00:01:55.640",
+        "text": "And so, now that I've kind of done it both ways, meaning the fast way, two ways you can do it faster, I would recommend honestly that it's faster, I mean, sorry, there's faster and slower, right? So let's stay in the fast lane. In the fast lane, there are two ways to do it, and I would recommend that the better fast way is using heat, and only for the purpose, because it's just a lot less hassle. When you use a sonicator, you've got a lot of things you got to worry about."
+    },
+    {
+        "start": "00:01:55.640",
+        "end": "00:02:22.560",
+        "text": "And it's jarring your teeth, the whole time you're standing next to it. But that aside, it does get hot, and it can get hotter than you want, so I'm always having to put ice in there, and then the length of time is another issue. The size of the machine, I mean, I've got a three liter sonicator, and the biggest flask I can put in there is 500 milliliters, and I make full liters at a time, which means"
+    },
+    {
+        "start": "00:02:22.560",
+        "end": "00:02:47.720",
+        "text": "I got to run it twice, so it's a hassle, you know, and you've got to put water in it, and you've got to clean it out, and when you're done, and I've discovered that just simply using heat is a lot easier, and it gives you the exact same results. You can literally mix your C60 in 24 hours, and let it sit for 10 days, and boom, off you go. So it does really cut down that 14 day stir time, cuts it down to one day."
+    },
+    {
+        "start": "00:02:47.720",
+        "end": "00:03:11.480",
+        "text": "So when you're in the fast lane, I would recommend heat over ultrasonic. So then your other question here is, is the 20 kilohertz operation mode better than 40, and if yes, you know, can you briefly explain why? Actually, it is, yes, per Martin at Red Lion, and Martin, I mean, in my research of the different"
+    },
+    {
+        "start": "00:03:11.480",
+        "end": "00:03:37.280",
+        "text": "producers of C60, I know of at least, I think the last time was like three, there's a lot of people that make C60, almost everybody stirs, but there's just a handful of folks that use sonicators, and Martin at Red Lion is one of those individuals, and he basically said in all of his experimentations, trials, and errors, that he discovered the lower the"
+    },
+    {
+        "start": "00:03:37.280",
+        "end": "00:04:06.320",
+        "text": "frequency of the ultrasonic machine you're using, the better saturation that he was able to obtain through his experimentation. So that's why the 20 kilohertz is really, actually it's not 20 kilohertz, is it 20 kilo, I'm sorry, I forget whether it's 20 kilo or 20 hertz, it could be the lower, but the whole idea though is you want to go with the lower number, and then he later after, you know, he constantly is changing his formula, but three years ago, it was, or two years"
+    },
+    {
+        "start": "00:04:06.320",
+        "end": "00:04:30.880",
+        "text": "ago, it was 20, and because at the time, the main machine everybody could afford to get where the smaller machines were 20 and 40, most of them are all 40, I mean, literally all of them are 40, but if you go digging around, you can find a 20 and a 40, and so then he said to me, you know, go with the 20, and then after that, about a year later, he said, you know what, if you're going to produce commercially, you can get a bigger"
+    },
+    {
+        "start": "00:04:30.880",
+        "end": "00:04:57.040",
+        "text": "one and then go with 28, he said 28 was good to go for commercial, but he did mention to me that the sweet spot was 21 hertz, okay, so, but there is, I could never find an ultrasonic machine that you could dial in at 21 hertz, so I went with the 2040, and then I did 20 hertz for the longest time until I switched to a different way of making C60, and that's the reason why."
+    },
+    {
+        "start": "00:04:57.040",
+        "end": "00:05:23.720",
+        "text": "Question number two is, do you have any experience about adding a few drops of DMSO to the C60 for enhanced results, and if yes, can DMSO be added to all three applications, application options being topic oral and inhaling? So my experience with DMSO and C60 has 100% topical, I've never messed with using DMSO"
+    },
+    {
+        "start": "00:05:23.720",
+        "end": "00:05:52.640",
+        "text": "orally or inhaling, and the thing about DMSO, when I used to have pulverized C60, I used to kind of mess around with it until I realized you don't want to put C60 on your skin and then go out in the sun and, you know, so I just really don't use C60 raw on my skin anymore. I kind of like evolved into using the C60 topical products. In the early days, there just wasn't any C60 topical products, but now I did a video,"
+    },
+    {
+        "start": "00:05:52.640",
+        "end": "00:06:21.080",
+        "text": "I don't know, a few months ago, about, you know, like I did a review, and there's a whole bunch of C60 topical products right now, shout out to Layla Labs, and their products are awesome. Another shout out to C60 Labs, Dave over there produces this coconut C60 thing, it's cream, it's awesome. That actually helps, I use that every day from Agzma, and so it really helps, but you know, so at the time there just wasn't, so I would put a drop of pulverized C60 on the"
+    },
+    {
+        "start": "00:06:21.080",
+        "end": "00:06:49.640",
+        "text": "back of my hand, and then when it started to just dry just a little bit, you know, the alcohol would evaporate off, I would put a drop of DMSO on top of that, and then it would literally, you know, just carry it straight through into the bloodstream, and it worked really well. So, topically, it does work, it does, and it, you know, it'll do that with anything, I mean, it'll just carry it straight through, but, you know, DMSO is a very dangerous thing to play around with, so personally, I would never put it orally, or I would never mess"
+    },
+    {
+        "start": "00:06:49.640",
+        "end": "00:07:18.880",
+        "text": "with my lungs with that, and it's just, it's a very powerful substance, and so I'm just not going to go there, you know, but that's my experience with it, and I personally would not do oral or inhale. Now number three, if you ultrasonic the C60, do you do it for 100 minutes in the dark and in temperature mode? Okay, so what I used to use an ultrasonic all the time, I would do 20 hertz, I would only go, and this is the recommendation again by Martin from Red Lion, I would go, I think"
+    },
+    {
+        "start": "00:07:18.880",
+        "end": "00:07:48.720",
+        "text": "his recommendation, it's in one of my videos, I think it's in my mixed video, I did a video all about mixing, and I did one all about filtration, but in the mixed video, he gave me his secret formula, and it was like 2.67 seconds or something like that. It was something really, so I'm sorry, but it was a very, very short period of time, it's in that video, I'm sorry, I don't have it around the top of my head, but it's only for a few minutes, it is not 100 minutes, 100 minutes, and this was the thing he said"
+    },
+    {
+        "start": "00:07:48.720",
+        "end": "00:08:18.680",
+        "text": "too, when he did all of his experimentation, he said that you can just as easily build up those lipofluorines and creating those liposomes, but then if you go too long with a sonicator, you have two problems, heat, and then the continual vibration will then break up the liposomes, and you go back to C60, and you destroy your fatty acid lipids that it can no longer do liposomes, so he said, you know, he was, I think it was like two minutes something, but I can look it up, you can't find it, let me know, it's in"
+    },
+    {
+        "start": "00:08:18.680",
+        "end": "00:08:43.920",
+        "text": "that video, where I basically say this is Martin's secret formula, and this is the actual time, he actually gave us a very specific time that says 20 Hertz, these exact number of minutes and seconds, and you're done, don't mess with it anymore, so it's way less than 100 minutes, alright, and then the temperature is something that I kind of kind of tinkered with, and I discovered that anything over 105 Fahrenheit, it just, the oil just didn't"
+    },
+    {
+        "start": "00:08:43.920",
+        "end": "00:09:07.640",
+        "text": "taste that good, you know, you kind of burned it, anything under 105 it would come out okay, so I always kept my sonicator, you know, cooler than I always tried to keep it around 90 degrees Fahrenheit, now number four question is does it still take one full day to filter the C60 with a pump, and how long does it take to just let the C60 run through, it all completely"
+    },
+    {
+        "start": "00:09:07.640",
+        "end": "00:09:36.000",
+        "text": "depends on what filter you're using, not the filter size, yes you want to use .22 microns, that is the standard, and you know, that's the one everybody uses, so you don't go with that, but now the actual filter itself, if it's a four inch filter, it's going to be way different length of time than a two inch filter, right, and depending on the filtration device you're using, and so that makes a big difference, and then it depends on the pump,"
+    },
+    {
+        "start": "00:09:36.000",
+        "end": "00:10:04.240",
+        "text": "so to give you an example if you use, let me just jump into Amazon, pull this up earlier, yeah these guys right here, you see these guys, if you use one of them it's a four inch filter, and you attach that to a regular pump like a filter aid or a swift, like these little tiny pumps, they look like aquarium pumps, oh I guess I don't sell that one anymore, okay, it's been a while, I got so many of these things, I don't think about it, oh it's"
+    },
+    {
+        "start": "00:10:04.240",
+        "end": "00:10:33.800",
+        "text": "the pump, pump, okay, how's that, wow, okay I would have to dig around for it, but it's a little tiny pump, and they used to sell one called a filter aid, I don't know why it's not here, filter aid, sorry, filter aid vacuum pump, oh here it is, okay so there's the filter aid, this got a little puppy right here, there's another one called a swift, and it's black, and that's the only difference, now you use one of these with one of those plastic filters"
+    },
+    {
+        "start": "00:10:33.800",
+        "end": "00:11:03.040",
+        "text": "that I showed you earlier, and it will take overnight and you're done, okay, literally like not more than 12 hours, to filter it out, okay, and that's on top of the fact that you let it sit for 10 days, if you don't let it sit for 10 days, you're gonna have a hard time filtering, because the filter would get clogged really quickly, but that's how long you have, if you're using just this tiny little pump and a plastic filter, now if you're using a glass filter with a two inch piece of filter paper in it, you know, a two inch"
+    },
+    {
+        "start": "00:11:03.040",
+        "end": "00:11:30.480",
+        "text": "nozzle, then you're gonna want to use one of these bigger pumps like this one, I have one of these, I have a Causey Vacu 3.5, almost like, almost exactly one this one, and I have one of these guys, and this puppy, oh here's a swift right there, this black everything, but then I have one of these blue ones, it's a Causey Vac 3.5 cubic feet per minute, you know, vacuum pump, and when I attach that to a glass, you never attach it to a plastic"
+    },
+    {
+        "start": "00:11:30.480",
+        "end": "00:11:58.240",
+        "text": "one, it'll break it, but if you attach it to glass with the right tubing, and you put in, you could run a, you can run a thousand milliliters in less than 40 minutes, I mean that thing will just suck it right through, you'll have to replace the paper three times, but very quick, very quick, so that answers that question there, last thing was, okay, and then one more question was, do you recommend using C60 Frequency in the power capsule,"
+    },
+    {
+        "start": "00:11:58.240",
+        "end": "00:12:24.360",
+        "text": "the 90/10 power capsule, or even having it permanently in the 90/10 cube, like a healing stone, oh yeah, honestly I think that's good stuff, I mean I have, you know, I have multiple cubes in my home, and so it's kind of like, it's a broadcast station, basically it's got this giant toro field of energy around it, and whatever you put inside that thing is going to broadcast it within the field, so if I'm living, you know, if I live in the"
+    },
+    {
+        "start": "00:12:24.360",
+        "end": "00:12:49.440",
+        "text": "field, then yeah, why not, I mean, so I would definitely say put all sorts of wonderful things that are good for you in that, just remember though that you're living with it and you're constantly exposed to it, and something that you always want to be really careful about is like, you know, too much is not good sometimes, so, you know, so pick and choose what you want, like for me, I don't really have supplements in mind in terms of inside"
+    },
+    {
+        "start": "00:12:49.440",
+        "end": "00:13:14.640",
+        "text": "a cube, instead I have the frequency of silver, that's what I'm doing this month, and I really like it, it's really helping with my sleep, so that's that, okay so other than that, now the other thing I do want to ask you, or I want, I'd like to see if you can consider this, is you're saying that you want to make C60 for your family, and so you're obviously opting to go the faster route, I just want to point out that, here's the thing about"
+    },
+    {
+        "start": "00:13:14.640",
+        "end": "00:13:40.960",
+        "text": "using a sonicator, they're like 150 bucks, right, or if you're using like heat, this is the one, you know, Santa was good to me last Christmas, and Santa, and I got this one, and so it was $250, and this is what I use for, you know, using heat to stir C60, or to mix it overnight, and it works, like I said, so you know, it is pricey, and I want to point"
+    },
+    {
+        "start": "00:13:40.960",
+        "end": "00:14:09.680",
+        "text": "out that, you know, if you time your production correctly, and you're always, and you could make big batches, so if you get one of these, and this is like the consensus of the group, is that this is like literally the best one, and C60 Labs Dave over there recommended this one, and people who bought it are like yeah, absolutely this thing works great, if you get a maelstrom, it's only 140, it goes on sale around Black Friday, drops down to like 99 bucks every year, does that, right, so if you just wait till November, which is like"
+    },
+    {
+        "start": "00:14:09.680",
+        "end": "00:14:35.560",
+        "text": "what, six weeks away, and then you could probably just pick this puppy up for like 100 bucks, and this guy can stir up to two liters easy, so if you're making C60 for your family and you want to do it in bulk, you can do two liters at a time on a maelstrom, way cheaper, it's not the flash, you know, it's a slow lane, right, it's a two week slow lane, but it's a lot less expensive, you can do bigger batches, and if you just time everything right, and"
+    },
+    {
+        "start": "00:14:35.560",
+        "end": "00:15:01.920",
+        "text": "depending on the consumption level of your family, and how fast you're making C60, you know, this might work out for you, and one of the things about the maelstrom, and this is what Dave was saying at C60 was, he's got 50 of these things, he's been running them 24/7 for over two years, and has never had one break, so I mean, we're talking about a really good stir at a decent price with the Black Friday, and you can just be doing"
+    },
+    {
+        "start": "00:15:01.920",
+        "end": "00:15:29.960",
+        "text": "two liters at a time, and two liters, this goes a long way, you know, depending on how many people you're doing, so you don't necessarily need to be in the fast lane, you can easily be in the slow lane, and just get a really good stir that can do more than one liter at a time, and that, and this is as a reminder, you always want to use these straight walled beakers, they produce the best vortex, keep it covered, keep it dark to your other question,"
+    },
+    {
+        "start": "00:15:29.960",
+        "end": "00:15:59.720",
+        "text": "and then you want to use your stir bars, now when you're looking at stir bars, because the maelstrom, I don't believe, comes with one, I know that the 4E doesn't come with one, so when you're looking at stir bars, just as an FYI, I've tried all these different stir bars, I went and bought like the every single size, and shape, and you know what, honestly, nothing works better than just a regular old, you know, stir bar with no little nub on it, and just get a two inch one, and it works perfectly with a one liter straight"
+    },
+    {
+        "start": "00:15:59.720",
+        "end": "00:16:09.160",
+        "text": "walled beaker, and you're good to go, all right, that's it, thanks for your questions, and I hope this helped other people, and aloha, have a great day guys, bye."
+    }
+]

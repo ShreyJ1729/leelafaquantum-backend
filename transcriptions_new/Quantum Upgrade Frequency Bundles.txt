@@ -1,0 +1,597 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.680",
+        "text": " Aloha and welcome to another video by me, Kay Elmer. And on this video, I've got Philip on the line and we are going to be talking about quantum upgrade, the frequency bundles, the long-awaited addition of frequencies to the quantum upgrade. I've got tons of questions. It's going to be launching today. Today is December 16th, 2022. It's Friday. Philip, good morning. How are you doing today? Hi, Kay. I'm doing fine. I'm doing better. I got really sick last week. But"
+    },
+    {
+        "start": "00:00:29.680",
+        "end": "00:00:55.840",
+        "text": "I feel so much better now. That's good. Yeah, that's great. And a lot of folks are sick right now. It's really weird. Oh, it's winter, you know. Typical winter. Okay. So, Philip, if you don't know, he's the owner, owner, operator, founder, and, and the healer himself for Layla Quantum Tech and Layla Upgrade or the upgrade, Quantum Upgrade, and also Layla Labs. So, I pretty much had him on 100 videos at this point. But Philip's going to be joining me and we're going to talk"
+    },
+    {
+        "start": "00:00:55.840",
+        "end": "00:01:25.440",
+        "text": "about this feature called the frequency bundles. And we've mentioned that in the last video, really happy to be sharing that. It launched us today. So, before what we jump in, I just want to do a disclaimer in case we say anything that, you know, we need to make sure we put a disclaimer on. So, here we go. Here we go. We'll just get through this real quick and then jump right into the content. So, neither Quantum Upgrade nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video."
+    },
+    {
+        "start": "00:01:25.440",
+        "end": "00:01:52.960",
+        "text": "Reliance on any information appearing and discussing this video solely at everyone's own risk. Statements made have not been evaluated by the EFSA or FDA or any governmental derivative thereof. Quantum upgrade products and products that Quantum Upgrade may represent are not intended to diagnose, treat, cure, or prevent any disease. All right. Thank you very much with that. So, let's jump right in. Okay. So, really, really cool. The website is up and running. I'm going to walk you through the pages. Philip's going to explain everything. I have just learned about"
+    },
+    {
+        "start": "00:01:52.960",
+        "end": "00:02:22.960",
+        "text": "this like on Monday in terms of it, you know, coming out today and I have absolutely no idea how it works. So, we're going to learn together, everybody. And Philip's going to guide us. But, overall, I'm just going to do a high-level overview, okay, Philip? They're going to launch today, right? And you've got two bundles, right? And so, that's how you add frequencies to your existing subscription will be to sign up for a bundle. And there's one bundle called the abundance bundle."
+    },
+    {
+        "start": "00:02:22.960",
+        "end": "00:02:49.760",
+        "text": "And it's got the abundance frequency, the prosperity frequency, gratitude, and agni-power. And then there's another bundle called the heel bundle, which has the heel frequency, and then inner piece weight management and the nutritional bio-base. So, I guess, you know, just because I just, I'm just seeing this for the first time too, myself, everybody, you know, and so I'm guessing that you guys went with one bundle for, you know, to, you know, to kind of,"
+    },
+    {
+        "start": "00:02:49.760",
+        "end": "00:03:15.200",
+        "text": "you know, like life-changing, life-supporting, and another one for health, you know, for health, right? That's kind of what your thinking was. Is that about it? Yes, that's correct. One correction though, the heel frequency is indeed that that is the frequency that is also in the heel cavity. So, it's a fully complete heel frequency, in that sense. Trichrobiobase is separated"
+    },
+    {
+        "start": "00:03:15.200",
+        "end": "00:03:42.160",
+        "text": "out just because we've had some athletes that actually wanted this to be separated. We have several professional athletes that use the quantum upgrade, and they like to use both the heel and the nutritional bio-base, but the nutritional bio-base is what they tend to use during an actual performance or competition for whichever reason, and then the heel, which contains the nutritional bio-base,"
+    },
+    {
+        "start": "00:03:42.160",
+        "end": "00:04:07.040",
+        "text": "rather beforehand and after for recovery. So, we just decided we'll just do that, and then people can just pick and choose however they like it. And by the way, people stayed tuned because we're not only just going through the frequency bundles and some specific questions that you asked in the telegram group, we are also talking about a couple other new things that will happen that"
+    },
+    {
+        "start": "00:04:07.040",
+        "end": "00:04:33.440",
+        "text": "includes a free product and things like that. So, just bear with us here, we'll get to all of that. Okay, no, cool. Okay, so right now there's two, and then right before we started the recording for this video, we just kind of worked out that there'll be a third one, which will be the various boosters that I've created, so they'll be like a, I guess, a booster bundle coming out, I guess,"
+    },
+    {
+        "start": "00:04:33.440",
+        "end": "00:05:02.240",
+        "text": "in the near future, right? So, they're going to be a third one and then more as we go along. So, this isn't the only frequencies that will ever be offered, right, Philip? Yes, that is correct. We'll have more in this booster bundle, which will contain the man's booster, women's booster, the seasonal booster, former allergy relief and then the inflammation relief booster or inflammatory"
+    },
+    {
+        "start": "00:05:02.240",
+        "end": "00:05:28.800",
+        "text": "booster, I don't even know what the current description is. We will launch that probably in, I would say in the second half of January is a fair bet that that should be live, so, yeah, that will be coming. And then we'll see if we do more afterwards. Okay, awesome. So, let's talk about it then, because there's tons of questions about, you know, that I have, like, how does it work? How do I sign up? How do I pick a juice?"
+    },
+    {
+        "start": "00:05:28.800",
+        "end": "00:05:55.520",
+        "text": "So, here we go. So, this is the, so this is live right now, right, on the website? Correct. Okay. Yes, it is live. And so, here we go. You got the Quantum Energy bundles. You've got, you go to the bundle selection. So, in, you know, in the website, you would just go to shop, click on bundles, and then you get the bundles. You get to pick three, four, five all in one bundle, but now you've got these two other bundles that you can choose from. So, Philip, right,"
+    },
+    {
+        "start": "00:05:55.520",
+        "end": "00:06:24.320",
+        "text": "the first thing that has to happen though is you have to have a subscription for yourself, as you as the person, right, in order to add these, because these are add-ons, correct? For anyone, you just have to have any subscription. It does not matter whether you have a bundle, if you have the field for you, field for home, it does not matter if you have multiple. And frankly, that's one of the unique things here. Let's say if you have a pick five bundle,"
+    },
+    {
+        "start": "00:06:24.320",
+        "end": "00:06:54.240",
+        "text": "and you get this abundance frequency bundle, then that will be available for all of your services. So, you don't have to purchase the abundance bundle for each of your individual services, which would be five if you have a pick five. No, it would be added to all of those right away. Oh, okay. Oh, great. Okay. So, as long as I have a subscription of any kind, I can add on frequencies, right? Yes."
+    },
+    {
+        "start": "00:06:54.240",
+        "end": "00:07:24.240",
+        "text": "Okay. All right. So, when you click on, let's say, the abundance bundle, then this is what you've got. Okay. So, again, my first thing here, I'm going to just ask this question here. I know that bundles don't have seven day free trials. So, will the frequency have a free trial? No, I think there. Okay. So, it's a bundle, right? So, bundles don't have free trials. But if you already have a subscription, then you go ahead, this is how you sign up. One of the things about this is that this is just purely the selection for how you want to"
+    },
+    {
+        "start": "00:07:24.240",
+        "end": "00:07:51.840",
+        "text": "subscribe. So, it describes the different frequencies, and it gives you a description of the bundle. Is there anything you want to say about this particular bundle? Like, could you kind of describe what it would be? Yes. If somebody were to decide, do I want to heal one or do I want the abundance one? I mean, how would you describe which one to choose? Well, I always recommend to people to ask their heart. That's always the first thing to do."
+    },
+    {
+        "start": "00:07:51.840",
+        "end": "00:08:13.600",
+        "text": "As background information really, one is more focused on health and wellness, which is the heal bundle. And then the abundance is really to fill these inner gaps and deficits that we have. So, it's all about really inner abundance to fill ourselves up with our original"
+    },
+    {
+        "start": "00:08:13.600",
+        "end": "00:08:41.680",
+        "text": "energy into not needing to fill these deficits with something. As an example, I need to be loved by someone to feel good. I need to eat chocolate to feel good. I need to have more money to feel good. I need to have a yellow car in order to feel good. All these things, they come from inner deficits does not mean at all that we can't have a yellow car, that we can't have a lot of"
+    },
+    {
+        "start": "00:08:41.680",
+        "end": "00:09:10.560",
+        "text": "money, that we can't have chocolate, that we can't be loved by someone. All of that we can have, but it's a big difference if that happens out of need, right? We're very needy and we need that in order to feel good or to feel worthy. Or if we feel worthy to begin with and we feel full and we don't need it, but then we have it or create it. That's two completely different"
+    },
+    {
+        "start": "00:09:10.560",
+        "end": "00:09:32.880",
+        "text": "states and everything in this abundance bundle actually helps with getting to that state, which is a process. It's nothing. You don't turn this on and then suddenly your whole life is fully abundant. It cannot work that way. It's something that develops over time and it signals to our whole"
+    },
+    {
+        "start": "00:09:32.880",
+        "end": "00:10:01.120",
+        "text": "system that that's what happens, but you may indeed feel more full, more nourished pretty much right away as you turn on the abundance frequency as an example, right? They do have short-term effects, but the issues are usually pretty deep and it takes time to transform those. I hope that explanation helps a little. Yeah, no, it really does. I think it really helps understand what the"
+    },
+    {
+        "start": "00:10:01.120",
+        "end": "00:10:30.640",
+        "text": "purpose of it is and I think your point about having time. This is frequency healing, quantum healing, and I think if people were to study the concept of the human bio field and understand how frequencies work within that bio field and how issues, traumas, motions all get trapped in that bio field and how different frequencies will affect those other frequencies."
+    },
+    {
+        "start": "00:10:30.640",
+        "end": "00:10:57.520",
+        "text": "And it's all about entrainment. So you hear you've got this loving, positive self-loving, very positive frequency set and it's going to take a while for it to entrain with all of the different things within you that are holding you back. All of those emotions and experiences have all been trapped within your bio field as frequencies. And so you've got this set of frequencies that are within your field, then you've got this loving, self-loving frequency"
+    },
+    {
+        "start": "00:10:57.520",
+        "end": "00:11:24.240",
+        "text": "set. And it takes a while for those two things to entrain, but when they eventually do, it's a beautiful thing. So yeah, no, that's a very good point. I always forget to explain that to people about how frequencies work. Okay, so that's great. Okay, one thing to add and that was amazing. Thanks for the explanation, by the way. I think everyone appreciates that. In this abundance bundle, there's a new frequency in there that even"
+    },
+    {
+        "start": "00:11:25.280",
+        "end": "00:11:53.200",
+        "text": "hasn't been or was it released on Lita Quantum Tech yet? It's the gratitude frequency. So that is really a completely newly developed one that we developed together with Roman. And it's obviously great timing for Christmas, right? Because Christmas can really be about gratitude and remembering what it is that we're grateful for. And if we are grateful, if we can get into the state of"
+    },
+    {
+        "start": "00:11:53.200",
+        "end": "00:12:22.400",
+        "text": "gratitude, that actually changes our vibration in a very, very positive way. And it allows for a lot of great things to happen in our lives. We tend to forget, right? There's always something that we feel like we need or like we're frustrated because we didn't get it or there's jealousy because someone else got something that we didn't get and all these things. But if we remind ourselves of, okay, what are the three, four, five things that we're grateful for? Suddenly,"
+    },
+    {
+        "start": "00:12:22.400",
+        "end": "00:12:47.600",
+        "text": "we notice that our own vibration changes. And so this gratitude frequency really helps with that. It's actually pretty amazing. And yeah, so for anyone that gets this bundle, you know, maybe see if it makes sense for you around Christmas to turn on that gratitude frequency and see what it does. Oh, yeah, that's wonderful. Okay, yeah,"
+    },
+    {
+        "start": "00:12:47.600",
+        "end": "00:13:17.120",
+        "text": "I didn't notice that. That's a new one. Cool. That's very cool. Absolutely. I have learned throughout my years that you are 100% correct that, you know, whenever I really, really wanted something to happen, if I wanted it for someone else. And I appreciated what I already had. And there was no, you know, envy, jealousy, all that stuff that just kind of brings you down that, you know, beautiful things happen. So yeah, that's awesome. Okay, so I'm loving this bundle"
+    },
+    {
+        "start": "00:13:17.120",
+        "end": "00:13:44.160",
+        "text": "already. I'm going to sign up for this one. So let's walk through signing up for one. But before we get into that, so that's the description of the abundance bundle. Let's talk about, you know, so what did you have in mind, like if somebody were just, you know, like, why would someone want to heal bundle? Like, what would it do for them in terms of like the overall bundle? How would you describe this to someone that says, well, you know, what's the heal bundle if they didn't know anything about it? Yep. So again, I think it's all around health and wellness,"
+    },
+    {
+        "start": "00:13:44.720",
+        "end": "00:14:09.280",
+        "text": "you know, mentally, energetically, physically, where, you know, the heal is obviously the one that activates the inner healer. And it contains these wonderful molecular frequencies as well. The inner piece is one that if you, if you have trouble sleeping, that's actually the one that I"
+    },
+    {
+        "start": "00:14:09.280",
+        "end": "00:14:36.400",
+        "text": "always recommend at first, because it helps to balance the mind. And it just helps us be more at ease with with everything and to relax more into what's happening and what is. So and that is that what I found at least for most people, a big reason why we can't sleep that well, if we cannot sleep well. And so that's the go to even though it doesn't make you sleepy, it really"
+    },
+    {
+        "start": "00:14:36.400",
+        "end": "00:15:02.160",
+        "text": "does not make you sleepy. And that's it was developed actually for for the day to use to be used throughout the day. And a lot of people use it for that. It helps with relaxing also into situations where we may feel stressed or anxiety. And I always give this example of the kid that has a math test in school. And that kid is actually pretty good at math and knew everything when the kid learned."
+    },
+    {
+        "start": "00:15:03.200",
+        "end": "00:15:29.520",
+        "text": "Now in the test situation, it's just overwhelmed with that stress and can't access that information just doesn't know anything. And it's maybe the first two questions that the kid doesn't know, and then it gets even worse, right? And then it forgets everything. And so with this inner piece frequency, what that does is it helps us to access our inner piece inside, which is"
+    },
+    {
+        "start": "00:15:29.520",
+        "end": "00:15:56.400",
+        "text": "never gone. It's always there, but it can be blocked. And it helps to access that and to instimulate ourselves actually to expand that. And then we can suddenly relax into that information can flow in freely again. We don't need to be in such a panic mode. And so that's pretty much what that does. So it has a lot of use cases throughout the day and also throughout the night."
+    },
+    {
+        "start": "00:15:57.440",
+        "end": "00:16:23.040",
+        "text": "The weight loss actually should be called weight management here. And weight management, there's not much to say about it, right? It helps with the metabolism. It helps reduce the craving. And it supports someone if you really set an intention to lose weight. So it does not work without that. So really, I mean, it helps a little bit with the craving and the metabolism."
+    },
+    {
+        "start": "00:16:23.040",
+        "end": "00:16:51.200",
+        "text": "But if you don't set your intention for yourself, it's not going to work on its own, right? You can't just keep doing what you're doing and then have that card and think, well, yeah, that's going to fix it. That's not how that works. And this frequency, if you turn it on, you want to have an intention. The nutritional biobase, I think we talked about that, that's basically a subset of the heel of frequency, but it's just focused on these molecular frequencies"
+    },
+    {
+        "start": "00:16:51.200",
+        "end": "00:17:18.400",
+        "text": "of the most important vitamins and minerals. Okay. All right. So yeah, that's kind of the way, you know, if there's so many positive benefits, it's going to be, can people sign up for both if they wanted? Because you know, I can see there's a huge argument for, yeah, I want both. Okay. All right. So you can sign up for both. And so let's walk through how the sign up process with a couple of things we want to point out is that in terms of like you have this note here,"
+    },
+    {
+        "start": "00:17:18.400",
+        "end": "00:17:46.240",
+        "text": "it says a frequency bundle can only be added by an existing subscriber, but contains because it contains add on features for the actual quantum upgrade service. So as we said earlier, all you have to do is just have a subscription for anything. And then, but the thing is, is right, Philip is like, but me as a subscriber, I have actually signed up to other people, right, daughter, future brother in law, or future son-in-law, quite question mark. And, and they have their own"
+    },
+    {
+        "start": "00:17:46.240",
+        "end": "00:18:13.840",
+        "text": "subs, they have their own access to their settings now right through the sharing feature. So if they, if they wanted to add on frequencies, but it's my subscription, they can't, right? It's only, I'm the only one that can do it. Is that correct? So you would be the one that signs up, okay, to add the, let's say the abundance bundle. And once you sign up, then it will be available for you and for them as well."
+    },
+    {
+        "start": "00:18:13.840",
+        "end": "00:18:41.040",
+        "text": "Oh, okay. And they can pick and choose. Yeah, it will be unlocked for, for anyone. That's what I try to explain initially that literally if you have a pick five bundle, pick three bundle, pick four bundle, all in one bundle, whatever it may be, you get these frequencies unlocked for any of your services. Oh, great. Okay. So that's automatically for them as well. Okay, because I got the pick, yes, I bundle with dogs and family and okay. All right. So then, then I can then share it with them because"
+    },
+    {
+        "start": "00:18:41.040",
+        "end": "00:19:08.400",
+        "text": "it's my subscription. Got it. Okay. So that's really cool. Okay. So that's that disclaimer there. Now, if you just, if anyone's interested, you can kind of get a little bit of the description here down on the bottom of the page, but pretty much this is the abundance bundle sign up page, and this is the heel bundle. So then the pricing now for the subscription is either monthly or yearly, right? So right now, I guess, could you, I guess it's what, what's the pricing? It's like $10 a month"
+    },
+    {
+        "start": "00:19:08.400",
+        "end": "00:19:38.320",
+        "text": "and it's $100 a year. Correct? Yes. So do the 10 for a month or 100 a year, so you save $20 or 20%. Okay. So then if I want this, then I would go ahead again, just just to add really for absolute clarification, this is not per person or per service. So if you have just one field for you, yeah, that's the price, then it's 10 bucks per month. But if you have a pick five, then it's also 10 bucks per month. But for the whole bundle, which basically makes it"
+    },
+    {
+        "start": "00:19:38.320",
+        "end": "00:20:07.680",
+        "text": "two bucks per service of your five that that makes sense. Yeah. Yeah. Okay. All right. So yeah. So it's for anybody that it's in your bundle or okay. Perfect. All right. So then that's, that's how you basically sign up. So then you would then once you add it to your cart, you know, you want to add the bundle and I could literally add the other bundle as well, then you go ahead and click on your cart and you check out. So all of you have signed up before, you know what that checkout process is. It's got all my personal information. So I'm going to edit that out and"
+    },
+    {
+        "start": "00:20:07.680",
+        "end": "00:20:32.960",
+        "text": "then we'll jump right into the settings page to show you what it looks like. So we're going to go ahead and check out right now my page, right? This would be my quantum upgrade page for me. And so then where you find the frequency section is right down here in this section right here called special frequency. So Philip, can you kind of walk us through what the settings are and how to use them? Yes. Give me one second. So"
+    },
+    {
+        "start": "00:20:32.960",
+        "end": "00:20:58.160",
+        "text": "click on special frequency real quick. Okay. And now go to frequency day. Okay. That's where you can select now any of the frequencies that are part of the bundle for your daytime and your nighttime. And you can certainly also just select none if at night,"
+    },
+    {
+        "start": "00:20:58.160",
+        "end": "00:21:28.160",
+        "text": "for example, you don't want one. That's pretty much how it works. And you can go in at any time, of course, and then select it back from, let's say you pick the abundance for during the day and then at 4 p.m., you think, okay, I actually want to switch it to gratitude or I want to have none, then you just go in and select that again and then click on update. Okay. So let's say if actually I just turned it on. So this is live. I want to add that,"
+    },
+    {
+        "start": "00:21:28.160",
+        "end": "00:21:57.600",
+        "text": "let's talk about that, you know, because gratitude. And so I would just click I want gratitude during the day and at nothing. And then at night, I don't want anything turned on. Then I would just go ahead and click update. And then there we go. And then I can see myself right here. I've got the gratitude turned on. There we go. And that's how you turn it on. Anything else we need to know? No, that's really it. You know, you're completely flexible and turning it on and off at any time. And yeah, that's pretty much how it works."
+    },
+    {
+        "start": "00:21:57.600",
+        "end": "00:22:24.800",
+        "text": "But the dog it doesn't show up, right? Oh, it does. It should actually. Yeah. So now it's it's not necessarily the frequencies for the dog, but you know, at some point, we will probably have frequencies also for the dog. We probably will have a pet bundle at some point, right? And then it would come in handy. Oh, okay. All right. And then okay, so then you could pretty much provide frequencies or any"
+    },
+    {
+        "start": "00:22:24.800",
+        "end": "00:22:54.080",
+        "text": "of these frequencies apply to pets, except for a neutral nutritional biobase I saw earlier. There's a little disclaimer that said it's not good for pets or it's not it's not specific towards pets. It's specific to human physiology as a poor pet. So everything except nutritional biobase, probably, right? And that would include the heel pad and the heel frequency set because it includes it. But any of these others could apply to a pet, right? If you wanted to. I think I think my dog needs to show a little bit more gratitude. I'll turn it on and see what"
+    },
+    {
+        "start": "00:22:54.080",
+        "end": "00:23:20.640",
+        "text": "happens. Okay. Yeah, that's what happens with Norman. Okay, great. So so that's it. I'm going to kind of like take a look at my question. So it's for so my I had my laser, my cheat notes, but only for you know, it's for all. So let me just it's for all for all subscriptions, right? How to add it. We just walked you through it. The usage guidelines, it's like, you know,"
+    },
+    {
+        "start": "00:23:20.640",
+        "end": "00:23:45.520",
+        "text": "night and day, how we picked it, how we picked and choose which one. So it's so I guess the key thing there though, looking at the page was that you're not when you turn it on, you're not turning on four to time, you're turning on one at a time, right? So that's that's correct. Okay. All right. And then the pricing we talked about. So those are those questions. Yeah, this is really cool. So right now you've got the two main bundles that's in that we walked you through how to sign up for"
+    },
+    {
+        "start": "00:23:45.520",
+        "end": "00:24:11.200",
+        "text": "it and the pricing and how to set the settings. It's live as of today. And now we did have some questions in the telegram chapter. So let's talk about that. Just to make sure we covered all the questions, right? So here's one of the one of the questions that popped up, which was when the frequencies go live, how do we best go about using them? And I think we talked about that. So but here's the specific questions. I think I'll focus on inner piece to begin with, but would like to"
+    },
+    {
+        "start": "00:24:11.200",
+        "end": "00:24:38.080",
+        "text": "add abundance as well, which is totally possible. If you you'd have to go with the two different ones, because those inner pieces, it's over in heel and abundance, it's over in abundance. But then here we go. So I'd like to use inner piece for like seven days in a row, right? Or how much is it recommended for in training the system to this frequency? Good question. Yeah, I mean, per frequency, if you want to get the benefit from it."
+    },
+    {
+        "start": "00:24:39.040",
+        "end": "00:25:07.200",
+        "text": "Yep. So, you know, this user will probably by now know that we have these two bundles and that each bundle contains four different frequencies. And then, you know, to the second part of the questions, use it for seven days. I always suggest to tune in and check in every day, really, how it is for you. That's that's a good training and practice for ourselves to hear more really,"
+    },
+    {
+        "start": "00:25:07.200",
+        "end": "00:25:33.200",
+        "text": "what does our inner voice say or gut feeling, if you will? And it cannot be generalized. Like, I couldn't tell you, yeah, seven days is great or one day is great. It's for each one, it may be different. And you can just say, you know, you'll have it for a whole week. And then if you feel at day five, you want to turn it off or switch it up, then you go do that. So I would try to not be"
+    },
+    {
+        "start": "00:25:33.200",
+        "end": "00:25:57.760",
+        "text": "static about these things, but rather dynamic and flexible. And how long does it take to actually have an effect right away? It has an effect right away. Each of these frequencies have an effect right away. But obviously, if we have stronger states of anxiety, for example, that we've also"
+    },
+    {
+        "start": "00:25:57.760",
+        "end": "00:26:26.080",
+        "text": "had for a long period of time, it may take a long time for us to really be in this inner peace on a more regular basis without a frequency. And it's really impossible to say for some people, it may take a few days for some people, it may take a few weeks for other people, it may take many months of working with these frequencies until they can really recreate this on their own"
+    },
+    {
+        "start": "00:26:26.800",
+        "end": "00:26:56.480",
+        "text": "in very stressful situations. So that's an impossible advice to give, to say exactly how you need to do it. It's just something you play around with. It's something you feel, okay, inner peace, that feels good for me today. That's what I'm going to go with. You know, that's what I would do. Yeah, I think if I could share my experience as well, I mean, several years ago, you know, I made myself a capsule of every frequency. And I'd have them all hanging"
+    },
+    {
+        "start": "00:26:56.480",
+        "end": "00:27:19.520",
+        "text": "on a wall, like 10 or 12 different capsules, different frequencies. The same concept here, you've got multiple frequencies, which one do you wear today? It's like, which, you know, like which tie do I wear to work kind of thing. And what worked, what happened with me was, it just was what I didn't even think about it anymore. It was like, okay, how do you know, it's like, I just would reach out intuitively to which one I wanted to resonate with."
+    },
+    {
+        "start": "00:27:19.520",
+        "end": "00:27:46.160",
+        "text": "And to me, I kind of really always resonated to heal when I had something that needed healing. And then when it wasn't, when I had like an emotional situation, I went with inner peace. And then sometimes it was like, I remember wearing the heel capsule once for four months, straight, just trying to get through something. And it wasn't until I intuitive felt that, okay, I'm good now, that I switched to a different frequency. So I would say you really want to"
+    },
+    {
+        "start": "00:27:46.160",
+        "end": "00:28:16.720",
+        "text": "listen to your intuition and try when you'd want to choose, don't think. I would say quiet your mind, don't be talking, turn off the head, right? And then just make a choice with your heart. And I think that's going to help you decide what your body wants. Because, you know, your higher self will always tell you. I mean, would you agree with that? Absolutely. And then some people obviously have a harder time with that. And then if you're not"
+    },
+    {
+        "start": "00:28:16.720",
+        "end": "00:28:42.640",
+        "text": "sure, just go with whatever is the dominant impulse. And then whatever you get, at some point, you will get another impulse that tells you to turn it down and just follow that, you know, just just be very easy with that. So, you know, you really can't do it wrong, you know. Right. In fact, yeah, like your comment about weight management, you know, you have to set the intention. You can't, you know, you can't like eat what eat all the stuff you regularly eat,"
+    },
+    {
+        "start": "00:28:42.640",
+        "end": "00:29:08.800",
+        "text": "and then and then have a frequency and expect anything changes. So you really have to set the intention, you have to work towards that. So that could also be another way to do it. So if you wanted to say, look, I want to, I want to embrace inner peace, or and I want to focus and I want to meditate. And I'm going to turn this thing on because I'm going to do this certain thing. And I'm going to focus on it. Right. So that could be your objective. And if you wanted to then work on weight management, then turn that on, and then go for whatever period of time. So it's"
+    },
+    {
+        "start": "00:29:08.800",
+        "end": "00:29:38.320",
+        "text": "really going to be up to you and how you feel about it. Okay. All right. Anything else about that? We're good. No, I think we're good regarding that. Yeah. Really. Yeah. Because that seems that question comes up all the time, you know, and it's true. It's like, how do I know how long that, you know, it takes for something to work. And my answer is always like, go with, you know, go with your intuition. But yeah, I think I mean, which we'll keep trying to explain that and help people. Yes. And by the way, I mean, people pay thousands and thousands of dollars,"
+    },
+    {
+        "start": "00:29:38.320",
+        "end": "00:30:08.240",
+        "text": "actually, to go through courses where they learn how to get more access to their inner knowing, to their inner power and all of that. And so in this case here, you can, you don't need to do that. You can just practice that on your own. Just make it a daily, daily habit, daily practice in the morning. Just check in. Okay. So what do I feel like right now? Which is the one I want to set? You go for that. And it will just, as you keep doing that, you will"
+    },
+    {
+        "start": "00:30:08.240",
+        "end": "00:30:34.000",
+        "text": "just open up more and more and it will be very beneficial for your relationship with yourself. Yeah. Absolutely. No, no, that's great. That's great advice. Okay. So second question was, okay, when and when I afterwards want to use the abundance figure, so this person would say, I'm going to use heel or inner piece for seven days or inner piece for a period of time, but then they want to switch to abundance, right? Should I then use that exclusively,"
+    },
+    {
+        "start": "00:30:34.000",
+        "end": "00:31:03.040",
+        "text": "right? I think we answered that or should I use inner piece and the day and abundance at night? Oh, that's a good twist. So that second piece of the question here is if I'm switching over from one frequency to another, is it recommended or what would you say, Philip, if I used both one during the day and then one at night? What would you think? Well, I mean, so you can't use two frequencies at the same time that's impossible to set in the"
+    },
+    {
+        "start": "00:31:03.040",
+        "end": "00:31:30.400",
+        "text": "system for a reason. And you can absolutely set one for the day and one for the night. And the same principle applies, just feel what feels better to you. Usually, most people would probably choose the inner piece for the night, but hey, if the inner abundance topic is when you're working with currently, it can also be an absolutely great frequency at night because it may"
+    },
+    {
+        "start": "00:31:30.400",
+        "end": "00:31:56.320",
+        "text": "actually helps you to get some dreams in that regard. And maybe some things come into your consciousness through dreams because of that frequencies that help you further to maybe recognize patterns that are in the way of the inner abundance you're trying to achieve. So yeah, it's absolutely possible to also use those at night."
+    },
+    {
+        "start": "00:31:56.320",
+        "end": "00:32:18.480",
+        "text": "Okay, so it's either day or night one at a time, right? Okay. And yeah, you could do them both, and that's a good, good question. Thank you for asking that. Okay, so the next question here is, should we routinely cycle in the frequencies we would like to keep in train two? Or will the effect of inner piece last if we use it for a week in a row to begin with? Another really great"
+    },
+    {
+        "start": "00:32:18.480",
+        "end": "00:32:47.280",
+        "text": "question. So that's a great question, but again, an impossible answer, because I have to refer again to that everyone is very individual. Like if you're someone that has had terrible anxiety for the last five years, you're going to be working with this for way longer and much more intensively that someone that just recently started to get some anxiety because of a specific situation."
+    },
+    {
+        "start": "00:32:47.280",
+        "end": "00:33:16.240",
+        "text": "So it's really impossible to say for me, and it's just something you need to feel, and you need to do that work that maybe you've used the inner piece for a while, and then you don't use it on a specific day and just see if you're still a little bit in that mode of the inner piece and things throw you out of balance as easily as they did before."
+    },
+    {
+        "start": "00:33:16.240",
+        "end": "00:33:43.120",
+        "text": "So that's just something where you can observe, sort of really work, right? It can be actually fun to observe that a little more, and then you will get a sense of that and for that. Okay, no, that's great. Yeah, in fact, in biofield tuning again, when you actually entrain away a negative emotion frequency, that frequency is gone. So it does last in that regard."
+    },
+    {
+        "start": "00:33:43.920",
+        "end": "00:34:11.760",
+        "text": "But yeah, I guess it's really hard to say per person, but personally for me, because I've been doing this the longest, probably I'm like one of the first customers ever, I would say that I have learned that like, let's say I went through kind of a negative emotional thing, lost a family dog, how it is, and I carried the inner piece for six months or"
+    },
+    {
+        "start": "00:34:11.760",
+        "end": "00:34:38.400",
+        "text": "something, until it kind of was like, I could live without it. I got over it. And that piece lasts all to this day, three years ago. So I would say that it does kind of help. And it all really depends on the situation, on you, on what frequency. But yeah, I think it really does carry with you, because you entrain to it. It becomes part of who you are. And if you need"
+    },
+    {
+        "start": "00:34:38.400",
+        "end": "00:35:06.480",
+        "text": "another boost of it, by all means, right, Phillip? You know, because it's life, you know, we're all living, we're changing, we're evolving. So you might need another boost of inner piece, you know, and then the following year. But yeah, definitely, I think it lasts for my own experiences. Okay. Yes, that's absolutely correct. That's great that you say that. And then we have this onion principle, right? That's that it plays anyway. Everyone that's someone on the path to,"
+    },
+    {
+        "start": "00:35:06.480",
+        "end": "00:35:36.320",
+        "text": "to him, herself, really, to access the inner power to unlock more of our consciousness, we have these layers that are, you know, like the layers of an onion with blockages with topics and stuff like that. And then once we peel one layer off, it feels a lot better and easier and lighter and all of that. But then, you know, that's also life. We at some point arrive at the next"
+    },
+    {
+        "start": "00:35:36.320",
+        "end": "00:36:04.880",
+        "text": "layer of that, right? And so that may be another layer related to inner piece in this one specific example, but with different topics and maybe with even different depth. And then you really, when that shows up, then you may need it again for quite some time to work through whatever's showing up. And then once that's released, it will be more free again. And you may not need the inner piece for quite some time. And then, oh, after half a year, again, something is showing up, right?"
+    },
+    {
+        "start": "00:36:04.880",
+        "end": "00:36:32.000",
+        "text": "And it's bubbling up from the inside that that may be the next layer of the onion. That's kind of what I've found or allows you decades, um, happens with things until you're really free in regards to one specific aspect. Yeah, no, I agree. That makes a lot of sense. Okay, good. Great question. Thank you, uh, from for that out there in telegram world. Okay, so we got four more questions"
+    },
+    {
+        "start": "00:36:32.000",
+        "end": "00:36:58.000",
+        "text": "that we picked out of the out of the chat group. So here we go. Should the should we use the frequency for the house if someone in the house is using a specific frequency card? So my husband is using the focus card right now. So would it be too much to also turn on a different frequency in the home? That's a really good question. Um, specifically with this focus card, I think you're"
+    },
+    {
+        "start": "00:36:58.000",
+        "end": "00:37:23.680",
+        "text": "actually fine with turning on another frequency, especially the frequencies that we currently offer in these two bundles. I don't really see any, um, any interference with that. So, so you would be, you would be fine. And, um, his system would also be able to, to distinguish. So I'm, I would"
+    },
+    {
+        "start": "00:37:23.680",
+        "end": "00:37:48.400",
+        "text": "definitely say it's, it's okay to do. Um, what I would, you know, not necessarily do is to use any specific frequencies at nights that, you know, someone in the house may be just a very light sleeper and then that may be too stimulating. So the biobase frequency, possibly the heal frequency,"
+    },
+    {
+        "start": "00:37:48.400",
+        "end": "00:38:12.480",
+        "text": "the heal frequency may actually really work well with, uh, with a level of 500, for example, level 600. Um, but it needs to be tested. You know, you would just need to be aware if there's someone a very light sleeper. Um, but, uh, but again, as long as you keep the quantum upgrade unrelatively low during the night, you should also be okay with that."
+    },
+    {
+        "start": "00:38:12.480",
+        "end": "00:38:39.840",
+        "text": "Okay. Uh, you know, that's, it's actually a really great question. So I got to tail on questions. Uh, the first one would be, let's say in this specific example of someone using the focus card, right? Uh, is there a complimentary, uh, frequency with, within the bundle that might actually help and, and, you know, make that process even better for that individual? If we were to take a look at either one of the bundles, would there be something that would actually,"
+    },
+    {
+        "start": "00:38:39.840",
+        "end": "00:39:08.960",
+        "text": "um, you know, be complimentary? Well, I, three come to mind. Uh, one would be the, the inner piece, one would be the gratitude and one would be the abundance. Those are all frequencies that are, um, that the other would maybe offer a greater space of, of, of a very positive and supportive frequency in general, in order to also work with the focus frequency."
+    },
+    {
+        "start": "00:39:08.960",
+        "end": "00:39:33.760",
+        "text": "Okay. Great. Okay. Uh, and then the other question I had related to this is, uh, you know, for someone like myself, um, I've got several blocks, uh, in my home capsules. Um, everything's kind of in use in one way or another. Um, and then of course I've got the upgrade as well. Uh, because then, you know, when I leave my home and I'm away from all of this stuff, I,"
+    },
+    {
+        "start": "00:39:33.760",
+        "end": "00:40:02.160",
+        "text": "you know, I want the quantum energy still, right? Um, is there any, like, is there anything anyone should know about? You know, in terms of like, yeah, I've got, you know, I've got an infinity block in my house and if I turn on, and I wear the heel capsule, but then I turn on the quantum upgrade and I turn on a frequency because, you know, I know that in the chat, uh, most recently, there was this, you know, this discussion about swapping the lids right on capsules. And then"
+    },
+    {
+        "start": "00:40:02.160",
+        "end": "00:40:30.000",
+        "text": "the response was just like it's not recommended that you, you do the booster at the same time, you do the heel because there's just way too many frequencies, you know, in those two sets, right? So for someone who owns stuff, owns Layla products, um, would setting, you know, turning on a frequency, uh, like this individual here, they have a focus, they have a device in their house, they have a frequency card in their house and then sending them frequencies via quantum upgrade."
+    },
+    {
+        "start": "00:40:30.720",
+        "end": "00:40:58.240",
+        "text": "Is there any kind of like, you know, suggestion or guideline do you have for that? Well, so the general guideline is always to try to focus on one frequency set at a time and that remains my general guideline, but there are absolute exceptions to the right. We just talked about this focus that it would be possible, um, to combine it and also in specific situations"
+    },
+    {
+        "start": "00:40:58.240",
+        "end": "00:41:24.080",
+        "text": "for specific people, it may be the right way to go. And frankly, like there's a couple frequencies like the abundance and the prosperity frequency, for example, those two go very well together at pretty much all times. So it's, it's a little bit hard to say in general, try to focus on one, but then if you're not sure, just feel or then just try it out, go try it out. You know, it's not going"
+    },
+    {
+        "start": "00:41:24.080",
+        "end": "00:41:49.440",
+        "text": "to do anything bad. It just may feel a little, if you feel a little overwhelmed then or it, you know, you feel confused or you just don't feel that good and supported, then you probably know, okay, well, I should stick with just one of those, right? But hey, you will probably feel it and if it feels good,"
+    },
+    {
+        "start": "00:41:49.440",
+        "end": "00:42:18.960",
+        "text": "go for it. Yeah, okay. Well, good. Yeah, that aligns with how I responded about the swapping listening. So yeah, okay, great. So yeah, go with how it feels. And if it doesn't feel positive for you, then go just to one at a time. Okay. All right. So number two, how would the frequencies in the bundles work for pets? I guess we kind of talked about that. So everything except maybe a nutritional biobase, because it's not for the pet physiology. But you can pretty much, I mean, every other"
+    },
+    {
+        "start": "00:42:18.960",
+        "end": "00:42:46.480",
+        "text": "field, you know, every other frequency would be okay for pets, right? Yeah. So I mean, again, with the heel, heel and the biobase, I would not necessarily do just because the biobase is also part of the heel. And it's, you know, it's not necessarily what you want for your dog or you can probably because they just need different things. As you said, and, you know, I personally, at this"
+    },
+    {
+        "start": "00:42:46.480",
+        "end": "00:43:15.440",
+        "text": "point, all of those existing ones, actually, I think I can, I would, I would try the gratitude and she would have does will slowly to test that. And you'll, I know you'll test it. Just turn to you. But watch Norma the other way. See what happened. Yeah. But the other ones I really wouldn't turn on personally for for all pet, you know, I would just, for the pet just, all pet is getting the regular quantum upgrade with"
+    },
+    {
+        "start": "00:43:15.440",
+        "end": "00:43:45.280",
+        "text": "auto specific frequency and that's great. And at some point, I'm sure we'll have a pet frequency bundle and then that will look differently in that regard. But again, maybe the gratitude is great. You can try it wrong, but most of the frequencies right now, they're really geared towards humans. Okay. All right. Okay. Number three, how should we think about consent with frequencies in the home location? And, you know, we have so many people"
+    },
+    {
+        "start": "00:43:45.280",
+        "end": "00:44:16.320",
+        "text": "coming in at our house, wouldn't it be, you know, it wouldn't be feasible to get consent from every person if they wanted a certain frequency or not? Is it one of those things where they will accept what they want to accept or should we not use frequencies for home? Well, you do not need consent from visitors that are visiting your home because you also don't get consent from them. If you set up a Christmas tree or if you smudge with frankincense"
+    },
+    {
+        "start": "00:44:16.320",
+        "end": "00:44:45.440",
+        "text": "before they come all these things, like everyone has a specific energy in their home. And if you have visitors, they come to your home. It's not that you're going to their home and you bring a frequency there, right? So it's your home. So if you want to have the gratitude frequency in your home, then that's how your home is vibrating. And then people can choose if they want to come or if they don't want to come. And it's not that they're blasted with it, right? So it's not a the"
+    },
+    {
+        "start": "00:44:45.440",
+        "end": "00:45:14.960",
+        "text": "field for you would be different for that you would want to have consent. But it's actually your home is vibrating like that. And to be honest, frankly, probably for most people, it will be amazing, right? They will probably, you know, really get into the state of gratitude, possibly, or it will trigger some things that are in the way of them and their their gratitude. So yeah, no, you wouldn't need consent. You live with people. If you live with two, three roommates, for example, or your family,"
+    },
+    {
+        "start": "00:45:14.960",
+        "end": "00:45:40.560",
+        "text": "then you may want to check in with them, right? You know, if they're okay with this specific frequency, you know, that's probably what I would do. But but visitors, no, you're good. I like that idea. It's just how your house resonates. Yeah, no, that's cool. Same thing with my car. You know, right in my car, you have to listen to my music. Don't touch the temperature dial."
+    },
+    {
+        "start": "00:45:40.560",
+        "end": "00:46:07.520",
+        "text": "It's my temp, my music, it's my vibe. If you don't like it, get a get an Uber. Okay, no, that's good. That's a really cool way to look at it. So yeah, definitely, you know, do what makes your house feel right for you. And yeah, that's a good question. Good answer. Okay, so the last one here is there was a question about, you know, are there going to be specific plans for other frequency bundles beyond the two sets announced? And yes, we just we said, yeah, there's going to be"
+    },
+    {
+        "start": "00:46:07.520",
+        "end": "00:46:35.200",
+        "text": "a booster one. But then, you know, the question that gets more specific is like one with the focus frequency, which I don't I don't see would be great. Because he can't can't get my son to where the capsule consistently or hold a card. So that's that's really good. Because there's so many parents that want their child to have the focus frequency, right? Because of those reasons. Is there going to be one for focus? So they can I think we will. Yes, I think we will definitely"
+    },
+    {
+        "start": "00:46:35.200",
+        "end": "00:47:05.200",
+        "text": "work on it. And I know that that question also came up in the telegram group just yesterday, I think, and and it really seems that there's a need for it. And people want it. So yeah, we'll make it happen. We'll think about it. And maybe that's also for the second part of January, where we can see how this can be added. Okay. All right, great. That answers that question. So that's the end of the questions. And the end of this little announcement video. So I just want to say, hey, thank you,"
+    },
+    {
+        "start": "00:47:05.200",
+        "end": "00:47:29.760",
+        "text": "Phillip, for your time. You know, this is going to be an awesome addition to the quantum upgrade service. So I hope everyone gives it a go ahead and, you know, and try it out and see how it works for you. Any can interrupt? Sure, sure. Yeah. So yeah, because I really wanted to, to also share with people that very soon we're coming up with this free product. So everyone that"
+    },
+    {
+        "start": "00:47:29.760",
+        "end": "00:47:53.280",
+        "text": "has had quantum upgrade and one way or another, whether it's a bundle or just a single service for three months, will soon, I think we'll started as of the beginning of January. But I think they'll get a free product, which is a free home slash location service, that they will get that they"
+    },
+    {
+        "start": "00:47:53.280",
+        "end": "00:48:21.680",
+        "text": "can assign to any location in the world that they wanted to, whether it's a hospital, a school, an animal shelter, it could also be your grandmother's house, whatever it may be, you'll get a free one for that. But the difference with that one is it's going to be preset to the level of 550 on the Hawkins scale. And if you don't know what that level is,"
+    },
+    {
+        "start": "00:48:21.680",
+        "end": "00:48:45.280",
+        "text": "go look it up on the Hawkins scale. At 550, you won't be able to pause it. You won't be able to scale it down or scale it up. It's 554 a reason. And just because that's a very great and wonderful baseline energy for any home, there's no consent needed or any of that. And yeah, we want to"
+    },
+    {
+        "start": "00:48:45.280",
+        "end": "00:49:12.320",
+        "text": "get more in the way in the habit of giving, also really trying to, that this service can be given a way to folks that may really need it. And yeah, that's just one way of doing it. We have more plans for 2023. But that's going to be the first thing that will be implemented in January. Awesome. Okay. No, that's great. Yeah, that's a lot of stuff to look forward to. No, thank you"
+    },
+    {
+        "start": "00:49:12.320",
+        "end": "00:49:34.640",
+        "text": "very much for that. So you could just pick anywhere? Like, yes, yes, frankly, any, any location in the family or world that is, yes, exactly. Could you do a business location or just a physical location only? It could be, it could be, frankly, any location. Yes. Because at that level, it really is fine"
+    },
+    {
+        "start": "00:49:34.640",
+        "end": "00:50:04.160",
+        "text": "to do that. And it's your choice. You can pick and choose. I think most people would probably choose, I don't know, maybe there's a prison, maybe there's a school, an animal shelter. Those types of things, I think, are the ones that come to mind first. But hey, if you want to do that for your grandmother, go ahead and do that. If you want to do that for anyone else, a business location that you go to every now and then, fine, go ahead, do it. Yeah, I was thinking too that,"
+    },
+    {
+        "start": "00:50:04.160",
+        "end": "00:50:30.560",
+        "text": "you know, if for folks that sign up the business, right, because the businesses that have multiple locations, multiple offices, my first thought was like, Oh, now I can do my office, because I can do my business, right? You know, but it's multiple locations. So it's, it's, it's, it's a nebulous entity as opposed to a physical presence. So if you wanted to do your business as that nebulous entity called business, but I have a specific office location, I work in, that's kind"
+    },
+    {
+        "start": "00:50:30.560",
+        "end": "00:50:58.640",
+        "text": "of like my second home, I could then sign it up as my second home now. So that's kind of cool, right? Would that work? It would work. Yes. Cool. Yeah. Because everybody, I mean, you know, anybody that has a job, your job is your second home. You spend just as many hours there as you do sleeping a week, right? Yeah. I think we probably spend more time in our work locations than we do in our own house, if you tally it up, right? Because it's a lot of hours. But yeah, okay,"
+    },
+    {
+        "start": "00:50:58.640",
+        "end": "00:51:24.080",
+        "text": "no, that's cool. That that's great. So it's just going to be offered to everybody that's got a subscription. Yes. So everyone that has had it for three months or longer will get access to a free product like that. And I think sometime in the beginning of January, that will be available. Oh, that's great. Looking forward to that. Cool. Okay. Anything else? Any parting thoughts"
+    },
+    {
+        "start": "00:51:24.080",
+        "end": "00:51:50.960",
+        "text": "that you want to share? I'll wrap it up. Yes. And one more thing that's going to be coming also in the beginning of January is that there will be more levels that people can be unlocked for. Oh, yeah. And that will actually show in your my subscription overview, if you go into your specific field for you as an example of the level 1,300 as a booster. So we're currently working on"
+    },
+    {
+        "start": "00:51:50.960",
+        "end": "00:52:17.760",
+        "text": "the levels 1,300 1,400 as additional booster levels for the future. That is nothing that will be available right or the gate gate. Of course, it's something that where we have to know there's a certain time period that you've had this already, that you do have the experience, that you do have the capacity and capability to actually take on such higher levels. But yeah, those are"
+    },
+    {
+        "start": "00:52:17.760",
+        "end": "00:52:47.120",
+        "text": "being made available. Okay. Yep. Yep. I saw that on my thing. Okay. Great. All right. Thanks, Philip. Really appreciate your time this morning. And everybody, I hope we got most of the questions answered. If not, just go ahead and go into our upgrade, a quantum upgrade community on Telegram. Link below if you haven't already joined, but go ahead and you can ask questions there. Again, don't, you know, for anyone who hasn't signed up yet, you know, definitely there's a for the non bundles. There's a seven day free trial. So, you know, it's always free to try"
+    },
+    {
+        "start": "00:52:47.120",
+        "end": "00:53:14.800",
+        "text": "and get a feeling for it. And then if you want to get hold of me, you know, go ahead and go to the Tinkers.academy and I have my blog and you can reach me there. You can reach me over in the Telegram community. So that's how you reach Philip and I is on Telegram. The quantum upgrade I/O is our website or Philip's website. And that's it. So thank you very much. I really appreciate the time you have this morning and I'm really excited about the new features. So thanks for that. And"
+    },
+    {
+        "start": "00:53:14.800",
+        "end": "00:53:43.520",
+        "text": "I'm going to go ahead and get this video online as fast as I can. Thank you so much, Kay. Merry Christmas to you and also Merry Christmas to everyone listening to this video and everyone in the Telegram group. You're all amazing. And yeah, I hope you have just some really nice days to calm down, relax, and take it easy and be in love, harmony, and gratitude. Yeah, absolutely. Merry Christmas, everyone. Happy New Year. If we don't have another video between now and then,"
+    },
+    {
+        "start": "00:53:43.520",
+        "end": "00:53:47.440",
+        "text": "have a wonderful holiday. So thank you very much, everyone. A lot."
+    }
+]

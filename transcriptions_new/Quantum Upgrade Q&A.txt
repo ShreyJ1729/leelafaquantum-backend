@@ -1,0 +1,922 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.760",
+        "text": " Parson Aloha everyone and welcome to another tinker's Academy video I'm your host Kay Elmer and I've got Philip Von Holtsendorf with me from the quantum upgrade and today We'd like to do a quantum upgrade Q&A. So there it's been a roughly two weeks Since we are since you know, Philip and won't I guess we? Announce the new service and there's been just a flurry of activity and a ton of questions"
+    },
+    {
+        "start": "00:00:25.840",
+        "end": "00:00:55.080",
+        "text": "So I wanted to just share with you and I asked Philip to come on board so we can do a Q&A to kind of bang You know out some of the frequently asked questions that we're seeing on Telegram so I just for everybody that you know what we're gonna be covering is we're gonna be talking about We know what the service covers like what's the definition of you and pet and car? So the people really are you know, so you're a lot more clear on what it is when you sign it up, right? We're gonna talk about if you are already an owner of capsules and blocks"
+    },
+    {
+        "start": "00:00:55.080",
+        "end": "00:01:20.640",
+        "text": "You know, what's the difference and how does it and how do they work together and so forth? And then talking about for those of you who have signed up, you know, how do you adjust your settings? There's been a ton of questions about changing the settings and adjusting the settings and what the settings mean and so forth And so let's cover that and then we'll talk a little bit about the future enhancements that are coming along For the quantum upgrade service down the road. So before we get into the meat of it I do want to introduce to you if you're not familiar with Philip"
+    },
+    {
+        "start": "00:01:20.920",
+        "end": "00:01:50.240",
+        "text": "He's a healer and he's also the founder owner and operator of quantum upgrade also He's the same for lay the quantum tech and lay the labs and he's coming to me right now I'm in Missouri, and he is in Costa Rica As we speak it's Saturday morning, and so hey Philip good morning, or should I say hola? Okay, yeah good morning to everyone that thanks for having me on I'm looking forward to this. Yeah, so you know, we're we're"
+    },
+    {
+        "start": "00:01:50.920",
+        "end": "00:02:19.400",
+        "text": "International Q&A session here So okay, so before we get into the meat of things Of course, there's always that disclaimer, so I'm gonna go ahead and just give it to you It's neither quantum upgrade nor ting the tinker's academy But recommend or endorse any specific tests physicians procedures opinions or other information that may be mentioned in this video Reliance on any information appearing and discussing this video solely at everyone's own risks statements made have not been evaluated by the FSA or FDA or any"
+    },
+    {
+        "start": "00:02:19.660",
+        "end": "00:02:45.860",
+        "text": "Governmental derivatives thereof quantum upgrade products and products that quantum upgrade may represent are not intended to diagnose treat cure or prevent any disease All righty, so with that said I think real quick if anybody who sees this and it and and Philip This is what I wanted to know or if you could just start off with you know an overview like if somebody's brand new to own quantum upgrade What is your like elevator pitch when someone says what is that?"
+    },
+    {
+        "start": "00:02:45.860",
+        "end": "00:03:13.620",
+        "text": "I mean, do you have like a five-minute spiel that kind of just broad strokes what it is and then we'll jump into the Q&A Yes, I would call it a quantum energy streaming service that basically takes pure quantum energy Right to your home or to your pet your car To your phone or to yourself or even to your business so that those are the different options"
+    },
+    {
+        "start": "00:03:13.620",
+        "end": "00:03:43.220",
+        "text": "You can book it works through quantum entanglement Which quantum entanglement really isn't a new concept at all it has been proven multiple times in a lab and we've Actually proven this multiple times already not just in experiments and tests, but there were even Randomized double blind studies that were done that showed 100% effectiveness in a significant way we talked about that in the previous video and"
+    },
+    {
+        "start": "00:03:43.220",
+        "end": "00:04:12.060",
+        "text": "Yeah, that's in a nutshell what it is. It sounds Crazy, but you know, hey, yeah, I think if you go back to the 1600s and you would You know, just tell a story how you called your friend with a cell phone while you were on the way They wouldn't believe you you couldn't probably really explain it. Well, you would tell them. Yeah, it does work They would tell you know, it does not work well You know, that's pretty much what it is and"
+    },
+    {
+        "start": "00:04:12.060",
+        "end": "00:04:39.620",
+        "text": "You know, it does work. It can be proven It's just very very cutting edge cool. Yeah, and you know, I think the for the general layman Like you know, you're you're like almost a social media star at this point You're you're on so many interviews so many different channels But I think there's there are a lot of people that are brand new the concept of quantum energy and quantum healing So for those of you who are new to it"
+    },
+    {
+        "start": "00:04:39.620",
+        "end": "00:05:06.500",
+        "text": "You know, it kind of falls under the classification also known as frequency medicine So there's a lot of content on YouTube and on the internet on these keywords, you know, quantum healing frequency medicine Quantum energy and and I just want to differentiate that from the physics Academia physics standpoint, but if you want to learn more about quantum healing and quantum entanglement and what this process is Then by all means do the research on those keywords also if you go to my blog"
+    },
+    {
+        "start": "00:05:06.500",
+        "end": "00:05:36.460",
+        "text": "I've got a library of reference material that you can access that you can read There's like I basically plucked as many different books as I could find on this subject So you can kind of read what people like Deepak Chopra have said about it and other really renowned authors Have talked about this this specific topic. So, you know, it is real. It's been out there. It's nothing new real Honestly, nothing new it's been around for a few decades, you know, but like to Phillips example though It is true, you know, I try to imagine"
+    },
+    {
+        "start": "00:05:36.460",
+        "end": "00:06:03.340",
+        "text": "Explaining a cell phone to someone a hundred years ago. So yeah, it is so new that there's the terminology in the language It's just now starting to form but there is a library of resources out there It's already on the internet and I also have some on my blog So come on over and learn more about it and don't don't ever hesitate ask questions. So thank you very much Let's jump in with the first set of questions. That's the thing everyone's really Interested in is this Q&A when I announced we're gonna do it"
+    },
+    {
+        "start": "00:06:03.740",
+        "end": "00:06:33.300",
+        "text": "Okay, so first things first, you know when someone goes to your website And they go here and they say oh hey great. I want to go ahead and pick something I'm interested. This is, you know, this sounds great. Oh free trial great. Let's go ahead and I want to do it You know, so then they click on this and there's all these options Right and so let's talk about these different options because it's like it is there's been a kind of a lot of questions around it You know in terms of like well if it's if it's you if I pick you, you know, myself"
+    },
+    {
+        "start": "00:06:33.300",
+        "end": "00:07:02.340",
+        "text": "My pet my car my home I cell phone my business or I do a bundle, you know, you know And there's been a lot of clarifying questions And all the answers are by the way on telegram Phillips is responding to all of the questions But you know for those of you who know telegram is really hard to kind of find what you're looking for. It's not the best It's more, you know, it's not really designed for that. That's why we do these Q&As and tutorials So let's talk about that. And so what I did guys was I went through the first two weeks of"
+    },
+    {
+        "start": "00:07:02.340",
+        "end": "00:07:26.700",
+        "text": "All of the different discussions in the group on telegram and I plucked out all the categories of different questions And here we go. So first one Phillip when someone chooses you there are questions around that And so there's the first one of the first questions was is you know, is it what is you exactly? Is it a field right? Is there a field around me like if I had a capsule, right? If I'm wearing a capsule or I carry a card"
+    },
+    {
+        "start": "00:07:26.700",
+        "end": "00:07:55.860",
+        "text": "Is there a field around me or is it just my physical body and it doesn't extend past my skin? You know in terms of like that's the quantum energies going towards me me as a person Yes, good question. So in essence, we are only Energy and frequency, okay So that is the first thing we need to understand the physical body is kind of what's calling almost secondary, right?"
+    },
+    {
+        "start": "00:07:55.860",
+        "end": "00:08:25.240",
+        "text": "It's kind of like what we Experience all the time and this is our physical reality, but the body itself is energy and Your energetic system, how I like to call it Could call it energy bodies. It's all way more and bigger than the physical so it extends beyond that It's actually it depends on the person, but you could you could even see our that's a few meters"
+    },
+    {
+        "start": "00:08:25.240",
+        "end": "00:08:52.800",
+        "text": "you know Into all directions, right at least one to two meters So that's your whole energetic system and that is basically getting the charge and with that the physical body is getting the charge Also and the benefits therefore are fully energetic and Translate in the into the physical as well where they are very measurable. So That's in a nutshell what it is and really it"
+    },
+    {
+        "start": "00:08:52.800",
+        "end": "00:09:21.180",
+        "text": "It supports every aspect of your being the you service and therefore it is also the most powerful Of all the services and and even compared to Two blogs that that is possible Okay, if you're just concerned about yourself and you know, you want something really good for yourself you want your energy support then that is the service you want to"
+    },
+    {
+        "start": "00:09:21.180",
+        "end": "00:09:50.700",
+        "text": "Choose and not the home service because the home service is Is less powerful for yourself however, it has than other benefits, right? Because what if you? live together with three four roommates or your family of six and you know, you don't You really want to have a feel that home for everyone then that the home service would be good That's how I would distinguish the two. Okay. Okay. Yeah, so it's definitely your"
+    },
+    {
+        "start": "00:09:50.700",
+        "end": "00:10:17.940",
+        "text": "Physical slash and and well more so your energetic body because your energetic body is the bubble all around you So okay, so it's so you means you your energetic body so then the next question that Came up around that one was what if I'm carrying something? You know, is that is or I'm laying next to my spouse because we're right next to each other They're technically in my within my my bubble right my energetic bubble"
+    },
+    {
+        "start": "00:10:17.940",
+        "end": "00:10:47.700",
+        "text": "Would they also be receiving that energy if there if if something another living thing is like within like my reach in my touch? No, but they would certainly Receive and observe and perceive your energy and your expanded energy and all of that and that That happens anyway, even without the quantum upgrade right if you're together with your spouse, you know, you're ours You know are almost like a little bit"
+    },
+    {
+        "start": "00:10:47.700",
+        "end": "00:11:15.300",
+        "text": "Together and all of that and and she can feel you and you can feel her and so on and and it's just that your energy field is Vibrating at a higher consciousness level and then if you walk into a grocery store for example You're appearing more Shiny or you know, there's with a higher vibration So it's it's just there's a field around you that may that other people may"
+    },
+    {
+        "start": "00:11:15.300",
+        "end": "00:11:44.460",
+        "text": "Observe and resonate with even right so that's that's what happens, but they don't get the energy themselves Okay, all right that makes sense. Okay. Yeah, okay, so it's sort of yet. Yeah, I think you hit it right on the on the nail right It's it's everybody resonates at a different vibrational frequency. You know, we all know we have our energy energy vibrates Frequency and so it's tuned into you your frequency. So even if you're like touching something, it's still just you"
+    },
+    {
+        "start": "00:11:44.460",
+        "end": "00:12:13.140",
+        "text": "But yeah, okay, but the other person perceives it. So that's very that's okay. That's good. Okay, so then we have people Internationally, I mean there's all these different folks live in in different countries and some folks have said, you know Does it work from you know, whatever Antarctica or Europe and Asia? It doesn't matter right anywhere on the planet where you are because it's quantum. It's gonna reach you through entanglement, right? Is that correct? Absolutely. Okay. So anywhere on the planet and and more and and we can guess that it's gonna be anywhere in the universe as well"
+    },
+    {
+        "start": "00:12:13.140",
+        "end": "00:12:41.580",
+        "text": "But you know just this quantum is quantum. Okay, so it's and you anywhere you live on this planet You can search sign up for the service and it will reach you through entanglement Which also includes that you know, somebody did ask like what if I'm traveling and so yeah, it doesn't matter, right? It doesn't matter if you're moving around or in another country anywhere, right? Okay, so then another a big a big question about is what name do I use when I sign myself up? So it's the birth name or your current name now if you've changed your name due to marriage or whatever"
+    },
+    {
+        "start": "00:12:41.580",
+        "end": "00:13:11.660",
+        "text": "So what is the name people should use and should they use their full name like their middle name? You know and whatever follows it Which name yes supposed to register with The current name that is the one that you use not your birth name. However, if you're You have a birth name and you just have your cart name But you really identify more with your birth name and you're about to change it back to that then choose that that's really"
+    },
+    {
+        "start": "00:13:11.660",
+        "end": "00:13:40.700",
+        "text": "a unique situation than for you other than that choose your current name choose the exact name so exact first name and exact last name and If you want to include your middle name at least one you can if you have like four or five middle names You you don't have to include all of those like you will you have a unique identifier already through your first and last name and your birth date and the birth city"
+    },
+    {
+        "start": "00:13:40.700",
+        "end": "00:14:08.180",
+        "text": "So that's that's all good, but you can definitely include one middle name if you have one or more middle names Sure, and what I'm not hard. Okay, and then so let's say I have a current name. My name is Richard, but I go by Rick Would I put Rick or what's best for because that's that's a lot of questions about that, you know about what name? Do I go by my name or my name that people call me by? So"
+    },
+    {
+        "start": "00:14:08.180",
+        "end": "00:14:38.260",
+        "text": "It would most likely work either way that's the first thing because it's about a unique identifier and a signal that is set and If everyone calls you Rick, then that would still identify you I would I would choose Richard though if that's really written in your password or or your Your ID that's what I would personally do. I would choose Richard over Rick or rich"
+    },
+    {
+        "start": "00:14:38.260",
+        "end": "00:15:06.180",
+        "text": "but Yeah, and it would it would work both ways Okay, great. Another question is are there any age restrictions like we had a lady wanted to know about signing up her young child And you know things like it. So are there any is a person's a person no matter how old? Yes, that is correct and and frankly, you know from an official standpoint, we don't"
+    },
+    {
+        "start": "00:15:06.740",
+        "end": "00:15:33.700",
+        "text": "Want to really give recommendations in regards to children and all of that. That's always just such a regulated area But what I can say is that especially children Obviously can benefit from everything that helps their system to be more in balance right and to be more protected against external stressors and Especially in those younger ages, you know, we still develop"
+    },
+    {
+        "start": "00:15:33.860",
+        "end": "00:16:03.220",
+        "text": "You know our brains develop and all of that and if she can get the best food the best water and the best energy Who wouldn't want to do that? Oh, yeah. Yeah, okay. No, that's great. I didn't think so, but you know want to make sure we ask the The axe ask the expert. Thank you. Okay. Next one here is on the idea of pets of I sign up my pet So the idea here is is it any kind of pet birds fish dog cat lizards"
+    },
+    {
+        "start": "00:16:04.420",
+        "end": "00:16:32.980",
+        "text": "I mean, these are good. Did it matter? Does it matter? Yes, so right now we have it only said for dogs and cats. Okay, and we can we can relatively easily Expanded, you know to horses and things like that There has to be a unique identifier though. We don't want to work with pictures So that would be easy with a lizard, you know, if you had a lizard somewhere and you just take a picture But we don't want to work with that so it would need to be"
+    },
+    {
+        "start": "00:16:33.620",
+        "end": "00:17:01.860",
+        "text": "Unique identifier, which currently for a dog would be the name the That it's a dog and then what is the breed of the dog and I think it's the The country at least that we have as well Possibly the city. I'm not entirely sure and that's what needs to be put in right now It's just for dogs and cats, but I'm pretty certain that over time will expand that maybe not to lizards"
+    },
+    {
+        "start": "00:17:01.940",
+        "end": "00:17:32.420",
+        "text": "But probably for at least horses and you know Animals that we may have that that have a name because that would be an identifier Okay, yeah, okay. So you actually okay, so you need something to tune in on but right now just cats and dogs I know folks have asked about livestock. So that that addresses that question Um, the other question is is does uh, is it just one pet? Or could there be like I have two dogs would I need to sign up both of them individually?"
+    },
+    {
+        "start": "00:17:32.420",
+        "end": "00:18:00.820",
+        "text": "If I wanted them to receive this service Yes, they would have to be individually because if you sign up one the other one literally would not receive it the same with the use service It just works for one person. However, and we'll get to that when we talk about the bundles Yes, I'm exciting and news to share today. Okay, great with us. Okay. So, okay, so it's uh, it's only dogs and cats Um only one person that's for now one per subscription if you sign up"
+    },
+    {
+        "start": "00:18:00.820",
+        "end": "00:18:27.860",
+        "text": "Just you know if you click on the pets Um and doesn't have to be my pet There I think there was a question of you know out there that it was like Um You know like this is my roommate's pet, but it's not mine. Can I still sign it up because I love it You know, yeah, I mean you can if you if you Just type in the correct information that is needed for charging that specific pet that's absolutely possible"
+    },
+    {
+        "start": "00:18:27.860",
+        "end": "00:18:56.180",
+        "text": "Okay, because I know I know there's that thing about it about ownership or affiliation as it relates to business But we'll talk about that in a second. Okay, so then cars Uh, the main question about cars, I think people pretty much figure out your cars your car Uh, but there's like people asked about what if I rent a car Uh, you know if I put in the make it model of my car and the energy's going to that car Um, if I rent a car Do I have to then update my uh subscription or or update my my settings?"
+    },
+    {
+        "start": "00:18:56.180",
+        "end": "00:19:25.700",
+        "text": "Yes, so in theory you can absolutely do that with a rental car as long as you have it and you have the vin number Oh, okay. So you need the before everyone that's not in the us the vin number is the you know the unique Identity number for a car basically. There's something like that in every country It's not the license plate though and the license plate also would not work It has to be this this number and it's it's usually in your you know paperwork somewhere"
+    },
+    {
+        "start": "00:19:25.700",
+        "end": "00:19:56.100",
+        "text": "The channel and the dash Yes, and you can put that in for the rental car of course that's no problem and it works And then as soon as you're you know, you're going to be done with that You need to reach out to customer service though to then change it to a different rental car or then to your own car if you have it And then that would switch Okay, so you can't just do that on the website right now You cannot make any changes of the so-called hard-coded data that is the data that you put in"
+    },
+    {
+        "start": "00:19:56.100",
+        "end": "00:20:22.180",
+        "text": "For the actual charging. Okay. Oh wait, okay. We'll talk more about that when we get to that section of the q&a But okay, okay good to know Okay, now let's talk about home. There's a lot of questions about home right as you just alluded to when we're talking about you um So, okay first one off was you know, there was a question about home. What is the definition of home? Is the is it the structure or is it my property and if and if I rent it is it still mine"
+    },
+    {
+        "start": "00:20:22.180",
+        "end": "00:20:50.180",
+        "text": "You know, if I have a farm and it's really really big is it the whole farm, you know, because can you kind of Like narrow down like what does it mean when someone says yes my home? What is that? Yeah, so First of all, if you rent it then it is yours During the time that you rent it and you live in there So absolutely you can choose the home service for you if you're a renter That's no problem whatsoever. It's just anyway going to be to the benefit of the owner as well"
+    },
+    {
+        "start": "00:20:50.180",
+        "end": "00:21:17.700",
+        "text": "However, as you move out then you would also choose a different address and then the charging And the quantum upgrade basically would stop So that said If you have a house on a property then not only the house Is covered but also the whole property is covered So and if it's eight if it's an 80 acre property, it's 80 acres if it's you know"
+    },
+    {
+        "start": "00:21:17.700",
+        "end": "00:21:44.660",
+        "text": "One square one thousand square feet. It's one thousand square feet. Whatever it is The the legal boundaries of the property will be covered fully by the service now if you have an apartment Somewhere or you have an an office and an office building You should not choose the whole property Definitely not be very specific then and"
+    },
+    {
+        "start": "00:21:44.660",
+        "end": "00:22:10.020",
+        "text": "Include your specific suite number or apartment number and then literally just that apartment or the suite will be covered What if I left out the unit number would it do the whole building? Yeah Most likely there you know, we would we could test that in in certain instances the signal may be unique"
+    },
+    {
+        "start": "00:22:10.020",
+        "end": "00:22:37.860",
+        "text": "Enough to just really cover the living space of that individual that also puts in his name his or her name But yeah, I would really try to be very specific with your address. Okay, so just to say Can you find out then because i'm sure people are going to ask because I used to live in a condo I was also on the board, you know as one of those I was not an evil hoe a guy by the way, everybody I was a super nice hoe a guy"
+    },
+    {
+        "start": "00:22:37.860",
+        "end": "00:23:02.740",
+        "text": "But I was on the board right and so I was thinking why not do the whole complex and then Chill everybody out and everyone gets along better, you know kind of thing So that's kind of what I was thinking of it from like, you know We had three separate buildings and why not just do the whole complex So if I left out the unit number, but we you don't know just yet. It actually would work No, that no that that is not a problem. What's oh, if you're a property manager or if you have"
+    },
+    {
+        "start": "00:23:02.740",
+        "end": "00:23:29.060",
+        "text": "People condos or just a whole yeah, you can do that. You can just do the whole property. Okay. Yeah, good That's no problem whatsoever. It would does that apply to neighborhoods like, you know, like if uh, let's say I buy into Country estates, you know, and there's like, you know a bunch of gated houses in there And it's but it's like one Community of of buildings right of homes and it's a hoe a you could say I want to sign up country estates"
+    },
+    {
+        "start": "00:23:29.060",
+        "end": "00:23:53.780",
+        "text": "And then that would be that whole area all all the home at this point I would not recommend that because that is something that we would need to look into specific. Okay, all right So, okay, so just I just you know, yeah, there's all these questions, right? So all right to be determined whether you can do a whole neighborhood But pretty sure you can do a whole building Um, okay. All right. So that's that's good to know. Uh, now what if I own two homes"
+    },
+    {
+        "start": "00:23:53.780",
+        "end": "00:24:21.860",
+        "text": "Like like like, you know, like like you, you know, um, new mexico and costarica. I mean, do you have to sign up each home separately? Yes Okay. All right All right like pets. Yeah, okay, so it's like pet because each one has an individual You know vibrational signature in the in the universe, right? Okay. All right, so that's it So if you own more than one then it's one at a time Um, uh, and then we'll talk about bundles Okay, so then the other question which are you alluded to a little bit ago?"
+    },
+    {
+        "start": "00:24:21.860",
+        "end": "00:24:51.540",
+        "text": "I just want to get some clarification because there was a whole bunch of questions about this Which was do the people and pets living in a home, right? Let's say I sign up my quote home It's my farm or a house or a condo, but I've got pets. I got multiple pets or I have livestock. I got the garden Um, do they all get the same benefit as if I sign them up individually? Including the phones anything inside the home gets that gets this in other words. I'm thinking"
+    },
+    {
+        "start": "00:24:51.540",
+        "end": "00:25:19.860",
+        "text": "Hey, why why don't you know instead of signing up me and my pets and my car Why don't I just sign up my home where everything is and would that be the same thing? It's definitely not the same thing, but it would be the One to choose if you really want to cover all of these things at the same time and they will be covered It's just not as strong like for yourself. For example, it's not going to be as strong as the service"
+    },
+    {
+        "start": "00:25:19.860",
+        "end": "00:25:50.820",
+        "text": "For you because then you'll be just walking in in this field if you will but But you don't have the field like literally within you Uh if that makes sense and that's the same for a pet For example that it's more powerful and more comprehensive and deeper if you Have a pet service for the pet or the use service for you versus the home, but Hey, you know, we we sometimes maybe we have"
+    },
+    {
+        "start": "00:25:50.820",
+        "end": "00:26:19.940",
+        "text": "Multiple pets and other people that live with us and it may just get too expensive to just Church everyone. So just in that case, I would really just do the home service and it'll already be great It'll take care of emfs and all of that It's just not going to be as strong and powerful Okay, that makes sense. Yeah, no, yeah, that makes sense From the standpoint of you're spreading it out as opposed to focusing it in"
+    },
+    {
+        "start": "00:26:19.940",
+        "end": "00:26:48.820",
+        "text": "Um, and so like here's another question. So that that answers that Um, now, um, I did we did get questions about Uh, if I choose my home and there's food and water in my home Because I'm personally compulsive about charging all my food and water with my my eye block Um, it's not the same then right it's not getting that concentrated charge. So You know, like if the food and the water in my home, um, it's not charged like you would put it in a block"
+    },
+    {
+        "start": "00:26:48.820",
+        "end": "00:27:19.540",
+        "text": "That is correct. It's it's not the same. There is a benefit though. There's going to be a benefit If you have the home service, there's there's going to be a benefit for everything that's in your home And by the way also for your plants on your property even Uh, they will get the benefit of that but indeed if you wanted to You know, I don't want to get into these food allergy things too much, but You know, let's take this example of touch shipment with his crab meat that he charges for six minutes in the and the infinity block"
+    },
+    {
+        "start": "00:27:19.540",
+        "end": "00:27:46.740",
+        "text": "right so That is something that doesn't work with a home service. So you would literally have to Have a block for that and Yeah, it's that it's just different. Okay. Yeah, so it's very different So that yeah, the home service doesn't also doesn't charge anything permanently And so we had this question also come up The home service does not everything get charged permanently. No, that doesn't happen and that's just"
+    },
+    {
+        "start": "00:27:46.740",
+        "end": "00:28:16.660",
+        "text": "The way it's programmed and working. It just doesn't do that. So if you want to charge something You would have to use a block. Okay. No, no, that's good. That's good to know. We'll get we have a whole slide on that So all right. So next question then was from a military individual Who basically lives on a base? Then they got apo fpo addresses for military folks. So what if I don't have a physical address Um, then the suggestion and but they live they have a like they live in a barracks"
+    },
+    {
+        "start": "00:28:16.660",
+        "end": "00:28:44.580",
+        "text": "But their address is you know, but it doesn't have an address or there's another person that said um, I live It's um, I think there was like their grandparent or somebody, but they live Uh in one place, but their address it's like one of those uh farm farm addresses, right? Where they don't have an actual address for the farm. They have their mailing addresses You know in town kind of thing, but it doesn't have an address Can they sign up something that doesn't have an address?"
+    },
+    {
+        "start": "00:28:44.580",
+        "end": "00:29:11.460",
+        "text": "And but it's uh You would need to reach out to us Individually and we could we could run a test with some specifically then that that's something I would recommend So if you're on a military base You know, then you you probably have a specific room you're in and I don't know if you're with other people in the same room If you are maybe you have a bed number or you could define that's the"
+    },
+    {
+        "start": "00:29:11.460",
+        "end": "00:29:39.700",
+        "text": "Lore bed on the ride or something like that. So you if you could work it by putting in all these Identifying identifiers that would probably work with someone that just lives somewhere with no address whatsoever I honestly don't know what to do with that at this point. So maybe we could try to work with a longitude and And all that but yeah, oh that was the we would have to test that Yeah, that was the question is whether or not you could work with longitude and latitude. Okay"
+    },
+    {
+        "start": "00:29:39.700",
+        "end": "00:30:07.460",
+        "text": "Yeah, because I've had friends I worked up on nor slope and they lived in barracks And but their addresses were like back in anchorage, right? But they you know, I've had like my father did the same thing. So he was military. So yeah, okay, so for you guys that have a physical residence that Doesn't have like a mailing address and use the physical residence address, right? Barracks 14 room 12 right whatever But and you know like elmendorf arm air force base, whatever, right?"
+    },
+    {
+        "start": "00:30:07.460",
+        "end": "00:30:33.060",
+        "text": "And then that that should help, but I guess you'll have to contact Choose the use service in this case, right? You know, so right right do that. Okay. All right, so keep that in mind Okay All right, so talk about the cell phone Some clarification questions about the cell phone is is it tied to the number like the sim card or to the physical device? To the number to the actual phone number"
+    },
+    {
+        "start": "00:30:33.060",
+        "end": "00:31:00.100",
+        "text": "100 percent of the number it does not it does not matter if you turn off the phone or turn on the phone It works either way, but as soon as you put the sim card in a different in a different phone Because you change it then the new phone will be the one that is getting the benefit. All right. All right, that's clear So the device that has the number Assigned to it. So then there's this other question then down here, which was somebody asked about"
+    },
+    {
+        "start": "00:31:00.100",
+        "end": "00:31:25.140",
+        "text": "Like I used to have ipad iphone so I could take phone calls on my ipad right because it was tied to my phone. So Can you sign up an ipad? Or if I signed up my phone and I took calls on my ipad. Does that include my ipad? Sorry, I was actually one of course. That's a good question. So I actually don't know the answer as long as the sim card Wherever the sim card is in okay in which device that device"
+    },
+    {
+        "start": "00:31:25.140",
+        "end": "00:31:53.380",
+        "text": "Now if if there's a way then that you have a phone where the sim card is in and it's also tied to An ipad and that rings as well. I Um, well a shame on me. I don't know that because they used to work at T-Mobile, but Honestly, I don't I don't we would need to test that Yeah, oh yeah I guess the key thing though is that the sim cards in the phone not in the and the tablet even though the tablets"
+    },
+    {
+        "start": "00:31:53.380",
+        "end": "00:32:21.220",
+        "text": "You know, uh, it's synced up. So it would definitely be the phone and then of course to be determined Through testing, but right now it's just your phone Uh, and then so and then I guess the question there was like, hey, you know, if I carry my phone around all the time And I'm subscribed myself to it That my phone automatically is because it's right. I'm holding it. I think we covered that Um, and it's it yes, but not the same, right? Uh, okay. So then the other question was is does the phone have to be turned on"
+    },
+    {
+        "start": "00:32:21.220",
+        "end": "00:32:49.060",
+        "text": "To receive the the signal that the and the the entered de quantum energy or is it because I was actually a couple of people Last I question whether it needed to be turned on or not No, it can be off. It's no problem. Okay. So it's going to be aiming towards that phone at all times Okay, so then, uh, under the business one, um Well, several questions about that and I kind of just summed it up in four bullets here Uh, but like one of the one one of the first questions about I want to sign up my business"
+    },
+    {
+        "start": "00:32:49.060",
+        "end": "00:33:12.980",
+        "text": "So what you know, what is a business came up? And there's a lot of questions about what is that? So I guess the first question I want to ask before I get into the actual bullets is what is a business? Um, and so let me give you examples there are people that have side hustles Um, there's people that like do multiple side hustles, right? There's people that work for a company. There's people that own a company. There's people that are partners of a company"
+    },
+    {
+        "start": "00:33:12.980",
+        "end": "00:33:41.220",
+        "text": "Um, people that are just employees of a company. So let's let's let's dig this out one at a time. So let's say who okay, so Who can sign up? A company like if I work for bank of america or general electric, right? Can I just know i'm an employee. Can I sign up my company? No, okay, so that's for our, um, rules that is not possible for a very good reason because a business"
+    },
+    {
+        "start": "00:33:41.220",
+        "end": "00:34:04.660",
+        "text": "Is owned by someone or multi-year holders. Yep. Uh, yes And so whoever owns a business or and or is An authorized representative to make a decision for the business can sign up a business and here We're talking about a registered entity, right? Uh, anywhere in the world"
+    },
+    {
+        "start": "00:34:04.660",
+        "end": "00:34:33.700",
+        "text": "That's what we're talking about. So if you know if you have a fitness studio and you know, that's yours You can sign it up if you're the general manager for a fitness studio somewhere You're making business decisions to you know to make sure that your business is going well and all of that and you You do these things right you make these decisions then you can sign up If you're just there as a fitness trainer and but you're not the decision maker actually"
+    },
+    {
+        "start": "00:34:33.700",
+        "end": "00:35:04.020",
+        "text": "Then you cannot sign it up. That's that's not what should be possible because That would interfere with the ones actually being responsible for the business However, so if you have and but you could so do the use service for yourself right and things like that and and you know Even with a specific location, you could probably do the home service for a specific And if you were working at a fast food place for example, that has a specific address"
+    },
+    {
+        "start": "00:35:04.020",
+        "end": "00:35:29.300",
+        "text": "You could choose the home service as long as you keep it at the um at the default levels just out of Respect to everyone else, but that would certainly be Just to the benefit However, if you have side hustles that are not Registered as a business you could still leverage the business service And how do you do that you would just need to?"
+    },
+    {
+        "start": "00:35:29.300",
+        "end": "00:35:59.380",
+        "text": "Describe it or define it in a way that it it uniquely identifies it meaning, you know If you had if you were a taxi driver and just side hustle then you could say um k elmers um Taxi driving service or something like that or you know your Uber side hustle or whatever this is we had someone asked who you know"
+    },
+    {
+        "start": "00:35:59.380",
+        "end": "00:36:27.220",
+        "text": "Is about to write a book and become an author, but it's not really a Registered business yet. So here you can maybe start with the use service But if you really want to focus on the business activity Again, you can you can just say, you know, this is Sarah Smith Venture to write a book or to"
+    },
+    {
+        "start": "00:36:27.220",
+        "end": "00:36:57.460",
+        "text": "author a book Something like that that defines it. So that's fine because the energy then arrives at this Specific activity and and supports that Okay. All right. So the key is that you have to be uh an official Person of that has official responsibility for that that you know business entity Um, and uh to sign up you can definitely sign up your side hustle whether it has a name or not"
+    },
+    {
+        "start": "00:36:57.460",
+        "end": "00:37:26.980",
+        "text": "You can just say calmers Uh, side hustle, right if you got multiple like your door dash uber and you don't have to name them one at a time You just say uh calmer side hustles, right? Okay. So that's good to know So then the other questions about businesses is uh, uh, if somebody owns, let's say, um, you know, uh, a bunch of you know like four or five uh different Locations like they you know, they have a subway franchise and they have five or six Um But the subway franchise has a business name"
+    },
+    {
+        "start": "00:37:26.980",
+        "end": "00:37:54.340",
+        "text": "So it doesn't matter if it has more than one locations You would just sign up the business name by which your franchise is it signed up for? That is correct. Okay, absolutely So it doesn't matter if it's more than one location. Okay. Now what about, um, the you know, you had mentioned and when we talked two weeks ago About how you went, you know, what's the point? You know, what's the purpose of bit signing up a business and and it helps, you know, bring harmony to the business and and it helps with employees and"
+    },
+    {
+        "start": "00:37:54.340",
+        "end": "00:38:21.300",
+        "text": "And harmonizing, um, employee, you know, performance and productivity and all that So there was a question of i'm sorry So there was a question about What about remote employees? I mean, does it have to be if I sign up my business, but i've got remote employees all over the place Does it help those employees or just the employees within the physical Confines of the like the physical business, you know, but you know now we got such a thing nowadays, right?"
+    },
+    {
+        "start": "00:38:21.300",
+        "end": "00:38:48.900",
+        "text": "With this remote worker and brick and mortar offices and everyone spread out So it doesn't matter if people are spread out if they're still cool employees Right. No, it does not matter at all actually because the business is not the business service It's not tied to a specific physical location like the home It's literally tied to the business itself and the business is you can think of it like as an energetic bundle and"
+    },
+    {
+        "start": "00:38:48.900",
+        "end": "00:39:18.980",
+        "text": "Any remote employee and and even to an extent, you know, uh Contractors that work on a regular basis for a business You know they're part of this energy grid if you will and so So it's it's all included, but it's but it works different than the use service So an employee that works at a company that has the business service Doesn't get the same energy at all that the employee would get through the use service, but there is"
+    },
+    {
+        "start": "00:39:18.980",
+        "end": "00:39:44.660",
+        "text": "energetic support there's energetic, but it's all about the business and as this as a side effect positive side effects the The employees get benefits and it's hard to tell sometimes, you know, how this How this plays out like we have multiple companies that we actually looked in more deeply now what is what is happening and"
+    },
+    {
+        "start": "00:39:44.660",
+        "end": "00:40:14.980",
+        "text": "There's definitely one company where suddenly this this startup mentality kind of came back to this business and inspiration uh to this business and then that actually translated to the employees as well that suddenly um found more sense again and what they were doing and And it was more this, you know Movement forward. Wow. No, let's let's do things again. Let's get into activity. So that's kind of what happens. So And it was like a more positive"
+    },
+    {
+        "start": "00:40:14.980",
+        "end": "00:40:42.740",
+        "text": "Environment that everyone really felt relatively quickly this happened already within a couple of days And and that's it's difficult to describe but it works actually is very very profound what is happening with the business And it works towards success and prosperity frankly and expansion and expansion. I don't mean this really in this Greedy way of expansion, right? That's how you know, we've all learned it like in in the old world"
+    },
+    {
+        "start": "00:40:42.740",
+        "end": "00:41:09.380",
+        "text": "For the business, you know, we need to experiment or money and accumulate and accumulate and no matter what it costs and everything else doesn't matter That's not at all what that means. It means a really healthy expansion of what the business is doing and and and that is That's where Really the rubber means of road if there's a business with good intentions and there's something"
+    },
+    {
+        "start": "00:41:09.380",
+        "end": "00:41:33.460",
+        "text": "That is beneficial, right? It all gets supported in a very nice constantly expansive manner and where There's just this bubble just becomes bigger and gets more support and and indeed works to more Prosperity and success and and expansion in that sense however, if there's a business"
+    },
+    {
+        "start": "00:41:33.460",
+        "end": "00:42:00.180",
+        "text": "That that signs up for this that is having evil intentions or is just working to manipulate others Then these then there will only be transformation because these things They can't stand in the in the in the pure quantum field It's just they they lose their power and and by itself this business would need to transform itself"
+    },
+    {
+        "start": "00:42:00.180",
+        "end": "00:42:29.300",
+        "text": "That is also one of the reasons why you can't sign up for I don't know like your McDonald's for example or Coca-Cola, right? Even you know, we may want that all these companies suddenly transform and all of that But that's something you know, we we need to leave these things up to the universe and to the people that are responsible What we can do is we can build the new and that's what we're doing and everyone that is Doing good things and I'm talking here about more conscious businesses, right?"
+    },
+    {
+        "start": "00:42:29.300",
+        "end": "00:42:58.260",
+        "text": "Yeah, we're building the new in the quantum field and people that choose to use this They will get this boost and they will get the benefit and with that we're building the new we don't need to Transform the old it'll that'll happen on its own right now. I think that's a good point because You know for those of you and following Philip for as long as I have I mean the and all of the quantum healing stuff I mean at the end of the day All of this is driven by consciousness and intent"
+    },
+    {
+        "start": "00:42:58.260",
+        "end": "00:43:28.660",
+        "text": "And it taps into this energy source at which amplifies that and one of the things about if you have negative intent It's not going to go anywhere because that's not the natural order of things right natural order of things is harmony So I would say that the best words to use for what the what the service will do for businesses Is it'll help it thrive and it'll help it reach prosperity And that's all it will do and it's not gonna it's you money might not even be the way you measure prosperity"
+    },
+    {
+        "start": "00:43:28.660",
+        "end": "00:43:54.580",
+        "text": "Right. So yeah, that's a really great description. Thank you. That really clarifies something So I do have a question though for for myself I work for a very large company and I work on projects and so I am at a level where I could sign up the by your definition. I could sign up my company You know, I have the authority to do that. I'm whatever. I won't get into it"
+    },
+    {
+        "start": "00:43:54.580",
+        "end": "00:44:24.820",
+        "text": "But I could sign up my company and have representative authority to do so But I'm more interested. You know, there's a few thousand of us I'm more interested in like is there a way I could like like Send energy to my project and to all of the people that are working on a project You know, there's dozens of us and and just having like this specific project within a company. Yes Oh, how much is that? I think that's actually a great idea. I had not thought about that before but it's absolutely clear that you can do that"
+    },
+    {
+        "start": "00:44:24.820",
+        "end": "00:44:51.700",
+        "text": "You would just need to define the project. Well, you know, if it has a project name And all that stuff. Yeah Yes, so I would say I would just identify it by my company's name and then the name of the project And say yeah, I want this project to go. Well, it's uh, I mean we're like in year four Got two more years to go, you know, but you know, I want this, you know, and you know, I just you know Cause man, I'll tell you you know that these these giant projects that last six years"
+    },
+    {
+        "start": "00:44:51.700",
+        "end": "00:45:18.180",
+        "text": "You know, I just you know, bring some energy into it and you know revitalize everybody and you know And and make it and make everything work well with the vendors and yeah, that'd be great So okay, I can sign up my okay. That's great. I was really wondering how to do that I because I would love because it's it's its own little entity right a project something that big Yep Okay, great. All right. So in the next set of questions revolve around the bundle, but as you mentioned You've got things you're going to be changing"
+    },
+    {
+        "start": "00:45:18.180",
+        "end": "00:45:44.580",
+        "text": "So let's talk about the bundle when we get into future announcements and jump into For all of you folks who already own capsules and blocks. There's been a lot of questions about What's the difference between the two? Uh, and so, you know, so I guess right off the bat the first question feel what you know, what's your like Explanation like if somebody, you know, what hey, you know, what's the difference? Like what's you know? I already have all this stuff, you know, what what's the what's this new thing do?"
+    },
+    {
+        "start": "00:45:44.580",
+        "end": "00:46:12.900",
+        "text": "Uh, or you know that kind of because the questions are what's the difference between two and then the breakout questions are What does the upgrade do that the capsules can't what can the capsules do that the upgrade can't right? And then how do they compliment each other and then do they even and then do they interfere with each other? So those are kind of the questions that I plucked out of the chat Uh, and just wanted to see you know, like how would you explain that? Yeah, so first of all, it's really they they complement each other and both have"
+    },
+    {
+        "start": "00:46:12.900",
+        "end": "00:46:41.380",
+        "text": "advantages And things you can do with them and achieve with them that the others can't Let's take you know in terms of the actual physical Technology, let's take the infinity block package as the ultimate right because that's really where you can create different levels on the hawkin scale you can upgrade your blocks to super super high levels and you have amazing fields you can charge every object"
+    },
+    {
+        "start": "00:46:41.380",
+        "end": "00:47:11.620",
+        "text": "And all of these things right so there you're you're pretty much all covered the Benefit that you would still get from a quantum upgrade is that you have Morphlic stability and customization that a blog or even two blogs wouldn't give you because you could set You know different boosters. You can set a different hawkin scale Level for the nighttime you can do on Mondays. You could be at 700 on Tuesdays"
+    },
+    {
+        "start": "00:47:11.620",
+        "end": "00:47:40.660",
+        "text": "You could set it for 800 you could for the next week you could go to 900 and so on and so on so That's just That's just an additional level and on top of that the quantum upgrade, you know, it's just a think of it as a big indeed upgraded System of our own technology and it contains this specific buffer and a harmony feature"
+    },
+    {
+        "start": "00:47:40.660",
+        "end": "00:48:09.700",
+        "text": "Which makes sure that everyone is pretty much picked up where they are Meaning let's say if someone Could put their picture in the infinity blog and the regular infinity blog for half an hour or an hour and and after that Would usually remove the picture because it You know he would notice it would just be too much energy Then on that same level on the hawkin scale you could be in there"
+    },
+    {
+        "start": "00:48:09.700",
+        "end": "00:48:33.540",
+        "text": "for At least a few days in the quantum upgrade just because it it has these features And at the end of that period actually you will be already vibrating at a higher level. It's just It doesn't overwhelm your nervous system Quickly it doesn't kick in these detox effects. It's"
+    },
+    {
+        "start": "00:48:33.540",
+        "end": "00:48:59.220",
+        "text": "It's softer in bringing up stuff, you know emotional stuff, trauma stuff and all of that Then if you were to use the blocks Is it then a hundred percent still needed only you can feel that, you know It's not that you have to have that because you can go so far already with the infinity blocks, of course Um, but the other upgrade service indeed has benefits"
+    },
+    {
+        "start": "00:48:59.220",
+        "end": "00:49:28.260",
+        "text": "Over that but then the benefit of the blocks is really, you know, you can charge your foods You can you can put your silverware in and charge those permanently your keys All of these things And that is something you cannot do with a quantum upgrade service So there are things you can do with the one that you can't do with the other Okay, yeah, I think that you know when you as you're describing that it makes it makes a lot more sense for me because I was one of my first questions"
+    },
+    {
+        "start": "00:49:28.260",
+        "end": "00:49:55.620",
+        "text": "And people have been asking like, you know, I do I need this? I mean what what else would it do for me? And I just I just signed up myself and then what I realized I'm just trying it out or you know Because first of all, if you already own a block and there's a seven-day free trial, give it a try You know, I highly recommend give it a try. I'm giving it a try right now. I signed up yesterday Um, you know and just kind of get a feel for the registration process and click and kicked it in But yeah, I mean I'm compulsive like I mentioned earlier about charging all my water and all my food"
+    },
+    {
+        "start": "00:49:55.620",
+        "end": "00:50:23.620",
+        "text": "And so without a block I couldn't be doing that Uh, and then definitely, you know, making boosters, you know, making capsules and things like that for friends and family You know, yeah, and then also having that thing in my house I do have I am in the in my in the field all the time But so can you comment about, you know, like I have a high upgraded. I be I got a two, you know, two infinity blocks one's an eight one's a nine Uh in my home, of course. I've got other blocks too as well"
+    },
+    {
+        "start": "00:50:23.620",
+        "end": "00:50:53.140",
+        "text": "Um, but having them in my home and I'm in this like really concentrated field um Because the I guess the thing is right there's this new feature you develop for the service And you also developed it for the the travel block, which is that harmonizing Feature right of the energy so that it doesn't overwhelm Whoever's receiving it and so is I mean i'm trying to just kind of like put it in you know get it straight in my head But"
+    },
+    {
+        "start": "00:50:53.140",
+        "end": "00:51:22.180",
+        "text": "If somebody wasn't used to that level of energy and they walked into my home, they would get overwhelmed Um, but you have a there's a feature in the service that makes sure you don't get overwhelmed so that you literally could be in a very high high level high energy field All 24 hours a day right, um and not ever feel overwhelmed. So I guess there's that harmonization Right. Yes. So the service is definitely different than being in the field of a block Yes, so I must say i'm trying to wrap my head around it"
+    },
+    {
+        "start": "00:51:22.180",
+        "end": "00:51:51.060",
+        "text": "That at at some level This is then also still becoming too much. So let's say someone that Is all new to this and then they want to choose a 900 right out of the gate. I mean this will also relatively quickly lead to the fact that they'll be um Moving it back to 600 very quickly because it's going to be too much And that's also the reason why we have locked the booster level of"
+    },
+    {
+        "start": "00:51:51.060",
+        "end": "00:52:20.900",
+        "text": "1200 and that's also the reason why we say okay, you can have multiple Boosters a day. We're okay with that and we'll give you that flexibility But you cannot preset More than one booster. So if you want another booster on a given date, you actually need to take action in order to do that because We feel it's just another level of You know, you need to make that decision and not beforehand and don't just set it because these levels are very very powerful"
+    },
+    {
+        "start": "00:52:20.900",
+        "end": "00:52:47.460",
+        "text": "There are no joke And and while this feature is there, you know, at some point, you know, if you if you blast yourself with the 1200 um For one and a half hours, it's a lot of energy So you can do that but you always need to make that decision again after that half an hour can do a one another half of that So I just want to want to say that and then"
+    },
+    {
+        "start": "00:52:47.460",
+        "end": "00:53:13.860",
+        "text": "You know the travel blog indeed has also this feature but it's it's about I would call it like about 70 60 70 percent of Off that and the quantum blog and infinity blog do not and they may have that in the future at some point But it's not going to happen the next six months. That's for us just impossible to do and to implement um within that time frame so"
+    },
+    {
+        "start": "00:53:13.860",
+        "end": "00:53:43.060",
+        "text": "Yeah, and now I may have missed your question But it was very important for me to to also mention like don't think that you can now Do 10 boosters 1200 and then stay at 900 all day long If you do this that that's Even the future doesn't cover that right. Yeah, it is. Yeah, it's definitely different Yeah, my question was like Um, I live in a very high concentrated quantum field because of all the blocks that I have"
+    },
+    {
+        "start": "00:53:44.260",
+        "end": "00:54:13.220",
+        "text": "And so I I sign myself up under the you thing and I'm wondering um um, you know Because I live in such a high high and you know, highly energetic environment What I you know, would the you even do anything for me Yes, it would and you will you will feel it and it depends probably which level you'll need to like Just test it out and and and see but having"
+    },
+    {
+        "start": "00:54:13.220",
+        "end": "00:54:43.140",
+        "text": "The blocks in your home and you're in in that field is different than being liddly inside A block. Oh yeah, and and in the quantum upgrade. It's like being in the block just in An upgraded block with but these specific features. Okay, and and yes So that will happen and what we'll take over for you then is actually the use service So that is the one that you'll you'll have unless you keep it at a very very low level"
+    },
+    {
+        "start": "00:54:43.140",
+        "end": "00:55:09.780",
+        "text": "Then it's it's probably going to be the conscious level of what you already have in your home but then really what we'll take over is the use service and then um Everyone else in the home and everything else in the home will will Just have the The blocks that they feel basically right pretty much how it works So like being inside the block all the time set at that consciousness level"
+    },
+    {
+        "start": "00:55:09.780",
+        "end": "00:55:37.140",
+        "text": "So the so the added perk of the upgrade would be that it's with me 24 hours a day as opposed to I Only spend 15 maybe 10 minutes a day with my hands inside the block Um as opposed to being able to have it 24 hours a day with the service So that that makes yes because being in the field is not the same as being inside the block um, however, what about wearing my heel capsule? um like what I try to do right is uh, I have uh travel block and in in the truck"
+    },
+    {
+        "start": "00:55:37.140",
+        "end": "00:56:06.900",
+        "text": "And then I wear a heel capsule so that I'm when I'm away from my truck and away from my home I'm still in a field um for emf purposes. So How does wearing a capsule like wearing the heel capsule and signing up for the u uh service? I mean, uh, is it? I mean, how what's the difference there because it seems like they would be the same because I've got the capsule on me But is there something different? Yes, it's very different actually. Yes. So the new services"
+    },
+    {
+        "start": "00:56:06.900",
+        "end": "00:56:36.740",
+        "text": "Yep, the u services way more powerful. It literally is Is almost coming from inside you like the it's it's it's the service Supports you energetically wherever you are in a much higher consciousness Level than the capsule. So the capsule Uh, isn't that high on the hawkin scale? It's it's still high, you know compared to other products out there But it's nothing compared to what you can do with the u service to be honest"
+    },
+    {
+        "start": "00:56:36.740",
+        "end": "00:57:01.940",
+        "text": "and That there still doesn't mean that you wouldn't use the capsule Uh, I probably in the beginning when I start the u service. I would not use the capsule just for several for a few days at least Just to not you know do too much But then the capsule still comes in really handy because it has these specific frequencies Right. Yeah, that's what we're at. So if you then were you have those frequencies"
+    },
+    {
+        "start": "00:57:01.940",
+        "end": "00:57:26.740",
+        "text": "And you get the real quantum boost for yourself also that's uh, uh, that can be very beneficial We had a Trevor for example. I'm just uh posting in the group I think yesterday that uh, he tried that or do you have the capsule and the quantum upgrade and for him personally work really really well And I can I can just uh, you know underline that, you know, because I've yeah, I've tried that too"
+    },
+    {
+        "start": "00:57:27.140",
+        "end": "00:57:52.820",
+        "text": "Okay, so yeah, so okay. So there's just okay the distinct differences is in the the consciousness level of the energy Secondly, it's the present the presence of that field always with you as opposed to being away from your block And that sort of thing but okay that starting to make sense because i'm you know, it's only we're two weeks into this everybody And there's so many of us are trying to wrap our heads around it and try to understand it And that's why we're doing this q&a, but I think that helps me"
+    },
+    {
+        "start": "00:57:53.380",
+        "end": "00:58:23.460",
+        "text": "Hopefully it helps for us you guys and then the the idea here that I guess the last thing was like If I use them together, I'm not going to overcharge myself like I like I personally keep um Myself in my one of my ibs all the time Uh inside it right just uh, you know a picture and then my fingernails and so um, it's always in there 24 hours a day Um, and so then if I signed up for the you and my overwhelming myself now because I've got A disservice coming at me. I've got my eye block coming at me"
+    },
+    {
+        "start": "00:58:23.460",
+        "end": "00:58:53.140",
+        "text": "Um, or no, there's there's no way to overcharge Well, I would I would uh take out the picture and the fingernail Out of the block if you do the service. Okay. That's what I would do. I would not go bought it with with two different things and You can have the block at home. No problem But I would then concentrate on the service and then there find the best level for you because that's that's you know literally like You you can tune it for you know"
+    },
+    {
+        "start": "00:58:53.140",
+        "end": "00:59:22.500",
+        "text": "What is the best for you in a given week or day and and and that's the easiest to to then customize for yourself? Okay. All right. Okay, that helps. Um, all right. Good. And you can have someone else in your block then, right? Yeah, actually I actually do because you know, uh, you know, I'm always being asked to you know And then of course Whenever one of my friends family anybody's got some issues going on. So I always have I have one in my kitchen, right? It's like an appliance at this point"
+    },
+    {
+        "start": "00:59:22.500",
+        "end": "00:59:49.940",
+        "text": "And then the other ones like being used for somebody or some animal a lot of usually a lot of animals Um, and so that's why I like having the service For I was just thinking like what's the service could do for me? I'm like, well, yeah, I could then have it with me all the time And I'd have another thing, you know, so yeah, okay. All right. That makes sense. Um, okay So, hey, by the way, you guys got more questions. Just throw them in the chat and tell her okay So let's get on to the next category on how to adjust the settings"
+    },
+    {
+        "start": "00:59:49.940",
+        "end": "01:00:16.260",
+        "text": "Uh, so we got some questions from the group. I did Uh, as I was signing up yesterday to give it a try um This Uh, right here is once you sign up and and maybe I don't know we can walk through how to sign up But these are the settings for you and so there's all these different questions about, you know These settings and and how they work and and so forth. So, uh, let's go ahead And just start right off the bat with, um, you know, how long does the booster run?"
+    },
+    {
+        "start": "01:00:16.260",
+        "end": "01:00:45.620",
+        "text": "So when I set up the booster like I set it up for right when we started talking Uh, I said it at 1100, but then how long does this thing run? Because there's no like 30 minutes 30 minutes. Okay, 30 minutes and we apologize So that's actually a good question. So I will Let our tech team know because we should probably make a note there that a booster is 30 minutes So that's a good point. Yeah, because there's the people are saying well, there's no start"
+    },
+    {
+        "start": "01:00:45.620",
+        "end": "01:01:13.780",
+        "text": "There's a start but there's no stop right? So how are they? Yeah, okay So then so then and so then in terms of like if I wanted to Like you were talking earlier if I want to boost myself again Like right now it's like 1220 if I wanted to boost myself Could I just do this and then put in let's say start another booster Uh at 1220 and go okay update and then I get another boost I would not set it right at 1220, but I would give it 10 minutes"
+    },
+    {
+        "start": "01:01:13.780",
+        "end": "01:01:41.700",
+        "text": "You know, just put it at 1230 or at one or whatever But you allow your system always five to 10 minutes too So it always takes about five to 10 minutes to um To update basically. Okay. That makes sense. All right. So to your point Which you cautioned about so everybody heads up on the caution is you don't want to be boosting yourself constantly um, but Like you know like like in this example. I'm in the middle of an interview"
+    },
+    {
+        "start": "01:01:41.700",
+        "end": "01:02:08.180",
+        "text": "I want to be at peak energy and the interview lasts like, you know an hour and a half, right? So I want to boost myself while i'm doing it if i'm in a really important meeting at work or i'm taking finals or i'm arguing with the wife I need some energy then you can go on here and I I want to also point out philip had a really great recommendation Which i'm sticking by which is I leave this page running So if I want to make any tweaks throughout the day, I don't have to keep logging back in and out"
+    },
+    {
+        "start": "01:02:08.180",
+        "end": "01:02:37.620",
+        "text": "This thing will just stay running and I can run up here change the number hit update and then, you know, boom, right? Okay, so so yeah, I think the I think the By the way So why you just said a recommendation i just popped up in my mind That I had another recommendation at some point that a lot of people said that helped them a lot in the beginning That was when we had the you know 25 people test group a several, you know a month or a month and a half ago And that was really if you start this you service"
+    },
+    {
+        "start": "01:02:37.620",
+        "end": "01:03:01.140",
+        "text": "it's really the people ask the case of what How do I like leverage this this energy best for me and you know always great things are you know Take care of yourself find something that you know Brings you joy and do that but then there are so all these things that probably everyone has one way another The couple things that are kind of like blocking us because it's stuff"
+    },
+    {
+        "start": "01:03:01.220",
+        "end": "01:03:28.420",
+        "text": "We should should have done already or we should have taken care of like paying this bill or doing that or making that phone call We've always put it off like maybe pick a couple of these things and just do them and and just leverage that energy with that and Wow, you'll you'll feel things like pop. It's it's it's quite amazing Um how that works and it doesn't mean you should go into activity mode, right? It doesn't doesn't mean that you can also go into relaxing mode"
+    },
+    {
+        "start": "01:03:28.420",
+        "end": "01:03:55.780",
+        "text": "But in between there's some of these things that you may have the extra energy boost now to actually get it done Cool because that's that's why I picked you for me, you know I mean I want to actually expand on that but let me get through the questions because I I definitely have what you just described I'm living. I've got a personal challenge and I'm hoping that you know signing up for the you is going to kind of give Me that extra boost so but I want to get into the let me get into these questions here"
+    },
+    {
+        "start": "01:03:56.180",
+        "end": "01:04:24.820",
+        "text": "Um, all right, so it runs for 30 minutes. You can do it multiple times a day Not recommended because you don't want to be that high all the time And I guess that applies and everything Okay, so then um Are there so I guess the thing is so that we talked about are there do's and don'ts right? So the thing is is you would don't recommend boosting constantly, but there was specific to the booster You know, there's only two choices here one thousand and eleven hundred but and so I was thinking in terms of do's and don'ts"
+    },
+    {
+        "start": "01:04:25.220",
+        "end": "01:04:54.420",
+        "text": "So the don'ts is don't recommend, you know, you know, you don't recommend boosting all the time Like multiple times a day, but just a few times is okay Uh, but then at the same time are there any other do's and don'ts that you want to share with everybody about using the booster Not really that's pretty much it by the way you can request the 1,200 level even For the booster, but that would really just be recommended for folks that have already had, you know"
+    },
+    {
+        "start": "01:04:54.420",
+        "end": "01:05:22.340",
+        "text": "an affinity block package for quite some time or that are Energy healers themselves and feel like they can really handle a lot of energy Um, so you can request their from customer service and just let them know, you know that You feel like you can definitely handle that and and then We'll gladly unlock that for you. Okay. Cool. That was one of the actual questions. So okay. You can pause also, right?"
+    },
+    {
+        "start": "01:05:22.340",
+        "end": "01:05:52.740",
+        "text": "So I don't know if people know that but you can also pause the service Uh, and that does mean that your subscriptions stops or pauses. It just pauses the quantum upgrade. So There are some people that are very sensitive and that may want in the first Two nights or so just to completely pause the service and so you can do that at any time You want and then you can just unpause the service also How do you how do you pause it?"
+    },
+    {
+        "start": "01:05:52.740",
+        "end": "01:06:24.900",
+        "text": "If you go there again, you see there the pause button pause button Should be on the upper left somewhere. I can't see it because it's on my phone if it's not there then Then I don't know why because I've seen it multiple times. Um, okay. I'm not seeing it I don't want to go any higher. It's got my personal info, but Um, yeah, don't worry that maybe that you need to clear you catch the end and Refresh it. I'll reach out to the tech team, but it it's been up since"
+    },
+    {
+        "start": "01:06:24.900",
+        "end": "01:06:50.900",
+        "text": "Oh, here it is. Okay. Hey, the screen I was showing everybody was of as of last night I I just hit refresh. So here you go. You got a pause button now Yes, it's a different screen like that for a week. Oh really? Oh weird. Yeah Because I just signed up yesterday. Okay. All right. So here's your pause button. Yeah, you can you can click it And then it also shows shows you okay your quantum upgrade is currently paused Okay"
+    },
+    {
+        "start": "01:06:50.900",
+        "end": "01:07:19.300",
+        "text": "And then you know if it's if it's not paused it shows you your quantum upgrade is currently active That was a request from from the folks in the telegram group to make it more clear Is it now active or is it not? Yeah, no, it should be all like double clear. Okay. Cool. All right So there's your pause button so you can pause turn and you can pause it on and off Uh, oh each booster is 30 minutes. So I guess you already have it there So okay, so then you got the boosters. Okay. All right. So let's see other. What are the other questions here?"
+    },
+    {
+        "start": "01:07:19.300",
+        "end": "01:07:46.500",
+        "text": "Um, how many times a day can I use it? So what would you say as a recommendation? It's like you don't really want to boost over x number of times. Do you have a number or is it per person? Well, people love playing around with this thing. Yeah, I would I would start with just one booster a day You know, if you're totally new to this don't even do any booster Maybe for the first two three days, but then maybe use the booster also to"
+    },
+    {
+        "start": "01:07:46.500",
+        "end": "01:08:16.260",
+        "text": "To tune you of your senses, you know, we've had people that are Maybe not so sensitive to energy and this is all new to them. They haven't Learned and trained themselves yet to to feel the subtle energy and and using the boosters Is also a good way to to actually do that because you at some point you will feel the difference and the energy levels And it's it's a great way You know like becoming a tennis pro, you know, that takes practice same thing here with feeling energy and all of that"
+    },
+    {
+        "start": "01:08:16.260",
+        "end": "01:08:43.460",
+        "text": "Uh, we can all do it just takes a little bit of practice Yeah, I've actually read because I've read the entire thread from start to finish and There have been at least three people come in and just said hey, you know How do I pause this thing because it it they felt it right away and I was a little bit too much for him Just you know right from the getco at 500. So yeah, it's definitely people are feeling it people I like myself that have been living with blocks for you know, well over a year"
+    },
+    {
+        "start": "01:08:43.460",
+        "end": "01:09:12.900",
+        "text": "Um, yeah, I haven't I haven't felt it yet, but again I've got to take myself out of the ib and maybe that'll make a difference. So all right, um Okay, how many times a day? How do I access booster levels? We show you have the contact customer service That's this little button right there You can see it just anytime you just contact customer service Uh, if you want to get to 1200 if you if you've been around QE for a while now, you can have an extra number down here. So right now I've got"
+    },
+    {
+        "start": "01:09:12.900",
+        "end": "01:09:38.100",
+        "text": "1100 1,000 and 1,100 in their twice. So Okay Um Now, uh, how do I change from one option to another? So there was a several questions Uh, where people were saying hey, I signed up for you, but I want to sign up for home next or now, right? I want to switch from you to home Uh, and you know without I don't want two of them. I want one subscription. How do you do that?"
+    },
+    {
+        "start": "01:09:38.100",
+        "end": "01:10:03.460",
+        "text": "You if you currently have a subscription and you would like to rather change it to another one Right and you need to reach out to customer service. Okay Which is support at quantum upgrade.io Okay, now do you have a Okay, you know, because obviously, you know, you're a small company and there's not a lot of you guys plus You know, it's it's overhead"
+    },
+    {
+        "start": "01:10:03.460",
+        "end": "01:10:34.660",
+        "text": "But is there like a limit to like how many times somebody can switch around from car to home to business to you, you know Uh, throughout a month Is I could see where you could get some abuse on that? Yeah, so I mean That's actually not at all the idea that you just switched the whole time No, no, we would not want that that that's not the idea. Right. That would just be crazy. I couldn't imagine I mean you will accommodate that Yeah, that's just too much. But so I'm thinking that you know, people that have asked that question and you know, it's a sincere question like oh"
+    },
+    {
+        "start": "01:10:34.660",
+        "end": "01:11:02.580",
+        "text": "I tried it. I'd rather do something else. Hey, no problem. Let's go ahead. Yeah, that's fine totally fine And you know, we're as flexible as that can be you know with all these things and even Hey, if there's uh, you signed up for the all in one bundle for example, right? So and we're we're getting into the bundle but Now that we're introducing new bundles and if you then want to rather switch to one of the other bundles, of course We're going to make that happen for you, you know, right? Okay, so"
+    },
+    {
+        "start": "01:11:02.580",
+        "end": "01:11:31.620",
+        "text": "Definitely accommodating but you know, um, but just not not meant for I want to try something different every week, you know, that's not that's not what that that on Right. Okay. So just heads up. Uh, now updating information. That was the other thing too is somebody said, hey, I'm moving Uh, or I changed my phone So if I if I like you said earlier if I have any information like the hard-coded information Which would be your personal information and that changes then you have to contact customer service, right?"
+    },
+    {
+        "start": "01:11:31.620",
+        "end": "01:11:57.700",
+        "text": "That's how you go ahead update your yes, and so We debated that in the beginning before we launched this and We came to the conclusion that it's better that way Also because we don't want people to you know use it for themselves Today and then for their dad tomorrow and then for the mother and the next day and then for their friend In three days and all of that and just switch it around, you know"
+    },
+    {
+        "start": "01:11:57.700",
+        "end": "01:12:25.220",
+        "text": "This is your service you send up for you minutes for you and not for someone else if you want it for someone else You just need to get a bundle or something like that Right, and you know if if you change your address because you're moving. Hey, you know, just send this and out. We'll we'll take care of it No problem whatsoever. Oh, yeah, that makes sense. Yeah, just you know, yeah, everybody, you know, keep in mind that You know, people have to do something behind every question your request you ask for and it's meant for"
+    },
+    {
+        "start": "01:12:25.220",
+        "end": "01:12:51.860",
+        "text": "You know, I'm not not constant changes, but okay, that's reasonable very reasonable for a company to to say that Okay, so then um how soon the changes I think you covered that you said about five to ten minutes So I did at 12 20 I updated I updated I wanted to have a boost kickoff at 12 30 So you said give it five or ten minutes. So yeah, it's five or ten minutes after you sit You have to click click update. Don't forget to click update and then it'll happen after that. Correct"
+    },
+    {
+        "start": "01:12:51.860",
+        "end": "01:13:21.540",
+        "text": "Yes, okay now the thing about setting intentions, which is what I wanted to chat with you about Like I signed up for you because I've been wrestling like a lot of people right with with weight loss And I'm trying to kick into doing some intermittent fasting and it has been so brutal trying to get past that You know 16 hour hump for me. And so that's why I'm saying so I'm so I'm really kind of like trying to boost up Energy to kind of just push through that, you know, push through it and get through it"
+    },
+    {
+        "start": "01:13:21.540",
+        "end": "01:13:50.740",
+        "text": "And then of course you got to do everything for 10 days before it becomes a habit So I'm really trying hard and I've failed multiple times and it's been a miserable failure of an experiment But so you know and I so I want to set an intention that says, you know, I will I will make it. I will push through. I will be able to do it for 10 days and make it a daily habit How do I do that with the use service? Because I know I would just write that out and put it in my block and I have and it's not working. So"
+    },
+    {
+        "start": "01:13:50.740",
+        "end": "01:14:19.300",
+        "text": "What do you recommend? I recommend first of all that you take the weight loss card and put it in your pocket during that time when you get started And then you know with the use service and intention indeed, that's where the block would come in handy So I would put the intention in your block because you really can't do that with the with the use service you can Resinate that and set that intention internally for you, right? It's it's sort of this"
+    },
+    {
+        "start": "01:14:19.300",
+        "end": "01:14:48.020",
+        "text": "Internal navigator, right, you know, just try to set it on autopilot and then Just ask your whole system to support it and to to go do it. I don't know if there's So if the intention is to do this for 10 days and then forever I don't know if you could allow yourself on On the weekends for example to not do it that way that's just like a personal I'm getting off track here Maybe but okay"
+    },
+    {
+        "start": "01:14:48.020",
+        "end": "01:15:14.260",
+        "text": "Possibly if you can manage this for 10 days and then maintain it for the next Five days and then just on the weekends you You don't do it that way and then then go back Maybe that is the way to go to not forever and ever be that strict Oh, yeah It's yeah, because well first the first question was and I think other folks have I think a couple other folks asked that question"
+    },
+    {
+        "start": "01:15:14.260",
+        "end": "01:15:42.020",
+        "text": "Which was can you use intentions with the upgrade service or is that something you only can do with blocks? Yeah, it's way easier with the blocks. I would say and the only thing really with the use service Whatever intention you have and you internalize it certainly gets supported But it's something if you put an intention in the block. It really is something that Vibrates there at all times and you don't really need to"
+    },
+    {
+        "start": "01:15:42.020",
+        "end": "01:16:10.340",
+        "text": "Do anything on top of that. Okay. Yeah, okay, because if anyone's familiar with intermittent fasting It's basically only eating in during a six-hour period. So you have to go 18 hours without food And for me between the hours the 14 hour mark and getting to the 18 hour mark is the hardest period of time It's when my body rebels and says, you know, give me food Uh, and so I'm thinking if I set a booster for that time period. I just give myself a little bit of punch"
+    },
+    {
+        "start": "01:16:10.340",
+        "end": "01:16:33.700",
+        "text": "Uh, you know to try to push through and then set the intention to push through. So yeah, there you go. Okay. No, that's that's uh, that's a good That's a good Good approach. Okay. So then we did talk about how to turn it off for a while, which is the pause button um, and then the question we got about the seven-day free trial is, you know Does a regular subscription kick in after the seven days over or do I have to do something to make it like permanent?"
+    },
+    {
+        "start": "01:16:33.700",
+        "end": "01:17:04.260",
+        "text": "No, it happens automatically it happens automatically just if you don't want to continue you just need to Uh, cancel it which you can do with the click of a button or by reaching out to customer service Obviously we prefer that you click the button because that's the easiest But you know, you can also send a note to customer service Okay, and then if someone tries the seven-day free trial and it just they just decide that it's not for them How do they not?"
+    },
+    {
+        "start": "01:17:04.260",
+        "end": "01:17:29.460",
+        "text": "Automatically become a subscriber Just like I just said, you know, you pick the button to cancel it and you can do that. There's a chance to say Yeah, you can you can cancel the service. There should be somewhere Okay, it's probably under my account. So I don't want to go. Yes. Okay. So there is a Okay. Yes. Yes. Yes, it's it's pretty simple to do with one click literally"
+    },
+    {
+        "start": "01:17:29.460",
+        "end": "01:17:58.180",
+        "text": "Okay, but then so if you have the the service the the free trial the seven-day free trial and let's say you You cancel it on day five The service will still continue until the seven days of trial are completed Just so you know so that will will always happen if you wanted though We had another it was just one person that it was just too much energy for her and She then paused it. You know, so you can do that too"
+    },
+    {
+        "start": "01:17:58.180",
+        "end": "01:18:29.460",
+        "text": "Okay, all right. So there you go And then you mentioned too in the chat that you want to if you want to if you don't want to continue You want to cancel the day before it expires, right? Not the day of Don't look like a trial. Yes, definitely definitely the day before not the day off And if you're already in the subscription, let's say you're in a monthly subscription, but it applies the same for the annual Three months three days up to three days before the next payment"
+    },
+    {
+        "start": "01:18:29.460",
+        "end": "01:18:58.820",
+        "text": "Dayed you should you should cancel. Okay All right, that's clear. Thank you very much Okay, last couple of questions and then and this kind of falls into what you're doing in the future. So a lot there have been questions about What are the future enhancements? There's a couple right off. I think it's from sandy D So if you want to start with that, but Let's talk about like this and sandy's questions here for for what services will the frequencies be available"
+    },
+    {
+        "start": "01:18:58.820",
+        "end": "01:19:27.940",
+        "text": "And you know, then oh is it question mark only you or also other options So that's a great question and I cannot answer that yet because we're not yet at that point We have built it all already for our, you know, back end technology. So we know that we can uh work with the frequencies and all of that, but there's There's still one thing we need to figure out on the back end because as you know, we have um various healers and tinkers that"
+    },
+    {
+        "start": "01:19:27.940",
+        "end": "01:19:55.300",
+        "text": "You know make amazing frequencies and we need to Still think through okay. So how does this now work this model? If we offer a frequency there, that's something Um, you know, and maybe you even have an idea offline For that that that's just one thing the other thing is that okay, where exactly do we offer it? How many do we offer? I you know, I don't want to Offer too many but at the same time that people may request it"
+    },
+    {
+        "start": "01:19:55.300",
+        "end": "01:20:20.500",
+        "text": "So we'll see within the next three month at least that will be available and I think within the next 30 days we'll be able to announce it and Yeah, that's that with with the frequencies. Okay, so but if you have a block definitely can send frequencies easily Um, but this is forthcoming. Okay. All right. So there's your answer there. Uh, now same questions for the boost right sending"
+    },
+    {
+        "start": "01:20:20.500",
+        "end": "01:20:46.580",
+        "text": "Uh, can you boost other services other than just a person can I boost my pets and my business and Will there will these other options have the boost feature? They already have that today already have it now. Okay. I haven't looked at it. Okay Every service has the booster function and just with the pets I would be really mindful, you know, just uh, you know, just"
+    },
+    {
+        "start": "01:20:46.580",
+        "end": "01:21:14.100",
+        "text": "Don't think these things feel these things. Okay. All right. Cool. Okay. So then let's talk about the bundles Um, earlier the only question I had was, you know, people were just seeking clarification on bundles Like, you know, what are the particulars about them and so forth? So Can you kind of just let's talk about the all-in-one bundle offer and what's coming like how it works now If you already signed up for it and then what do you have planned for this this feature going forward?"
+    },
+    {
+        "start": "01:21:14.100",
+        "end": "01:21:40.740",
+        "text": "Yeah, so all-in-one means you can literally have up to all of the services That we offer Um and up to one of each, right? That's what it means. Now. Let's say you don't have a pet Then you can't use the pet of but you know, you could use everything else. So that's pretty much what that means and Very soon, I think within the next"
+    },
+    {
+        "start": "01:21:40.740",
+        "end": "01:22:09.700",
+        "text": "Within this coming week, frankly, we will introduce more bundles And that will be the so-called pick three pick four and pick five So you get to basically pick in the pick three Scenario pick three services of your choice. It could be three even three businesses It could be three of you know, you services and then with that you cover your two kids also, right?"
+    },
+    {
+        "start": "01:22:09.700",
+        "end": "01:22:37.140",
+        "text": "As an example, so it's much more flexible than the all-in-one bundle But but again, so the all-in-one bundle really was the start and it covers up to six And again, as I said, you know, if if someone is there that's like, oh, I have this all-in-one bundle But the pick five is actually what I really want and need You know, no worries. You can you can switch to that one. We'll make that happen for you. Okay"
+    },
+    {
+        "start": "01:22:37.140",
+        "end": "01:23:05.540",
+        "text": "Yeah, I can see where it'd be like I basically live with two dogs. So I'm not really worried about it Um But if I had a spouse, we both have cars, right? So a home two cars two people Two phones, so you definitely need to pick a different bundle because this is this is more like just for me My house my car my pet Right, so it's all yes, just one one per and then you're gonna have bundles that are to offer others. Okay, great Uh, yeah, there wasn't really specific"
+    },
+    {
+        "start": "01:23:05.540",
+        "end": "01:23:36.820",
+        "text": "Questions other than the mix and match which you just answered so that kind of handles that Uh, so that really kind of wraps up the questions. I mean, was there anything else that you that maybe I didn't catch in the chat that you might want to address Not really. I think we really covered it. Yeah, I can just extend a big big thanks to you for For doing this and and and for having suggested that we cover this. I think this will be very helpful And also thanks to everyone really in in the quantum upgrade community"
+    },
+    {
+        "start": "01:23:36.820",
+        "end": "01:24:06.420",
+        "text": "Group, it's it's a fun group already and yeah It's great that you guys asked so many questions and that you could have so many ideas also and and that you share So it's uh, it's been great. Thank you and thanks also to Emma because you have for Emma. It's been also Right Yeah, I noticed Now she's got two I mean the before the poor woman, but yeah, she's working hard. I'll tell you but yeah, okay, but okay"
+    },
+    {
+        "start": "01:24:06.420",
+        "end": "01:24:31.060",
+        "text": "So that's it. So uh, so everybody out there in the telegram community. This this is you You got you are these are your questions. It's only been two weeks So we wanted to put this together because it is hard to find the answer So at least we can introduce everybody to the q&a and then they could just go Hey, here's here's the FAQs for the first, you know for the first few weeks and it really kind of gets people over the hump So hey, thanks a lot for submitting questions. Thank you philip for your time"
+    },
+    {
+        "start": "01:24:31.060",
+        "end": "01:24:58.340",
+        "text": "Uh, this morning really couldn't do any of this without you and thank you for bringing the service to the universe. So uh, yeah, it's just absolutely cool I mean Folks if you haven't even looked at the studies on the website yet, you really need to It is beyond amazing. What this actually does in the physical real world when people actually study it like literally under a microscope Um, so yeah, it's definitely very very cool and very very real very real. Uh, so thank you philip"
+    },
+    {
+        "start": "01:24:58.340",
+        "end": "01:25:23.380",
+        "text": "Appreciate your time today. Thank you for submitting questions and any party words. I guess I already said that Thank you k and thanks to everyone out there All righty. So anyone that wants to reach out to either one of us Um, just come on over here. There's gonna be links in the video descriptions for the Telegram chat group for the quantum upgrade Uh, if you want to check me out on my blog. I'm at the tinkers.academy"
+    },
+    {
+        "start": "01:25:23.380",
+        "end": "01:25:52.340",
+        "text": "In your in your url window. I have a blog and there's a whole section of the blog dedicated to quantum energy and delay less So yeah, and again, you know, if you haven't tried it seven days free trial Try it. You know, I hate to sound like a salesman, but it's free and go ahead and give it a try and Um, there and really there's nothing to lose just don't forget to cancel if you don't want it But anyway, thank you very much for your time everybody really appreciate it. Thank you philip Uh, and aloha. I have a great day You too"
+    }
+]

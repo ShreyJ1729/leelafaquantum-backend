@@ -1,0 +1,562 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.400",
+        "text": " Aloha everyone and welcome to another video by me K. Elmer and in this video I would like to share with you something very very unique and very special and in its infancy of getting the word out to the world about what this is all about it is just really the most surprising thing I've run across since I ran across C60 two years ago and I just have been researching this doing a"
+    },
+    {
+        "start": "00:00:28.400",
+        "end": "00:00:55.200",
+        "text": "very deep dive for the last couple of months and doing a month of experimenting on my own and I just wanted to put this together to share with you what I've learned so far which is pretty much the theme of my my YouTube channel here. What I'm talking about is a substance called Brown's Gas. It's also known as HHO and it's been primarily used in the welding industry"
+    },
+    {
+        "start": "00:00:55.200",
+        "end": "00:01:23.360",
+        "text": "since the 70s and it's it's it's entry into the health and wellness space is very recent there is not a tremendous amount of research being done on it up till now and it's it's very much very very new it's like you know just it's so interesting how it replicates the interest in C60 so it's something that I"
+    },
+    {
+        "start": "00:01:23.360",
+        "end": "00:01:49.000",
+        "text": "just kind of stumbled across actually and I just really really just have just very very surprised that the results that I've gotten and and with my experience with Brown's Gas and the question here that I'm putting forward to everybody is is this better than carbon 60s so let me share with you what I've learned and what I've been experimenting with and the results that I have and then you know chime in let me let me hear what you got to think now"
+    },
+    {
+        "start": "00:01:49.000",
+        "end": "00:02:13.960",
+        "text": "this video is part of my electrohealing series as opposed to the carbon 60 series because it takes electricity to generate Brown's gas and what Brown's gas does is it affects your the energy of your body with the whole concept of electrons and protons and let me go ahead and I'll get into that in a moment but for you folks"
+    },
+    {
+        "start": "00:02:13.960",
+        "end": "00:02:39.400",
+        "text": "that are interested in C60 and are and are actively in taking C60 and you know that C60 is an electron donor and it's a super antioxidant way do you hear what Brown's Gas can do for you so it's gonna get a little science nerdy here for a few minutes please bear with me but if you follow along you'll understand the progression of the information I'm about to present so first things first let's"
+    },
+    {
+        "start": "00:02:39.400",
+        "end": "00:03:07.720",
+        "text": "jump right in disclaimers the statements made in this video have not been evaluated by the FDA and are not intended to diagnose treat cure or prevent any disease I do not recommend or endorse any specific products procedures opinions or other information that may be mentioned reliance on any information appearing and discuss in this video solely on everyone's own risk some material discussed in this video is theoretical and conclusive evidence remains to be published so for those of you who'd like to comment about things"
+    },
+    {
+        "start": "00:03:07.720",
+        "end": "00:03:34.120",
+        "text": "that I say that aren't proven science yes I know it's theoretical so let's bear with me and come for the road and cover the right okay so the very first thing that I just want to do a real quick intro what is hydrogen and the and the reason that I even got into hydrogen to begin with them specifically molecular hydrogen and its health benefits okay so first of all you know it's start all started with C60 a couple years ago you know the recommendation at the time was"
+    },
+    {
+        "start": "00:03:34.120",
+        "end": "00:04:03.400",
+        "text": "say Eden Apple after you take C60 because the hydrogen works really well with C60 blah blah blah blah and the next thing you know almost everybody I know that was taking C60 started also drinking hydrogen water from one of those little bottle things or taking the tablets and so forth and so it became kind of this really good combination and people found out that they really did work well together because they're both super antioxidants but you know let's start with what is hydrogen which is you know how I got into hydrogen so what is"
+    },
+    {
+        "start": "00:04:03.400",
+        "end": "00:04:30.200",
+        "text": "hydrogen well it's basically if you look at the periodic table it is the smallest and lightest element on the entire periodic table it is only comprised of one electron one proton and when you look at the human body and you break it down to its atomic particles what's really interesting is that the human body is 64 percent hydrogen and 24 percent oxygen now of course you combine those two and what do you have is you have H2O and we all know that we"
+    },
+    {
+        "start": "00:04:30.200",
+        "end": "00:04:59.040",
+        "text": "are literally walking saltwater aquariums right you're most average human beings are like an 11 half gallon saltwater aquarium I mean you're just all water pretty much and then there's 12 percent carbon we all know that and then there's two percent others all the other minerals that compose all the hard the hard parts of your body but you know the thing is is we're we're the majority of us is of our bodies is hydrogen so when you think about taking hydrogen as a supplement and how do you get hydrogen in your food in your area you know it's"
+    },
+    {
+        "start": "00:04:59.040",
+        "end": "00:05:27.720",
+        "text": "you really start getting deep into the whole concept of hydrogen and finding out you know how important it really is and it's really overlooked I think I think it's very overlooked in maintaining our health is the concept of taking in hydrogen so real quick science lesson here how is H2 produced to you know to provide as a supplement and well first of all H2 is the hydrogen atom which is one proton one electron and combined together to form to form two hydrogen"
+    },
+    {
+        "start": "00:05:27.720",
+        "end": "00:05:57.320",
+        "text": "atoms forms hydrogen gas so H2 is two hydrogen atoms and that's H2 it represents the hydrogen gas and so how it's produced and if you have one of those little bottles and actually made a video about those bottles and this membrane called the PEM membrane and some of those older bottles the cheap bottles don't have this membrane and they produce all sorts of weird chemicals and things and is not good for you and then I the video I had said well you know it's not good for you but not worse for you than tap water that was the outcome"
+    },
+    {
+        "start": "00:05:57.320",
+        "end": "00:06:25.960",
+        "text": "of that one video but I this is like the third video in hydrogen I've done so but but this puppy your basic hydrogen bottle set up or your hydrogen machine whatever you've got is that you've got this membrane usually a PEM membrane it takes the H2O the water that it's that it says you put you fill it with water and then you just turn on you just do an electrolyzer you've got an anode and a cathode positive negative you put an electrical charge into the water separated"
+    },
+    {
+        "start": "00:06:25.960",
+        "end": "00:06:55.840",
+        "text": "by a membrane and on the anode side the plus side is gonna be producing oxygen and oxygen comes out one side and then hydrogen it breaks apart that H2O thing and the oxygen goes one side hydrogen goes the other side and the H2 gas gets broken off from the H2O O goes this way H2 goes this way follow the green arrow and then basically this comes out and then you would then this bubbles into water that you would drink the hydrogen water or if you have a machine for a"
+    },
+    {
+        "start": "00:06:55.840",
+        "end": "00:07:22.240",
+        "text": "hydrogen inhalation you'll be breathing hydrogen gas through the machine okay and that's just really as simply as it gets it's just an electrolyzer in water and so now what are the health benefits of just regular old molecular hydrogen well this is the one thing that's not theoretical there's actually I mean hundreds and hundreds of science studies on the effects of hydrogen and and and why it works how it works what does it do it's actually being used today in"
+    },
+    {
+        "start": "00:07:22.240",
+        "end": "00:07:52.080",
+        "text": "hospitals because it is got some remarkable health benefits of just basic hydrogen gas first of all that's a super antioxidant when you start taking a look at some of the most popular antioxidants that people take for supplementation you know you're looking at Q10 look how big this thing is 863 atoms in this giant molecule even vitamin C has 176 atoms that forms this molecule of vitamin C so it's quite large and you get down into the carbon 60 here 60"
+    },
+    {
+        "start": "00:07:52.080",
+        "end": "00:08:18.760",
+        "text": "carbon atoms formed into a sphere to form the carbon 60 molecule that's one nanometer in in size which is like one nanometer if you took carbon 60 this little molecule and you lined it side by side and formed a line it would take 100,000 carbon 60 molecules to form the width of the average human hair that's how small these things are but take a look at this hydrogen only has two just"
+    },
+    {
+        "start": "00:08:18.760",
+        "end": "00:08:45.560",
+        "text": "two atoms and it is literally the smallest thing in in our universe right now that we know of you know in terms of atoms okay there's quarks and all those other things let's not go there so and so the whole item idea here is that it's literally the smallest one it's way smaller than carbon 60 and what makes it really unique is because of its size and because of what it does so it it basically here's the health benefits it reduces inflammation hydrogen gas"
+    },
+    {
+        "start": "00:08:45.560",
+        "end": "00:09:14.280",
+        "text": "reduces risk of metabolic syndrome it provides neural protection for various diseases and types and types of cranial injuries it reduces side effects associated with cancer radiation treatment prevents liver damage for diabetic patients it reduces the effects from Parkinson's and every one of these statements is made and you can go find some studies for it I'll tell you where to go find them too so hydrogen is very molecular hydrogen there is a lot of data it's a lot of science all out there super super good for you and so"
+    },
+    {
+        "start": "00:09:14.280",
+        "end": "00:09:43.080",
+        "text": "there's been a hydrogen industry going on for a long time you know and that's where you know and that's how it got tight into C60 and and where those industry have produced commercial products is you know these little bottles that people buy or you take tablets now I had one of these bottles that I found out it didn't have the membrane and it made chlorine and I didn't I don't like the taste of it so it's you know no worse than tap water but I don't like to drink chlorine in tap water anyway so I just kind of threw my bottles away and I've been using these tablets the Viva tablets and the h2 elite tablets and"
+    },
+    {
+        "start": "00:09:43.080",
+        "end": "00:10:10.760",
+        "text": "that's actually how I've been taking hydrogen for a couple years now just using the the tablets you know and it works out just fine that's I mean a video on that too and then if you know other folks will get these pictures and the electrolyzers are sitting inside there and they split the water and they bubble the h2 through the pitcher and you drink the water you've seen these things these water cangan type of machines Jupiter machines and they also they produce quote alkaline water but they also create hydrogen in there so"
+    },
+    {
+        "start": "00:10:10.760",
+        "end": "00:10:38.160",
+        "text": "you're drinking hydrogen water and these and then the water actually just comes right out the spout it's not a bubbler you can't breathe it but then you've got these machines over here which are actually hydrogen inhalation machines that produce hydrogen gas that you can then put the bubbler you know put a bubbler on the end of the tube and stick it in water to create hydrogen water or take the the tube stick it up you know I'm not sticking up your nose but put a cannula on it and then you could just breathe it too so it's an inhalation"
+    },
+    {
+        "start": "00:10:38.160",
+        "end": "00:11:07.480",
+        "text": "slash bubbler and then and then that these that's what these things do and so these are all the different products that are out there to support all of the different science that's going on and people have been benefiting from hydrogen for quite a while now I'm and that's it that's about hydrogen now okay so and I just for more information about hydrogen you know these are two guys that have done a tremendous awesome superior body of work it's Tyler LeBaron for the Molecular Hydrogen Institute you can Google him YouTube that guys tons of"
+    },
+    {
+        "start": "00:11:07.480",
+        "end": "00:11:35.380",
+        "text": "different great interviews awesome site there's like if you want to look up hydrogen studies this is the site you go to links all in the video description and then there's Taiwan Hubbard on YouTube and he's got the H2 minutes YouTube channel and he's just got tons of videos about how fantastic hydrogen gas is for you and drinking hydrogen water so by all means hydrogen is awesome but this video is about Brown's gas but I just wanted to give you the the"
+    },
+    {
+        "start": "00:11:35.380",
+        "end": "00:12:01.720",
+        "text": "groundwork here how great is hydrogen and is there something better and then let's bring in Yule Brown so now Yule Brown which is what the gas was named after because he submitted the patents for it a Bulgarian born Australian national born in 22 died recently 1998 he was a trained electrical engineer in a professor from Australian University he basically as an electrical engineer"
+    },
+    {
+        "start": "00:12:01.720",
+        "end": "00:12:27.800",
+        "text": "tinkered around with trying to improve the efficiency of welding equipment and welding fuel and he's all about welding now okay that's why this is so uniquely different about Brown's gas is it hasn't really been looked at as a health remedy until just these most recent like 10 years just very similar to you know 660 and so in 1974 he filed a patent for Brown's gas and in 1976 he filed a"
+    },
+    {
+        "start": "00:12:27.800",
+        "end": "00:12:53.680",
+        "text": "second patent for it which he was awarded now what he did was he showed that hydrogen and oxygen could be separated from water which we know know that's possible but then burned cleanly and most importantly safely if we all remember the Hindenburg that's why people just don't burn pure H hydrogen gas hydrogen gas is extremely explosive and so you just do not want to you know"
+    },
+    {
+        "start": "00:12:53.680",
+        "end": "00:13:22.160",
+        "text": "try to use that as a fuel most welders you know they're using acetylene oxygen so forth right propane butane all these different things but you know and most people do not try to just burn hydrogen but he came up with an hydrogen oxygen combination that burned cleanly using many different objects and you know what's really really unique about this and here's just the abstract from his one of his 1974 patent and I'm just pulling this up because because I want"
+    },
+    {
+        "start": "00:13:22.160",
+        "end": "00:13:50.840",
+        "text": "you to understand where he was coming from and he never got into the whole health aspect of Brown's gas by the way he only focused on the welding aspect of Brown's gas which makes this so unique but you know when he put it all together and he submitted this for a patent basically he was talking about his patent was on a gas that utilizing mixture of hydrogen and oxygen generated in a substantially stoichiometric proportions in electrolytic cell by"
+    },
+    {
+        "start": "00:13:50.840",
+        "end": "00:14:18.200",
+        "text": "electrolytic disassociation of water more importantly it relates to atomic welding now when I first started getting into this I never heard the phrase atomic welding and what that means is that Brown's gas when lit when burning changes the the atomic structure whatever it's put on the flame is put on it's just unbelievable I mean it's it's like I was very surprised to learn about this because I didn't know it existed but you know if you're a welder you probably"
+    },
+    {
+        "start": "00:14:18.200",
+        "end": "00:14:44.560",
+        "text": "knew about this for 10-20 years already but with the welding guys they all know about this but the health guys are like just finding out kind of cool so now how is Brown's gas produced okay and that's what's really unique here unlike H2 gas that's produced Brown's gas is produced with an electrolyzer okay you've got the anode in the cathode you're passing electric current through water"
+    },
+    {
+        "start": "00:14:44.560",
+        "end": "00:15:10.720",
+        "text": "that's also includes an electrolyte the most common electrolyte used is sodium hydroxide which is also a lie which is the stuff that used to be in all our soap a hundred years ago or sooner I don't know but what happens is is that in between the anode in the cathode in the between the two electrical plates where you've got one side is pumping out oxygen one side's popping out hydrogen"
+    },
+    {
+        "start": "00:15:10.720",
+        "end": "00:15:36.920",
+        "text": "gas just pure hydrogen gas just pure oxygen O2 H2 in between the two anode and cathode is produced a third form of gas and this gas is when when is when is brought up and collected is a form of gas called and which is they gave it a name they called it Brown's gas they also called it oxyhydrogen or H H O"
+    },
+    {
+        "start": "00:15:36.920",
+        "end": "00:16:01.520",
+        "text": "okay you'll hear the H H O a lot if you look for YouTube videos you'll most likely find Brown's gas called H H O H H O generators for welding and so forth or there's very few health videos out right now I think this video that I'm making right now will be one of the first there are a whole bunch of other interviews George Weisman and so forth but this will be one of the first set actually covers it from a health perspective and and so this gas comes"
+    },
+    {
+        "start": "00:16:01.520",
+        "end": "00:16:29.720",
+        "text": "out and it's 66.6666 percent hydrogen and 33.333 percent oxygen so you've got the oxygen gas O2 and two hydrogen gas molecules H2 H2 and it forms a gas a different kind of gas combined together that is now called Brown's gas and what's really amazing about this about this gas and here are some of the properties"
+    },
+    {
+        "start": "00:16:29.720",
+        "end": "00:16:57.240",
+        "text": "that now of course remember now Brown's gas created wrote his file this patent in 74 so he'd been tinkering around with it for what 50 years right I mean this thing has been around for 50 years it's kind of like you know C 60 you know they came out in 86 and got the Nobel Prize in 96 so you know it's been around for a while really used in welding but now it's being looked at from a health perspective and the story behind that is amazing so but here's the properties"
+    },
+    {
+        "start": "00:16:57.240",
+        "end": "00:17:24.880",
+        "text": "behind ground bounce gas now what's theorized and this is where we're gonna go into theory now because this is all really kind of like okay everyone's trying to figure this out from a like what exactly is it is it's theorized that Brown's gas is a mixture of diatomic and monatomic hydrogen and oxygen which is meaning that it's monatomic but O1 H1 one atom of oxygen one atom of"
+    },
+    {
+        "start": "00:17:24.880",
+        "end": "00:17:48.000",
+        "text": "hydrogen and diatomic two atoms of oxygen to form an oxygen gas and two atoms of hydrogen to form hydrogen gas so you've got different elements of the same or different forms of the same elements within the gas you've got just an oxygen atom oxygen molecule hydrogen molecule hydrogen atom all mixed up"
+    },
+    {
+        "start": "00:17:48.000",
+        "end": "00:18:16.400",
+        "text": "together with water H2O vapor in the gas and something that's theorized and called electrically expanded water and I'll get into that in a second and so it's got these four separate components that forms this one gas and then one of the things that you know and it's been you know they've been dinking around and tinkering with this for years now okay and so they're fine this is what and there's actually in the links I highly anybody who's interested in this there"
+    },
+    {
+        "start": "00:18:16.400",
+        "end": "00:18:43.840",
+        "text": "is a demonstration link to actually you'll Brown doing demonstrations is really old video on YouTube like posted you know years ago but anybody's there and he's doing his demonstration he's talking about browns gas and he does all these different demonstrations and of course so they've been experimenting with this for a long time and so here's the here's some of the unique characteristics that that differentiates brown gas from just H2 gas that it has"
+    },
+    {
+        "start": "00:18:43.840",
+        "end": "00:19:13.840",
+        "text": "400 it puts out 442.4 kilocalories of available energy in the gas versus 115.7 kilocalories from just regular old O2 okay so the combined gas has literally four times the amount of available energy you know when using as a fuel all right now and then one of the things is as a as a welding torch you when used as a welding fuel browns gas has zero emissions burned it's literally"
+    },
+    {
+        "start": "00:19:13.840",
+        "end": "00:19:41.000",
+        "text": "water in right you put water in a tank electrolyze it browns gas comes out you know if you set it up right and you burn that gas there are no fumes there's no exhaust the exhaust is it forms back in to water now it also alters like again atomic welding it alters the molecular structure of what's being welded if you watch that video it's it's it's it's it's amazing what what he does with this"
+    },
+    {
+        "start": "00:19:41.000",
+        "end": "00:20:10.360",
+        "text": "flame this brown glass you know browns gas flame and it changes temperature when applied to different materials and in the video he actually demonstrate that it can sublimated the sublimation is changing a substance from one state to another which is he takes tungsten which is one of the hardest metals in the planet and it takes 6,000 Fahrenheit degrees 6,000 it's like almost the heat of the Sun to get that to to sublimate to get that to melt right and he takes the"
+    },
+    {
+        "start": "00:20:10.360",
+        "end": "00:20:37.160",
+        "text": "browns gas flame and he and he just basically passes it over tungsten and it heats up and sublimates right and it but but that but that same flame he runs it passes arm and all it does is cinches hair and it doesn't even burn his skin and then he then he sits there and while the flame is on and this thing just melted tungsten so this this flame in the video melts the tungsten 6,000"
+    },
+    {
+        "start": "00:20:37.160",
+        "end": "00:21:05.680",
+        "text": "degrees Fahrenheit and he reaches over and he grabs the tip of the torch and he just holds on to it with his fingers and it doesn't even burn him because they flame is it hot the flame is a completely different it's basically an implosive reaction of water it's literally water on fire and it has a completely different property then you would have had like let's say if you had"
+    },
+    {
+        "start": "00:21:05.680",
+        "end": "00:21:30.360",
+        "text": "a propane torch or an acetylene torch where there's no way you could touch the tip of the torch because the torch is hot because you're creating an explosive thermal reaction as opposed to a non explosive and implosive reaction it's just fascinating what he does in that video and then when now when you take browns gas and you bubble it in water and this is what's really interesting for"
+    },
+    {
+        "start": "00:21:30.360",
+        "end": "00:21:56.840",
+        "text": "those of you who drink H2 water the half-life of browns gas in water is 24 hours versus only 20 minutes for H2 so for all these years I've been taking H2 water and I can't tell you how many times I made a glass of water with some tablets and spaced out and forgot about it and it's been more than 20 minutes but within 20 minutes all the H2 gas just evaporates out of the water because H2 is so small it goes in every direction and it's just gone and you have to start"
+    },
+    {
+        "start": "00:21:56.840",
+        "end": "00:22:22.920",
+        "text": "all over so you have to when you're making H2 water you got to drink it really quickly you got 20 minutes to get it in or it's gone you know and then you have to start over but with browns gas water it's you could make a batch of water in the morning drink it all day and you've got your browns gas water for the whole day so it's very different than H2 so the other properties we'll get into in a second here but what I want to do okay so I have a quote from George"
+    },
+    {
+        "start": "00:22:22.920",
+        "end": "00:22:51.560",
+        "text": "Weisman so now you'll brown passed away in 1998 and in and before he passed away another gentleman who is a tinker an inventor came along his name's George Weisman and his company's called Eagle Research and he started producing browns gas or H2 welding generators in the US market and he started experimenting with it and he's a tinker and so he started tinkering around with it and so this is one of his theories from one of his books which is he states and this"
+    },
+    {
+        "start": "00:22:51.560",
+        "end": "00:23:18.720",
+        "text": "is where I get into the electrically expanded water aspect is he believes that matter has four phases solid liquid and gas right and then there's this plasma phase and so like electrically expanded water exw is water this is George Weisman's quote is water that has soaked up extra electrons to become a negatively charged plasma phase of water electrically expanded water is not the"
+    },
+    {
+        "start": "00:23:18.720",
+        "end": "00:23:45.600",
+        "text": "same as the misnamed easy water of George Pollock which is quote the fourth phase of water right if you read that book easy water is not even water it's H3O2 and exists in a gel like state and that's that's George's quoting so what George is saying and if you read the whole you know section of that book is he's theorizing for those of you guys who are really into structured water and and messing around with water because water is a very unique thing this isn't the"
+    },
+    {
+        "start": "00:23:45.600",
+        "end": "00:24:14.600",
+        "text": "fourth phase of water per George he's thinking that this is literally a new thing that has not been discovered before and he's calling it the fifth stage of water or electrically expanded water and what's interesting and I want to point out was he recently spoke George recently spoke at the 2019 water conference on the physics chemistry and biology of water in October that was hosted in Germany where Gerald Pollock was speaking and numerous just you know"
+    },
+    {
+        "start": "00:24:14.600",
+        "end": "00:24:40.920",
+        "text": "very well-renowned scientists were giving speeches about about water and all the different aspects of water and George was presenting there as well and during the Q&A session right at the end the gentleman who had just produced who just had done a presentation on easy water popped up and and and and spoke spoke to George and theorized and said you know maybe this is not necessarily you know electrically expanded water but maybe this is also"
+    },
+    {
+        "start": "00:24:40.920",
+        "end": "00:25:08.680",
+        "text": "maybe this could be easy water with extra protons and so now there's some debate and there a lot more research needs to be done again this is all theoretical but why I bring that up and this is why it's really important this is why this is electro healing this is why this may be better than C60 is because if it's if George is correct and it's got a lot of extra extra electrons that it picks up and it's that fifth stage of water and that's what the gas creates is"
+    },
+    {
+        "start": "00:25:08.680",
+        "end": "00:25:36.360",
+        "text": "this water or even if it's easy water which stands for exclusion zone or fourth phase of water structured water with extra protons what that means and this is why it's so amazing as a health thing is what that means is it's charging our body and it's charging ourselves when you take it in okay and then so I want to point out something here that that a lot of folks don't forget because from you know remember your chemistry days in high school I don't you know but the idea"
+    },
+    {
+        "start": "00:25:36.360",
+        "end": "00:26:06.080",
+        "text": "of pH okay pH stands for potential hydrogen so here we go we go back to hydrogen again and the thing about pH and we don't know this right I mean most people remember that but hey you know that our bodies run on an optimal level of pH around 7.35 okay and but the here the here the thing is is what is pH how do you measure pH well if you've ever had a pH meter it's got what two prongs it's got an anode and a cathode you stick it in water and you measure the current between the two and whatever that current is or you know it then tells"
+    },
+    {
+        "start": "00:26:06.080",
+        "end": "00:26:34.240",
+        "text": "you what the pH so there's a corresponding you know basically translation between pH is the same thing as voltage because it's measuring the voltage across the anode and a cathode in in a pH meter that's what pH is it's measuring voltage in the body so the corresponding voltage of the body and this you know there's tons of science literature on body voltage is about 20 millivolts okay negative 20 millivolts and so your optimum you as a as a human"
+    },
+    {
+        "start": "00:26:34.240",
+        "end": "00:27:00.600",
+        "text": "being your body has an optimum pH level that it runs that's what is designed to run on at 7.35 pH right at and also and which also means at a negative 20 millivolts and so that's your optimum range so anything above that you know that the number goes higher as you start taking in antioxidants and anti-annual alkaline foods and things for the numbers go higher it means it's"
+    },
+    {
+        "start": "00:27:00.600",
+        "end": "00:27:28.200",
+        "text": "more alkaline or if the numbers go lower it means it's more acidic and that's also translates in the same concept of alkaline and acidic high pH low pH high voltage low voltage is the same concept of electron donor the more alkaline something is or the higher the pH is or the higher the negative voltage is the it's an electron donor your donut your get your gaining electrons right which"
+    },
+    {
+        "start": "00:27:28.200",
+        "end": "00:27:56.880",
+        "text": "is then puts you into a healing mode up to a certain point but any anything past the threshold of negative 70 millivolts or 8.23 alkalinity if it's anything more than that then it starts getting into unhealthy because your optimum is down here remember so up here is bad but this little range in here right here is normal healing and so I'm theorizing that what makes this so incredible what makes brown gas so incredible for our health is the fact"
+    },
+    {
+        "start": "00:27:56.880",
+        "end": "00:28:25.160",
+        "text": "that it's got those electrons as electrically expanded water or if it is easy water it's got those extra protons and let me show you what that means but now if you take in acidic stuff it's an electron stealers so acidic stuff is I mean literally like a soda touching chemicals food preservatives the crap in the air emf I mean literally emf cell phone all that stuff is electron Steelers and it causes your body to become more acidic and it causes"
+    },
+    {
+        "start": "00:28:25.160",
+        "end": "00:28:53.120",
+        "text": "your voltage to go up to a positive and if that happens you start getting sick and when you when you live at this level down here or you live at this level up here then what not only are you ill and your cells become damaged you end up with chronic diseases so it's all health optimum health is all about pH and voltage and how you can help yourself stay in a natural form of healing is by"
+    },
+    {
+        "start": "00:28:53.120",
+        "end": "00:29:20.160",
+        "text": "making sure that you're getting rid of those radical oxygen species or that oxidative stress right by ingesting or exposing or exercising or eating the right foods that are alkaline in nature so that you've got electron donation to keep you in this range of of voltage in this range of pH to stay healthy or if you don't you become unhealthy and again too much is not good so like I'm for"
+    },
+    {
+        "start": "00:29:20.160",
+        "end": "00:29:46.400",
+        "text": "one I'm not for drinking alkaline water I don't think it's good to drink alkaline water I think you should get you should raise your voltage and get your don't your donated electrons from a different source because your your stomachs got acid in it and you don't want to mess with the natural balance of your of your stomach that's my personal opinion okay don't beat me up over it but that's my opinion about alkaline water I think hydrogen water is awesome but I think browns gas water is even more awesome because we do you hear what it does so"
+    },
+    {
+        "start": "00:29:46.400",
+        "end": "00:30:12.280",
+        "text": "one more time about this concept now when you actually look at how our cells every cell in our body has what they call a cytoskeleton which kind of keeps it rigid so it doesn't get squashed okay and around that is our cell membrane and what's really I think just so fascinating about this because when you talk about browns gas you're talking about structured water okay now our bodies are"
+    },
+    {
+        "start": "00:30:12.280",
+        "end": "00:30:37.000",
+        "text": "made up of structured water in a gel like state so that's easy water right and so on the outside of all of our cells is this membrane of water of structured water in a gel like state that's high in electrons and then what happens is is when we are exposed to light okay when we're exposed to light or are we ingest things that have you know are like basically nutrients then our bodies our"
+    },
+    {
+        "start": "00:30:37.000",
+        "end": "00:31:06.880",
+        "text": "cells will extract protons from that they'll extract protons and electrons the electrons stay within these structured water and the protons then get sucked into the inside of the cell through these cavities through the cytoskeleton to come into the cell then which then does a couple of things as those protons come into the cell which normally runs at 7.5 so the cell itself runs at neutral pH for your body but we have these things in our cells called lysomes what these"
+    },
+    {
+        "start": "00:31:06.880",
+        "end": "00:31:35.440",
+        "text": "lysomes do is they run at an acidic low pH right they run their various acidic to do their jobs because what do they have to do from an acidic nature well what lysomes do in our inside of our cells is to eat up all the mitochondria and cook and waste of that yourself because your cell produces waste and it just dissolves and eats it all up and gets rid of it and so you need your lysomes to be able to attract and bring in protons in order for it to do its"
+    },
+    {
+        "start": "00:31:35.440",
+        "end": "00:32:01.240",
+        "text": "job for your cell to run at an optimum level and at the same time through your cytoskeleton these protons come in through the cavities and also feed your mitochondria and now if you know what your mitochondria does is it's your energy it's your generator every little cell has a little generator in it called a mitochondria and when it pulls in these protons it creates energy and otherwise called ATP production and that's what gives you energy that's what"
+    },
+    {
+        "start": "00:32:01.240",
+        "end": "00:32:25.040",
+        "text": "makes you walk around and so it's through this process of ATP generation and lysomes doing the you know at waste production or waste elimination your mitochondria producing energy this cell is a very happy little cell but here's the thing what happens when you have positive charge on the inside negative charge in the outside okay you have a little battery and this little battery"
+    },
+    {
+        "start": "00:32:25.040",
+        "end": "00:32:52.840",
+        "text": "is again essentially your bio-electromagnetic life force of this cell and so your body requires electrons your body requires protons to operate at an optimum level and of course if you're ill chronic diseases whatever it doesn't so what happens if something comes along and pumps you full of protons and electrons and you've been feeling down you're stressed out you have a lot of you know oxidative stress in your body you have illnesses damage injuries"
+    },
+    {
+        "start": "00:32:52.840",
+        "end": "00:33:17.040",
+        "text": "whatever when all of those electrons come in from the brown gas or the protons that come in from the easy water or both when it comes into your body it does amazing things so now if you want to know a lot more about what it does you need to listen to George Wiseman talk about what his customers have been telling him now what George Wiseman himself has has actually published because"
+    },
+    {
+        "start": "00:33:17.040",
+        "end": "00:33:47.040",
+        "text": "George Wiseman is the inventor of several different gizmos mainly the you know the A.A. the H.H.O. or the brownscast generating a welder welding equipment but he's got an incredible story and his incredible story starts around 2005-2006 when one of his customers one day told him that he took the gas from his welder that George sold him and he said yeah you know he put it in you know he made bubbled it in water and he had a melanoma on his forehead"
+    },
+    {
+        "start": "00:33:47.040",
+        "end": "00:34:15.160",
+        "text": "and according to George what the customer did was he took a cotton ball and he dipped it in the H.H.O. water and he taped it to his melanoma and like within a week or so it was gone it just dried up fell off or and and it healed over over course of a few weeks but boom it was gone and the story goes on and on about more and more customers reporting to George that oh you know I was I had my welder and I decided to you know bubble it in water and drink"
+    },
+    {
+        "start": "00:34:15.160",
+        "end": "00:34:40.720",
+        "text": "the water or I had my welder and I decided to breathe the fuel I mean who does that but they did and so more and more of his customers started doing that and reporting these incredible health benefits and what George basically did was he didn't believe it I mean who would but after 10 years he decided I think it's like in the early 2011-2011 early teens right in the years 2000s he decided to try it himself and so then he started trying it and I"
+    },
+    {
+        "start": "00:34:40.720",
+        "end": "00:35:08.920",
+        "text": "believe that he probably kicked in around 2014-2015 till now so here's a guy who all of a sudden decided you know what my customers all keep telling me that it's really good for me or good for you as a human so maybe I should try it and so he started trying it himself and the results were amazing so then he eventually developed a brown gas generator for health and then a couple of other folks have done so as well because it is in its infancy the brown"
+    },
+    {
+        "start": "00:35:08.920",
+        "end": "00:35:38.840",
+        "text": "gas health craze has not started yet it's in its infancy and it's all kind of started with George and so this is what he said and in his in his writings about what happened to him since 2014-2015 this is for George and it's amazing and he says my site is improved he's worn glasses since he was nine years old and he doesn't wear glasses anymore except driving his hair continues to darken and now if you look at George's old videos you can tell he's"
+    },
+    {
+        "start": "00:35:38.840",
+        "end": "00:36:08.520",
+        "text": "looking a little older than he looks now it's pretty amazing it's subtle it's very subtle but it's it's it's there and you could see you could tell the difference his skin has changed and so he's saying that you know is he feels that his hair is growing back that he used to be bolder and then a psoriasis is gone that he used to have thick you know thick peeling skin on his elbows and knees and feet gone breathing and drinking brown gas water his skin smoothed out became supple age wrinkles gradually disappearing his scars that he had since"
+    },
+    {
+        "start": "00:36:08.520",
+        "end": "00:36:34.360",
+        "text": "childhood started disappearing his age spots disappearing his neuropathy's are gone he can feel perfectly in his feet and hands and his shins again he had just a tightness sorry and it's that he had that it's still there but barely noticeable he also went on to say that his warts are gone that he had handworts and planters warts which are caused by viruses gone his arthritis gone and it"
+    },
+    {
+        "start": "00:36:34.360",
+        "end": "00:37:02.360",
+        "text": "hadn't been six since 2005 oh I'm sorry I guess he started 2005 I got it wrong and he lost weight and he used to have a heart murmur and his doctor reports he no longer has the heart murmur now in the conference in october he also mentioned in his in his presentation that they started now experimenting within the last few years on farm animals and so they gave it to some chickens and the the for like the first week the egg production of the chickens literally doubled for one week it went back to normal after that"
+    },
+    {
+        "start": "00:37:02.360",
+        "end": "00:37:29.320",
+        "text": "but it did something and and it definitely doubled the amount of eggs that the chickens put out and so they're definitely an area for more research and he also talked about increasing plank growth um in that's in in his presentation he talked about when you bubble browns gas and water and you feed it to plants in soil that the growth rate increases by 30 percent but if you do it in hydroponics the growth rate you know explodes up"
+    },
+    {
+        "start": "00:37:29.320",
+        "end": "00:37:58.120",
+        "text": "60 percent more growth if you put browns gas in water in a hydroponic system so what does all of this mean and and so it's like it's like the early days of c60 and if you remember what happened in c60 the carbon 60 molecule it was discovered in 86 they won the nobel prize the first application of c60 is a commercial lubricant that's what they use it for they use it to lubricate ball bearings and stuff and there was then there was some interest in it and from because it was"
+    },
+    {
+        "start": "00:37:58.120",
+        "end": "00:38:24.360",
+        "text": "really good for oxygen you know radical oxygen species it would it was antioxidant they started using it in the cosmetic industry about 10 years later in the early 2000s but they only thought of it as a commercial industry thing and they didn't really think about people like actually eating it and ingesting it in oil and that's kind of the exact same story here it's like you know these guys use it for welding for 30 years all they did for it with it was welding"
+    },
+    {
+        "start": "00:38:24.360",
+        "end": "00:38:52.360",
+        "text": "and now within the last let's say 10 years send 15 years people are taking it for their health and this is just one guy's story about what it has done for him and it's amazing right and then if you listen to him talk you'll hear about other customers and he's also now trying to get studies going with people who took browns gas and one of the biggest challenges is that he said he went back to look at all of the material on all the studies that of the hydrogen studies"
+    },
+    {
+        "start": "00:38:52.360",
+        "end": "00:39:19.000",
+        "text": "and discovered that some of those hydrogen studies when you look at the materials and methods of the study that they were actually doing browns gas and not actually h2 gas but they weren't they don't say it that way they just go we tried hydrogen so he's trying to go through all of those studies to kind of pull out like which studies actually did a 66 h2 and 3302 you know study versus h2 study you know and so he's trying to do all of that right now and this is all just happening right now"
+    },
+    {
+        "start": "00:39:19.000",
+        "end": "00:39:46.200",
+        "text": "today this month this year fascinating stuff so now as I mentioned earlier in the video I have been doing this myself so I ran across all of this stuff because I had been taking h2 tablets for a while now and I really wanted to try h2 inhalation so I went shopping for an h2 inhalation machine and I ran across and this is how I even started with this whole project I ran across brown gas generators and so you know I'm me"
+    },
+    {
+        "start": "00:39:46.200",
+        "end": "00:40:12.120",
+        "text": "I'm I'm me so I'm like what's brown gas generators and that's how this all started and I I was like fascinated so I bought myself a browns gas generator one month ago and I have been using it ever since so here is my this is my personal testimony my opinion I've been using it for four weeks now and so my intake for the first three solid weeks"
+    },
+    {
+        "start": "00:40:12.120",
+        "end": "00:40:42.120",
+        "text": "was I drank a half to one gallon of browns gas water a day I'd bubble it in the morning drink the whole thing and then half a gallon and then I'd come home bubble another half a gallon and try to bang away on that thing through the night and then I would sit down at the end of my night and for at least two hours while I was on the computer or on the couch I would breathe yeah I'm actually I've actually got the cannula and my nose right now I'm breathing brown gas as I saw and I would just breathe brown gas for a couple hours every night and I did that for three solid weeks until the holidays"
+    },
+    {
+        "start": "00:40:42.120",
+        "end": "00:41:11.160",
+        "text": "started and then things got messed up but so in week two my eyesight began to change and I didn't really think you know I'm busy I'm just doing this thing it's like I'm doing lots of different experiments all the time and disclaimer by the way you all know I take a bunch of supplements and I have and I'm consistently taking C60 way before I started this and to this day I'm taking the regular one tablespoon dose of C60 every day so but on top of that I'm doing brown gas so in week two and if you guys have been wearing glasses for a long time you"
+    },
+    {
+        "start": "00:41:11.160",
+        "end": "00:41:38.520",
+        "text": "can relate to this but you know I'm an older person but not geyser no offense to all you geysers and so I've been basically I've been nearsighted most of my life so for over like 30 40 years I've been wearing glasses because I'm nearsighted so whenever I'm walking around outside in my car I'm wearing glasses in my house I'm wearing glasses you know so I could see like you know watch TV"
+    },
+    {
+        "start": "00:41:38.520",
+        "end": "00:42:06.040",
+        "text": "and drive and stuff and so I've been I've been nearsighted almost my whole life and then for the last I'd say 10 15 years you know my eyesight because I work on a computer most of the time my eyesight started to go really bad in terms of being able to see my computer clearly and no matter how big a screen I get you know and so I had I was prescribed computer glasses they wish they used to call reading glasses in the old days but I was prescribed computer glasses they first they wanted me to have bifocals"
+    },
+    {
+        "start": "00:42:06.040",
+        "end": "00:42:34.360",
+        "text": "no those are horrible so I have I wear two sets of glasses one when I'm sitting at a desk and I take that off and I put my other ones on and I'm always wearing glasses you look at any picture of me going back 30 40 years I got glasses on so this is what was weird and but you know and every few years right your eyesight changes and you're like oh crap you know I'm getting older I gotta go back to doctor so-and-so and go get another exam and and then update my prescription so"
+    },
+    {
+        "start": "00:42:34.360",
+        "end": "00:43:00.200",
+        "text": "this is what happened and I didn't even I didn't put the two to two together but what happened a couple weeks ago was my eyesight started to change you know and I just was like bumming out because now like I gotta go get more different set of glasses and I just couldn't see very well and I was just kind of like it was irritating me and then so one day I was sitting at my desk and I just took my glasses off to rub my eyes I looked up and my computer was clear as day"
+    },
+    {
+        "start": "00:43:00.200",
+        "end": "00:43:28.040",
+        "text": "and I was like and it was just I was shocked I honestly I'm just telling you just honestly I was shocked because it just it like a light bulb went off in my head that it wasn't my eyes getting worse that my eyes were getting better because when I could see without my glasses and I was I was so shocked by that I just I can't even explain just the concept of like holy crap I can see without glasses what you know it's like oh miracle you know I mean it was just weird it was just the"
+    },
+    {
+        "start": "00:43:28.040",
+        "end": "00:43:56.680",
+        "text": "weirdest thing and I was like wow and then I realized you know that's probably going on because you know same thing with my other glasses and sure enough week two my eyesight started to improve by week three I'd stop wearing glasses I couldn't see well with my glasses after all these years I couldn't see well with my glasses and so that kept up where I did not wear any glasses until like earlier this week and this is today is Saturday"
+    },
+    {
+        "start": "00:43:56.680",
+        "end": "00:44:24.680",
+        "text": "on November 30th Thanksgiving was a couple of days ago my daughter's home from college and you know people in the house the holidays everything's very disruptive I'm off work so my whole routine got thrown off plus my machine I needed to do some maintenance on my machine and I didn't have time so my machine I had to I didn't do it for three days so this is what happened was I did it every single day for literally three weeks and in the fourth"
+    },
+    {
+        "start": "00:44:24.680",
+        "end": "00:44:51.160",
+        "text": "week I had to stop and I couldn't do it as much I couldn't drink as much of the water I couldn't inhale as much as the gas and then literally for three days I didn't do anything until I could get to my machine and do the maintenance on it so I did not wear any glasses for the entire third week I'm in week four now I still do not need any computer glasses at all I'm not wearing glasses right now"
+    },
+    {
+        "start": "00:44:51.160",
+        "end": "00:45:21.000",
+        "text": "but what happens was I started to go back to normal normal meaning I need my glasses to drive around at night and so I realized that you know this is only the first four weeks and there's a lot more experimenting to do but for me personally this thing has changed my eyesight this thing browns gas also implies to me that it needs to be something that you take every day and that and that and that it does accumulate over time because I'm"
+    },
+    {
+        "start": "00:45:21.000",
+        "end": "00:45:47.240",
+        "text": "thinking if I did this for six months could I probably skip a week probably but doing this just for three weeks and then skipping three or four days you know your eyes revert kind of back to what you want that's kind of what I'm thinking right now so I'm just I'm just thinking a lot I just wanted to share what I'm thinking but that's kind of where I'm at right now which is like my eyesight change guys my I can't I can't even express how incredibly astounding that is to me to not have to wear glasses"
+    },
+    {
+        "start": "00:45:47.240",
+        "end": "00:46:14.600",
+        "text": "after all these years and it's true I mean what George was saying it happened to me so I'm very ecstatic about keeping up this experiment to continue to breathe browns gas to continue to drink the water and I want to do it for a long time I want to see what happens if what happens to George happens to me so I'm just reporting where I'm at this is the four-week mark and I just wanted to share it with you because"
+    },
+    {
+        "start": "00:46:14.600",
+        "end": "00:46:42.600",
+        "text": "it's just an amazing to me it's just amazing okay and and so now I just want to get back into the rest of the presentation how I you know how how you take it for those of you interested in pursuing something like this this is what I did was I went and bought the aqua cure which is the browns gas generator that George Wiseman sells now there's equally good and I went I went shopping for a long time before I pick one these aren't cheap but they range anywhere from fourteen"
+    },
+    {
+        "start": "00:46:42.600",
+        "end": "00:47:11.960",
+        "text": "hundred all the way up to twenty five hundred okay and and the reason that they range in price is because they have like this one has more features but the safety features of these are pretty much equal I actually if anyone's interested I can do a comparison video because I actually bought this guy and the reason I bought this guy too now I've been using the aqua cure for the whole month right but like I said it went down for maintenance and when it went down for maintenance and it takes a couple hours to mess around with it to you know to maintain it and you"
+    },
+    {
+        "start": "00:47:11.960",
+        "end": "00:47:39.080",
+        "text": "have to do this maintenance thing I was down for three days and after this experience of of of getting my eyesight back and then all of a sudden it's starting to revert back because I wasn't you know I was like I'm so I kind of like was like okay wait I'm gonna buy a little tiny backup just things like half the size but I want to buy a backup so that the next time this happens to me in the middle of a work week I can just switch right over to my backup and I don't lose momentum and then I can just maintain this thing on the weekends because I just don't have"
+    },
+    {
+        "start": "00:47:39.080",
+        "end": "00:48:05.720",
+        "text": "time okay so that's why I bought a backup but now that I have two I can do a comparison video if anyone's interested let me know in the comments but so these are all highly reputable companies you've got hydrogen for health and you've got alkyl way I've had lots of different alkyl way there are water filters over time the last 20 years good filters so I'm sure the quality is just as good with this so these are three different brownscast generators that are on the market right now that I would say"
+    },
+    {
+        "start": "00:48:05.720",
+        "end": "00:48:35.720",
+        "text": "are probably a goodbye based on the people that you're gonna get really good customer service and believe me customer service is essential you will have questions these things are not plug and play devices these things require setup these things require maintenance and you will have questions so do not buy one of these off of ebay from some chinese faceless company that good luck you're gonna get this thing you're not gonna know what to do the instructions will be in crappy english and you'll be screwed"
+    },
+    {
+        "start": "00:48:35.720",
+        "end": "00:49:03.480",
+        "text": "so I'm just saying if you're going to get into this do it or you can just like I can email george he'll respond on a weekend I mean I emailed the guy one time he's responded me on a sunday I mean george is awesome there's this guy over here runs this thing called steve his name is steve awesome service I mean literally I ordered it and I was in my house in three days so so these two awesome I haven't tried alkyl way I don't really want to buy a third one honestly I don't want to buy a third one but I've got these two so this is what you can do and if you are interested in a comparison video I can talk about the features setup and all that stuff"
+    },
+    {
+        "start": "00:49:03.480",
+        "end": "00:49:33.080",
+        "text": "between the two just let me know so that's that and so if now if you want more information about browns gas uh george wiseman has written two books on the subject and even better book one tells you how to build your own okay so this is why I find this guy really amazing he's not in it for wealth and fame you know he's not holding it to himself he literally has the instructions here go build your own and if you don't want to build your own i'll build you one and you can buy mine right but the whole idea is that it's not proprietary it's not a secret he's not holding it to his chest"
+    },
+    {
+        "start": "00:49:33.080",
+        "end": "00:49:58.200",
+        "text": "he wants the world to have browns gas generators build it yourself or buy one from him buy one from steve buy one from anybody if you want to try doing this for your own health it's up to you um but uh but you can buy the books here on his website so he's got books on it as well and that's it this is my story about browns gas it's part of my electro healing healing series because uh you need electricity to create it and it is"
+    },
+    {
+        "start": "00:49:58.200",
+        "end": "00:50:27.960",
+        "text": "it is electricity it is electrons and it is incredibly healing it healed my eyesight i am astounded i cannot wait for what it does to me next and hopefully it's all good so thank you so much i'm sorry i know it's a long video your time is precious but i just i'm so excited about this and i just really wanted to share it so thank you so much and you know and i also want to let you guys know that i do have a bioelectrical magnetics telegram chat group"
+    },
+    {
+        "start": "00:50:27.960",
+        "end": "00:50:57.000",
+        "text": "uh link in the description below if you want to join in on the conversation about bioelectrical magnetics whether it's about browns gas whether it's about bob bex zappers or multi-wave oscillators or rife technology or even quantum stuff which we have a separate chat group for that um you know just feel free join our chat group ask questions i'm always really easily in there always happy to help okay so thank you again for your time today listening to my video i hope you learned something"
+    },
+    {
+        "start": "00:50:57.000",
+        "end": "00:51:02.440",
+        "text": "um and uh you know good health you and and have a great day aloha"
+    }
+]

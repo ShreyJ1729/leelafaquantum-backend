@@ -1,0 +1,1002 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.160",
+        "text": " Aloha, everyone, and welcome to another ElectroHealing video. I am your host, Camar, and I've got a very, very special treat for you. In the 20 years that I've been tinkering around with bioelectric magnetics, devices from the Lacoskey Multiwave Oscillator, Raymond Rife, PEMF, Scenars, Zappers, you name it, I've never had the opportunity to actually speak to someone who uses these devices day"
+    },
+    {
+        "start": "00:00:26.160",
+        "end": "00:00:55.600",
+        "text": "to day in a practice, a wellness practice, and especially in combination with Chinese traditional medicine and also Ayurvedic. And here is Anna Steele. I had this incredible chat with her last night, and I just wanted to share it with you, because if you've ever wondered, what's the best way or how, and how does bioelectric magnetic devices fit into the healing art, because we're talking about whole body healing. There's no one silver bullet."
+    },
+    {
+        "start": "00:00:55.600",
+        "end": "00:01:24.680",
+        "text": "It's going to fix your overall issues that you have with your whole body. It's a combination. It's an art form, and it really is. And she has kind of created this approach called Unblock, Realign, and Restore, where she shares how she does it, how she fits in bioelectric magnetic devices into this overall approach, and the incredible journeys that people have in their healing. People who barely can walk, can walk again, and things like that."
+    },
+    {
+        "start": "00:01:24.680",
+        "end": "00:01:50.520",
+        "text": "And it's just an amazing discussion. She shares this valuable wealth of information as well as her experiences over the last, I guess, over 10 years of just studying the healing arts and being a practitioner and a healer herself. So it's a great talk. I just really am just really excited to share this treat with you. So I want to just first of all, before I start, I want to say thank you to Anna."
+    },
+    {
+        "start": "00:01:50.520",
+        "end": "00:02:20.080",
+        "text": "I really appreciate your time, your insights, your information, just the fact that you exist. If we just had thousands of you on the planet, it would just be so much better from the standpoint of people actually getting healed and cured and helped, which doesn't always happen as we all know. So thank you so much, Anna. And then I want to thank everyone for watching this and coming along with us and listening and learning."
+    },
+    {
+        "start": "00:02:20.080",
+        "end": "00:02:48.120",
+        "text": "And then if you want to learn more, I always just want to point out that I have a blog. It's called The Tinkers Academy. And you can just type in Tinkers.academy and you're all window and you'll come over to our blog or my blog. And then there's the Electro healing telegram chat group. That's how I met Anna. And so we have a chat group just about Electro healing devices, all the ones that I mentioned even more. I just finished series. I do series every week on different topics. So come on over and join the group. And Anna's in there."
+    },
+    {
+        "start": "00:02:48.120",
+        "end": "00:03:16.840",
+        "text": "I'm in there and a lot of other people in there who are just as equally curious about these types of devices and how they can help our wellness. So again, thank you, Anna. Thank you for listening to this video. Really appreciate you stopping by and I hope you enjoy the interview. Aloha. Aloha everyone and welcome to another video by me, Kay Elmer. And I am very, very excited to be able to share with you a chat with Anna, who is a"
+    },
+    {
+        "start": "00:03:16.840",
+        "end": "00:03:44.840",
+        "text": "trained Chinese traditional medicine practitioner who's also practices Ayurvedic medicine. And she lives in Bali, which is in Indonesia. And we met on our telegram chat group for the Electro healing series. And it just was amazing, you know, what she was talking about because she's the first practitioner I've ever spoken to, who's actually incorporated the use of Electro healing, specifically"
+    },
+    {
+        "start": "00:03:44.840",
+        "end": "00:04:14.040",
+        "text": "the Likovsky multi wave oscillator and the violet ray into her practice among other devices that we'll talk about. I'm hoping and, you know, it just was amazing what she had to say about how she uses Electro magnetics in her practice along with the traditional healing arts. And we just had to have her on on a interview and wanted to share that with you. So Anna, welcome. Thank you so much for joining me. How are you? Yeah."
+    },
+    {
+        "start": "00:04:14.040",
+        "end": "00:04:43.080",
+        "text": "Hello. Thank you for inviting me. Yeah, excited to talk to you. You know, it's so cool to actually meet someone and I'm a tinker. I just play with these things and use them on myself successfully, by the way, but but you're actually out there healing other folks and and that's just amazing. So, you know, my first question is really is, you know, how did, well, you're trained, you know, CTM practitioner and you do have air vetics, right, but, you know, like a little bit about your background."
+    },
+    {
+        "start": "00:04:43.080",
+        "end": "00:05:08.920",
+        "text": "How did you get into that and how long have you been doing it? Well, I, for most of my life, I was in arts and fashion. I had my own fashion label and after a few seasons of doing that, like seven seasons, I was pretty finished, like, I know how this works. It's not really giving me anything new and I don't know what I'm going to do, but I'm not going to do this anymore."
+    },
+    {
+        "start": "00:05:08.920",
+        "end": "00:05:32.040",
+        "text": "So I finished that and I started looking on the internet about things I actually really cared about, especially with to do with the pyramids and what's the truth of the universe? Where did I come from? Am I an alien? Like, you know, all of that kind of rabbit holy stuff? Yeah. And through that investigation, I found out about the Vedas, you know, the traditional"
+    },
+    {
+        "start": "00:05:32.040",
+        "end": "00:06:00.380",
+        "text": "Indian scriptures and inside of that investigation, I discovered Ayurveda, which is called the Science of Life. And I thought, well, that's actually taking some boxes to my questions. So I found a course in New Zealand, a one-year diploma course on Ayurvedic lifestyle management, and I moved out to the bush or the New Zealand jungle and I enrolled in the course and I"
+    },
+    {
+        "start": "00:06:00.380",
+        "end": "00:06:26.740",
+        "text": "started studying Ayurveda, which was all about body therapies and doshes and herbs and just, you know, how to balance your constitution through food. And in that time, I met someone who was on one of the other courses at the same college and he had already done an acupuncture diploma. It was only a diploma at that time."
+    },
+    {
+        "start": "00:06:26.740",
+        "end": "00:06:55.440",
+        "text": "And he gave me an acupuncture session and that's when I felt all this energy moving throughout my body and shooting out my hands and my feet and I was like, oh my God, this is like magic. I need to learn this because I hadn't really felt that kind of energetic flow since I started meditating when I was actually about 17, but by the time I got to do that acupuncture experience,"
+    },
+    {
+        "start": "00:06:55.440",
+        "end": "00:07:22.320",
+        "text": "I was 29, so I'd had a bit of time off during the meditation things where when I did start meditating, actually, I started feeling my own energy field in the form of being able to feel the magnetic field that comes off your body. So I knew all about that and then when I had acupuncture, it all sort of started coming back again and I was like, okay, I need to change study and study acupuncture."
+    },
+    {
+        "start": "00:07:22.320",
+        "end": "00:07:47.240",
+        "text": "So I enrolled in that degree and that began in 2010 and that was a four-year degree and that's where I learned acupuncture, different other Chinese body therapies like cupping and gua sha and all of that stuff and we had to learn Chinese medicine theory of balance"
+    },
+    {
+        "start": "00:07:47.240",
+        "end": "00:08:13.680",
+        "text": "and then pathology and worse I had to learn Western medicine in terms of anatomy and physiology and pathology and pharmacology, research, all of that. And then I also did an inside of that time frame. I did a two-year diploma in qigong and Tai Chi and I also learned how to do healing with qigong, medical qigong."
+    },
+    {
+        "start": "00:08:13.680",
+        "end": "00:08:41.400",
+        "text": "So I started trying these herbs. So it just became like a transition out of party-party fashion version of myself back into self-healing because throughout that whole degree process, I was healing my own consciousness and my physical body from my old lifestyle and also my mother had passed away when I had my fashion business."
+    },
+    {
+        "start": "00:08:41.400",
+        "end": "00:09:05.400",
+        "text": "So there was a lot of emotional stuff that needed to be processed. So it was quite fortunate to be in that school because it was such a tight little unit in a small school. It was like having a family that really understood me and was really supportive for that time. So yeah, that's how it all started."
+    },
+    {
+        "start": "00:09:05.400",
+        "end": "00:09:28.760",
+        "text": "So that study was from 2009 to 2013, was when I graduated the degree. And then after that, I took a year off to go around the world and just my first objective was to go to China and see how the Chinese people did Chinese medicine in China."
+    },
+    {
+        "start": "00:09:28.760",
+        "end": "00:09:58.520",
+        "text": "I was really curious about the differences in practice and are we getting it locked over in New Zealand, is it the same? And I ended up just visiting Shanghai University and followed the doctor around his clinic in the hospital. I went to Wuhan University and followed the doctors around the hospitals. I went to the world, medical qigong conference in Beijing and met with a couple of my teachers"
+    },
+    {
+        "start": "00:09:58.520",
+        "end": "00:10:24.360",
+        "text": "there. I toured around China, then I toured around Europe for three months. And that's where I learned actually about sound healing as I was in Glastonbury. And there was a guy there that he owns like a crystal, the local crystal shop, and he'd just been to Beijing teaching Chinese medical doctors about sound healing."
+    },
+    {
+        "start": "00:10:24.360",
+        "end": "00:10:53.000",
+        "text": "And he was a sound healer, so I got an appointment with him to have that experience, and he used crystal sound instruments and his voice and crystal grid layouts while you're lying on the table and just like a session for me there. And one of the instruments that he used on me was this ginormous crystal tuning fork. And then he showed me a smaller version and I was looking at it and I was like, \"Hey, we"
+    },
+    {
+        "start": "00:10:53.000",
+        "end": "00:11:18.760",
+        "text": "could use this for acupuncture.\" Instead of a needle, you can put the tuning fork on the acupuncture point. So I bought a couple of books and tuning forks, started investigating into how to use sound vibration in combination with acupuncture, meridian theory. So that was that first bit."
+    },
+    {
+        "start": "00:11:18.760",
+        "end": "00:11:40.320",
+        "text": "And then after Europe, I entered into South America and I ended up volunteering with a woman that lived in the jungle. And she was a professor of Chinese medicine and naturopathy, and she had a jungle clinic"
+    },
+    {
+        "start": "00:11:40.320",
+        "end": "00:12:07.000",
+        "text": "and she'd been living in Peru for like the last 12 years or something, very beautiful, wise, intelligent healer. And she was using bio resonance machines in the jungle of Peru in combination with acupuncture and Chinese medicine and ear acupuncture and cupping, and she was healing cancer patients."
+    },
+    {
+        "start": "00:12:07.000",
+        "end": "00:12:31.160",
+        "text": "So I got to live with her for about three months. And it's probably when I first started getting into the interest of bio resonance machines. Wow. Your story is my wish list if I could just divorce myself from my day job. Wow, that's amazing. So what happened after Peru?"
+    },
+    {
+        "start": "00:12:31.160",
+        "end": "00:12:55.360",
+        "text": "I went to Ecuador for a month, traveled around with these Colombian people. I'd met in a hostel, just did that. And then I returned to New Zealand with like no job, no money, no job lined up. And I was like, oh my God, what are we going to do?"
+    },
+    {
+        "start": "00:12:55.360",
+        "end": "00:13:22.840",
+        "text": "And a friend of mine had a countryside lifestyle property, like not a farm, but like a small farm kind of set up for one family. And she says, why don't you come and stay and the carrot, we can get the caravan, put it on the property. You can be the gardener and just take time and you can be my gardener and just sort your shit out and decide what you need to do."
+    },
+    {
+        "start": "00:13:22.840",
+        "end": "00:13:49.320",
+        "text": "So in that time, I spent about eight months living in a caravan, being a gardener, processing my last 10 months of journeying around the world and learning all these amazing things and meeting all these amazing people. And the time I was in Peru, I just basically studied the whole time on sound healing and chanting and using tuning forks and reading up a lot on like quantum healing and stuff like that."
+    },
+    {
+        "start": "00:13:49.320",
+        "end": "00:14:19.200",
+        "text": "So when I came back to New Zealand and all I was doing was gardening, meditating, doing a bit of acupuncture on other people and drawing sacred geometry. That's kind of what I was doing, really, really grounding myself. And in that time, it seemed to like unlock my brain, I think especially with the practice of drawing the geometrical patterns by hand, plus I was digging my hands in the earth every"
+    },
+    {
+        "start": "00:14:19.200",
+        "end": "00:14:49.040",
+        "text": "day and accessing the real internet, it started to unpack all of the information that I learned and filled up my brain with for the last five, six years. And I started getting all these meditations and dreams and visions about harmonics and octaves and time travel and moving through dimensions. And I was seeing things in meditation and then I'd look up on Google, I'd find a Google"
+    },
+    {
+        "start": "00:14:49.040",
+        "end": "00:15:17.800",
+        "text": "image and I'd click on it and then it would show me that this is called a Taurus. I'm like, oh, cool, so I'm learning physics, through experience, through meditation, through this kind of experiential display of, yeah, I don't know if that makes sense, but it was like everything I'd ever studied, it all just came into account, yeah."
+    },
+    {
+        "start": "00:15:17.800",
+        "end": "00:15:43.400",
+        "text": "I love the way you describe it, it is the first and true internet is the earth. Everything's connected, so that's really cool. So you've, so then when you got to Indonesia and you started a practice or your own practice or you're part of a practice and you're seeing, you know, I've been clients, right? I've been an engineer a year and a half."
+    },
+    {
+        "start": "00:15:43.400",
+        "end": "00:16:10.680",
+        "text": "It was probably in 2015 was when I was living in the caravan and then I thought, okay, I don't really have any money. I could probably get a job. Yeah, let's get a job. I applied for a job as an acupuncturist and I started as a money and I was the acupuncturist with a physiotherapy clinic for about a year and a half and in that time I was seeing a lot of clients, like I think in my busiest week I saw 40 people in one week, which was"
+    },
+    {
+        "start": "00:16:10.680",
+        "end": "00:16:37.360",
+        "text": "one hour a point, so that's 40 hours back to back of clients and I was meditating a lot in that time as well and I started getting quite psychically tuned to my clients where I would be able to pick up information just by touching them. I was picking up past lives from people and I was really just going deeply into pure practice."
+    },
+    {
+        "start": "00:16:37.360",
+        "end": "00:17:00.040",
+        "text": "It was probably the first time I'd really just only done acupuncture 24/7 and I did that for a year and a half and then I left that company and opened up my own home practice when I lived in a community in New Zealand and I did that for another couple of years"
+    },
+    {
+        "start": "00:17:00.040",
+        "end": "00:17:26.520",
+        "text": "and then come sort of end of 2018, beginning of 2019, I actually got in touch with someone that I met 14 years ago in New Zealand at a party of mutual friends and he was the person that designed the multi-wave honor, he wrote the handbook on the multi-wave oscillator back in the 1980s. Yeah, it was that book."
+    },
+    {
+        "start": "00:17:26.520",
+        "end": "00:17:54.640",
+        "text": "And I just happened to have bought one because this friend of mine on the community were talking about energy-healing stuff and by resonance and he said, \"Oh, have you heard of a Likovsky machine?\" I'm like, \"Nah.\" Because I was telling him about my experience in Peru because the doctor there, she was using the BRS machine and I looked up Likovsky machine and then I found that there was someone"
+    },
+    {
+        "start": "00:17:54.640",
+        "end": "00:18:22.120",
+        "text": "selling them in New Zealand and Auckland. So I called him up and I ordered one and then I found this person that I met 14 years ago, he had written the handbook and I got in contact with him and I'm like, \"Hey, do you remember me?\" I've got one of those machines, I'd really love your advice and you sent me the handbook again and we got talking and it ended up that he was just living in Bali and he ended"
+    },
+    {
+        "start": "00:18:22.120",
+        "end": "00:18:50.840",
+        "text": "up getting me a job to come over to work on like a sort of a community project. So that's how I got over here. So currently you're using the Likovsky multi-wave oscillator in your practice, correct? And do you use it solely by itself or do you combine it with acupuncture and aerobatic when you're treating clients?"
+    },
+    {
+        "start": "00:18:50.840",
+        "end": "00:19:20.480",
+        "text": "Yeah, so when I'm using aerobatic stuff, I'm just giving like diet and lifestyle advice. I don't do herbs, I do suggest herbs that are more patented, safe things. With multi-wave oscillator, the minimum general treatment you'll use at four time-wise is about 21 minutes and that basically activates all of the cells back to getting into their"
+    },
+    {
+        "start": "00:19:20.480",
+        "end": "00:19:48.440",
+        "text": "original oscillation so it's helping the healthy cellular movement get stronger and amplitude. So I put someone on that machine first and then I'll get them to come onto the treatment table and I'll start doing body work with them which is essentially unblocking all of them meridians, generally using my pointy thumbs with acupressure which is a lot more"
+    },
+    {
+        "start": "00:19:48.440",
+        "end": "00:20:13.200",
+        "text": "effective I've found than just doing straight up acupuncture because you're really able to diagnose through touch where the blockages are just through feeling the fascia and the tissues. So I go down all of the leg on the yin and yang channels right up to the toes and I squeeze the toes under the toes and where there's pain, it means there's a blockage and a lot"
+    },
+    {
+        "start": "00:20:13.200",
+        "end": "00:20:40.400",
+        "text": "of people have got when I do that to them it's quite painful but it's also very, very relieving because it's helping to basically unblock the waterways and move all of the energy can finally move again. So I do that on the arms and legs and then I incorporate abdominal massage and lymphatic drainage, maybe use acupuncture at that point and then get them to roll over, lie on their"
+    },
+    {
+        "start": "00:20:40.400",
+        "end": "00:21:07.880",
+        "text": "front and I'll get into unlocking their pelvis and the upper back with lymphatic drainage and using acupuncture on certain points to release joints and then at that point using pulse magnet therapy, once all of the blockages are out of the way, maybe doing structural alignment for the pelvis as well and once that's all in the right position then I'll put the pulse magnet therapy."
+    },
+    {
+        "start": "00:21:07.880",
+        "end": "00:21:36.000",
+        "text": "Does it make sense? Yeah, it does. So when you start someone off in the multi wave oscillator, what power level do you put them in? Because the original lacoskey formula by Dr. Lacoskey was set the antennas maximum 33 inches apart, power level at 50% and then it was 15 minutes every other day."
+    },
+    {
+        "start": "00:21:36.000",
+        "end": "00:22:00.760",
+        "text": "And that was as a treatment just using the multi wave oscillator but it seems like you're using the oscillator and combining it which I totally think is the right approach because there is no one silver bullet for anything and it's a whole body approach because you know we're complicated machines actually. So is that the kind of like, so when you do 21 minutes is it set at like 50% power and"
+    },
+    {
+        "start": "00:22:00.760",
+        "end": "00:22:24.920",
+        "text": "then the distances between the, and how do you position the client between the antenna? Are they parallel to it or perpendicular to the antenna? Just real curious because I have one myself, right? I want to know how to, from the set up, like my machine was built by someone in Australia."
+    },
+    {
+        "start": "00:22:24.920",
+        "end": "00:22:48.040",
+        "text": "So this particular design, like the Tesla cars inside the black box that has the two cords going out to the harmonic resonators, there is no power setting, it's only on or off. Okay. And I am trying to get a information on what wattage it's producing because it didn't"
+    },
+    {
+        "start": "00:22:48.040",
+        "end": "00:23:17.440",
+        "text": "come with that information, it only has a title and an on button and then on the side of it there's a dial and that dial puts the spark gap closer or far apart to itself because the pin will wear down into the masculine and feminine, you know, as the pins wear down, one end will be like a positive and one will be a negative, one's kind of sending energy"
+    },
+    {
+        "start": "00:23:17.440",
+        "end": "00:23:41.200",
+        "text": "and one's receiving and after a while, that piece of metal will, you know, lose its structure so you do slightly have to adjust the spark gap to get the right capacitance discharge and sometimes I clean it out because it has like the carbon build up inside the spark gap"
+    },
+    {
+        "start": "00:23:41.200",
+        "end": "00:24:08.320",
+        "text": "but basically it's just switch it on. So you know, I am just showing some stock photos of people being treated by the Lukovsky multi-wave oscillator, so when you have people sitting, as it's sitting and just sitting like this in between the coils or more like that, you know, in terms of just side. More like that. Okay. That's how I sit on. Yeah."
+    },
+    {
+        "start": "00:24:08.320",
+        "end": "00:24:33.280",
+        "text": "And my coils are twice the size of those coils more like that. Oh, okay. You're minor effect size. Okay. Is that bigger than that? Yeah. Yeah. Okay. All right. Cool. And so, you know, we had a chat yesterday and I'd love for you to, if you don't mind just kind of repeating yourself, but you had this really incredible point to make about the"
+    },
+    {
+        "start": "00:24:33.280",
+        "end": "00:24:59.760",
+        "text": "healing process and what the Lukovsky actually, its purpose, right, is as the step one of your process is to unblock. And I kind of related that to the teaching Dr. Jerry Tenet, when he looks at his approach to it was the concept of that muscle, the muscles are batteries for our organs in terms of us being a biological, you know, machines, right?"
+    },
+    {
+        "start": "00:24:59.760",
+        "end": "00:25:25.560",
+        "text": "And that if you ever let an organ or a battery muscle pack drain down to zero, it switches polarity and it won't hold a charge unless you switch that polarity back into normal and then you apply electrons in it, you charge yourself back up as an energy being, right? And then you were kind of making the same point in a different way. So could you kind of talk about that in terms of like, you know, the whole idea of starting"
+    },
+    {
+        "start": "00:25:25.560",
+        "end": "00:25:50.040",
+        "text": "the healing process is first remove blockages and is that what you use the multi-wave oscillator for? Yes, so when you think about it say that again, well, correct me if I'm wrong. Well, yeah, I mean, because one thing about the muscle I've oscillated that I've learned"
+    },
+    {
+        "start": "00:25:50.040",
+        "end": "00:26:14.120",
+        "text": "is quite interesting, we have these two opposing harmonic resonator antenna, right? And they've got 12 rings and each ring is producing a different frequency bandwidth, which is, and I don't know if you've done on yours, a few ring, that outside one, and then you ring the next one and the next one and the next one, they're actually changed to the octave scale and the chromatic scale of the piano."
+    },
+    {
+        "start": "00:26:14.120",
+        "end": "00:26:42.600",
+        "text": "So the side ring is C and then it was C#, D, E on and on, they're actually tuned musically. Right. So when you think about it all in terms of musical waves and these two antenna are facing each other and they're pushing out electrical waves that hit each other in the middle. So it's almost having a phase cancellation effect with all of these different tones which"
+    },
+    {
+        "start": "00:26:42.600",
+        "end": "00:27:12.200",
+        "text": "produce different octaves all at once. That's why it's a multi-wave oscillator because there's so many different waveforms all happening at once. Right. And then when you fire those waveforms towards each other, they're crashing the middle. And where does that energy go? That produces another waveform, which is like a third wave, which is a effect of this phase cancellation, which I'm studying into and learned that that creates actually a scalar field."
+    },
+    {
+        "start": "00:27:12.200",
+        "end": "00:27:39.920",
+        "text": "Oh. And the scalar field is the interesting thing about the multi-wave oscillator effect when it is talking about ability to do anti-aging because a scalar field, what I've learned, you cannot measure a scalar field as a scalar wave, it's nonsense. Right. So it's a scalar field meaning that scalar energy is in all places all at once right now. Right."
+    },
+    {
+        "start": "00:27:39.920",
+        "end": "00:28:09.200",
+        "text": "So that's why when you sit in the multi-wave oscillator, it changes your perception of time and space. So you can sit in that machine for five minutes and feel like it's been three hours. We can sit in there half an hour and feel like only five minutes has passed. And it changes the perception of the past present and future. So I've sat in there in the now connecting to something that happened in the past with people that are in my general vicinity and everything kind of meshes into this zero"
+    },
+    {
+        "start": "00:28:09.200",
+        "end": "00:28:34.480",
+        "text": "point where everything's happening now. And what that said to do is actually help to regrow the telomeres on the end of the DNA, which have been described as like the little cats on the shoelaces. And if the DNA is the shoelace and the telomere is the cap on the end, it reduces as we age."
+    },
+    {
+        "start": "00:28:34.480",
+        "end": "00:28:59.760",
+        "text": "And when it gets right down to the shoelace and the cap is gone, the DNA will start to fragment and get disrupted. And it's said that the wave oscillator can help to regrow the telomeres, which is the anti-aging effect. So that's a little bit off topic of your question, but it's good to know that is how it's working."
+    },
+    {
+        "start": "00:28:59.760",
+        "end": "00:29:27.160",
+        "text": "So when you think about that in terms of the human biology, there's a great book you can read called The Water Codes and in that book, they state that 99% of the molecules of the human body are water molecules. 99% of our molecular structure is water."
+    },
+    {
+        "start": "00:29:27.160",
+        "end": "00:29:55.320",
+        "text": "And so if you imagine that in terms of the Chinese meridian flow system, you will realize that water needs to flow. And that's why they call it meridians or the rivers of the body because it's a waterway. And so what happens in nature when you view a river, and maybe that river has some sticks"
+    },
+    {
+        "start": "00:29:55.320",
+        "end": "00:30:21.480",
+        "text": "or leaves or twigs or too much mud, what's going to happen to the quality of that water running through the river, it's going to have blockages. And there'll be areas where that water can't flow efficiently, especially if it's trying to flow from a shoulder to an elbow to a wrist to a finger joint, because all of that dirty water gets stuck in joints."
+    },
+    {
+        "start": "00:30:21.480",
+        "end": "00:30:46.160",
+        "text": "And that's why we have acupuncture points at these certain junctions of the body, especially where the bony areas join bony areas or muscles join muscles. That's where the acupuncture points are located to allow to basically cause a change in the waterway flow and move the water more efficiently through the river."
+    },
+    {
+        "start": "00:30:46.160",
+        "end": "00:31:11.480",
+        "text": "So when I'm working with people, I first like to see how is the river flowing, and any time you push on someone's body down the meridians and they experience pain, you know that that meridian has a blockage. So that's what massage does and twinar and all of that kind of, you know, through pushing, rereleasing the pain, you're actually helping to unblock the waterways."
+    },
+    {
+        "start": "00:31:11.480",
+        "end": "00:31:37.560",
+        "text": "So that has to be done first, and another reason for blocked waterways is the body might be too cold and the water's too cold. So when you notice a river in the wintertime, it might be frozen on the top and a little trickle is running underneath. But it's not because the water's gone anywhere, the water's just trapped in the ice."
+    },
+    {
+        "start": "00:31:37.560",
+        "end": "00:32:04.920",
+        "text": "And when you melt the ice, all the water returns to the flow system, and then it can start circulation. So a lot of the time when I work with people, I have to check their temperature, especially around their pelvis, because a lot of people have cold, and if you've got cold in your pelvis, you don't have circulation to your legs. And if you've got cold in your pelvis, you don't have much of a digestive function going on too. So it becomes like, let's check where the blockages are, we get that moving, and then"
+    },
+    {
+        "start": "00:32:04.920",
+        "end": "00:32:31.520",
+        "text": "you have to get the body up to the right temperature, which I consider cold to be another blockage. This is where the Chinese and the holistic stuff starts coming in. So once you wake the body up with the multi-wave oscillator and get all the cells kind of detoxing, because it's generally a big detox for the cells once they come back into alignment, that's getting out blockages."
+    },
+    {
+        "start": "00:32:31.520",
+        "end": "00:32:55.680",
+        "text": "So would you say that because a multi-wave oscillator has a detoxing effect, that it's important that after you do that, that you actually need to then kind of go through a detox regimen, either through a massage, or I was going to ask you, is that what the PEMF is for is to pulse the body and help the bioelectrics or the biomagnetism at that point, kind of"
+    },
+    {
+        "start": "00:32:55.680",
+        "end": "00:33:24.800",
+        "text": "pulsating to help move those toxins out of the body and then stimulate the cells at that point? Or what do you use the PMF for at the end? Well, when we talked yesterday, I talked about these three principles, which is unblock, realign and restore. So we just talked about unblocking. So it means that the energy has free movement in the meridian system as water."
+    },
+    {
+        "start": "00:33:24.800",
+        "end": "00:33:52.360",
+        "text": "And then realign means get the structure in the right position. So for example, if I had a car accident and I slammed my pelvis out of place, and 20 years later, it never got treated, the water can't flow through a tilted pelvis, therefore, if I don't put that pelvis back into the right position, we're not going to have a full circulatory system or circuit system."
+    },
+    {
+        "start": "00:33:52.360",
+        "end": "00:34:20.720",
+        "text": "So I do a lot of body work to get the physical structures back into alignment. Also to do with that, you might have had a trauma to your arm with some kind of accident and you've got a huge scar. And what we know about scars is that what they look like on the surface, under the surface, they're generally two to three times thicker, like the iceberg, under the water."
+    },
+    {
+        "start": "00:34:20.720",
+        "end": "00:34:46.360",
+        "text": "It's bigger than the surface area. So if you've got a scar in your meridian, Jerry Tennant talks about this too, unblocking the scars, is that your circuitry flow, your electron flow has met a blockage. So I can't flow properly through that. So scar therapy is something I focus on as well to realign."
+    },
+    {
+        "start": "00:34:46.360",
+        "end": "00:35:10.080",
+        "text": "And especially people that have had abdominal surgical work and women that have had cesarean sections, which is unfortunately all too common these days, having a C section from side to side cuts through half of your meridians or your torso. And then how do you expect the electrical energy to flow through that?"
+    },
+    {
+        "start": "00:35:10.080",
+        "end": "00:35:35.640",
+        "text": "So that's when things like castor oil remedy comes in really handy because castor oil, when you apply it topically, it can penetrate four inches into the body. And what it does when it's inside your body, it breaks up adhesions, which are internal scars. So if you start combining this kind of stuff in, so that's helping to break up blockages"
+    },
+    {
+        "start": "00:35:35.640",
+        "end": "00:36:05.240",
+        "text": "again, using acupuncture, using moxibustion, also using pulse magnet therapy for that, I've end the violet ray. So for example, I had a client last year and she was at her 60s, late 60s from England, so very cold country. And she had been a point ballet dancer all her life, so her feet were quite traumatized"
+    },
+    {
+        "start": "00:36:05.240",
+        "end": "00:36:33.760",
+        "text": "from being on point shoes. And she'd had a double knee surgery, and she'd also had a double hip surgery. And she had lumbar spinal stenosis, which means that where the nerves pass through the holes of the spine, there's calcification of the bone, which means that the bone grows too much and it will squeeze the nerve, which means that the nerve passing from the lower back into the legs has been compromised."
+    },
+    {
+        "start": "00:36:33.760",
+        "end": "00:37:02.200",
+        "text": "So with all of that going on, plus she had a very cold pelvis. She was freezing cold, so you can't circulate things in a cold system. Our body is built to be operating at 36.7 degrees Celsius, so if it's colder than that, you're going to have a slower function. So I did a lot of acupressure on her, on her legs and a lot of foot massage, like really"
+    },
+    {
+        "start": "00:37:02.200",
+        "end": "00:37:30.080",
+        "text": "getting in there, because she couldn't feel her feet. She was literally walking on crutches because she could not feel her feet for a year. And she relied on crutches to walk, like when her foot touched the ground, she couldn't have a sense of anything. So I had a lot of massage, I had a lot of acupressure on her legs, on all of the channels. And then when I got to her knees, they had big, big scars from the operations."
+    },
+    {
+        "start": "00:37:30.080",
+        "end": "00:37:59.000",
+        "text": "So as I spoke, just earlier, the scars under the surface of creating a lot of blockage for the electron flow in the circuit system, which is called meridian system. So putting on castor oil, oh no, what did I do? Magnesium spray, magnesium chloride spray, Lugol's iodine, 15%, because this is basically"
+    },
+    {
+        "start": "00:37:59.000",
+        "end": "00:38:23.240",
+        "text": "cellular ingredients, we need these as minerals. Also putting on castor oil, and then using the violet ray. So the violet ray detoxes cells, it increases circulation and it decreases inflammation. So using that on the scars, and then after a few minutes of the violet ray, you can now"
+    },
+    {
+        "start": "00:38:23.240",
+        "end": "00:38:50.920",
+        "text": "use it for five minutes per area, so you don't cause too much tissue heat, doing that on the scars, and then putting the pulse magnet on for 10 minutes each knee. Then I treated her three times a week, and one week, and by the end of the third session, she was able to walk across the street without crutches."
+    },
+    {
+        "start": "00:38:50.920",
+        "end": "00:39:19.160",
+        "text": "Wow, okay, wow, that's amazing. I get it, okay, so that's unblock. I didn't even use an acupuncture needle, you don't have to be trained in acupuncture to do this. All I did was acupress, castor oil, massage, violet ray, pulse magnet therapy, and putting"
+    },
+    {
+        "start": "00:39:19.160",
+        "end": "00:39:44.680",
+        "text": "on the right cellular ingredients. So the cells then have nutrients to make blocks to do cellular functions. Right, so I get it. So basically applying the oils and the iodine, give this cell the nutrients it needs. The violet ray provides like a frequency and bioelectrics and multi-frequency similar to"
+    },
+    {
+        "start": "00:39:44.680",
+        "end": "00:40:14.080",
+        "text": "the multi-wave oscillator, but not as pronounced, but it creates an electroporation effect which allows the body to absorb, or the cells to absorb all of those nutrients, right? And then the pulse magnetic frequency is really where, I guess to me, it's like, it exercises your magnetics and it actually pumps energy into you. So you then you pump. Exactly. Yeah. So that you can. I totally consider both. It's an ingredient."
+    },
+    {
+        "start": "00:40:14.080",
+        "end": "00:40:44.000",
+        "text": "I can see how you mix those two together. It's almost done. Yeah. So in the post-magnet therapy, you're heading the voltage to. Yeah. Because I always thought of them, yeah, I never thought of mixing the two, but that makes so much sense. Because you know, I read a lot of the Edgar Cayce readings, you know, there's over, of all of his readings, I think he did, you know, a couple of tens of thousands. But I do know that around 750 to maybe 900, I think, Edgar Cayce readings where it was"
+    },
+    {
+        "start": "00:40:44.000",
+        "end": "00:41:09.680",
+        "text": "when he was in his coherent state, he basically diagnosed the patient and then prescribed them to use the violet ray as you just described. And in very similar ways that Dr. Jerry Tennant uses the bio, you know, biomodulator in terms of recharging his organs and their battery patch, you know, basically charge them up using the violet ray."
+    },
+    {
+        "start": "00:41:09.680",
+        "end": "00:41:32.440",
+        "text": "So yeah, it's really, that's an amazing device to use. And it's so cute to go home. Let me back. Oh, I'll tell you about how I was introduced into learning about violet ray. Yeah. It's a very interesting story. When I came across the Lukowski machine, that same friend who told me about that machine,"
+    },
+    {
+        "start": "00:41:32.440",
+        "end": "00:41:59.640",
+        "text": "he told me about this doctor in New Zealand that was really, well, I wouldn't say famous, but he'd already taken himself off the register because the authorities had tried to call him a quack, you know, so that piqued my interest. And he had a six month waiting list, right? And that's why he was so well regarded, he had six month waiting list."
+    },
+    {
+        "start": "00:41:59.640",
+        "end": "00:42:26.760",
+        "text": "So I just called him up and I put myself on the waiting list and I didn't have anything particularly wrong with me. And six months passed and the receptionist made my appointment and I had to do three sessions within two weeks. That was their protocol. And he was a spinal specialist and he was a general medicine practitioner and acupuncturist and naturopath in an osteopath. And I didn't know what to expect when I walked into his clinic."
+    },
+    {
+        "start": "00:42:26.760",
+        "end": "00:42:52.200",
+        "text": "The appointment was about 25 minutes long and he just asked me a few questions and then with the osteopathic method, he just traced his fingers down either side of my spine to feel the electromagnetic situation of my spinal nerve roots. And then he traced his fingers down, he's like, \"Okay, you've got a block here, you've got a block here, you've got a block here.\""
+    },
+    {
+        "start": "00:42:52.200",
+        "end": "00:43:20.760",
+        "text": "He showed me a spinal nerve chart and shows me, \"Okay, because you've got a block here, that means the energy from that nerve that goes into this organ is blocked, therefore that organ energy is low in voltage. So you're going to have this kind of symptom, like a digestive symptom or whatever.\" And I was like, \"Oh yes, you're very correct.\" And so then after that he got me to sit in the chair and he ran the violet ray down either side of my spine."
+    },
+    {
+        "start": "00:43:20.760",
+        "end": "00:43:49.400",
+        "text": "And then we went into another room and he lays me down face down on a table and he puts these things on the blocked nerve roots. And the whole time that took was about eight minutes and then I was done. And then I left and when I got home I felt a little bit tired so I sat down, I felt a bit sleepy so I laid down and then I woke up four hours later and I completely conked out like a reset."
+    },
+    {
+        "start": "00:43:49.400",
+        "end": "00:44:14.520",
+        "text": "And then the next time I went to see him probably three or four days later he assessed my spine again with the osteopathic technique. And he was like, \"Oh, you've got a bone out and your cervical vertebra C4C5.\" And then he basically shoved the bone back into place with the osteopathic thumb, like"
+    },
+    {
+        "start": "00:44:14.520",
+        "end": "00:44:44.040",
+        "text": "funk, I was like, \"Whoa, it was quite, you know, wow.\" And then we repeated the treatment with the violet ray and then the lying down and doing what I believe was post-magnet therapy, he wouldn't tell me. And then basically for the next few days and continued into weeks and months after that second session I felt like I'd been given 14 years back on my clock. I was full of energy. I didn't need to eat."
+    },
+    {
+        "start": "00:44:44.040",
+        "end": "00:45:11.720",
+        "text": "I didn't need to sleep. I was running around like so happy just telling everyone, \"I'm just living on electricity. We don't need food. We're just electricity. Running around like this.\" And you know, what he'd done on my cervical vertebra number four-five is, you know, he said that the nerve coming out of that area feeds into your thyroid and your thyroid is responsible for your immune system hormones and if that had not been corrected in the"
+    },
+    {
+        "start": "00:45:11.720",
+        "end": "00:45:36.720",
+        "text": "future, you would have developed cancer. And I realized that a couple of years before that, three years before that, I totally forgotten about this and many people do forget about these things, was that I'd been hit by a car and my head hit the windscreen and smashed the whole windscreen and I popped off the other side and I landed on my feet like a cat and I was absolutely fine, ambulance checked"
+    },
+    {
+        "start": "00:45:36.720",
+        "end": "00:46:05.760",
+        "text": "me out, I was not concussed, nothing happened except I got a twisted ankle and then the next few days I got a bit of a ryanex so we treated that with gwasha which was fine. But then, you know, years on, I actually had a twisted vertebra which was blocking my nerve electrical supply to my organs and that was causing my immune system to get less and less and less which meant I was getting tired and aging and once the structure was put back"
+    },
+    {
+        "start": "00:46:05.760",
+        "end": "00:46:33.520",
+        "text": "into place which was my spine and then once the structure was in alignment, then pulse magnet therapy could be pumped down the spinal nerve which then reached the organ that was connected to which boosted the organ with energy. So you had to unblock before you could charge up? Yeah. Yeah, I mean, you're not going to force the electricity down and bent wire. Right, right. Or your water through a bent guard nose."
+    },
+    {
+        "start": "00:46:33.520",
+        "end": "00:47:00.040",
+        "text": "That makes so much sense. So you know, I got a question. Is anything that you've described, you know, because people can go out and buy some of these devices and you know, and like in the case of the Violet Ray, you know, the only ones you can get are the restored ones in pre-1941 because the AMA kind of shut them down. But, you know, they are out there and there's plenty of them, you can always get one and"
+    },
+    {
+        "start": "00:47:00.040",
+        "end": "00:47:24.720",
+        "text": "get it refurbished by an electrical engineer and make it brand new again, even though it's like, you know, almost 100 years old. But you know, like, what do you recommend for people that can, you know, try to do it at home or do it themselves who own multi-wave oscillators or own PMF devices and or Violet Ray devices and things like that? Do you have like any questions?"
+    },
+    {
+        "start": "00:47:24.720",
+        "end": "00:47:53.920",
+        "text": "Something I would say with that treatment I just described on my spine, yeah, ever, ever try and do that yourself. Yeah, I can. I tried to do that myself and I missed my back up so badly. I would say, aren't there, wouldn't there be like yoga poses that you could do to realign your back if you had like a back injury or a realign your pelvis, you know, doing yoga or stretch? Of course."
+    },
+    {
+        "start": "00:47:53.920",
+        "end": "00:48:23.080",
+        "text": "You can do to get your structures in alignment, but what I'm saying with that procedure of doing the Violet Ray down the spinal nerves and then applying the pulse magnets afterwards, it has to be done by someone else because your body has to be in the right position. Oh, yeah. Okay. One example after I'd had that, you know, that treatment by that specialist and then I was like, I said, can you teach me your ways? He's like, oh, I'm going to patient it maybe in a couple of years and I was like, no, that's"
+    },
+    {
+        "start": "00:48:23.080",
+        "end": "00:48:52.080",
+        "text": "too slow. I need to do this now. So I ended up making friends with this engineer and he built my first pulse magnet machine for me in him as our project, which we're still working on developing. But once I got hold of that and I got a hold of a Violet Ray, I thought, right, I'm going to do this myself and I sat on my treatment table and I did the Violet Ray on the top half of my spinal nerve roots and then I sort of twisted around and I got it on my back and"
+    },
+    {
+        "start": "00:48:52.080",
+        "end": "00:49:19.760",
+        "text": "then I was sitting up and then I slung the pulse magnet coils over my shoulders and I sat upright and I pulsed myself for a little bit just because I like to be able to do things myself and on my own experiment. And then the next day my whole back went into spasm and it was excruciating. And luckily I'd had my third appointment booked. No, that was my fourth appointment actually booked with the spinal specialist and I got"
+    },
+    {
+        "start": "00:49:19.760",
+        "end": "00:49:47.520",
+        "text": "into his clinic in severe pain and he's like, \"What have you done?\" And you know, luckily it was complete spasm of the spinal muscles and this is a good thing about the Violet Ray actually. You do the Violet Ray on that situation and it relieves it. So you know, it was easily fixable but I caused that problem myself through my own experiment. I would definitely suggest to all, you have to be in the right position, you have to make"
+    },
+    {
+        "start": "00:49:47.520",
+        "end": "00:50:14.520",
+        "text": "sure that your spine is elongated, you don't want to have any twists because after you have that kind of spinal nerve activation done, the recommendation from that particular person, he was like, \"Do not do any twisting yoga in the next week because you can cause a muscle spasm. Do not go in freezing cold water because you can cause a muscle contraction and spasm and nerve impingement.\""
+    },
+    {
+        "start": "00:50:14.520",
+        "end": "00:50:42.960",
+        "text": "So the certain things you do, so you don't overstimulate yourself and mess up your structures. So, you know, I just got a question for you. Are you familiar with CNR technology? Yeah, I had well in but I haven't played around with it enough and I left it in New Zealand with my engineer friend. Yeah, because you know what's really amazing is as I was reading all the Edgar Casey prescriptions"
+    },
+    {
+        "start": "00:50:42.960",
+        "end": "00:51:11.760",
+        "text": "of using violet ray that he'd tell the patient to do this or that, that it really maps over to that, like I was saying earlier, the teachings of Dr. Jerry Tennant and how he tells or how he teaches his practitioners to use his version of the CNR, which is called the biomodulator. And it comes along with another device, it's a scalar device called the transducer. So I see that as like the next evolution or the next generation of the violet rays, you"
+    },
+    {
+        "start": "00:51:11.760",
+        "end": "00:51:38.560",
+        "text": "know, is the CNR technology because it does, the modalities are almost the same as like do this and as if you would, if you had a violet ray in your hand, you'd be doing the same thing with an electrode off of a CNR kind of thing. So it is pretty amazing that there's like a newer, more, you know, advanced technology version of this, but you're right, it is very, very difficult and to do by yourself physically at a let alone, you know, precarious if you were to do it the wrong way."
+    },
+    {
+        "start": "00:51:38.560",
+        "end": "00:52:07.760",
+        "text": "But yeah, if you ever get a chance, I would definitely, I know you're familiar with Tennant, but I don't have any of his devices. No, I don't. Basically I've got a multi-wave oscillator, a violet ray, and a couple of different post-electro magnetic field therapy machines that my engineer made for us in New Zealand. And our first prototype, I think we've got about 30 different frequency patterns in"
+    },
+    {
+        "start": "00:52:07.760",
+        "end": "00:52:37.760",
+        "text": "there. And then the second prototype is actually at a friend's house, up the road. And then the third prototype is our one that we're trying to produce for public sale, which is like a miniaturized version. And that's got three different frequency settings on it. And we've actually got the coils, we asked Robert Dennis from ISIS, if we could borrow use his coil design for our prototype."
+    },
+    {
+        "start": "00:52:37.760",
+        "end": "00:53:03.840",
+        "text": "You're familiar with Robert Dennis? No, I haven't heard his name before. So he's developed post-magnet therapy when he was working for NASA. Okay. And yeah, he's really inspirational because the machines he developed for public sale, he's got the lowest price he can put on them so he can give the gift to as many people as possible."
+    },
+    {
+        "start": "00:53:03.840",
+        "end": "00:53:28.160",
+        "text": "So you can pick up one of his machines for about $469 US dollars. Oh. Which is? What's his name? Sorry. ICES. ICES PMN. His name's Robert Dennis. Yeah. Yeah. He does a lot of really interesting interviews and things. Okay. And he's called because he came into it all as a skeptic, because I think in his story"
+    },
+    {
+        "start": "00:53:28.160",
+        "end": "00:53:56.880",
+        "text": "he said that NASA said, can you develop a post-magnet therapy for therapeutic usage? And he's like, I don't know if it's going to do anything. And he made it and it worked and now he makes some therapy. Yeah. In fact, you know what's interesting about biological magnetics as a healing art is that the FDA, I love them or hate them, but they've actually endorsed, they've actually"
+    },
+    {
+        "start": "00:53:56.880",
+        "end": "00:54:25.960",
+        "text": "approved PMF as a therapeutic modality as well as the CNR. So like the tenant bio-modulator as an FDA-approved device, it falls under the category of a TENS device, but it's something that there's no problem at all using. So that's kind of refreshing that there are some devices out there that are still out and not accepted by the mainstream science."
+    },
+    {
+        "start": "00:54:25.960",
+        "end": "00:54:55.480",
+        "text": "But then again, the violet ray, as you may know, was deemed quackery back in the 1940s and it's no surprise to me that you're actually using it and it works. So I really love this idea of unblock, realign and restore and your description of this woman with problems walking. I'm wondering, is that a typical situation you have with clients that come in and they're"
+    },
+    {
+        "start": "00:54:55.480",
+        "end": "00:55:21.840",
+        "text": "just very blocked and they're unaligned and then it's just a matter of using bio-electrics right to kind of activate their cells, hands-on to kind of move things around and realign them and then put that energy back in them and then the success stories just pile onto themselves? Obviously, I mean, I just was fascinating that this is obviously successful and it works really well. You've been doing it for years."
+    },
+    {
+        "start": "00:55:21.840",
+        "end": "00:55:46.200",
+        "text": "Yeah, well, it's essentially a really simple protocol that I apply to any problem and it works. So person comes in and they can't feel their feet. I do that. Person comes in with a digestive complaint. I do that. Person. You know, the only variable on this protocol would probably be like spiritual issues or"
+    },
+    {
+        "start": "00:55:46.200",
+        "end": "00:56:13.560",
+        "text": "emotional mental stuff where I would go into then helping the person explore through their own observation of their physical body sensations, observing the feelings that they find and then unpacking, you know, where is it in your body? Where can you feel this painful feeling or this blockage or whatever? Okay, you've located it. Okay."
+    },
+    {
+        "start": "00:56:13.560",
+        "end": "00:56:40.560",
+        "text": "So about that place in your body, is it at the skin surface or is it deeper down? Is it in the muscle? Does it feel closer to the organ of the bone? Okay, you found out where it is. Can you feel how big it is? Is it the size of a grape, a tennis ball, a golf ball, you know, describe it? Does it have a color? And so while you're bringing someone's consciousness into their own body through the self observation,"
+    },
+    {
+        "start": "00:56:40.560",
+        "end": "00:57:09.480",
+        "text": "through the actual pointing of their awareness, you're creating a electromagnetic field inside those cells. Right. Right. And then as that has been applied through their awareness, it starts changing. And I'm like, okay, so what color is it? Oh, it's blue. Okay. Does that have a personality? Oh my God. Yeah. Oh, what's the personality? It's like, it's like going like this to me. It doesn't want to talk to me."
+    },
+    {
+        "start": "00:57:09.480",
+        "end": "00:57:36.960",
+        "text": "Oh, so it sounds like maybe it feels a bit ignored. And you need to really make friends with this consciousness inside your body and maybe start kind of bringing it back to you. And what color is it now? Oh, it's kind of like a little bit blue, but a little bit more white. And so as we do this and we extrapolate the observations through size and color and personality"
+    },
+    {
+        "start": "00:57:36.960",
+        "end": "00:58:04.400",
+        "text": "and things like this, the energy starts changing and it starts unwinding itself and it starts flicking off to different areas of the body as the body kind of discharges the energy, which has been blocked and held by the emotional energy for so long. So that's part of it too, very much because most things like, you know, they say cancer is always emotionally created and it takes about 20 years to filter down from the emotional"
+    },
+    {
+        "start": "00:58:04.400",
+        "end": "00:58:27.800",
+        "text": "field into the physical body, and then once that's happened, you get cancer, unless it's, you know, from a toxin or a broken bone or something physically misaligned. But you know, there's all these other different things we need to take into account when we're looking into our human bodies because we help memories and ourselves and our tissues and"
+    },
+    {
+        "start": "00:58:27.800",
+        "end": "00:58:57.400",
+        "text": "if we don't unlock the root of why that memory has been housed, then we can't release it. Yeah. Yeah, if you're interested, Tenet has a tutorial on how to release emotions using, well there's two different techniques, but you know, same concept, releasing the, because what in his world or in that world, it's like emotions create a, because they're physical and they"
+    },
+    {
+        "start": "00:58:57.400",
+        "end": "00:59:22.880",
+        "text": "create it, they have their own electrical field, electrical magnetic field and they get trapped in these fields and they become part of your body, your physical body, and then there's a way to relieve that and to address it and relieve it and then there's also the concept of the German new medicine. That's another modality called, you know, German new medicine, and it's the same, I forgot what doctor figured that one out, but his entire philosophy is the same as that, which"
+    },
+    {
+        "start": "00:59:22.880",
+        "end": "00:59:52.000",
+        "text": "is emotions trap in your body and that they cause disease and ailments and problems and blockages, right? And so if you need to release, you can't just treat a patient, the physical patient, you need to treat the emotions because the emotions hold on to that problem. It's real amazing when you start looking into these different scientists who've actually got this tremendous body of work and case studies that validate everything you just said."
+    },
+    {
+        "start": "00:59:52.000",
+        "end": "01:00:15.240",
+        "text": "So it's amazing. It's great to hear that it's actually in practice and it's helping people and that's really cool. Oh, it's really amazing. I had a client months ago that we discovered in, in his field, there was something that was related not to his father or his grandfather, but his great grandfather and it was to do"
+    },
+    {
+        "start": "01:00:15.240",
+        "end": "01:00:45.000",
+        "text": "around like, yeah, love and also not, he said he didn't have enough space in his body. He felt like he didn't have enough space to be himself, which was quite intriguing to me. It's like, okay, if you don't have enough space inside your body, then who's in there with you? Right. Taken up. Yeah. So we went into his lineage and then I was like, okay, when is it your father's problem? Is it your grandfather?"
+    },
+    {
+        "start": "01:00:45.000",
+        "end": "01:01:12.400",
+        "text": "Is it your great grandfather? Yes. Okay. Great grandfather era. Okay. I'm thinking war. Did your great grandfather kill anyone in the war? Yes. Let's bring up all of the souls that he killed. All right. Now we're going to clear them all from your field and as we cleared them out, I could literally hear all those souls saying, thank you, thank you as they left, like they were all stuck in his body from his lineage."
+    },
+    {
+        "start": "01:01:12.400",
+        "end": "01:01:37.140",
+        "text": "And then the next week, he came back to me and he reported the most amazing effect on his life because of that clearing. It's amazing. So you never know what you're going to find. Yeah. That's amazing. Yeah. Yeah. Yeah. Yeah. I do have a question for you. I'm just kind of going down the, you know, for people who just don't have the money, you"
+    },
+    {
+        "start": "01:01:37.140",
+        "end": "01:02:04.300",
+        "text": "know, to buy the devices or even pay for treatments, do you have any words of wisdom? Like how can people self help? You know, because not everyone's, you know, because owning a multi-wave oscillator is very, very rare. Owning a, you know, owning PMF devices is, is most kind of doable for most people. But so, and even seen ours, like what I described as a biomodulator, very difficult to afford average human."
+    },
+    {
+        "start": "01:02:04.300",
+        "end": "01:02:30.900",
+        "text": "So do you have words of wisdom for people who can do, you know, what else could they do to better their health along the same concepts of unblock, realign, and restore? You know, who don't have money to do it. If you go on my channel, I don't have many YouTube videos on there, but one that I've called how I cleared my thyroid in under 10 minutes."
+    },
+    {
+        "start": "01:02:30.900",
+        "end": "01:02:59.340",
+        "text": "And you know, before I got that post-magnet therapy done on my spine and the doctors shoved my bone back in with the osteopathic technique, years before that happened, I was in my final year of my degree of Chinese medicine. And it was the year after I'd had the car accident, right? So I started paying this lump on my thyroid and no one could really see it."
+    },
+    {
+        "start": "01:02:59.340",
+        "end": "01:03:24.380",
+        "text": "I could feel it when I swallowed and no one could see it except one teacher because she'd had a thyroidectomy. So she was thyroid paranoid and she looked at my neck and she was like, \"There's something up with your thyroid. I want you to get it checked out.\" And I said to her, \"Look, I'm in my final year of my degree. I'm way too busy. I will get it checked out or I will take care of it. Don't worry about me. I'll take care of it.\" And I was doing a lot of meditation at the time."
+    },
+    {
+        "start": "01:03:24.380",
+        "end": "01:03:50.740",
+        "text": "I'd just done my first Vipassana course, which is free, so I can recommend that to people and roll in Vipassana because it's free. And yeah, so Vipassana, you do 10 days in silent meditation and all you do is observe your bodily sensations. And in that 10 days of Vipassana, I literally had a chance to unwind my whole body and I'd never felt better in my entire life."
+    },
+    {
+        "start": "01:03:50.740",
+        "end": "01:04:18.700",
+        "text": "And I've got a video on that channel a little bit describing that too. So what is that called? Anyway. It's called that video. I think it's how I unwind. Yeah, I got the, I saw the how I cleared my thyroid, but I guess, I'm not sure what the word is, the, you said, \"Pornet.\" Oh, I had a prayer in your body and how I unwound my feet. Yeah, there's the two on the right. Right."
+    },
+    {
+        "start": "01:04:18.700",
+        "end": "01:04:41.020",
+        "text": "So it's unique, you were talking about in terms of pronestia or I just want to make sure everyone, how do you spell that just so that people can look it up? Vipassana? Yeah, I don't know how to spell. V-I. Oh. V-I-P-A. V-I-P-A-S-S-A-N-A. There it is. Okay."
+    },
+    {
+        "start": "01:04:41.020",
+        "end": "01:05:10.180",
+        "text": "So it's, oh, Vip-Vip-N-S-S-S-A-N-A. Vipassana. Okay. All right. So that's it right there. And it's just doing this meditation, getting in touch with your body will help the whole unblocking and then realigning and restoring. It could be as simple as unblocking using meditation, is this, just correct me if I'm wrong."
+    },
+    {
+        "start": "01:05:10.180",
+        "end": "01:05:37.540",
+        "text": "You're aligning using maybe yoga, stretching, exercising, and restoring. I would think that just grounding, I know that if you ground, there's tremendous body of knowledge on the concept of earthing/grounding where you can pull electrons right out of the earth by putting your feet on grass and, or grounding through your house. You just have to take a look at some of the many YouTube videos about it, but doing that pulls in those electrons to recharge you."
+    },
+    {
+        "start": "01:05:37.540",
+        "end": "01:06:04.140",
+        "text": "Did you think that would be a good way to do it for people who can't afford it? Just meditation. Yes. I mean, the beauty of, yeah, Vipassana doesn't involve any yoga or stretching. Right. It's purely meditation. Right. So it'd be like, and they're very, they're procedures like you come for Vipassana and you do Vipassana. You don't do qigong, you don't do yoga, you don't do mantras to gurus, you leave all your"
+    },
+    {
+        "start": "01:06:04.140",
+        "end": "01:06:31.860",
+        "text": "crystals at home, you don't write your journal, like you're just doing this. So you're essentially swapping your full-time job hours for doing meditation, and it's, it's hard work, but it's really worth the result. I've done it four times in different ways, and you have to do it for 10 days. So you have to be able to put aside 10 days that you don't have to go to work. Wow."
+    },
+    {
+        "start": "01:06:31.860",
+        "end": "01:06:59.620",
+        "text": "And the beauty of it is, like for me, because I did it in the time where I was in the final year of a degree. So I was very mental, mentally based, and I, I got to this retreat and I was like, you mean you're going to feed me? And I don't have to talk to anyone for 10 days, amazing. Well, I have to do is look at people's shoes and ignore them. I'm down with that, you know?"
+    },
+    {
+        "start": "01:06:59.620",
+        "end": "01:07:28.860",
+        "text": "But I've been, you know, doing, doing all this clinic. So I was always taking one other people's information and all of their problems. So it was time for me to restore myself. Okay. So that was very restorative. Right. And yeah, they just give you a chance. Like when do you get a chance in your life to dedicate 10 full days straight to investigating how your body works? I wouldn't even know what 10 minutes is like, oh no, it's like, it's like, yeah, that should go. Yeah."
+    },
+    {
+        "start": "01:07:28.860",
+        "end": "01:07:57.180",
+        "text": "It's all run on a therapy basis. So once you've finished a course, then they will allow you to donate. And if you can't afford to donate, you can volunteer your time to go and work in the kitchen for the next person's course, which is what I did because I was a student and I had no money. That's great. So yep. Yeah. No, I, because I, I just want to, I think the, the best thing that anyone can take away from our chat is this concept of unblock, realign, restore, and a way to do it on your"
+    },
+    {
+        "start": "01:07:57.180",
+        "end": "01:08:26.900",
+        "text": "own, a way to do it if you were to run into someone like yourself in their local community. You know, and then if you do have bio electrical devices, then, you know, these are the ways to use them in that concept of unblock, realign and restore. So thank you. That's just awesome to hear. If you don't mind, I do have a question. It's a personal question because I have a couple friends and both of their wives have almost the same problem."
+    },
+    {
+        "start": "01:08:26.900",
+        "end": "01:08:52.740",
+        "text": "And I'm just wondering what your thoughts are. They both have extremely difficult digestive systems by which they almost can't eat anything. It's not fibromyalgia. It's not any of these other things that, you know, they've been, you know, of course, the American Medical Association doctors have been just torturing the hell out of them, right? You know what? But it's the whole idea of just, you know, what, you know, what I asked both of them."
+    },
+    {
+        "start": "01:08:52.740",
+        "end": "01:09:21.500",
+        "text": "I said, you know, have your wives ever, you know, had antibiotics in the past or been through a long bout of antibiotics? And both of them said, yes. And I was thinking that, you know, that they basically wiped out their gut microbiome. And but what you're talking about, the cold pelvis, you know, it really kind of like, oh, that's a different, you know, so I'm just like wondering, like, what would you, what would you try to do? What would you try to suggest to these women who, who are basically capable because they,"
+    },
+    {
+        "start": "01:09:21.500",
+        "end": "01:09:47.620",
+        "text": "they just really have such a limited ability of foods to eat because they can't, you know, they're literally, you know, allergic, not allergic necessarily, but they don't, you know, they're not, they can't eat in 90% of the foods, the rest of us can. And it's, and their gut is just completely messed up and I think I linked that to antibiotics. But then again, there's a lot of different ways you can mess it up. So how would you approach that?"
+    },
+    {
+        "start": "01:09:47.620",
+        "end": "01:10:17.460",
+        "text": "Yeah, well, it's, it's always a bit multifaceted when it comes to gut stuff because those are like big hollow tubes and there's a lot of places where things can live, like parasites. And then there's the microbiome, which has to be at the right, you know, balance. And then there's the pH, then there's heavy metals, which block cellular nutrient absorption. Then there's temperature, like, as I spoke about the pelvis. So literally if you get your hand and take the back of your hand and touch it to your"
+    },
+    {
+        "start": "01:10:17.460",
+        "end": "01:10:44.620",
+        "text": "glutes, do you have a cold ass? And if you have a cold ass, then you've probably got a cold front of your pelvis, which means that you've got cold in your intestines. So cold pain usually feels like a contraction in the spasoming and like, like when you stand in the wind and the cold wind and your body is trying to brace itself against that cold wind, you start contracting. So imagine your organs doing that. So you have to look into the diet."
+    },
+    {
+        "start": "01:10:44.620",
+        "end": "01:11:10.500",
+        "text": "What are they putting in to get that kind of reaction? Are they putting in cold food and cold drinks? Eliminate that. Have they had heavy metal overload? So you've got to check out the amalgams and the teeth. You've got to check out vaccinations. If they've had either of those, then they've probably got some heavy metals in there that block cellular nutrient absorption. And that load the cells with, you know, nano and all of the stuff stuck to the blood cells"
+    },
+    {
+        "start": "01:11:10.500",
+        "end": "01:11:38.260",
+        "text": "and there's all these foreign bodies that need to be out. And then there's a glow of phosphates on all of the processed food that is basically like, that's why people have IBS and all of that kind of digestive classifications because it's just a reaction to toxins on the chemical sprays that they put on the foods that we're ingesting. So that to me is all considered blockages."
+    },
+    {
+        "start": "01:11:38.260",
+        "end": "01:12:07.260",
+        "text": "So you need to get out the blockages and then restore the ingredients or align the right body temperature if they do have cold. Maybe they've got too much heat. I don't know what their age is. If you're at the menopausal age, you're going into more of a heat cycle. So the yin and yang is imbalanced as well. There's dehydration. If you're not absorbing the water properly because of toxins in the water, your body will reject the water."
+    },
+    {
+        "start": "01:12:07.260",
+        "end": "01:12:34.660",
+        "text": "And then self-treatment wise, you can do a lot of abdominal massage in moving the lymphatic system and using castor oil and castor oil packs. You can actually help the lymphatic system to detox and get all those blockages out through using a castor oil pack, which is also anti-cancer. So castor oil pack is essentially when you get a big piece of organic wool or cotton"
+    },
+    {
+        "start": "01:12:34.660",
+        "end": "01:13:04.100",
+        "text": "unbleached fabric and you soak it in castor oil and you put it on your entire abdomen where your organs are and then you put some plastic over the top to trap the heat and you use a hot water bottle on top and that a hot water bottle will help the castor oil penetrate into your body and that will start breaking up adhesions, which are organs stuck for organs, or tissues stuck to tissues or inflammation that will help to reduce inflammation and things like that."
+    },
+    {
+        "start": "01:13:04.100",
+        "end": "01:13:33.980",
+        "text": "And then for females as well, and these ladies case, maybe they've had babies, maybe they've had c-sections. If they've had c-sections, their whole of muscles will be cut and they don't have circulation to their organs. So they have to get scar therapy on the c-section, which you can use castor oil for and acupuncture and different things like that. And also maybe internally if they've got IUDs or if they've been using any kind of female"
+    },
+    {
+        "start": "01:13:33.980",
+        "end": "01:13:57.660",
+        "text": "sanitary items that have genetically modified cottons or anything like that that can introduce toxins into the body. So you can see it's, you know, and then also, you know, how's their low back and how's their middle back because the nerves that run out of their spine go into the digestive organs. So maybe they had a car crash 20 years ago and this binds out of place, like me with my"
+    },
+    {
+        "start": "01:13:57.660",
+        "end": "01:14:26.900",
+        "text": "twisted neck, or yeah, maybe the pelvis is out of place, which then pulls on the internal organs and then blocks up the flow of the energy because something's been squeezed inside the body. Yeah, it's kind of, you know, stuffed it and investigate and then rule out. Okay, and it takes a bit of time."
+    },
+    {
+        "start": "01:14:26.900",
+        "end": "01:14:53.140",
+        "text": "Yeah. Definitely like your suggestion of the antibiotics, if they haven't cleared all of that toxins out and then restored the natural microbiome, then that's definitely going to be part of it. Yeah, I've actually been looking into the actual symptoms of, of indigestion, it's like when I eat something, do I feel sick, when I eat something, do I throw it up or do I get intestinal"
+    },
+    {
+        "start": "01:14:53.140",
+        "end": "01:15:20.180",
+        "text": "cramping or do I get immediate diarrhea or constipation, like there's different symptoms which would lead us to different organs to focus on. That's really, really helpful. Yeah, I've read, I've read that some specific antibiotics will destroy certain bacteriums in the gut. They could take up to two years to be restored, you know, naturally, if they're not taking probiotics. So, I avoid, I avoid anything that messes with my biome."
+    },
+    {
+        "start": "01:15:20.180",
+        "end": "01:15:46.480",
+        "text": "You know, I just, I will not do anything to mess with my, my happy little gut biome because I finally got it after years and got it to be super happy and healthy and we're in love with each other and I take good care of that bacteria. I will not mess with it. I feed it every day with three biotics, I supplement it with probiotics, you know, I'm always drinking kombucha, I mean, yeah, it's, I've learned over time that your gut microbiome is the"
+    },
+    {
+        "start": "01:15:46.480",
+        "end": "01:16:15.840",
+        "text": "key to your health next to your, your energy field, you know, I mean, it's so important because we're both right, we're both energy and we're also physical meat tax. Yeah, I'm just going to move around because it's been a storm here and you're breaking up a little bit. Can you hear me? Yeah, yeah, yeah. So, a question though, you know, like I'm wondering, is, is, is eczema related to gut health in your, in your belief system or in your, you know, what you've learned because"
+    },
+    {
+        "start": "01:16:15.840",
+        "end": "01:16:45.320",
+        "text": "the one of the two wives has severe eczema and, and I'm just wondering, you know, is that a gut health issue or is that an energy issue? I'm, it can be both. So if you imagine where your internal organs are, like your digestive system, which is one side, you know, under your right hand, you've got your liver and then your gallbladder. That's a digestive organ and you've got your stomach in the middle, you're spline off to"
+    },
+    {
+        "start": "01:16:45.320",
+        "end": "01:17:11.640",
+        "text": "the other side, your pancreas over the top and then over the top of all that, you've got your small intestine and your large intestine. So that's your digestive organs is quite a lot. Okay. So the liver's job is to detox the body from toxins, right? Right. When the liver is overloaded with a toxic job or it's, it's got too many jobs to do and it's trying to discharge all the toxins."
+    },
+    {
+        "start": "01:17:11.640",
+        "end": "01:17:40.880",
+        "text": "It's meant to go through the digestive system, but sometimes the liver has to push it out in other ways and it will push it out through the skin, yeah, it'll push it out through the skin. So a lot of these, you know, skin conditions are just the liver trying to get rid of the toxins. Then in Chinese medicine, when we investigate the emotions of all the organs, every organ gets a different emotion, the liver's emotions are frustration and anger."
+    },
+    {
+        "start": "01:17:40.880",
+        "end": "01:18:08.880",
+        "text": "So if there's any kind of frustration and anger going on and it can't be like released or expressed, then that's going to block up the liver's ability to have free movement, which can cause, you know, funny reactions, also for women because the liver is involved with the blood and periods. As we lose blood every month through our period, the liver is involved with basically storing"
+    },
+    {
+        "start": "01:18:08.880",
+        "end": "01:18:34.280",
+        "text": "the blood and if there's not enough blood generated from what we produce from the food intake, the liver has, it would, it kind of dries out like a dry sponge. It should be a wet sponge full of blood and if it's too dry and it can't deliver enough blood to the rest of the body, then it will, you'd generate this kind of stagnant energy"
+    },
+    {
+        "start": "01:18:34.280",
+        "end": "01:19:03.280",
+        "text": "and that is seen in pissed offness, PNS, just frustration and anger, things like that. So that emotion component can then attack the digestive system and then we get it like a repeating cycle. So you know, it's kind of, was it the emotions first or was it the ingredients first or was it the toxins first, but then they all kind of interreact in a cycle after a while and"
+    },
+    {
+        "start": "01:19:03.280",
+        "end": "01:19:28.640",
+        "text": "then as you said that they've had the antibiotics, then that's probably an introduction of a toxin and then the liver's just overloaded and it's got too many jobs to do and it never gets a rest and then it's just like pissed off and was trying to send all the stuff out through the skin and then that pisses the person off because they feel like the skin's not pretty and then that makes them sad and so it can go on and like that."
+    },
+    {
+        "start": "01:19:28.640",
+        "end": "01:19:55.360",
+        "text": "And then obviously vitamin D, that will really help the skin get the nutrients and we need cholesterol and dietary fats as precursors to make the right hormones for the body. So if there's been dieting going on and people are on all sorts of crazy diets, especially in Bali, everyone's fasting every 20 seconds but they're starving themselves."
+    },
+    {
+        "start": "01:19:55.360",
+        "end": "01:20:25.360",
+        "text": "So you know, I saw one person list on Facebook, I'm fasting and I'm avoiding fats and other mucous forming foods and I'm like, hang on a minute, fats aren't mucous forming foods, fats are a necessary ingredients to make hormones. It's like if it goes in your body and you're in transmissions. Your liver's made. You kind of need it. Yeah. Yeah. There's a lot of wrong nations being passed around with people that think they're both things. Yeah."
+    },
+    {
+        "start": "01:20:25.360",
+        "end": "01:20:50.160",
+        "text": "Oh, thank you so much for the advice. I really appreciate that and I'm just wondering, you know, as you know, it's been an hour. I want to be sensitive to your time but I just was wondering as a wrap up question, are there other electrobiological magnetic devices that you're looking into that you might consider adding to your practice? Well, at the moment, I'm still trying to, because my engineer friend is in New Zealand"
+    },
+    {
+        "start": "01:20:50.160",
+        "end": "01:21:20.000",
+        "text": "and we're still trying to get our magnet machine like I need to redesign the casing and all this sort of stuff. So I haven't been researching much into other devices. What I am doing though is some experiments with the multiwave oscillator and some other devices which my friend and Bali uses, which is some technology designed by a man in Egypt."
+    },
+    {
+        "start": "01:21:20.000",
+        "end": "01:21:45.680",
+        "text": "And it's called light mandala. And my idea was I tried this out once last year with another friend with the same technology. He just started up some experiments in the last month based on the fact that the multiwave oscillator will amplify whatever medicine you take while you're in the field."
+    },
+    {
+        "start": "01:21:45.680",
+        "end": "01:22:07.280",
+        "text": "And I got this information from the person I bought the machine from because he said that he sold one to a doctor over in America and the doctor liked to come home after work and have a glass of whiskey after his day at work, right? And one day he just got his machine and he said, \"I'll have the glass of whiskey while I'm in the machine.\""
+    },
+    {
+        "start": "01:22:07.280",
+        "end": "01:22:35.960",
+        "text": "And he worked at the floor four hours later, so got me thinking about it, yeah, well, time and space, scalar fields and all that, but I really got me thinking, I'm like, \"Okay, if that does something with that kind of medicine, then what can we do with other kinds of medicine?\" So I did an experiment in New Zealand using homeopathy and that was pretty interesting."
+    },
+    {
+        "start": "01:22:35.960",
+        "end": "01:23:00.800",
+        "text": "My friend was a homeopath. She gave the clinical dose to our client who was a shared client and also a friend. And he agreed to be doing this experiment with us where we put him in the multiwave oscillator only for 15 minutes. And he took his drop of homeopathic dose and he meditated and we meditated in the same room altogether."
+    },
+    {
+        "start": "01:23:00.800",
+        "end": "01:23:30.600",
+        "text": "And then I recorded what he experienced afterwards and it was like recording a full trip report. Like he went completely to somewhere else, like in a psychedelic space. And we had to ground him and feed him and everything that was quite full on. So since I've been in Bali and I've met these friends with these other technologies, I'm like, \"Oh, I want to experiment with that technology with the multiwave oscillator.\" And one of the machines, it's called light alchemy."
+    },
+    {
+        "start": "01:23:30.600",
+        "end": "01:23:55.660",
+        "text": "And it's basically like a par light like what you'd use on a stage probably about centimeters in diameter and just like an angled light. And they use that light. It's capable of producing different colors and LEDs. And they've got that hooked up to their programs. And there's a whole bunch of programs that it can run through with different elements."
+    },
+    {
+        "start": "01:23:55.660",
+        "end": "01:24:23.840",
+        "text": "And each element has a different resonant frequency which matches a different color pattern. So we've started experimenting with using that by our resonance to read the person and then design their elemental program and then shine that light on the person inside the multiwave oscillator to see if we can amplify the effects of both technologies."
+    },
+    {
+        "start": "01:24:23.840",
+        "end": "01:24:44.240",
+        "text": "And so we've been doing that and taking photos and recording our testimonials afterwards. And also the last one we just did, the same friends, he's got another bunch of friends that have a company making plasma, ingestible and topical plasma sprays that are using different"
+    },
+    {
+        "start": "01:24:44.240",
+        "end": "01:25:10.040",
+        "text": "elements like zinc and oxygen, I can't remember the ingredients, quite basic ingredients. And so the last one we did where we would ingest the plasma and then topically spray the plasma and then use the light and the multiwave oscillator just to see what kind of different effects we can get."
+    },
+    {
+        "start": "01:25:10.040",
+        "end": "01:25:33.880",
+        "text": "So we can start making protocols around getting great results for people in a short space of time but without taking it too far. Because the first friend, we put on that a couple of weeks ago, he hadn't really experienced any of this kind of technology before."
+    },
+    {
+        "start": "01:25:33.880",
+        "end": "01:26:02.480",
+        "text": "And so I only gave him 10 minutes and he had to go to sleep directly afterwards for about half an hour because it was a lot, his system just needed to reboot straight away. So it's what I'm doing. I'm still exploring the current, the current machine's capabilities, you could say. That's amazing. No, I just wish you well and, you know, we're way past an hour and I just, again, I just"
+    },
+    {
+        "start": "01:26:02.480",
+        "end": "01:26:31.000",
+        "text": "want to be respectful of your time and just wanted to, you know, like wrap this up. You know, is there, so if people want to reach you, let's say they happen to be in your area and they, you know, they watch this video, then here's your, can I just, you know, you have a blog, you have a YouTube channel, but how do people contact you if they wanted to? Is it through your blog? Yeah, probably through, through my website, I've only just made this website."
+    },
+    {
+        "start": "01:26:31.000",
+        "end": "01:27:00.680",
+        "text": "I'm a bit slack on websitey things. So here's the content. Okay. So here there is a contact. Okay. Yeah. What is it? Yeah. Yeah. So I should have. Oh, here's your email. Yeah. There you go. Yeah. But what that's really probably good too because I've been having a few problems with my, with my email, sometimes I don't get messages for some weird reason. So WhatsApp is much more direct. Okay. And everyone has WhatsApp generally."
+    },
+    {
+        "start": "01:27:00.680",
+        "end": "01:27:27.320",
+        "text": "Do you have a, do you have a username on WhatsApp? What is my username on WhatsApp? Probably just my name, Anna Steele. Okay. Or is it come on a time weaver, but see something like that underneath the name, I think. Or my time weaver. Look at your own things, do you? Yeah. And I do know that you do visit us for all of you who don't know."
+    },
+    {
+        "start": "01:27:27.320",
+        "end": "01:27:55.160",
+        "text": "We do have an electrohealing chat group on telegram and that's where we met, Anna. So, and that's very fortunate that you jumped onto that chat group and, and here we are. So you know, is there anything else you wanted to share with us and then we'll just let you go? Yeah. Well, I mean, if people do want to reach me, you know, even if they're not. And Bali, because no one's moving anywhere right at the moment with the world."
+    },
+    {
+        "start": "01:27:55.160",
+        "end": "01:28:24.920",
+        "text": "But yeah, I'm happy to, to do online sessions with, you know, moving the spiritual kind of blocks. Oh, okay. I've done that remotely for people or working with them live and also teaching self-healing methods like how to do abdominal massage and how to do cast oil packs and how to get the cold out of your body, diet and lifestyle advice and assessments and recommendations can all be done through the, through the, you know, talking like this."
+    },
+    {
+        "start": "01:28:24.920",
+        "end": "01:28:51.600",
+        "text": "Okay. That's great. I'll tell you what, I'm going to put Anna's blog YouTube channel in the video description for anyone that wants to reach out. You do online session. So it's just a matter of just getting in touch with you and, and, and just going from there. So that's awesome. Well, thank you very much. And the process of making some videos and starting to get into doing some online videos and courses."
+    },
+    {
+        "start": "01:28:51.600",
+        "end": "01:29:21.440",
+        "text": "So over the next few months, I'll be hopefully getting those, you know, finished and out there. So I really want to be able to teach and the most basic terms I can explain how your body works and what goes, how to identify when it goes wrong and then how to fix it and doing it naturally and not necessarily needing any electromagnetic field devices, because we already are electromagnetic field devices, and we live on one of the biggest ones in"
+    },
+    {
+        "start": "01:29:21.440",
+        "end": "01:29:51.280",
+        "text": "our universe. We just got to go outside and take off your shoes, which is something almost nobody does. You know, I live in a tropical island. So I ground every day on grass and I have that luxury. So I'm sure you do too, right? Because you're right there in the tropics. Yeah, yeah, I'm in the jungly part of Bali. So right now, rainy season, so yeah, not quite as sunny as it was a few months ago. All right."
+    },
+    {
+        "start": "01:29:51.280",
+        "end": "01:30:16.400",
+        "text": "Well, I just want to say thank you for everyone for spending some time with me today. It's just been, oh, it's fascinating to hear you talk. I have so many questions, but I don't want to interrupt. But thank you again. Thank you so much. And I really appreciate your time. Yeah, well, next time you have more questions, we'll have another chat. All right. Arguesso Aloha. Aloha. Thank you."
+    }
+]

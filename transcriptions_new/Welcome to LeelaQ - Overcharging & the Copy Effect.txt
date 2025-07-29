@@ -1,0 +1,227 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:24.720",
+        "text": " Aloha everyone and welcome to another takers Academy video. I'm your host K Almer and this video is another installment in the video series. Welcome to Layla Q, otherwise known as Layla Quantum Tech and quantum upgrade. It is a video FAQ series to answer questions that pop up regularly in our telegram chat groups. And this video is to discuss overcharging and the copy effect. Now, if you've been in any one of our telegram chat groups long enough, you're going to hear that"
+    },
+    {
+        "start": "00:00:24.720",
+        "end": "00:00:53.680",
+        "text": "word overcharging. And so I kind of wanted to kind of have this video to kind of explain what it is and what you should be concerned about if anything at all. All right, so let's jump right in. Now, the first thing is, is what is overcharging? Well, it doesn't happen with quantum upgrade. It just cannot happen with quantum upgrades. So nothing to worry about that. But if you have a block, okay, then if you were to take something and put it in a block, and this only applies,"
+    },
+    {
+        "start": "00:00:53.680",
+        "end": "00:01:22.960",
+        "text": "now it does not apply to the quantum block. This only applies to the travel block, the infinity block, the grand block, and there's going to be a new block coming out in January 2025. Not sure what the name is yet. We're kind of just giving it a nickname super grand block. But the idea here is that if you've got anything other than a quantum block, and you put it in that block for longer than the charging timeframes in the quick reference guide, which is also a guide that"
+    },
+    {
+        "start": "00:01:22.960",
+        "end": "00:01:52.720",
+        "text": "comes with the block when you get it. It's part of the marketing materials. And it's also on the website at LaylaQ.com. But there's these timeframes that have been established for when, you know, for how long it takes to charge an item with quantum energy. And so now if you go over that time, then that's simply called overcharging. Okay, so it's as simple as that. And the reason that there are timing guidelines is because the people at LaylaQ did all of this testing to figure out,"
+    },
+    {
+        "start": "00:01:52.720",
+        "end": "00:02:18.480",
+        "text": "you know, what was the ideal timeframes for different things. And so if you go over it, then, you know, there's a situation that occurs called overcharging. And it's something that, you know, you should or, you know, maybe it doesn't apply to you. Maybe it does. It's not a bad thing, but that's what that means. Okay. So it's simply if you put something, and that's even if you got something from LaylaQ, you bought a capsule from them. And if you put it in a block, that's, you know, I'll"
+    },
+    {
+        "start": "00:02:18.480",
+        "end": "00:02:45.600",
+        "text": "get, well, get in that in a second, and you charge it for longer than the timeframes in the guide, then it's going to become overcharged. And that's what that means. All right. Now there are two factors that cause overcharging. The first one you should be aware of is that when you put anything in one of those stronger blocks, it's a cumulative. So it's based on time. So if I were to just take, let's say I got a brand new Layla card, and I wanted to make a copy of it,"
+    },
+    {
+        "start": "00:02:45.600",
+        "end": "00:03:14.560",
+        "text": "right? So I put it in the block, one of those three, right? And I put something else in there, whether it's like jewelry, or I'm making foils, or whatever I'm making, right? Water, whatever. But I put this new card in that block, and I exceed the timeframe that's in the reference guide for how long it should be in there for that purpose. And let's say I leave it in there for 30 minutes. Okay. This is just purely illustrative purposes only. Okay. Now all of a sudden,"
+    },
+    {
+        "start": "00:03:14.560",
+        "end": "00:03:41.920",
+        "text": "you've got how it came out of the factory plus 30 minutes. It's well over the guideline, and now it's considered overcharged by definition. And that is one way to overcharge it by simply leaving it in too long in one of those blocks. And then what happens now is if you take a regular card that comes right out of Layla Q, it's got a field of about, you know, eight centimeters or four inches, right? That's the radius of the field. And then in which the energy permeates"
+    },
+    {
+        "start": "00:03:41.920",
+        "end": "00:04:09.120",
+        "text": "into it, like this little energy bubble, okay, around it. And if you're in that bubble, you're getting the frequency, et cetera. Now, if you leave it in there for longer than the charged time that's in the reference guide, it's going to have, it's going to be a cumulative energy. It's going to actually take on more energy than it, than it, you know, it came with, right? Because you just put it in a block. And then that larger, that I mean, larger amount of energy creates a larger"
+    },
+    {
+        "start": "00:04:09.120",
+        "end": "00:04:35.600",
+        "text": "field. And it becomes stronger. Now, there's no math on that. There's no, you know, table anywhere that anyone's just, you know, created that says how long, you know, and what it equals, okay? So that doesn't even exist yet. I mean, there's a million different scenarios you can imagine. And Layla Q just never has the bandwidth to kind of figure all that out. So these are just your general recommended guidelines. But what happens though, if you leave it in there for a"
+    },
+    {
+        "start": "00:04:35.600",
+        "end": "00:05:03.040",
+        "text": "long time, it's a cumulative. If you put it in there multiple times and your total accumulated time frame is 30 minutes, it's going to be overcharged. And it's going to be like a 30 minute card, right? You know, if you want to call it something, but it's definitely going to have a much stronger and larger field than it normally would have, you know, as a normal card, if you would just stuck to the charging time frames. So now, what happens when you take something that's overcharged"
+    },
+    {
+        "start": "00:05:03.040",
+        "end": "00:05:31.920",
+        "text": "and you put it next to something that's not overcharged, okay, then what happens is there's something called the copy effect. And that copy effect is now if those two fields merge like in this diagram right here, then if that thing has a frequency on it, then that frequency is going to copy to the lesser strength object. Okay, so you've got a stronger object and a lesser strength object. And if you put them too close to each other and their fields overlap, then the frequency of the"
+    },
+    {
+        "start": "00:05:31.920",
+        "end": "00:05:58.480",
+        "text": "stronger object will copy to the weaker object. And that's just called the copy effect. And that's one of the drawbacks if you're working on trying to build up a frequency library, or if you have a bunch of cards and you don't want them to get mixed up and that sort of thing. So, okay, I'm just going to put a pin in that for right now and talk about the other thing, which I did mention, which is the other factor that can cause overcharging is if you just put it in a block that's stronger"
+    },
+    {
+        "start": "00:05:58.480",
+        "end": "00:06:25.920",
+        "text": "than the block that created it. Now, in today's world, it's 2024, all of the products that come from Leila Quantum Tech are charged in a 2200 block. So if you get a capsule or a card or a coaster or a hat or anything, it's all comes through a 2200 block. And if you put that in a block and the only one that's stronger than that right now is the brand new 2024 infinity block. That's at 3,800."
+    },
+    {
+        "start": "00:06:25.920",
+        "end": "00:06:54.800",
+        "text": "There's also, if you had an infinity block and you'd boosted it, that's at 27. So those two blocks right now are stronger than the product that, you know, than the one used to make the product. So, if you were to take, let's say an older capsule and you put it in a new infinity block, okay, then immediately after the amount of time that it's been in there for the charging time frame, it's going to be overcharged with like one minute will overcharge it, right, just over the guideline,"
+    },
+    {
+        "start": "00:06:54.800",
+        "end": "00:07:22.480",
+        "text": "okay. And that's how you can also create another overcharged item is not just leaving it in there for a longer period of time, but literally putting in a way stronger block. And then that stronger blocks going to, you know, basically add a lot more energy in layman's terms. And so the same thing's going to happen. The second object is going to be stronger. And so now if you took two, you know, heel capsules from, you know, a year ago, you put one in a, in a, let's say, an infinity"
+    },
+    {
+        "start": "00:07:22.480",
+        "end": "00:07:52.320",
+        "text": "block, you know, like a new one, then all of a sudden you've got one heel capsule that's going to be super strong, stronger than the first, the other one. And if those two things come near each other, like this diagram again, if their fields collide, you know, merge, right, and they start having them, then once those fields overlap, then the stronger quantum or that, you know, in the example, right, the stronger frequency in the stronger object, right, it has a stronger frequency will then copy"
+    },
+    {
+        "start": "00:07:52.320",
+        "end": "00:08:18.160",
+        "text": "over to the other capsule. And you may or may or may not want that. Most people don't want that. They want to keep everything kind of separate. You don't want your, you know, heel, you know, 360 to override your woman's booster kind of thing, right? In other words, you know, you don't want to create like this soup of frequencies in the, in the lesser strength object. In other words, you know, my preference is I keep everything really clean and separate so that I know that, you know, my men's booster is just the men's booster. My heel is just the heel, right?"
+    },
+    {
+        "start": "00:08:18.160",
+        "end": "00:08:44.560",
+        "text": "I've never made sure that I ever did this because I want to keep everything clean. And, you know, and everything that's, you know, just keep all the frequencies separated like that. But that's how it happens. Okay. So that's what overcharging is. And that's how it happens. And so let's talk about, but you know, are there downsides? Because like I said earlier, there's, it's not a bad thing. You know, it's just not, I mean, nothing bad's going to happen. But the idea here is that there are downsides. Okay. So one of the first things I really want to tell everybody is that if you've"
+    },
+    {
+        "start": "00:08:44.560",
+        "end": "00:09:12.960",
+        "text": "got surgical implants and metal fillings in your teeth, that's metal metal will overcharge. By the way, that's the only thing that can get overcharge is metal. And so now if metal gets overcharged, then what's the downside of that? Well, first of all, never put a frequency in your body. In other words, never put yourself in a block with a frequency. Okay, because that's going to put that frequency in that metal. And you may not want that frequency, you know, down the road. All right."
+    },
+    {
+        "start": "00:09:12.960",
+        "end": "00:09:39.440",
+        "text": "But the other thing though, it's going to overcharge you if you go over the charging time, which is perfectly not harmful. I have done it myself. I have spent countless hours with my own personal body, a head or foot, leg, whatever I'm, you know, working on, you know, in my grand block or in my infinity block, you know, so I've been charging myself for years and I am way overcharged. Do I have any metal in my body? Yes, I've got a gold crown"
+    },
+    {
+        "start": "00:09:39.440",
+        "end": "00:10:09.360",
+        "text": "in my mouth. And that crown is probably, I don't know, hours and hours and hours of being overcharged and from stronger blocks, right? So, you know, so is that an issue? Is there a downside to that and in prankling? No, because I'm not I'm not sensitive to it. I've been around this energy and in a really high level for so long that I'm just not sensitive to it. But if you've been on our telegram chat groups, you know that people who are new to this often have some kind of reaction"
+    },
+    {
+        "start": "00:10:09.360",
+        "end": "00:10:38.880",
+        "text": "to it because it's going to kick off biological processes. And that's a whole nother, you know, whole nother, I should make a video on what those are. But if you go and look at the studies, you know that it increases ATP, it, it expedites wound healing, it generates white blood cells, I mean, you know, you know, all this stuff, right? So it does stuff, you're actually physically having a physical reaction to the quantum energy. And if you're not used to that, then you kind of have some people have detoxism. So here's the thing, right? So that's why like,"
+    },
+    {
+        "start": "00:10:38.880",
+        "end": "00:11:08.560",
+        "text": "you don't want to overcharge the metal in you if you're simply sensitive to it, because it may affect your sleep and you can't take it out, right? I mean, you're not going to, you know, pull out your implant or anything. So that's one of the big things about overcharging that you really want to be conscious of is if you're sensitive to it, and you're charging yourself and the metal in you gets overcharged, then, you know, it can have some downstream effects that you may not want. And so that's one of the big cautions about overcharging that is a downside,"
+    },
+    {
+        "start": "00:11:08.560",
+        "end": "00:11:35.520",
+        "text": "you know, is, is, you know, being real careful about charging your body if you have metal implants and fillings. Okay, the other thing, then this is the big one for every, for all of you guys out there and myself included, who wants to, you know, you want to have a frequency library so that you can interchange different frequencies when you're using the blocks. Again, this doesn't apply to quantum upgrade. But if you've got like multiple cards, I have probably 200 at this point,"
+    },
+    {
+        "start": "00:11:35.520",
+        "end": "00:12:01.280",
+        "text": "I've got a huge collection of the Layla ones and a huge collection of ones I made myself. And so if you've got all of these different cards, and they all have different frequencies on them, you certainly don't want to create a frequency soup by putting a super strong one in there, right, that's not equal to the other ones. And having that whatever's on that stronger one, copy over to the weaker one or have a bunch of strong ones and a bunch of weak ones and all of"
+    },
+    {
+        "start": "00:12:01.280",
+        "end": "00:12:29.600",
+        "text": "a sudden all your weak ones have got all these extra frequencies in there and you've created this soup. Okay, so you really want to be careful about creating this frequency soup, right, if you have a frequency library and you want to keep things organized and you want to keep things as they are, you know, you spend a lot of money on that abundance card or that emf card or whatever you bought and you don't want it to have take on all these other frequencies because you just"
+    },
+    {
+        "start": "00:12:29.600",
+        "end": "00:12:58.640",
+        "text": "want to use it for that purpose, right, at the time you want to, you don't want to mix and match these things. So that's the other downside, right, so just real heads up on the downsides. Again, nothing the world's not going to end because any of this happens. Okay, but the idea though, is that if you want to just kind of, you know, keep with the program and use these tools effectively, this is what you need to know. So now when it comes to frequency soup, this is how you would avoid it. And it's really simple and this purely comes with if you've bought a bunch of different"
+    },
+    {
+        "start": "00:12:58.640",
+        "end": "00:13:24.880",
+        "text": "devices or cards and they all have different frequencies on it and you don't want to mix them up or you created your own library and you don't want to mix it up, right, then the easiest thing, and I know this is not practical for a lot of people, but just to have a quantum block. Okay, if you want to create a frequency library and you're serious about it, I would just, right off the bat, just go get a quantum block. And then you create all of your frequencies in your quantum"
+    },
+    {
+        "start": "00:13:24.880",
+        "end": "00:13:54.800",
+        "text": "block, right, so that you have one set of frequencies that you create, that's all even because they're all quantum block and quantum blocks cannot overcharge anything. So you're 100% safe with creating your own frequency library with a quantum block. And then if you remember now, if quantum blocks are only like 527 on the scale, right, but if you buy any of the Leila cards, remember they came out of a 2200 block, they're stronger than your own, you know, your own library"
+    },
+    {
+        "start": "00:13:54.800",
+        "end": "00:14:23.760",
+        "text": "that you created using a quantum block. So if you buy Leila cards, then what I do is I keep them in a purple pouch, you know, at a distance of at least three feet away from my collection. Okay, so I keep them separated. Okay, because the Leila cards from the Leila queue are stronger than the ones I make in the quantum. But if I'm building a quantum library, then just using a quantum block is the easiest way to go about it. Now, a lot of you guys just jumped right in and bought the"
+    },
+    {
+        "start": "00:14:23.760",
+        "end": "00:14:51.280",
+        "text": "infinity or you bought a travel or a grand perfectly fine. This is how you would do it. This is my recommendation is that when you first get your Leila card from Leila and you want to just keep your master's safe, right? What I mean by that is you bought the card, it's now the master copy of that frequency, right? Or you made a frequency card with, you know, like you're in one of those contests that they had, or you're just, you know, you're just tinkering around and you're making"
+    },
+    {
+        "start": "00:14:51.280",
+        "end": "00:15:16.080",
+        "text": "frequency cards using your infinity block. Okay, so if you follow the charging, you know, the copy charging guidelines, then you will have all of those cards that you made with your, let's say your infinity block will all be the same level. Okay, perfect, perfect, right? But they're going to be different than the one that comes from Leila queue. See what I'm saying? Because if you're using your infinity block, it's either going to be like a 972, which is the older"
+    },
+    {
+        "start": "00:15:16.080",
+        "end": "00:15:39.200",
+        "text": "ones, or it's going to be a 2700 or 3800. So it's going to be different than the 2200 that came from Leila. So this is why it's really important to keep your master copy safe, because a, they cost a lot of money and you don't want to mix them up, right? You don't want to create a soup out of them. So what I recommend you do is as soon as you get one of those Leila cards, all right,"
+    },
+    {
+        "start": "00:15:39.200",
+        "end": "00:16:08.080",
+        "text": "follow the copy guideline timeframes and put it in the block, because, you know, if you want, because you're planning on using it, right? And then put in a big piece of foil, like a big one, like, you know, two feet long piece of aluminum foil and just stick it in there with the block and that card stick to the guideline time frame, take the card out. You're perfectly safe because you're within the time frame. You did not overcharge the card and then take that card and go and tuck"
+    },
+    {
+        "start": "00:16:08.080",
+        "end": "00:16:35.840",
+        "text": "it away and in its purple bag nice and safe so nothing ever happens to it again. So then what are you left with? You're left with this giant piece of foil that's got the frequency on it. And so every time you want to use it, you just cut off a little square, right? Let's say I want to put it, you know, in the block with a picture. Well, every time I want to use that frequency, I cut a little square off of that big piece of foil and I put that little square in the block"
+    },
+    {
+        "start": "00:16:35.840",
+        "end": "00:17:03.680",
+        "text": "and let's say I want to treat a, you know, I got a dog right now in one of my infinity blocks. So I've got this giant, well, I don't know, and this is what I would do. So I have a giant piece of foil with heel for dogs on it, right? And I treat dogs all the time. Somehow I'm people are just gravitated towards me about dogs. And so, and so I would just take a little, cut a little piece of, you know, one inch square off of that giant piece of foil, right? Put that in the infinity"
+    },
+    {
+        "start": "00:17:03.680",
+        "end": "00:17:32.320",
+        "text": "block with the dog's picture, leave it in there for hours, days, weeks, whatever, you know, however long my intuition tells me to, you know, send that frequency to the dog using my infinity block. Well, if I did that, right, think about if I put that piece of foil in there for three or four days, you can imagine how much overcharge it's going to get. So now what happens with that little overcharge piece of foil when I'm done treating the dog? Well, you certainly don't want to put it near anything else you're ready on for everything I just described. Okay, now you've got a piece of"
+    },
+    {
+        "start": "00:17:32.320",
+        "end": "00:18:01.120",
+        "text": "foil that's overcharged, and you do not want it to just go anywhere near your library. Okay, because you don't want to create that frequency soup. So what I do, I just throw it away, you know, it's like just throw it away. And in that way, I never take the risk of having anything copy over, okay, you don't have to save the foils when you're done, just throw them away. And then the next time you need to use that frequency, cut another piece off. And that's the easiest way to deal with it. Now, if you're someone that's like, I don't want to keep track of my freedom, I want"
+    },
+    {
+        "start": "00:18:01.120",
+        "end": "00:18:27.280",
+        "text": "to reuse these foils. Then you know what, then basically you need to keep them apart from each other. So if you're going to store overcharged objects, which is, you know, like I just said, that's how I avoid it. I don't have overcharged objects in my house. I throw them away. These little pieces of foils that I use. But the thing about if you have overcharged objects, right, let's say you've accidentally overcharged a bunch of your stuff. Okay, so if you happen to overcharge"
+    },
+    {
+        "start": "00:18:27.280",
+        "end": "00:18:55.920",
+        "text": "your stuff or some of your library, and you don't want it to copy over to anything, then what you simply do is keep them separate. The recommendations from Layla is if you've got an overcharged item, if it's a card, you know, cards are not like the weakest object that they sell. And, you know, like, again, it's like a four inch field. It's not that big. That's radius by the way. Then you just keep it six inches apart. So you would if you had like all these little foils that you've been put in your blog, treating different people and animals, no problem. If you don't want to"
+    },
+    {
+        "start": "00:18:55.920",
+        "end": "00:19:23.760",
+        "text": "throw it away, just keep it six inches apart. And it's going to get kind of clumsy. It's going to get difficult to do that if you have a whole lot of foils. But that's one way to do it. Just keep them separate six inches apart. If you got something that's heavier, more metal equals stronger energy, then you keep it away at 36 inches. That's actually the recommendation minimum of keeping the blocks separate. You know, they don't want to have two blocks next to each other. So you just keep a 36 inches three feet apart. So they don't mess with each other. And you don't"
+    },
+    {
+        "start": "00:19:23.760",
+        "end": "00:19:49.440",
+        "text": "have any issues with copy effect. Okay. So that's kind of what I would do to avoid the frequency soup. And again, I just want to say that, you know, overcharging is not a bad thing. It just is what it is. I mean, it's just, you're just creating more energy in a particular object. And if you want, you know, and you could actually be doing that on purpose and for a very, you know, for whatever reason you want. However, you know, again, you know, there are two downsides. And that's why this video exists. So anyway, that's what overcharging is. That's how to avoid it."
+    },
+    {
+        "start": "00:19:49.440",
+        "end": "00:20:18.560",
+        "text": "That's what the copy effect is and how to avoid that. So thank you very much for watching the video. I hope this was helpful. Again, if you have any questions about this information or any one of the other FAQs, you know, just jump right into a telegram chat group and ask your question, more than happy to answer any of your questions there. So thank you again for watching the video. Hope this was educational and helpful to you, feeling in dong to our German friends. And also, you know, if you want to keep on top of Laila Q information news, product announcements,"
+    },
+    {
+        "start": "00:20:18.560",
+        "end": "00:20:28.340",
+        "text": "all that stuff, you know, like and subscribe to the channel. I'd really appreciate it helps support my channel. Also keeps you up to date on what's going on with Laila Q. Again, thank you Thank you very much. Have a great day."
+    }
+]

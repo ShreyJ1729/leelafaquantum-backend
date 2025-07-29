@@ -1,0 +1,802 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.300",
+        "text": " >> Hello, everybody, and welcome to another tutorial for Layla Quantum Tech. This tutorial is on how to use Layla Block's Part 2. I'm your host, Kay Elmer of the Tinkers Academy, and I'm here with Phillip some more of on Holtzendorf, the owner operator of Layla Q. Hi, Phillip. How are you doing today? >> Hey, Kay. I'm doing great looking forward to a nice weekend, and really looking forward now to this Part 2."
+    },
+    {
+        "start": "00:00:29.300",
+        "end": "00:00:59.260",
+        "text": ">> Yeah, I think it's got a lot of great feedback on Part 1. Really happy that there's actually was a time span between the two, because I was able to grab some additional questions and follow-on thoughts of Part 1 that we're going to bake right into Part 2. So let's jump right in with our disclaimer here. Neither Layla Qantan Tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video. Reliance on any information appearing and discussing this video solely at everyone's own risk."
+    },
+    {
+        "start": "00:00:59.260",
+        "end": "00:01:28.860",
+        "text": "Statements may have not been evaluated by the EFSA or the FDA or any governmental derivatives thereof. Layla Qantan Tech products and products that Layla Qantan Tech may represent or not intended to diagnose, treat, cure, or prevent any disease. Thank you. So now we're in Part 2, and where we left off, we're in Part 1, where we talked about what are the timings and the quirks about charging objects, and we talked about the same as it relates to charging people, pets, plants,"
+    },
+    {
+        "start": "00:01:28.860",
+        "end": "00:01:56.780",
+        "text": "and places, especially we had a lot of follow-up questions about using photos, and we'll get to that. But the next thing that we kind of wanted to touch on here was charging water and food. So that was the next bunch of questions that came out of Philip after we released Part 1, which was like, what are the timings for charging those things? Because that's one of the biggest things that people want to charge, right? So if we could just kind of get some of those timings, and then as we go along, if you could talk about,"
+    },
+    {
+        "start": "00:01:57.660",
+        "end": "00:02:21.980",
+        "text": "you know, if anything comes to mind about, you know, the differences, because, you know, like when it comes to water, there's distinctly a difference between, you know, like, I want to just charge a glass or a bottle, I want to charge an entire tank. You know, people have these, you know, r so tanks of water, people have water outside and big tanks and things like that. So if we could, you want to just jump right in and start talking about, if I had a cube lock, right, this is how this matrix works,"
+    },
+    {
+        "start": "00:02:23.340",
+        "end": "00:02:53.420",
+        "text": "how long would it take to charge a glass or a bottle in a cube lock versus an eye block? And is there a maximum because there's always that concept of, you know, what happens if I overcharge? So let's, if you want to just start charging, like, how long would it take if I just had a glass of water or like a water bottle and I put it in a, in a cube lock? Yes, so all great questions, of course, and there's always a range"
+    },
+    {
+        "start": "00:02:53.420",
+        "end": "00:03:17.500",
+        "text": "and there's always a caveat also to that because as we went along, we found out some interesting things and I'll get to that. So with water in the quantum block, certainly, if you just put it in for 30, 45 seconds, you already got a good charge. It seems that you can optimize it if you go three minutes."
+    },
+    {
+        "start": "00:03:17.500",
+        "end": "00:03:46.780",
+        "text": "We didn't have the Emoto Institute test two minutes and four minutes. It was just based on our own observation that we figured three minutes, maybe, you know, really the right timing for the quantum block. And the Emoto Institute tested that and, you know, they were so impressed that they're now wanting to actually bring these products to Japan."
+    },
+    {
+        "start": "00:03:46.780",
+        "end": "00:04:16.060",
+        "text": "That's how they impressed they've been because within only three minutes, the quantum block was able to so positively influence the water like they haven't seen before and such a time frame. So for the infinity block, that will be one minute. Optimizing one minute? Yeah. So, you know, I would say here with the infinity block, the 30 seconds would be the, let's say, 15 seconds, right?"
+    },
+    {
+        "start": "00:04:16.060",
+        "end": "00:04:40.940",
+        "text": "So within 15 seconds, you already got a charge in it, right? I mean, if you're just on the go and you're really in the rush, but you still want to get some charging, 15 seconds is fine for that. And then to really optimize, go to up to a minute and a half. We, yeah, so that's what we, yeah, up to a minute and a half. Okay. All right. Now, is there a concern about overcharging water?"
+    },
+    {
+        "start": "00:04:40.940",
+        "end": "00:05:11.660",
+        "text": "No, I don't see, I don't see a concern, but I would not do it, frankly. I mean, you know, I mean, if you go just with infinity block, you go for two minutes, three minutes. I don't think there will be any effect, but if you leave it in, maybe for 15 minutes, we don't know if it may be the water actually. Gets overcharged in a way that it is not, it's never going to get worse"
+    },
+    {
+        "start": "00:05:11.660",
+        "end": "00:05:37.180",
+        "text": "the water than it was before, frankly, but you may not have the optimal effect. That's just something, you know, based on our observation, what we would say. Okay. So I'm just trying to, is like, okay, how about this, you know, from a maximum standpoint, you know, from overcharging. When you look at like these types of things like water drinks, food supplements,"
+    },
+    {
+        "start": "00:05:37.180",
+        "end": "00:06:06.460",
+        "text": "and well, I think medicine will leave separately, but you know, is there, is there a concept? Like, could I overcharge like, you know, I put in some vitamins or I put in, you know, like I'm eating a salad and, and you know, there's, is there any, well, first of all, you know, is there a concern about overcharging? Like I put it in there and I forget and I come back an hour later and is the food still fine? And is it, you know, has there been anything at all? Because I don't, you know, I personally don't think that there's anything wrong with overcharging"
+    },
+    {
+        "start": "00:06:06.460",
+        "end": "00:06:36.060",
+        "text": "other than medicine. And you know, you can't, you know, you can't hurt yourself. It's like that other conversation we had earlier where you can't hurt yourself with QE. No, no, no, definitely not. Yeah. So that's never a concern, really. With overcharging is definitely something to watch with metals and with, with medicine. So those two just always keep in mind. Don't do that. Please. And with, with food, we recommend"
+    },
+    {
+        "start": "00:06:36.060",
+        "end": "00:07:04.060",
+        "text": "a certain times, but we've been, you know, finding out about food allergies, right? And so when we look at this, the test that, that Todd Shipman and others have done and repeated over and over again, you know, you can find it on our YouTube channel actually. So he charged the foods that he's allergic to for six to seven minutes in the infinity block, which is way over what we usually recommend."
+    },
+    {
+        "start": "00:07:04.060",
+        "end": "00:07:32.700",
+        "text": "However, he's been successful in not having any allergic reactions whatsoever than to those foods. Again, disclaimer, we don't recommend you do that. Don't try it. If, you know, just take your own risk, you can try it on your own risk, not at our risk. But so there is definitely a range. And I don't think at all, like if you charge raspberries even for 10, 15, 20 minutes, you know, you're not going"
+    },
+    {
+        "start": "00:07:32.700",
+        "end": "00:08:03.580",
+        "text": "to have a negative effect. It can happen with certain foods like pineapple and possibly others that they ripe and suddenly, and then you may not enjoy them anymore. So that's a possibility. More research needs to be done, but it's nothing really that. Yeah, where you need to worry about. Yeah. Okay. So I'm just going to kind of just say like something like this, I'm just trying to figure out what's the best way to say it. So bottom line is like a chair charging longer than"
+    },
+    {
+        "start": "00:08:03.580",
+        "end": "00:08:28.460",
+        "text": "the above, which are these numbers is not necessary, but because because results are unknown. So proceed with caution. You might you might affect the flavor. Yes. Effect, flavor, etc. We just don't know. You're right. We just you just don't know because you haven't, you know, nobody's got time to test every single thing in the world. Okay. So that's I think that's a good little disclaimer"
+    },
+    {
+        "start": "00:08:28.460",
+        "end": "00:08:54.300",
+        "text": "to put on this page. Because folks are, you know, basically screenshotting these guys. Okay. So if you just want to use it the way that we know it works really well, it's hey, put the water glass in there three minutes. You're done 90 seconds in the eye block and you're good. Now, if it's a tank, I know that you were you were answering questions earlier in the week, but I believe that was about using capsules and tanks. But if I had a cube block, I guess I would have"
+    },
+    {
+        "start": "00:08:54.300",
+        "end": "00:09:20.460",
+        "text": "to separate the plates, but you know, typical RSO under under cabinet is like a gallon. So let's just say one gallon as we need some kind of standards, like for one gallon, how long how long are you are you thinking? Is it the same as if it was a glass, you know, like a body or would it be longer because there's more more water? So first of all, real quick, I want to mention and refer to"
+    },
+    {
+        "start": "00:09:20.460",
+        "end": "00:09:48.220",
+        "text": "that, you know, is after that answer I gave with a capsule, I realized I probably should have provided a little bit more content because you can't really use the capsule just as is to charge any dense objects, you would have to use an intention with it. It doesn't work otherwise and it doesn't also charge like a quantum block or infinity block does. It's just completely"
+    },
+    {
+        "start": "00:09:48.220",
+        "end": "00:10:18.060",
+        "text": "different and I want to just make that point clear. With anything water, orange juice, tea, and even certain fruits that are very water heavy, you can certainly use the capsule because it is very easy to charge water. So now coming back to this question here, if you charge a gallon with a quantum block, yes, it does not matter. It's the very same thing as"
+    },
+    {
+        "start": "00:10:18.060",
+        "end": "00:10:44.300",
+        "text": "with a glass because for the energy in the blocks, it doesn't matter whether you fill up the whole space in the block in between or just a tiny space. It penetrates everything at the same time and the same speed. If you have the same type of matter, you know, it's been different if you put a concrete block in there, that's different than water."
+    },
+    {
+        "start": "00:10:44.300",
+        "end": "00:11:14.860",
+        "text": "You could still put a whole concrete block in and could take a little piece of it if you take the same time. I get it. Okay, so there's something really interesting about QE because water reacts differently than a hard physical matter. And then it's the same approach as to human beings in our bodies because we're literally mostly water. So we act like water, so that's why you could put your hand in the block and you get your whole body charged."
+    },
+    {
+        "start": "00:11:14.860",
+        "end": "00:11:40.620",
+        "text": "So that's the same thing. If I put part of the tank between the plates, I'm charging the whole tank of water, right? Because water works like people. Is that correct? Yeah, you're pretty much right. I mean, that pretty much would happen. I always would try to put everything in. If you put a hand in there, it's partially because of water, but it's really"
+    },
+    {
+        "start": "00:11:40.620",
+        "end": "00:12:02.620",
+        "text": "because of the cells that and their quantum fields within the cells. Yeah, we're charged beings. Okay. All right. Okay. So there is a little bit of a difference. So let me put it this way. You have lots of folks with gardens. And so we've had questions with people saying, how do I charge like a 50 gallon rain barrel? And then you've had people"
+    },
+    {
+        "start": "00:12:02.620",
+        "end": "00:12:28.620",
+        "text": "say, well, I want to charge like if I put my hose and the hose, you know, 50 foot hose. But if I put if I put the quantum block at the point where the faucet is that the water running through the hose, you know, there's this little eight inch section of the of the hose that's going to go that's in the cube block. So as the water's going through the hose and eight inches of it, it's going to pass"
+    },
+    {
+        "start": "00:12:28.620",
+        "end": "00:12:57.260",
+        "text": "through the cube block right on its way to the garden. In that little eight inches where the hose passes through the cube block, even though the water is moving really quickly, would it charge the water? Yes, it would charge the water, but it wouldn't wouldn't have the same effect as if you were to charge it for a longer period of time. Okay. Makes sense. You could, you know, the Emota Institute would probably be able to visualize it even, but it wouldn't show as many beautiful"
+    },
+    {
+        "start": "00:12:57.260",
+        "end": "00:13:23.260",
+        "text": "crystals as it would if you charged it for, you know, two, three minutes. Okay. All right. So that's important. So yeah, because okay, that applies to folks with gas, H2, H-H-O generators passing gas through a cube block. It's not sitting there long enough. I guess gas is a separate thing. We'll cover that later. Okay. So rain barrel, if I were to take"
+    },
+    {
+        "start": "00:13:23.260",
+        "end": "00:13:47.340",
+        "text": "the plates apart and I put a plate on each side of my 50 gallon rain barrel, would I have to move the plates around or just charging a section of that barrel charges the whole thing? I think it would be fine like that. You know, again, you could do that with moving the plates, but I don't think you need to because water is indeed so interconnected. And by charging the"
+    },
+    {
+        "start": "00:13:47.900",
+        "end": "00:14:14.620",
+        "text": "a majority of it, it will basically radio it and transmit outwards to then cover the whole barrel. Okay. Okay. Okay. So that's really important. So those are the main things about charging water is charge it for a, you know, for this length of time. So just passing water through a block quickly, you're not going to get the optimal effect. So if you're watering your garden or"
+    },
+    {
+        "start": "00:14:14.620",
+        "end": "00:14:40.140",
+        "text": "what, you know, charging drinking water, make sure it sits in the block field, right, for this length of time, if you want to get the benefits from it. Okay. All right. And so, okay. Okay. That's important. So this is a side note for folks with inhalation generators. I don't know. I will have to have a separate discussion about how in the world would you charge gas, but that's not going to, that's not like your mainstream tutorial issue here. Okay."
+    },
+    {
+        "start": "00:14:40.140",
+        "end": "00:15:07.660",
+        "text": "So now, we need to correct our website because on this one link that you can go to with more details in regards to charging food, we actually say for the quantum block that three minute would be the maximum. And really, we can't say it that way anymore. We were more on the side of caution at the time we wrote that because that's what our tests had shown, you know, to for the optimal"
+    },
+    {
+        "start": "00:15:07.660",
+        "end": "00:15:36.220",
+        "text": "levels. But again, I mentioned these allergy tests where even people had their foods in there for six, seven minutes in the infinity box. So I just again want to mention not that people then come with a question below, but you wrote this on the website. If it's still there on the website, when the video is up, then let us know we'll have to correct it. We'll try to do that next week. Okay. No, good to know. So is charging drinks like soda, tea, coffee, hot cocoa? Is it the same as"
+    },
+    {
+        "start": "00:15:36.220",
+        "end": "00:16:02.620",
+        "text": "drinking, you know, charging water? Is there any difference because there's stuff in it? No, I would say it's exactly the same. Okay. So it doesn't matter. Okay. So drinks and water are in the same category. How about food? Is it in the same category as water? Yeah, I would say it's very similar. I think for the optimization, I would use the exact same"
+    },
+    {
+        "start": "00:16:02.620",
+        "end": "00:16:29.900",
+        "text": "timeframes. And again, the maximum could be greater definitely than those three minutes at 90 seconds. I don't really know. We don't know if there is indeed a difference. And it may also be a person and allergy related, right? Maybe a taught shipment needs to charge it for six, seven minutes in the infinity box. Maybe someone else, eight minutes, and again,"
+    },
+    {
+        "start": "00:16:29.900",
+        "end": "00:16:58.460",
+        "text": "someone else maybe just wanted. It's just something we don't know yet. Okay. Okay. So pretty much all of this is kind of the same timing. And there's a lot you we don't know. So if I want to charge my dinner before I eat it, then, you know, optimal three minutes in a cube block, 90 seconds in an eye block. If I if I'm trying to change the food, right,"
+    },
+    {
+        "start": "00:16:58.460",
+        "end": "00:17:25.180",
+        "text": "at a frequency level, and I want to make sure that like I'm worried about pesticides or I'm worried about whatever, you know, or allergens, right, then I would want to leave it in there. And you want to experiment, I guess, because everybody's different and all the foods are different. So like your example that you had at the biohacking conference, you were saying that it took him, let's say six to seven minutes before what he would eat no longer affected him negatively."
+    },
+    {
+        "start": "00:17:25.180",
+        "end": "00:17:54.300",
+        "text": "So that's, well, he didn't, he didn't try it with only two. That was just like the one shot. That's what happened. Okay. So that's yeah, because it was already quite an experiment to do that. And he certainly didn't want to have allergic reactions because then it's painful for him. And he tried that multiple times at home. And his first attempt was, I think, six, seven minutes, and then it worked. And then he just kept doing it that way. Okay. Yeah, you don't want to, yeah, how much do people want to experiment with their allergy"
+    },
+    {
+        "start": "00:17:54.300",
+        "end": "00:18:23.260",
+        "text": "reaction? Yeah. Okay. So I'm going to actually experiment with this myself, because I'm allergic to MSG. And I've been off C 60 for a while, because I moved, right? So I recently had it. I had like a reaction to some food I ate. So now I can, I'm going to, I can, I can kind of figure out what, like how long it'll take. But okay. So all we know, the only data point we have, you know, with allergen is, is, you know, one guy did it and he figured it, you know, just on his first"
+    },
+    {
+        "start": "00:18:23.260",
+        "end": "00:18:53.180",
+        "text": "try, boom, he hit it. You don't want to mess with it. So that's what he's sticking with. But yeah, so you want that's for everybody else out there too. If you're, if you're charging with the purpose of mitigating our allergens, you know, you're experimenting. And you're going to find that number. And if you find that number, like how long it worked for you, please share it with the rest of us so that, you know, we're all going to learn this together. Okay, cool. So now with supplements, you know, folks want to charge their, you know, their daily multivitamin and whatever"
+    },
+    {
+        "start": "00:18:53.180",
+        "end": "00:19:19.260",
+        "text": "else. Is it any different? I mean, there, because in my mind, you know, it's kind of like borderline, and I, you know, is it is, you know, pharmaceuticals, I know there's a consideration about pharmaceuticals, but supplements themselves. Like, is there any kind of like, like, what's the timing to charge a supplement? Is there a concern with your process with supplements? Because they're, you know,"
+    },
+    {
+        "start": "00:19:19.260",
+        "end": "00:19:48.380",
+        "text": "I'm very concentrated. And I would say 30 to 60 seconds in the quantum blog is totally fine. That's what I do. And I found that to be great. And that's also what we tested with Roman in multiple tests. And it worked very, very well. Okay, so that's what we recommend. And with the infinity blog, you know, I would be between 15 seconds to, you know, maybe,"
+    },
+    {
+        "start": "00:19:48.380",
+        "end": "00:20:17.180",
+        "text": "yeah, call it 30, you know, okay. Okay. Okay. And then then you can take the supplement. Okay. So then let's talk about medicine, because medicine is tricky, right? Because it's a chemical and QE based on the allergen discussion we just had, we know that QE mitigates toxins. So medicine is kind of toxins. I mean, you know, it's like medicine is a toxin. So what do you,"
+    },
+    {
+        "start": "00:20:17.180",
+        "end": "00:20:46.860",
+        "text": "what do you say about that? Like, like, you know, should we even bother? That's my first question. Like, hey, you know, I'm, you know, you got someone who's got high blood pressure. They take statins or you get someone's got a headache and they go, if I charge my, you know, my aspirin, it'll make it better. I mean, do we even want to go there? First question, what do you think? Yeah, I think because it's part of life and in some ways, right? It's hopefully not part of many people's lives and not on a general basis. But certainly there are conditions and situations"
+    },
+    {
+        "start": "00:20:46.860",
+        "end": "00:21:10.780",
+        "text": "also where you may have to grab something like that. And frankly, I'm also thankful, you know, that something like ibuprofen, which is certainly also toxic, but that, that you can take that, you know, if you break your leg, you know, you're, I don't know, walk across the street and you get hit by a car. What are you going to do? So I think, and then if you can have a cleaner product,"
+    },
+    {
+        "start": "00:21:10.780",
+        "end": "00:21:37.100",
+        "text": "it's helpful. So you need to be careful though with that because, you know, charging times is important. I would not do that in an infinity block. I think with things like aspirin and ibuprofen, you'd be fine. If you only have an infinity block and you, you know, charge it for 10 seconds and no more, you know, I would personally do that. You know, again, that's, that's up to you. I'd be"
+    },
+    {
+        "start": "00:21:37.100",
+        "end": "00:22:06.940",
+        "text": "okay doing that, but I would not take anything that's for specific condition. You know, if you're taking something for blood pressure or any of those things, do not experiment with an infinity block because the infinity block works so fast, it's so powerful that it adds homeopathic levels to the actual substance. And you cannot say for what substance, how many levels are added and how"
+    },
+    {
+        "start": "00:22:06.940",
+        "end": "00:22:36.540",
+        "text": "deep it can get really, really high really quickly. And the higher the potency, the, you know, the more effect you'll have from that. So we just straight out say, just don't do that. You know, that'd be our recommendation. And with the quantum block, I'd be doing the same thing here. I would probably do, you know, 30 to 45 seconds, we say no more than 60 seconds. So yeah, that's, that's"
+    },
+    {
+        "start": "00:22:36.540",
+        "end": "00:23:02.140",
+        "text": "what, what, what I would do. And really, you should be done. I mean, it's totally fine after 30 to 45 seconds in a quantum block. And there's, there's no more needed in order to, you know, what you're doing is you're neutralizing and harmonizing frequencies that are potentially harmful. Well, what you don't want to do is, you know, impact how the actual substance works. You know, what I mean,"
+    },
+    {
+        "start": "00:23:02.140",
+        "end": "00:23:32.300",
+        "text": "you still want to have those effects the same, just just use a clean up product. And maybe, maybe better afterwards, frankly. Okay. Okay. So now, you know, you know, you know, the members as well as I do, they're going to go, yeah, but I only have an eye block. Yeah, then then you need to listen to what I just said two minutes ago. Don't use it. If you have an ibuprofen or aspirin or something, you know, very, very simple like that. At your own risk,"
+    },
+    {
+        "start": "00:23:32.300",
+        "end": "00:24:03.980",
+        "text": "you know, do the 10 seconds. I don't think there's any harm with that, frankly, but, but again, don't don't use it. So the official position of LA like you is don't use your IB for drugs. And then for you guys to own, you know, let's remember now this is the tutorial and this is our, this is guidance. And these are guidelines based on what is known and what people are, you know, the, you know, Layla Layla is comfortable recommending. And because there's just so much"
+    },
+    {
+        "start": "00:24:03.980",
+        "end": "00:24:33.900",
+        "text": "that is not known, you know, so yeah, keep that in mind and, you know, and proceed from there. So, okay, so then also, yeah, go ahead. So people can make quantum frequency medicine also. And that's, that's interesting. That's the reverse side of it, right? You can take, let's say, an ibuprofen and put it into the quantum block and, and then charge the frequency onto, you know, a metal object, for example, that would be recommended, a silver coin or whatever you want to use. And then you"
+    },
+    {
+        "start": "00:24:33.900",
+        "end": "00:25:01.740",
+        "text": "have that frequency and it can support the physical substance if you, if you then need to take that, or it can even substitute it completely, no, not to 100%. But, you know, if, let's say you, you're on the edge of just taking an ibuprofen, you have a headache, but it's not really bad. You may get along with just the frequency. That's the idea. And then,"
+    },
+    {
+        "start": "00:25:01.740",
+        "end": "00:25:28.620",
+        "text": "you know, we may have times at some point where it's going to be very hard possibly to get certain medications that, that you need. So, so having that available on a frequency basis, maybe even doing some, some, some tests with that may come in quite handy. So that's what that is for. But we do only recommend the quantum block for that. Okay. You know, that's a very, very good point."
+    },
+    {
+        "start": "00:25:28.620",
+        "end": "00:25:54.380",
+        "text": "As you know, what my hobby is biological magnetics. And so I'm very aware of practitioners who are using resonant frequencies, charging water, and then using the water with the frequency of this, of the substance as the medicine itself. And it works. You know, their reports are that they work. Case in point, the molecular frequency for ibuprofen"
+    },
+    {
+        "start": "00:25:54.380",
+        "end": "00:26:20.940",
+        "text": "was transmitted to a glass of water. The person had a headache, they drank the water, and their headache went away as if they took the ibuprofen. So that's what Phillip just mentioned. So, if you have an eye block and the recommendation is to not put the actual medicine in the block, you can copy the frequency of the medicine to a piece of foil, use that piece of foil to then"
+    },
+    {
+        "start": "00:26:20.940",
+        "end": "00:26:45.900",
+        "text": "copy the frequency onto a glass of water, drink the water. So that's something you could try. All right. As an as opposed to just with an eye block, we do not recommend that with any like normal drugs for any conditions. We do not recommend that because again, homeopathic levels are added, and we we just don't know how quickly and to what extent which with which substance. So that's why"
+    },
+    {
+        "start": "00:26:45.900",
+        "end": "00:27:15.500",
+        "text": "caution with the eye block with these things. Okay, very, okay, because it could get too strong, it could get too weak, you know, and it's medicine. So you don't want to be messing around with that. Okay, good point. Yeah, we're gonna get a lot of questions about that still, but I think that that's pretty clear right now. Just understand if you're listening to this, that there's just not enough known about what could happen. And the concern is, is that you don't get what you need, because it's obviously been prescribed to you and you need it. So, you know, it will go from there."
+    },
+    {
+        "start": "00:27:15.500",
+        "end": "00:27:39.740",
+        "text": "Okay, so more stuff about charging. So we did have these are the following questions. We had some questions about, you know, when we talked about using photos. So when we were talking about right here, you know, photos, you know, what are the time frames, but the question that came out which was it's like, hey, you know, what happens if, and here's that, you know, the thing that you'd mentioned a long time ago about, you know, is it, you know, the photo itself? So we had a question"
+    },
+    {
+        "start": "00:27:39.740",
+        "end": "00:28:08.300",
+        "text": "this week about, you had mentioned that you'd kind of helped yourself by taking a picture of your of your upper body from the top down, and then putting that in your block to kind of help alleviate your neck pain from sleeping poorly. And so the questions that popped right up after that, which was, well, was it a photo of your of your on your cell phone, and you put your cell phone in there, as the photo? And the answer was, is no, you print everything, which is what I do too. I also print"
+    },
+    {
+        "start": "00:28:08.300",
+        "end": "00:28:35.100",
+        "text": "all my photos. I don't use my cell phone as the digital digital representation of the photo. I actually printed onto photo paper and put the picture of the photo paper in the block. So, so that's that question, right? Could you answer that? Yeah, I think this morning. So now the other question, though, is about more than one person in a photo. So can you talk about that? Like, is it like, is it something that people should avoid? And what's the worst thing"
+    },
+    {
+        "start": "00:28:35.100",
+        "end": "00:29:04.940",
+        "text": "could happen? You know, that sort of thing, like two people in the same block at the same time, or a person holding their pet, you know, how it is, right, or people standing in a crowd. I mean, how important is it to not have any other living beings in the photo when you're trying to use a photo to send quantum energy to that person? It is important because you don't want to commingle these energies. And that is exactly what is happening, if you put two people or an"
+    },
+    {
+        "start": "00:29:04.940",
+        "end": "00:29:29.580",
+        "text": "animal and a person in there at the same time. There are exceptions. So if, you know, husband and wife, for example, if they both agree, they can absolutely go in together because then even certain topics and stories in between the two and maybe issues, underlying issues,"
+    },
+    {
+        "start": "00:29:29.580",
+        "end": "00:29:54.300",
+        "text": "maybe looked at and possibly even transformed, right? So those are certain things that can happen, can they can have a positive effect, possibly, right? And then that's okay. Usually with a family, even if you have two kids, you know, husband and wife, and they're all pretty much in agreement,"
+    },
+    {
+        "start": "00:29:54.300",
+        "end": "00:30:18.540",
+        "text": "then that is also a possibility because they're already so close and they've all agreed. But other than that, we recommend to never do that. Okay. Good point. Okay. So, you know, unless you want to have like a, I don't know, you have a dog and you want to have suddenly an even deeper connection with"
+    },
+    {
+        "start": "00:30:18.540",
+        "end": "00:30:46.460",
+        "text": "the dog in a way, you could try what you did accidentally at some point where you had your dogs there in there with your photo. And hey, you know, why not? But in general, you know, we don't recommend do that. Yeah. No, that makes a lot of sense because when you live with someone, you're already connected to them because your bio field extends out about six feet. So you're already co-mingling energy, right? And your frequency"
+    },
+    {
+        "start": "00:30:46.460",
+        "end": "00:31:14.780",
+        "text": "and there's a near ice closed room. Yeah. And then there are, there are surfaces out there where, you know, energies are indeed commingled on a level that is unheard of and it's almost ridiculous, frankly, because if you end up having, you know, 50, 60 different people, animals, objects, all in at the same time, and you're literally putting them in one energetic soup"
+    },
+    {
+        "start": "00:31:14.780",
+        "end": "00:31:43.980",
+        "text": "and steering them the whole time, it's, it is, it is crazy. It is, on an energetic level, that is an absolute no go, it is terrible. It is, it is not helpful at all. It is, it's something that should never be done. We've actually worked since probably four months to figure out that problem. And we've solved it, frankly. So there's, there's going to be more coming out in regards to that in the next couple of months. But yeah, so just be mindful of that,"
+    },
+    {
+        "start": "00:31:43.980",
+        "end": "00:32:13.660",
+        "text": "you know, you just want to have one, one living being in there that you know of. And, you know, if you want to be in there with your wife or spouse together, you know, just, just ask her. Okay. So important. So best practices, a picture on a, on a photo paper, one person at a time. Now, would it be now the picture that we got questions about, okay, what kind of a picture, does it need to be their full body or could it be like their upper body and their"
+    },
+    {
+        "start": "00:32:14.860",
+        "end": "00:32:42.300",
+        "text": "face, you know, it would be a body part? Like I like, let's say my sister heard her knee and she took a picture of her knee. You know, would I need a picture of her instead of her knee or could I put that picture of her knee and use that? Yep. So first of all, I think any paper is fine, by the way. So you need to just use regular printing paper. That's what I do. If, if you're more concerned about that, you can certainly take photo paper, but it's, from my perspective,"
+    },
+    {
+        "start": "00:32:42.300",
+        "end": "00:33:08.780",
+        "text": "not necessary. Okay. And if you want to, you know, give yourself a nice charge or someone else, then try to have a full body picture or where as much of the, the body is, is on the picture, that's what I would recommend. Now the situation I had yesterday with, with this heavy migraine and neck pain, which I usually never have. It was very unusual. And because we've tested that"
+    },
+    {
+        "start": "00:33:08.780",
+        "end": "00:33:33.660",
+        "text": "before, it's this knee thing that you just recommended. And that's how I did it. Also, I just took a picture of that part and not my whole body. And so the energy focused on that. And the same with the knees. So if you hurt your knee and that's all you want to work on, then, then that's totally enough. You just need a picture of that knee. If you can't do it, you know, physically. Okay, because that was the other question too,"
+    },
+    {
+        "start": "00:33:33.660",
+        "end": "00:34:00.300",
+        "text": "was like somebody asked if they could put a picture of a person that was like from behind, you know, and I wasn't sure. I'm like, how would the world, how would, you know, how would the universe know that that's that person if you can't see their face? But you're saying that, you know, that's like, that's fine. You know, that is that person. So it doesn't need to be their face. A full body's better, but a part can be fine, which is either, you know, a picture of them walking away from you or a picture of a part of them. But you know, the whole idea is that's fine."
+    },
+    {
+        "start": "00:34:01.020",
+        "end": "00:34:25.900",
+        "text": "And of course, you're putting in an intention to help them heal. And I think that's what drives the whole process anyway, right? That is true. However, like when I want to really charge my whole system, I would personally, that's what my intention say, take a picture from the front where the eyes are on as well. Yeah, not sure why that is, but I do feel that if you, okay, yeah, that may have a"
+    },
+    {
+        "start": "00:34:25.900",
+        "end": "00:34:50.620",
+        "text": "greater effect for the overall system. If you just want to charge your back, of course, just take a picture of your back, no need at all for the eyes of the face. So optimal, get a picture of the person with the facing you. That's optimal. That's okay. And then lastly was the question about putting a picture, does it have to be a recent picture? And I know that we have that really"
+    },
+    {
+        "start": "00:34:50.620",
+        "end": "00:35:19.900",
+        "text": "interesting testimonial for one of our members who worked to heal, I believe, their child through trauma. And they put their child, a picture of their child at different ages, you know, they were an adult adult at this point, but they put a picture of their child at a younger age, then you know, a little older, a little older, you know, that how that has. And that at each stage, right, they were helping send energy to that child of, you know, that person of them at that time,"
+    },
+    {
+        "start": "00:35:19.900",
+        "end": "00:35:45.580",
+        "text": "you know, kind of thing. And it seemed to have worked, you know, it seemed to have helped their adult child overcome childhood traumas. And so that kind of begs to the question of is, you know, is it a picture of me now, or is it a picture of me 20 years ago? Does it matter, or how much do you know about that? I mean, is it all experimental? There's great questions, and we know quite a bit about it, because we've heard multiple"
+    },
+    {
+        "start": "00:35:45.580",
+        "end": "00:36:09.580",
+        "text": "reports and then also did some testing on our own. So if you want to charge yourself or help someone today with something that's going on now, then always take a most recent picture. And you know, this doesn't, you know, you don't have to like take a new picture every day, right? That's not"
+    },
+    {
+        "start": "00:36:09.580",
+        "end": "00:36:34.140",
+        "text": "what that means. You can still use a picture if it's two, three weeks old, but however, the more current, the better, for sure. And you know, if I heard myself today, let's say now, then in an hour, I want to charge myself fully, and I want to have all this included in an optimal way,"
+    },
+    {
+        "start": "00:36:34.140",
+        "end": "00:37:03.500",
+        "text": "I would take a new picture, frankly, that's what I would do. But we have found out that indeed, childhood, trauma, and you know, other blockages and experiences can be eased, harmonized, and transformed even by putting in pictures of the child at the time. Let's say between the ages of"
+    },
+    {
+        "start": "00:37:03.500",
+        "end": "00:37:27.660",
+        "text": "four and six, certain difficult things happened, because maybe the parents died. Something else happened, got into an accident when I was six, like all that, and just two years. Then you would find pictures of the four year old, the five year old, the six year old, and work your way through from the four year old to the six year old, put those pictures in. And then things that"
+    },
+    {
+        "start": "00:37:27.660",
+        "end": "00:37:51.020",
+        "text": "happened at the time, we'll see, you know, I almost said healing, we don't want to say healing, right? But it's, it would say it would see a transformation and an harmonization of what had happened, a release of the trauma talk. That's, that's what has been shown in multiple tests."
+    },
+    {
+        "start": "00:37:51.020",
+        "end": "00:38:17.420",
+        "text": "So that's amazing. You know, that was my self, actually also just tested on myself. And it's interesting. It's a very interesting thing to do. I just found an old, you know, my mother had made a book at some point with the picture throughout my life until a certain age. And I just took those pictures out, put them in. And it's very, very interesting, because you're not really charged"
+    },
+    {
+        "start": "00:38:17.420",
+        "end": "00:38:46.620",
+        "text": "today, you still feel it. And it's almost as if, you know, if you envision a rainbow with so many different layers and colors, it says if one of those layers is being charged and you feel that is being charged, there's something going on. But it's not your whole self, if that makes sense. No, I totally get it. If for anyone who understands German new medicine, or the concept of emotions getting trapped in your body, you know, biologically,"
+    },
+    {
+        "start": "00:38:46.620",
+        "end": "00:39:12.060",
+        "text": "to release those emotions, you need to inject energy into your system, because they're trapped in you, emotions or energy, and they're trapped in you, obviously. And so you carry around all that baggage. So we're saying that quantum energy has the capability of reaching that those, you know, those blockages where those emotions are trapped. And the link is a picture of you"
+    },
+    {
+        "start": "00:39:12.060",
+        "end": "00:39:38.780",
+        "text": "when that moment happened. It's not like time travel, but it's more like you are here now, but you're carrying all this stuff. And the key to that is to reach out to that moment, that emotion got locked inside of you, and to get that key is a picture of you as a child, or a picture of you, let's say 20 years ago, horrible divorce, you know, and you want to get over it now, I get a picture of you back then. So for folks that are suffering PTSD,"
+    },
+    {
+        "start": "00:39:38.780",
+        "end": "00:40:03.180",
+        "text": "get a picture of the moment that, you know, that of that timeframe that you were going through that event, put that picture in the block, put in intention, and seek healing. I think that's, that is amazing. And you've actually, we've had more than one person than you're saying. Yes, there are multiple people, actually, and there are several people that are not even in the group that have reported that and have tested that. And it's, it's really quite interesting."
+    },
+    {
+        "start": "00:40:03.180",
+        "end": "00:40:32.300",
+        "text": "I mean, the, the concept is really not difficult to understand if you understand how that works, and what you just explained is very, very helpful. You know, the time and distance, first of all, doesn't really matter in that concentrated quantum field. And indeed, it's about something, you know, you can solve stuff from the past in the now, right? You know, whether you do that with therapies, right, and you talk about stuff in the now, about stuff that"
+    },
+    {
+        "start": "00:40:32.300",
+        "end": "00:40:57.500",
+        "text": "happened 20 years ago, and then you're kind of like at some point getting over that, or you're doing a healing work with a shaman, you know, or using this type of energy to, to help with that. Yeah, it's absolutely possible. Okay, thank you for sharing that. Okay, so another question about using the blocks, and I'm going to throw in the question number two for, for clarification,"
+    },
+    {
+        "start": "00:40:57.500",
+        "end": "00:41:25.180",
+        "text": "because I was looking at some photos, and it, and I saw people who were like, who had a cube block or two eye blocks, and they were like sitting on a shelf next to each other. And I know that you had said earlier, you know, don't put them next to each other. So could you comment on the proximity of blocks? If you have more than one block, should you keep them separate? And what's the guidance on that? Yes, usually two to three meters minimum distance. There are"
+    },
+    {
+        "start": "00:41:25.180",
+        "end": "00:41:52.460",
+        "text": "exceptions, but those are a little bit complicated, and they cannot be generalized. So two to three meters minimum is what we recommend. Also, usually if you have a home, right, and you have two or three of these, then you have a much better energy flow if you put them in different spots. Yeah, that's how I do it. And, and they're, yeah, I mean, there's not more to say. So two to three"
+    },
+    {
+        "start": "00:41:52.460",
+        "end": "00:42:21.020",
+        "text": "meters minimum is what you should. So do not put them on a shelf next to each other. So they actually will enter their interfere with each other if they're that close to each other, right? Yes. So, and they may not function properly. Okay. Okay. Now, there's a lot of questions about intentions. And so for the longest time, you know, there's a recommendation to,"
+    },
+    {
+        "start": "00:42:22.060",
+        "end": "00:42:48.460",
+        "text": "you know, write down what you, what you want to send into the, you know, universe and people could also call it prayer, but putting down on a piece of paper or saying it out loud while charging something or charging, you know, putting in a photo. So, you know, the question is, is I guess the number one is like people who've never done that before. And the question I believe comes up where it says, do I, how do I, you know, like, I guess, I'll just summarize,"
+    },
+    {
+        "start": "00:42:48.460",
+        "end": "00:43:16.940",
+        "text": "how do I phrase an intention? So what would you recommend? Like, how do I phrase an intention? Let's say, you know, as an example, I, you know, I want to lose weight or I, you know, I want to pass emotional trauma to be healed. How would I phrase that and put it on a piece of paper? Yeah. So first of all, the first thing to keep in mind is that it should not be anything that's"
+    },
+    {
+        "start": "00:43:16.940",
+        "end": "00:43:38.700",
+        "text": "manipulative and or, you know, harmful and destructive. I mean, that would kind of be neutralized anyway, but it's just something, just keep that in mind. Like you don't want, yeah, especially if it's about other people, possibly, right? So then placing an intention in. So if I want to lose weight,"
+    },
+    {
+        "start": "00:43:39.980",
+        "end": "00:44:02.940",
+        "text": "then I would use the present form. I lose five pounds within two weeks. Whereas the timing sometimes can be very difficult and it may be a burden for the intention. So you could also do"
+    },
+    {
+        "start": "00:44:02.940",
+        "end": "00:44:27.180",
+        "text": "something like it is very easy for me to lose weight in the next few weeks. You know, that leaves more room and space for possibilities and how it happens feels even a little easier. And anytime you write down an intention, try to envision what you're writing down, you know,"
+    },
+    {
+        "start": "00:44:27.180",
+        "end": "00:44:57.020",
+        "text": "literally like with with a inner picture, almost and a feeling ideally, and you're putting that in. And then it gets amplified just by that, but it's a more complete intention in that moment because of that, because you're not it's not just a words, you know, it's not energy less words. It's it's really complete. You're putting it into the infinity block or the quantum block. And then from there it gets amplified. It's as an information and a signal in the field."
+    },
+    {
+        "start": "00:44:57.020",
+        "end": "00:45:26.860",
+        "text": "And it gets supported pretty much 24/7 as long as it is in there. Okay. So yeah, that makes specific, I guess, is the key, right? Yeah, try to be specific. And then, you know, sometimes people wonder also, okay, so how can I heal the word? What can I do for the world, right? Sometimes there are things that, you know, we want in the world to change there, I would, you know, try to maybe not be specific with these"
+    },
+    {
+        "start": "00:45:26.860",
+        "end": "00:45:50.220",
+        "text": "things. Like if someone wants Joe Biden to not be there anymore, that that's kind of like goes into more manipulation of that. And so I would rather than tune in and see, okay, so what are the aspects that will be wonderful to have here that are also not manipulative? So, you know, based on the current time and where we're moving in as humanity, something like"
+    },
+    {
+        "start": "00:45:50.220",
+        "end": "00:46:17.500",
+        "text": "more peace, more loving connections, you know, things like that are amazing and those get supported. And it's just, you know, people sometimes wondering, you know, what can I do is, but hey, if we put out and radiate on this intention, and here we can have a tool that can help do that and we don't have to constantly repeat this intention, right? That's that's something,"
+    },
+    {
+        "start": "00:46:17.500",
+        "end": "00:46:46.380",
+        "text": "you know, it is an information that's then given in the field and it does have impact. Okay, no, that's good. That's good to know. All right, so everybody go out there and try it and see what happens. Number four, care and maintenance. I mean, is there anything special people need to know about keeping their blocks clean? Like making sure the dog here doesn't accumulate inside of it. I mean, it's just so water. I mean, you can't hurt the thing, right? It's"
+    },
+    {
+        "start": "00:46:46.380",
+        "end": "00:47:10.860",
+        "text": "metal, but you should keep it clean. So then it doesn't have, I mean, what do you, what's your recommendation on care and maintenance? Yep. So what we found is actually that these microfiber cloths that you would use for wine glass cleaning, those are the best. Oh, okay. And they're very cheap. You can get them on Amazon and many other places, probably actually posted about that"
+    },
+    {
+        "start": "00:47:10.860",
+        "end": "00:47:40.140",
+        "text": "yesterday in the group. And if you're on a regular basis, just wipe down the dust, that's great. And even with an infinity block, you know, you could every now and then maybe, you know, we're in between the plates. It's kind of like difficult to get in, but with one of those cloths, you may be able to take a, maybe a pencil or something else, maybe a knife and just stick a part of that through and then just pull it from the other end of if you guys understand what I'm"
+    },
+    {
+        "start": "00:47:40.140",
+        "end": "00:48:09.420",
+        "text": "talking about. And with that, you don't even need water usually because you just wipe it real quick. And you know, we do that once a week, just to keep it, give it a little bit clean from dust and possibly other things. And yeah, I mean, if you, if you charged your foods in there and you had a soup and it's built over, obviously, and you know, then maybe you need to use a little water with it. But yeah, that's, that's what I would do. I would not be overly concerned about it, but it's"
+    },
+    {
+        "start": "00:48:09.420",
+        "end": "00:48:37.660",
+        "text": "just nice to keep it clean and some dust buildup. Yeah, isn't that great? It's just works better if you don't have a lot of dust in there. Okay, all right. No, good, good to know. The other, you know, you see this question all the time about people asking, you know, about traveling with the blocks. Does it, you know, is it just better to disassemble it and then just put in your suitcase or is there any issue about having it assembled and while you're traveling or playing"
+    },
+    {
+        "start": "00:48:37.660",
+        "end": "00:49:01.100",
+        "text": "strains, model reveals? Yeah, so I can maybe say how I do it or we do it. And we also have some good news. So if we travel in the car, you know, then on a longer trip, then we usually actually have a block with us and have it in the back, you know, in a way where, you know, it doesn't fall over."
+    },
+    {
+        "start": "00:49:01.100",
+        "end": "00:49:30.060",
+        "text": "If we travel with a plane, then usually we disassemble and then put it together what we're at. That's, that's how we do it. Then someone in the group had a great idea and found a bag, a nice, pretty stable bag that had pretty much the dimensions of the blocks that you could put inside and ask,"
+    },
+    {
+        "start": "00:49:30.060",
+        "end": "00:49:55.580",
+        "text": "hey, you know, could we make a bag like that? So we've actually exploring based on that great input. And we've found a company that can produce these. So we're still in the process of that. But you know, maybe that that will still be a black bag, but it may have the the golden mandala on it, you know, something just that it looks nice. It wouldn't show the like quantum"
+    },
+    {
+        "start": "00:49:55.580",
+        "end": "00:50:22.940",
+        "text": "tech because we don't want to like brand this, you know, it shouldn't be like a walk in commercial. It just should look nice and be very functional. So and with that, it's actually a lot easier because you can put it in your car like that. You could you could possibly even then take it into the the plane. I don't know what the security would say about that. But you know, what problem would they have with that, frankly, it's probably probably none. So yeah,"
+    },
+    {
+        "start": "00:50:22.940",
+        "end": "00:50:50.060",
+        "text": "that's another way to do it. And yeah, maybe we'll have this these smaller blocks at some point also that, you know, we've been asked about you have the prototype. Okay, and we're trying to make them one centimeter larger, just so that it's a little bit easier to put even big fists in there and to put a little glass in there. But those are actually pretty cool for traveling because you"
+    },
+    {
+        "start": "00:50:50.060",
+        "end": "00:51:19.020",
+        "text": "can literally have them in your purse, you know, if you're your female. And it's very easy in the car, you know, it's it's just it's pretty convenient for for traveling, frankly. Yeah, I like my QB mini. I love it. I really do. And you'll yeah, you hit on that you hit on the issue, right? It's if it was just a little bit bigger, so I could put a coffee cup in there. If it was just the perfect size to for a coffee cup, that would be perfect."
+    },
+    {
+        "start": "00:51:19.020",
+        "end": "00:51:49.020",
+        "text": "I do that every single morning. But yeah, I keep it in the truck. I love it. It's just great. Thank you. Okay, so traveling with blocks. So you've never had any issues with TSA. Right. I mean, it's like pretty much disassemble it if you're traveling because it is, you know, large, but no issues, right? Just okay, you know, whatever and the little the mini block actually crew my wife, she had the the mini block just, you know, in in her purse, you know, with her."
+    },
+    {
+        "start": "00:51:49.020",
+        "end": "00:52:15.420",
+        "text": "And yeah, no problem whatsoever. I mean, you know, it's not a knife. It's not a gun. It's, you know, it's just a little nice looking object for people. And, you know, if you're asked what that is, well, you know, it's a very nice little golden temple or design piece, you know, yeah, or book. I'd say it's like a bookcase or something like that. Okay, now let's talk about number six is"
+    },
+    {
+        "start": "00:52:15.420",
+        "end": "00:52:43.420",
+        "text": "the now this question comes up a lot, right? It's like, is there a difference between the plates on a QB versus an IB, meaning, you know, the infinity block is three plates up and down, right? So total of six plates. And the question comes up is like, well, if it's too much energy for me, can I take a plate off the top and the bottom and only use two? Or the other question is, is if I have an infinity block, I got three plates, could I just make three QBs out of one IB,"
+    },
+    {
+        "start": "00:52:43.420",
+        "end": "00:53:06.540",
+        "text": "you know, those kinds of things, right? Because, you know, because, because, so the question I always tell everybody is like, no, you can't, because it's like they're charged differently. And so, but if you know, you could elaborate on that, like, like, why is does why wouldn't that work? I guess is the question. Yeah, it's because of the quantum consciousness levels mainly, and an infinity block"
+    },
+    {
+        "start": "00:53:06.540",
+        "end": "00:53:29.260",
+        "text": "once put together, then that's how it operates. And you can then not remove plates and then just have a quantum block. It's just, it just doesn't work that way. It's, because it's a, yeah, it's a different, different level of charge, different level of quantum consciousness levels. And,"
+    },
+    {
+        "start": "00:53:29.260",
+        "end": "00:53:57.420",
+        "text": "yeah, it just doesn't work that way. And by the way, also, you can make it, you can make it less strong, a little bit less strong that way in the beginning. But for example, also, if you use just two plates on the top and two plates on the bottom, we would never recommend that because that is not, it doesn't work well. For whatever reason, we tested that very early on. So, yeah, so if you"
+    },
+    {
+        "start": "00:53:57.420",
+        "end": "00:54:25.260",
+        "text": "want to use a quantum block for the specific functions of a quantum block, you're, yeah, you should get a quantum block. Okay, so it just simply doesn't work that way. Okay, good to know. So the other question, number seven is, you know, this, this kind, this came up when it was an interesting question. It's like, hey, you know, I always wear heel caps around my neck. And I'm sitting there putting stuff in my, my block. Does the proximity of me"
+    },
+    {
+        "start": "00:54:25.260",
+        "end": "00:54:51.020",
+        "text": "having one Layla device around my neck affect anything in the block as I'm charging and vice versa. So, you know, should I, you know, should, should people, you know, kind of keep these things away from each other or, or it doesn't matter? No, it does not matter. There's no problem with that. So, it wouldn't affect the block at all. On one side on the flip side is the block would not"
+    },
+    {
+        "start": "00:54:51.020",
+        "end": "00:55:18.060",
+        "text": "like charge an already charged object, if that makes sense. So, the distant charging of objects is yes, you get quantum energy in it. And yes, you neutralize any and all harmful and negative frequencies with it. As I've explained, I think in part one with this, you know, big dining table that we had bought, which is an antique dining table. And, you know, we just had to get those"
+    },
+    {
+        "start": "00:55:18.060",
+        "end": "00:55:47.740",
+        "text": "energies out there that were stuck in there. And that's very easy done with the photo. However, if you have a heel capsule, that's already charged. And, you know, there's, there's nothing that you do with that you would then have to physically put it into a higher level infinity block in order for it to have a change. Okay, all right, that makes sense. Okay, so the other question that comes up a lot is the topping off concept, where, as I understand,"
+    },
+    {
+        "start": "00:55:47.740",
+        "end": "00:56:17.020",
+        "text": "that the ladle of products, when you, when you make them for the website, that you put the frequency, use a key, you know, like we should, we're highly recommended, right? Use your cube lock whenever you're copying frequencies. And then so you'll give it a full QB charge. And then you'll quote top it off and put it in the IB in the infinity block. And that's kind of for the concept that an infinity block is seven times stronger than a cube lock. And so there's that idea that,"
+    },
+    {
+        "start": "00:56:17.020",
+        "end": "00:56:40.540",
+        "text": "you know, you use both. So first question is, is it required to use both? If I only have a QB, you know, if I want to have, if I want to make a device, let's say I want to make my own capsules, and I only have a QB, and I go to the full three minutes, is it going to, is it not the same as, like if I bought a capsule from, from Layla Q, because you also, you top it off and, and they"
+    },
+    {
+        "start": "00:56:40.540",
+        "end": "00:57:10.060",
+        "text": "won't be able to. Yeah, no, it would be definitely not as strong. Okay, if you just have a quantum block, but however, it still, it will still work, of course, right? It's just the vibration is high. Yeah, so, so, and if you have an infinity block, then definitely top it off. If you feel like wanting that a higher vibration, I would say it's not, if you have both the quantum block and"
+    },
+    {
+        "start": "00:57:10.060",
+        "end": "00:57:36.620",
+        "text": "the infinity block, to simply put pure quantum energy into an object, you can put it in right away in the infinity block, there's no need to put it in the quantum block beforehand, but if you work with frequencies, you know, we charge and copy any and all frequencies only in a quantum block type device, and not in the infinity block, because of multiple reasons that we already talked about,"
+    },
+    {
+        "start": "00:57:36.620",
+        "end": "00:57:59.740",
+        "text": "you know, handling frequencies way easier in the quantum block, then we top it off in the infinity block. But again, if you just want to charge pure quantum energy into your watch, you know, you could go straight to the infinity block because, yeah. So they're giving this, so that's a really important point is that if you just have a quantum block, you're perfectly fine, because you've created"
+    },
+    {
+        "start": "00:57:59.740",
+        "end": "00:58:24.700",
+        "text": "a very, you know, powerful QE device like capsule or card that has the frequency or has the energy and you're fine. There's no need to have both. I think that's the key thing, because, and then for for Layla, you actually do this topping off process, because you have at your disposal, and you want your your your, you know, I'm just assuming I'm just saying this personally,"
+    },
+    {
+        "start": "00:58:24.700",
+        "end": "00:58:50.700",
+        "text": "but you're basically you want to have your devices are stronger than you want them as strong as you can get them, right? And when you when you when you provide them to customers, is that correct? Yes, and you know, the infinity block then comes in handy also for other people, obviously, if they just want to have a stronger field at home, or if they have objects, silver, where whatever that they want to just with charge with a higher vibration, then that's where you"
+    },
+    {
+        "start": "00:58:50.700",
+        "end": "00:59:19.420",
+        "text": "need or want an infinity block. But if none of that matters, you're totally good with the quantum block. Okay, yeah, because I had a quantum block for months before I read an infinity login. It was just fine. Okay, now for timing, seriously, other issue here, right? People are, we've talked about upgrading infinity blocks in part one, and people are some folks are really going for it, you know, and and so what I wanted to talk about is not necessarily what happens when"
+    },
+    {
+        "start": "00:59:19.420",
+        "end": "00:59:45.420",
+        "text": "you do that. I think that's a whole separate question, but it is possible to upgrade. There's a video on the Layla cute YouTube channel how to do it, but the whole idea though is that, you know, all of these timings that we've we've documented here in the tutorial on charging objects, charging people, pets, you know, people in pets, charging food and water. But one of the things about what happens and what you know, I don't even know what the recommendation is, but like, what would you say"
+    },
+    {
+        "start": "00:59:45.420",
+        "end": "01:00:14.060",
+        "text": "to people that say, Hey, you know, I've I've charged my upgraded my infinity block to level four now, and I got a three and a four, you know, how long should I charge you XYZ for? And so my response to these questions are, is like, we have no idea, you know, and then the response is, well, doesn't Layla do topping off? So wouldn't they know, right, that there's some kind of a timing for an IB5 versus an IB6? And so, you know, what would be your response to that? Because we want to try to"
+    },
+    {
+        "start": "01:00:14.060",
+        "end": "01:00:38.140",
+        "text": "help people. But there's so much that's unknown, like, like I personally am at IB8, and I know that no one could even possibly tell me how long I could put a cup of coffee in an IB8. You know, like half a second, you know, I mean, so that kind of stuff, right? So what do you what do you say to that? Yeah, so the whole thing is not really linear. So we found that with infinity block one,"
+    },
+    {
+        "start": "01:00:38.140",
+        "end": "01:01:08.140",
+        "text": "two, and three, you can pretty much use the same timings that we that we give you with with metals, I would start being a little bit more cautious, and maybe have, you know, starting with an infinity block three, not charge metals for more than two minutes, maybe two and a half minutes, and then as you get to four, five, six, I would further reduce that and try to really, really not"
+    },
+    {
+        "start": "01:01:08.140",
+        "end": "01:01:36.060",
+        "text": "go over two minutes at all with with metals. But charging times for water and all of that in the minimum charging times, you know, you can just reduce it a little bit, maybe cut it into half, but I wouldn't, for example, do anything below 10 seconds still in an infinity block, because there just needs to be a little bit of time that the the physical object really is without any"
+    },
+    {
+        "start": "01:01:36.060",
+        "end": "01:02:01.820",
+        "text": "movement in there. You know, if you just, you know, people ask, you know, if I if I have a ring and I'll just, you know, put something in there real quick, and then take my hand out, that that's not charging the ring, because, you know, that that really doesn't have much of an effect. So you would have to have something in there stable just for a moment, at least. So so it doesn't mean that"
+    },
+    {
+        "start": "01:02:01.820",
+        "end": "01:02:32.460",
+        "text": "you should just charge things now for one second. So I don't know, maybe that would even be possible, but yeah, I would, I would not worry too much about that. I would keep worrying about metals, just keep that in mind, just try to reduce it. We honestly really can't tell you exactly if you have an IB7 or you, in this case, with an eight, just need to follow your own intuition. I'm sorry. No, that's not what I was thinking. I just because I know you don't have one of every"
+    },
+    {
+        "start": "01:02:32.460",
+        "end": "01:02:54.700",
+        "text": "single one, and then sit there and test that one to death and then go to the next one. And, you know, there's just no time for that. So it's just a matter of intuitively, but it's good to know that it's not linear. So even if I have an eight, if I wanted to use it to top off, let's say I make something and I want to top off 10 seconds, right, and I should be good, because that'd be like treated like any other IB. But the key is don't leave it in there for like two days or something."
+    },
+    {
+        "start": "01:02:55.180",
+        "end": "01:03:21.980",
+        "text": "Yeah. And you can put it in and then the eight, I'm sure for 30 to 40, 45 seconds to top something off. And that may be great and fantastic, frankly. And it may be better than just 10 seconds. You just want to make sure that the metal you're topping off hasn't been at the edge of overcharging already. And then you're absolutely good to go. Like again, it's, yeah. And the three minutes that"
+    },
+    {
+        "start": "01:03:21.980",
+        "end": "01:03:49.980",
+        "text": "we always talk about is also on the cautious side, right? Because we know sometimes people then run over and then they're at four. And okay, then, you know, so we, we were a little bit on the cautious side and it's still something to keep in mind though. Okay. All right. Okay. So, you know, we're coming up on the top of the hour and I cannot believe how fast our conversation is going a little bit more. Yeah. So let's find it. Yeah. So if you don't"
+    },
+    {
+        "start": "01:03:49.980",
+        "end": "01:04:18.460",
+        "text": "mind, let's go ahead and finish the last piece of the charging questions. And then we'll get into the frequency. Sorry. You have time for part three to do. There's no way, you know, it's like, if you look at the slides here, guys, yeah, we haven't even gotten a frequency copying, but because there's so many questions coming in about just charging. But let's, if you want, let's go ahead and finish these last three slides on charging. I don't think we can even get into"
+    },
+    {
+        "start": "01:04:18.460",
+        "end": "01:04:48.380",
+        "text": "EMF, but then let's do it part three. And, and I think that would be a really good tutorial, right? One part one, two, three, how to use blocks because it's a lot more than you could cover it literally in one or two hours. But all right. So just want to throw that out there. Okay. So, the next, the next, the next question, I got three slides about separating the plates. So one of the things I do want to make sure in this tutorial that you, if you, that if you have a block and you're going to charge something so big, you've got to take the rods off,"
+    },
+    {
+        "start": "01:04:48.380",
+        "end": "01:05:15.500",
+        "text": "what's important? And so, you know, so the high idea though is that you have to keep the plates aligned. Greg Phillip, it's because if you have the plates that are not aligned, like this diagram right here, what happens is the charging space is only where the, where the plates align. So you've then decreased the space by which you're charging. Is that correct? Yes, that is correct. But I want to tell people also, you know, you don't have to worry about,"
+    },
+    {
+        "start": "01:05:15.500",
+        "end": "01:05:45.900",
+        "text": "like, you know, half an inch of change or something like that, because the energy will find its way to the other half of the block. So it's, it's okay if it's not, you know, you don't have to, it doesn't need to be perfectly aligned, right? If it's a little off, you're good. There's no worry. But yeah, don't be fully off. You know, like, maybe your picture really shows it like completely off. So that's not the best way to do it. Right. So if it's off by just a"
+    },
+    {
+        "start": "01:05:45.900",
+        "end": "01:06:07.820",
+        "text": "little bit, it's okay if, you know, so this would still work, but you couldn't be where you're like way up here. And this one's way down here. That just would not work, right? Yeah, it wouldn't work that great indeed. Okay. All right. So that's good to know. So everybody, when you separate your plates, and then from a standpoint of distance, I know that the cube block, you don't want to"
+    },
+    {
+        "start": "01:06:07.820",
+        "end": "01:06:35.340",
+        "text": "exceed what 15 feet, right? Five meters? Is that I think that's what we tested. What is that? Yeah, it's about 13, 14, 15 feet. You don't want to extend that and put the infinity block. I would say you can probably go up to six meters at least, but maybe you just want"
+    },
+    {
+        "start": "01:06:35.340",
+        "end": "01:07:01.900",
+        "text": "to keep it at five meters too. We honestly haven't tested anything larger than five meters. So my guess that it would not be a problem, but I just don't know. Okay, so just say recommended max distance is going to be 15 feet for both, just as a precaution, just so that, you know, it's what we know, I guess is, right? Okay, so that's important to know, everybody is, you know, 15 feet, which"
+    },
+    {
+        "start": "01:07:01.900",
+        "end": "01:07:31.420",
+        "text": "is big enough to, I mean, it's far enough apart where you could charge a car, not vertically or not lengthwise, but sideways. Okay, so then the idea here, so I just want to, by the way, in regards to a car, if you want to charge a car, put a picture of your car in the block and see what it does. It's pretty cool. Again, it's not as if you're doing the physical charging, but you get stuff out there, energies out there from the production process and stuff like that. And it's nice."
+    },
+    {
+        "start": "01:07:31.420",
+        "end": "01:07:58.860",
+        "text": "It's really nice. Oh, so okay, I totally forgot about that. You're right. Okay, so, yeah, instead of going through the hassle of trying to physically charge your car or your house or your office, put a picture of it. There you go. Okay, so I pulled some picture out. I pulled some photos out of the chat. I just wanted to share what people are doing so that, you know, because the only problem with T.G. or Telegram is that any time you post anything, it's gone in"
+    },
+    {
+        "start": "01:07:58.860",
+        "end": "01:08:25.180",
+        "text": "five minutes, right? So I wanted to share some stuff, which is like, this is one of my favorite photos. I think it was Desiree and her dogs, and it's so cute, but she's got her dogs here, and you see how she's got her two plates, and they're vertically, you know, they're aligned, and then they just got the dog sitting there. So that's one way to do it. We had another individual post this picture right here, where they built some kind of PVC pipe contraption by their window,"
+    },
+    {
+        "start": "01:08:25.180",
+        "end": "01:08:49.660",
+        "text": "and they've got a plate down here, and then right above it, which is aligned, right? They've got their other plate, and they go in there. It's like a little shower or a little closet, and it's their charging station for a full-body charge. So that's one way to keeping the plates aligned and then separating them. Other pictures are people who have, you know, customize their own rods to give them more space, and then charging their bodies horizontally like"
+    },
+    {
+        "start": "01:08:49.660",
+        "end": "01:09:19.580",
+        "text": "this, which is putting two rods on one side. Other folks are just taking off one plate, you know, here you go, leaning against the pillow and the other ones on the coffee table, and they just sit there, you know, and then so we've got these pictures as well. I think the key thing to note is when you separate the plates on an I.B. is you need to maintain and keep these nuts in between, you need a space between the plates, correct Phillip? Yes, that's absolutely correct, and this was a very smart one here with, you know, the,"
+    },
+    {
+        "start": "01:09:19.580",
+        "end": "01:09:47.100",
+        "text": "how do you call it the zip? Yeah, the zip ties. Zip ties, exactly, and so some people do it like that, and then someone asks, \"Hey, could you produce this screw?\" That basically would cover this area and would make things easier, and we're actually producing the first batch of those currently, so we'll have those hopefully soon, and yeah, that should make it a little bit easier"
+    },
+    {
+        "start": "01:09:47.100",
+        "end": "01:10:16.700",
+        "text": "really to do this. Okay, perfect. So until those, so it's going to be a bolt that'll hold the three together without a rod, right? Yes. Okay, so the easiest way to do it right now is to use a zip tie on one end, leave the rods on the other side, you have two rods on one, you know, on one plate and two rods on the other plate to kind of like, you know, hold them up, and then using zip ties, and so that way you can kind of put it on two different,"
+    },
+    {
+        "start": "01:10:16.700",
+        "end": "01:10:41.980",
+        "text": "and here's an example of, you know, someone who put it on two stools, and then they sit in between them, you know, so these are examples of how to separate the plates to charge, physically charge, larger objects that don't fit into the eight centimeter space, or eight, I think it was eight, right, or 16 centimeter space in between. So there you go. So that's how you would separate the plates, and you know, what people are doing, and it works. Okay, so we're going to wrap this up. Thanks"
+    },
+    {
+        "start": "01:10:41.980",
+        "end": "01:11:10.140",
+        "text": "to everyone, by the way, for being so creative and also sharing these pictures and how you do things. It's valuable, it's fun, and for everyone, you know, everyone gets inspired by that, so keep doing that. Yeah, yeah, keep caring. Please, please, please. So anyway, I know Phillips got a run, so we're going to wrap up part two. Mahalo, thank you so much for your time. I think, you know, these tutorials are going to be invaluable, and anytime someone buys a block, or before you even"
+    },
+    {
+        "start": "01:11:10.140",
+        "end": "01:11:39.900",
+        "text": "buy one, you know, watch these tutorials, because we're going to go into a part three, where we're going to talk about what we're going to get into EMF, and talk about frequencies, and so forth, or how to copy frequencies to get really in depth about that. In part three, sorry, sorry, we couldn't cover it now, but as you had just listened, there's so much content, and it's so valuable. I don't want to skip anything. So thanks a lot for your time, Phillip. Thank you for watching everybody. Now, for anyone who wants to get ahold of us, you know, we do have the Quantum Power Group on"
+    },
+    {
+        "start": "01:11:39.900",
+        "end": "01:12:06.060",
+        "text": "Telegram. It's our private group, and the joint link will be in the video comments below. We've got over 2,500 members now in our group, jumping in, sharing, asking questions, helping each other out. It's like one of the best communities I've ever been on, and when it relates to social media, it's just an amazing group of people. A lot of love, a lot of aloha. And then for me, I'm at the Tinkers Academy. If you want to reach out, I've got a lot of content on Quantum Energy,"
+    },
+    {
+        "start": "01:12:06.060",
+        "end": "01:12:33.660",
+        "text": "and a lot of information about Layla specifically. So come over to Tinkers Academy, link below. If you want to get ahold of me, and if you want to get ahold of Phillip, just pop over at Telegram at the Quantum Power Group. So that's how you reach us. Otherwise, Phillip, thank you so much for your time this morning. I really appreciate it. Thank you, Kay. This was great, and thanks everyone, listening. We're looking forward to part three. Okay. Thanks everybody. A lot."
+    }
+]

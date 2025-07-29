@@ -1,0 +1,837 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.000",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host K. Elmer and this is part two of a two-part video Interview that I had with Phillip on Holson Dorff of Leila quantum tech. Thank you very much, Phillip And in this part two is where we cover the five frequently asked questions that are popping up over and over and over In our telegram chat group. So those five questions That we talk about in this video is number one, you know"
+    },
+    {
+        "start": "00:00:26.000",
+        "end": "00:00:52.660",
+        "text": "Mixing and matching frequencies, which comes up all the time like how many frequencies is too many frequencies Which ones go well together and that sort of things and which ones shouldn't go well and even Philip threw in some like when What time of day would be better to use certain ones? So I you know that's you know, so he provides I basically was just pinging him, you know with all these different questions Number two that we talk about is cards versus capsules versus blocks Which is a question that pops up all the time about you know"
+    },
+    {
+        "start": "00:00:52.660",
+        "end": "00:01:20.960",
+        "text": "Hey, I'm thinking about, you know, I want to try this and would you should I get a cube block or eye block or should a Carder capsules we talk about you know what the devices are and and what they're best for and that was when number two question The third one we talk about is using frequencies with blocks You know like how do I like, you know put something in an eye block and and and you know and then and then and permeate that Frequency throughout the field that sort of thing and what's the best practices for that number four is something that comes up all the time"
+    },
+    {
+        "start": "00:01:20.960",
+        "end": "00:01:49.760",
+        "text": "And it's just people, you know, we're just trying to see, you know How can quantum energy or these frequencies or both right, you know? How can it help them with their overall health and wellness because so many people post, you know I know so-and-so with this or I have this issue and you know And would this be good for that and and so this is something that I really wanted to kind of cover with Philip to kind Of address in general and and just really talk about you know How this can work for you and the last one is is is one of my crazy tinks where you know"
+    },
+    {
+        "start": "00:01:49.760",
+        "end": "00:02:19.240",
+        "text": "it's about how to you know using this the cue block or the eye block or the quantum energy in general and Charging you, you know We talk a lot about charging objects plants and jewelry and water and you know so forth But you know one of the things that kind of gets overlooked sometimes is charging ourselves And and and what are all the do's and don'ts and recommendations from Philip for that so it's it's a great conversation I think this is probably an awesome aspect of you know the user guide, right?"
+    },
+    {
+        "start": "00:02:19.240",
+        "end": "00:02:44.000",
+        "text": "So I just wanted to share that with you this is part two without further ado Let's jump right into the content and where I'm talking with Philip in the interview, but first let's cover the disclaimers Neither lay the quantum tech nor the Tinkers Academy recommend or endorse any specific tests physicians procedures opinions or other information That may be mentioned in this video relies on any information appearing and discuss in this video solely at everyone's own risk"
+    },
+    {
+        "start": "00:02:44.280",
+        "end": "00:03:08.440",
+        "text": "statements made have not been evaluated by the EFSA or FDA or any government derivatives thereof lay the quantum tech products and Products that lay the quantum tech may represent are not intended to diagnose treat care or prevent any disease. There you go All right, let's jump in. All right, so let's jump into the FAQs now what I did was this is the list Everybody and I just picked five because I mean I want to keep the video reasonable"
+    },
+    {
+        "start": "00:03:08.440",
+        "end": "00:03:37.900",
+        "text": "And you know we kind of started touching on to this one which is like and these are just me reading the chat I read everything and so it's kind of just seems like the number one thing people have been asking about is mixing and matching Frequencies so and you know you and I just touched on like which ones go well with each other It's kind of like that old sesame Street, you know thing that our kids watch right that little song which ones will not like the others right, and so Yeah, it's like which ones go well with it"
+    },
+    {
+        "start": "00:03:37.900",
+        "end": "00:04:05.200",
+        "text": "But let me the first question that always comes up and I've answered it myself and but in so let's what's your answer to? You know how many is too many like like you know cuz just just right off the bat the nutritional biobase is like 60 different things that you know the men's booster and the women's literally over 60 Different frequencies blended into one set right so when you start mixing and matching you could have end up with hundreds of"
+    },
+    {
+        "start": "00:04:05.480",
+        "end": "00:04:31.440",
+        "text": "Different frequent frequencies all and you know you're carrying around all at the same time So what you know so hum you know how many is too many or does the body just use what it needs? So what you know what's your advice on that mixing and matching frequencies? Yeah, so I Try to differentiate a little bit Between those you know molecular frequencies how you describe them like the biobase or"
+    },
+    {
+        "start": "00:04:32.080",
+        "end": "00:05:01.920",
+        "text": "The women's booster man's booster and then some of the other ones in general on a higher level I would say you know look at what you would like to work on and then see if if That relates to each other. So if you know if you have some sleep problems you may as well start off with the inner peace because It may just be a little bit of your mind and something that is just so present within you that you"
+    },
+    {
+        "start": "00:05:01.920",
+        "end": "00:05:32.000",
+        "text": "You're wrapping your mind around the whole time that you can't let go or or you can't figure out whatever and then the inner peace may be a great way to actually help with that and then Possibly the sleep and rest would actually be something that you can use in addition to that So those would go really well with each other For an example, you know, we said the forever young and the heal frequency would go well together something that You know, I don't think would go so well"
+    },
+    {
+        "start": "00:05:32.000",
+        "end": "00:05:55.400",
+        "text": "together is Well, it's actually a hard to say because there's also no general rules, right? So but the agony power and the sleep and rest for example would would Really exclude themselves a little bit because the agony power is"
+    },
+    {
+        "start": "00:05:56.280",
+        "end": "00:06:24.280",
+        "text": "While it really stimulates the heart chakra to, you know, help it the unconditional love becomes the main force in our lives It it has quite some energetic power to it that we've found and recommended that people should just wear this throughout the day or not at night so That just from that standpoint it wouldn't really go with a steep and rest which we would only use at night and not during the day because"
+    },
+    {
+        "start": "00:06:24.280",
+        "end": "00:06:53.600",
+        "text": "You don't miss all you want to sleep during the day Yeah, I would I would not and I would not focus on too many things at the same time So if let's say if if someone has real money issues, right? Something with the money flow is is really off with a wealth. You just, you know, work your ass off and you do what you can and you're just Just not getting there. It's you know There is ways to actually"
+    },
+    {
+        "start": "00:06:53.600",
+        "end": "00:07:17.240",
+        "text": "Establish that frequency and that resonance field within us to actually attract that and to get through These blockages or things that are in the way and it may actually be our own belief system, right? And that we're just not consciously aware of so those things the prosperity card helps with so but if I want to work on something like that I don't"
+    },
+    {
+        "start": "00:07:17.240",
+        "end": "00:07:45.040",
+        "text": "Take the happiness the forever young and the the inner peace card all together and work on all those things. It's just You know if you learn how to play tennis, you know for for 10-15 minutes You're gonna work on your serve and then maybe later you're gonna practice your forehand and things like that and You know, you that's how you learn better and that's how you focus better"
+    },
+    {
+        "start": "00:07:45.200",
+        "end": "00:08:14.560",
+        "text": "So you don't want to take in too much at the same time because then it the focus is gone and then it just Waters things down. So if you want to have better and faster results, just use that for a while or You know use the prosperity for a day and then if you feel like okay, you You want now inner peace next day you mix them up it that doesn't really matter But I don't want to I wouldn't suggest to use too many at the same time"
+    },
+    {
+        "start": "00:08:14.560",
+        "end": "00:08:44.600",
+        "text": "It's just it's not gonna Help you too much whereas we can say that abundance in general is something that Abundance is way broader than than prosperity because that's really the inner abundance and it Once you can create inner abundance also abundance Will reflect in the outer life and you know prosperity would be a part of it so in a way those two go pretty well together and last point now to those"
+    },
+    {
+        "start": "00:08:44.600",
+        "end": "00:09:07.880",
+        "text": "physical or molecular frequencies Yeah, you know 75 or 76 You know minerals vitamins and all that sounds like a lot, but in the end of the day. It's also not so much especially because they're They're The way they're created is that they actually support the"
+    },
+    {
+        "start": "00:09:08.400",
+        "end": "00:09:37.640",
+        "text": "Human body in an optimal way. It's actually those are there's have been some time scientists over three decades that actually Came up with this bio base makes that we're using for that So even on a physical level that works Perfectly so on an energetic level totally fine. Yeah, I wouldn't worry about that Yeah, yeah, cuz they all do a very specific thing in your body I mean if you take 30 different minerals each one has a purpose and"
+    },
+    {
+        "start": "00:09:38.400",
+        "end": "00:10:05.280",
+        "text": "Well, that's why our bodies require like what is it the 82 different minerals in the world We have there's a purpose for every single one of those minerals in our body because we are of earth, right? But yeah, yeah, okay, good. No, that's a really good explanation so it's kind of like Think about what you want to achieve and hone in on that one and then just hone in on it and Like you would not want to try testosterone booster and then try to get some sleep kind of thing, you know, right?"
+    },
+    {
+        "start": "00:10:06.040",
+        "end": "00:10:36.040",
+        "text": "Probably not. Yeah, it's because these like the boosters are gonna give you energy And so you can't do you can't relax and then have and then have energy at the same time. So that makes sense So okay, so yeah everybody out there just you know really hone in on what is your target? What do you want to what's your objective and then what would best support that and and then in terms of mixing and matching frequencies? Because a lot of people you know have the heel capsule and that's their biggest question is I have a heel"
+    },
+    {
+        "start": "00:10:36.040",
+        "end": "00:11:02.840",
+        "text": "So which ones could I add with the heel and so because heel is primal human healing which supports your life? Then I think well, what was there anything that wouldn't go with heel? Well, so the thing is that so the heel frequency that's in the capsules also contains the Primal healing water frequency as well as the biobase. So that's all included in that one. So"
+    },
+    {
+        "start": "00:11:02.840",
+        "end": "00:11:31.120",
+        "text": "I'm not too sure if I would want to use the testosterone Booster or the main booster together with it. You know, I've tested those and I would so that's my just my personal Opinion for myself that I would use them like in a rotating fashion versus in parallel and this may be because"
+    },
+    {
+        "start": "00:11:31.120",
+        "end": "00:11:56.480",
+        "text": "Maybe those aren't too many things to focus on. I don't know but it may also be different for other people, right? so It yeah, I think a lot of things go with it. Well, but then we found for example that people that have gotten the You know the thing in their arm That if they had now the DNA and cells protect"
+    },
+    {
+        "start": "00:11:56.480",
+        "end": "00:12:23.920",
+        "text": "Also wanting to try the heel with it. It was actually too much for them Oh, it wasn't too much for the ones that had not gotten, you know the needle in the arm. Ah We don't really know why that is it's probably because their system was already so overwhelmed that they they got even more sensitive to to to everything they're they're taking in and"
+    },
+    {
+        "start": "00:12:23.920",
+        "end": "00:12:52.800",
+        "text": "So in that sense, I would you know if someone Can't do the DNA and cell protect or doesn't have that You know, but has the heel and you use that one But if you have the DNA and cell protect then then use that one and don't don't use the heel or or rotate that right? That's really good advice. Okay. No, that's really helpful. All right. So thank you For that. I think that that really kind of clarifies mixing and matching"
+    },
+    {
+        "start": "00:12:52.800",
+        "end": "00:13:23.120",
+        "text": "Obviously if any if anybody has any questions I'll just feel free to jump into the telegram and and go ahead and post your question So the other question that I'm seeing most recently Phillip is this whole issue between you know What's like the like what should I you know, I the question is usually posed. Hey, I'm new here You know should I get a card or should I get a capsule and then the other question is is and these are your flagship products So people are saying, you know should I get a card should I get a capsule and then you've got people saying You know should I get a quantum or infinity block?"
+    },
+    {
+        "start": "00:13:23.120",
+        "end": "00:13:52.880",
+        "text": "You know and so those are the questions that I'm seeing as relates to products and so I was wondering if you could kind of just share like, you know, what I guess in general terms like what's the the like what if you want something X, right? What is if your objective is X, then this is the best one if your objective is that, you know that kind of thing So what would you say from a standpoint of all your different products? What's like what's your one liner that would say hey if you're looking for X, then this is what for you"
+    },
+    {
+        "start": "00:13:52.880",
+        "end": "00:14:24.880",
+        "text": "If you want why then, you know try that so let's let's start with these two guys right here What do you what would you recommend if someone says should I get a frequency card or should I get a capsule? Yeah, and I probably would have given a different answer seven months ago Just because of you know where we've been going and you know mentioning the DNA and cell protector Card, you know, we don't have that available as a capsule. We've been asked if we could create a capsule actually, but it's"
+    },
+    {
+        "start": "00:14:24.880",
+        "end": "00:14:55.600",
+        "text": "Just so much on all plate right now that so far we haven't been able to and it's just available as a card. So For that specific use case, we can just say yeah use use that card, you know And for all the other use cases it depends on if you have really something where You find something among those frequency cards that you really Resonate with that that you think okay. This is you know my heart is calling"
+    },
+    {
+        "start": "00:14:57.280",
+        "end": "00:15:24.080",
+        "text": "For this and and I know really this is something kind of that I want to achieve or get to Now or this you know because I'm always like so hyper and I just I can't Relax and I'm always full of anxiety You know, I don't want that anymore like you kind of make this decision Okay So now I want to get into more inner peace then yeah if you find one of those frequencies there that your heart resonates with"
+    },
+    {
+        "start": "00:15:24.520",
+        "end": "00:15:53.600",
+        "text": "Then that would be the best way to go and to start experimenting or experiencing How the world of frequency and quantum energy actually can work for you? Okay. Um, if you don't have anything very Specific or you're just you know, you just want to stay in good shape you you want to have your inner healer activated your self healing powers activated and just be energetically supported and"
+    },
+    {
+        "start": "00:15:53.920",
+        "end": "00:16:21.120",
+        "text": "Obviously also mitigate emf then the capsule the the heal capsule is The way to go and it's a great starter also for people to Start feeling some of this energy and experimenting with it. So yeah, that's how I would Describe it and then the capsule in general is a little bit stronger in terms of quantum energy So it provides a little bit more energetic support in that sense"
+    },
+    {
+        "start": "00:16:21.720",
+        "end": "00:16:48.800",
+        "text": "But then again, it you know, it's it's only available with this specific frequency set That's how I would say both of them are are great beginner pro products on one end But on the other hand, they're all also advanced Products right because you can leverage them in so many different ways and then the frequency cards that's what people that just"
+    },
+    {
+        "start": "00:16:48.800",
+        "end": "00:17:12.720",
+        "text": "Read through the product list for example, usually don't understand it first is you you can not only use the frequency Cards for yourself in your pocket as your inner healing their pocket you could use it in order to work with the quantum block later on and actually copy these frequencies on to other objects or you know, make"
+    },
+    {
+        "start": "00:17:13.120",
+        "end": "00:17:44.560",
+        "text": "Make make a certain product that you you know give away to your grandma or you know your kids And and work with it that way or even Yeah, you know Multiply them in a way and you have your family to be be protected and in different ways So that's what you can do also with the frequency cards and then these other to the quantum block and the community bug. That's the actual technology that we also work with that is"
+    },
+    {
+        "start": "00:17:44.560",
+        "end": "00:18:11.560",
+        "text": "way broader it gives a way broader set of use cases and It it's there for the whole home for the whole family, you know for your whole land if we're talking the infinity block really up to a big farm that it can cover and Yeah, so there are lots of different things that you can do that obviously you can't do with a capsule or a card"
+    },
+    {
+        "start": "00:18:12.520",
+        "end": "00:18:39.720",
+        "text": "Okay, because I created this diagram because I was answering a question the other day Where someone wanted to you know ask about EMF for their car and so and let me just so it's correct to say right? That you know like all of the frequency cards apply to you and your body so if you wanted to try any one of these frequencies then Then obviously just get the card and then if you carry it around then you are you your body is experiencing"
+    },
+    {
+        "start": "00:18:40.000",
+        "end": "00:19:04.040",
+        "text": "That frequency, but for someone let's say I wanted to cover their whole car Which extends beyond you know their physical self Then as I understand the capsule like has kind of like a field about six feet in diameter, right? And so if they had a capsule and the heel capsule does have an EMF protective frequency and that's been validated through third-party testing"
+    },
+    {
+        "start": "00:19:04.040",
+        "end": "00:19:31.320",
+        "text": "So that if they were concerned about like driving around an electric vehicle and I'm worried about the EMF Then if they should probably get a capsule right because then then them then they'll literally be in a little bubble of EMF You know supportive frequency, right? And that would be like that is absolutely correct. Yes, that is correct and capsule, right? Yeah, yeah Well, yeah, so if it's just for you one capsule is great"
+    },
+    {
+        "start": "00:19:31.320",
+        "end": "00:19:56.240",
+        "text": "If you really want to cover your whole car and everybody else in that car Then we usually recommend three to four capsules depending on how large the vehicle is because they're they're also very big You know, there's a big van you probably need four capsules that are placed in different spots But yeah, that's how you could you could go about it. If it's just yourself"
+    },
+    {
+        "start": "00:19:57.000",
+        "end": "00:20:26.360",
+        "text": "and absolutely one capsule is enough and also what I didn't even mention earlier, you know, there are frequency cards for Plants and for dogs and cats as well. So yeah, those would be that you don't obviously leverage it for your own body It's it's something that you would help your cats with or your dog or your plants and We've been doing some interesting experiments actually with with with plants recently and it's"
+    },
+    {
+        "start": "00:20:27.000",
+        "end": "00:20:54.680",
+        "text": "It's quite amazing how plants react. We have this one plant that is We don't actually know what to do with it now because it's it's gotten so big and so huge that we We need to do something with it But that's a good problem to have rather than it. Okay. Yeah, cuz you're you also have a line of pet products and like Collars right and so that these different heel frequencies for different cats or a cat or dog"
+    },
+    {
+        "start": "00:20:55.280",
+        "end": "00:21:23.960",
+        "text": "Come in in a collar, but if you had the frequency, then what do you recommend just putting the card like under where they sleep? Or under their water bowl or something like that. Would that be the recommendation for that? Yes, so I can tell you how we do it with with our dog. So we have this heel for dog frequency card and There are certain spots where dogs tend to hang out right and in this one spot. It's this sofa type and then there's"
+    },
+    {
+        "start": "00:21:24.800",
+        "end": "00:21:55.440",
+        "text": "like a little mat on top of it and and underneath that that's where the the cart lays and she goes there a lot and Loves it there and that's how she can benefit from it. But then if people have a Quantum blog for example, then they can certainly also You know put that frequency into The dog bowl or the cat bowl and things like that. So you can start playing around with it leveraging"
+    },
+    {
+        "start": "00:21:55.440",
+        "end": "00:22:22.920",
+        "text": "It even more and yeah, sometimes, you know when when our dog didn't do well, you know after those Vaccines that she had to take for example Then we also took this card away from the sofa and where she slept at night and put it there So yeah, those are some ways and how to leverage it. Yeah, what I did was because I have a block I'm able to make my own devices. So I basically made necklaces for my dogs"
+    },
+    {
+        "start": "00:22:22.920",
+        "end": "00:22:53.120",
+        "text": "And I charge them with the heel for dogs and they were their necklaces and that's kind of how I did it Okay, so the other half of that question was is people are saying hey should I get a cue block or an infinity block? And so my answer to that and you could if you could comment on it is hey It's the size of the field. So a cue block would basically be 130 feet diameter field Right and then so it's really like okay I would get a cue block if I wanted my whole entire home to be in the same quantum energy field"
+    },
+    {
+        "start": "00:22:53.120",
+        "end": "00:23:21.000",
+        "text": "But then an infinity block goes out to a whole kilometer, which is 0.62 miles So it really depends on do I want to like let's say get a capsule and and charge me and everything around me it's within six feet Cue block would be for a home or a infinity block would be for a much bigger area a neighborhood or a farm or something like that So though that's is would you say that's the primary the the primary difference is the size of the field I?"
+    },
+    {
+        "start": "00:23:21.000",
+        "end": "00:23:47.120",
+        "text": "Would add to that because it's it's the it's the level of Consciousness, so that's how we can describe it or you could say the the depth and level of pure quantum energy, you know the strengths the concentration of the field because it is Stronger with the infinity block"
+    },
+    {
+        "start": "00:23:47.120",
+        "end": "00:24:13.800",
+        "text": "And it's certainly even stronger with an advanced infinity block Right people that have the infinity block package know what I'm talking about, you know, you can do your upgrades at any time and then you know if you have a fourth generation infinity block for example that then creates a way denser and more concentrated field then"
+    },
+    {
+        "start": "00:24:13.800",
+        "end": "00:24:42.920",
+        "text": "The basic infinity block does and certainly even more than the the quantum block does so that that adds to that So it's not just the radius. It's also really the density of the field and it's then also the density Within the plates, right? So if if I put my hand Inside an infinity block There's there's much more stability for"
+    },
+    {
+        "start": "00:24:42.920",
+        "end": "00:25:10.480",
+        "text": "Certain positive effects that I'm That I'm going after right when I do that then when I place it in the quantum block So from that standpoint, that's another difference then There's the and then you know some people may wonder okay, so you know obviously, you know, I want more consciousness I want more or stronger quantum energy"
+    },
+    {
+        "start": "00:25:10.480",
+        "end": "00:25:37.040",
+        "text": "And all of that and I would also like it if my whole garden is covered so it's certainly the infinity block for me Oh, yeah, and then I want to upgrade and all that okay, then that's an easy question, but there's just two things of you know, or three things maybe in regards to the quantum block first of all if you're a beginner and you haven't really done a lot of energy work at all or you haven't experimented with a"
+    },
+    {
+        "start": "00:25:37.280",
+        "end": "00:26:05.040",
+        "text": "quantum energy then the quantum block would be the way to go and then you can see for yourself if you know at some point and infinity block may be the next step However, there are really two use cases that we don't recommend the infinity block to be used for but just the quantum block that is to neutralize Potentially harmful frequencies of pharmaceuticals that is one"
+    },
+    {
+        "start": "00:26:05.520",
+        "end": "00:26:33.960",
+        "text": "let's say you you have an ibuprofen that you need to take because you I Don't have a lot of things you can put that into the quantum block and then it neutralizes these potentially harmful frequency, so you basically take a Clean product afterwards, you know at least of way way cleaner product then before you know that still does its job But it's it's way cleaner"
+    },
+    {
+        "start": "00:26:34.160",
+        "end": "00:27:02.400",
+        "text": "and more pure Then then before if you do that in the infinity block though, then that is so strong And by the way in the quantum block also there's also time limit for that which we describe on the website But the infinity block is it's just it works so so fast and so instant that it adds homeopathic levels of the substance you put in in in a way that you can't"
+    },
+    {
+        "start": "00:27:03.280",
+        "end": "00:27:32.680",
+        "text": "Estimate any more, you know, how how high is that homeopathic dose now that has been added? So we literally did several tests with that with multiple different substances, and it's it's it's it's crazy the amount of Or the level of homeopathic dose that you're adding and then so we we can't recommend it for that because it would be just Too strong and you would always have someone like Roman look at it and"
+    },
+    {
+        "start": "00:27:32.680",
+        "end": "00:28:02.560",
+        "text": "see, you know, is that still okay to take then or so we can't recommend that so for something like that I'll take the quantum block and Then for creating quantum frequency medicine, it's sort of the same thing. So if if someone wanted to you know charge Copy the frequency of an ibuprofen as an example onto a card then"
+    },
+    {
+        "start": "00:28:02.560",
+        "end": "00:28:30.000",
+        "text": "Similar things that are just described Happen in the infinity block. No, so it's really something if you're interested in these types of use cases Then you would want to have a quantum blog and that's why, you know Some people have a quantum blog and if it's okay, that makes a lot of sense now that you explained it that way I didn't think about it that way I was thinking more like oh hey, you know Put yours, you know, you want you buy these things to kind of protect your home And or put something in it to broadcast out which I'll talk to you in a second, but okay"
+    },
+    {
+        "start": "00:28:30.000",
+        "end": "00:29:00.240",
+        "text": "So that's a really good point again. It's just like the frequencies, right? I mean, you need to really think about what is my objective? And then what's the best tool for that? What's the best? Okay, so and when in doubt, you know, that's Can I add one thing? Okay. Yeah, so that just comes to mind because we just actually recently had that Measured and tested and it seems that a lot of people are familiar with David Harkin power versus force a book and also his"
+    },
+    {
+        "start": "00:29:00.240",
+        "end": "00:29:24.560",
+        "text": "Scale that his consciousness scale that he had created right it. There were also a couple interviews lately out there that you know people have heard and These consciousness levels were Were mentioned at that point. So, you know, what does that mean? We don't have to go to depth and iron Mitchell actually mentioned that on our other talk as well. Yeah"
+    },
+    {
+        "start": "00:29:24.560",
+        "end": "00:29:51.120",
+        "text": "Basically, it's a square from zero to one thousand. That's the his scale that he created in one thousand is pretty much like the The infinite, you know, it would be like Nirvana like a Jesus or Buddha I think Nirvana and that's how they described it and then you know zero is like a very low consciousness obviously right and And you can you can measure that and so now we had Someone that is very familiar with this and has been"
+    },
+    {
+        "start": "00:29:51.680",
+        "end": "00:30:17.560",
+        "text": "Doing these tests. We asked them. Okay. So on that specific scale. What is the the consciousness level of the quantum block and the infinity block? And we also asked them to test the Fourth generation infinity blocks. So it came out the quantum block was it five or is it five hundred seventy one? The infinity block basic at seven hundred and thirty three, which is already"
+    },
+    {
+        "start": "00:30:18.760",
+        "end": "00:30:47.200",
+        "text": "Amazing. It's it's very very high of people that are familiar with this. They they'll be stunned and The fourth generation. Yeah. Oh, sorry. It's a quantum of five hundred seventy one five hundred seventy one So there's a there's a company called FLF E out there. I think That don't use these devices, but they they use a Technology that does similar things. They don't"
+    },
+    {
+        "start": "00:30:48.120",
+        "end": "00:31:18.920",
+        "text": "Provide it like you can't get it, but you can you can send them like a picture of you or an object so that they put it in Right, and so they can also create these fields and they create a field of consciousness field of five hundred and sixty. That's what they create And so the quantum block has a field of five hundred seventy one and the infinity block is seven hundred and thirty three Okay, and the infinity block the fourth generation"
+    },
+    {
+        "start": "00:31:18.920",
+        "end": "00:31:43.920",
+        "text": "nine hundred and forty two Wow, that is very very high and Then you can you know if the people that are familiar with this they can now probably Already draw some conclusions on what's becoming possible and you know If you start really working more with intentions for example, like what's what's actually possible with that?"
+    },
+    {
+        "start": "00:31:45.080",
+        "end": "00:32:10.560",
+        "text": "Okay, so I want to point out that this is based on the work of David Hawkins and his consciousness level That he came up with and in the book. It's called power and force or something like that right or something like that I think yeah, Paul was this for our okay, so okay, and then they've actually measured it, okay, so Put a link in the description for anyone who wants to learn more about this because Luke's story"
+    },
+    {
+        "start": "00:32:11.080",
+        "end": "00:32:37.760",
+        "text": "Just recently interviewed those guys from that the company you just mentioned I think five FIF E or something like that Who have the ability to measure this stuff based on the work of David Hawkins? So and also they did I think they're calling their device or their technology like Tesla Quantum something, but yeah, okay, but yeah, so this is fascinating. Okay, so this really really appeals to my my tinker"
+    },
+    {
+        "start": "00:32:38.680",
+        "end": "00:33:05.360",
+        "text": "Okay, no, this is good. So so again, I mean really again So you know if you're out there and you're thinking I want to accomplish X Should I get this one or that one then really that's really where you would decide which one to do? And then in this scenario as well. It goes beyond the size of the field And it also drills into so think about the size of the field But then also think about what do you want to do with that device and how do you want to use it?"
+    },
+    {
+        "start": "00:33:05.360",
+        "end": "00:33:29.680",
+        "text": "So very good advice and then so that kind of ties to this other one, which is using frequencies with blocks So one of the things that you had mentioned in the past was don't leave Anything in the block too long, right? But then but then my question to you was well if I want to let's say, you know Like I have an infinity block or you know, I have a quantum block as well"
+    },
+    {
+        "start": "00:33:29.680",
+        "end": "00:33:59.720",
+        "text": "But let's say I want to put the you know the DNA and cell protective frequency, right? In my quantum block and I want to just leave it in there permanently so that everything within the field or everything in my home You know is always being protected from that stuff, right? But then you were saying that if you leave something into long, it's not a it's there's an issue So could you kind of elaborate on? You know like how do you want how do you use frequencies with these blocks?"
+    },
+    {
+        "start": "00:33:59.720",
+        "end": "00:34:29.640",
+        "text": "So that you could take any one of these frequencies, right? And then put it in the field so that everything in the field would be exposed to the frequency and Then so that's that's the you know, that's to me is the like that's what I want to do That's my objective, but what are the cautions and what would you say? How you know, what's the best way to go about doing that? I guess is my question. Yep Two things the first thing is if you put a frequency in then do it with the intention that you want that frequency to you know"
+    },
+    {
+        "start": "00:34:29.640",
+        "end": "00:34:53.240",
+        "text": "Be transmitted throughout that field and then that will happen That that's how to do it and then the question is, you know for how long can you leave a Card in there for example, and so with the quantum block. It's not really a problem You could leave it in there for longer But even there we we we suggest if you want to use it just for the purpose of"
+    },
+    {
+        "start": "00:34:53.240",
+        "end": "00:35:22.480",
+        "text": "The frequency trans be transmitted across the home and maybe you want to do that for 24 hours or maybe even a whole week then And then that applies even more so for the infinity block because if you leave a card any metal in there for too long it's it gets too strong and too powerful and then it there is also a permanent or or potentially"
+    },
+    {
+        "start": "00:35:22.480",
+        "end": "00:35:52.000",
+        "text": "class I a permanent connection to this quantum space Established and if you then take it out and you were to put it into a lower level infinity block or in your quantum block You would upgrade those but that's not an intention, right? That's not what you want to do if you have a quantum block and infinity block You do not want to upgrade your quantum block because you want it exactly at the level it is because it's exactly designed designed for those use cases that we"
+    },
+    {
+        "start": "00:35:52.000",
+        "end": "00:36:21.480",
+        "text": "Mentioned before and then you couldn't perform those any more in that sense. So that's why We say don't leave any metals in the infinity block for too long. Okay, and the the nice way to go about this though is what you do is you just copy the frequency of which ever frequency card you want into aluminum foil and then You can put that card away or you put it in your pocket and lever it to that way and"
+    },
+    {
+        "start": "00:36:21.480",
+        "end": "00:36:43.840",
+        "text": "You take a piece of the aluminum foil and put it into the block In order to be transmitted right and then you know If you leave that in there for three four five days and you're done with that that little piece of aluminum foil You just throw that away, you know, and and that's fine. And I mentioned that earlier. I think if that ends up on the dump"
+    },
+    {
+        "start": "00:36:43.840",
+        "end": "00:37:16.520",
+        "text": "Then hey, you know, you have some good energy there on that dump, so you know, there's nothing to worry about it But okay, but that's the way to do it Okay, so you drive by the landfill a year from now and all the seagulls are just totally chilling because there's like all this inner piece You know cuz I'm thinking right like I live in a in a condominium and I was thinking well that you know I'll just like put the you know, the D&L cell cell frequency in my infinity block in my entire neighborhood"
+    },
+    {
+        "start": "00:37:16.520",
+        "end": "00:37:45.040",
+        "text": "You know, we'll be within the field and then subject it to the frequency and it helped them right like quote help heal our planet But you know use foil instead of the card. That's the main concern, right? Yes, okay, and hey, there's one thing that just comes to mind that I at least want to mention in regards to those you know, David Hawkins with this consciousness scale, right because We are kind of used to think okay, so"
+    },
+    {
+        "start": "00:37:45.040",
+        "end": "00:38:14.880",
+        "text": "Highest is always the best and I need to do that But hey, you know check in with yourself like where are you at in your life and you know have you been? Is this whole world here totally new to you right then you're like hearing about all this like the first time and you just Understood that there's more than just the physical material world and you're just getting into this type of stuff Then you know, don't start too fast like to go with the quantum book. That's already quite a significant field"
+    },
+    {
+        "start": "00:38:14.880",
+        "end": "00:38:43.360",
+        "text": "So it doesn't need to be always the strongest the fastest because hey, you know if you're in such a highly concentrated field and you've never been anywhere close to that It can bring up stuff also right and you know, you you make it easier on yourself and cells if you if you get their step-by-step and Yeah, you can develop relatively quickly with these products and these fields and by using them and being around it"
+    },
+    {
+        "start": "00:38:43.360",
+        "end": "00:39:13.560",
+        "text": "Because it's literally pure quantum energy. So it resonates perfectly with with our own bio field, but again, you know, it's not Don't always shoot for the longest the the strongest right at first. Okay, good good advice You know, I'm a guy. So I there's two things that I always want is bigger better power And I never redirection so you're right. I got to fight that Okay"
+    },
+    {
+        "start": "00:39:13.560",
+        "end": "00:39:41.720",
+        "text": "All right, you know, this is and I think we're hitting your and we didn't get through all the questions and we're getting towards your Your dead stop. Do you have to go? I mean is or can we just answer a couple of quick questions? We can keep going. It's fine Okay, so let's keep going there though is because we went over an hour I'm gonna break this into two parts one part will be just about the frequencies and then the other part will be about the FAQ So that way it's not too long and people can take a break between the parts, but I'm finding I'm learning new stuff from you right now"
+    },
+    {
+        "start": "00:39:41.720",
+        "end": "00:40:10.120",
+        "text": "So I I want to yeah, I'm just really this is great And I'm sure that people will also enjoy just kind of a clarification on on some of these FAQs So now we talked about using frequencies with the blocks And I think the other main question that I'm picking up from the chat is that there's lots of folks that have particular relatives with specific ailments and issues And things like that and I and you know because of our you know the disclaimer here We really need to be very very sensitive towards"
+    },
+    {
+        "start": "00:40:10.440",
+        "end": "00:40:38.200",
+        "text": "You know, this is these are not medical devices. These are wellness devices So I want to phrase this and such that you know this whole idea of QE for quote wellness What is you know what would be the best overall generic explanation to anyone who says I how my mother-in-law or my mom or my Dogger has this X problem will cue you know will you know the heel capsule or the kiwi help them"
+    },
+    {
+        "start": "00:40:38.200",
+        "end": "00:41:03.320",
+        "text": "I mean, what would you say cuz let me just jump in real quick is that I think I explained to someone the other day in the chat That it wasn't about what the malady was and what the issue was Specific to the person or the animal that in my mind or my opinion was was that the quantum energy? in you know as we discussed there's not the best phrasing but but this energy you know"
+    },
+    {
+        "start": "00:41:03.320",
+        "end": "00:41:32.840",
+        "text": "brings us into harmony to in an optimal state right to bring us to the most optimal You know state that we can be Within our energy being our in our end and also balancing out our chemical processes within our physical bodies and Balancing out the bio electrical mechanisms within our bodies because we are a three-part, you know type of being right? We have energy Bioelectricity and chemically chemical processes all going on all at the same time that composes who we are"
+    },
+    {
+        "start": "00:41:32.840",
+        "end": "00:42:00.920",
+        "text": "So I was thinking that it'd be like an entrainment like a tuning fork and that the energy brings you to a state of wellness So that irregardless of what was wrong or what the problem was or even an injury that it would basically help you heal It would that be the best interpretation When everybody keep you know cuz we get so many people coming into the chat now That are saying oh, I have XYZ or somebody has XYZ will this help for them and my answer is as well"
+    },
+    {
+        "start": "00:42:00.920",
+        "end": "00:42:30.960",
+        "text": "It will help for anything, you know, it's not any it's not specific to anything We we can't say that it treats anything But what it does is it harmonizes you to a point where you know, I mean you go ahead Yeah, I mean what's your what's your answer to that? I? Almost feel inclined to not at anything because what you've just said is is a perfect explanation of that and I it's it's all most That we need to just have it stand there because it that's that's pretty much how it works"
+    },
+    {
+        "start": "00:42:30.960",
+        "end": "00:42:57.760",
+        "text": "Yes, there are a few things that could be added, but I think in essence you you nailed it No cool. Wow. That's awesome. Yeah, okay So I want to do want to point out one thing cuz I originally had a different diagram here when Philip and I were talking pre Pre-show and I read drew it because he pointed out and I and I realized that when he was telling me this was that we are energy beings and within that because I used to think of it like three different circles and we all kind of met in the"
+    },
+    {
+        "start": "00:42:57.760",
+        "end": "00:43:23.360",
+        "text": "Middle but it's true though, right Phillip is that the if and I think you were saying earlier that you know If you had the optimal energy state and there's so few people on the planet that do But if you had the optimal state then nothing I mean there would be no other issues. You would never be sick You would never have diseases right because your energy level would be you know would be perfect"
+    },
+    {
+        "start": "00:43:23.360",
+        "end": "00:43:49.600",
+        "text": "Is that would I mean cuz that's really we are literally energy beings first and foremost and everything else is secondary Right yes, that is correct and it's something that I know is hard to understand for a lot of people that are they're just very brain focused and That was the same for me Absolutely was the same for me when I heard this concept the first time that is such a long time ago, and I just"
+    },
+    {
+        "start": "00:43:49.600",
+        "end": "00:44:17.460",
+        "text": "I just didn't believe it. I thought that's nuts, right? That's hey no I mean I just you know get get you know this guy is sick here I just had lunch with that person and and no I'm sick too, but that's that's how I Thought at the time that would all come about but I've come to realize that that it's really not the case if you know if you get something from someone or from somewhere you get it because"
+    },
+    {
+        "start": "00:44:17.460",
+        "end": "00:44:43.240",
+        "text": "you have that Resonance to it and and there's There's there can be multiple reasons on why you're you're getting that, but it's it's it's it may be a Reason because there needs something that needs to be learned some development that needs to happen or many other reasons right and and we find also that that diseases"
+    },
+    {
+        "start": "00:44:43.240",
+        "end": "00:45:11.600",
+        "text": "Usually that they can they can often actually be identified already in the energy field before they actually materialize so so people like like Roman or or or Agni they they would be able to look at someone and See that they're there may be a cancer developing or showing up like in three to six months if certain things are not taking care of"
+    },
+    {
+        "start": "00:45:11.600",
+        "end": "00:45:39.760",
+        "text": "by then and and they just literally see that only in the energy body and they Know doctor would be able to see anything yet because it's not Physically there yet, and then you can literally go about and work on certain things in the energy system and And often has to do actually with our own, you know way of life and how we approach certain things and belief system and all of that"
+    },
+    {
+        "start": "00:45:39.760",
+        "end": "00:46:03.380",
+        "text": "it's often underestimated what that can do an impact and then yeah things can shift so yeah the the energy is really The main and and everything else is is very important though on this level as well So we should never ignore that That's pretty much nice though that you're always drawing these you know"
+    },
+    {
+        "start": "00:46:03.380",
+        "end": "00:46:33.040",
+        "text": "Three aspects, which is which is great, you know, we want to take care of all of them. Yeah, I think in terms of pictures How I communicate so yeah, you know cuz I Think there's been you know, I'm just kind of a side question to this idea of wellness As opposed to disease and while it and you know, honestly, I mean we've been brainwashed from Birth to think that we are chemical beings and we're flesh only"
+    },
+    {
+        "start": "00:46:33.040",
+        "end": "00:46:58.640",
+        "text": "But you know if you have a Vibratory frequency your energy field And you know, you can you can check out d-pack Chopra and his by books on the human bio field And you know, there's a lot of material on this concept, but we are energy beings We have a bio field and if that thing is resonating at pitch perfect Frequency then the frequency of a bacterium or pathogen"
+    },
+    {
+        "start": "00:46:58.640",
+        "end": "00:47:23.760",
+        "text": "Just it just it cannot interact with us because they just you know, it's like a vibrate It's the vibration of that frequency So what I'm alluding to though the next question is that there are people that have been asking hey, you know If I take the nutritional by if I carry around the nutritional bio base You know, you know frequency card by do I need to can I stop taking physical supplements?"
+    },
+    {
+        "start": "00:47:23.760",
+        "end": "00:47:49.720",
+        "text": "You know save myself a bunch of money. So what's your answer to that because then you've got this whole, you know physical supplements are Part of your chemical body, right? But then the nutritional bio base frequency is for your energy body and is it possible to supplement? Through energy and then stop dealing with the chemical and you know, all right because there are I think there's people out there that do I mean, what do you think?"
+    },
+    {
+        "start": "00:47:49.800",
+        "end": "00:48:15.480",
+        "text": "Yes, so the answer is short answers. Yes. I mean there are even people out here on Earth that wondering around that are not eating anything So they neither take supplements nor do they eat anything and they beautifully exist. That's something. That's a concept that is There's not a lot to read about because I don't think you know, it's a very common noise it wanted that"
+    },
+    {
+        "start": "00:48:16.400",
+        "end": "00:48:44.480",
+        "text": "that concept even is something that we think about anyway, it's it's possible and Well, we don't need to go into that really it doesn't you know apply to the vast majority of the people anyway But yeah, it's also possible in that sense to really just supplement with frequencies however, that's not Possible for everybody and and we find two different groups Really one group seems to still maintain"
+    },
+    {
+        "start": "00:48:45.280",
+        "end": "00:49:11.480",
+        "text": "Or or create even optimal vitamin and mineral levels just by using the frequencies and not not actually taking the physical substances or nutrients anymore as such as supplements However, there's this other group and I would argue that's the that's a bigger group and I belong to that group frankly as well Yeah, that still takes physical supplements, but it is"
+    },
+    {
+        "start": "00:49:12.880",
+        "end": "00:49:41.720",
+        "text": "Suddenly in a way where it seems that the cells can leverage the supplements way better then Without leveraging the frequencies meaning that it's almost as if the bioavailability of the products Increases and what the cells can take in and absorb and the leverage Versus before so I noticed that frankly, then now if I take a liposomal"
+    },
+    {
+        "start": "00:49:41.720",
+        "end": "00:50:07.920",
+        "text": "Vitamin C that's one of those things that I like to take and and it's just so much more powerful after I've started to you know leverage frequencies and and Sometimes I don't you know also take it. You know, I don't I don't take anything like physical Everyday, right? I do resets and all that and I try to rotate a little bit"
+    },
+    {
+        "start": "00:50:07.920",
+        "end": "00:50:36.320",
+        "text": "But then you know if if I feel something coming. I mean I rarely get Sick on that level really, but if I feel like oh man, I may get a cold or something like that I instantly start doing more vitamin D more I put some more vitamin C all that and I noticed that it's just it's kicking in so much faster and it's so much more powerful and Yeah, that is something that a lot of people actually have reported"
+    },
+    {
+        "start": "00:50:36.320",
+        "end": "00:51:00.480",
+        "text": "Yeah, that's that that makes so much sense. I never thought about that, but you're right. You're right. You're right So I guess that what I want to leave everybody with the thought is that you know We are you know our physical realities and even our in our Non-physical reality of what we think we are is comprised of three different things. So your wellness is a three part You know"
+    },
+    {
+        "start": "00:51:00.480",
+        "end": "00:51:28.600",
+        "text": "And you know thing right and in order to treat yourself or to raise your vibration to health and wellness You need to think about all three And it's not ever gonna be just one so When the one thing that I've always dabbled in is bioelectrics And I just want to say that if you just go to a person wearing a white coat and they give you chemicals And you don't it you don't address the other two you're only gonna get a partial solution, and I'll leave it at that"
+    },
+    {
+        "start": "00:51:30.080",
+        "end": "00:51:57.820",
+        "text": "Okay, so the last question on the free most frequency one is is you know people are you know come in there We jump into the chat and they go I've hurt my knee or hurt my elbow You know can I can I use the one of the blocks to help you know to just you know help me And and so that kind of comes into the whole idea of body charging and then whole body charging in terms of like you know As a tinker you know the first thought I ever had when I heard about the block was I want to stick my head in it"
+    },
+    {
+        "start": "00:52:01.000",
+        "end": "00:52:30.720",
+        "text": "My intuitive reaction to know the hearing that you created a quantum block was I want to stick my head in it I don't know why that was the first thought that popped in my mind and I have since done so and maybe that explains Why I'm the way I am so I do want to just talk about Charging your body so that everybody's really clear on how to do that But then also you know like if I had a part of my body like I hurt my foot So now I we you and I had a chat about this a while ago. I did draw a diagram"
+    },
+    {
+        "start": "00:52:30.720",
+        "end": "00:52:57.320",
+        "text": "So and you know because there's a whole idea here And I think that the thing is is let me just kind of the thing is is that there's a there's a maximum distance, right? Between the plates until and then if it exceeds that distance then the field is disrupted right and the field goes away So the very first question though is like if I wanted to charge a larger object like my body And this is I just want to make sure these numbers are correct"
+    },
+    {
+        "start": "00:52:57.320",
+        "end": "00:53:20.120",
+        "text": "As I understand them, but if I want to charge my body, and I have a cube lock Then the maximum distance I could separate the plates out this six feet. Is that is that correct? That's the right number, right? I would say about seven or eight feet is easily possible. So okay Yeah, that's that that's no big deal"
+    },
+    {
+        "start": "00:53:20.120",
+        "end": "00:53:46.280",
+        "text": "And we actually then stop testing it after after that. So but yeah, maybe basically what what I would say is that There's no human on earth that you can That could not fit into the plates, you know, there's no one probably nine feet tall Except for the the giants Otherwise if there is one that's listening that's nine feet tall, please reach out and we'll do the test well, you know"
+    },
+    {
+        "start": "00:53:46.280",
+        "end": "00:54:13.360",
+        "text": "I honestly, I don't think the giants, you know, living in caves do that, but anyway, we'll go. Okay, so now the infinity block The thing about the infinity block is you have to keep the three plates together Right and so like and then when Jack Newell had a great suggestion on how to keep these together just use a zip tie and you have to keep the nuts in between the plates Because you need those gaps still there so then if you took this apart you need to then zip tie all the nuts together"
+    },
+    {
+        "start": "00:54:14.000",
+        "end": "00:54:40.320",
+        "text": "On all four corners so you'd have you'd have a plate and a plate, you know a three a triple plate up here and a triple plate That would look exactly the same as this except without the rods, right? So if you separate those plates What's the maximum distance for an infinity block that you could separate out the plates and then charge anything in between I? Actually cannot even say what's the maximum distance is because we haven't tested it to that extend"
+    },
+    {
+        "start": "00:54:40.320",
+        "end": "00:55:06.520",
+        "text": "But yeah, you can you can easily do the the 15 feet that should be no problem, but so ever we because I Think I that's what we tested, but then we stopped Testing the further distances Yeah, because we didn't think there's more that you need to do if you want to charge your whole house Take a picture of your whole house and put it inside Leave it in there for two weeks and then you may you know, and if you have a I mean"
+    },
+    {
+        "start": "00:55:06.880",
+        "end": "00:55:37.080",
+        "text": "Yeah, but that's that's what I would do then at that case, but that's a good idea I'm gonna do that next okay, so yeah, cuz I remember this number from a prior interview So the minimum is 15 you know that it works for sure Which means you could put the plates on either side of your car garage drive slowly? You know through the garage, and you're gonna charge your car, right? Okay, all right, so there's there's the idea there and how you can charge bigger objects, so Okay, good, and then of course if you take a picture of it, and that's a whole nother subject"
+    },
+    {
+        "start": "00:55:37.080",
+        "end": "00:56:06.400",
+        "text": "Putting pictures in blocks, okay, so going back to the Charging your body now you and I had chatted a while back that the field is Distinctly between the plates, so it's a rectangular field. It doesn't bow out So if anything between the plates is what gets charged right so if I were to like lay down and put the plates head the toe Right then this would be the field that would be created between the plates and by the way"
+    },
+    {
+        "start": "00:56:06.400",
+        "end": "00:56:31.320",
+        "text": "How how quickly would the the field set up? Like what I have to like put that into place and then wait like an hour and then lay down or at the moment I set them up. They're good So if if you've already used these blocks before then it's almost it's almost instant So maybe maybe just in case like wait a minute or two, but it's it's it's it's it's it's super quick"
+    },
+    {
+        "start": "00:56:31.720",
+        "end": "00:56:55.680",
+        "text": "Just if it's if it's a new block basically that you want to establish it at first and that that can take a few hours until it's fully there and yeah, so it's it's pretty much that way so if It's it's that way and it's not that way so what we found if you take a"
+    },
+    {
+        "start": "00:56:56.960",
+        "end": "00:57:29.600",
+        "text": "Heart metal for example and it's one piece and you have it inside your quantum block For it to be charged and it just overlaps a little bit on the side It would still cover it because it's it's still it's It's it's almost as if it's the task to charge this The same thing is with the body. So if you lay in there, yes, you have this rectangular field pretty much but"
+    },
+    {
+        "start": "00:57:29.600",
+        "end": "00:57:57.160",
+        "text": "All of this so most of the cells of your physical body are Exposed then and and are in this field Actually in this quantum energy space. It's not just a field and Most likely because of the instant connection That the cells have with each other all of the cells are suddenly"
+    },
+    {
+        "start": "00:57:57.160",
+        "end": "00:58:24.720",
+        "text": "Benefiting from it and are within this so we've tested this and it's literally if you lay like this You're pretty much all in oh, okay If that makes sense even though this is hard to explain no no no okay, so so like okay because this like I have a belly So mine would be like outside the field Right and so and so but in that case of like a belly outside of the field because and and or actually"
+    },
+    {
+        "start": "00:58:24.720",
+        "end": "00:58:54.040",
+        "text": "You know like this thing honestly would be because if you'd be laying on a bed then you'd be like right there I'd be like half your body But then but you're saying that that's fine It'll still work because it'll you'll still get a whole body charge because if I do this much of my body the rest of my body will then and train right the energy field will entrain and and I'll get the experience or I'll get the effect of being my Immersing my entire body even though the field is for the spaces rectangular is that so that's right right so nothing to worry"
+    },
+    {
+        "start": "00:58:54.040",
+        "end": "00:59:18.160",
+        "text": "About absolutely so if you want to do body charging This is fine even though you might have you might stick out here and there okay And then the other thing too though like you and I are saying we're like hey if you just had like I have like one day I hurt my knee and I stuck it in my cube lock and I just left it in there like 15 minutes and it really actually helped So if you just had like a part of your body You could just stick it in there for a few minutes and you would get"
+    },
+    {
+        "start": "00:59:18.160",
+        "end": "00:59:47.040",
+        "text": "That part right but if I just stuck my hand in that would it affect my whole body because I think Besso showed that it does right They tested yes, yes. Yes in our hand. Yes in it Okay, so so then it means bottom line is you could charge your whole body like this or you stick your hand in there And you'll know your whole body will get the the benefit of it And then but however, let's say if I hurt my wrist if I just stuck my wrist in Then that's good too right just if I want to just like target a specific area of my body"
+    },
+    {
+        "start": "00:59:47.040",
+        "end": "01:00:12.440",
+        "text": "Yes, so it seems that if you if you put your whole body in that it's a Little bit more powerful in that sense But if you put your hand in it Indeed all of your cells still benefit from it. Absolutely and and your energy system as well by the way, right? Yeah, cuz that's kind of what what I want to do is I want to start doing like a like a weekly, you know"
+    },
+    {
+        "start": "01:00:12.440",
+        "end": "01:00:40.080",
+        "text": "Body church is I actually have a firm because like I said, I dabble right, you know a dabble and bioelectric So I have a big I have a very large PMF machine and I do a full body zap every you know once a week to raise my ATP levels And then I was thinking well, I should do that in combination with a quantum Zap, you know once a week and just kind of like amp up my my energy level with that So I was kind of trying to figure out. What's the base way to do it? So yeah, okay now?"
+    },
+    {
+        "start": "01:00:40.080",
+        "end": "01:01:08.000",
+        "text": "So there is there's a follow-on question cuz I was having a chat with one of the the members yesterday and I just was wondering Is there any detrimental or any cautions that you have about? Doing a let's say put your head in the queue or the the cue block or infinity block or your whole body With like using the cue block versus the infinity block versus an upgraded infinity block"
+    },
+    {
+        "start": "01:01:08.000",
+        "end": "01:01:34.200",
+        "text": "Are there any concerns that you and or anything you noticed that you and Roman about hey, you know Maybe not leave your head in there for you know 30 minutes or maybe if you have like an infinity block You know seventh generation or something, then you know, maybe you shouldn't be using it or anything like that has anything come up like that that you've noticed that maybe Something to think about because the one comment that I've only read it was where you said once that you"
+    },
+    {
+        "start": "01:01:34.200",
+        "end": "01:02:05.240",
+        "text": "Put yourself in the block as you were you weren't feeling well, and it just made you really thirsty. You had to drink a lot of water So that yeah, so hi. Yeah, so what do you think? I mean, well, is there any cautions people should know about? well in general first thing is always the advice, you know follow you intuition tune in with yourself and just you know feel what is a good time for you and Don't think about what is a good time for you feel what is a good time for you?"
+    },
+    {
+        "start": "01:02:05.240",
+        "end": "01:02:28.760",
+        "text": "Because our brains may be like I'm just gonna do this for an hour now for two hours right away And then just want to see what happens. That's one way to go about it, but it's it's better to really ask Your inner voice Your higher intelligence if you will okay So what is good and you don't have to have an answer because you can lay in there and at some point you'll get this impulse Okay, but what maybe it's now enough and"
+    },
+    {
+        "start": "01:02:28.760",
+        "end": "01:02:58.840",
+        "text": "That's the first thing to keep in mind the second thing is that detox effect so physical detox effects can settle in Yeah, certainly and then also because this ruling always something Promontory happening that when we're in this field so that that Often we can't really notice on a physical level or even on an energetic level. There is transformation happening There's shift happening. I mean we can see if you we look under a doctor microscope"
+    },
+    {
+        "start": "01:02:58.840",
+        "end": "01:03:27.680",
+        "text": "Just just with what happens in the blood so quickly so and that's just one thing that is happening. So So maybe you know if you do something like this then make sure you can take a little rest Afterwards and drink water all right because of that, but there's yeah, there's other than that. There's there's really nothing a Negative no depletion or anything that we have ever noticed whatsoever. It's really just these things to be cautious"
+    },
+    {
+        "start": "01:03:27.680",
+        "end": "01:03:57.520",
+        "text": "It's it's and it is a real quantum energy space So it's that definitely different than just laying on a sofa if you're within that space Have you heard of anyone sleeping in it? Yeah, we had we had actually one person that has left in it and it went really well, but hey That's not anything that I would recommend. I haven't done it myself But I may actually test it at some point and it may be awesome, but you know we also want to be"
+    },
+    {
+        "start": "01:03:57.520",
+        "end": "01:04:24.800",
+        "text": "Mindful of that so that if someone is already quite tuned in and they they know for themselves You know they can do this and they've experimented enough. Hey go for it, but I can't officially Recommend that you know I've you know I've taken I've actually been I had my picture in the infinity block once for the whole night because I forgot to take it out That was actually pretty cool"
+    },
+    {
+        "start": "01:04:24.800",
+        "end": "01:04:53.280",
+        "text": "But also if you just got an infinity block new then don't try it, you know, you want to get used to it as I've done it many times. I know I you know as a tinker. I actually want to sleep I just will not my whole body, but I want to Sleep with my head in the cube lock just to see what the effect on my dreams is You know, it's one of my things I want to try But I also you know like like Enoch in the chat kind of brought up the whole issue like a month or so ago"
+    },
+    {
+        "start": "01:04:53.280",
+        "end": "01:05:22.440",
+        "text": "About you know putting DNA or putting a fingernail in the block to then using you know through quantum entanglement sending that energy to you Through entanglement and so I tried that and I got to say that I put a fingernail into my cube lock and I literally had this like Six cents intuitive thing where I could feel the energy flowing into me even though the cube lock was in the other room So it was kind of a weird thing. So, you know, that's something"
+    },
+    {
+        "start": "01:05:22.440",
+        "end": "01:05:45.640",
+        "text": "I mean, what do you think about that? You know this whole you know quantum entanglement using DNA a DNA sample like a fingernail and Putting that in the block instead of a picture right or with the picture Yeah, but just being able to then transmit that energy into you directly into your DNA and you're picking it up Because you know like you're an antenna. So I mean is that something that you've been it definitely works"
+    },
+    {
+        "start": "01:05:45.640",
+        "end": "01:06:14.560",
+        "text": "Oh, yeah, okay, hundred percent works what we just don't know yet just because we haven't tested it is okay Is any of these two things? Stronger or better to do all of all of the quantum entanglement tests and studies that We've performed and others have performed with our products. I have been with photographs. So we we don't have any such data in"
+    },
+    {
+        "start": "01:06:14.560",
+        "end": "01:06:44.560",
+        "text": "regards to DNA that's just something on the horizon probably in the next couple of weeks We'll do a few tests in regards to that too to also tell people hey It's actually exactly the same or hey, you know, this works a little different this may work better with this So we'll come up with that information as we have it, but but it does work. We know that so cool That's awesome. Okay. So then the whole issue about charging your your head or whatever Cubally a QB versus IB. It's all about the strength and the higher vibration"
+    },
+    {
+        "start": "01:06:44.560",
+        "end": "01:07:11.760",
+        "text": "So if this is new to you, you probably don't want to stick your head in infinity block just yet, you know, right? And so just take it just in other words take it slow everybody But you know but there are some very interesting results coming from people who are doing it and obviously I will share with you What happens when I sleep in it so but yeah, that's this is this is really cool I mean it really isn't you know, and let me just you know this gotten so long I'm gonna break it out into individual questions, but I want to add something"
+    },
+    {
+        "start": "01:07:11.760",
+        "end": "01:07:40.720",
+        "text": "I was telling Philip the other day about putting my fingernail in the block And I just want to share this with you and I would love to hear if anyone duplicates this Weird little thing that happened to see what happens to you But as I was telling Philip the other day when I had my fingernail in the in my cue block I forgot about it, and it'd been in there for like a week, but meanwhile, you know I live with two dogs my two dogs, and I I later found my cue block We had been kind of like a whole bunch of dog hair had floated into it"
+    },
+    {
+        "start": "01:07:40.720",
+        "end": "01:08:08.160",
+        "text": "And so I don't know maybe like for five or six days My cue block was sitting there With my fingernail in there plus a bunch of dog hair from my two dogs And the funny thing is and Philip you maybe can comment on why you don't want to mix People you know like don't put two people in the block at the same time pictures, right or DNA But what I wanted to share though is that that week with my dogs You know how you live with your dogs, right?"
+    },
+    {
+        "start": "01:08:08.160",
+        "end": "01:08:36.160",
+        "text": "But it's like that when we were blended into the cue block together our DNA I swear to God that my I Was bonding like with my dogs they were more cuddly there were more attentive to me I was like more attracted to them I mean like I wanted to pet them more often and it was just weird like I was thinking to myself like like where I was thinking Why am I really bonding with my dogs this week? I went away. Is it a full moon or whatever and then I found the cue block? Oh my god, you know, I"
+    },
+    {
+        "start": "01:08:36.160",
+        "end": "01:09:01.600",
+        "text": "Cuz the one thing the boy says is don't put two people in there or they'll their frequencies will blend together and sure enough It's like that way. It was just it was just really weird But I was like I got really close to my dogs, and then I discovered that is our DNA was being mixed together in the cue block And and this is a true story It was just the weirdest week because when I cleaned the I finally cleaned all the dog hair out of the cue block"
+    },
+    {
+        "start": "01:09:01.600",
+        "end": "01:09:26.600",
+        "text": "And I took my fingernail out then we all went back to normal where they pretty much ignore me until they're hungry, right? And then I was like that that was so is so I'm like, okay I gotta try it again just to see if I could duplicate it, but so okay, so why So is so is that something people should be really aware of is when you're charging yourself either with a picture or a DNA or a body part? That you know what happens when you put someone else in the block with you"
+    },
+    {
+        "start": "01:09:26.600",
+        "end": "01:09:50.440",
+        "text": "Is am I the first person that so blended with my animals and then we bonded really weirdly? I Mean what's your what's your take? Oh? Yeah, no, I mean it I can totally relate to that and that makes absolute sense and it's it's somewhat a great experience in story also, so I think that's great that you're sharing that and"
+    },
+    {
+        "start": "01:09:50.440",
+        "end": "01:10:18.840",
+        "text": "In general, we just tell people don't mix it like you would also not want to mix different objects together hmm because indeed energies can commingle and You know, then you you commingle stories you commingle topics and you know, you may put a person in their mail and then some random female and then you know, they"
+    },
+    {
+        "start": "01:10:18.840",
+        "end": "01:10:45.940",
+        "text": "Maybe they'll fall in love. I mean that this is something that can happen that doesn't need to happen, but but but could happen and It's just because of these things and some unknown factors that because it would yield it would take further testing We recommend to just not do that You know with with the dogs. I think it's in general fine. We know that it's also fine with"
+    },
+    {
+        "start": "01:10:45.940",
+        "end": "01:11:11.800",
+        "text": "like putting a whole family in or a couple if both parties or all parties are fine with that then hey That's also no big deal, but you know, I wouldn't put you know two different random people in there. It's it's just something where indeed, you're you're commingling frequencies and"
+    },
+    {
+        "start": "01:11:11.800",
+        "end": "01:11:39.200",
+        "text": "Yeah, you know with with your dogs. That's a different. Sorry. That's that's your family in a way also, right? Yeah, my dog is belongs to our family and you're so close anyway And and that may actually be a great experience as well as it may be a great experience for a couple to actually know, you know There's no couple on earth that doesn't have issues right in their relationship I you know, I don't think that exists right because we that's also how we grow and"
+    },
+    {
+        "start": "01:11:39.200",
+        "end": "01:12:09.040",
+        "text": "You know, so yeah, maybe you know that there we have found actually that it it could have therapeutic Or add support in that sense, right? You know again, it's it's hard to tell what the outcome is of these things, but there's there's consciousness. There's quantum energy added to what whatever story is going on in a relationship and"
+    },
+    {
+        "start": "01:12:09.040",
+        "end": "01:12:37.780",
+        "text": "It's it may bring up stuff. It may solve stuff. It may help work through stuff or calm things That's that's really what people need to look at together But it's something definitely worth trying. Hey if you're a couple and you have one of those blocks and you feel like hey You know, this is something we want to try then go ahead and try that right? It's just it just needs the buy-in of both people because you don't want to you know, step on over anybody's boundaries"
+    },
+    {
+        "start": "01:12:37.780",
+        "end": "01:13:04.840",
+        "text": "Yeah, no, it's yeah. That's a very fascinating aspect towards body charging either through photo physical or DNA sample, you know, it's just it was just the weirdest experience Were my dogs all of a sudden were more cuddly You know because they you know how dogs are they like ignore you sometimes But yeah, that was interesting. So we're to the wise experiment carefully"
+    },
+    {
+        "start": "01:13:04.840",
+        "end": "01:13:33.560",
+        "text": "And make sure that nothing like, you know, I mean, you know, I always think of that movie the fly right where the little flag gets into the transporter You know, so you got to be careful what fall, you know Like so keep an eye on your cube like what you're doing this and don't let anything fall in there You don't want in there, but you know, so it's just something else to think about but yeah, thanks That was a great, you know, great answer. Thanks for your time I'm so sorry to I'm to try not to you know suck up all your time, but I have so many questions for you"
+    },
+    {
+        "start": "01:13:33.560",
+        "end": "01:14:00.680",
+        "text": "But you know, thanks Phillip so much for today that answers the five top FIQ's About you know that I'm picking out of the queue and maybe you know I don't know in the future will pick another five and if you folks find this helpful, please let us know in the telegram Check group and you know because we're trying to put out more user Information and user guides and things like that to help people understand The technology the frequencies and how to use them"
+    },
+    {
+        "start": "01:14:00.680",
+        "end": "01:14:26.320",
+        "text": "So let me wrap it up by saying thank you everyone especially. Thank you Phillip. I really appreciate your time today Now if you want to reach Phillip definitely or me you can definitely find us in the quantum power group on telegram All the links will be in the description below. Of course layla quantum tech is the you just have this you just redid your website So it looks really nice. This is the new website. So it's looking pretty good right here. So and yeah, this is great"
+    },
+    {
+        "start": "01:14:26.320",
+        "end": "01:14:56.320",
+        "text": "I love the new look. So that's new websites out there. And of course, I'm Kay Elmer I'm at the Tinkers Academy and the link will be below. That's my blog and then of course this YouTube channel So but yeah, thank you very much Phillip any any parting words Anything else you want to let the users know? Well, thank you first of all for your time. This has been great and and I feel yeah, you're totally right It was also necessary because there are always these questions and I'm I'm glad we've taken the time"
+    },
+    {
+        "start": "01:14:56.320",
+        "end": "01:15:24.080",
+        "text": "So for this and and and answered those hopefully it was helpful for for many people. Yeah, maybe just Just another Tink because you mentioned you wanted to put your head into the cube lock while you While you sleep you know people out there can this maybe start with a test when you take a nap but maybe if you usually don't take a nap maybe just pick a day where you would like to take a nap and take your time to do that and"
+    },
+    {
+        "start": "01:15:24.080",
+        "end": "01:15:52.040",
+        "text": "Then put your put a picture of you a current picture of you inside your quantum block or your infinity block While you're taking that nap And then you know maybe experiment with that and see how that does so I've I've had some good results I rarely ever take naps, but I've tested this and I've I've had great results Actually, some really deep relaxation that came out of it doesn't mean that it is the same for you because you know"
+    },
+    {
+        "start": "01:15:52.040",
+        "end": "01:16:20.320",
+        "text": "We all are different and have all our different issues, but but hey that will be a Good way to start a good idea without having to physically put it in yeah No a great idea Thanks And and by the way if anybody does any of the crazy stuff that we're talking about you know in terms of You know just testing out things and trying new things and hey, please let us know what happens, right? I mean we have this telegram chat group all about the quantum energy and and Leila and and so you know"
+    },
+    {
+        "start": "01:16:20.320",
+        "end": "01:16:46.560",
+        "text": "Hey, if you if you if you try any of this stuff Please share it with the rest of us. That's how I learn. That's how we find out what works and what doesn't work And and so I'm always always always always very happy that people will come in there and share Some of the experience and if one for Enoch we wouldn't even have started doing all the DNA stuff So, you know, hey, thank you Enoch and thank you everybody out there for participating. So yeah I'm gonna go ahead and stop the recording now"
+    },
+    {
+        "start": "01:16:46.560",
+        "end": "01:16:56.400",
+        "text": "I'm gonna break this up and publish this here and in the next day or so and and we'll get it all going So thank you Phillip really appreciate your time. Aloha everybody. Thank you, K"
+    }
+]

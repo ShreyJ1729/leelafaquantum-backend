@@ -1,0 +1,452 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.040",
+        "text": " Aloha, everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer. And in this video, I'd like to share with you my theory on what is quantum energy. Now, if this is going to be part one of a two part series, part two is going to be how does it work? Now, just some disclosures before we start getting into it, this video covers my theoretical interpretation on what quantum energy is as defined by Leila quantum tech and how it works. So that's really"
+    },
+    {
+        "start": "00:00:29.040",
+        "end": "00:00:55.520",
+        "text": "important. We're going to be really focusing on what we have learned over the last three years of Leila quantum tech and all of the different studies that they've done and take those results and then try to fold that into a working theory on really what is quantum energy and how does it work? Now, this theory is based on observation and a simplistic common sense approach towards understanding the nature of our universe. All content provided is done so through fair use."
+    },
+    {
+        "start": "00:00:55.520",
+        "end": "00:01:20.160",
+        "text": "And I wanted to say we learn something new every day. So I reserve the right to change my mind as time goes forward. So first things first, let's level set. And what I mean by that, for anyone who's not familiar with what Leila quantum tech does, they make products that they claim are infused with quantum energy. And that when you use these devices or not necessarily use them, let's say"
+    },
+    {
+        "start": "00:01:20.160",
+        "end": "00:01:46.400",
+        "text": "you expose yourself, people, plants or animals, or you expose substances to the quantum energy that is contained in their devices and or they have a at distance service that projects the energy as well, then certain things are going to happen. Now, there's been over 60 studies that have been done over the last three years. And these are all NIH level studies. And what I mean by that"
+    },
+    {
+        "start": "00:01:46.400",
+        "end": "00:02:10.160",
+        "text": "is that they have been commissioning third party, independent researchers, different scientists and different professors and different institutions in Europe and in the United States to evaluate the claims that they're making as to their products and what it does, what the results will be when you're exposed to them. And the studies are literally following the gold standard of scientific study."
+    },
+    {
+        "start": "00:02:10.160",
+        "end": "00:02:40.240",
+        "text": "They are using basically, you know, sham devices. They're negating the observer effect by, you know, the clinicians don't know when they're using an actual real device that's charged and when that's not. They're also doing it in double blind, where the actual participants, when they used humans, that the humans themselves didn't know when something was actually a real device versus a effective, I say they call it a sham study. So these double blind independent third party"
+    },
+    {
+        "start": "00:02:40.240",
+        "end": "00:03:08.880",
+        "text": "sham studies have been being conducted for the last three years. There's over 60 of them. There are still more studies that are being done now. Today, this is May 2024. So, you know, the research continues, but there's been enough evidence now for basically us. And when I say us, I mean, you know, the people that study this, you know, I'm not a employee of Leyla quantum tech. So when I say us, I mean, the humanity, okay, you know, we're learning from this company who's"
+    },
+    {
+        "start": "00:03:08.880",
+        "end": "00:03:35.040",
+        "text": "paying for all these studies. And so what we're learning, what we are learning is that when you expose people, plants and animals, what the results are showing in these gold standard and double blind NIH level studies, okay, is that it improves the bio energetic markers of the individuals against 60 various meridian points along their body, all tied to different organs."
+    },
+    {
+        "start": "00:03:35.040",
+        "end": "00:03:58.800",
+        "text": "And in other words, the bio energetics is the ability to, you know, to evaluate and measure whether there's stress on the body and when and or, you know, obviously when the stress is relieved, it improves heart rate variability. It improves white cell count. Okay, so white blood cell count, it increases that when exposed to this energy, your body produces more white"
+    },
+    {
+        "start": "00:03:58.800",
+        "end": "00:04:23.520",
+        "text": "blood cells. That's what the studies show. It improves oxygenation. It improves ATP production, which is a the powerhouse microchondra in your cells produce energy that your entire body runs off of. If you didn't have ATP, you wouldn't, you wouldn't exist. You would just fall down dead. So it literally is the energy by which our bodies function and it causes this energy causes"
+    },
+    {
+        "start": "00:04:24.080",
+        "end": "00:04:50.480",
+        "text": "our mitochondria to produce more ATP. Now it also decreases blood clotting. And it also expedites wound healing. It actually has been proven in multiple double blind studies that it actually causes the cells to repair themselves faster by up to 100% faster. So twice as fast wound healing when exposed to quantum energy. And that's the exposure to biological living organisms, right?"
+    },
+    {
+        "start": "00:04:50.480",
+        "end": "00:05:16.720",
+        "text": "Now it also has also been tested on substances, which is one of the more remarkable studies that have been done. There's one going on right now. There was a prior one. And what they're showing and what these chemists are doing, there's a chemist right now doing studies in Europe. And they've determined that it alters the redox potential of a substance. And what that means, and specifically the substance that they're focusing on right now, is zinc. You know,"
+    },
+    {
+        "start": "00:05:16.720",
+        "end": "00:05:45.760",
+        "text": "the mineral that we all take and the world needs, your body needs it. And so when they take zinc and they run it through every single possible laboratory instrument that they have, and it registers as zinc. And so then they expose it to these devices, these quantum energy devices, and they run it through all these different laboratory tests again. It still shows as zinc, but it's changed. And it's changed in the redox potential, which is the electron. I won't get into"
+    },
+    {
+        "start": "00:05:45.760",
+        "end": "00:06:14.080",
+        "text": "it, but that's the thing. It actually changes substances at a quantum level, at the atomic level. And they're now able to actually measure the changes in substances using the redox potential evaluation. So with all of that said, that's the level set. That's what this incredible thing is doing that later the quantum tech is, you know, is manufacturing and selling on the market. They've"
+    },
+    {
+        "start": "00:06:14.080",
+        "end": "00:06:40.720",
+        "text": "got the studies that really back up all of their claims. So when you're trying to understand, okay, well, you know, that sounds really cool, right? But, you know, like, what is it? I mean, what is this energy? So let's take a look at classical physics in, you know, according to modern day as to like, Hey, you know, what? Okay, so what is this energy? You know, because, you know, if you were to listen to any of the interviews done by the founder of Leila Quantum Tech, his"
+    },
+    {
+        "start": "00:06:40.720",
+        "end": "00:07:06.400",
+        "text": "name is Phillip von Holzendorf. He always refers to it as pure quantum energy. And they've adopted in and he's adopted the word quantum. So if you say the word quantum, then you're talking about particle physics, okay? And so the first thing that you would think if you are familiar with physics is, you know, the idea of quantum field theory, you know, if you're going to use the word quantum, that means subatomic, right? So then that means quantum field theory. And so what that is in physics,"
+    },
+    {
+        "start": "00:07:06.400",
+        "end": "00:07:34.720",
+        "text": "it's a theoretical framework in physics that combines quantum mechanics, special relativity, relativity, and classical field theory. So what are those three things? Well, quantum mechanics is a fundamental theory in physics that describes the behavior of matter and energy on an atomic and subatomic scale. That's what I just described. And then what is special relativity? Well, special relativity is the famous formula developed by Albert Einstein to kind of describe the"
+    },
+    {
+        "start": "00:07:34.720",
+        "end": "00:07:59.280",
+        "text": "behavior of spacetime and motion at high speeds approaching the speed of light. So if you're familiar with this equals mc squared, you've probably seen that your whole life all all over the place, right? Is that energy, according to Einstein, equals mc. So m stands for mass. So anything that has mass, whether it's an atom or a locomotive. Okay, so if it and then it's multiplied"
+    },
+    {
+        "start": "00:07:59.280",
+        "end": "00:08:25.280",
+        "text": "by c, which is a c stands for constant. And in this formula, constant is the speed of light squared. So in other words, it's energy is mass, something that has mass moving really, really, really fast. Okay, you know, and so, and so that is what Einstein came up with as, hey, what is, you know, what is the special relativity? He tried to describe spacetime, you know, reality, right?"
+    },
+    {
+        "start": "00:08:25.280",
+        "end": "00:08:55.040",
+        "text": "And he said, hey, it's energy is mass moving really fast. And then you've got classical theory theory. And again, all of this is part of quantum field theory. So classical field theory is a theoretical framework in physics that describes the behavior of classical fields and their interactions. So what I've tried to do is like, okay, you know, according to Leila Q, you know, this, this energy exists all around us and their devices are able to hold a higher level"
+    },
+    {
+        "start": "00:08:55.040",
+        "end": "00:09:20.640",
+        "text": "than the normal, quote, ambient energy around you. And instead, these things are like amped up and they're charged is the phrase that's used. And that when when they're charged, because they're so much stronger than the ambient energy around you, that they can do all these incredible things. And so that's some of the part where you would think, okay, well, if that's true, then, but here's the deal. There's no particles, there's not like it's not like electricity, there's you don't touch"
+    },
+    {
+        "start": "00:09:20.640",
+        "end": "00:09:48.960",
+        "text": "it, you just near it. So there's nothing that's coming. In other words, there's nothing moving from this thing to you or your pet's plants. Okay, so it's not moving. But in classical theory theory, there are forces that are maybe what, you know, Philip is describing, which is, but when you look at when you look at the physics, okay, classical physics, when you look at classical field theory now, the four forces that comprise classical field theory are gravitational,"
+    },
+    {
+        "start": "00:09:48.960",
+        "end": "00:10:16.480",
+        "text": "electromagnetic, strong nuclear force, which is the force of the, you know, basically positive attractive to negative, you know, the electrons being attracted to protons. And that's what holds the atoms together. And then the weak nuclear force is what holds the protons to the neutrons in the center of the atom. And so these four fundamental forces, again, are particle base. So what is quantum energy? Well, if there's no particles, then it doesn't fit. And that's the"
+    },
+    {
+        "start": "00:10:16.480",
+        "end": "00:10:44.640",
+        "text": "point here I'm making is it just doesn't fit into modern physics or classical physics understanding of energy. However, there's a non mass form of energy that's accepted in quantum physics. And that is something that doesn't have mass moving fast. Okay. And that's like your electromagnetic radiation heat, potential energy. That's like, you know, energy stored in a spring when you compress it. It's got all this energy so that when you release the, you know, whatever's"
+    },
+    {
+        "start": "00:10:44.640",
+        "end": "00:11:12.000",
+        "text": "holding it, it springs back. And that's called potential energy, of course, sound waves and electric and magnetic fields. So that explains like, Oh, hey, there's, you know, they, you know, of course, physics has to recognize that, Hey, there is a form of energy. It's not a force. It's an energy that that can permeate right from one place to another, but that doesn't have any particles involved. However, if you look at the list, you don't see anything says quantum. If you"
+    },
+    {
+        "start": "00:11:12.000",
+        "end": "00:11:38.320",
+        "text": "actually look up quantum energy, according to classical physics, it'll talk about particles, you know, how the particles, the theory of how particles interact with each other. And when I say particles, I mean atomic and subatomic particles. So, you know, classical, you know, chemistry or physics right here, you know, these are, this is what a typical diagram of an atom looks like you've got electrons circling around protons and neutrons as the center of the atom."
+    },
+    {
+        "start": "00:11:38.320",
+        "end": "00:12:09.360",
+        "text": "And so when you look at physics and specifically quantum physics, it's the study of the atom and everything that comprises an atom. And even what comprises the particles that comprise the atoms themselves, right? So right here, the list is pretty short. So there is, and this is my point, there is nothing in classical physics, modern day physics, that explains what's happening within the definition of Leila quantum text, use of the term quantum energy, thus I'm making the"
+    },
+    {
+        "start": "00:12:09.360",
+        "end": "00:12:32.640",
+        "text": "video. However, I do want to give them credit. And this is the modern day physics, physicists, and classical physicists, that they're actually did back in the late 1800s. There was an attempt, right, to recognize that for, you know, for thousands of years, you know, there's all these different cultures that have recognized that there's this thing, there's this energy all around us."
+    },
+    {
+        "start": "00:12:32.640",
+        "end": "00:12:59.760",
+        "text": "And you know, like the Asians call it qi or qi, you've got the, you know, the Indians call it prana, you've got, you know, Hawaiians out there, I'm from Hawaii, and they call it mana. And there's all this, you know, basically, it's energy that, you know, that, that surrounds all of us. And there's all these different words for it. And so, so back then, they recognized that there was something. And the actual original person who created the first periodic table of elements"
+    },
+    {
+        "start": "00:12:59.760",
+        "end": "00:13:25.520",
+        "text": "in 1869 was a guy by the physicist by the name of Dimitri Ivanovich Mendeleev. Okay. And he theorized by when he first put together the very first periodic table of elements that, you know, became the mainstay of science. He included in the group of noble gases, this comp, this concept or this element that he called aether. And it's now also called ether, but ether gets confused with the"
+    },
+    {
+        "start": "00:13:25.520",
+        "end": "00:13:51.600",
+        "text": "chemical ether. So, you know, aether ether either one. But the whole idea, though, is that that he basically said, hey, the concept of aether was used in several theories to explain several natural phenomenon that they couldn't explain. So they kind of said, well, we can't explain it. So let's give it a name. We'll call it aether. And this, this aether would be the thing, the element that would, that would allow the propagation of light and gravity in the late 19th century,"
+    },
+    {
+        "start": "00:13:51.600",
+        "end": "00:14:16.880",
+        "text": "physicists postulated that aether permeated space, providing a medium through which light could travel in a vacuum, but evidence for the presence of such a medium was not found in this famous experiment that was done in 1887 by Michelson and Morley, and because they could not validate that this quote aether existed, then it was taken off the periodic table of elements. So again, you know,"
+    },
+    {
+        "start": "00:14:16.880",
+        "end": "00:14:42.640",
+        "text": "they did try the and they actually had it on the periodic table of elements, ether, but they took it off because they couldn't prove it, but they couldn't prove it 164 years ago. So can you imagine what these guys would be able to do if you gave them some Leila quantum tech blocks, signed them up for the upgrade service and let them have at it? I think they would come up with way different results because now there's a lot of studies that prove a it exists and b it does"
+    },
+    {
+        "start": "00:14:42.640",
+        "end": "00:15:08.000",
+        "text": "something. And of course, we're here trying to figure out what is it exactly. So that brings us to where I think that the best way to understand what is quantum energy is to understand the nature of the universe. In other words, what's the context by which you're trying to define something? So the very first thing, and I've kind of come down my theory is that there's three models, you know, there's three models that represent the nature of the universe right now, if you were to"
+    },
+    {
+        "start": "00:15:08.000",
+        "end": "00:15:34.880",
+        "text": "review what modern science is offering us, right? And the first one again, as I just went through is particle based, you know, the universe is comprised of particles, everything's particles and everything I just explained to you all defines exactly how they think and what they think about the fact that at the quantum level of existence, it's all particles, all atomic and subatomic particles, and all of that stuff combined creates what we see everywhere around us and including"
+    },
+    {
+        "start": "00:15:34.880",
+        "end": "00:16:03.840",
+        "text": "ourselves. And so that's one model of, you know, of context and a model of understanding how, you know, what is quantum energy? And I want to just kind of say that, you know, I've kind of got two more. Let's talk about that. So here comes another theory that was postulated back in the 1870s, all the way through 1890, by a gentleman called William Thompson, who also became better known, better known as Lord Kelvin. And so basically, he was the first one that says, you know,"
+    },
+    {
+        "start": "00:16:03.840",
+        "end": "00:16:33.680",
+        "text": "this is why Mendeleev was creating the, you know, the theory of, you know, of ether. And of course, it was later disproved. But all during this time, the late 1800s, there was all these different physicists trying to understand the world, right, understand the universe. And he, and so what Lord Kelvin did was he came up with this theory, and he conjectured that atoms might be vortices in the ether that pervades space. And so why that's so important is it means that, you know,"
+    },
+    {
+        "start": "00:16:33.680",
+        "end": "00:17:00.720",
+        "text": "below the, you know, the atomic level below the level of, okay, what is a molecule? What is an atom? Atoms are clustered together, the four molecules. Well, what's, what's an atom? Okay, atoms comprised of three basic elements. Okay, what is those when like, what makes an electron? We asked what makes a atom? Okay, so at atoms comprised of three different things, protons neutron electrons. So what makes up an electron? What, you know, what is that thing made out of? And so right now,"
+    },
+    {
+        "start": "00:17:00.720",
+        "end": "00:17:29.520",
+        "text": "if you look at classical physics, it says, well, you know, an electron, let's say, as an example, is an elemental physical particle. But what is it made out of? And so that's kind of what they tried to figure out. Now back then, you know, they just kind of were, you know, basically theorizing all of this. And they've come a long way since then, in terms of being able to identify atoms and all of the different things that comprise atoms and molecules and so forth and atomic particles. However, you have a different way of thinking about it now. You've got the"
+    },
+    {
+        "start": "00:17:29.520",
+        "end": "00:17:56.400",
+        "text": "Mendeleev, not the Mendeleev, but the classical physics way of looking at quantum as particle-based, and then you've got the Lord Kelvin way of looking at the, you know, the structure of quantum, the world of quantum is not necessarily particle-based, but it's, you know, basically made up of vortices. Now, in current modern day physics or modern day science, it's also, you know, there's other"
+    },
+    {
+        "start": "00:17:56.400",
+        "end": "00:18:19.920",
+        "text": "individuals that are out there promoting that concept and basically saying, hey, this is, you know, this is their theory as well. They think that Lord Kelvin was correct. And one of those individuals is a Dr. Jerry Tennant. And he's the author of a book series called Healing Is Voltage. This gentleman is, since 1965, has been working on microcurrent therapy. And he"
+    },
+    {
+        "start": "00:18:19.920",
+        "end": "00:18:46.320",
+        "text": "is literally the godfather of microcurrent therapy. And he's also the individual who's credited for literally figuring it out, figuring out how bioelectrics operates and how our bodies are bioelectric machines. And he's basically, he is the godfather of microcurrent technology and microcurrent therapy, extremely well respected in his field. And he's actually just most recently,"
+    },
+    {
+        "start": "00:18:46.320",
+        "end": "00:19:13.120",
+        "text": "two years ago, wrote a book. And up until two years ago, you know, he had a little bit different view. He looked at like basically healing his voltage. It's all about bioelectricity and about polarity and, you know, in terms of bio-magnetics of your body. But now within the last couple of years, he wrote a book, he's been lecturing on it. And he's come up with this in theory of how, you know, the reason that he's getting the results he's getting and the reasons that all of the things"
+    },
+    {
+        "start": "00:19:13.120",
+        "end": "00:19:38.560",
+        "text": "that he does in his research is because, and this is his theory, that the atoms themselves that, you know, like electrons and all of themselves are not particles, like, you know, and this is, you know, what he deduced, but they're actually vortices of energy and that the actual protons themselves are microscopic black holes and electrons are vortices of energy that, you know,"
+    },
+    {
+        "start": "00:19:38.560",
+        "end": "00:20:01.840",
+        "text": "obviously circle that. So in other words, that the lower you go, the smaller you go along the, you know, the, you know, as in terms of, you know, drilling down into what makes or what comprises matter, the smaller you go, eventually you get to a point where the particle is not a particle anymore, but it's a vortex of energy, just like Lord Kelvin had theorized 160 years prior."
+    },
+    {
+        "start": "00:20:01.840",
+        "end": "00:20:27.120",
+        "text": "And so this is what's interesting with this theory about, you know, is the, is quantum, is the nature of our universe energy based, right, is it's all comprised of these little energy vortices that comprise everything that we see. And that means that everything is energy and it's not physical, which is, you know, hard to wrap your head around. But I want to point out something that the jury's"
+    },
+    {
+        "start": "00:20:27.120",
+        "end": "00:20:56.480",
+        "text": "out. You know, there's nobody that can say that it's right or wrong right now, because most recently, you know, according there, well, not according to, but thanks to Cornell University, they came up with a new process by which to use an electron microscope to basically view atoms. The picture on your screen is an image of a crystal zoomed it at 100 million times magnification. It is the"
+    },
+    {
+        "start": "00:20:56.480",
+        "end": "00:21:22.720",
+        "text": "most, it is the, I guess I guess the best way to say it is, it's the closest picture of an actual atom. And the best picture we can get with the technology we have today. And that those little little lights you see are individual atoms, you'll see some of them are paired up, you'll see some of them are singular. But this is what an atom looks like. And this is the best we can do. We can't tell"
+    },
+    {
+        "start": "00:21:22.720",
+        "end": "00:21:51.360",
+        "text": "what this little glob of light is. We know it's an atom that's as far as we can get right now with today's technology. But we cannot answer what is beyond this, like what, you know, looking through a microscope at an atom like what, what, what is this? It's just this little, little bit of light. And so that's where we're at right now. So we can't say that we're not energy based. We can say we're, you know, we can say, is this a particle? Or is this a little glowing vortices of energy? We can't"
+    },
+    {
+        "start": "00:21:51.360",
+        "end": "00:22:14.320",
+        "text": "tell you right now, we meaning, you know, humanity. And so that's what's really interesting about the theory that, you know, maybe the world or the nature of the universe isn't necessarily particle based. But instead, maybe those particle base, those particles are actually energy vortices. So we've got that second theory here, you know, the second nature of the universe idea in trying to"
+    },
+    {
+        "start": "00:22:14.320",
+        "end": "00:22:43.840",
+        "text": "define like, what is quantum energy? And maybe, maybe theory is that quantum energy is based on this, you know, this model that everything is energy and quantum is that energy. And so there's a very highly probable answer right there. But again, you know, just like any other theory, it's not set in stone right now. It literally now, what I want to do point out is that even under particle physics, you know, even though the definition of particle physics and what Layla is doing,"
+    },
+    {
+        "start": "00:22:43.840",
+        "end": "00:23:13.040",
+        "text": "you know, they don't match up because there's no particles. But I want to point out, though, we just don't know if there are particles that we just haven't been able to detect. Okay, so, you know, we scientists learn something new every day. If you ever want to think that, you know, we know everything that there is to know, just Google scientists discovered, and you will get pages after pages of stuff they discover every single day. So, you know, we're always learning, we're always growing our knowledge base. So maybe it is a particle. Okay, maybe quantum energy"
+    },
+    {
+        "start": "00:23:13.040",
+        "end": "00:23:39.440",
+        "text": "is particle based. We just haven't been able to measure it. We haven't been able to identify, you know, all that stuff that they do. And so it, it may or may not be particles highly suspected that it's just that maybe the nature of the universe is energy. And it is that energy that that energy ether, right, that they tried to define earlier is quantum energy. And so there's a highly probable explanation as to what quantum energy is when you look at the world"
+    },
+    {
+        "start": "00:23:39.440",
+        "end": "00:24:01.840",
+        "text": "in terms of energy, vortices, comprising atomic, semi subatomic particles. So, but there's a third one. And I want to share that with you, because this one is where it gets really interesting. And you know, I've been noodling on this for a very long time. And so one of the things that popped up in the research I've been doing is that, you know, is there another possible explanation"
+    },
+    {
+        "start": "00:24:01.840",
+        "end": "00:24:29.280",
+        "text": "that's even better than the energy definition that would basically be able to answer the, you know, how is all of this happening? You know, how is all of this happening when you've got this little aluminum plate thing with rods on it? And then this incredible reaction happens to people, plants, animals, and substances, right? And is there something else going on? Now,"
+    },
+    {
+        "start": "00:24:29.280",
+        "end": "00:24:55.520",
+        "text": "energy could explain it, but there's actually another model I run across that I think even explains it even better. So the idea here is that in 2003, a philosopher Oxford University, his name is Nick Bostrom, he came up with something he came calls the simulation hypothesis. Now, that's going to that was proposed by philosopher Nick Bostrom in 2003. And it's the idea that we"
+    },
+    {
+        "start": "00:24:55.520",
+        "end": "00:25:21.040",
+        "text": "might be living in a computer simulation created by a more advanced civilization. Yeah, obviously, when he published that, it took the, you know, the world of physics by storm because nobody could even imagine that it would, you know, like, that's just sounds crazy. But the idea was, was that we today, our technology, CGI technology, today, if you look at any really, really advanced"
+    },
+    {
+        "start": "00:25:21.040",
+        "end": "00:25:48.960",
+        "text": "video game and all of the experience of the video game with VR, and all of those types of things, you know, it's almost to the point now where if you watch a video that it's so realistic, it's incredibly realistic and the characters and all of that, it's becoming realistic. Now, imagine a thousand years from now, where we take where we're at today, and we go a thousand years in the future, and we're able to then create holographic 3D representations of characters with"
+    },
+    {
+        "start": "00:25:48.960",
+        "end": "00:26:14.880",
+        "text": "built-in AI. And so that, you know, you've got, and then, you know, and so that you've got these characters that are just basically, you know, autonomous, you know, individuals out there with their own personalities through AI. And you can imagine a thousand years from now, what video games are going to look like. And maybe one of those video games is us. And that's what's really bizarre. It's like, we are we a sim character, just incredibly advanced sim character"
+    },
+    {
+        "start": "00:26:14.880",
+        "end": "00:26:40.800",
+        "text": "thinking that we're human. And that's what his theory was. And so that is pretty wild. However, what's interesting about simulation hypotheses is now this was 2003. Now, in 2016, at the, you know, I want to introduce with you a gentleman by the name of Dr. James Gate. Now, he is a theoretical physicist with the University of Maryland. Now, he was working on string theory."
+    },
+    {
+        "start": "00:26:40.800",
+        "end": "00:27:03.920",
+        "text": "And so this is another little piece. String theory is a theoretical framework of in physics that attempts to unify all fundamental forces of nature, gravity, electromagnetism, strong and weak nuclear forces into a single consistent theoretical framework. So in other words, he's a physicist, he's a theoretical physicist. And one of the biggest challenges in physics, right, is they've"
+    },
+    {
+        "start": "00:27:03.920",
+        "end": "00:27:30.000",
+        "text": "never been able to basically tie together the things that happen in large things like the universe itself, the solar system, gravity, right? And then when they translate that down to the quantum realm of atomic particles, where there's almost no gravity, you know, they've never been able to reconcile the two between large and small quantum and, you know, the universe, right? And"
+    },
+    {
+        "start": "00:27:30.000",
+        "end": "00:28:00.000",
+        "text": "so they, you know, Einstein's greatest regret was he was not able to solve that before he passed. James Gates, just one of many, many incredible physicists that's working on, hey, you know, like, you know, how does, you know, what's the answer to all that? We, you know, human beings, all we've ever asked is, you know, what is the meaning of life? And this is all these people do is try to figure that out. What is the meaning of life? What is the nature of the universe? And so James Gates, Professor Gates, was working on string theory and mapping out all of the different, you know,"
+    },
+    {
+        "start": "00:28:00.000",
+        "end": "00:28:28.400",
+        "text": "equations that come up with this theory on trying to explain the universe. And what was interesting was, is he also came up with this new discipline called supersymmetry, where he basically was trying to create the visual representation of the equations in a geometric format. Okay. And so in 2016, at the Isaac Asimov, Asimov, memorial debate held by the American Museum of"
+    },
+    {
+        "start": "00:28:28.400",
+        "end": "00:28:55.760",
+        "text": "National History, the presenter or the host of the event was Dr. Neil deGrasse Tyson, you might recognize him. He's one of the more famous TV personalities in physics today, was just basically dialoguing with the panel. And they were talking about simulation, they were talking about the simulation hypotheses during this discussion in 2016. So, you know, 13 years later, they're, you know, physicists are still trying to figure out, you know, are we living in a simulation?"
+    },
+    {
+        "start": "00:28:55.760",
+        "end": "00:29:22.080",
+        "text": "And so he discovered something that I just want to go ahead and play to you to give you an example of or, you know, of the possibility that, you know, are we living in a simulation? So it's best in his own words. I'll go ahead and share that with you now. Part seven, well, partly it's taken to these very strange images that are behind your head right now. These are pictures of equations. I've been, for the last 15 years, trying to answer the kinds of questions that my"
+    },
+    {
+        "start": "00:29:22.080",
+        "end": "00:29:47.680",
+        "text": "colleagues here have been raising. And what I've come to understand is that there are these incredible pictures that contain all the information of a set of equations that are related to string theory. And it's even more bizarre than that, because when you then try to understand these pictures, you find out that buried in them are computer codes, just like the type that you find in a browser when you go surf the web. And so I'm left with the puzzle of trying to figure out"
+    },
+    {
+        "start": "00:29:47.680",
+        "end": "00:30:13.360",
+        "text": "whether I live in the matrix or not. Right, you're blowing my mind at this moment. So you're saying, are you saying your attempt to understand the fundamental operations of nature leads you to a set of equations that are indistinguishable from the equations that drive search engines and browsers on our computers. That is correct. So, wait, I'm still, wait, I have to just be silent"
+    },
+    {
+        "start": "00:30:13.360",
+        "end": "00:30:40.640",
+        "text": "for a minute here. So you're saying as you dig deeper, you find computer code rich in the fabric of the cosmos. Into the equations that we want to use to describe the cosmos, yes. Computer code. Computer code. Strings of bits of ones and zeros. It's not just sort of resembles computer code."
+    },
+    {
+        "start": "00:30:40.640",
+        "end": "00:31:08.880",
+        "text": "You're saying it is computer code. It's not even just is computer code. It's a special kind of computer code that was invented by a scientist named Claude Shannon in the 1940s. That's what we find very, very deeply inside the equations that occur in string theory. And in general, in systems that we can say are supersymmetric. Okay. Time to go home, I think. I mean, where are we going to go out?"
+    },
+    {
+        "start": "00:31:08.880",
+        "end": "00:31:38.560",
+        "text": "So, yes, you really said that and you really found that. And the idea here, as you stipulated, was that not only did you find code, actual computer code buried within the equations of string theory, which is the theory, the mathematical equations that define space and time and nature and universe. But there's actual computer code buried in it, but not just any computer code. And what I want to kind of point out, and this is really important, is that they're error-correcting"
+    },
+    {
+        "start": "00:31:38.560",
+        "end": "00:32:05.840",
+        "text": "codes. Now, what is that? So, error-correcting codes, if you're a programmer, is basically computer code that's embedded in all code. Because when information's transferred from one computer to another computer, the information, the data packets, get corrupted a little bit either through lag time, you know, all sorts of different reasons why, you know, that you're not going to get the same information you send from one place to another. And so, what the code does is a double, it does,"
+    },
+    {
+        "start": "00:32:05.840",
+        "end": "00:32:30.880",
+        "text": "you know, basically it does checks along the way so that at the end, when it receives it, it checks to make sure that if there was any errors, it fixes it so that the receiving end gets the exact same version of the information that was sent to it from the sending end. Okay, so, error-correcting codes is a very important aspect of this discussion. So, now, let's talk about the next piece that collaborates that. So, that was in 2016, and scientists are like, \"Whoa, there's"
+    },
+    {
+        "start": "00:32:30.880",
+        "end": "00:33:00.080",
+        "text": "computer code.\" And so, they've been working on that now. And so, now, in 2024, just this last month, in April of 2024, University of Portsmouth scientist, Melvin Vopson, who formulated the second law of infodynamics, which establishes that entropy. A measure of disorder in an isolated system can only increase or stay the same, but it will never decrease. And so, kind of, you know, that's a complicated subject. Just keep in mind that entropy is a measure of the disorder"
+    },
+    {
+        "start": "00:33:00.080",
+        "end": "00:33:29.200",
+        "text": "and randomness of uncertainty of a system. So, any system you have, if you leave it running, okay, for, you know, for a very long time, think like, you know, any one of your computers, after a while, you're gonna have to reboot it, right? And that's the whole idea is that, you know, it's just chaos, right? Anything that just goes on and on and on and on, for way too long, it's eventually gonna have some kind of weird, you know, thing with it. And you just have, you know, it's just called entropy. And entropy increases over time, you know, the randomness and chaos and"
+    },
+    {
+        "start": "00:33:29.200",
+        "end": "00:33:57.680",
+        "text": "disorder, okay? And that he came up with this law of the second law of infodynamics, which basically, you know, validated that through all of his research and his, his, his mathematics and so forth. But what he discovered, and this is what's real important and how it ties to Professor Gates, is that based on the famous law of the second law of infodynamics, Vopsin, similarly expected that entropy in information systems, which is previous research defined as"
+    },
+    {
+        "start": "00:33:57.680",
+        "end": "00:34:27.200",
+        "text": "the fifth, the fifth state of matter, should similarly increase over time. Okay, so that's, you know, he studied it. He said, yeah, it should increase over time. entropy in anything is gonna go up because, you know, but when he started really looking at information systems, he found that it doesn't in, in, you know, according to his mathematics. And that instead entropy, you know, entropy, it remains constant or even decreases to a minimum value at equilibrium. So Vopsin claims"
+    },
+    {
+        "start": "00:34:27.200",
+        "end": "00:34:52.160",
+        "text": "that the decrease of entropy in information systems over time, by that by itself, right, now they're not doing anything, proves that the universe has a built in data optimization and compression, which speaks to its digital nature. So this individual is working separately. He wasn't necessarily working on Gates's theory. He was working on his own theory and separately discovered"
+    },
+    {
+        "start": "00:34:52.160",
+        "end": "00:35:20.560",
+        "text": "when it came to information systems, that it has the universe has a built in data optimization and compression. And so what is that? Well, that's error correcting code. Right. And so this is what's fascinating about the idea. So when you think about this possibility, the simulation hypotheses, then you've got your third model of understanding your third framework by which to try to understand"
+    },
+    {
+        "start": "00:35:20.560",
+        "end": "00:35:47.600",
+        "text": "and for me to try to explain to you what my theory is. And my theory here is that, hey, you know, it's either a particle based energy that we have not discovered and or defined in modern physics, or it follows the work of Lord Kelvin and Jerry Tenet. And it's actually energy based and the particles themselves are made up of energy. And so we either all particles or all energy. Right."
+    },
+    {
+        "start": "00:35:47.600",
+        "end": "00:36:15.200",
+        "text": "But there's this third thing where it might be that we're actually living in a simulation. We're not real. And that everything is code based and information based. Now, in the next video, when I get into like, what are we finding? And how does it fit into one of these three definitions? I think what we're going to find is that it's not any one of these three, but it's probably all three of them in one form or another. And it's combined. So but then, you know, what is"
+    },
+    {
+        "start": "00:36:15.200",
+        "end": "00:36:43.120",
+        "text": "my theory? Right. So I'm just walking you through the thought process. And so my theory, as I went through all of the research, I think it's probably one or all of the three. I really do. I think that quantum energy is an energy that exists in the simulation we're living in. But you know, I want to point out something to that in the research. When you look at Ayurvedic philosophy, there's this"
+    },
+    {
+        "start": "00:36:43.120",
+        "end": "00:37:10.080",
+        "text": "thing called the Pancha Buddha. And so when I was looking at this, and you know, and that's your typical, what are the elements that comprise reality of, you know, of the universe, right? So there's earth, water, fire, and air. And then the Ayurvedic philosophers, and this goes back thousands of years, right? They also have this fifth element called space, or they call it Akasha. And they define it as the subtle and expansive element that represents consciousness, awareness,"
+    },
+    {
+        "start": "00:37:10.080",
+        "end": "00:37:33.760",
+        "text": "and potential. In other words, it's basically this element, right? That comprises all of these things. And I'm going to get into consciousness in the next video. But that has a lot to do with this, you know, in terms of the energy, and they're very much tied together. And so with the idea of Akasha, then the idea here is that there's five elements to the nature of the universe. And that"
+    },
+    {
+        "start": "00:37:33.760",
+        "end": "00:38:00.800",
+        "text": "ether is one of the five. And that either that this quote quantum energy that permeates reality is a fifth element of nature. And it's actually exists because we, we, you know, like you proved it exists. Everybody's been trying to figure it out since, you know, since it first was even thought up, the Ayurvedic philosophers thought it up a long time ago, and they called it Akasha. But here"
+    },
+    {
+        "start": "00:38:00.800",
+        "end": "00:38:25.280",
+        "text": "is where I think that according to Ayurvedics, you know, the Ayurvedic philosophers that when they first came up with this idea of there's this energy, you know, that that's all around us. And that it's called Akasha, or as modern day, you know, Western civilization, I think it's called ether. And so my answer to the question as of right now, in 2024, what is quantum energy? It's"
+    },
+    {
+        "start": "00:38:26.080",
+        "end": "00:38:52.640",
+        "text": "ether. But it's a different form of ether than Mendeleev thought it was. And it's, you know, and it's based on energy being the smallest particle, most likely that we're living in a simulation to. So that's the best I can do. I just kind of wanted to throw this out at you and throw you, you know, throw out the research that, you know, this is for discussion. I want to get you guys engaged. And I'd love to hear what you think as well. But this is where I'm at right now. When"
+    },
+    {
+        "start": "00:38:52.640",
+        "end": "00:39:20.240",
+        "text": "someone asks me, what is quantum energy? My answer is, it's the fifth element. It's, it's, and then, you know, I'll point him to the video to understand the details. So anyway, that's part one. Thank you for watching. Now, this part two, I want to let you know I'll be working on that after this video. And this is where we're going to get into how does it work? What is quantum entanglement, the role of consciousness, quantum healing, frequency medicine, what is all that? How does it work? And then also, too, you know, how do you measure this energy? So I want to say thank you very much"
+    },
+    {
+        "start": "00:39:20.240",
+        "end": "00:39:46.960",
+        "text": "for watching the video. I hope this was educational and intriguing for you to kind of think about, wow, you know, what is quantum energy? And more importantly, I think, because it needs to fit into context. And the context is what's nature of our reality? What's the nature of universe? And, and what is everything made up of? And how does it work? I mean, it's just a great thing to kind of figure out. And it really helps define who we are. So hey, thanks a lot for watching the video."
+    },
+    {
+        "start": "00:39:46.960",
+        "end": "00:40:15.600",
+        "text": "Hope you enjoyed it. If you want to learn more about me and my work and the stuff that I do, you can find me at the at the Tinkers Academy at my blog, link below in the description. And if you like this kind of content, just like and subscribe. And I really appreciate you guys watching my videos and your very kind comments. So I do would like to hear from you what you think. Is it one of those three? Is it all three? Is it is it a kasha? Is it is it cheese? Is it, you know, source energy? you know, what do you think? And so thanks a lot for watching. Have a great day. Aloha."
+    }
+]

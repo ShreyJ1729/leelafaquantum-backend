@@ -1,0 +1,632 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.720",
+        "text": " Hello everyone and welcome to another Tinkers Academy video and I'd like to just say welcome. This is an update video on the quantum upgrade service and I've got Philip on the line to kind of explain some of the new things that are happening, clarify how some of the services work. So this is a video to the upgrade community and just kind of just jump right in. So the first thing I want to do is for those of you who are not familiar with Philip yet, Philip, some"
+    },
+    {
+        "start": "00:00:27.720",
+        "end": "00:00:57.080",
+        "text": "more Von Holson Dorif is the healer. He's a healer and the founder owner operator of Quantum Upgrade. He's also the same for Layla Labs and also Layla Quantum Tech. So this is Philip and good morning Philip and thank you for joining me. Hi Kay, good morning. I'm looking forward to our our accommodation here today. Yeah so yeah thank you so much because there's been a lot you know it's been you launched the quantum upgrade at the beginning of October and we did a launch video then we"
+    },
+    {
+        "start": "00:00:57.080",
+        "end": "00:01:25.280",
+        "text": "did another follow-up Q&A. Links will be for those videos and below for those anyone who's interested in watching the the first Q&A was just all of the questions we got for the first two weeks and we just banged through and answered them from the Telegram chat group and then so this is going to be an update as a follow-on. Again it's like basically almost yeah it's almost one month later and boy what a busy month right. Indeed it's hard to believe it's only been a month and so yeah it's it's literally I think it's one or two months"
+    },
+    {
+        "start": "00:01:25.280",
+        "end": "00:01:51.800",
+        "text": "but it's we basically want to Philip wants to share with you all of the happenings of quantum upgrade and so we're going to go ahead and do that but prior before we do that though let me read the disclaimer for all of those who need to know about a disclaimer and then we'll jump right into the content. So neither quantum upgrade nor the takers Academy recommend or endorse any specific tests, physicians, procedures, opinions or other information that may be mentioned in this video. Reliance on any information appearing and"
+    },
+    {
+        "start": "00:01:51.800",
+        "end": "00:02:20.080",
+        "text": "discussing this video solely at everyone's own risks. Statements may have not been evaluated by the EFSA or FDA or any governmental derivatives thereof. Quantum upgrade products and products that quantum upgrade may represent are not intended to diagnose, treat, cure or prevent any disease. All right thank you very much everybody. So let's jump right in. So the first thing you wanted to kind of share with us and I'll just let you run with it is you know there's been changes right since the day you launched a quantum upgrade. There's been changes"
+    },
+    {
+        "start": "00:02:20.080",
+        "end": "00:02:48.720",
+        "text": "on the functionality of the My Account page. So you want to just kind of talk about that? Yes so that's based on what we've seen initially and also a feedback from the members in the Telegram group where we asked hey you know what can we so optimize and what additional functionalities would you like and they have been already several that we don't even need to mention because probably everyone is aware of those already you know that it's mobile optimized now and"
+    },
+    {
+        "start": "00:02:48.720",
+        "end": "00:03:18.200",
+        "text": "things like that but certain things like automated setting of nighttime. Some people were wondering that they couldn't set the nighttime anymore but that was really based on customer feedback where they said well so if I set the daytime and so why do I need to set the nighttime right and then indeed you know that that should should happen automatically and now it does so you only need to set your your daytime and your nighttime will automatically set"
+    },
+    {
+        "start": "00:03:18.200",
+        "end": "00:03:43.800",
+        "text": "based on that right so it's it makes it even easier okay and then let's go ahead and move back to that and then the other one is the pause button. That's the pause button yeah so and so the pause button in general that we even included that that was based on a couple of folks initially that they had a lot"
+    },
+    {
+        "start": "00:03:43.800",
+        "end": "00:04:11.160",
+        "text": "of detox reactions they didn't have really any experience with quantum energy so far and that they asked if they could pause it at night and then you know we said of course yes you can so we added the pause button so where you manually click pause and then if you wanted and then within five minutes the service would would stop basically and then they could manually unpause it for"
+    },
+    {
+        "start": "00:04:11.160",
+        "end": "00:04:37.120",
+        "text": "it to start again now there was also the question could we set that in a more automated fashion that it can then unpause yeah and that is yeah and at a specific time and that's what we also implement it and it should work properly you know okay so let's let's show everybody how to get to the pause because this is the service for you and this is my from myself and so this these are the"
+    },
+    {
+        "start": "00:04:37.120",
+        "end": "00:05:05.440",
+        "text": "settings for you but it the pause button is not on this page right so how do you I forgot how to get to the pause button no the pause button is actually right there is there where is called on a little bit I thought it was on a different beat it's on a different page right no actually it should be right there click update yet lately forget to click update I made a change okay so"
+    },
+    {
+        "start": "00:05:05.440",
+        "end": "00:05:31.920",
+        "text": "here let me click on my active this is why I want to view it this is my field for you and oh there it is okay sorry wrong okay all right so I forgot to click update I by that's a real important thing everybody I think that a lot of people get right I made a change and if you don't click update you don't get the you know yes you got a click update then it now you now it's turned on and now it's running all right so now you've got the pause button up here and so it"
+    },
+    {
+        "start": "00:05:31.920",
+        "end": "00:05:58.920",
+        "text": "just says pause so if I have to manually pause it but you but you're saying that and you can short right now you can literally click it because as long as you don't update it nothing will happen and then you can click it again it's basically so now it would be pause if you click it again it's so it's it's unpossed but okay but I have to click it and then hit update and then that tells the system do you know implement might change right but then yeah that's correct okay but then other but you've got this new button which I just noticed"
+    },
+    {
+        "start": "00:05:58.920",
+        "end": "00:06:25.800",
+        "text": "which is nighttime pause and that's what you're talking about right yes that you know that's for people if they just want to turn it off like yeah there and in the morning it would be turned on automatically so oh okay so so if I if I want to just turn it off at night I just click nighttime pause hit update right like I'm doing right now and then it's going to then pause it or just for"
+    },
+    {
+        "start": "00:06:25.800",
+        "end": "00:06:52.320",
+        "text": "tonight or every night no that will be for every night then you know because the settings are for all nights it doesn't distinguish between Monday Tuesday Friday etc so okay so it's gonna stay paused every single night but when the daytime comes it's gonna be pumping 600 right at seven to seven okay yes and then you can just click it again and click update and then it won't happen"
+    },
+    {
+        "start": "00:06:52.320",
+        "end": "00:07:19.320",
+        "text": "anymore so however you like it again turn off nighttime pause right now click update and then nighttime pauses turned off okay so you can so okay that's a great I love that feature has a really good idea all right so if you want to pause it like until you want to turn it back on use the top button but if you want to turn it off at night then click this always remember to hit update to implement your change and then it will continually pause it at night until you"
+    },
+    {
+        "start": "00:07:19.320",
+        "end": "00:07:47.680",
+        "text": "say stop and you want to turn back okay all right great yes at this point it just just as an information if there's anyone new right now watching so and most people probably do it because we we really give a notice but the service does not start until you have updated your time zone the first time so you need to go into this my account my subscription and then pick your time zone"
+    },
+    {
+        "start": "00:07:47.680",
+        "end": "00:08:15.320",
+        "text": "okay where you currently add and then click update and then only then after about five minutes the service starts and again we tell people in an email and but you know is that this is are you talking about this time zone right here yes because I just realized I forgot to set it okay all this time I've been American New York well I'm in American New York but I'm so you updated the"
+    },
+    {
+        "start": "00:08:15.320",
+        "end": "00:08:42.760",
+        "text": "service in general so it you should have been on some time zone right right yeah yeah I'm on I'm on Eastern but I'm actually central I did I just I just noticed that I got the wrong I did the wrong one on me so I'm US central so now I hit you as central click update okay yeah great point thank you for pointing that out it's still work for you it's still work yeah I'm just an hour off date before and yes oh by the way now daylight savings is next right there"
+    },
+    {
+        "start": "00:08:42.760",
+        "end": "00:09:12.000",
+        "text": "well this weekend so for daylight does it that doesn't affect anything right as long as you've got if there's no time zone daylight savings is irrelevant because you're still in the same time zone and your hours are still the same right correct I think there's just yeah yeah I think that that won't change anything okay all right cool all right so the next one is mobile optimization yeah so that you know it's just something where you know in the"
+    },
+    {
+        "start": "00:09:12.000",
+        "end": "00:09:37.000",
+        "text": "beginning when we launched there on mobile there were just some things that didn't look that great and some words were like on top of each other and so that that's been fixed and I mean for a while now but at least we wanted to mention it okay all right so it looks better on mobile there's but there's no app right now we'll talk about that in a second but that's that's when you say mobile you're talking about mobile browser right yes correct yeah the app"
+    },
+    {
+        "start": "00:09:37.000",
+        "end": "00:10:05.440",
+        "text": "will be launched I think we'll have it in January okay I'm pretty safely because the thing is with with the app development and then you'll certainly know that that it doesn't make any sense for us to build out the apps while we're still working and implementing new functionalities so that really needs to happen beforehand and I think we're almost through like there's another two weeks of development with things that we're implementing roughly give or take"
+    },
+    {
+        "start": "00:10:05.440",
+        "end": "00:10:35.080",
+        "text": "and then after that hopefully we won't have any more change requests and then we'll start really building out the app okay you know you're you're you're never gonna not have change requests or I know yeah just yeah most fundamental that people really asked for that we wanted to get that in as quickly as possible yeah I yeah exactly I work in I work in an IT environment and there's three things in life that are guaranteed you know death taxes and change requests"
+    },
+    {
+        "start": "00:10:35.080",
+        "end": "00:11:00.000",
+        "text": "yeah okay so you're gonna and then okay so since we're on this you want to just talk about this so are you should developing it for the iPhone and the Android and you're looking at a quantum upgrade app coming out in January is that kind of the goal at the stage yes that's cool and again it will be for both of those platforms and I think it'll be it's already now convenient you know and"
+    },
+    {
+        "start": "00:11:00.000",
+        "end": "00:11:26.320",
+        "text": "just a hint you know you can click on remember me and then you can you basically stay logged in I think maybe like once a week or once every two weeks the system throws you out I don't know why that happens but then you have to log in again but usually you can stay logged in it that's already very convenient but obviously an app is even easier to deal with and then if we're talking in the future to also change frequencies and stuff like that we just"
+    },
+    {
+        "start": "00:11:26.320",
+        "end": "00:11:55.280",
+        "text": "thought that's that's much more customer friendly okay no that's great that sounds good look forward to that okay so let's see we're talking about that's mobile and then now you've got an automated unlocking of higher booster levels can you explain that yeah so I think that will be exciting so there will be a bar where you should and you can go to that page again well yeah exactly and just will hire a little bit please and a little bit a little bit"
+    },
+    {
+        "start": "00:11:55.280",
+        "end": "00:12:20.520",
+        "text": "more yeah almost yeah and then underneath this green big bar there it will be additional bars okay it will show you you know how long have you been you know subscribe basically and it will show you how many days are left until you will be automatically unlocked for the 1,200 booster levels which at"
+    },
+    {
+        "start": "00:12:20.520",
+        "end": "00:12:48.800",
+        "text": "this point is set for 90 days and then after 120 days total you you will be unlocked for the levels 1,000 and 1,100 for the regular day and night time you know where I don't recommend it for night times but yet least for the day times you could set that basically for your whole day and yeah and then you"
+    },
+    {
+        "start": "00:12:48.800",
+        "end": "00:13:17.360",
+        "text": "know possibly as we move forward there will be other things that can be added or will be added and certainly none of us know what happens in a year right or two years because the energies are are changing and their consciousness levels are increasing and they're increasing quite rapidly so it may well be that we'll have those I don't know 1,200 booster levels already after 30 or 60"
+    },
+    {
+        "start": "00:13:17.360",
+        "end": "00:13:43.640",
+        "text": "days in one year or two years so we we wanted to build this so that we can at least have that feature but the actual values will need to see how we keep up with those but right now as of right now those are very very strong values so what Wendy when when can we you know the user group expect to see this change in the way that manage boosters I think within the next two weeks okay all right"
+    },
+    {
+        "start": "00:13:43.640",
+        "end": "00:14:13.560",
+        "text": "so let me just so just to clarify again we're gonna be able to basically set them like we do setting regular right you'll be able to turn them on and off with it with a timer and set different okay so just your scale basically will have more options yes okay okay and then yes okay so this will be a lot more customizable I guess is the best way to say it in a few weeks so look forward to that and you know by the way since I'm here I just want to clarify"
+    },
+    {
+        "start": "00:14:13.560",
+        "end": "00:14:41.460",
+        "text": "something we get questions in the in the chat group quite often when they click on here and they see three numbers so just be aware that the top number is was what it's set to right now all right and the reason that it repeats is because these are your choices these two bottom ones are your choices so far would it just say oh I want 1100 you see how it changes now and now it's 1100 and then and then I guess well yeah I didn't I didn't hit update but these are your two choices okay so that's why you've got it said you know that's why"
+    },
+    {
+        "start": "00:14:41.460",
+        "end": "00:15:08.360",
+        "text": "they doubt it repeats now since we're here if I wanted you know there is an option to get a 1200 Hawkins booster and is that still available because a couple of months ago or whatever we had to email support to have 1200 added is that something that's gonna be put into the change you're gonna do or is that so something that if I want to be able to have 1200 as option I need to email"
+    },
+    {
+        "start": "00:15:08.360",
+        "end": "00:15:33.200",
+        "text": "for so everyone will be automatically unlocked for the 1200 booster levels after 90 days after 90 days okay all right and then for the new folks you want to explain why I mean let's talk a little bit about boosters because you know there's lots of people in there that like I want to boost every hour and it's like no that's not a good idea so and you know so how what what what is"
+    },
+    {
+        "start": "00:15:33.200",
+        "end": "00:16:01.360",
+        "text": "your recommendation on the best way to use these boosters yeah so first of all it's important to understand more and stronger isn't necessarily better because it really depends on the individual and everyone is literally different that's why we also can't say well everyone should do a 1200 booster once a day or something like that it's impossible to say because it's different for each"
+    },
+    {
+        "start": "00:16:01.360",
+        "end": "00:16:30.520",
+        "text": "individual so what is right for you is different for me and is different for crew and is different for someone else and everyone needs to just play around and find the right you know levels for themselves start with the default levels in general if you're totally new to this do that for a couple of days or so and then at some point play with the boosters so that you can feel this extra"
+    },
+    {
+        "start": "00:16:30.520",
+        "end": "00:17:00.440",
+        "text": "boost of energy and you will feel it at some point you will feel it you know there's some people that are really hard in their physical that have a very hard time feeling energy but with the boosters playing with those at some point you will feel it because you can find you in your senses further and don't start with the highest booster start with the lowest booster at first and then just see how you do drink extra water and then over time you can just play"
+    },
+    {
+        "start": "00:17:00.440",
+        "end": "00:17:27.880",
+        "text": "around with this and then if you want to do two boosters a day you go do two boosters a day but doing it like all the time really it those are very very high vibrational levels and be underestimate that because it's not like you know electricity is something you you feel there's a lot of like physical things that that you feel so strongly this is subtle energy so a lot of people have"
+    },
+    {
+        "start": "00:17:27.880",
+        "end": "00:17:54.160",
+        "text": "issues feeling it but that doesn't mean it's not working it's actually working extremely powerfully and it can bring up stuff so if you're over doing it you can run into detox effects you can run into situations where just so many inner processes are started that you know I don't know there's a childhood trauma for example that comes up and I don't know you're suddenly running into big"
+    },
+    {
+        "start": "00:17:54.160",
+        "end": "00:18:20.760",
+        "text": "issues with your best friend and with your wife and with your kids all at the same time because it's all related to the same issue that you know you're having to work through something and transform something in regards to relationships that's that's really within you and now it's surfacing everywhere suddenly and and and you feel maybe miserable for a little bit because suddenly you're having all these issues that are coming up in your"
+    },
+    {
+        "start": "00:18:20.760",
+        "end": "00:18:48.360",
+        "text": "relationship but what's actually happening is that it inner process and inner topic that hasn't been resolved yet is surfacing and so if we if we work with the quantum upgrade this energy supports the transformation of these things that I call it's the stuff that we have in our backpacks and the you know that that weigh on us and some of these things release on their own and transform"
+    },
+    {
+        "start": "00:18:48.360",
+        "end": "00:19:15.600",
+        "text": "on their own because it's literally just the subconscious working with the energy to do that but then there are things and topics that that need us to actually see them and to recognize them and then with an understanding and awareness to release and transform them that everyone has those I have those two I still know even today I have those things you know there's you know it's"
+    },
+    {
+        "start": "00:19:15.600",
+        "end": "00:19:42.840",
+        "text": "not all the time or something like that but hey you know maybe every other month there's something where I feel like damn I don't feel good like what is this and then it stays for a few days and then I noticed by not feeling good there's something deeper so I try to go deeper try to figure out okay what is it what's coming up and and then as you're doing that through that process that's when you release it but those things you don't want all of those things"
+    },
+    {
+        "start": "00:19:42.840",
+        "end": "00:20:11.640",
+        "text": "to bubble up at the same time because it's there can be nerve-racking right it's just too much that's being nice and loving to ourselves and that's what I'm saying those are the types of things that people sometimes underestimate yeah and that's certainly what would happen if you said it 1,200 booster in the beginning all the time and that's why we also have this restriction you know after 90 days you'll be unlocked if there's someone that has already had you"
+    },
+    {
+        "start": "00:20:11.640",
+        "end": "00:20:40.280",
+        "text": "know two infinity blocks for a long time and is very used to it had put his picture in the blocks for many times if you want to get unlocked earlier yeah keep sending an email to to support and they'll unlock you of course so we don't want to not have these exceptions yeah you know that thank you for that that's a really good explanation of what the boosters are I think there's a lot of misconception from what I'm reading in terms of poll boosters people think of"
+    },
+    {
+        "start": "00:20:40.280",
+        "end": "00:21:09.520",
+        "text": "it like an energy drink but you know a quantum energy which it is also it is also right but yeah yeah that's the other side of the coin yeah I'm glad you're bringing it up because certainly I don't want people to think well this is just to you know bring up your stuff because that's not the case it really is you know I mean we've had this this guy tell us that he drove I guess 21 hours with his car from West Coast to East Coast and and he would set like one"
+    },
+    {
+        "start": "00:21:09.520",
+        "end": "00:21:33.480",
+        "text": "booster after another and damn he stayed awake he stayed completely focused like the whole time and he said like I'm not even getting tired this is crazy this is amazing right but he over did it and yeah actually got sick after that when he when he when he arrived like I think a day later he was like sick for two days and I could have told him beforehand like you're overdoing it because you're"
+    },
+    {
+        "start": "00:21:33.480",
+        "end": "00:21:59.760",
+        "text": "you're just putting too much on to your system but I mean if you said a booster or two or even three if you have you know something going on I do that sometimes too like I feel exhausted in the afternoon and I still have to do something like okay you know I'll just say the booster it gives me more energy gives me more focus I can get stuff done and that's what you can use it for and while we're at it maybe if you're interested I'm going to give people some"
+    },
+    {
+        "start": "00:21:59.760",
+        "end": "00:22:27.080",
+        "text": "some ideas on how to leverage the boosters oh yeah please because yeah I I think that's the booster seems to be the one thing that everybody has a lot of questions about so yeah please keep going yeah so so here's what I do for example and whatever recommend to to others so if you set a booster that means you have a lot more energy available than in your usual settings and that energy"
+    },
+    {
+        "start": "00:22:27.080",
+        "end": "00:22:52.960",
+        "text": "wants to be used right so what it is doesn't really matter I mean you can go into a deep meditation if that's what you what you want to do and that's what you feel you want to do another thing you can do is write a list of the one two or three things that you've put off we all have these things right there's some stuff that needs to be done and we're not quite doing it and it starts to drag"
+    },
+    {
+        "start": "00:22:52.960",
+        "end": "00:23:21.640",
+        "text": "on our system because it's sort of this block it's it's blocking us on a certain level because we're not getting it done we know we need to get it done and it's like hanging there you know what I mean so write those on the list and then tell yourself okay I'm gonna set this booster now and I'm gonna start working on this list and you set your booster and you start working on it you'll see how amazingly that will flow you're gonna get it done you're fully into it and there's"
+    },
+    {
+        "start": "00:23:21.640",
+        "end": "00:23:48.920",
+        "text": "so much energy that's released and it makes you feel really good and then you got the power to do that I don't know and if it's just you know cleaning up a certain room that you haven't cleaned up for a long time whatever it may be and so those are some things where you can leverage this specific energy or you're you know if there's something you're in self-discovery mode right now and there's something you just you know you wanted to always write down your thoughts"
+    },
+    {
+        "start": "00:23:48.920",
+        "end": "00:24:13.080",
+        "text": "your creative thoughts on something you know then go do it just you know set set the booster and and go do it but it doesn't mean you need to be very active again you can be in a meditation or something like that or you do sports and you want to have have this booster so those are certain ways on how you can leverage it but just know you have a lot more energy available so you can"
+    },
+    {
+        "start": "00:24:13.080",
+        "end": "00:24:39.360",
+        "text": "actually really leverage it with intention okay so not only just you know placing your intention by creating this list but what did you recommend to you at that at that moment in time let's say at noon today I you know I just really want to get a you know a document finish that I have to turn it in or something and but I've been procrastinating so would it be just not only just writing it down but"
+    },
+    {
+        "start": "00:24:39.360",
+        "end": "00:25:08.520",
+        "text": "at noon when noon comes up then I just kind of center myself and then connect you know to that intention with my you know consciously just saying okay I'm gonna do it I mean you have to be in actively involved or just writing it down and setting your boosters good enough you see what I'm saying yeah one leads to the other I think because if you're setting the intention that you're gonna you know work on this list of the three things you know you're you're most"
+    },
+    {
+        "start": "00:25:08.520",
+        "end": "00:25:38.480",
+        "text": "likely actually also going to follow through okay all right so and then you're obviously the action needs to be taken and that's one of those things in general about the quantum upgrade that you know I also mentioned in the interview with with Ariana summer it's you know we are still the drivers of our life we're the co-creators and and that needs to stay that way so if if I eat"
+    },
+    {
+        "start": "00:25:38.480",
+        "end": "00:26:07.400",
+        "text": "bad I only eat junk food I I never do fitness I don't go out into nature you know I just sit on the sofa watch TV and eat junk food all the time and that's pretty much all I do and then I set the and I'm in bad shape and bad health because of it if I set the quantum upgrade and then I keep doing the same stuff I've been doing I cannot expect that my life will significantly change"
+    },
+    {
+        "start": "00:26:07.400",
+        "end": "00:26:33.760",
+        "text": "I will have the energy available to start initiating these changes but I'll I still need to do certain things right certain things will will happen through the energy on its own but we're still conscious beings that need to take action and we can also decline right to do things but right but I think we're called to maintain the drivers of this and not give up the responsibility to a"
+    },
+    {
+        "start": "00:26:33.760",
+        "end": "00:27:03.360",
+        "text": "service or something no the service is a tool but we we work with the tool if that makes sense yeah no it makes sense I think I think you know like our general frame of reference as humans we've been kind of brainwashed into thinking that you know you need to do something take a pill and the pill will do whatever the pills supposed to do but quantum energy is not a pill it's consciousness it's the energy of your own consciousness and tying to the universal field right I"
+    },
+    {
+        "start": "00:27:03.360",
+        "end": "00:27:31.280",
+        "text": "mean it's you have to be engaged with it you have to let's I guess want it and and okay yeah I mean I get it I you have to you have to be part a participant in your own change you know it's like if you take a towel and all the towel is gonna do what the towel and all does right but if you set up a all this all this time and effort and sign up for the service and you don't you don't put the energy into you know participating in the change it's not gonna happen"
+    },
+    {
+        "start": "00:27:31.280",
+        "end": "00:28:00.000",
+        "text": "which is completely different than a chemical so is that is that a fair assessment that's how I look at it yes yes to an extent absolutely to an extent absolutely certain things again happen regardless right they you know like things with the blood with the heart rate variability yeah yeah you feel more energy those things they happen and there's no placebo effect right so whether you believe in it or not whether you participated in it or not"
+    },
+    {
+        "start": "00:28:00.000",
+        "end": "00:28:23.600",
+        "text": "you will have it but what this does is that your own consciousness is getting way into the state of okay so now now what now what in my life now what's the like next step what's the what's the right thing for me to do and if we then start blocking that that's not gonna help us so that's the moment where we"
+    },
+    {
+        "start": "00:28:23.600",
+        "end": "00:28:51.680",
+        "text": "need to participate that's where we can initiate change and all of that and yeah so that's pretty much how I would explain it no yeah that's great that's that's perfect thank you for expanding on that now let's see next one here is the share function so there this is a new thing that's coming up right and is it gonna come up in a couple of weeks well or I was under the impression that's"
+    },
+    {
+        "start": "00:28:51.680",
+        "end": "00:29:20.440",
+        "text": "already alive but it may may take another week or two indeed but it definitely within the next two weeks this will be available let me provide an update in the group in the next couple days once I double check with the tech team but so this is the function that people ask for let's say a dad signs up you know hit himself his wife and his two kids and but you know the he doesn't want to manage it for the kids they the kids should manage it on their own"
+    },
+    {
+        "start": "00:29:20.440",
+        "end": "00:29:49.600",
+        "text": "right so then but he doesn't want the kids to just see all of his subscriptions or maybe it says or I don't know yeah yeah and and so now there's a functionality that they can also sign up he can basically share it with them okay and then they will get access but only to this one subscription that is for them they won't see anything else that the dad has and also won't be able"
+    },
+    {
+        "start": "00:29:49.600",
+        "end": "00:30:18.560",
+        "text": "to make any account changes and stuff like that so I think that's a good feature that people want to do that yeah that is that's fantastic because that's the biggest question is like I want to help my friend but how do I I don't want to give her my password so how do I how does she get to set her own settings all the time without involving me perfect okay that's great that's gonna be really helpful new feature coming up so okay so be on the lookout for that feature that's great good to hear that one okay now the next thing you want to talk"
+    },
+    {
+        "start": "00:30:18.560",
+        "end": "00:30:46.720",
+        "text": "about today was what's coming up with the frequencies get a lot of questions about this in terms of adding frequencies to the quantum upgrade service so we're looking at what Jan December to January and so how is that gonna work yes so I think we're looking at January but we're we're yeah it may be December to be honest and the way it's gonna work is that there's going to be like an extra"
+    },
+    {
+        "start": "00:30:46.720",
+        "end": "00:31:11.920",
+        "text": "product that you can purchase that I don't have any details about yet because we don't know how many frequencies will be part of that and I don't know the cost of that we want to make it affordable but there's certain things we need to look at and so this but technically it has to be an additional product otherwise it technically wouldn't even work and then you will have"
+    },
+    {
+        "start": "00:31:11.920",
+        "end": "00:31:39.200",
+        "text": "let's say there's eight frequencies in this frequency product if you will then that's pretty much appears as a drop down in your my account you know what we looked at earlier together that's where you will have frequencies and drop down and you can pick one frequency only one at a time obviously okay and and some"
+    },
+    {
+        "start": "00:31:39.200",
+        "end": "00:32:08.920",
+        "text": "user asked well would it be possible for you to build it in a way where we can set a specific frequency for the daytime and one for the nighttime so now we're also trying to implement that so I think that will be possible that feature and then you can say okay I want the bio-based frequency for or the heal frequency for the day and I want the inner piece frequency for the night as an example okay and then certainly you will have the option to also turn it off"
+    },
+    {
+        "start": "00:32:08.920",
+        "end": "00:32:32.720",
+        "text": "turn the frequency off again okay well that's great I that's yeah something that everyone I see so many people asking about this so you'll be able to customize it just like a booster and add it to your day and night so like if I set a frequency for heal and I just say daytime then it's going to run this like right here it's going to run all day for these hours and then the"
+    },
+    {
+        "start": "00:32:32.720",
+        "end": "00:33:02.360",
+        "text": "nighttime one okay cool that's gonna be great okay that's coming up to really exciting let's see we talked about cell phone so let's talk about this next was the studies you've got some updates on some of the studies that you're running of the upgrade service and I'm excited to hear about that this is where I really piqued my interest but so what are you finding now yes so we're working currently on a lifeblood analysis study that's and that's happening in Austria"
+    },
+    {
+        "start": "00:33:02.360",
+        "end": "00:33:31.560",
+        "text": "with animals so this is very very exciting actually but it's it's also difficult to do because you can imagine that you know animals they're not especially keen on getting you know a job of their blood take and and things like that and so it's a lot of things and you know that you know your your daughters in that field so it's it's interesting but there's a very very"
+    },
+    {
+        "start": "00:33:31.560",
+        "end": "00:34:01.080",
+        "text": "experienced vet in Austria quite famous one and she is running this study so together with the Basa Institute so they're basically collaborating on this project and yeah I have no idea how it's going and I don't know when it's gonna be completed but my guess is it will be completed this year and that we will then also be able to share those results and that's gonna be very"
+    },
+    {
+        "start": "00:34:01.080",
+        "end": "00:34:24.400",
+        "text": "interesting so go ahead I'm sorry I was just gonna ask so it's kind of like you've got the you know the the quantum upgrade service for dogs and so now you're actually running studies on how that affects the dogs yes correct yeah even though it's it's not gonna be just dogs oh I think they have cats as well"
+    },
+    {
+        "start": "00:34:24.400",
+        "end": "00:34:53.040",
+        "text": "and they may even be horses involved so yeah I just know the rough with these studies we only usually know the rough things that they're gonna test and everything else is really always up to the institutes to to do and then we're just waiting holding pattern and then we'll hopefully have good results okay yeah you know I and I got to ask you right now because people ask all the time"
+    },
+    {
+        "start": "00:34:53.040",
+        "end": "00:35:20.800",
+        "text": "but you know is there a time frame for adding cats and horses and livestock to the other cats already oh you added it okay okay okay so cats are ready on the service so now it's just a matter of livestock or other pets right yes and I don't even know if we will do it or when okay yeah so if there's yeah I think maybe horses is definitely something we could do and then with I don't know"
+    },
+    {
+        "start": "00:35:20.800",
+        "end": "00:35:43.680",
+        "text": "chickens that would require actual that I think the names of the chickens if they really have names and things they've made maybe a little bit more complicated okay I can imagine okay okay so now we've got this other study ATP production and cell regeneration yes that's an interesting one so that's"
+    },
+    {
+        "start": "00:35:43.680",
+        "end": "00:36:12.000",
+        "text": "actually iron Mitchell works with the lab and that lab is focused on you know fibroblast testing fibroblast you know they look at certain things like cell generation ATP production all of that with actual human cells whether it's lung cells your skin cells like all those different types of cells and that's"
+    },
+    {
+        "start": "00:36:12.000",
+        "end": "00:36:36.760",
+        "text": "pretty much all what that lab does and I can already give here a quick quick overview of the ATP production test that was just run last week and within the first two to four hours the ATP production increased by six percent in the charged cells which six percent may not sound like a lot but it actually is"
+    },
+    {
+        "start": "00:36:36.760",
+        "end": "00:37:05.720",
+        "text": "quite a lot and it's it's significant it's a big difference to the normal and ATP production is something that athletes for example yeah pay a lot of attention to right so you have a great ATP production and so this is just another way of showing what actually happens and this ATP production is basically the energy production of the cell right it's not the energy that you have extra"
+    },
+    {
+        "start": "00:37:05.720",
+        "end": "00:37:30.120",
+        "text": "available as a system it's then okay does it sell itself then even increase its energy production right that is the question and the the answer so far is yes they have to be more tests because when we look at longer time frames also and certainly more tests I think right now those would was like four four samples"
+    },
+    {
+        "start": "00:37:30.120",
+        "end": "00:37:59.320",
+        "text": "so far so we want to do more samples and then the cell regeneration it's still something ongoing okay and so this is for the upgrade service for you right so somebody were to subscribe right now I guess is you subscribe for the you then what you're seeing right now in the lab and the studies ongoing is that it does it actually does when turned on increase self ATP production which is yeah basically you know for the pets as well right yeah definitely make that I mean"
+    },
+    {
+        "start": "00:37:59.320",
+        "end": "00:38:27.040",
+        "text": "I'm making that assumption absolutely right if this works as well for ATP production right yeah sure we're all mammals - you're all mammals that's amazing because ATP production is typically a bioelectric functionality of electrons hitting the mitochondria and the chondria you know generating energy for the cell so that's pretty cool that you're actually on some energy manifest in the physical reality on the you know realm right so wow that's gonna be a"
+    },
+    {
+        "start": "00:38:27.040",
+        "end": "00:38:51.960",
+        "text": "killer study look forward to reading that one but yeah that's wow that's pretty amazing what about brainwave testing I mean what's who's doing that and how's that coming so there's gonna be a hopefully a regular brainwave testing going on we don't know yet who will do that there there's a guy actually out the telegram group yeah I saw that post right yeah he had reached out and so if"
+    },
+    {
+        "start": "00:38:51.960",
+        "end": "00:39:19.200",
+        "text": "he's open to running some tests we're definitely gonna do that but there's going to be an actual study that will involve brainwaves as one of the aspects they'll be looking at I cannot say right now who does it but it's a it's a larger company that's in the biohacking space they have a product themselves that's that's pretty phenomenal it works really well and they're"
+    },
+    {
+        "start": "00:39:19.200",
+        "end": "00:39:46.720",
+        "text": "currently exploring with us to make their product even better if it's if the quantum upgrade is is added to that so so that's something that will be conducted most likely in November and or December okay that's brainwave or is that also the professional athlete study because no that's a separate one the application that's the brainwave testing that's it's gonna be hard rate"
+    },
+    {
+        "start": "00:39:46.720",
+        "end": "00:40:09.600",
+        "text": "variability is going to be brainwaves with EG and I think the third and possibly a fourth aspect that they will look at but at this point I can't share who the partner is okay yeah but I will at that time okay so the professional athletes study would be the next one that's gonna be happening next year in"
+    },
+    {
+        "start": "00:40:09.600",
+        "end": "00:40:33.600",
+        "text": "Austria and it will look at things like you know increasing performance you know how do you say that faster recovery times will involve blood and things like that possibly even ATP production as well okay all right that's awesome any any"
+    },
+    {
+        "start": "00:40:33.600",
+        "end": "00:41:00.160",
+        "text": "plans for doing like a D-timer test to see if the service has any effect on clotting yes we're we're working on that currently with the clinic in Florida okay and they're there right now actually finding patients for that so and the tricky part though is that they need to find patients that already have a bad"
+    },
+    {
+        "start": "00:41:00.160",
+        "end": "00:41:29.360",
+        "text": "D-Dimer test to begin with because if you already have great D-Dimer levels there's nothing to show right yeah exactly your tests would show you fine so the D-Dimer wouldn't show anything right because that's what the D-Dimer actually showed that micro blood clotting and if you don't have micro blood clots then okay and showing you think so it's pointless and so they're finding these patients right now and I don't know where that stands but"
+    },
+    {
+        "start": "00:41:29.360",
+        "end": "00:41:52.240",
+        "text": "yeah hopefully they'll have enough patients relatively soon and then I would guess that sometime in Q1 we can have results okay all right that's all pretty pretty amazing and I just want to say you know for everyone listening to this video that you know you're not gonna find very many if any companies in"
+    },
+    {
+        "start": "00:41:52.240",
+        "end": "00:42:20.720",
+        "text": "this space right that spend so much time energy and money to conduct study after study after study to back up the claims that are made about the product and I just want to applaud you Philip because it's the reason I love you it's a reason I love Layla you know because because there's there's proof I mean I'm really right-brained I'm very you know methodical and and I'm"
+    },
+    {
+        "start": "00:42:20.720",
+        "end": "00:42:49.520",
+        "text": "very right-brained and I bought in from the beginning because of the of your dedication to saying hey this is real let me prove it to you and and just all of this I mean who else does this level of studies I mean I don't know if anybody else that does other than you know I mean people trying to you know sell medical devices right but but yeah it's just amazing and the results are unbelievable but I applaud you this is great I'm really looking forward to and"
+    },
+    {
+        "start": "00:42:49.520",
+        "end": "00:43:16.160",
+        "text": "then of course anyone who's interested there already have been studies these are not the first ones so as an FYI if you go into the quantum upgrade website there's a section there of the research that's been done and the original studies that were done to prior to launching the product and and the great enhancements and blood and all that other stuff that already back up the claims and these are just more studies so it's just this amazing yeah thank you okay so that's"
+    },
+    {
+        "start": "00:43:16.160",
+        "end": "00:43:43.320",
+        "text": "that one and then the last one here you want you wanted to kind of announce to the community is that you're launching a trauma release product as part of the quantum upgrade service could you kind of describe that because I think that's something that is also brought up a lot in the community as to you know how do they work with trauma and I think it's I don't know if any human being hasn't had any kind of trauma so I think this applies to all of us and I'm personally"
+    },
+    {
+        "start": "00:43:43.320",
+        "end": "00:44:11.680",
+        "text": "really interested so what is this going to be about yep so this is going to be probably added to the queue as well as to quantum upgrade because it's it's going to be probably technically working separately from the quantum upgrade but so we haven't figured that out it's it's it's not as easy to just implement it and I think it'll be rather towards the end of queue one when we can"
+    },
+    {
+        "start": "00:44:11.680",
+        "end": "00:44:39.120",
+        "text": "launch it and so the back story is that there's a pretty famous healer from Austria that I've gotten to know at some point in his soul and main focus since about 20 years has been to work on on traumas with people so and and any time any type of trauma it doesn't really matter what type and he's bit he's able"
+    },
+    {
+        "start": "00:44:39.120",
+        "end": "00:45:07.000",
+        "text": "to basically transform within 30 to 45 minutes with some tech that he's built and his specific abilities there's specific process actually to go through and he bring it's not that is just solved and transformed like in the just in the energetic in the subconscious but no he he literally takes us into the"
+    },
+    {
+        "start": "00:45:07.000",
+        "end": "00:45:31.800",
+        "text": "consciousness as well where the the person realizes what happened why it happened and and why it was important and and now that it's changing so much energy is being released because this trauma is indeed solved and and you literally feel this influx of energy suddenly because this trauma is gone so"
+    },
+    {
+        "start": "00:45:31.800",
+        "end": "00:45:59.760",
+        "text": "that's it's very profound work that he's doing and then we spoke and we actually connected what he's doing with what we're doing and it was almost as if these two like energies like loved each other like incredibly and it's now possible to do this within five minutes well and we tested that over and over"
+    },
+    {
+        "start": "00:45:59.760",
+        "end": "00:46:25.920",
+        "text": "again and it really applies to to to any type of trauma and which is very profound and and by the way I mean it doesn't need to be this huge trauma that we're aware of we had a car accident and you know my mother died and then I survived it you know that that's like a very tough trauma that we're still aware of but there's hundreds of other types of trauma that that we have you know from"
+    },
+    {
+        "start": "00:46:25.920",
+        "end": "00:46:55.680",
+        "text": "childhood you know could be the past life traumas and and other things that are not as like deep but they still block us right so there's just a whole bunch of stuff that we can go through and this will be a tool where we can sit on the sofa literally at home not eating junk food please but then go through then go through this process and and just work through it and get it"
+    },
+    {
+        "start": "00:46:55.680",
+        "end": "00:47:25.280",
+        "text": "done and get it released so I think it's going to be great and yeah so we're looking forward to that we'll provide more information as we get closer to that and and how we'll roll it out okay thank you because I know people have been asking I think you mentioned a trauma product a few videos ago and people continue to ask about it you know you can see that it's top of mind for a lot of folks which is you know it's sad that you know so many people are suffering from it but what you just described is is wonderful and I'm"
+    },
+    {
+        "start": "00:47:25.280",
+        "end": "00:47:53.480",
+        "text": "really looking forward to that and and for anyone who's out there that that may not you know I'm a tinker I study research greed all the time and if you want there's a really interesting TED talk out there on YouTube where it's a psychologist or psychiatrist talking about studies that was done a study that was done a very detailed study on actual how trauma can shorten your life they did a study in like 17,000 people and they showed that people who carry trauma"
+    },
+    {
+        "start": "00:47:53.480",
+        "end": "00:48:22.640",
+        "text": "with them live shorter lives and are more prone to disease you know so trauma can affect you more than just ruin your day it can affect your life physical longevity it is something that you need to take serious find a way to work with it however you can but I'm really excited that this product is coming out I think it'll be incredibly beneficial to so many people but yeah that's great okay I'd be very interested in this study actually yeah okay yeah I'll send you the"
+    },
+    {
+        "start": "00:48:22.640",
+        "end": "00:48:51.640",
+        "text": "link to the video yeah it was I was I just you know cuz I have my I have my other tg group right and so I every now and then I jump in there and I do a little mini study and I post a bunch about just trying to share knowledge right and so I think it was like a last week or something I did a thing on mind viruses and and I found that video and it's pretty amazing but you know there's also the concept of a mind of virus which is another way as another person who works with as a healer they talk about you know trauma is a mind"
+    },
+    {
+        "start": "00:48:51.640",
+        "end": "00:49:21.120",
+        "text": "virus and how it affects your your bio field and all of that and how it affects your life and I brought in the physical aspect of it with the Ted's you know so I kind of did that right just to kind of really try to help people understand the importance of dealing with people's trauma because you know I don't know well you know this right as as an adult male or male in our society we're taught we're taught to bury everything right I mean I'm sure as a healer you you've worked with so many men and we're all tautages you know walking off you"
+    },
+    {
+        "start": "00:49:21.120",
+        "end": "00:49:50.800",
+        "text": "know shake it off and and you know and we're not allowed to you know society does not allow us to express whereas you know whereas women typically it's acceptable and so you've got a lot of men I mean a lot of men are carrying everything that ever happened to them their entire life and they carry it with them their whole lives and maybe I'm not just speculating maybe that's why men die sooner than women because you know there's some correlation there right because men are taught men are taught not to deal with trauma men are taught to"
+    },
+    {
+        "start": "00:49:50.800",
+        "end": "00:50:15.160",
+        "text": "bury it and move on and we all die we all die sooner than women gee what a surprise so I think it's something yeah very important I think this will be a monumental service and a good point and then if we think about our kids it's like these things we usually pass on to our kids as well so yeah that's something so it's it's really you know if we do the work you know it's not only"
+    },
+    {
+        "start": "00:50:15.160",
+        "end": "00:50:44.760",
+        "text": "benefiting us it's it's really also benefiting our kids yeah oh yeah there's a whole discussion on parenting and she you know where there's where does the original she come from every time someone's born and all that yeah how much you carry forward all that stuff but yeah that's the thing I was trying to I was trying to talk about us traumas like I knew mentioned it is like some of your traumas are not from this lifetime and and if you have an irrational fear that you have no basis for yeah you probably brought that with you into this"
+    },
+    {
+        "start": "00:50:44.760",
+        "end": "00:51:12.600",
+        "text": "lifetime like I haven't I have an irrational fear of high up not I don't have fear of heights I have a fear of falling from heights and I don't know where because I you know I know my entire life I never fell in you know I never fell down from anything high but why do I feel that way and it's it's beyond you know it's it's terrifying to me you know and yeah and I'm all I could think of this man I must have brought that with me because I have no reason to be afraid of falling from heights you know I know so yeah I share that one"
+    },
+    {
+        "start": "00:51:12.600",
+        "end": "00:51:42.520",
+        "text": "actually I share that one so yeah so when when Kuan and I were in Italy and now this last summer there's this one at the Amalfi Coast there's this one hike it's called the path of the gods and it just sounded so absolutely amazing and and we said that we're gonna do it so we started at 6 a.m. in the morning and but then you go up all the way and it's literally there's no for about an hour"
+    },
+    {
+        "start": "00:51:42.520",
+        "end": "00:52:10.680",
+        "text": "there's nothing on the side and it goes down like hundreds of meters like straight and these cliffs and yeah in between I felt like I can't do it you know I can't do it but but I did it eventually and it felt really good and I've probably released some of that trauma while just going through it but yeah I know how those fields it's so so crazy yeah yeah it's just weird yeah"
+    },
+    {
+        "start": "00:52:10.680",
+        "end": "00:52:37.480",
+        "text": "it's weird to have a trauma you know like a panic attack or anxiety about something that you have no idea why and then and then you start doing the inner work and you realize like oh it's not mine it's the last one and I gotta get rid of it and and and you know and and then trying to do that kind of work so yeah no great I am really looking forward to this product so but that okay so I know I want to be conscious of your time and you got a hard stop in just a few minutes so I just want to say hey thank you very much that was a great"
+    },
+    {
+        "start": "00:52:37.480",
+        "end": "00:53:01.720",
+        "text": "update lots of really cool new features new new services new products coming up this is a great update and I just want to say thank you Phil for your time this morning I think it's it's so helpful for the community to be able to share this and keep everybody up to date and with all the latest news so thank you so much for your time this morning thank you K you're amazing hey thanks a lot yeah I"
+    },
+    {
+        "start": "00:53:01.720",
+        "end": "00:53:28.560",
+        "text": "just I'm I'm the conduit they keep the community going yeah so and then thank God for Emma poor woman's overworked now that she's got two groups and we're fighting the spammers I you know I swear the spammers lately oh my gosh there's so many fake Phillips hey by the way did you know that there was a fake calmer I feel so like yeah I do feel like so adored now because now they're actually you know pretending they're spoofing me and I think I hit"
+    },
+    {
+        "start": "00:53:28.560",
+        "end": "00:53:55.600",
+        "text": "the time because Emma was laughing she's like you know you you really are you really made it in the internet world when people start spoofing you there's a fake calmer out there we had to kill and but there's fake Phillips popping up all the time so just a heads up in our telegram chat room we just want to remind you that nobody from Layla or even myself is gonna reach out to you unless you asked a question or you asked us something and we're responding"
+    },
+    {
+        "start": "00:53:55.600",
+        "end": "00:54:20.720",
+        "text": "directly to you but normally we're not going to just pop in and say hey hi how are you enjoying the certain we're not going to do that those are spammers so yeah if I get messages from people that just say hi or hello yeah yeah that's you know I block you know I go to the group right away ban them and and block them because no one does that that just says hi or right exactly and but I mean"
+    },
+    {
+        "start": "00:54:20.720",
+        "end": "00:54:46.080",
+        "text": "if you send a real sentence obviously that will never happen right yeah no I actually you know as a moderator I'm literally banning spammers like I'd say three to five a day sometimes it goes up to a dozen or two like we had a massive spam attack a couple weekends ago and Emma and I were throwing out like left and right it was just like I think we got hit by a bot or something and there was like about 24 to 30 fake accounts we were just you know and it was just this"
+    },
+    {
+        "start": "00:54:46.080",
+        "end": "00:55:15.520",
+        "text": "peak activity and it was crazy but you know that's part of life right there's never going to have life without people out there trying to scam somebody so heads up everybody but you know what doesn't detract from enjoying the service which is completely separate we're talking just about telegram and we do want to you know but it doesn't detract from join us on telegram if you got any questions about the quantum upgrade service that's where you can reach us for questions and support and anything else and so the links below to our"
+    },
+    {
+        "start": "00:55:15.520",
+        "end": "00:55:41.360",
+        "text": "quantum upgrade IO chat group on telegram you know definitely come and join us if you want to reach Philip that's where you're gonna find him and then for me I'm at the Tinkers Academy I'm I'm also in the chat group but you can always find me I have a blog where I basically post everything that I could post to support the Leila and that support the quantum upgrade website so I kind of have extra material there that they haven't had a chance to kind of fold into their"
+    },
+    {
+        "start": "00:55:41.360",
+        "end": "00:56:08.160",
+        "text": "website plus all my other videos about it so you can find out a lot about quantum upgrade and IO I mean quantum Leila tick on my blog so you know come on over if you want to talk with me I'm there Tinkers.academy and then lastly you know the one thing I do want to recommend for anyone out there that's on the fence and saying hey you know this is kind of pricey blah blah you know hey that don't forget there's a free trial okay so if you just want to try it just that's why"
+    },
+    {
+        "start": "00:56:08.160",
+        "end": "00:56:36.240",
+        "text": "there's a free trial no one's asking anyone to do anything you know you know that you know you're gonna lose money on that this is not about that this is about helping people so that's why the free trial I want to always emphasize that to everybody out there that you know hey definitely go try that you can try it before you buy it and get a feel for it and they're go from there but then that though Philip any parting words no just thank you to you thanks to Emma"
+    },
+    {
+        "start": "00:56:36.240",
+        "end": "00:57:03.800",
+        "text": "and thanks to everyone in the in the community for for participating for asking questions for for providing answers and and points of views and it's it's just amazing to see it's a great community and yeah I'm just very grateful yeah thanks everybody you know without you we wouldn't be doing all these new features and ideas so keep them coming I guess that's like you got a"
+    },
+    {
+        "start": "00:57:03.800",
+        "end": "00:57:16.640",
+        "text": "big enough list right now but you know what we welcome feedback so thank you everyone out there for taking the time to watch the video thank you Philip and and have a great day everybody Aloha"
+    }
+]

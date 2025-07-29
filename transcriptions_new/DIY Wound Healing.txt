@@ -1,0 +1,282 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.880",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kilmer and in this video I'd like to share with you my take on DIY wound healing and specifically a case study of a recent dog bite a pretty serious one that my daughter had on her hand and how we went about healing her wound without the intervention of you know visits to the ER physicians or antibiotics and"
+    },
+    {
+        "start": "00:00:27.880",
+        "end": "00:00:53.860",
+        "text": "that sort of thing and so you know just to show that it's completely possible to do so without having to risk your gut microbiome with antibiotics and or incurring all of the discomfort of having to deal with the modern health care system so but before I get into that case study and if this is for you if you're interested in that sort of thing being self-sufficient and being prepared for it I want to just do a little disclaimer that this is not"
+    },
+    {
+        "start": "00:00:53.860",
+        "end": "00:01:21.540",
+        "text": "medical advice this is my story our story and I also want to really strongly caution everybody when it comes to dog bites if there's any concern at all that the dog that bit someone or bit you could have had rabies then that person needs to get a rabies vaccine series immediately okay the the vaccines can prevent rabies but otherwise getting rabies is almost a certain death for you"
+    },
+    {
+        "start": "00:01:21.540",
+        "end": "00:01:47.380",
+        "text": "if the dog has it and so luckily in most situations people will know the dog that bit them the dog can then they will know whether the dog was vaccinated or not legally the dog would have to be quarantined for a couple of weeks in the case of my daughter the dog was known the dog had been vaccinated and so she was just well we treated her wound as a typical wound otherwise she would have"
+    },
+    {
+        "start": "00:01:47.380",
+        "end": "00:02:14.140",
+        "text": "to go get the rabies shots and so now if it's a loose animal and you don't know the dog you can't find the owner and that has happened to me and it just happened to a friend of mine just last week where he got bit riding his bicycle and he's undergoing rabies shots right now because he can't find the dog but you know usually animal control will find try to find the animal and you know they usually get put down if they have rabies and they you know that's kind of"
+    },
+    {
+        "start": "00:02:14.140",
+        "end": "00:02:42.180",
+        "text": "a brutal process but the bottom line though is it's a very serious issue when you get bit by an animal for the fact of the issue with rabies okay so take that very seriously but in this case I want to caveat that you know we chose as two adults my daughter is an adult to undergo do you know DIY you know a self- treatment you know and instead of going to a modern medicine you know practice"
+    },
+    {
+        "start": "00:02:42.180",
+        "end": "00:03:10.380",
+        "text": "process okay and then so our process here and and I just before I you know get into the what we did and how do you do it is you know trying to understand you know why why even do it yourself anyway so you know first of all where there's no doctor okay so there's a lot of situations where you know this is actually really good information to have if you're somewhere where there's just no doctor and I was raised by two very self-sufficient individuals who were"
+    },
+    {
+        "start": "00:03:10.380",
+        "end": "00:03:37.100",
+        "text": "raised in environments where their doctors were just not available father group on a farm my mother grew up in World War II and post World War II Taiwan and so in these environments you know just medical care was just not available also you know my father was an avid outdoors man I spent literally half of my entire childhood in the woods or on a boat and as things happened and they always do and I can tell you a countless number of times my sister and"
+    },
+    {
+        "start": "00:03:37.100",
+        "end": "00:04:05.900",
+        "text": "I got injured or something happened you know we just took care of ourselves you know our parents took care of us I learned from them also a lifelong scout and you know the motto of the boy scouts is always be prepared and that kind of morphed into being a preparedness individual and adulthood and so I've always really pride myself on being self-sufficient so I will always lean towards taking care of myself before I go out and seek the assistance of others if I know I can take care of it and that comes from experience and that comes"
+    },
+    {
+        "start": "00:04:05.900",
+        "end": "00:04:30.980",
+        "text": "from education which is what this video is you know kind of meant to do and so I pass that on to my daughter as well and she's actually a veterinarian student you know and so she's typically you know you know she's actually technically an allopath herself but she also knows that the number other the number two other reason about protecting your gut microbiome I mean she's aware of it I'm aware of it and I want to mention this for those of you who aren't really attuned"
+    },
+    {
+        "start": "00:04:30.980",
+        "end": "00:04:57.220",
+        "text": "to what antibiotics you know will do for you and also do to you and it's basically a shotgun blast your gut microbiome and your your gut is where all of these beneficial symbiotic bacterium live with live within you that are part of your process for digestion and health your immune system and so forth so there's this really important colony of stuff that lives inside of you"
+    },
+    {
+        "start": "00:04:57.220",
+        "end": "00:05:25.020",
+        "text": "that is critical for your health and it's really it really is the backbone of your immune system and when you take antibiotics you destroy different cultures of bacterium that could take up to two years to recover from just one round of antibiotics and you will have all sorts of issues from that there's a lot of side effects as as any other pharmaceutical you know that you are prescribed look at the back three pages of the document that comes with it and"
+    },
+    {
+        "start": "00:05:25.020",
+        "end": "00:05:49.140",
+        "text": "it's nothing but side effects and if you're someone like myself and and also my daughter you don't want to do that to yourself you know it's kind of a drastic you know measure to take when you could do something else that won't destroy your gut microbiome then you know that's just the way that my family rolls the third reason is you're me you know I just like I just described"
+    },
+    {
+        "start": "00:05:49.140",
+        "end": "00:06:17.580",
+        "text": "myself and on top of all everything I just said I personally really don't like the entire quote modern medicine you know they're called alipas and they've only been doing their thing for about a hundred years whereas you know when you look at the other traditional healing arts, Ayurvedic Chinese traditional medicine blah blah you know they've been around for thousands of years you know and so I just don't trust it you know that's my opinion I but I just don't and I just"
+    },
+    {
+        "start": "00:06:17.580",
+        "end": "00:06:46.020",
+        "text": "think the taking the path of using synthetic chemicals to try to you know and quote improve your health is sort of a you know it's just an oxymoron to me that that would be the route anyone would take but that is the DIY reason for you know the way that I approach things the way my family approaches it so now when it comes to a you know DIY wound healing and this is from myself my family my"
+    },
+    {
+        "start": "00:06:46.020",
+        "end": "00:07:11.740",
+        "text": "process that I go through it's it's a four-point strategy and I think that's something that everyone you know honestly you don't even find this in modern medicine but you know because typically though modern medicine is and I've gotten dog bites and they will basically do one and two and so they don't think about three and four but it's a four-step process if you really you know and I'm kind of good at it I've been doing it for a couple of decades now"
+    },
+    {
+        "start": "00:07:11.740",
+        "end": "00:07:39.340",
+        "text": "and I've gotten some serious accidents and and this dog bite situation is just one of those situations where my daughter at this time it was her time her turn you know to have an accident but bottom line though is you know they if you go to a you know the ER they're gonna flush the dog bite one of the really bad things about dog bites as opposed to getting cut is that you know the dog's fangs will penetrate deep into your tissues not just your skin and"
+    },
+    {
+        "start": "00:07:39.340",
+        "end": "00:08:08.220",
+        "text": "and all that bacteria will go deep into your muscle and into the into your flesh and it's really hard you know once that bacteria gets in there you're guaranteed gonna have an infection her bite was significant I'll show you pictures here in a second and so you know there's a the issue here is you've got two two avenues of infection you need to be concerned about with this type of a wound and first of all it's the topical it's that very top layer of your dermis and your epidermal layer of your skin that's been broken and you're"
+    },
+    {
+        "start": "00:08:08.220",
+        "end": "00:08:37.340",
+        "text": "definitely I mean you a guaranteed will get an infection as much as you can flush the wound and everything like that you're gonna get an infection from a topical standpoint your skin turns red bright red inflammation swelling that sort of thing and then the second thing also because the bacteria has penetrated into your meat yeah then you're basically getting also gonna get it an internal infection and you'll see this infection go up your arm and then you know other people untreated you know it turns into sepsis and and so forth"
+    },
+    {
+        "start": "00:08:37.340",
+        "end": "00:09:06.860",
+        "text": "and so it can get extremely dangerous infection literally is if you if you study you know you know like I'm a civil war buff and one of the biggest things during the civil war and more more soldiers died from infections than they died from the actual wounds that they got you know if you study if you if you study that and that that's typical for all all you know all wounds of that nature so infections are the worst part about wounds and so the approach that I"
+    },
+    {
+        "start": "00:09:06.860",
+        "end": "00:09:31.860",
+        "text": "take on a DIY effort to heal a wound is to treat that topical one way and an internal another way also to keep in mind that there's an there's the concept of bioelectricity we are electrical beings our processes everything about our cells you know through this thing called a potassium ion you know potassium calcium ion exchange we're we're literally electrical beings we have a"
+    },
+    {
+        "start": "00:09:31.860",
+        "end": "00:10:00.940",
+        "text": "current that runs about I think it's like 21 milliamps in ourselves that's our typical voltage we you know have electricity going through us and our bodies once that electricity is broken because there's an opening in the in the body then if that electricity doesn't flow correctly then you know if you can establish that electricity and you can and you can basically put electricity back into the body and to basically help that wound then I you know studies show"
+    },
+    {
+        "start": "00:10:00.940",
+        "end": "00:10:30.900",
+        "text": "that you know that it actually does help heal and improve wound healing and also the nutrients you know slowly we'll get into that more deeply so right off the bat on the topical infection part this is what we did now the initial flush obviously is the only people want to do this once it's hydrogen peroxide to basically get the majority of whatever contaminants made it into the wound and so there's an initial flush of hydrogen peroxide to do that which is essentially just blasting it with oxygen and you don't really want to do"
+    },
+    {
+        "start": "00:10:30.900",
+        "end": "00:10:56.780",
+        "text": "that twice because it's damaging it will eat up everything you know and so you only do it once it's not something you want to do you know day two day three so there's that initial flush and then what was interesting about this time it was normally you know when like I have a wound or something like that then I will just treat it with C60 oil which is has a wound healing properties if you you know you can go do that there's studies on that already as well as"
+    },
+    {
+        "start": "00:10:56.780",
+        "end": "00:11:25.660",
+        "text": "clodal silver which is anti bacterial and try anti microbial and I use those two compounds and I usually that's usually good enough I've also used ozonation on other wounds others another video in my series where I got bit by a spider it was turned into a really bad abscess and I use that as a case study for wound healing as well where I was able to successfully ozonate and and do blood electrification but in this case you know the first few days I was telling her"
+    },
+    {
+        "start": "00:11:25.660",
+        "end": "00:11:54.380",
+        "text": "you know try C60 and clodal silver and it wasn't really making enough you know making the effect that we were looking for in terms of just the you know watching the skin coloration and as it as a determination for infection so she switched to then using betadine which was the only you know like kind of medical supply that was used during this and in addition to the gauze and so forth so she switched to a betadine aniseptic which is based in which iodine"
+    },
+    {
+        "start": "00:11:54.380",
+        "end": "00:12:22.700",
+        "text": "based solution to basically disinfect the wound topically and then for an ointment instead of using antibiotic cream you know she was using manuka honey ointment this is medical manuka honey and if you if you studied honeys there's this magical honey from Australia called manuka and you know I actually take it when like if I ever got a sore throat or anything like that and she does as well so these two the two products of course there's links to"
+    },
+    {
+        "start": "00:12:22.700",
+        "end": "00:12:51.660",
+        "text": "everything I'm going to be talking about in the video description below but these were the two things that did work and so I you know so I'm just saying that you know when I think that just as now discovered with this case that we just did on her hand we discovered that when it's really severe you know just C60 oil and clodal silver and ozonation it's just not good enough not strong enough but betadine worked wonderfully as well as the manuka honey ointment on"
+    },
+    {
+        "start": "00:12:51.660",
+        "end": "00:13:20.140",
+        "text": "the wound itself after it was disinfected and doing that was just was it just worked out perfectly and you'll see in the pictures how well the wound healed now in terms of bandaging obviously one of the things about wounds is that they're going to seep and you want to let them breathe and so just a loose gauze bandage and then change daily in fact you know I went you know one one time I had a dog bite and same thing you know I thought they were gonna stitch me up and like no we don't want to stitch you up because we with this thing"
+    },
+    {
+        "start": "00:13:20.140",
+        "end": "00:13:45.180",
+        "text": "it needs to it needs to seep out you know it's gonna it's gonna just seep and you need to let it seep if you seal it up you're gonna trap all that all that inside of you and you don't want to that's gonna make your infection worse so so that's kind of what did she didn't get any stitches obviously we never she never went to the doctor and so basically just treating it with and from a topical treating it with betadine and manuka medical honey did really really good"
+    },
+    {
+        "start": "00:13:45.180",
+        "end": "00:14:13.300",
+        "text": "job on the topical infection aspect of the wound now the next thing from an internal standpoint this is where the doctors will just you know give you prescriptions of antibiotics and you'll do a 10-day regimen and of course you know all the side effects that come with that and so to avoid that you know the process that my family does is they will we all do the Bob Beck protocol now I made an entire video link below in the description in the video description of"
+    },
+    {
+        "start": "00:14:13.300",
+        "end": "00:14:41.740",
+        "text": "that video but a Bob Beck protocol is based on you know the basic modality is blood electrification and in the video it kind of describes the patents and the studies that created you know the the whole idea of doing it and all you know that stuff so I covered that in the video but the idea though is you want to basically use a device that will base you know that sends a microcurrent through your bloodstream which then basically mitigates and or neutralizes all the"
+    },
+    {
+        "start": "00:14:41.740",
+        "end": "00:15:08.980",
+        "text": "pathogens in your bloods viruses bacteriums molds fungus anything that's a pathogen so a wipe out any type of infection that you have that's made it to your bloodstream and so the Beck protocol is a combination of blood electrification and then ingesting clodal silver you know which is water silver ions suspended in water as well as a water that has been ozinated which is gives it you know basically you're taking in a big blast of oxygen in the"
+    },
+    {
+        "start": "00:15:08.980",
+        "end": "00:15:38.740",
+        "text": "water you're drinking silver ions oxygen by itself is an incredible anti my cry my crowbarrow again so clodal silver is an anti my crowbarrow my crowbarrel sorry and then the blood electrification you know basically banging away and and you know mitigating all those pathogens so those that combination of things is called the Bob Beck protocol again watch the video but doing that Bob Beck protocol for the moment that she had a dog bite she"
+    },
+    {
+        "start": "00:15:38.740",
+        "end": "00:16:08.260",
+        "text": "started the Bob Beck protocol and she did it for seven days straight and that prevented any internal infection whatsoever so in place of antibiotics this is what was done so that she did not have to destroy her gut micro you know her gut microbiome and you know and when she was done with wound healing she's you know perfectly healthy and no side effects and that's the whole key to this right so again you know you want to hit it really hard with from the top topical aspect of it and you want to hit that infection really hard from"
+    },
+    {
+        "start": "00:16:08.260",
+        "end": "00:16:34.260",
+        "text": "internal and this is how how we did it now the next thing again about micro current and this is a wound healing support processes but I want to kind of point you to a study and just a sample of multiple different studies on the subject link in the description below but this study specifically about home based electrical stimulation to accelerate wound healing as a double blind randomized control our trial so you know this is very you know this is"
+    },
+    {
+        "start": "00:16:34.260",
+        "end": "00:17:02.780",
+        "text": "all real you know NIH level type of studies but bottom line here's a study that basically demonstrates that using a micro current device and in this case this micro current current device is called a tenant bio modulator I have one also have I have all this stuff I've been doing this for a couple decades my daughter has all of you know everything we both have these med kids with with all these tools in it and that allows us to be DIY and I admit that you have to have that as well if you want to be DIY but you know if you want to avoid"
+    },
+    {
+        "start": "00:17:02.780",
+        "end": "00:17:32.700",
+        "text": "alipas and you do need to prepare and have these things on hand and they work that's the key they work okay and so bottom line though this is an entire study you know it's ten pages long that kind of describes describes all of the different processes by which they use micro current to stimulate the body's ability to heal itself and to accelerate wound healing so micro current as a treatment for wound healing to help your body heal itself and put your"
+    },
+    {
+        "start": "00:17:32.700",
+        "end": "00:18:02.620",
+        "text": "body into a healing state is proven and it worked really really well and it was just you know in other words you've got to deal with the infection but you also want to help the wound heal right so it's kind of a you know a two-step process so fighting off the infection step one step two is help your body heal and the number one way you can help your body heal is through micro current now the other way you can help your body heal is through nutrients and here's another study link link below where I also want to really caveat the"
+    },
+    {
+        "start": "00:18:02.620",
+        "end": "00:18:29.500",
+        "text": "concept here you know it's kind of like when you've got a wound your body has to create all of the tissues and regrow regenerate all of the connective tissues all of the you know blood the blood vessels and everything else that's been destroyed in the wound it has to grow it's it's not any different then you know it's a woman getting pregnant and being prescribed prenatal vitamins and the whole idea here is if you were to take a look at this study where it"
+    },
+    {
+        "start": "00:18:29.500",
+        "end": "00:18:55.700",
+        "text": "basically demonstrates that the necessity and the importance of actually having nutritional support for connective tissue repair and wound healing and it gets into the actual detail of what types of nutrition is critical for your body to replace all of the tissues that were damaged and to regenerate and regrow everything collagen, glucosamine, gluconic acids, amino acids, vitamin E, zinc and"
+    },
+    {
+        "start": "00:18:55.700",
+        "end": "00:19:23.860",
+        "text": "copper all of the different things that your body is going to pull out of your system to then grow all these new tissues right and I'll tell you what if you are mineral deficient if you are vitamin deficient and you get a wound you're screwed because where's your body gonna get all of these building materials to replace all that stuff that got damaged and so one of the first things we did obviously you know we did a bunch of things real quick but right off the bat was like hey man let's let's get this thing cleaned up let's get"
+    },
+    {
+        "start": "00:19:23.860",
+        "end": "00:19:50.940",
+        "text": "treated immediately started the Bob Beck protocol another thing was between the Bob Beck protocol I was having her zap with the microcurrent device the you know the biomodulator to stimulate the body's healing process while she was fighting off the infection you know treating it topically and lastly though I basically told her hey you know you need to double up on all these different supplements and so you know I brought a bunch to her as well she had some but"
+    },
+    {
+        "start": "00:19:50.940",
+        "end": "00:20:16.180",
+        "text": "basically making her making her you know making sure that she was doubling up not just your daily vitamin you need to double it right because your body is going to need your quote daily but then you need even more right to regenerate all these tissues so and then basic you know basically doubled up on these specific supplements so that she was aiding her body and giving her body the basic building blocks that she needed to replace all of those tissues and so I"
+    },
+    {
+        "start": "00:20:16.180",
+        "end": "00:20:45.660",
+        "text": "want to show you what this was this was the dog bite this was this she had multiple aspirations on the top of her hand that were superficial in nature this one big gash right here but then this was the worst of it was her pinky it was just you could see this incredible gash all the way down to the bone initially this was like I think day three or something like that we tried to take pictures as much as we could during this but you know you can imagine right so the wound was pretty up was very deep and it was pretty big gash it"
+    },
+    {
+        "start": "00:20:45.660",
+        "end": "00:21:13.060",
+        "text": "wasn't just a you know just a cut it this was a gash the dog did quite a number on her hand and so this was in the early a few days after a few days of treatment you can see where the wounds had started to patch together and the coloration which is really important here instead of it turning red it stayed just this nice flesh tone which meant that you know we were on top of the infection from from the topical standpoint the yellow colorations from"
+    },
+    {
+        "start": "00:21:13.060",
+        "end": "00:21:41.700",
+        "text": "the bed of dying by the way and so basically the wound started to heal really well this is about a week or so into it and then another week or so after that the healing continued to progress at a really great rate and there was just a little bit of redness because she had to go to work and use her hands and so as much as she tried not to you know damage the you know the wound itself because you know you're trying to let it heal and don't want to disturb the scabbing you know she did kind of disturb it so it was getting a"
+    },
+    {
+        "start": "00:21:41.700",
+        "end": "00:22:10.780",
+        "text": "little red about three weeks in there but she just kept up the same protocol as described and so then about about a month later you know it really scabbed over really well the top lacerations on the top of her hand it healed pretty pretty well at that point and so at this point these gashes had become rather superficial they you know the the deeper part had healed up and covered up and most recently you know then this was about six weeks into it where you could see where this one wounded completely healed and then the the gash"
+    },
+    {
+        "start": "00:22:10.780",
+        "end": "00:22:37.740",
+        "text": "is pretty much completely sealed at that point and then lastly at two months this is what her hand looks like so just to kind of give you an example she did have a she does now I mean this is permanent a little bit of a scar right there a couple of scars on the top of her hand and then right here you could see where the gash was and it took out all this skin and this is the part you know this is all of this had to be regrown and so that kind of really exemplifies the concept here that you're gonna have to create new tissue and you know and the"
+    },
+    {
+        "start": "00:22:37.740",
+        "end": "00:23:07.220",
+        "text": "the need for you know for building you know for the nutrient building blocks but just to also point out too you know it was kind of difficult because the wound location so just in using the microcurrent device I basically was saying hey you know put the put the probe here and here you know so she was then probing at the tip of her finger as well to draw blood flow into the finger as well as putting the microcurrent device here and you know we call it zapping but it's not it's just basically you're putting the probe up there and"
+    },
+    {
+        "start": "00:23:07.220",
+        "end": "00:23:33.380",
+        "text": "letting the the microcurrent send current into the into the into the wound area and so she did that I believe it was like about I thought I was telling her like you know do it 15 minutes a day of the microcurrent and and change the bandage daily and you know she was on board with this very smart girl but you can see where you know the wound head healed perfectly I mean you know there's gonna be a scar no matter what and even if you stitch it up you'd still have a"
+    },
+    {
+        "start": "00:23:33.380",
+        "end": "00:24:01.180",
+        "text": "scar so bottom line at the end of the day this is a do-it-yourself wound healing without the necessity to destroy your gut microbiome and have side effects weeks into months later because of what you've done to your digestive system and basically the also the idea of that that it is 100% possible to be your own healer and to you know and to support yourself and if you're someone"
+    },
+    {
+        "start": "00:24:01.180",
+        "end": "00:24:29.500",
+        "text": "like a Mariner and you're out on a boat or you're a hunter camper and there's just no doctor around you know having a blood electrification little just a little box it's a little tiny thing to carry with you and a couple of these you know these these you know these you know these I get them better diners you know money honey but just having some supplies you know like whenever I go and I'm not anywhere near civilization I have this I have a little kit and I carry this stuff around because you never know what's gonna happen so that's the"
+    },
+    {
+        "start": "00:24:29.500",
+        "end": "00:24:58.220",
+        "text": "other point to even even if you're not you know opposed to alipaz you still should be prepared you never know what could happen but anyway this video are trying to keep it as short as possible I just wanted to share with you the story and the way that we did it and how we did it and the success of it as a demonstration that you can completely heal thyself you know doctor thyself be your own healer and you don't need chemicals and synthetic chemicals to do"
+    },
+    {
+        "start": "00:24:58.220",
+        "end": "00:25:25.260",
+        "text": "so you can treat yourself and come out perfectly fine you just need the confidence to do so and you need to be prepared so that's it thanks for watching this is on a video that I'll be continuing in a series where I want to really focus in on health and healing and this really is kind of the video that's gonna kick that off so thank you for watching this is the Tinkers Academy a tinker for your health and if you can find a link to my blog below if you want"
+    },
+    {
+        "start": "00:25:25.260",
+        "end": "00:25:35.140",
+        "text": "to reach me and just you don't want to say hey thanks for watching the video appreciate your time hope this was educational and have a great day aloha"
+    }
+]

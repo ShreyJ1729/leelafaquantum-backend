@@ -1,0 +1,607 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.960",
+        "text": " A lot of everyone and welcome to another video by me, Kay Elmer, and today I've got Philip on Holtzendorf with us, and we're going to be talking about the new Leila website that we wanted to share with everybody along with some of the new Leila quantum products. So Philip, good morning. How are you today? Hi Kay. Good morning. I'm looking forward to this. I'm doing fine. Awesome. So let me just, for those of you who are new, we're going to be talking about Leila Quantum"
+    },
+    {
+        "start": "00:00:27.960",
+        "end": "00:00:55.040",
+        "text": "Tech, a quantum energy healing, I guess it's really hard to describe, and I don't still have my elevator speech on how to explain it to people, but that's all about quantum healing and just the power of feeling better. I guess this is right here on their website, feel better, perform better, live better, and I think that's a really good, real short way of just saying, \"Hey, this is what it's all about.\""
+    },
+    {
+        "start": "00:00:55.040",
+        "end": "00:01:24.400",
+        "text": "So I just wanted to share with everybody, let's see, I am looking for new websites. So I'm just kind of, so this is, I just want to show you a picture of Philip. This is the Leila Quantum Healers Network, and Philip, right here, right here in this little corner, he's the owner operator at Leila Quantum Tech, and so he gave me a call this morning and said, \"Hey, we're having a new website, so let's talk about it.\" And definitely, let's talk about some of those new products, which I know everyone's really excited to hear about. So where would you like to start, Philip?"
+    },
+    {
+        "start": "00:01:24.400",
+        "end": "00:01:47.840",
+        "text": "Well, maybe just really at the home page, and I just want to tell people that we've updated the design to make it look nicer. We think at least it's a lot nicer and a lot cleaner. It's easier to navigate, and we updated the whole copy also throughout the website."
+    },
+    {
+        "start": "00:01:47.840",
+        "end": "00:02:12.760",
+        "text": "I mean, there are some sections where obviously there aren't any real updates because it was already in the way we liked it, and we thought that it's great for everyone visiting both side to understand it, but we've updated most of the copy actually, and yeah, try to make it easier for people to understand what we offer, where to find things, and to understand"
+    },
+    {
+        "start": "00:02:12.760",
+        "end": "00:02:37.760",
+        "text": "what it is also that you're looking at, and yeah, I hope you really, you all enjoy the new site. It's been a lot of work, and yeah, I'm really thankful for everyone that helped with this. Yeah, it looks really nice. I only got to, for those of you listening, I only have been looking at this for literally about 20 minutes, so it's all completely brand new to me as well."
+    },
+    {
+        "start": "00:02:37.760",
+        "end": "00:03:03.480",
+        "text": "So yeah, this is pretty nice, it's very, very pretty, very, very pretty site. So let's get started in what the new features are. So well, for those of, I guess there's a lot of people that are brand new to our chat group and brand new to Layla. So let me, if I can just kind of just start off with just, in my mind, I'd like to just just say, hey, what is here, you know, and jealous to do an overview. So right here, you've got the shop and the product section."
+    },
+    {
+        "start": "00:03:03.480",
+        "end": "00:03:33.400",
+        "text": "So if anyone is interested in just going straight to like, okay, well, you know what you want, because you heard about it in the podcast, you can go right here and click on any one of these categories, correct? So if I were, you know, this is the hot one right now, the travel block, or you can just click on shop all to see what everything is, you know, what all of the, all of the different products are. But let's say right here is one of the newer products. For those of you just interested in shopping, and you've heard about what you want."
+    },
+    {
+        "start": "00:03:33.400",
+        "end": "00:03:58.360",
+        "text": "And so this is the, this is the new way of doing it, which is basically a description of the product, and a lot more information about each product individually. And then of course, if you wanted to then jump over to the product page where you purchase these things, just click on, oh, that's not working yet. Okay, well, we'll give that. Oh, yeah, that doesn't work because we're in the test site. Sorry, everybody."
+    },
+    {
+        "start": "00:03:58.360",
+        "end": "00:04:27.560",
+        "text": "So the shop all pages where you would go to that, by the way, yeah, we're actually. Yeah. And then everyone listening, of course, you will be able to go through those links then, but indeed, where we're currently, the team is currently working on transforming this site, uploading this as we're working on the test site currently right now, K and I. Yeah. It'll be up in about three and a half hours. So okay, so then this is basically the all product page for those of you who just know"
+    },
+    {
+        "start": "00:04:27.560",
+        "end": "00:04:53.720",
+        "text": "what you want. And then you can go ahead and click on any one of these, get some product info, and then of course, add it to the cart and go from there. So the other thing here, I just want to do some high overview is the how it works part. And this is a brand new section, I think, right? Because I didn't see this. I don't recall this on the old one where you just had research, but you didn't have any had examples of use, but I guess these are some of new features as well. And these are just, and then testimonials."
+    },
+    {
+        "start": "00:04:53.720",
+        "end": "00:05:19.320",
+        "text": "You guys are now collecting, are you collecting testimonials from direct feedback or and, and or from our telegram chat group? Is that how? With this. Yeah. So all, all testimonials that you see on the website are all approved testimonials from people that gave us their consent to also display it. And the idea here is, and I don't know if it's 100% working yet on this test side, but"
+    },
+    {
+        "start": "00:05:19.320",
+        "end": "00:05:49.240",
+        "text": "the idea is that you have not only some examples here, but that you can really search hundreds of testimonials that there are per product. So this will ultimately be the case so that you can pick, let's say, the heel capsule and you can then see all the different testimonials that we've gotten for that, which should be dozens. And then yeah, the FAQ is obviously something I'm very excited about because people have"
+    },
+    {
+        "start": "00:05:49.240",
+        "end": "00:06:15.480",
+        "text": "been asking for a very long time, and we worked on this, and it was just a hard process. And it was hard to put it in a good format and also get the copyright. And I hope that we have, you know, the most important questions there answered in a good way for everyone and we're going to be happy to keep adding to it, if there's anything to add."
+    },
+    {
+        "start": "00:06:15.480",
+        "end": "00:06:42.800",
+        "text": "No, really helpful because as you folks in the chat know, you know, like myself, Emma, I think there's a couple of new folks that are helping out from Layla as well. But you know, the number one question people, I see the brand new coming in, is they just, they want to know, you know, well, has it worked for you guys? And I want to just flat out say that, you know, I've been in the chat group since I think I was a third member of it, and people have been asking that question for the last"
+    },
+    {
+        "start": "00:06:42.800",
+        "end": "00:07:11.040",
+        "text": "year and a half, and the answer is, you know, it's in the chat. But it's really nice that you're going to pull it out of the chat and put it onto websites so people don't have to scroll up and down. But you know, these are real life folks that are just like you, that use these products and then basically come into Telegram, unsolicited, and say, hey, this is how it's working for me. So it's great that you, this is a completely new section for anyone who's interested in it. Like, what did other people say? It's not marketing."
+    },
+    {
+        "start": "00:07:11.040",
+        "end": "00:07:40.520",
+        "text": "It is just literally taking people what they've said with their permission and putting it on the site. So that's great. The fax is brand new as well. So that's great that we have that now. The about us part here is, you know, who Layla is. Of course, I was showing you the healer network thing. That's I continually always like to focus on the healer network. For those of you who've only heard Philip talk on a podcast, you know, be aware that, you know, there's, there's a whole group of people that are behind Layla that contribute"
+    },
+    {
+        "start": "00:07:40.520",
+        "end": "00:08:05.760",
+        "text": "to the frequencies, contribute to the products. And it's, it's a, it's a group of healers, very, very talented, gifted people from all over the planet that have come together. And it's not just, you know, like a, a one man type of thing. So now this learn section, I know is new as well. So could you describe that? Yes. So there we finally have a list of the various podcasts."
+    },
+    {
+        "start": "00:08:05.760",
+        "end": "00:08:32.960",
+        "text": "And yeah, you've done a great job of showing that on your website, and we've been also always asked, so, so where can we find that, right? And we have these pin posts on the telegram group for the latest ones. But now here there's at least a section where you can scroll through the various different podcasts that, you know, we've introduced the quantum technology or were invited to talk about frequency medicine and stuff like that."
+    },
+    {
+        "start": "00:08:32.960",
+        "end": "00:09:01.200",
+        "text": "So yeah, you can find that all there and I'm grateful we're starting to have it there. Yeah, you're a very busy person. I'm, I've, because for those of you who know that, you know, in the chat, I've actually, because this didn't exist until now, I was kind of tracking it on my blog so that if anybody was interested in wanting to, you know, listen in on other discussions that Phillip had had, it's on my blog as well. So now it's going to be on the website, which is awesome."
+    },
+    {
+        "start": "00:09:01.200",
+        "end": "00:09:28.840",
+        "text": "So even more information and just, you know, if you just want to hear what's going on, because Phillip, I mean, every single time you talk, you know, there's some stuff that, you know, we've already heard as a group, but then you're always throwing in new stuff, the newest study, the newest product, the newest findings, the newest feedback. So, you know, I listen to every single one because I learned something every time you have a, you have a discussion with somebody and it's, it's really, it's just fascinating, especially the moment, you know, it's every time I can't even pick one out, but man, every"
+    },
+    {
+        "start": "00:09:28.840",
+        "end": "00:09:58.800",
+        "text": "time you talk, you're talking about like, hey, this is what we're learning. And it's, it's pretty amazing. So that's, that's the learn section and then of course, contacting Layla. So is there anything you want to highlight here, just on a general overview? But really, just to encourage everyone to take a look and especially some of the things that you've missed in the past, hopefully they're there now and check it out and yeah, let us know how you like it."
+    },
+    {
+        "start": "00:09:58.800",
+        "end": "00:10:25.520",
+        "text": "And then maybe if you want, we could go into the new products even. Yeah, no problem. Okay. So here we go. So I'm going to go to the, the shop all. So this is the overall, this is like the store part of the website. And let's talk about your new products because that, you know, there's always something new and that's what's really cool."
+    },
+    {
+        "start": "00:10:25.520",
+        "end": "00:10:53.080",
+        "text": "And so obviously the number one new cool thing is this travel block as a travel and car block. So that's the first new thing that's popped up. It's going to be available as of today after 3 p.m. dish central standard time, hopefully you get this video out right about the same time. And let's talk about this. This seems to be the thing that, you know, a lot of folks are asking about lately in the chat."
+    },
+    {
+        "start": "00:10:53.080",
+        "end": "00:11:22.160",
+        "text": "So how would you kind of describe this and share this with everybody? Yeah. So I'm really happy that we finally have it available. And it's really also a product that, you know, came to existence because people asked for it and people said, hey, you know, do you have a smaller version? What if we travel and, you know, also in the car and things like that and it really took us some time to get to it. And it's, it's a very unique product."
+    },
+    {
+        "start": "00:11:22.160",
+        "end": "00:11:51.560",
+        "text": "It's, you know, I, I have it with me all the time. If I go to town or something, it's literally in my car. But if I travel, now I have it with me, I traveled to Germany, you know, three weeks ago. So, and I literally had it with me all the time and it was just awesome. I really loved it. And we designed it in a way that it looks like a small quantum block. But the power inside is exactly like the basic infinity block."
+    },
+    {
+        "start": "00:11:51.560",
+        "end": "00:12:21.080",
+        "text": "So that's very unique. So it's small, but it's very, very powerful. So that also means that the charging times, if you, you know, put a glass of water in or you, a raspberry or whatever, is really the same as with the infinity block and not with the quantum block. That also means you wouldn't want to put pharmaceuticals in there, right? So don't make your quantum frequency medicine with this one."
+    },
+    {
+        "start": "00:12:21.080",
+        "end": "00:12:50.480",
+        "text": "But at the same time, this has a very, you know, strong core. The radius, though, is smaller than the infinity block. So that's also unique. It's about 100 to 200 meters and, you know, the actual, you know, EMF harmonizing radius is 100 meters, which, okay, 100 meters is about, I think, 330, 340 feet for people in"
+    },
+    {
+        "start": "00:12:50.480",
+        "end": "00:13:19.120",
+        "text": "the U.S. and, yeah, that's pretty much it. There's actually one, one other important feature that I don't think is even highlighted here yet. But it is, it has something in it that we're programmed in that's, that's a new development, basically. The, you know, Roman and I worked on for a few months and the current quantum blocks and the infinity blocks don't have that feature yet."
+    },
+    {
+        "start": "00:13:19.120",
+        "end": "00:13:44.160",
+        "text": "So what it does, it's even more harmonizing as the infinity block and the quantum block, meaning you can put even someone in there with a picture that has not been exposed to quantum energy before and you can leave that person in there for way longer than you could"
+    },
+    {
+        "start": "00:13:44.160",
+        "end": "00:14:10.000",
+        "text": "with a regular infinity block just because it, it's sort of the just to the exact needs of that person in that moment, meaning it won't overwhelm their nervous system at some point or make the detox go crazy through the roof, which, you know, could happen with"
+    },
+    {
+        "start": "00:14:10.000",
+        "end": "00:14:37.520",
+        "text": "an infinity block of their, you know, someone that's never been exposed to quantum energy and never worked with energy before and then suddenly puts their hand in the infinity block for two hours, you know, that could be quite overwhelming for that person because it's so much of that subtle energy. And with a travel block, you can have your hands in there for way longer. Okay. Awesome."
+    },
+    {
+        "start": "00:14:37.520",
+        "end": "00:15:07.280",
+        "text": "So I think the funniest thing though, as you're talking, I'm looking, this is your wife. This is crew, right? Is it not a curb? Yes. So did you, this is when you guys went there close to Rika and you guys took it with you or she takes it wherever we were, right? I think so. I couldn't even remember that he had to take service and someone ended up on the website. I didn't even pick it, but it's, I think it's great because it fills it in action. It shows a little bit the dimensions. Yeah. That's not, I think it's cute."
+    },
+    {
+        "start": "00:15:07.280",
+        "end": "00:15:34.880",
+        "text": "I mean, this is like, this is what crew looks like when she's traveling, everybody is clutching her travel like sitting on the curb in Costa Rica waiting for a cab or something. Okay. Sorry. Sorry. Side, side, side, side. Okay. So with this thing, so it's a tiny little. Oh, go ahead. Yeah. And by the way, before I forget that, so it's $888. But for everyone that already owns a quantum blog or infinity blog or obviously infinity"
+    },
+    {
+        "start": "00:15:34.880",
+        "end": "00:16:00.520",
+        "text": "blog package, you will get 22% off. And we've been asked before, is this not forever or is this just for the, you know, first month? And I can't tell you that, but it's definitely going to be for the first couple of months for sure. And then we'll look at it. And yeah, what you need to do is here, actually on the life side, I think you'll be asked that"
+    },
+    {
+        "start": "00:16:00.520",
+        "end": "00:16:30.120",
+        "text": "someone to provide your email address and the system will double check if you've had that before. I hope technically it'll all work like that and there shouldn't be any issues. Okay. All right. Good to know. And thank you for your generosity. I know these, you've gone through quite a bit to get this manufactured and on the market. So thank you so much for that as a block owner, Mahalo. Okay."
+    },
+    {
+        "start": "00:16:30.120",
+        "end": "00:16:59.360",
+        "text": "So this is the new product. And one of the questions, you know, as I was reading this in my quick 20 minutes, one of the first thoughts that I had was, you know, it's got that new attribute. So I was wondering, you know, like I'm a, I'm a, I'm a block owner right now and you've got this new attribute, you know, I guess, is there a way, or are you, are you planning on, on a way for existing block owners to be able to embed that new attribute into our our blocks that we have now in the future."
+    },
+    {
+        "start": "00:16:59.360",
+        "end": "00:17:27.720",
+        "text": "Because it sounds like this is a little block and it's got something really special about it. Yeah. So the, the, the first answer is whether the quantum blocks and infinity blocks in the future will have that feature. I don't know. Okay. For the current, uh, quantum block, infinity block owners, if we can add that feature, we also don't know that for certain, we're working on that."
+    },
+    {
+        "start": "00:17:27.720",
+        "end": "00:17:56.560",
+        "text": "And if we can, then we will do it, um, and, and offer it and let everyone know. But at this point that has been figured out, I don't think it's actually necessary for the quantum block, to be honest, I, because it also messes with the strength a little bit. So, um, I don't, I don't really think it's necessary for the quantum block because there, I mean, you could literally be in there for a very long time in terms of those quantum consciousness levels, but with infinity block, it would be very nice to have that."
+    },
+    {
+        "start": "00:17:56.560",
+        "end": "00:18:25.180",
+        "text": "And there's a maybe a possibility that through our quantum upgrade service that we will be launched. And we may have the possibility to actually do a remote upgrade for those infinity blocks. It's just something we're, we're not quite there yet. So I would say that will take me another 30 to 60 days to be able to definitively say yes or no. Okay. All right. No problem. Um, so we'll look forward to hearing about that."
+    },
+    {
+        "start": "00:18:25.180",
+        "end": "00:18:53.040",
+        "text": "So basically, you know, uh, we've got a, a small travel block that's equates to an infinity block in terms of capabilities and strength, but it's smaller. So it has a smaller field. Um, and for those of you obviously who are aware, you know, we have the tutorials on blocks. So if you want to consult charging times, uh, and, and all the different stuff, people, that's crystals, whatever, all the different things you could put into an infinity block"
+    },
+    {
+        "start": "00:18:53.040",
+        "end": "00:19:23.000",
+        "text": "applies to this tiny little block. So keep that in mind that just treat it like an infinity block, um, that you can carry around with you easily. So that's, that's going to be really key is because we did, um, Philip and I did, um, a block tutorial, I think back in February. And so it's got all of the charging times in there. Um, and you can access any of that information, uh, just going to the chat and we posted all the time. Okay. So I know that's, that's going to be a big question on how to use, how to use my travel block."
+    },
+    {
+        "start": "00:19:23.000",
+        "end": "00:19:50.360",
+        "text": "All right. Um, one, one other thing I want to say because so for people, sometimes it's hard to imagine a how, how big is this really? Even though you see the picture there, but so everyone knows these small water bottles, right? These, you know, what most people would drink when they get a water bottle. Um, and those fit perfectly inside, not with the length of course, but, um, with their width."
+    },
+    {
+        "start": "00:19:50.360",
+        "end": "00:20:18.020",
+        "text": "And, uh, so you basically, you'll get them half in and that's already enough actually because you'll just leave them in and in the water, uh, it's charged perfectly. Okay. And so you know a little bit, so small water glasses, you can fit them in and, uh, and all that. Okay, so if I put it on the side and I just put my cup, I like, let's say a tall bottle into the travel block, just the bottom part of the bottle being in the, in the block will"
+    },
+    {
+        "start": "00:20:18.020",
+        "end": "00:20:47.240",
+        "text": "charge the entire contents of the bottle. That's what you're saying. It's like, exactly like sticking my, and then the same thing goes with my hand. If I put my hand in the travel block or any block, it's going to charge my whole entire body because it's all connected, right? That is correct. And then, um, your hands are connected. Yes, and then obviously you can put pictures in. So if you're traveling somewhere, you're on vacation and yeah, you just want to put yourself in there, for example, just take a picture and fold it a few times and put it in."
+    },
+    {
+        "start": "00:20:47.240",
+        "end": "00:21:14.160",
+        "text": "So that's, that's all still possible. So she's holding it like this and she's basically charging yourself without thinking about it. Right? Yes. Okay. Great. So a, and just to let you guys know here, um, I, I keep this, we're gonna, I'm sure we're gonna be adding or you're gonna be adding this kind of information to the website, but just whatever is not on the website, I try to compensate because it takes so long develop all this stuff and the information that needs to go on the website."
+    },
+    {
+        "start": "00:21:14.160",
+        "end": "00:21:42.880",
+        "text": "So as kind of like what I do is I, I just, you know, I'm an independent person that, but I support Layla. And so if you look on my blog, you'll find the charts that I was talking about at the tables on the charging times between the key block and the eye block. So links to this are always going to be in the chat, just ask for them. So you'll be able to see that and, and then go from there in terms of like how to use it. Okay. And then so that's that. So yeah, that's really cool. So then, okay. So this is the new block."
+    },
+    {
+        "start": "00:21:42.880",
+        "end": "00:22:12.280",
+        "text": "It's going to be for sale as of today. It's more on May 13th, 2022. And you've only got 160 in stock and there's an incredible discount for people who already own one. So this sounds really cool. Okay. So let's talk about the other, the other new stuff that you've got, you've got going on, that's new products that are on the site as of today, getting a lot of questions about this one too. Yes. You've got a new water bottle now. I noticed. Yes. So you can. Go ahead."
+    },
+    {
+        "start": "00:22:12.280",
+        "end": "00:22:42.000",
+        "text": "Well, my first question was is like, I've got one of the original ones. So are you going to stop selling the original ones and just go to these ones now or because I didn't see the original ones on the site? Yes. We just phased out the old ones and they're not available anymore. I think we still have some stock of the magenta ones. We completely ran out of gold. And so we're actually thinking to ship those that we still have to Europe and keep them"
+    },
+    {
+        "start": "00:22:42.000",
+        "end": "00:23:11.200",
+        "text": "going there for a while because yeah, it's just hard to manage two different inventories of shops. And so this will be the only one that's on the main shop now and ultimately also the only one on the EU shop. It's a different bottle, but it's also the same. So it's the same in terms of the frequencies. So it remains the same because that was from our perspective perfect to begin with in terms"
+    },
+    {
+        "start": "00:23:11.200",
+        "end": "00:23:40.560",
+        "text": "of the frequency mix and it's an optimal mix for just humans to take in water with these frequencies and that type of energy. So we didn't see any reason to change that. The same is also that it has a double wall stainless steel in the inside. So your tea will remain hot, your cold drink will remain cool in there. What is different is that the outside we feel is, we really like the design. It's very special."
+    },
+    {
+        "start": "00:23:40.560",
+        "end": "00:24:05.560",
+        "text": "It's bamboo because it's actual bamboo on the outside and it looks really nice. And it is also a little bit smaller. So that it's 500 milliliters. Now we probably need to look on Google real quick to tell you what that is an ounce right. I forgot about that."
+    },
+    {
+        "start": "00:24:05.560",
+        "end": "00:24:31.280",
+        "text": "So let me do that real quick, milliliter two ounce. So here we go, 500 milliliter is, well, 17 US fluid ounce. That's pretty much what it is, it's a little bit smaller."
+    },
+    {
+        "start": "00:24:31.280",
+        "end": "00:25:00.280",
+        "text": "It also means it's even easier to take it to yield or have it in your car, etc. Okay. So it's a typical smaller water bottle because the existing one is 750 milliliters, right? 3/4 of a liter. Yeah, it's not quite 750, but a little bit more than 700. Yes. All right. All right. So got the new water bottle. You know, hey, I'm sorry, I just, I had a question that popped up in the chat. So let me just ask you right now so people can hear about it."
+    },
+    {
+        "start": "00:25:00.280",
+        "end": "00:25:30.000",
+        "text": "The travel block, because it's the same strength as an infinity block, which for those of you who don't know the difference, it's like seven times stronger than the Q block, right? Quantum block. But one person or actually if several people have asked is because it's like an infinity block, can you upgrade? If you had two, could you, could you upgrade them, you know, like, like you would an infinity block? Could I take one and travel block and put it in another to put the plates in it and then upgrade my travel blocks just like I could with an infinity block?"
+    },
+    {
+        "start": "00:25:30.000",
+        "end": "00:25:59.920",
+        "text": "Is that pumped? No, it, that would not work. Same with a quantum block doesn't work. Okay. So the only, so if you're looking to tinker, that's how I put it with greater and greater and greater levels of consciousness and, and you want to tinker with stronger and stronger infinity or blocks in general, then the only choice is the infinity block because those can get upgraded every time you put one in the other, it gains strength by seven."
+    },
+    {
+        "start": "00:25:59.920",
+        "end": "00:26:29.720",
+        "text": "Sometimes, but the quantum block and the travel do not have that capability, right? Exactly. However, you could, if let's say you have an infinity block package and you're ready at a, you know, number six, for example, six generation infinity block, then at some point, if you want to have a stronger travel block, you could charge this one in that infinity block and it'll make it stronger."
+    },
+    {
+        "start": "00:26:29.720",
+        "end": "00:26:59.280",
+        "text": "We couldn't tell you then, though, exactly what the levels are that you'll come up with then because it's not been tested, it's not been done, but in theory, you know, you can, you can do that. Yeah, that's good. That was actually another question to somebody asked if we could take a, if you, what would happen if you put the travel inside, inside of an infinity block. So you'd literally would upgrade it, but we didn't, but you don't know what to what level, right? Yes."
+    },
+    {
+        "start": "00:26:59.280",
+        "end": "00:27:28.920",
+        "text": "And it also, and also depends on what level of infinity block you've got. So all, you know, it gets really complicated, but yeah, okay. So you can make it stronger, but you can't, you can't take two and make each other stronger. But if you had an infinity block, you could take it and put it in there. Oh, good to know. Yeah. Okay. Yeah. There's so many. Yeah. Well, I think we're going to have to update our, I'm thinking, you know, we'll update our, our block tutorial to try to do like a comparison of the three to kind of clarify what the differences are like we did with the block tutorials. Okay."
+    },
+    {
+        "start": "00:27:28.920",
+        "end": "00:27:56.400",
+        "text": "So then the other new thing that you've got on the site I noticed was the screws are now available, the infinity block screws. Yes. Finally. What people have been asking about that ever since our last talk, I got mine and I absolutely love it. And let me ask you a question about these. Okay. First of all, for those of you who don't know what these are is if you, if you look at the infinity block, okay, it's got three plates top and bottom."
+    },
+    {
+        "start": "00:27:56.400",
+        "end": "00:28:21.080",
+        "text": "And the three plates top and bottom are connected with rods. This is what it looks like assembled. But if you want to charge bigger things like you want to charge, you know, you know, anything you, you know, like you, like an air filter or anything like that or water heater or whatever, then you need to separate the plates. But the problem is is how do you keep the three plates together and up until now, everyone's been using zip ties. So that's what the screws are for."
+    },
+    {
+        "start": "00:28:21.080",
+        "end": "00:28:49.080",
+        "text": "So I guess a question about, about the screws that I've seen people asking is A, when are they available? So they're going to be available today. And then the second thing was once I separate the plates, this is a question that people have had. Once I separate the plates and I've got, you know, both sides, a top and bottom now connected to each other, but there's no, there's no rods, right? And I put them into alignment, you know, is there any kind of like a delay?"
+    },
+    {
+        "start": "00:28:49.080",
+        "end": "00:29:14.600",
+        "text": "Because you know, I took it apart and I put it back together without rods and I have to keep them and the whole concept is if you check out the block tutorial is you need to keep the plates in alignment, right, to create that field, that consciousness field. Is there a delay when like, there's, there's like a startup warm up period where you want to wait before you try to charge anything between two separated sets of plates?"
+    },
+    {
+        "start": "00:29:14.600",
+        "end": "00:29:41.680",
+        "text": "So yeah, so first of all, the alignment, you want to keep for the upper three plates as well as for the lower three plates. And then you want to have just somewhat of an alignment for, you know, those separated three plates then, if that makes sense, so but that doesn't need to be like super exact because the energy finds its way."
+    },
+    {
+        "start": "00:29:41.680",
+        "end": "00:30:08.800",
+        "text": "So you could even, you know, they would still need to be facing each other. But if one is, you know, three inch to the left and the other one is three inch to the right, it'll still, it'll still create that field in between. So that's the first thing, but obviously the upper three plates, the lower three plates need to stay in alignment. That's why we have those screws and then you will use, you will continue to use those"
+    },
+    {
+        "start": "00:30:08.800",
+        "end": "00:30:38.480",
+        "text": "screw nuts in order to keep the separation of those three plates. Then I would, I would, you know, put the plates the way you want it. Let's say you want to lay in between those plates, you put it down and I would say, you know, just wait a minute just in case and that, that should be totally sufficient for the field to be, to be up and running. Now if it's, if you just purchased an infinity block and you're putting it together for the"
+    },
+    {
+        "start": "00:30:38.480",
+        "end": "00:31:07.080",
+        "text": "first time and that's how you want to get started, then I would wait for about an hour until the field is fully established. But usually we recommend to putting it together first with, with the rods and have it be established. And then at some point, if you want to do these other things, you know, just go about that then. Okay. So I'm sorry. Could you repeat? So when I first assemble the infinity block with the rods, how long should I let it sit"
+    },
+    {
+        "start": "00:31:07.080",
+        "end": "00:31:31.880",
+        "text": "before I start using it to charge stuff? One hour. One hour. Okay. In the beginning, we thought, you know, it can take up to 12 hours possibly, but our experience has been now that it usually after one hour, it's pretty much all there. Okay. And then if I take the rods off and put the plates together, two sets of three, then it's like, give it a minute, right? Once I put them into alignment with each other."
+    },
+    {
+        "start": "00:31:31.880",
+        "end": "00:32:01.560",
+        "text": "Okay. And then I've seen a question recently about, do I need to, when I, when I create the separated plates with no rods, do I need to put the three plates top and bottom exactly like they were when they were assembled? Like, No, that's not necessary. You can mix and match top and bottom plates. It doesn't matter. Once you put it together, it's together. And then does it matter if it's all like the Mandela facing in the right direction in the same direction?"
+    },
+    {
+        "start": "00:32:01.560",
+        "end": "00:32:28.760",
+        "text": "Do they have to be all facing in the same direction? Does not matter from an energy perspective. We do suggest though that the Mandela always faces upwards just because it looks nicer that way, but that's maybe personal preference. Okay. Yeah. That's my, I like to keep it pretty. Okay. And then I guess the other thing too, once you separate your plates, is there a maximum? I mean, have you enrollment kind of determined what a maximum distance between the plates"
+    },
+    {
+        "start": "00:32:28.760",
+        "end": "00:32:58.080",
+        "text": "are before you don't have a field or, you know, like, like if I wanted to do like, you know, like a house or something. Yeah, I don't know that because we didn't test the maximum levels. We just know that four or five meters is no problem. And what would that be? That's, you know, I don't know. 15 feet, 12 to 16 feet or so, it should be a problem whatsoever. But again, I don't know about a house. Okay."
+    },
+    {
+        "start": "00:32:58.080",
+        "end": "00:33:26.000",
+        "text": "So definitely you could do a car front to back. And then if you, it was just a good question. If you did a car front to back, you'd have to do the whole, you'd have to move the plates around real slowly, right? Cause it's like, you want to do like three minutes and then three minutes and three minutes. If you want to take the whole car, right? It's a little bit tricky. Yeah. So I would, yeah, I would just use the traveling car blog for that. That's what I was thinking. The car."
+    },
+    {
+        "start": "00:33:26.000",
+        "end": "00:33:55.680",
+        "text": "I just take a picture of the car and put it in the cue block and I'm done, right? Yeah. You know, I know, but I, I know somebody that actually built a jig, a rig, you know, that held the plates and they drove their car through it real slowly. And they kept lifting it up and they drove it, you know, they literally charged. Like, like, like you would put a rock in a, in a cue block. They'd charge their entire car very slowly, uh, between, and drove it between these plates, right? That's awesome."
+    },
+    {
+        "start": "00:33:55.680",
+        "end": "00:34:24.480",
+        "text": "And they built this thing that held the plates up because they wanted to charge their car, which is cool. I mean, that's totally cool. Uh, okay. Okay. Great. So, uh, so these are the three new products, right? Yes. And we, we were going to also launch the focus card. And yeah, I've posted that in the group. Oh, that was a little bit of a, a personal disaster because it, uh, yeah, I, I could"
+    },
+    {
+        "start": "00:34:24.480",
+        "end": "00:34:51.120",
+        "text": "not find the frequency anymore. We had worked so long, um, on that one, actually, it was a development of over a few months. So, uh, I, I keep looking everywhere, it has never happened before. I don't know, um, how this could have happened. But yeah, we will possibly have to recreate it, but, uh, at least we have all the cards already and everything is already lasered. So it shouldn't take too long anymore."
+    },
+    {
+        "start": "00:34:51.120",
+        "end": "00:35:20.600",
+        "text": "I would guess, you know, within the next three weeks, we probably should have it done. But yeah, sorry for the delay on that. Okay. All right. So right now it's just, it's the same set of frequencies. Um, okay. That's great. You know what, just before the, before our chat, everyone, I just wanted to share with you that Philip, what I were talking about, um, how to help you decide what would be the best frequency for you. The cards are just a representation of a frequency."
+    },
+    {
+        "start": "00:35:20.600",
+        "end": "00:35:47.160",
+        "text": "That's where the frequency is embedded in a card. So it's, I, I'm using the words, uh, you know, as the same. So which frequency based on what you're looking for in your life and what you're trying to address or solve? And so, um, if you click on any one of these, I just want to point out that you will see the description. So that's where the descriptions live. Um, and then also to like, like I was telling, uh, telling you earlier, um, one of the things"
+    },
+    {
+        "start": "00:35:47.160",
+        "end": "00:36:15.120",
+        "text": "I do on my block is my blog is I also have, um, are actually like what I'm trying to do is like I've gotten here. If you guys are interested in, I post this onto if it, this is like basically a compilation of all of the different descriptions. So if you want to look at it at a glance, this will hopefully eventually end up on the website, but I just wanted to share with everybody who's like looking for, um, you know, a frequency"
+    },
+    {
+        "start": "00:36:15.120",
+        "end": "00:36:44.700",
+        "text": "that, that for a specific thing that they might have, that they want to address. And so the easy way to do it is, you know, you can basically click on each one of these or right now I do have a PDF that's a compilation of the descriptions so you can kind of see all of them at a glance. So that just to help you kind of just find out, because I do see a number of people come into the chat where, you know, they're like, I have this, what would be the best card, you know, slash frequency. So that's, there's two different ways to go about finding out what each one does."
+    },
+    {
+        "start": "00:36:44.700",
+        "end": "00:37:13.060",
+        "text": "And so I just wanted to point that out. Um, and then fill up to, I mean, is, is, is there anything you can add to that? Like, you know, um, like for someone who's just kind of like has an issue, um, and they're looking for like, what's the best frequency for me? What would be your advice on trying to, you know, like match a frequency to something that somebody wants to work on? Yeah. So obviously that is something that we can do an even better job in the future to help"
+    },
+    {
+        "start": "00:37:13.060",
+        "end": "00:37:38.620",
+        "text": "categorize the different frequency cards, because I understand it may be a little bit much effort to go through the list of all of these here. But as of now, I would use either your list or if I go to the drop down and you just open that one. And then the disc, the, the names of the cards actually already tell quite a lot about what it is about."
+    },
+    {
+        "start": "00:37:38.620",
+        "end": "00:38:05.520",
+        "text": "Obviously, if you read DNA and self protector, you know, that's, that's something, you know, for you and has to do with a DNA in the cell. So if that already resonates with something that you're looking for, then you could go into the description of it and read through it and then really figure out is that the right one for me on the same with, you know, sleep and rest and inner peace, I think those are quite self explaining titles."
+    },
+    {
+        "start": "00:38:05.520",
+        "end": "00:38:34.260",
+        "text": "And yeah, then just read through it and figure out if you resonate with it. So I always like to ask people to feel inside, you know, do you resonate with this? Does this feel like the right card for you? And then usually it is the right card. Okay. Okay. And, you know, I just clicked on this is so the, the four for, to buy four now that's,"
+    },
+    {
+        "start": "00:38:34.260",
+        "end": "00:39:01.660",
+        "text": "that's special is still running, right? According to this website, it appears so, yes. Okay. Yeah. Because I was okay. So, so right now, you know, this is the, the one right now that's the DNA frequency. And so if you, for one card, it's 145, but there's, there's been a, I guess, is this special going to last long because you can get four for five dollars, basically more than one. So you get basically four for one."
+    },
+    {
+        "start": "00:39:01.660",
+        "end": "00:39:30.780",
+        "text": "Well, I would say it's going to last at least for the next two weeks. And then we may take that down. Okay. All right. So that, yeah. So the, the four for one special is the sale. It's going to go for another couple of weeks. So is there anything else on sale because it's kind of like they're kind of, like, is there a sales page? If somebody wanted to say what's like, what's on special? I guess. We'll have in the future, we'll have on the very top, there will be a bar with special offers."
+    },
+    {
+        "start": "00:39:30.780",
+        "end": "00:39:57.460",
+        "text": "Okay. That's currently not up because, yeah, I think that's, that's the one offer here. Then the water bottle is currently reduced from 129 to $99. And then it'll also be up for a while. And then, yeah, there's just the offer for the travel block for the, for the existing queue block and the community block owners. Okay. All right."
+    },
+    {
+        "start": "00:39:57.460",
+        "end": "00:40:25.780",
+        "text": "So, you know, I just wanted to say because we're, we're running short on time for today. So we're going to just, you know, I mentioned in the chat group that we're going to do a Q&A and I've been collecting questions. So I think what Phillip and I are going to probably do is do that Q&A next week. And so, you know, so, and then we'll cover those kind of questions there. And so for today, we just wanted to share the new products and the new website."
+    },
+    {
+        "start": "00:40:25.780",
+        "end": "00:40:55.460",
+        "text": "And of course, you know, the, the link now I noticed you've actually got the links now to the actual telegram chat group. So for anyone who's new, it's never actually visited the chat group. And there's a link right now, I believe right there. No, not there. I saw a picture of a person holding a phone. I know it's in here somewhere where you can actually get to the, to the telegram. So, so that's the new website. That's the new products. I want to just thank everybody for listening in."
+    },
+    {
+        "start": "00:40:55.460",
+        "end": "00:41:22.980",
+        "text": "And before I let you go, Phillip, we've got to just another five minutes before I know you got to run. But is there anything else? Okay. So, you know, because it's always exciting about what you're working on and or the, you know, or new studies that are coming out. So, as we stand as of today, the focus your mind frequency, you're expecting it to get out within two or three weeks, right? Is there anything else that you're working on that you might want to share now or you want to save that for a future discussion?"
+    },
+    {
+        "start": "00:41:22.980",
+        "end": "00:41:52.460",
+        "text": "Well, there's, you know, as a teaser, just so you guys know what's, what's coming, you have the latest information. So we're working on the quantum upgrade service. That's taking a lot of my time and it's a lot of hard work. I think we'll be launching it. I think in the beginning of June with probably 20 to 30 test persons, not because we need to test the how it works."
+    },
+    {
+        "start": "00:41:52.460",
+        "end": "00:42:20.780",
+        "text": "That's already been proven and even tested in studies and all of that. That's all working. We want the actual front end and back end to communicate and also have 20, 30 people run through it and have our customer service run through everything and will probably even announce that in the group because that will be a free test. So whoever wants to then participate, you know, will have probably up to 20 or 30 free"
+    },
+    {
+        "start": "00:42:20.780",
+        "end": "00:42:41.140",
+        "text": "spots for a few weeks and I don't want to say too much, but it's a very flexible offering and it's pretty cool, it's pretty unheard of and I'm pretty sure that people will love it. So we'll announce that and but Kay and I will probably have a video in regards to that so we can provide more details."
+    },
+    {
+        "start": "00:42:41.140",
+        "end": "00:43:08.580",
+        "text": "And then the opt to today, we work very hard on the website and there's actually two studies that I want to mention. One is actually an animal study that we already did and I was already completed in the end of December and I think we never published it. We never published it just because there was so many other things and I just realized"
+    },
+    {
+        "start": "00:43:08.580",
+        "end": "00:43:31.220",
+        "text": "last week while we had this study and we never published it and I think people that have pets are maybe really interested in that. So we're going to try to get that done over the next let's say also three weeks and then there is the study, the Darkfield Microscopy study, a double blind study that was done"
+    },
+    {
+        "start": "00:43:31.220",
+        "end": "00:44:00.780",
+        "text": "actually by the Basa Institute in Europe for this quantum upgrade service and it was an absolutely amazing study we're currently still going through the translations and everything and we hopefully also should have that up and running in three weeks and then there will be an expanded study on top of that one that will happen over the next 30 to 45 days."
+    },
+    {
+        "start": "00:44:00.780",
+        "end": "00:44:26.700",
+        "text": "And yes, I think those are the most most important updates for now. That's amazing, I think for those of you who may not be familiar with what Phillips describing as a service but we're talking about using the Leleke quantum energy technology remotely right and that's going to be how that service is going to be designed so basically it's"
+    },
+    {
+        "start": "00:44:26.700",
+        "end": "00:44:51.020",
+        "text": "quantum healing of remotely and that's the idea of quantum entanglement. So it's just and you're already had it all tested and it's working and it's amazing. It is amazing. It still blows me away that I can use a block to help something or some animal or person"
+    },
+    {
+        "start": "00:44:51.020",
+        "end": "00:45:17.180",
+        "text": "from a hundred thousand miles away and it actually really works so that so those studies are going to be coming out when you launch the service right so people can actually read about how you're using a block and you put someone in there and then that person miles away, you can actually test them and look at their blood and is that kind of what that study is? Exactly."
+    },
+    {
+        "start": "00:45:17.180",
+        "end": "00:45:42.940",
+        "text": "Yes, and it's mind boggling indeed. It's so mind boggling that the head of the Bayes Institute had literally tears in his eyes when he left me the message about the results and what they just found out because you know it was over 200 kilometer distance right so really far away and it was double"
+    },
+    {
+        "start": "00:45:42.940",
+        "end": "00:46:09.520",
+        "text": "blind and the results were amazing and they were significant and they were in a hundred percent of the cases and it's just you know it's yeah it's just it's touching in a way you know that this is working and how it's working and so significantly so that is indeed great and yeah but it was a lot of hard work because the technology as is or as it was"
+    },
+    {
+        "start": "00:46:09.520",
+        "end": "00:46:34.740",
+        "text": "couldn't have been used for something like that only just for like one person you could do one person at a time and you can only do it at one certain quantum consciousness level now what we're doing is now it's it's so flexible now I'm actually giving more information away than I wanted to but you have levels from from 500 on the Hawkins scale up to 1200 on"
+    },
+    {
+        "start": "00:46:34.740",
+        "end": "00:46:58.540",
+        "text": "the Hawkins scale but 1,101,200 will only be available for people with a significant experience so meaning they must have had already an affinity block or something like that because those levels are so strong but even the other ones are great and there's flexibility and yes we will have a lot of different options that you can pick even up to the point where if"
+    },
+    {
+        "start": "00:46:58.540",
+        "end": "00:47:21.500",
+        "text": "someone has a business you can actually have that service for your business and now I actually want to you know give some information away that people will love everyone in the in the chat group will love this and we found this out through the work with with the quantum upgrade development and and now we actually tested it further and figured out it actually"
+    },
+    {
+        "start": "00:47:21.500",
+        "end": "00:47:50.260",
+        "text": "also works if you use your affinity block of any kind it could be an infinity block first generation or seventh generation it doesn't matter and also you can use the travel block for that if you put your name in there together with your birth date you exact birth date then everything around your birth date will be harmonized what does that mean usually"
+    },
+    {
+        "start": "00:47:50.260",
+        "end": "00:48:18.540",
+        "text": "we when we're born there's a lot of trauma that are happening on an energetic level because of this birth right which is traumatic in a way it's beautiful but it's also traumatic in a way because there's a lot of pain involved and things like that and yeah we we noticed that that this completely harmonizes it so you can just test that with yourself leave"
+    },
+    {
+        "start": "00:48:18.540",
+        "end": "00:48:44.140",
+        "text": "that piece of paper in there maybe for an hour it may already be done after 10 15 minutes already but I would suggest at this point an hour and see what it does it definitely is it's pretty awesome and you can do that even for your friends also or your family members if if they like so this is I think a pretty cool thing and you don't need anything"
+    },
+    {
+        "start": "00:48:44.140",
+        "end": "00:49:07.780",
+        "text": "extra for that if you own infinity block already you can you can use it and should work with the quantum block too but I'm not a hundred percent certain that's the only one we haven't tested yet you know it's I'm just listening to you and I'm blown away so you're saying let me get this straight do I write my full birth name like middle first middle last name"
+    },
+    {
+        "start": "00:49:07.780",
+        "end": "00:49:34.260",
+        "text": "and the date of my birth and I can take that piece of paper and put it inside my my infinity or my travel block and then the quantum energy will then I guess I guess neutralizes the only word that's coming to my head but it's gonna it's basically gonna take away all the negative aspects or the negative whatever you know of of my birth yes it harmonizes your"
+    },
+    {
+        "start": "00:49:34.260",
+        "end": "00:50:00.620",
+        "text": "birth really harmonizes your birthday and and but if you if you if you have a birthday let's say April 21st please don't write it in this way of 4/21 or like the Germans would write it 21st 21.4 write it April and then you can do 20 the 2 1 21st but right right"
+    },
+    {
+        "start": "00:50:00.620",
+        "end": "00:50:29.820",
+        "text": "out the the month so that that is clear so you would write April then 21 and then comma you know 1974 or whichever the the birth year was and yeah again together with your real full name and that's that's the clear signal for that it's pretty awesome yeah I gotta ask you I mean have you guys thought about like other dates like like if I were to write"
+    },
+    {
+        "start": "00:50:29.820",
+        "end": "00:50:56.660",
+        "text": "my full name down on a date that I was I had a traumatic experience do you think that would work for that it's it's a possibility indeed it's something that we can test so thanks for actually raising that question so it you know I would say why not so I think it's it's likely even that it's that it's possible but we haven't tested that so let's let's"
+    },
+    {
+        "start": "00:50:56.660",
+        "end": "00:51:23.220",
+        "text": "be cautious but yeah it doesn't hurt trying that and we can we can look into that further that's amazing thank you for sharing that you know honestly this that's the power of the healer network I mean we've got some incredibly gifted people that are have talents beyond my description and and these your team is doing some amazing stuff I mean okay I can't"
+    },
+    {
+        "start": "00:51:23.220",
+        "end": "00:51:40.840",
+        "text": "say enough about it it's just that's amazing I'm gonna try that right after I hang up with you hey there's one more thing that I actually didn't even want to raise yet because this is still probably several months out but we've been working with someone who's been focused"
+    },
+    {
+        "start": "00:51:40.840",
+        "end": "00:52:06.420",
+        "text": "on trauma work also healer from Europe actually Austria and he has developed a pretty amazing method on how to little really is every traumatic experience in in about half an hour and sometimes"
+    },
+    {
+        "start": "00:52:06.420",
+        "end": "00:52:32.440",
+        "text": "it takes 45 minutes sometimes it takes up to an hour and but it's it's with full full resolution like there's literally there's nothing left of that and it's pretty amazing and we've joined forces and figured out a way how to combine it with our technology in a way where it now can be done in the matter of just two to three minutes and yeah so we"
+    },
+    {
+        "start": "00:52:32.440",
+        "end": "00:53:02.340",
+        "text": "there's something that we're working on that's specifically just about trauma work and you know trauma that doesn't need to be one of those super tough traumas we have those but we have little ones as well we have tons of little one actually and it's we like to describe it as this backpack right so we all have this backpack and it gets heavier and heavier and heavier with all the kind of like quote unquote negative experiences or trauma does"
+    },
+    {
+        "start": "00:53:02.340",
+        "end": "00:53:31.960",
+        "text": "that we go through and you know as we become aware of all this and we're starting to connect more with ourselves it's sort of our job to you know lighten this backpack right because that's you know how we can really open up more and the more we can release of that backpack the better we feel ultimately right and so it's it's all about releasing that backpack and and there's going to be something that will come up with that is specifically focused"
+    },
+    {
+        "start": "00:53:31.960",
+        "end": "00:54:00.280",
+        "text": "on that and that's going to be really exciting to oh yeah I'm I'm looking forward to that some of us have more than a backpack we have like duffel bag roller bags and and you know the old-fashioned Louis Vuitton crate luggage all right well you know what I know we're out of time and you know thanks for sharing that everybody give it a try let's hear what you try it and come into the chat and let us know what happened but yeah thank you so"
+    },
+    {
+        "start": "00:54:00.280",
+        "end": "00:54:26.300",
+        "text": "much Phillip for your time this morning I love the look of the new website there's a lot more information we got new products it's all it's all great stuff so Phillip I will arrange a time to do the Q&A because and answer your questions in hopefully in a week or so and we'll get to that next and then in the meanwhile enjoy your products enjoy some of the new stuff and and this is amazing and give that birthday to try I'm gonna try other dates just to see"
+    },
+    {
+        "start": "00:54:26.300",
+        "end": "00:54:48.500",
+        "text": "you know but yeah I got me you got my tinker my tinker mind going now on that one but anyway thank you very much Phillip any parting words well thank you K for your time and yeah for helping to get this out here the information and thanks to everyone in the group I know I haven't been as active in the group as I would like to so yeah thanks to all of you"
+    },
+    {
+        "start": "00:54:48.500",
+        "end": "00:55:09.260",
+        "text": "and thanks also to K and to Emma and everyone helping in the group it's it's really joyful to see the group and still we have great vibes in there so that's that's a blessing and I'm looking forward to the future all right thank you very much you have a great day you too all right Allah"
+    }
+]

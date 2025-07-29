@@ -1,0 +1,647 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.800",
+        "text": " Aloha, everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and in this video, part of my bioelectrohealing series is on Cenars. So, of the dozens of different bioelectrical magnetic devices that I have, I do get asked every now and then if I could only have one device, which one would it be? And you know, the answer is, I would want a Cenar. And let me tell you why. However, before we jump into that, let's talk about disclaimers."
+    },
+    {
+        "start": "00:00:29.800",
+        "end": "00:00:59.320",
+        "text": "I do not recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video. Nor make any claims intended to diagnose, treat, cure, or prevent any disease. Reliance on any information appearing and discussing this video solely at everyone's own risk. Statements may have not been evaluated by the EFSA, FDA, or any government derivative thereof. Caution, do not use any bioelectrical magnetic devices if you have an electrical implant in your body or if you are pregnant."
+    },
+    {
+        "start": "00:00:59.320",
+        "end": "00:01:28.640",
+        "text": "Okay, there just isn't enough research done on the pregnancy aspect and you certainly do not want to be zapping yourself with electricity if you have an electrical implant. All right, so let's talk about what is a Cenar. Well, the Cenar is actually an acronym and it stands for self-controlled ergo-neuroadaptive regulator. So, you know, try to say that five times fast. And in a nutshell, it's basically an electrotherapeutic medical device, right?"
+    },
+    {
+        "start": "00:01:28.640",
+        "end": "00:01:58.040",
+        "text": "It's a combination of three different modalities in this, you know, healing space and devices made to heal people that use electricity batteries, so forth. And what it is, it's a combination of biofeedback frequency and PMF, which is the pulse electromagnetic frequency. Okay, so it's pulsed frequency tied to biofeedback. And how that really kind of comes together is the idea of biofeedback."
+    },
+    {
+        "start": "00:01:58.040",
+        "end": "00:02:24.000",
+        "text": "This is what makes it extremely unique in this field of bioelectral healing. It's the only device that does that or devices. And what that means is if you've ever had a biofeedback session or if you're familiar with biofeedback, basically you're connected to a machine that's going to measure your brainwaves. And based on, and there's two ways to do it, you can voluntarily, as you are, you know,"
+    },
+    {
+        "start": "00:02:24.000",
+        "end": "00:02:52.080",
+        "text": "trying to manipulate your waves, you know, consciously, you can see the results on a screen. And that's voluntarily, you're interacting with that thing and you are in control. But a CNR is actually using biofeedback from a reflexive standpoint where it's basically going to send impulses to your brain and then your brain's going to interact with it. And by the way your brain interacts with the device, it reads those interactions."
+    },
+    {
+        "start": "00:02:52.080",
+        "end": "00:03:17.560",
+        "text": "And then it compensates and determines what is the appropriate frequency to use for whatever situation that you're presenting the device. So it's pretty high tech. And you know, what's amazing, this stuff was developed back in the 70s and 80s. And it's a Russian invention. It was produced by those guys. And the story goes, and I've never been able to find any validation of this story, but"
+    },
+    {
+        "start": "00:03:17.560",
+        "end": "00:03:46.120",
+        "text": "the story goes that the technology was developed by the Russians for the cosmonaut program because you can't send a pharmacy up into space along with your astronauts, or in this case your cosmonauts, right? You just can't send the whole pharmacy. So they developed a device that could do a lot of different things from a health and wellness medical standpoint that the cosmonauts could take with them in a little handheld device such as you're seeing on the screen. So that was kind of like the story."
+    },
+    {
+        "start": "00:03:46.120",
+        "end": "00:04:13.960",
+        "text": "And again, I haven't been able to validate that and I really did look. But the idea is there, okay, it's a handheld device that actually can treat and cure different issues. And it's exceptionally geared towards pain management. But then, you know, it's over time, it's been expanded to do a lot more. So it really ties again, I want to point out this one really important point is this biofeedback, which is what makes it really, really unique."
+    },
+    {
+        "start": "00:04:13.960",
+        "end": "00:04:43.440",
+        "text": "So you put the device onto your skin, it starts talking to your brain, it figure out what's wrong at that moment, at that little place you're putting it, the probe or the electrode, and then it's going to go and figure out how to treat you. So that's the key here is it's got diagnostics capability by literally interfacing with your brain. So and then once it knows what it's, what your brain needs to do and your brain and the device are talking to each other, then it stimulates your natural body processes for"
+    },
+    {
+        "start": "00:04:43.440",
+        "end": "00:05:09.920",
+        "text": "cellular repair via neural singling, okay. And that's what it does. So it stimulates your natural process. And I can get into a lot about wound healing and injury healing and how seen ours work. I'm really going to try to keep this video reasonably lengthy or short, sorry, you know, because there's so much I could talk about regarding these devices and I've got a lot of content that I think it's very valuable and very helpful."
+    },
+    {
+        "start": "00:05:09.920",
+        "end": "00:05:39.640",
+        "text": "So I am going to try to be high level, okay, about about the situation or about this topic, okay. So, but that's what it does, you know, it talks to your brain and it stimulates your own brain's ability to control your body and then it starts the healing process. And that's what's amazing about this thing. And it's even more importantly, it's a non drug solution. There are no side effects if you adhere to the cautions, okay, but that's the key here"
+    },
+    {
+        "start": "00:05:39.640",
+        "end": "00:06:09.120",
+        "text": "is that this is a parallel modality, medical treatment modality that is parallel to the pharmaceutical industry, but there's no side effects and it runs off electricity. I mean, think about that. You buy one and you're in control. You don't have to keep going back or keep being experimented on, you know, but it's a non drug and that's what appeals to me first and foremost. You know what? And it also is an FDA cleared device."
+    },
+    {
+        "start": "00:06:09.120",
+        "end": "00:06:36.720",
+        "text": "Now, some of these products and there's multiple different manufacturers in Russia that produce these devices. And now some of them have actually been FDA cleared under the TENS guideline, which is a different type of bioelectrical device called a TENS, I'll get in that in a second, but and under that classification is for, you know, bioelectrics for pain management, some seen our manufacturers have been cleared by the FDA as a class two medical device."
+    },
+    {
+        "start": "00:06:36.720",
+        "end": "00:07:02.280",
+        "text": "And because of that, there are some sellers out there that will require a prescription to purchase one, but the majority of them, you do not need a prescription. You can just go and buy yourself one, okay? But because it's been FDA cleared, some of them have, then some of those require prescription. So just, you know, something to know. Now, I think it's really important to point out, you know, what seen ours are not, okay?"
+    },
+    {
+        "start": "00:07:02.280",
+        "end": "00:07:30.720",
+        "text": "It's been in terms of pointing out what is a CNR, but what is not a CNR? And that's what's really important because of this area of, you know, healing therapy and things like that, devices that go along with it. There's so many different types that it's really easy to get confused. If you're not like living it like I do, it's my thing, right? And so what I want to really point out, it was what it's not and what it's not. It's not a TENS device and this is what a TENS device is right here and it's just a"
+    },
+    {
+        "start": "00:07:30.720",
+        "end": "00:07:59.520",
+        "text": "little, cheapy thing you could buy for 40 bucks on Amazon, okay? And it stands for the TENS, TENS, retranscutaneous electrical nerve stimulation. And it's just, all it's going to do is put out a frequency, I'm sorry, you know, I'm sorry, a frequency. It's going to put out a voltage that you turn up and down and then it's basically going to numb out your muscles and it just, and that's how you control the pain. It doesn't heal you, it doesn't cure anything, it just numbs you out so you don't feel the pain."
+    },
+    {
+        "start": "00:07:59.520",
+        "end": "00:08:26.280",
+        "text": "And, and for those of you who understand pain management, sometimes you don't want to be doing that because pain is your body's way of telling you, let me heal. Okay, so, but that's what a TENS unit is. There's also different devices called an EMS, which is electronic muscle stimulation. That's one of these guys. And these guys are basically primarily used for to reverse the effects of atrope, you know, like if you break your leg and it's in a cast for three months, you know, it shrinks."
+    },
+    {
+        "start": "00:08:26.280",
+        "end": "00:08:53.200",
+        "text": "And so you want to stimulate it, you know, with electrical pulses to kind of build your muscle mass back up. And that's what these are used for in the medical field. And there's FSM, which is frequency specific microcurrent. You go to a practitioner, chiropractor, whatever, who's using one of these devices to hook you up with. And it's basically going to be pumping in frequencies at low voltage. That's not a CNR. And then of course, you know, you've got these pads, you've got these little ring things and that's postal retro magnetic frequency and it's a different type of modality."
+    },
+    {
+        "start": "00:08:53.200",
+        "end": "00:09:23.000",
+        "text": "And again, my point here is that there's all these different types. But these are not C-nars, okay? So if it doesn't say C-nars, it's not a C-nars. And I think, you know, that's common sense, but it's easy to get confused because they all kind of look alike, right? But keep in mind that the key difference is this biofeedback, okay, you know, circuitry in the device and its ability to deliver, you know, basically a frequency specific PMF pulse. And so it's not one of these, it's a C-nars."
+    },
+    {
+        "start": "00:09:23.000",
+        "end": "00:09:49.640",
+        "text": "And that's all. Let's just leave it at that. Okay, now what I think this is what's going to be the meat of the issue here for this preso is, is what are the technical specifications? Specifically, I want to try to answer for anyone who's interested is, you know, what are the technical specs of a C-nars, specifically to how does a C-nars work? What can you treat with a C-nars? And then how do you use a C-nars, okay?"
+    },
+    {
+        "start": "00:09:49.640",
+        "end": "00:10:18.960",
+        "text": "So I think what I'd like to do is walk you through, and this is for anyone who's interested in buying one of these devices, and I'll go through the price ranges. But the whole idea, though, is that if you want to learn about one of these, you know, go to the user guide, just go Google, or duck, duck, go, whatever you use, but go and find the user manual for this thing, whichever device you're going to get, and read the manual. Okay, because that is the absolute best place to learn, and I'm going to walk you through"
+    },
+    {
+        "start": "00:10:18.960",
+        "end": "00:10:48.280",
+        "text": "three different devices that I have that, and the English manuals that came with them. Now, just be aware that if you buy all of these things that are Russian-made, so you most likely will get a Russian manual in the box, and then the seller will then email you the English version of that, and it's been around for so long that you can always just find the English version on the internet, and that's what these are. So I'm going to walk you through, and I have a C-nars device that's called a Chan C-nars."
+    },
+    {
+        "start": "00:10:48.280",
+        "end": "00:11:16.880",
+        "text": "I have this specific device, which is the Home Model, which is the Model D, Sport D. I have two of these, one for I gave my daughter, and then this was actually one of the first ones that I got, and it's a much older version. I've been using C-nars well over 10 years, so this is like one of the very oldest ones I own, and it's definitely got some miles on it, and then here's the manuals that came with that. I'll walk you through that, and then I sort of started tinkering around with this other"
+    },
+    {
+        "start": "00:11:16.880",
+        "end": "00:11:46.440",
+        "text": "model from a different company called the NAS, and this is the PCM6, and the manuals that came with that, I'll walk you through that, and then most recently, I've sort of led in the last, I don't know, year or two, have upgraded to a different class of C-nars called the Bio-Modulator that comes along with this thing called a Bio-Transducer. So let me walk you through that, because I think where the answers to these questions are going to lie is really going to be in these manuals, and this is where the meat of the issue really comes through."
+    },
+    {
+        "start": "00:11:46.440",
+        "end": "00:12:16.440",
+        "text": "So here's the manual, and to answer the very first question, this is the manual on the C-nars, the RITM, or the C-nars Chans-C-nars, and to really answer the first question, which is how do these things work? Okay, now, I'm not going to get too much into the technical specs, because we could spend hours on that, but I think the easiest thing to do is just look at the manual and say, okay, well, let's just kind of go down to where it talks specifically about it, and which is kind of cool, because this manual really gets into the technical specs."
+    },
+    {
+        "start": "00:12:16.440",
+        "end": "00:12:45.600",
+        "text": "I mean, we're talking electrical circuitry and so forth, but what I want to point out is the idea that it's a PEMF device, okay, and it's got amplitude and voltage and a level of microamps, voltage, and amplitude. That's going to basically be the pulse that's going to go into you. So one of the things I do notice about the user manuals, they don't get into how the biofeedback thing works, but it really focuses on how does that frequency specific PEMF aspect of the device work."
+    },
+    {
+        "start": "00:12:45.600",
+        "end": "00:13:13.880",
+        "text": "And again, what I mean by that is you're getting a pulse of electrons, right, at a very specific frequency and a very specific power level. That's it. That's really what, you know, I'm sorry I get if I'm using terminology that I haven't defined, but that's what I mean by that, which is in here's basically the amplitude. So if you, if you don't know if you ever watched my first video, my intro to my bio-electrical magnetic devices where I talked about hummers versus ringers, uh, C-nars are ringers, okay?"
+    },
+    {
+        "start": "00:13:13.880",
+        "end": "00:13:43.520",
+        "text": "And that just simply means that the pulse coming at you is just a pop and then it goes down versus a device that is just going to play a tune to you like, you know, right, and you're just getting that frequency over this, you know, it's going to stay set the same over a period of time versus a pop, and then it just drops down. And that's what you're getting. That pulse, that at PEMF pulse, and as you, as you can see from the specs, uh, depending on the model that you get, um, I've got the home D right now, which so, um, this is, this"
+    },
+    {
+        "start": "00:13:43.520",
+        "end": "00:14:10.600",
+        "text": "is my oldest one, right? And then it has a 90 Hertz plus or minus 10% on the frequency range, uh, right here. Uh, and then of course you've got, uh, well, that's the stimuli frequency and then you've got your regular frequencies that the machine, uh, the device uses, again, a cycle modulation, how fast it comes and, you know, all that kind of stuff. So, you know, and that's kind of it right there. And then if you look at, uh, the PCMS, uh, PCMS, uh, CM six, uh, it also has, uh, its"
+    },
+    {
+        "start": "00:14:10.600",
+        "end": "00:14:36.480",
+        "text": "own, uh, set in the user manual where it actually shows you the specifications in terms of minimum and maximum amplitude, uh, and so forth. And I don't know how many of you, you know, folks are really into this kind of thing, but if you are the specs are here and it'll tell you exactly what frequencies, uh, it, it's capable of delivering and how strong of a frequency it can deliver. So that's the concept of how it works. Okay."
+    },
+    {
+        "start": "00:14:36.480",
+        "end": "00:15:05.600",
+        "text": "Now what I think for most of us, I'd say 99.99 and I, and I'm clearly one of them is, you know, I really don't really get too deep into the nerdy number thing. Uh, I'm really like, okay, well, you know, what is it treat? I mean, what, what can I use it for? That's really where I'm coming from the majority of the time. So when you look at the, what can you use it for, uh, and it's a separate manual, uh, for the, uh, chance scene are, uh, I, you know, one of the things that this guy was like, this is like one of my oldest manuals and, and, but what's really cool though, is"
+    },
+    {
+        "start": "00:15:05.600",
+        "end": "00:15:31.840",
+        "text": "it really lists out, uh, exactly like right here for the lay users, recommendations for lay users, you know, starting on page 15 and, uh, oh, hey, uh, I should have mentioned this. By the way, uh, everything you're seeing in this video, I put on Google Drive and different folders, uh, and the, the link's going to be in the video description below. So everything you're seeing, feel free, grab a copy and you can just read it at your, uh,"
+    },
+    {
+        "start": "00:15:31.840",
+        "end": "00:15:57.000",
+        "text": "leisure and, and be able to just kind of study it on your own. So, you know, feel free to do your own research. Everything you see is going to be in those folders on Google Drive for you. Okay. Uh, so we're in this, uh, chance scene, our, uh, manual page 15 and this is what it does. This is what I am most interested in, which is what does this thing treat? Uh, you know, scene, our, this specific model, right? Different models can do different things. Okay. That's very important."
+    },
+    {
+        "start": "00:15:57.000",
+        "end": "00:16:24.760",
+        "text": "Uh, and so basically, you know, you can get, uh, analgesic, they're, I'm sorry, analgesic therapy, which is your pain, right? Uh, trauma treatments, you get burns, fractures, breaks, contusions, things like that. You can get, uh, these things can treat, uh, respiratory, uh, issues, anti-adema issues, uh, you know, bad bruising, uh, and then you get into neurological diseases where you can see where all these different types of, uh, diseases are listed here in terms of,"
+    },
+    {
+        "start": "00:16:24.760",
+        "end": "00:16:53.120",
+        "text": "uh, you know, cranial type of issues, uh, motor muscle issues, uh, you know, you can even, it's interesting we get into this whole vegetative and, and you could use it as an emergency device. Um, you know, I'll get later into that, but then, uh, also arthritis and tendinitis and then cardiovascular and you can just, it goes on and on. It goes into ENT, tonsillitis and gastrointestinal, I guess, intestinal, sorry, dental, urinary tract, gynecological and so forth and so forth."
+    },
+    {
+        "start": "00:16:53.120",
+        "end": "00:17:18.880",
+        "text": "And that's really the range and, you know, as you can see, there's quite a range of different ailments, diseases, injuries, just day to day pain, uh, that senors are applicable for. And you know what? I just got to say this that, and if you don't, if you don't know is the senors are so embedded into the Russian medical system that there are senor clinics everywhere and that you"
+    },
+    {
+        "start": "00:17:18.880",
+        "end": "00:17:48.560",
+        "text": "can literally go and instead of you going to your pill popper, pill pusher, uh, white coat person that you unfortunately deal with every now and then you could in Russia, you go to these senor clinics and they just like, you know, treat you with senors, uh, if you can't afford your own home one and that's it. And so they, it's a whole nother world over there in terms of how they, how they look at the medical field, uh, and, and you know, they're not opposed to using, uh, things that are not tied to drugs, which is very important nowadays."
+    },
+    {
+        "start": "00:17:48.560",
+        "end": "00:18:17.300",
+        "text": "Okay. So that's the, uh, what does it do, uh, in terms of the list of things that it can do? And then, and then how do you use them and tied to? So this is like the best example of, of the list of things it could do, but I want to kind of walk you through the third question now, which is how to use these devices for all this stuff. So when you, we start getting into that, um, you know, like let's take a look at the, this is the Chan senor. Again, this is a, uh, when I upgraded my old one for my new one, I use, well, you know,"
+    },
+    {
+        "start": "00:18:17.300",
+        "end": "00:18:45.680",
+        "text": "if I, if you go back to, um, whoop, this one here, uh, I have the older model and I have the newer one that looks just like it, it gets confusing. Uh, and so the newer one came with, and they started coming out with a color, um, user manuals, uh, you know, a few years ago. And so the color one is a lot nicer. Uh, it's easy. And so they really give you some, uh, really good diagrams by which you can kind of take a look at the treatment methods, like how do I use this in combination with what it does?"
+    },
+    {
+        "start": "00:18:45.680",
+        "end": "00:19:15.640",
+        "text": "So now the manual say, okay, this is what it does. And then this is what to do with it, uh, with the device and how do you treat that? And it kind of shows you where to place the electrodes, how to do it, the, you know, in terms of just how do you actually use it? Uh, and then also in terms of just, uh, all the different types of, uh, accessories that come with it as well as again, you know, specific, like where exactly, what specific points do you need to place the electrode at? How long do you place it there, uh, depending on the ailment that you're actually trying to address?"
+    },
+    {
+        "start": "00:19:15.640",
+        "end": "00:19:45.280",
+        "text": "So it's really kind of like, you know, you can see where the, where the user manual's got a lot, uh, more comprehensive over time in terms of helping out, uh, you understand how to use these devices. There's also, um, this device radar, I talked about the PCMS, uh, six, that's that other one. And you know what? I got to tell you, this guy right here is, uh, the most reset, like it's one of the newer models that came out a couple of years ago, um, and you know what? It's by far of all of the different, uh, scene hours that I have, I think I have like six"
+    },
+    {
+        "start": "00:19:45.280",
+        "end": "00:20:12.160",
+        "text": "or seven, uh, this one is, um, the easiest one to use. It's also the least expensive one. You could buy the actual unit for about 200 and accessories for an extra hundred. So for like under 400 bucks roughly, you could have a full kit. Um, and you definitely want the accessories with this guy. It's designed for those accessories, which is what's really cool. Um, and so, uh, this guy is really super easy to use. It's a really good entry model."
+    },
+    {
+        "start": "00:20:12.160",
+        "end": "00:20:37.960",
+        "text": "It's got a really good documentation and you can kind of see right here where, you know, uh, you know, I like this guy a lot, uh, because you know, it's like, it's got this little screen and you could look at the screen right here. This is a picture of the screen and it says, hey, do this, you know, like very, very visual. Do this for this law and then it automatically sets the duration, it automatically sets the power level. Uh, well, you actually have to set the power level, but it sets the duration for you and"
+    },
+    {
+        "start": "00:20:37.960",
+        "end": "00:21:06.360",
+        "text": "you just pick, I have an allergy, I want to treat the allergy in it and it shows you in a picture where to put the probes, right? Let me just keep going down here. See if they got any more examples of what the screen looks like. I'll find it. I thought I saw it. Here's the, here's the different, uh, pads that I have. Um, and I thought I saw, oh yeah, here you go. And so this is where you would put the probes, you put it on the back of your neck, you put it along this mid band, uh, and then you set the thing for, I got allergies or if you've"
+    },
+    {
+        "start": "00:21:06.360",
+        "end": "00:21:35.880",
+        "text": "got lower abdominals, this is the, this is the area you want to treat. And you just pick it. You just pick what your problem is and then it shows you these pictures on the screen, wear on your body to place it and you just do it till it beeps at you. It's so simple. Uh, so yeah, this is a really great model and, and, and, uh, you know, I recommend all of this stuff. So it's really going to be depending on your budget and, and what you really want to try to cure, treat, right? And how you're going to find out what you're going to cure or treat or which one works for what?"
+    },
+    {
+        "start": "00:21:35.880",
+        "end": "00:22:03.080",
+        "text": "Look at the manuals. Okay. So now the other one that I want to talk about in terms of, uh, uh, well, this is the, the bio modulator, uh, specifications, uh, again, just kind of revisiting the idea of, you know, like, if you want to know what the specs are, here you go. It gives you the power output, frequency, voltage, current and all that. But instead let's talk more about like, what do you use it for? And so this, the thing about tenant now, uh, is, is their senars, they don't call them senars."
+    },
+    {
+        "start": "00:22:03.080",
+        "end": "00:22:30.480",
+        "text": "They call them bio modulators, um, and, um, the information for bio modulators is not all in one manual. Okay. Uh, which makes it a little challenging to learn. Uh, and so it's about, I would say about half of the stuff you want to know is in a manner. Maybe I'd say that's, that's kind of excessive. Let's be honest. 20% of what you want to know is going to be written in a manual and the eight of 80% is"
+    },
+    {
+        "start": "00:22:30.480",
+        "end": "00:23:00.280",
+        "text": "in videos that they, and then you get, uh, three sets of, uh, of educational, uh, opportunities to learn this stuff. Um, and they have this online, uh, university, which is awesome. And so that would probably get you about halfway there in terms of becoming really, really proficient. Uh, was just watching the videos, read all the guides. This is the guide, uh, you're seeing right here. And then the rest of it though, you know, is going to be paid for. Like if you want to get proficient, like really, really like a practitioner level proficient"
+    },
+    {
+        "start": "00:23:00.280",
+        "end": "00:23:26.320",
+        "text": "at everything that a bio modulator can do, uh, you would need to take the advanced courses and they do charge for that. And so that's, so that's their business model, which is a little different than let's say you go and buy a PCM six, uh, it comes with the manual and then some of the, some of the training videos are free. Some of them you have to pay for if you want to become really, really proficient. Okay. So one of the things though, this is the bio modulator, um, a, a scene are okay."
+    },
+    {
+        "start": "00:23:26.320",
+        "end": "00:23:52.480",
+        "text": "And it will also the quick start guide will tell you exactly, not exactly, but it'll tell you and give you some guidance as to, you know, how to use the machine, which is very handy. This also got its own set of accessories, but you know, this is probably just the fact that they did it like this, uh, it made it, for me, the easiest thing to use, um, to learn how to use. Uh, as opposed to, you know, reading, uh, the PCM six manual, which is 216 pages."
+    },
+    {
+        "start": "00:23:52.480",
+        "end": "00:24:19.240",
+        "text": "Uh, uh, the quick start guides for the bio module, there's only 61 pages. So I could, you know, bang through that in a night. Uh, but then, but you know, same thing, right? It shows you where the points are, whether you want to put it on depending on what your issues are. Like, if I want to treat the gallbladder, here's the points for that. If I want to treat, you know, the stomach, this is the point, uh, if I want to treat the small intestine, that's the point, which is strange, but it's how it works. Uh, and then that sort of thing. So then, you know, here you want to, your parasympathetic and sympathetic nervous system,"
+    },
+    {
+        "start": "00:24:19.240",
+        "end": "00:24:45.360",
+        "text": "you want to reset that, uh, then you want to go ahead and this is the point right here, this, this range right in here is what you want to treat, uh, that sort of thing. And then for different conditions. So you can kind of see how, um, you know, it's really helpful. It's got a lot of pictures. I need pictures to learn something and this is such a very helpful thing. Uh, and then one of the most, the coolest thing about the, uh, bio-modulator, and it's really much more advanced than, than the PCM six or the, the chance CNR and the reason"
+    },
+    {
+        "start": "00:24:45.360",
+        "end": "00:25:09.720",
+        "text": "I got a bio-modulator is that it's really, in my personal opinion, it is the most advanced CNR you, on the market as of now for home use. Okay. Um, and because the, uh, the guy that invented the, uh, the bio-modulator, Dr. Jerry Tenet, and he's also the author of healing is with the voltage. The guy is a freaking legend and in my end world, you know, the bio-electrical magnetic"
+    },
+    {
+        "start": "00:25:09.720",
+        "end": "00:25:37.520",
+        "text": "world, he's a legend and he, he saw the potential of a CNR and he also had a deep, deep understanding of, of the concept of how our body works as it relates to voltage. So he had a CNR that was made by a company called, uh, a visa and he had it customized into a bio-modulator by combining body voltage measurement and charging with a CNR."
+    },
+    {
+        "start": "00:25:37.520",
+        "end": "00:26:05.880",
+        "text": "So his CNR, which is called the Tenet bio-modulator, this guy right here. This thing, his CNR, um, is, is, is everything a CNR, it could be, right? The bio-feedback frequency and PMF plus it's got an extra feature that other CNRs don't have, which is body voltage, uh, measurement and body voltage charging. And so you could literally use this thing to charge up, uh, and you know, cause your"
+    },
+    {
+        "start": "00:26:05.880",
+        "end": "00:26:35.320",
+        "text": "body, your battery, you know, you guys are, saw the movie matrix, right? Well, that was actually true. I mean, human beings are a little by batteries. Okay. That's, it's actually scientifically fact. And so we, we run off of electricity, everything, all our chemical processes are run off positive negative charges and, and, and electricity going through, I mean, micro millivolts, right? Really tiny, but it, that's what we are. And then we actually have a bio-magnetic, uh, field around us because we're electric and that bio-field is called the human bio-field. I don't want to digress."
+    },
+    {
+        "start": "00:26:35.320",
+        "end": "00:27:02.760",
+        "text": "But you can, when you're feeling down, that means you're a low voltage, charge up like a battery. And this is how you do it. Uh, so I, I, I do this quite often and you just, the only thing you got to be careful of is, uh, don't do it too much or you won't sleep, you know, you're just going to charge up too much. And that's as possible. But yeah, whenever I'm feeling down a couple of coffee and hook up to the bio-modulator, um, and, and put 10s pads on, on these, the black goes on, black red goes on, you know, typical battery, right? Positive and negative. Very important."
+    },
+    {
+        "start": "00:27:02.760",
+        "end": "00:27:28.480",
+        "text": "Because the body has positive negative, uh, portals, right? And then, and so you can see the manual really kind of goes into that. So it's really, really, really helpful. If you want to understand the bio, uh, modulator, this is it. And then the other thing that the bio-modulator has that no other scene or has, and I'm not trying to sell these things, uh, I have no affiliation. I'm not, I don't, yeah, I have no affiliation whatsoever. Pick whatever product you want has nothing to do with, uh, my pocketbook."
+    },
+    {
+        "start": "00:27:28.480",
+        "end": "00:27:55.240",
+        "text": "Um, but the thing that makes this, and this is why it's my go to. So like if I had to go to a deserted island, what would I take with me? I take, I have this little, you know, uh, laptop bag with all my bot bio-modulator stuff in it, plus all the accessories. I'd grab that. I'd grab that and I'd grab my dogs. And, and that would be it, you know, and, and that would treat us for whatever happens. Uh, but the thing about it, like I want to point out though, is it has a bio-transducer. And that's what this thing is right here."
+    },
+    {
+        "start": "00:27:55.240",
+        "end": "00:28:24.920",
+        "text": "This is the, uh, the original one was called the crystal wave and then they upgraded to a bio-transducer. And it's actually a newer model right now that's out. Um, that's a, that looks a little, that does the same thing. It just looks different. Uh, so that's what this guy is. And, and what this little doohickey thing is, this thing above this girl's head, uh, like that right there. Um, let me see. You've got a better picture of it, uh, I guess not. Okay. So let me just kind of expand on it so you can kind of see what the picture looks like. Uh, so I've got this model right here."
+    },
+    {
+        "start": "00:28:24.920",
+        "end": "00:28:52.920",
+        "text": "And then I've got this, this little like, it looks like a, it looks like a telescope, right? Uh, and so this thing right here has its own power supply. It's battery operated. You plug it into this guy. And so then the, basically the bio-modulator sends a frequency pulse through the bio-transducer and what the transducer does is it translate, it basically translates, uh, lates or trans, unless it gets transmuted or whatever, uh, what is a better word for that? It basically just changes it into a scalar wave. Okay."
+    },
+    {
+        "start": "00:28:52.920",
+        "end": "00:29:20.600",
+        "text": "And so the thing is, and this is a really important point. I do want to point out is that it is hard to try to treat an internal organ, uh, with a, with a device that you place on the skin because you're sending a pulse through your, your body, right? And your body is made up of muscle, fat and tissue. And then so the whole idea though, it's if anyone who understands radio waves is that your body absorbs energy that's been pumped into it."
+    },
+    {
+        "start": "00:29:20.600",
+        "end": "00:29:49.760",
+        "text": "And so every, like, you know, every centimeter that you go into your flesh, uh, you're decreasing the, uh, level of energy that's going to reach the next centimeter. And it just keeps going down like a reverse hockey stick, right? And so, um, the, and so what tenant realized was that, you know, to get the optimum treatment of a scene are you needed to go deep into the body and how would you do that? And an irregular electrical bio electrical pulse will not have the same level of strength"
+    },
+    {
+        "start": "00:29:49.760",
+        "end": "00:30:16.360",
+        "text": "that the machine puts out four or five inches into your body. You know, and for those of us who are like me that we're kind of round, uh, the center of our mass could literally be four inches in, right? And so to get four inches in and still have the same, uh, level of energy, uh, with an electrical device, that's not going to happen because you're going to lose energy as you go inch by inch by inch into your flesh and then especially if it's bone."
+    },
+    {
+        "start": "00:30:16.360",
+        "end": "00:30:45.440",
+        "text": "So he invented the bio transducer, which is a scalar device. And so whenever you're treating your internal organs, uh, or your brain, you know, anything that's past your, your bones, right, uh, or an inch into your body, uh, you use the bio transducer and, uh, and believe me, that thing works. I've used it on my own self and it works a way better than a regular scene are because again, seniors can't penetrate that deep bio transducers can, can't."
+    },
+    {
+        "start": "00:30:45.440",
+        "end": "00:31:15.160",
+        "text": "And so the bio transducer can go right through your whole body and it sends a scalar wave, a scalar signal, uh, into whatever you're trying to treat and, uh, that's how you can get that pulse PMF, you know, frequency specific PMF pulse deep into your body, uh, with a scalar wave using a bio transducer. I hope that wasn't too technical, but that's how it works. And so that's kind of the cool part about it. So that's the quintessential. And I hope that was concise. Uh, how does it work? How do you know, what can you treat and then how to use it?"
+    },
+    {
+        "start": "00:31:15.160",
+        "end": "00:31:41.720",
+        "text": "And so the, how to use it buried in the manual, all those informations there, a video description, click the link if you want to learn more. So next thing I know that everyone's asking besides like, okay, well, you know, uh, how does it work? What does it treat? How do you use it? It's okay. Well, you know, what's the clinical and, uh, experience, uh, that's been reported and what are some of the studies? And so, you know, this is where I just want to say that, you know, you, I could spend"
+    },
+    {
+        "start": "00:31:41.720",
+        "end": "00:32:07.160",
+        "text": "days finding all of this stuff and, and document it, but I, you know, I just don't have that level of time, but what I did do though was I spent a good, like a half a day, uh, just going through, um, just the first like page, a page or two, I'd say the first page and half, two pages off of Google, Google Scholar, which is, you know, the website that searches through, uh, papers, uh, you know, it's clear on science papers, uh, and, and just looking"
+    },
+    {
+        "start": "00:32:07.160",
+        "end": "00:32:35.760",
+        "text": "at other websites, the actual manufacturer websites on what they report in terms of what are the, some of the studies and the clinical experience of the practitioners that are using these devices out in the field and like, again, it's been 34 years, right? And it said, there's a ton. So I just grabbed a little snippet, um, and this is just like, you know, the papers that I grabbed right off, you know, that just, that's just a four hours of researching, uh, and just so that I could just share with you, uh, an example, okay?"
+    },
+    {
+        "start": "00:32:35.760",
+        "end": "00:33:05.480",
+        "text": "So this is just an example of what it can do, uh, based on not the, you know, user manual, which is in the guy that wrote it's trying to sell you one, right? Uh, but this is what the, uh, sciences that are studying this stuff and the clinical users that are using this stuff and what are they saying? So let's just look at just a few, okay, from, uh, just, you know, purely, uh, you know, just random, go through Google Scholar, let's take a look at a bunch of papers and just get it at, this little temple, you know, tip of the iceberg sampling of what the science"
+    },
+    {
+        "start": "00:33:05.480",
+        "end": "00:33:33.460",
+        "text": "literature says about the use of Scenars. So the very first one is basically using Scenars right here, uh, skin therapy on skin burns, okay? And so what I'm just going to point out the, uh, the results, just jump to the results and so that this doesn't take too long. But bottom line is that, um, the Scenars were discovered, you know, during the research, uh, the Scenar was used for applying three different methods described in the article. Uh, and by the way, all of these are translated from Russian to English. Okay."
+    },
+    {
+        "start": "00:33:33.460",
+        "end": "00:34:02.440",
+        "text": "These are Russian studies, uh, state university of Rostov, on dong, okay, uh, tag on wrong. Okay. No, I'm sorry. Okay. So anyway, so, uh, they basically had some people had burns and they tried and they treated them with Scenars. All right. Uh, and so here's what the, uh, folks said about the Scenars, the results, let's go jump to that, uh, the results right here and I'll just point it out, uh, during the use of all the Scenar therapy, improvement in clinical blood value was stated in an anti-oxidative"
+    },
+    {
+        "start": "00:34:02.440",
+        "end": "00:34:32.000",
+        "text": "potential, reliable increase in superoxide, doom, distomutease and catalyst, uh, Earthrow sets, that's blood, red blood cells and the decrease of medium mass molecular concentration restored. Uh, so this is all good stuff. It basically helped and, uh, trying to find in, uh, you know, like a layman's, uh, sentence here that says, um, uh, there, I guess there's no, uh, there's no real night, I'm looking, and I don't see a layman statement that says, hey, this is, this worked. It helped. It improved, but that's what this means."
+    },
+    {
+        "start": "00:34:32.000",
+        "end": "00:35:01.760",
+        "text": "Uh, from a science or a medical standpoint, uh, it, it helped the burn and it healed it faster. Uh, here's another one on burns. It just, this is what just popped up on Google. Uh, I believe that words, I can find a little bit better, uh, I think right here. So let's just say, usually you find it at the last two sentences of their, of the abstract, but I don't think the Russians write their abstracts like, like we do. Uh, okay. So right in here, it says researchers or recent years, blah, blah, right, different."
+    },
+    {
+        "start": "00:35:01.760",
+        "end": "00:35:27.280",
+        "text": "Okay, so I did find this earlier, research findings, here we go. When combined with anesthesia analgesia, okay, so that'd be like burn gel or something. The effect could be noted in five patients in 10 minutes, 10 patients blah, blah, blah, blah, blah, blah. The results, evidence that painful sensation was reduced in 94% of the primary group."
+    },
+    {
+        "start": "00:35:27.280",
+        "end": "00:35:55.480",
+        "text": "In the control group, they were using the analgesics, only 56% and then 44% asked for additional analgesic injections due to pain. So that's pretty awesome, 94% of the primary group received a benefit from using the cenar on the burns. Here's another one. This one's another translation, effectiveness of cenar in complex treatment of ulcer."
+    },
+    {
+        "start": "00:35:55.480",
+        "end": "00:36:25.040",
+        "text": "And I couldn't, this is one of those ones, I couldn't find the whole study. I only could get the abstract, but here we go. This is in combination with the normal treatment, they use the cenar, okay, with it. And so in addition of cenar therapy, the complex conventional pharmacology, fastened, ulcer healing increased the effectiveness of this. Wow. Here's a word. Heliobacter, plural, or I'm sorry, I don't want to be doing this, eradication and improve"
+    },
+    {
+        "start": "00:36:25.040",
+        "end": "00:36:53.720",
+        "text": "the condition of the gastrointestinal, do neural mucosa. All right, I'm so sorry guys, but okay, it improved, okay, let's just stick with the word improved and it helped, it helped treat their, it made their ulcer treatment better by using a cenar. Here's another Russian translated one, cenar therapy for chronic insomnia. And bottom line is, you know, they talk about doctors and they did 342 doctors and they had"
+    },
+    {
+        "start": "00:36:53.720",
+        "end": "00:37:21.140",
+        "text": "them fill out a questionnaire before and after cenar treatment that says, hey, did this thing help you sleep better, okay, with insomnia. And so let's just, and this is the zap, oh man, this is some kind of medicine, the zap on, so what they did was they gave the doctor's medicine to help them with their insomnia, okay, and then they gave them a cenar to help them with their insomnia and they wanted to compare the cenar to the medicine, all right, and this is what happened."
+    },
+    {
+        "start": "00:37:21.140",
+        "end": "00:37:46.500",
+        "text": "So now they did a survey, it's a self assessment, 342 doctors did a self assessment on before and after using the drug, and then they did another one before and after using a cenar for the same problem, quality of sleep, okay, right there. And so just like real quick here, here's their characteristics of sleep and how long I took them to fall, how long they slept, blah, blah, blah, but the total evaluation I think is what's really kind of impressive here."
+    },
+    {
+        "start": "00:37:46.500",
+        "end": "00:38:15.060",
+        "text": "On the drug, right, the average score was 16.3, this is how, you know, this is basically their crappy life, but you know, when they took the drug, you know, the average score went up to 22.7 on their scale, whatever the scale was, right, and if you did some math, you know, that's a pretty good percentage increase in improvement by using the drug. But what's really cool is check this out. When they did the self assessment, it pretty much came out the same before the cenar treatment, but after the cenar treatment, look at this."
+    },
+    {
+        "start": "00:38:15.060",
+        "end": "00:38:42.140",
+        "text": "Using a bio electrical device, no drugs, they roughly achieved the same result as taking a drug. There was an improvement in their sleep, no drugs. I mean, repeat that, it's so important because I'm anti drug, okay, it's an improvement equivalent to that of taking a pharmaceutical, okay, let that sink in, all right. So now here's another one."
+    },
+    {
+        "start": "00:38:42.140",
+        "end": "00:39:06.900",
+        "text": "This one gets really complicated, and when I read this thing, I had a hard time. There are no English words in here that any, I even understood, but you know, it's going to be one of those other ones where it's like, hey, it improved, okay. And what it improved, I still haven't figured it out, but it's in the, okay, well, I did try to read this again. And what I got out of it was this study basically says it had, it that the cenar improved the"
+    },
+    {
+        "start": "00:39:06.900",
+        "end": "00:39:35.460",
+        "text": "the anti oxidative responses within the blood in very complex words that I had to go look up in a dictionary. So I'll leave you with that one for you science guys, you can know our medical guys. Now here's another one that's English translation of a Russian universal mexida. And this is a mechanisms of cenar effect again here in oxidative stress. This study actually says, yeah, it basically right here. The anti radical effect, the cenar therapy is universal for various pathological processes."
+    },
+    {
+        "start": "00:39:35.460",
+        "end": "00:40:03.940",
+        "text": "So it's anti oxidative, anti radical. So then you know what that means. Alright, if you guys take it C 60. So here we go. Another one here, which is the Russian study done in it was, I'm sorry, is a cenar clinical trial in the United States using a Russian medical device, right? That's what it is. And so in this guy, again, they took a bunch of people, they had them rate themselves. It was, I believe was on for pain. And then here's your, here's your, here's your reported pain scores, right?"
+    },
+    {
+        "start": "00:40:03.940",
+        "end": "00:40:31.740",
+        "text": "You know, you go to the chiropractor or your doctor, go on a scale of one to 10, how much pain you in, right? And then that's what they did with these folks and these folks came in. Their rate of pain was, you know, high. And then they use the cenar and it got better. It dropped. That's, that's the point there. And then there's one, another one, cenar for pain relief and chronic illness. I found this on research gate. It's an actual really good article about just different practitioners reporting in their"
+    },
+    {
+        "start": "00:40:31.740",
+        "end": "00:41:01.060",
+        "text": "clinical experiences using cenars in their practices. And then this is my favorite. I found this on the e-body fusion website Benedict Howard. Great guy lives in Maui, another Hawaiian guy. He teaches how to use a cenar. He's a Denas distributor. And on his website, there's this study. And this is the most profound study I will share with you about cenars. And I think it's so valuable. Basically, the cenar trials was done in the 1980s in Russia."
+    },
+    {
+        "start": "00:41:01.060",
+        "end": "00:41:28.900",
+        "text": "Okay. In 1980s in Russia, the Russians, they tested 18,000 people right here, okay, 18,000 people with diseases all over the place. I mean, look at all the different things. They had digestion problems, circulation, ear problems, musculoskeleton, respiratory and, and oral genital problems. Okay. So 18,000 people, and they use cenars on them to see what would happen."
+    },
+    {
+        "start": "00:41:28.900",
+        "end": "00:41:57.780",
+        "text": "I mean, how could they make, you know, could they, could they cure them, treat them, right? With a cenar. And the cure rate was 88.5 percent. Okay, 88.5 percent of the 18,000 people reported they got better using cenars. This is the Russians. That's why it's a big deal in Russia. So I mean, and, and you, this is in the directory. You guys can read this thing. It's also on Benedict site, e-body fusion. Okay. But here you go."
+    },
+    {
+        "start": "00:41:57.780",
+        "end": "00:42:24.940",
+        "text": "And they actually go through one by one. They go, here's, here's the results on the circulation. People who had problems with digestion. People who had problems with their ears, their musculoskeletal system, respiratory system, you know, whether it's like sinuses, bronchitis, tonsillitis, you know, on and on and on and on. And you can actually see the individual results here. And you can see the cure rate, the percentage people got cured and the ones that reported it, like this one right here, 93 percent of the people reported they got improvement"
+    },
+    {
+        "start": "00:42:24.940",
+        "end": "00:42:48.540",
+        "text": "from using a cenar, right? So this is huge when you look and this is clinical experience slash scientific studies proving that cenars do all this incredible stuff for the human body when used correctly. So I can't stress enough that this isn't just some woo woo magic stuff coming from Russia,"
+    },
+    {
+        "start": "00:42:48.540",
+        "end": "00:43:15.460",
+        "text": "but this is actual real medical treatment devices that do real stuff that can really help you. So if, again, going back to you, finally had one device, this, this would mean I go to, I use it for everything. I mean, any little aches and pains, any problems, whatever I do, have an issue, man, I grab this thing and, and it, I literally, I'm good to go by using it. So that's why I'm doing this presentation so that I can share this information with the rest of you."
+    },
+    {
+        "start": "00:43:15.460",
+        "end": "00:43:42.540",
+        "text": "Well, let's think, let's talk about what do you consider before buying a cenar. And so one of the things I think that's really important for those of you guys, if I've gotten you interested in getting a cenar because you've never heard about one before, or that if you already have one, you might want to upgrade or whatever. But here's the idea of what to consider for those of you who are new to this concept and new to this type of technology that can help you. I mean, I, you know, honestly, everyone should have one of these in their home because it's"
+    },
+    {
+        "start": "00:43:42.540",
+        "end": "00:44:10.300",
+        "text": "a lot easier, faster, cheaper and less dangerous than going to a doctor, okay, to treat yourself. And so one of the things that I want to say is try before you buy. If you're brand new to cenars, then go find someone who's using one in their practice. There's thousands of people using cenars in their practices, even in the United States. A lot of chiropractors do a lot of like health and wellness centers do. And basically I would just sit there and use a search engine, find someone in your local"
+    },
+    {
+        "start": "00:44:10.300",
+        "end": "00:44:39.220",
+        "text": "area who's using these things, they're going to, they're going to say on their website that they do or call around and you will find a chiropractor or some other kind of wellness person, acupuncturists, healers, you know, those kinds of guys. And they're going to be in the ones that use these things, you can go ahead and get a treatment and see if it helps you and most likely it will, you know, unless you're like really, really, really, really, really, really missed up. Okay. So hold, but the idea though is try before you buy."
+    },
+    {
+        "start": "00:44:39.220",
+        "end": "00:45:06.340",
+        "text": "Now, if you want to buy, then you have to know that one of the things that there's a huge difference between devices, okay, not only in the different companies and the different models that are made, but that every single place that makes these things makes two different levels of devices. One for practitioners and one for people at home. So the ones for practitioners are way more complicated, okay, and they have a lot more features and so that you compete, you know, so those guys could like, you know, diagnose"
+    },
+    {
+        "start": "00:45:06.340",
+        "end": "00:45:34.820",
+        "text": "and then dial into it instead of like a broad spectrum kind of like approach, right? Like a home device would be for us, us laymen's that, you know, we're kind of like, you know, I'm speaking personally, you know, like, you know, Neanderthals, right, trying to use a stick. And so, you know, and so they make them simple. There's less, less variability, simple features so that, you know, people can use them from home and we don't have to take like, you know, a week or two or three or four training to understand how to use it."
+    },
+    {
+        "start": "00:45:34.820",
+        "end": "00:45:59.580",
+        "text": "So that's the main difference and then, and because of the fact that the practitioners models are deeply feature rich and the home ones are vastly simplified, there's a huge price difference because you could imagine that there's a lot more money to build or device that's for a practitioner than you would for someone who's at home. So the price range is now for some of these, now you see the scene are like this guy right"
+    },
+    {
+        "start": "00:45:59.580",
+        "end": "00:46:28.980",
+        "text": "here, this is the practitioner version of this guy right here, which is my home version. Okay. And this guy right here, this is the practitioner version of my home version, which is this guy right there. Okay. So it's going to be a lot more expensive. So if you buy one of these practitioners, it could cost you 3,000 on up to 12,000, depending on what model you buy, practitioner. Now, for the home model, as I said, the home model, you could buy this guy right here,"
+    },
+    {
+        "start": "00:46:28.980",
+        "end": "00:46:58.820",
+        "text": "the PCM six for like, you know, 300 bucks full package, 400 under 400 bucks. This guy right here sells for about 350. This guy right here sells for about 3000, but if you if you keep an eye on eBay, you can usually buy a retired one because people upgrade all the time. And that's how I got the two I own. I actually own two of these, an older model and a newer model. And so I got them like half price off eBay because the person who was using it upgraded to the next one."
+    },
+    {
+        "start": "00:46:58.820",
+        "end": "00:47:24.580",
+        "text": "So then they sold their old one for me upgraded to the next one, but I gave my old one to my daughter kind of thing. But so that's basically the concept there is that you could see where the price ranges on the more it can do, right, the higher the price. So you could get as something as simple as like under 400 or you could go wild and you could go full of full on package like you get the bio module, bio modulator package for home is just 10 grand."
+    },
+    {
+        "start": "00:47:24.580",
+        "end": "00:47:51.100",
+        "text": "But you could get it on eBay like I did for 27, 100 for the whole package, that included the bio modulator. I'm sorry, the bio transducer. So anyway, so that's that's the key thing to remember is that that's why there's a huge price range home versus practitioner models. And then there's also this thing, you know, and I'm going to be honest with you, it is a steep learning curve. You know, you could get something like that PCM six where you just follow along with what the screen says. And then I don't recommend this guy."
+    },
+    {
+        "start": "00:47:51.100",
+        "end": "00:48:20.420",
+        "text": "This guy is the oldest model that I own actually have an older older one that's like 15 years old. That's an old Donas model. I think that's this guy right here. This is what it looks like super old model when these guys came out is like my kid was a toddler. And so, but I do have that model. And so I don't recommend that guy, these older guys, I don't recommend these because you don't look how you have to look up the user interface on this guy whoops, the user interface on this guy is just all buttons and you have to know what the buttons are."
+    },
+    {
+        "start": "00:48:20.420",
+        "end": "00:48:48.220",
+        "text": "And I always forget what the buttons mean and I have to go look at the manual every time I want to set it. So I don't really use it that often. But I'll tell you what, I tore a rotator cuff a few years ago and this thing saved me. It saved me. I mean, I use this thing twice a day, 15 minutes on a torn rotator cuff. I could not even lift my arm, right? And the, and basically the, you know, pet or not pet vet, I was going to say pet vet, the medical, the medical med was it web MD."
+    },
+    {
+        "start": "00:48:48.220",
+        "end": "00:49:16.900",
+        "text": "That guy said was like, hey, average person with a torn rotator is going to be three weeks, right? Man, I use my CNR 15 minutes a day twice a day on the rotator cuff. In one week, I could lift my arm and use it without pain. And that's just how amazing these things are. But so this thing works, it's just real complicated because of the buttons as opposed to look at the screen. And then this guy here, it takes training. But you know, it's worth it. I'm going to tell you that. But there's a steep learning curve. So I just want to be honest with you guys."
+    },
+    {
+        "start": "00:49:16.900",
+        "end": "00:49:45.460",
+        "text": "If you're going to do this, be prepared to learn how to do it. You can't take the typical guy approach where you just jump in and start playing around with it. That won't work. You need to take the training, read the manual and that's required with these things. But I'm going to say it's completely worth it. Okay. Take the time. If you're interested in this. Now the other thing too, again, is the customized features I mentioned, which was again, you know, like the biomodulator has the healing voltage aspect to it. And then lastly, the accessories."
+    },
+    {
+        "start": "00:49:45.460",
+        "end": "00:50:12.620",
+        "text": "So these are the things you need to think about. And where the accessories come into play is what do you want to do? What is your issue that you want to, you know, do you want something that's, you know, just something in the home that can handle like your like a first aid kit kind of thing that can handle anything that comes along or you're someone like me, that I have very specific issues, which is why I got these things, which was like, I got back issues. I got a blown knee, you know, I mean, you know, and, and you know, also, I'm also aging. You know, I love aging."
+    },
+    {
+        "start": "00:50:12.620",
+        "end": "00:50:40.100",
+        "text": "Everything's wonderful, isn't it for you guys that are out there that you're into the latter half of your years, right? Yeah, it's amazing. You wake up every day and go, okay, now what's going to hurt? I have no idea how I got hurt. I'm just hurt, you know, so I, you know, something hurts. Let's go put my senior on it and boom, it goes away. So now accessories is really important. And I mean, there are tons of accessories. The user manuals will display what the different accessories are, you know, for each one of their devices, okay?"
+    },
+    {
+        "start": "00:50:40.100",
+        "end": "00:51:07.020",
+        "text": "And so I'm just going to walk you through real quickly, like, okay, so if you wanted to like, let's say, treat a knee, treat a hand, you know, arthritis and that sort of thing, they've got sleeves and gloves you could put on. If you want to treat your eyes for macular degeneration, glaucoma, that sort of thing, you can get something for your eyeballs. This one here is the, they call it the facial probe, but I swear, if you get one, get one of these for just right off the bat, because if you're holding your CNR on one hand and"
+    },
+    {
+        "start": "00:51:07.020",
+        "end": "00:51:36.380",
+        "text": "you're looking at the, you know, the display and you need to reach around and treat your back, let me tell you, it's a lot easier to do that with this probe. So you want to get this probe and they call it the facial probe, which is what you use it for, but it also is an excellent, like I call it like an extension cord for the CNR. So that's really, really the most important one I have. I have one for everyone in my devices. Now this guy right here is for treating the scalp. And so it's got these little prongs so you can get through the hair, right, and reach the actual skin on the head."
+    },
+    {
+        "start": "00:51:36.380",
+        "end": "00:52:04.660",
+        "text": "These Y probes and this little dental probe right there, these are like pinpoint probes. I can't go into it because I'm already at like, you know, 51 minutes, but this guy right here not only can treat your teeth, but you can use it for using, for using a CNR as an electro acupuncture device, because you can get it down to the pinpoint, you know, the electro probe that'll send the pulse frequency through this little tiny pinpoint probe, which"
+    },
+    {
+        "start": "00:52:04.660",
+        "end": "00:52:31.420",
+        "text": "means you could place it on an acupuncture point and use it for electro acupuncture. Okay. So that's how you can use a CNR for that. Can't get into that right now, but that's what that's for. But it's actually, they designed this for dental, but you can use it for this other purpose. Now the Y probe is for basically treating, you know, adrenals issues and then so forth and you got your, you know, if you want to charge your whole body charging is got plates and handhelds, tens pads, yes, you can use pads with your CNR."
+    },
+    {
+        "start": "00:52:31.420",
+        "end": "00:53:00.820",
+        "text": "And believe me, I just set this thing on auto and I, and I just put one on each side of the black and the red, right? And I just let that puppy run and I'll tell you what, instant backache gone. Here's the pads for shoulders, knees and backs. This comes, this is the PCM six version. And then you got this thing right here, this monstrosity thing. Look how many different probes are all tied into this thing. And this goes with the PCM model, the denace models, the successory. It's 15,000 man. And you know, I'd love to play with one, but there's no way."
+    },
+    {
+        "start": "00:53:00.820",
+        "end": "00:53:30.500",
+        "text": "I got that kind of money, but you just lay on this thing. So it's like full on full body charging and treatment of the entire back for some, and it's got all of these electrodes on it. You just lay on this thing and you do a full body charging. And then of course I talked about the bio transducer. So, and you know what, this little snippet here, this little slide is it doesn't even touch the tip of the iceberg on all the different accessories. So, but here's my, the point though, right, is what are you trying to treat?"
+    },
+    {
+        "start": "00:53:30.500",
+        "end": "00:53:57.980",
+        "text": "And then there's an accessory for that. So there you go. And you know, this has been around forever. So there's an accessory for almost everything, including things to put up your behind. Okay. So anyway, moving along, digress. So now if you want to learn more about Cenars, the first thing again is, you know, you definitely want to go find a practitioner near you. Okay. Like I mentioned and try before you buy, if you want to learn more, you definitely, like I said, video description, there's going to be three folders and you're going to see"
+    },
+    {
+        "start": "00:53:57.980",
+        "end": "00:54:24.180",
+        "text": "a folder with all the science studies and clinical experience documentation. I'll have a folder of the user manuals. Okay. And then there's another folder, something else is in there, I just went blank. Okay. But all the documentation of everything you're seeing today is in the folder in the video description. So that's how you would then learn more, find a practitioner. And if you want to buy your own, my recommendation there is I'm not going to feature all the"
+    },
+    {
+        "start": "00:54:24.180",
+        "end": "00:54:51.900",
+        "text": "hundreds of websites that sell these things, but I will say again, that, you know, these things are not cheap. The cheaper ones, yeah, you can just pick up. I mean, it's no brainer, not more than a cost of a TV, but if you're really serious about it, then do what I do, which is I camp, I go sit on eBay and I camp out on that thing till I find a, I find a used one. And they're just as good. And if you get a used like biomodulator, it still allows you, if you register the serial"
+    },
+    {
+        "start": "00:54:51.900",
+        "end": "00:55:20.700",
+        "text": "number to attend the university, so it's, and I got that through in a state cell. So you know, yeah, that's how I get most of my devices that I just get a really huge discount, just camping on eBay and waiting for a really, really good opportunity, really good offer. And then otherwise you're buying retail and I don't know about the sales, but you know, the whole idea though is that's what I do in terms of, you know, buying your own. If you wanted to do that, once you're convinced you want it, and then of course learning how to use it. Oh, that's right."
+    },
+    {
+        "start": "00:55:20.700",
+        "end": "00:55:50.580",
+        "text": "The third thing I wanted to share with you is the learning how you use it thing. Again, if you want to learn how to use it, then you could go, you know, and read through the manuals, but I did want to tell you that I've got this little training folder right here that I'm going to share with you. And basically it's over the years I've been collecting all these different videos as I find them on YouTube and wherever about how to use one. And so these are like, it's like all these different tutorials on how to use the denazs,"
+    },
+    {
+        "start": "00:55:50.580",
+        "end": "00:56:19.260",
+        "text": "how to use the Chan's senior, different people giving courses. And so like there's a ton of little videos in here. Let me just kind of show you the thumbnails of all the different videos on how to use different seniors to help you get better. So if you wanted to just kind of just get a peek, you know, into the different types of training materials and actually watch videos of people using them, you know, go to that video, go to this video section here called training, and you can go and watch those videos there. Okay?"
+    },
+    {
+        "start": "00:56:19.260",
+        "end": "00:56:46.980",
+        "text": "Last thing I want to say, and thank you for sticking out in this long video, is that it works on critters, okay? And that's the most, for me it's one of the most important things because, you know, my family includes my dogs. And so it's a little different, okay, now, and this is something I want to do point out, like this little guy right here for the human hair, it doesn't work on animals, okay? And so what works on animals, okay, is they make special cuffs, which I don't have a picture"
+    },
+    {
+        "start": "00:56:46.980",
+        "end": "00:57:15.020",
+        "text": "of that you can connect to it, and basically you use a electro gel and you put the cuff on them, or you could use this guy with a electro gel so that you basically have this electro gel which makes their fur wet on whatever area you're treating. You put the probe on the gel and then that way the electrical pulse can pass through to the skin. Otherwise you have to shave them, and you know, some of you might not want to shave"
+    },
+    {
+        "start": "00:57:15.020",
+        "end": "00:57:41.820",
+        "text": "your dog just so you could treat them, but you cannot just put the probe up against fur, it will not work, it just doesn't go through fur. And they really, and you know, so far I haven't seen any of these guys actually produce an accessory that works for that, but I did find an accessory with the frequency specific guys, the FSM guys, and they actually created a cuff to go with their devices that does work as well as, you know, and I use, I just use an electro gel."
+    },
+    {
+        "start": "00:57:41.820",
+        "end": "00:58:09.220",
+        "text": "So when I want to treat my dog in the old days, when I just had a PCM6 or a chance, I would treat them with one of these using electro gel, but now that I've got one of these guys, which I just got last Christmas, I have a transducer, you don't even need, you just hold that thing over and it just shoots the, the frequency right into their, through their fur. Okay, so, but this is not cheap, okay, so the cheaper way to do it is by a regular one in this one."
+    },
+    {
+        "start": "00:58:09.220",
+        "end": "00:58:38.100",
+        "text": "Otherwise you can use a transducer, but you can treat your animals with a cinar with their appropriate accessory, and they will get all of the benefits, all of the benefits that you would get, they would get it as well because they're mammals just like us, and we love them and we want to treat them so you can treat your horses and your livestock, you can treat your pets, and just, you know, it's, it's just beneficial to them, it is for us. So, and you know what, think about all the vet bills you'd say, okay, so that's it. I just want to say thank you and there's a lot to cover."
+    },
+    {
+        "start": "00:58:38.100",
+        "end": "00:59:07.380",
+        "text": "I really appreciate your, you know, your, your time that you're spending with me, and, and your interest in senors, and you know, I can't be more excited enough to share this with you because I'm very passionate about be your own healer, help yourself, help your loved ones, stay away from people who push drugs on you and see what you can do to help yourself. And I'll tell you this scene, our technology is literally the number one way to go about doing that. So thank you again, really appreciate you spending some time and stopping by to watch"
+    },
+    {
+        "start": "00:59:07.380",
+        "end": "00:59:37.340",
+        "text": "this video. And I really appreciate your kind comments. If you want to learn more about what I do on, on the series, I have a blog called The Tinkers Academy. I have a whole section on there about bio electrical healing, and then of course I've got a bio electrical healing group on telegram where we chat about all this kind of stuff all the time. And so there's going to be links below if you want to check out the blog or join the chat group and learn more, ask questions. Again, if you, you know, I'm always on it, I'm the moderator for the chat group. So if you got any questions, that's where you'll find me."
+    },
+    {
+        "start": "00:59:37.340",
+        "end": "00:59:46.660",
+        "text": "Okay. Thanks again, guys. I really appreciate it. And, and just, you know what, good health to you and your loved ones and take care of yourselves. All right. Aloha."
+    }
+]

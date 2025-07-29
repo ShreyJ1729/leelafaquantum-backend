@@ -1,0 +1,559 @@
+
+[00:00:00.000 --> 00:00:04.960]   Aloha, everyone, and welcome to another Tinkers Academy video. I am your host, Kay Elmer, and in
+[00:00:04.960 --> 00:00:11.600]   this video, I'm going to share with you my research on water-soluble C60. This is not the same 60
+[00:00:11.600 --> 00:00:18.080]   that everyone's been taking that's been dissolved in oil. This is a C60 that's been converted to a
+[00:00:18.080 --> 00:00:23.520]   form that can be dissolved in water. And so now the question is, there's been kind of a little
+[00:00:23.520 --> 00:00:27.920]   explosion of all these different products over the last few years. So I wanted to kind of cover
+[00:00:27.920 --> 00:00:33.120]   it, and I want to ask the question to all of you, is this the next big thing in biohacking?
+[00:00:33.120 --> 00:00:37.840]   Now, before I jump into the content, let me just kind of run over just a few disclaimers.
+[00:00:37.840 --> 00:00:41.520]   All information contained in this video is for educational purposes. Only it should not be
+[00:00:41.520 --> 00:00:47.360]   construed as medical advice. Supplements discussed in this video have not been evaluated by the FDA
+[00:00:47.360 --> 00:00:53.680]   and are considered experimental. I have no affiliation to any of the products discussed in this video.
+[00:00:53.680 --> 00:00:58.560]   Also, the information contained is public information is presented under fair use.
+[00:00:58.560 --> 00:01:03.600]   Now, all studies, articles, and websites cited in this video are available in the video description
+[00:01:03.600 --> 00:01:08.960]   below. Full transparency, feel free to double check everything I'm saying. You've got access to
+[00:01:08.960 --> 00:01:13.120]   all of it. All right, so just, you know, it's right there in the video description. Now, for all of
+[00:01:13.120 --> 00:01:17.920]   you who are pressed for time, this video is going to get real sciencey. So I'm just going to give you
+[00:01:17.920 --> 00:01:24.640]   an executive summary of what's in the video. And so I basically asked myself seven basic questions
+[00:01:24.640 --> 00:01:29.680]   and spent the last three weeks studying what the answers are for those questions. The very first
+[00:01:29.680 --> 00:01:37.600]   question is what is water soluble C 60? And what that is in a nutshell, it's just a C 60 that has
+[00:01:37.600 --> 00:01:45.760]   oxygen hydrogen pairs bonded to the molecule so that it becomes hydrophilic. If you know C 60,
+[00:01:45.760 --> 00:01:53.120]   it's hydrophobic, meaning that it will not mix in water, it will not bond to water. So this is a C 60
+[00:01:53.120 --> 00:01:58.320]   molecule that's been altered so that it will bond to water. So you can dissolve it in water,
+[00:01:58.320 --> 00:02:03.600]   because regular C 60 will not dissolve in water. That's why you buy it in oil. Number two, what
+[00:02:03.600 --> 00:02:08.720]   water soluble 60 products are on the market? I went on a thorough scan. I think I found eight,
+[00:02:08.720 --> 00:02:13.200]   eight, there's actually eight, eight companies selling it and then each one of them either sells
+[00:02:13.200 --> 00:02:17.280]   one product of it or multiple products of it. But essentially, there's eight
+[00:02:17.280 --> 00:02:21.600]   companies out there selling C 60 products now, which is interesting because three years ago,
+[00:02:21.600 --> 00:02:28.560]   I covered this topic in a video and at the time there's only two. So since what three years ago,
+[00:02:28.560 --> 00:02:33.440]   there was two now there's eight, that's kind of a 400% increase if you look at the percentages.
+[00:02:33.440 --> 00:02:39.120]   So it is quite a lot more products out there that are now selling water soluble C 60 as a supplement.
+[00:02:39.760 --> 00:02:45.120]   Now, here's the big question is water soluble C 60 toxic. It really depends, you'll find out
+[00:02:45.120 --> 00:02:50.640]   in the video. What are the effects of water soluble 60 in a nutshell? It's pretty much the
+[00:02:50.640 --> 00:02:57.120]   same as C 60 with one major exception. Number five, does water soluble C 60 promote longevity,
+[00:02:57.120 --> 00:03:02.960]   which is the whole thing about C 60, which is why it kind of exploded onto the supplement,
+[00:03:02.960 --> 00:03:10.320]   you know, radar and the answer is no. Okay, now what do C 60 experts say? Well, they're on the
+[00:03:10.320 --> 00:03:17.120]   fence. I was only able to find two quotes on the internet. I'll be looking for more as time goes on,
+[00:03:17.120 --> 00:03:23.200]   but right now the only two experts I could find that said anything about it are very much on the
+[00:03:23.200 --> 00:03:29.920]   fence because of item number three, the depends part on whether or not it's toxic. Now, lastly,
+[00:03:29.920 --> 00:03:35.680]   you know, can you make your own? If you're a DIY C 60 oil maker and you do your own thing like me,
+[00:03:35.680 --> 00:03:41.680]   I've been making my own C 60 oil for God knows, I think six years going on seven now. And the
+[00:03:41.680 --> 00:03:45.600]   answer is yeah, and I'll go over how do you go and do that with the formulas and stuff like that.
+[00:03:45.600 --> 00:03:50.000]   So there you go. That's the executive summary. If you're interested in learning about the detail,
+[00:03:50.000 --> 00:03:56.800]   here we go. Let's jump right in. Now, what is water soluble C 60? As I mentioned, okay,
+[00:03:56.800 --> 00:04:03.200]   now C 60 is a liposoluble substance. Okay, it's hydrophobic, but it does dissolve in oil. Okay,
+[00:04:03.200 --> 00:04:08.720]   and it can be dissolved again. This is a definition right out of right out of one of the studies.
+[00:04:08.720 --> 00:04:14.400]   You can dissolve regular C 60 in vegetable oils, olive oil, avocado oil, MCT, all that,
+[00:04:14.400 --> 00:04:21.680]   and it's also highly soluble in toluene and azylene. Now, although C 60 is insoluble in water, it becomes
+[00:04:21.680 --> 00:04:28.160]   water soluble. When more than 20 hydroxyl groups, the OH oxygen hydrogen groups pairs
+[00:04:28.160 --> 00:04:35.680]   are introduced in it. So here's a diagram of a particular water soluble C 60 molecule that has
+[00:04:35.680 --> 00:04:43.600]   24 pairs of oxygen hydrogen. So the chemistry nomenclature is now is if it's C 60, it's just
+[00:04:43.600 --> 00:04:51.680]   C carbon 60 atoms of carbon. This one is C 60 with oxy, you know, oxy or I'm sorry, hydroxyl groups.
+[00:04:51.680 --> 00:04:56.000]   There's 24. Okay, so that's how you read that. So there's 24 of these things, and that's what
+[00:04:56.000 --> 00:05:00.800]   the picture looks like as a molecule. So you can see it's quite different looking, and honestly,
+[00:05:00.800 --> 00:05:05.840]   you know, in chemistry, if you add anything to a molecule, you've completely changed it,
+[00:05:05.840 --> 00:05:10.880]   and it has become a new molecule, and it does different things. Now, the thing about this,
+[00:05:10.880 --> 00:05:17.120]   and I want to share with you for any of you who are interested, is the research on this specific
+[00:05:17.120 --> 00:05:23.600]   topic. I want to point out one thing, water soluble C 60 is the marketing branding, you know,
+[00:05:23.600 --> 00:05:29.600]   customer facing terminology that everyone's using. But in the chemistry world, in the science world,
+[00:05:29.600 --> 00:05:38.080]   this molecule is also known as or primarily referenced to as polyhydroxylated C 60.
+[00:05:39.280 --> 00:05:43.120]   So some studies will refer to it as polyhydroxylated C 60.
+[00:05:43.120 --> 00:05:49.600]   Other studies will refer to it as fluorinol or fluorinol. And so why I want to point out that
+[00:05:49.600 --> 00:05:53.680]   the issue with studies is that this thing has three different names, and you can imagine how
+[00:05:53.680 --> 00:05:59.440]   difficult it is to try to find, sorry, studies that have three different names for the same thing.
+[00:05:59.440 --> 00:06:05.280]   So but I do want to point out that I did go the last few weeks, and I did collect multiple studies.
+[00:06:05.280 --> 00:06:10.480]   I collected about 55 separate studies. They're all going to be in a folder on my one drive that
+[00:06:10.480 --> 00:06:15.360]   I'll give you a link to in the video description. So here's all the different studies that I had
+[00:06:15.360 --> 00:06:21.360]   collected and reviewed for this video, trying to understand everything I could understand about
+[00:06:21.360 --> 00:06:27.040]   water soluble C 60, or I'll just call it full and all for now. Same name, right? You can see
+[00:06:27.040 --> 00:06:31.360]   the name right here full and all. And so basically there's, you know, what I want to point out about
+[00:06:31.360 --> 00:06:35.840]   this is that, you know, it's really hard to kind of find these studies because of the multiple
+[00:06:35.840 --> 00:06:40.000]   different names being used. However, once you start locating them and you collecting them and
+[00:06:40.000 --> 00:06:44.160]   you're reading them like every their studies from everything about, you know, how do you make it and
+[00:06:44.160 --> 00:06:48.080]   all that stuff. And then, of course, all the different things that they've used it on and see
+[00:06:48.080 --> 00:06:52.640]   what happens kind of, you know, those those studies. But there's quite a bit. So there's a 55 and
+[00:06:52.640 --> 00:06:58.480]   luckily I was able to find one specific specific study that was your typical study of studies,
+[00:06:58.480 --> 00:07:02.640]   you know, right? And so luckily the study that I found and I'll go over that with you in a second
+[00:07:02.640 --> 00:07:09.040]   is, you know, basically a scientist looked at 34 separate studies and then wrote a review about
+[00:07:09.040 --> 00:07:15.200]   the 34 studies sort of like this video is a review of 55 studies, you know, that sort of thing. So
+[00:07:15.200 --> 00:07:19.280]   anyway, so it is quite difficult, but there's a ton of studies and you're more than welcome to
+[00:07:19.280 --> 00:07:25.200]   click on the folder and there they all are. Now, here's the big thing you need to know about
+[00:07:25.920 --> 00:07:34.800]   fingernails. Okay. It's that they come in a multitude of different forms. As noted before,
+[00:07:34.800 --> 00:07:43.600]   you could take a C 60 molecule and attach a hydroxyl pair onto the molecule and then you will have
+[00:07:43.600 --> 00:07:52.560]   a C 60 OH and N N is anywhere from one to 60 of these little hydroxyl pairs. Okay. But in the studies
+[00:07:52.560 --> 00:07:59.120]   that I reviewed in the 55 separate studies, there were studies on just that form that, you know,
+[00:07:59.120 --> 00:08:04.080]   that let's call it, you know, that form of C of of a full or an all. But then there was also
+[00:08:04.080 --> 00:08:10.080]   seeks or full or an all's that had a range that had like let's say 22 to 24. So in the full or an
+[00:08:10.080 --> 00:08:15.600]   all product itself or the full or an all that that that they were tested, they had two different
+[00:08:15.600 --> 00:08:21.200]   forms of full or an all within the same substance that they were testing. Like let's say
+[00:08:21.200 --> 00:08:27.040]   it's full or an all 24 and full or an all 26 combined and then they would and then they would go
+[00:08:27.040 --> 00:08:33.760]   and test it. There were other studies that were done where they were mixing just regular C 60
+[00:08:33.760 --> 00:08:39.840]   with water soluble 660, you know, and put it all together into one combination and tested it.
+[00:08:39.840 --> 00:08:44.880]   There were C 60 studies, there were the sorry, full and all studies where they basically had an
+[00:08:44.880 --> 00:08:51.920]   oxygen atom, an extra oxygen atoms or more than one attached and is just the number of atoms.
+[00:08:51.920 --> 00:08:55.760]   And then they had also the hydroxyl pairs. Then there were C 60 studies that had
+[00:08:55.760 --> 00:09:02.080]   hydroxyl pairs and sodium hydroxyl pairs. There were C 60 studies that had oxygen hydroxyl pairs
+[00:09:02.080 --> 00:09:07.840]   and then also potassium pairs connected to it. And then there was one product out there that's
+[00:09:07.840 --> 00:09:14.320]   actually a mix of C 60 florinols and also C 70 florinols, right? So there's a whole,
+[00:09:14.320 --> 00:09:20.560]   it's just all over the map. And that's one of the key issues. And this is what the one thing I
+[00:09:20.560 --> 00:09:26.640]   really want to impress upon everybody is that when you see the words water balls water soluble C 60,
+[00:09:26.640 --> 00:09:32.720]   the marketing name in the actual product itself is it could be anything. I mean,
+[00:09:32.720 --> 00:09:39.120]   it literally could be anything that's got attached to a C 60 molecule. So it's not like just, oh,
+[00:09:39.120 --> 00:09:46.080]   let's do a study on C 60 because C 60 is C 60. There's no other form of it. It's just,
+[00:09:46.080 --> 00:09:54.160]   it is the form. It's the one form. But a florinol, i.e. water soluble C 60, can be numerous things. It
+[00:09:54.160 --> 00:10:00.800]   could be up to 100 or more different versions of it. And that's the issue you've got. There's so
+[00:10:00.800 --> 00:10:06.640]   many versions. It's got to be it's and then the studies for each specific version makes a huge
+[00:10:06.640 --> 00:10:12.800]   difference because some can be harmful. According to the studies, some can be beneficial. And so
+[00:10:12.800 --> 00:10:19.280]   knowing which one is critical and that's a real gambit in the eye, you know, in terms of my mind
+[00:10:19.280 --> 00:10:24.240]   customer education and also picking the right one, if you're going to be formulating any type of
+[00:10:24.240 --> 00:10:29.040]   supplement that you're going to have people ingest. And so now that alone is a challenge, right?
+[00:10:29.840 --> 00:10:36.320]   And then there's also, I found another product, excuse me, that really, it didn't even have a name.
+[00:10:36.320 --> 00:10:42.000]   It's, it's completely synthetic, not found in nature. I mean, C 60 is found in nature. It literally
+[00:10:42.000 --> 00:10:48.400]   is stardust, the universe is full of it. But there's this one product out there on the market that is
+[00:10:48.400 --> 00:10:57.280]   a synthesized molecule of that of C 60. And it's called an anisotropic nanoparticle composition.
+[00:10:57.280 --> 00:11:02.960]   And that's what the patent says for it. The trade name of it's bucky all. Okay. And it's
+[00:11:02.960 --> 00:11:11.040]   literally a C 60 molecule by which one side of the molecule is the normal C 60 negative charged.
+[00:11:11.040 --> 00:11:18.000]   And the other side of the molecule is the fluoroenol positive charged. And I'll go into more about
+[00:11:18.000 --> 00:11:23.760]   that. But I mean, it's it's an incredible, incredible different version of what you would and it still
+[00:11:23.760 --> 00:11:29.520]   is considered water soluble C 60. That's what's really wild about it. Okay. So now just with that
+[00:11:29.520 --> 00:11:34.320]   clear, there's multiple different versions of what a water soluble C 60 molecule could be.
+[00:11:34.320 --> 00:11:37.040]   And that's a key thing here. Now, so when we take a look at the products,
+[00:11:37.040 --> 00:11:44.080]   the challenge with this was, you know, what's in each one of these things? And how do you compare
+[00:11:44.080 --> 00:11:49.440]   them to each other? And the end result was is I couldn't, I wanted to kind of create this little
+[00:11:49.440 --> 00:11:53.520]   chart, you know, with labeling the products and listing what they, you know, what each one of
+[00:11:53.520 --> 00:12:00.000]   them has in them, what they cost, what their dosage would be, and try to do a comparison to C 60 itself,
+[00:12:00.000 --> 00:12:05.280]   right? C 60 oil products. This is not possible. There's so many variants that I couldn't even,
+[00:12:05.280 --> 00:12:10.800]   I couldn't find a way to kind of compile it all and show you in a chart. So I'm just going to talk
+[00:12:10.800 --> 00:12:14.880]   to the issue. So what I did was obviously I went and scoured the internet and found the
+[00:12:14.880 --> 00:12:21.200]   different products. Here they are. This is what's being sold as of now. It's 2024 March. Okay. And
+[00:12:21.200 --> 00:12:25.200]   some of them you could, you could see the prices straight up and I'll just kind of talk to each one
+[00:12:25.200 --> 00:12:30.000]   of them. And what's really important here is right here on the bottom is, does the product
+[00:12:30.000 --> 00:12:35.520]   information anywhere in the literature say what version of fraternal that they're using in their
+[00:12:35.520 --> 00:12:42.720]   product? And the answer is no, no, yes, this one's got C 60 O H 24. Another one here C 60 O H 24. It
+[00:12:42.720 --> 00:12:50.560]   actually says this one. No doesn't say this one here. Bucky all it doesn't say this one here is a
+[00:12:50.560 --> 00:12:57.120]   Russian product. And they're using they do say that it's they've got it. It's greater than 40. That's
+[00:12:57.120 --> 00:13:02.960]   that's all I could get out of that one. And then there's this one here, which is C 60 O H. And they're
+[00:13:02.960 --> 00:13:10.720]   using two different forms are using 42 and 46 combined. And that's the David Avocado Wolf
+[00:13:11.360 --> 00:13:16.080]   version of the florinol product. And so that's what you've got. And then what's really interesting
+[00:13:16.080 --> 00:13:21.200]   here too is the Russian product. They've actually got a C 60 detox water. Because remember now all
+[00:13:21.200 --> 00:13:29.120]   this is C 60 florinols in water. So these are all water products. And there's actually one that's
+[00:13:29.120 --> 00:13:33.840]   just like, you know, let's let's put it in water and call it C, you know, water bottles. And they're
+[00:13:33.840 --> 00:13:40.000]   selling this in in Kage Kage stands. I hope that pronounced that right. And so that's kind of the
+[00:13:40.000 --> 00:13:45.600]   gambit. And so when you want to ask yourself the question, hey, you know, does it cost the same?
+[00:13:45.600 --> 00:13:50.880]   Well, you know, if you take a look at these, and they also come in different forms, when some of
+[00:13:50.880 --> 00:13:56.080]   them are concentrates that you take a few droppers full, and you put it in a liter of water, and
+[00:13:56.080 --> 00:14:00.960]   then you just drink that water. Others are just drink it straight out of the bottle. So like this
+[00:14:00.960 --> 00:14:06.480]   one here, the David Avocado Wolf, he's saying, Oh, you know, two or three droppers per day. Other
+[00:14:06.480 --> 00:14:13.040]   ones of these are like, Oh, take 0.16 milligrams per body, you know, pound of body weight, you know,
+[00:14:13.040 --> 00:14:17.360]   and then, you know, so there's all this stuff. Like, you know, as you can imagine, right? It's
+[00:14:17.360 --> 00:14:22.400]   really you can't compare dosages when all of the products are so incredibly different.
+[00:14:22.400 --> 00:14:28.880]   Now this one right here couldn't find the price on it is a Japanese product. And all the website
+[00:14:28.880 --> 00:14:34.720]   has is basically the manufacturer's website for for the Japanese product. I couldn't find where
+[00:14:34.720 --> 00:14:39.600]   they're actually selling it. But all of these other ones, the websites are linked. I gave you the
+[00:14:39.600 --> 00:14:43.520]   websites for everything in the video description, if you want to check out the products yourselves,
+[00:14:43.520 --> 00:14:49.200]   but they're there, they're out there, they're selling it to people. So should we be asking
+[00:14:49.200 --> 00:14:55.360]   questions like, Hey, is it toxic? So here's the thing. I did went, you know, I went looking for
+[00:14:55.360 --> 00:15:01.760]   toxic studies. And I did find a study a 2013 study called full arena, full or an all nanoparticles,
+[00:15:01.760 --> 00:15:06.320]   toxicity and antioxidant activity. So now when you when you pull this puppy up,
+[00:15:06.320 --> 00:15:11.920]   it's right out of a book. And unfortunately, I couldn't figure out what book it's from. Sorry.
+[00:15:11.920 --> 00:15:17.280]   But there are some there are some like it's, yeah, here it is. I'm sorry. It says,
+[00:15:17.280 --> 00:15:25.200]   it's out of the oxidative stress and nanotechnology methods and protocols methods and molecular
+[00:15:25.200 --> 00:15:32.000]   biology. Okay. And here's the IBIS BN number, I think. All right. So this is the book. Sorry about
+[00:15:32.000 --> 00:15:37.520]   that. I forget about that. And so now if you take a look at chapter five of the book, and you go to
+[00:15:37.520 --> 00:15:45.440]   five dot five full arena, all in vitro toxicity, let's just take a peek at what they say. So is
+[00:15:45.440 --> 00:15:49.600]   full or an all's toxic. And so I'll just read you the first paragraph, the assessment of full
+[00:15:49.600 --> 00:15:54.800]   or an all toxicity is an absolute and obvious prerequisite for its potential use in biomedicine
+[00:15:54.800 --> 00:16:00.480]   consumer products, obviously. Recent studies describe lower toxicity of fluoroanol and other water
+[00:16:00.480 --> 00:16:06.000]   soluble fullerenes against dermal fibroblasts and liver carcinomas cells in comparison to
+[00:16:06.000 --> 00:16:11.440]   pure C 60. Hmm. That's interesting. So lower than C 60. It was demonstrated that the cytotoxic
+[00:16:11.440 --> 00:16:19.520]   activity of C 60 colloidal, it was caused by ROS, which is basically a radical oxygen species,
+[00:16:19.520 --> 00:16:24.640]   you know, free radicals mediated cell membrane lipid peroxidation. Okay, so furthermore,
+[00:16:24.640 --> 00:16:30.800]   isosicovic. That's one of the authors demonstrated that Pierce or one of the scientists for this
+[00:16:30.800 --> 00:16:37.680]   study number 45 in this document demonstrated that pure C 60 and fluoroanols C 60 OHX. They're
+[00:16:37.680 --> 00:16:42.960]   using X I use and apparently employ different cytotoxic mechanisms resulting in preferential
+[00:16:42.960 --> 00:16:48.080]   and deduction of cast space independent necrosis and blah, blah, blah, blah. So this goes on and
+[00:16:48.080 --> 00:16:55.520]   on and on. And if you read this chapter, what it comes down to is it kind of goes back to my
+[00:16:55.520 --> 00:17:01.520]   original point, which is, Hey, you know what, there's a whole bunch of different ones. And it
+[00:17:01.520 --> 00:17:08.000]   really depends on which one you're talking about. And so it's so there's no like overall,
+[00:17:08.000 --> 00:17:14.480]   you know, paintbrush over it. Is it toxic or not? Well, the answer is depends. It depends on which
+[00:17:14.480 --> 00:17:22.480]   one, you know, which version of the fluoroanol is being tested. And also, now here's another
+[00:17:22.480 --> 00:17:29.920]   dynamic that's very important is that it appears that fluoroanols are sensitive to UV just like C 60.
+[00:17:29.920 --> 00:17:35.760]   And so some of these found one study, I believe it was like, you know, if you expose it to UV,
+[00:17:35.760 --> 00:17:40.800]   then it's going to become pro oxidant just like C 60 would be because C 60 itself is not a perfect
+[00:17:40.800 --> 00:17:47.440]   molecule. You know, you have to be cautious with it. It has to be dark. And it's also in oil. So you
+[00:17:47.440 --> 00:17:51.360]   have to be, you know, dark and cool place for storage and that sort of thing. But if you do it
+[00:17:51.360 --> 00:17:56.560]   right, you're fine. I'm sure that this applies to the same thing with fluoroanols. But the issue
+[00:17:56.560 --> 00:18:01.920]   here again, though, is it depends on which one you're looking at, which version of the fluoroanols
+[00:18:01.920 --> 00:18:06.560]   you're referring to as to whether or not it's toxic. So the interesting thing, though, in the
+[00:18:06.560 --> 00:18:13.280]   research was there appears to be one version that stands out amongst the rest in the bulk of the
+[00:18:13.280 --> 00:18:18.800]   studies that I looked at. And the review of studies that I looked at was a particular version of
+[00:18:18.800 --> 00:18:26.480]   60 C 60 OH 24. Now this version of the fluoroanols was studied in a study called the differential
+[00:18:26.480 --> 00:18:33.440]   cytotoxicity of water soluble fullerenes. And this is a 2004 study. Okay. And it actually states in
+[00:18:33.440 --> 00:18:40.480]   the study that the C 60 OH 24 shows no cytotoxicity up to its limits of solubility. This provides
+[00:18:40.480 --> 00:18:45.360]   striking evidence that water soluble function groups on the surface of a fullerene molecule
+[00:18:45.360 --> 00:18:51.920]   dramatically decrease the toxicity of pristine C 60. So after 30 hours of exposure to nano 60,
+[00:18:51.920 --> 00:18:57.760]   C 60 cells begin to exhibit signs of leaky membranes and lipid oxidation. However, we have concluded
+[00:18:58.560 --> 00:19:04.560]   that this toxicant does not oxidize the cell's proteins or disrupt their normal function of
+[00:19:04.560 --> 00:19:11.760]   certain cellular organelles. Okay. So like again, you know, there's so many different studies
+[00:19:11.760 --> 00:19:16.480]   and so many different versions that if you really got a drill and drill and drill and drill to kind
+[00:19:16.480 --> 00:19:23.040]   of find out, you know, is it toxic or not? And so the best I could do was to kind of just find the
+[00:19:23.040 --> 00:19:28.000]   data for you to review if you're interested, but also to just from a high level summary just saying,
+[00:19:28.000 --> 00:19:33.840]   hey, you know what, I found one that does stand out amongst the rest, which is the 24. Okay. So C 60
+[00:19:33.840 --> 00:19:37.600]   OH 24. So keep that in mind. We're going to be talking about that here in a little bit. So the
+[00:19:37.600 --> 00:19:42.640]   other question then of course is what are the effects? You know, I mean, and so here's that review
+[00:19:42.640 --> 00:19:48.080]   of studies. So and I love these when I find these, which is a study called the review of synthesis
+[00:19:48.080 --> 00:19:53.840]   and antioxidant potential of fullerene nanoparticles published in 2015. So let's take a look at this
+[00:19:53.840 --> 00:20:00.160]   guy. Now this guy, I love this study because in the study, they talk about all these different
+[00:20:00.160 --> 00:20:04.960]   studies that they looked at and all of the different combinations and the ways people were doing it
+[00:20:04.960 --> 00:20:10.560]   and blah, blah, blah, blah. And here you go. It comes down to this one chart and it kind of,
+[00:20:10.560 --> 00:20:16.000]   this is their conclusion. And so their conclusion was, let's take a look at all 34 will categorize it
+[00:20:16.000 --> 00:20:22.160]   by the type of fullerenol was studied, what cells and animals it was studied on critical
+[00:20:22.160 --> 00:20:28.720]   and what were the main biological effects? So you can see here a C 60 OH 2226 was tested on human
+[00:20:28.720 --> 00:20:34.560]   lens epithelial cells. And basically they found that the human lens epithelial cells,
+[00:20:34.560 --> 00:20:41.440]   they were increasing reaction, you know, reactive oxygen species and optosis. Okay, so good or bad.
+[00:20:41.440 --> 00:20:50.960]   Honestly, I don't know. Okay. And then you get into like here's C 60 OHN and they don't even tell
+[00:20:50.960 --> 00:20:57.040]   you which one there's the C 60 OH and that's a sodium also too. And so basically they were testing
+[00:20:57.040 --> 00:21:03.120]   this on on tubal cells. And I got to tell you, I got a C in college chemistry. So I just want to
+[00:21:03.120 --> 00:21:09.680]   disclaimer right there, I'm a tinker, not a biochemist. But I'm trying to do my best here on the research
+[00:21:09.680 --> 00:21:14.400]   because I had these questions. I wanted to know the answer. And I figured you guys did too.
+[00:21:14.400 --> 00:21:17.760]   So because you know, we're all we're all bio hackers, we're always looking for the next best
+[00:21:17.760 --> 00:21:24.160]   supplement. Is this one it? I don't know. But here we go. Remember that I told you about the C 60 OH 24.
+[00:21:24.160 --> 00:21:31.200]   Now here you go. This one's on human umbilical vein endothelial endothelial cells. Sorry,
+[00:21:31.200 --> 00:21:36.480]   I'm not familiar with all these words. I'm drawing my best here. And this one showed that
+[00:21:36.480 --> 00:21:41.680]   it actually stimulated a toffee and cell growth. Whoa, that's a good thing. Here's another one
+[00:21:41.680 --> 00:21:46.800]   on human again. And this one was some kind of chemistry stuff that doesn't make this not clear
+[00:21:46.800 --> 00:21:52.960]   in what the whether it was positive or not. Again, they did another 24 another 24. So all of these
+[00:21:52.960 --> 00:21:58.720]   different studies of the 34 studies that were reviewed in this study. I know it's like having
+[00:21:58.720 --> 00:22:05.120]   a meeting about meetings, right? But they all basically the 24s basically were quite positive.
+[00:22:05.120 --> 00:22:12.560]   In this one here on human, I don't know, H a scat carrot, nice sites. I don't even know what
+[00:22:12.560 --> 00:22:17.760]   that is. But it's basically showing, hey, it's increasing mitochondria activity increasing O2.
+[00:22:17.760 --> 00:22:21.040]   That's a good thing actually, no matter where you're at in your body.
+[00:22:21.040 --> 00:22:29.600]   And then also another 24 one here on microfages. And then you've got these other ones here.
+[00:22:29.600 --> 00:22:37.680]   Like here's a C 60 OH 32 on human epidermal. I guess, you know, it's your skin skin cells,
+[00:22:37.680 --> 00:22:44.320]   right? And it they basically it the end result was the biological activity was cell death.
+[00:22:44.320 --> 00:22:50.480]   Cell death is probably not a good thing. So let's chalk 32 off the board. So then you've got this
+[00:22:50.480 --> 00:22:58.160]   22 to 26. And you've got 22 to 26. And again, it goes on and on and on. So I'm not going to read
+[00:22:58.160 --> 00:23:02.800]   all of them to you because you probably get bored. But what I want to do is just just kind of show
+[00:23:02.800 --> 00:23:08.160]   you what I was looking at. And here's one that's C 60 OH 20. I think this is what's really your
+[00:23:08.160 --> 00:23:13.120]   breast cancer metastasis, anti tumor and a metastatic metastatic activities modulation
+[00:23:13.120 --> 00:23:18.160]   of oxidative stress in tumor tissues. That's a good thing. So so far, you know, I just
+[00:23:18.160 --> 00:23:23.520]   cursor your overview and you can see how much data is here to sift through. But there's a,
+[00:23:23.520 --> 00:23:30.560]   you know, like 24 pops up a lot with positive results, 20 pops up positive results. And then
+[00:23:30.560 --> 00:23:35.520]   you get into some more of these where you're looking at like, I'm more interested in like,
+[00:23:35.520 --> 00:23:41.600]   you know, mammal studies. And so then you get into the rat studies here on in addition to the
+[00:23:41.600 --> 00:23:47.360]   human studies. And so once you get into the rat studies here on the next page, here's where you
+[00:23:47.360 --> 00:23:55.440]   start getting into the CCC OH 24 on rats, antioxidant protected to have a site against
+[00:23:56.560 --> 00:24:03.840]   docs or been toxicity and irritability of peritoneum and abdominal tissue. Okay,
+[00:24:03.840 --> 00:24:08.480]   that's that's a good thing, right? And then you get into more rat studies where they start talking
+[00:24:08.480 --> 00:24:14.480]   about will star rats, which I want to point out something about will star rats or we still,
+[00:24:14.480 --> 00:24:18.560]   you know, we will we star rats. I hope I'm pronouncing that one, right?
+[00:24:19.520 --> 00:24:28.240]   Was if you recall the original study of C 60 on rats that basically showed that the rats live
+[00:24:28.240 --> 00:24:33.520]   twice as long. That's like the famous rat study. They also known as the Paris study also known as
+[00:24:33.520 --> 00:24:39.120]   the body study. That one used with star rats. Okay, so it's kind of like, okay, if you want to
+[00:24:39.120 --> 00:24:46.320]   understand whether or not full or an all's do the same thing as C 60 by itself, when you're talking
+[00:24:46.320 --> 00:24:51.680]   about testing it on we star rats, that's how you do a apples to apples comparison to
+[00:24:51.680 --> 00:24:56.640]   that 2012 study, which is really a big deal, because that's that's that's that's the you know,
+[00:24:56.640 --> 00:25:02.240]   the benchmark for everybody. And that's the majority of the C 60 products on the market today
+[00:25:02.240 --> 00:25:07.120]   follow the formula of that one study. So it's it's really kind of pinnacle. So that one study,
+[00:25:07.120 --> 00:25:12.640]   meaning the I'll just call it the body study. That's the guy that that was the lead researcher
+[00:25:12.640 --> 00:25:18.480]   on that study. So when you start taking a look at C 60 24 on we star rats, then you get into this
+[00:25:18.480 --> 00:25:24.480]   antioxidant protecting against data, antioxidant protecting, okay, antioxidant protecting again.
+[00:25:24.480 --> 00:25:31.440]   And also, you know, and also against toxicity. And then here it reducing the level of gear,
+[00:25:31.440 --> 00:25:36.640]   increasing the presence of DMSO, and also to direct scavenging activity in different oxide
+[00:25:36.640 --> 00:25:43.600]   radicals, super oxide anons. Okay, these are all really good things. Okay, in terms of its ability
+[00:25:43.600 --> 00:25:50.640]   to eliminate free radicals from your body, meaning super antioxidant, very healthy for us. So it
+[00:25:50.640 --> 00:25:58.160]   seems like there's a band, you know, of of the number of hydroxyl pairs you could attach to a C 60
+[00:25:58.160 --> 00:26:04.880]   molecule that when you're within that band, it has very, very good antioxidant protective effects.
+[00:26:04.880 --> 00:26:09.600]   And that's that's a good thing. So that's the good thing of the research that I discovered. However,
+[00:26:09.600 --> 00:26:14.320]   if you stray outside that band, then you start running into situations where you're not getting
+[00:26:14.320 --> 00:26:20.800]   positive results. So but it but again, you know, it's very difficult to nail it down,
+[00:26:20.800 --> 00:26:24.400]   because there's just so many different versions and so many different studies,
+[00:26:24.400 --> 00:26:29.280]   and they're studying on so many different things. Okay, so but but I did want to kind of just share
+[00:26:29.280 --> 00:26:34.560]   with that with you. There is one that did stand out. It's that C 60 O H 24. And I think and then
+[00:26:34.560 --> 00:26:39.680]   when you look at the products, you can see that that's the one that these two guys decided to use,
+[00:26:39.680 --> 00:26:43.280]   right, these two different products. And that's that's one they're using. And then of course,
+[00:26:43.280 --> 00:26:48.640]   you got this one out here, you know, you got David Avocado Wolf, and you know, and in his little
+[00:26:48.640 --> 00:26:54.240]   commercial for this product, you know, he's saying, I got the best scientists, I got the best equipment,
+[00:26:54.240 --> 00:27:00.960]   the best quality products. And that's his marketing pitch. But he's using he's using 4246,
+[00:27:00.960 --> 00:27:07.280]   which by the way, didn't show up in any of the review studies I looked at. Okay. So so you know,
+[00:27:07.280 --> 00:27:11.760]   so they're just claims, but I also, you know, so it's really hard. It's really hard to say
+[00:27:11.760 --> 00:27:15.840]   what are the effects, but if you were to take a step back, you're like, well, you know, it's
+[00:27:15.840 --> 00:27:22.000]   somewhat it's pretty much the same type of information you get when you're studying C 60 by itself.
+[00:27:23.120 --> 00:27:27.120]   But now I want to kind of share with you something that I think is just remarkable.
+[00:27:27.120 --> 00:27:32.960]   And you know, one thing that that we have a telegram C 60 biohacker telegram group, okay.
+[00:27:32.960 --> 00:27:38.800]   And we had a gentleman, his name is Dimitri, and he's with the Nagatoshi project. And this is the
+[00:27:38.800 --> 00:27:43.680]   Russian based project. And they're basically a group of scientists that have put, you know,
+[00:27:43.680 --> 00:27:50.560]   pulled together got venture funding and they're creating this this this hybrid water soluble C 60
+[00:27:51.600 --> 00:27:56.640]   full or an all and C 70 full or an all combine it together. And they're and they're doing some
+[00:27:56.640 --> 00:28:01.040]   experiments with it. And what's really interesting is that they're the first ones that I can find
+[00:28:01.040 --> 00:28:06.800]   out there in the world that are actually experimenting with humans. And so I asked him, hey, you know,
+[00:28:06.800 --> 00:28:12.000]   can you give me an example like what are you guys learning about using your version of
+[00:28:12.000 --> 00:28:16.560]   full or an all's, you know, it's a combination of C 60 and C 70 full or an all's. And what are
+[00:28:16.560 --> 00:28:20.400]   you finding? And so he shared this with me and thank you very much for that, Dimitri. And I think
+[00:28:20.400 --> 00:28:25.280]   it's fascinating. So here, this is what he says is like in April together with the Karagandah
+[00:28:25.280 --> 00:28:31.120]   Medical University, we begin to design pre clinical studies of modified oils and
+[00:28:31.120 --> 00:28:35.120]   florinols. Okay, you have to wait a little six to eight months before the, you know,
+[00:28:35.120 --> 00:28:40.400]   the clinical trials completed. However, basically, here's an example of what they're finding with
+[00:28:40.400 --> 00:28:46.400]   using florinols. Okay, this combination blend of C 60 and C 70. Okay, here's the most recent one
+[00:28:46.400 --> 00:28:53.040]   testing the cream on modified oils for various types of psoriasis. This is a 25 year old girl
+[00:28:53.040 --> 00:28:58.320]   allergic dermatitis. The treatment period is 10 days. You could see how bad it was. And then
+[00:28:58.320 --> 00:29:03.920]   after 10 days, you know, it just goes down down and gone in 10 days. And that is remarkable. It's
+[00:29:03.920 --> 00:29:09.840]   the only human study or, you know, anything clinical trial study anything out there. And
+[00:29:09.840 --> 00:29:13.920]   they're doing it right now. So thank you, Dimitri, for sharing that so that I could put it in the
+[00:29:13.920 --> 00:29:18.960]   video. I think it's remarkable. It just shows that, that there is something about
+[00:29:18.960 --> 00:29:28.640]   florinols that makes it very, very positive as a supplement. Now, the Nagatoshi project,
+[00:29:28.640 --> 00:29:34.720]   again, is, is they're producing a product and that's being put in other products, right? So,
+[00:29:34.720 --> 00:29:42.640]   so they've got a skin topical product that's on the market now. They've got that water bottle
+[00:29:42.640 --> 00:29:47.600]   that they're selling in Pakistan, the C60 detox water, and then they've got several other
+[00:29:47.600 --> 00:29:54.640]   little bottles, different, you know, different combinations of C60, C70,
+[00:29:54.640 --> 00:29:59.040]   florinols in a little droplet bottle. So there's they got quite a few products and some of these
+[00:29:59.040 --> 00:30:02.880]   other ones have quite a few products as well. And so yeah, it's really interesting what the
+[00:30:02.880 --> 00:30:06.880]   Nagatoshi project is doing. Now, I also want to point out that there's, you know, that that other
+[00:30:06.880 --> 00:30:13.360]   version that anti or anti-sotropic nanoparticle compositions, this was a wild one. They popped up
+[00:30:13.360 --> 00:30:20.800]   in the research. And so this is a guy. His name is Peter Robert Butz's off. And he created a product
+[00:30:20.800 --> 00:30:25.920]   called Buck y'all. Now, there's an, and honestly, you know, when you search YouTube for anybody
+[00:30:25.920 --> 00:30:32.240]   that's talked about any of this, it really is almost like two videos. There's, that's really it.
+[00:30:32.240 --> 00:30:37.920]   And I searched and searched and searched like, you know, like for lectures and presentations. And,
+[00:30:37.920 --> 00:30:42.560]   you know, I mean, I found like, you know, a lot of advertising, there's a lot of marketing,
+[00:30:42.560 --> 00:30:47.840]   but actually like, hey, you know, can you explain this at a science level? And there's only two. And
+[00:30:47.840 --> 00:30:54.880]   so this was the one about the product Buck y'all. And so the website here is basically saying,
+[00:30:54.880 --> 00:31:02.320]   Hey, you know, when you have this really bizarre hybrid, you know, florinol molecule that is half
+[00:31:02.320 --> 00:31:07.920]   C 60 and half florinol, then basically they're saying, Hey, you know, this thing is really,
+[00:31:07.920 --> 00:31:13.120]   really incredible. And then this is what their studies have been saying. Their website basically
+[00:31:13.120 --> 00:31:18.160]   says, Hey, you know, it enhances cell metabolism, removes free radicals, you know, inhibits cell
+[00:31:18.160 --> 00:31:22.480]   degradation and inflammation and all that stuff. And then in the video, if you watch the video,
+[00:31:22.480 --> 00:31:29.120]   link in the video description below of Peter Butslaf, basically explaining the science behind his
+[00:31:29.120 --> 00:31:36.400]   product. He really points out the issue that that his florinol really supports the model
+[00:31:36.400 --> 00:31:43.440]   mitochondria. It helps with neural regeneration, you know, so people with MS Alzheimer's, it's
+[00:31:43.440 --> 00:31:49.520]   really been a quite a find for those tumor reduction and supports vascular health. And so these are
+[00:31:49.520 --> 00:31:54.640]   some of the claims that are being made in addition to all the other claims of all the other products
+[00:31:54.640 --> 00:32:01.520]   that are made is that they're all claiming that it's as good, if not better than C 60.
+[00:32:01.520 --> 00:32:06.240]   Okay, and so and then does the literature, and that's the key. Does the literature support that?
+[00:32:06.240 --> 00:32:11.760]   And the literature, again, it really depends, it really depends on which one you're talking about.
+[00:32:11.760 --> 00:32:17.440]   And so there are, there is literature, you know, studies in the science literature that say,
+[00:32:17.440 --> 00:32:22.240]   yeah, some of them do support those claims, some of them don't. So which one are you using? So we go
+[00:32:22.240 --> 00:32:26.480]   back to that. So here we go. So that's buck y'all. And I think that's really interesting. The only
+[00:32:26.480 --> 00:32:32.400]   weird, weird thing about buck y'all is that it's dropped off the face of the earth. I was looking
+[00:32:32.400 --> 00:32:38.160]   at this product and, you know, started actually several months ago, I started looking into this
+[00:32:38.160 --> 00:32:43.280]   when Dimitri first joined our group, and I got me curious. So I started poking around. I found
+[00:32:43.280 --> 00:32:47.360]   this. I looked at it briefly. And then when I went back to look at it again, you know,
+[00:32:47.360 --> 00:32:52.560]   three months later in March in preparing for doing this video, it fell off the face of the earth.
+[00:32:52.560 --> 00:32:58.720]   The website's gone. The last known cap, you know, screen a capture of it in archive.org
+[00:32:58.720 --> 00:33:04.560]   was December 23rd. After that, you try to go to the website. It's gone. It's not, it's not even,
+[00:33:04.560 --> 00:33:08.160]   there's not even there's nothing there. It's like it never existed. And I also went and looked
+[00:33:08.160 --> 00:33:12.800]   at all the different places that were selling it. It's only sold outside the US and all of
+[00:33:12.800 --> 00:33:17.520]   the sites that's used to sell it are all currently out of stock. So I don't know what happened with
+[00:33:17.520 --> 00:33:22.720]   this one. It's either, you know, I just don't know. There just, it's something happened and
+[00:33:22.720 --> 00:33:26.800]   there just disappeared. But I wanted to put it in there because, you know, it's, it's part of the
+[00:33:26.800 --> 00:33:31.360]   research. And so yeah, it's kind of an interesting story on this one. So everything in the link
+[00:33:31.360 --> 00:33:34.720]   below, even the copy of the patent for this thing or that what I could find on the patent.
+[00:33:34.720 --> 00:33:41.440]   Okay. So with that said, what are the effects of water soluble sissy as compared to C60? So I
+[00:33:41.440 --> 00:33:46.720]   just wanted to throw this in because, you know, it's kind of cool that there was a 2023 study
+[00:33:46.720 --> 00:33:51.280]   on whole animals. Okay. Now this is the key thing. If you've been following C60,
+[00:33:51.280 --> 00:33:57.200]   if you've seen my videos, or I've been looking for C60 studies, lipo fullerenes. Okay. There's
+[00:33:57.200 --> 00:34:04.080]   so many C60 studies. We're just talking C60 now. And the issue with C60 studies is, is just as
+[00:34:04.080 --> 00:34:10.240]   complicated, but not as much because there's only one version. However, there's multiple different
+[00:34:10.240 --> 00:34:17.680]   ways that you could subject a critter and or cells in vitro in vivo cells and and just, you know,
+[00:34:17.680 --> 00:34:24.800]   the whole idea is that and also pristine, which means just by itself or in in oil, which is lipo
+[00:34:24.800 --> 00:34:30.880]   fullerene. And it's really difficult. There aren't a whole lot of studies about C60 in oil
+[00:34:30.880 --> 00:34:36.320]   with animals. Okay, there just aren't. And so that's what's key because that's exactly what
+[00:34:36.320 --> 00:34:43.120]   we're doing, right? We are the human trial for C60. And I want to know, you know, I don't care about,
+[00:34:43.120 --> 00:34:47.440]   oh, you made a rat, you know, breathe, you know, the powder in the air, and they got, you know,
+[00:34:47.440 --> 00:34:51.600]   they got black lung. Yeah, don't kidding. You know, that's that's what happens to coal miners,
+[00:34:51.600 --> 00:34:55.280]   you know, I don't, you know, so that's a common sense thing. And that's actually a study. But
+[00:34:55.280 --> 00:35:00.960]   actually, you know, what happens to animals when they take C60 in oil, and then looking at just
+[00:35:00.960 --> 00:35:05.840]   those studies. And so this one popped up. So it's really kind of like, this is cool. And we got,
+[00:35:05.840 --> 00:35:10.800]   you know, here's a new C60 study just last year. And so and what did they find when they tested
+[00:35:10.800 --> 00:35:17.680]   liposoluble? That means lipid, right? And that's a lipo fullerene on cellular molecular and whole
+[00:35:17.680 --> 00:35:22.880]   animal levels. And so just real, you know, just one sentence out of the whole study,
+[00:35:22.880 --> 00:35:27.840]   just to share with you to say, Hey, you know what, this is C60 strongly absorbs free radicals,
+[00:35:27.840 --> 00:35:34.560]   inhibits the toxicity of chemical toxins, toxicants resist radiation prevents ultraviolet damage
+[00:35:34.560 --> 00:35:39.120]   and prevents heavy metal induced cell damage. And that's, they proved that there's this study says,
+[00:35:39.120 --> 00:35:44.080]   hey, that's what C60 does. That's one of the reasons I take C60, you know, because it's got
+[00:35:44.080 --> 00:35:48.720]   some incredible properties. And so when you say, well, is does that is, are they finding that
+[00:35:48.720 --> 00:35:55.840]   forlornals do the same thing as these as a C60? You know, if you look at what C60 can do for this
+[00:35:55.840 --> 00:36:02.000]   study, the answer is yeah, it is. Everything I've read, it tells me that the florinols can do
+[00:36:02.000 --> 00:36:09.840]   the same as C60 does. Okay, depend again, but depends on which version of the florinol
+[00:36:09.840 --> 00:36:14.720]   we're talking about. And the thing about it, though, and this is where it all kind of just stops,
+[00:36:14.720 --> 00:36:21.360]   and you go, wait a minute, one of the biggest things about C60 is it promotes longevity. So now,
+[00:36:21.360 --> 00:36:27.360]   there are two published studies and a third one that wasn't published that says it does. And I'm
+[00:36:27.360 --> 00:36:32.880]   talking about C60. So now the original one, the body study, the rat study, the 2012, you know,
+[00:36:32.880 --> 00:36:38.400]   body, you know, study in Paris and says, you know, the title of that one was the prolongation of
+[00:36:38.400 --> 00:36:44.560]   the lifespan of rats by repeated oral administration of C60. Folarine, this is the 2012 study, the
+[00:36:44.560 --> 00:36:52.240]   conclusion or the results of that study. And this was a study that was meant to see how much C60
+[00:36:52.240 --> 00:36:56.560]   you could give a rat before half the population of your subject group died. Okay, there was like
+[00:36:56.560 --> 00:37:01.440]   an OSHA study, they needed to know, you know, how dangerous was C60 for all the people that were
+[00:37:01.440 --> 00:37:06.720]   handling it in industry, because it's an industrial solvent. So there's tons and tons and tons of
+[00:37:06.720 --> 00:37:12.000]   factories and so forth, people that are handling C60 in industry. And they wanted to know, you know,
+[00:37:12.000 --> 00:37:16.080]   like OSHA, right, like going, you know, what's the, what's the, you know, the level of exposure
+[00:37:16.080 --> 00:37:20.800]   before you kill off all these workers? And so they did that's why they did this study back then.
+[00:37:20.800 --> 00:37:25.600]   And so, but the, you know, and this was the, you know, the beauty of that study was that it doesn't
+[00:37:25.600 --> 00:37:30.560]   hurt you, it helps you and you live twice as long if you're a rat. And so here it is, as our results
+[00:37:30.560 --> 00:37:37.120]   show that while olive oil treatment can lead to an increase of 18%, you know, in rats, you know,
+[00:37:37.120 --> 00:37:44.480]   life lifespan, C60 olive oil can increase it up to 90% as compared to controls. And that's the,
+[00:37:44.480 --> 00:37:49.600]   that's that magic sentence that popped out of this study that just threw C60 into the limelight.
+[00:37:49.600 --> 00:37:55.680]   And so, you know, so it's been proven by this study. And then in 2021, there was another study done
+[00:37:55.680 --> 00:38:00.560]   called the effective long term treatment with C fullerenes on the lifespan and health study of
+[00:38:00.560 --> 00:38:08.000]   CBA/CA mice. And in 2021, this study came out and it just basically stipulated in the abstract.
+[00:38:08.000 --> 00:38:11.360]   I have not been able to get my hands on the full study, but I do have the abstract.
+[00:38:11.360 --> 00:38:17.040]   And it just basically stipulates treatment of mice. We see fullerenes resulted in an
+[00:38:17.040 --> 00:38:23.120]   increased lifespan of male and females compared with the olive oil treated animals. So they
+[00:38:23.120 --> 00:38:28.320]   repeated the same body study, but used mice instead. And they discovered, yeah, it does increase
+[00:38:28.320 --> 00:38:32.960]   lifespan. So those are two of the studies. The third study, if you if you follow C60 news,
+[00:38:32.960 --> 00:38:37.680]   is you'll know that Ian Mitchell of wizard scientists, he's the one of the foremost
+[00:38:37.680 --> 00:38:44.480]   authorities on C60 on the planet. He did his own study. It was, it was a proprietary commercial
+[00:38:44.480 --> 00:38:50.000]   study. Okay, so commercial studies are not academic studies. People who make products will do studies
+[00:38:50.000 --> 00:38:54.960]   and, you know, to basically see, you know, to perfect their product. So he did a study. He
+[00:38:54.960 --> 00:39:01.920]   repeated, this is Ian Mitchell, he repeated the body study, the pair of study. But instead of,
+[00:39:01.920 --> 00:39:09.600]   we start with star rats, he used p53 knockout rats. And his study basically duplicated the
+[00:39:09.600 --> 00:39:17.040]   exact same results, except with one caveat, and then he found that 93% of his rats, okay, lived twice
+[00:39:17.040 --> 00:39:24.720]   as long or lived 93% longer. Okay, so he found his rats lived 93%. The variance of between the
+[00:39:24.720 --> 00:39:31.280]   two studies is so small that it essentially proved, and he states this in multiple interviews,
+[00:39:31.280 --> 00:39:37.200]   that he did this study with rats, and he basically confirmed the findings of the body study.
+[00:39:37.200 --> 00:39:44.160]   So that's three studies to publish one commercial, not published, that basically says C60 will extend
+[00:39:44.160 --> 00:39:50.320]   the lifespan of these little small mammals, which is what you hear anybody, you know,
+[00:39:50.320 --> 00:39:55.680]   everybody who sells C60 promotes it like, oh, it's for anti-aging, it's longevity. And that's why
+[00:39:55.680 --> 00:40:00.720]   they do that is because it's been proven. But here's the thing, when it comes to water-soluble
+[00:40:00.720 --> 00:40:08.560]   C60, there are no longevity studies. And that's the one place that I found that it's highly,
+[00:40:08.560 --> 00:40:16.400]   highly, you know, disparate between C60 and water-soluble C60 is in regards to longevity. Okay,
+[00:40:16.400 --> 00:40:21.920]   so keep that in mind. If you're interested in using water-soluble C60 in place of C60,
+[00:40:21.920 --> 00:40:25.920]   if your goal is longevity, you might want to stay with C60. Because it just hasn't, it just hasn't
+[00:40:25.920 --> 00:40:29.840]   been studied yet. I'm not saying it doesn't, it just hasn't been studied. So the next thing I want
+[00:40:29.840 --> 00:40:34.160]   to know is what do the experts say? So again, you know, there's only two or three videos in all
+[00:40:34.160 --> 00:40:39.760]   all of the world right now about water-soluble C60. This will be one of the handfuls of them.
+[00:40:39.760 --> 00:40:43.600]   And so when I went looking to answer this question, okay, so one of the first things was,
+[00:40:43.600 --> 00:40:48.800]   I found a video by Chris Burris of SES Research. Now, if you don't know who Chris is, he is a,
+[00:40:48.800 --> 00:40:56.160]   he is the lead research scientist for SES Research and SES Research was the actual, was the company
+[00:40:56.160 --> 00:41:04.080]   that supplied C60 to the rat study, the Paris rat study. So his company, you know, basically
+[00:41:04.080 --> 00:41:10.160]   was the one back in the day. I mean, they formed their company in 1991. They go back, they actually
+[00:41:10.160 --> 00:41:14.880]   worked when they were in college, him and his partner, they worked with the graduate students
+[00:41:14.880 --> 00:41:22.000]   that actually supported Smolley and Curl and, sorry, forgot the third guy, but the three guys that
+[00:41:22.000 --> 00:41:28.960]   discovered C60 originally and then got the Nobel Peace Prize for it. Well, their graduate students
+[00:41:28.960 --> 00:41:33.920]   were associates of Chris Burris and his partner, Robert. And so that, they go back to '91,
+[00:41:33.920 --> 00:41:39.920]   even though this guy looks really super young, he's one of us old guys. And so he is, again,
+[00:41:39.920 --> 00:41:46.320]   one of the foremost experts on C60 on the market, this is his industry. And so he made a video,
+[00:41:46.320 --> 00:41:53.840]   and basically his video was basically trying to just kind of share with his his thoughts on water
+[00:41:53.840 --> 00:42:01.040]   soluble C60 and what people should be thinking about before trying it as a C60 guy. Okay. And so
+[00:42:01.040 --> 00:42:05.520]   I kind of just bullet pointed some of the things he said in his video, of course, you can take a
+[00:42:05.520 --> 00:42:09.680]   look at it in the video description link. But here it is basically just says, hey, you know,
+[00:42:09.680 --> 00:42:14.720]   it's a matter of characterization. Chris says peer reviewed studies show that water soluble C60
+[00:42:14.720 --> 00:42:20.480]   is harmful. And that's correct. Okay. Again, depending on version, very it's very challenging to
+[00:42:20.480 --> 00:42:25.040]   determine how many hydroxyl groups have been added to C60 molecule. That's a biochemistry
+[00:42:25.040 --> 00:42:30.000]   thing, which, you know, which, you know, you'd kind of wonder like if, you know, some of these
+[00:42:30.000 --> 00:42:36.400]   companies are are they are they how aware are they of this particular version that they've got,
+[00:42:36.400 --> 00:42:41.280]   you know, because if you're making your own, Chris is saying as a chemist, it's very hard
+[00:42:41.280 --> 00:42:47.200]   to tell how many hydroxyl groups you actually ended up putting on to that molecule. And then,
+[00:42:47.200 --> 00:42:53.600]   of course, the different number of, you know, hydroxyl groups have the capacity to react very
+[00:42:53.600 --> 00:42:58.320]   differently. Again, true, you can see that in the review of the studies, you can look at the
+[00:42:58.320 --> 00:43:02.560]   studies I've collected. And then many companies do not share what version they are putting on
+[00:43:02.560 --> 00:43:08.000]   the market. I confirm that exactly as you saw in that one slide. They don't even tell you what
+[00:43:08.000 --> 00:43:13.920]   they're using, which should be a red flag. Research is done on specific areas, but toxicity studies
+[00:43:13.920 --> 00:43:19.520]   of water soluble C60 are not available. Okay, so that's partially true, because if you look at it
+[00:43:19.520 --> 00:43:26.160]   in the context of has anyone done an LD 50 OSHA study to see how much water soluble C60 you can
+[00:43:26.160 --> 00:43:31.360]   expose yourself to before, you know, half of your population of your participants are dead.
+[00:43:31.360 --> 00:43:36.240]   No one's done that study. There are no LD 50 studies on water soluble C60 that I have found.
+[00:43:36.240 --> 00:43:40.800]   If anyone finds one, please let me know. Okay, but so, but it's true that they're just not available.
+[00:43:40.800 --> 00:43:46.960]   However, as I pointed out earlier, there are toxicity studies of specific water soluble
+[00:43:46.960 --> 00:43:52.560]   versions. Okay, but not one that's like an LD 50, you know, OSHA type study. And then lastly,
+[00:43:52.560 --> 00:43:57.280]   Chris mentions in his video without the type of study conducted by Fati Musa. Okay, that's that,
+[00:43:57.280 --> 00:44:01.760]   you know, the famous Paris study. Yeah, his recommendation is you should not be consuming
+[00:44:01.760 --> 00:44:08.080]   that product at least not yet. And I completely agree with Chris. I think Chris, very smart guy,
+[00:44:08.080 --> 00:44:14.640]   knows his stuff and everything he said, I went and kind of, you know, fact checked it. And he's
+[00:44:14.640 --> 00:44:18.960]   spot on every bullet point. And then the other thing I want to point out is another expert is
+[00:44:18.960 --> 00:44:23.920]   Fati Musa himself. Okay, this is the guy. This is the guy that kicked it off. And he's the one
+[00:44:23.920 --> 00:44:30.080]   that did the rat study, you know, that Paris study in 2012. Now, if you look at that study in the last
+[00:44:30.080 --> 00:44:36.080]   section of the study before the citations, he writes a conclusion paragraph. And in this conclusion
+[00:44:36.080 --> 00:44:42.320]   paragraph, Fati Musa states very clearly in the conclusion where he talks about, you know, about
+[00:44:42.320 --> 00:44:45.920]   treating the rats and what happened, and then whether or not it's going to kill off everybody
+[00:44:45.920 --> 00:44:50.080]   and is it talks in his, you know, talks and stuff. But basically, he goes on to say something that's
+[00:44:50.080 --> 00:44:55.920]   really kind of important about water soluble C 60. And then basically, let me just kind of pick
+[00:44:55.920 --> 00:45:00.320]   this up. Okay, so basically, anyway, this works should open the road towards the development
+[00:45:00.320 --> 00:45:05.680]   of the considerable potential of C 60 in the biomedical field. And boy, hasn't it, including
+[00:45:05.680 --> 00:45:12.400]   cancer therapy, neurodegenerative disorders and aging. Okay, furthermore, in the field of aging,
+[00:45:12.400 --> 00:45:19.120]   as C 60 can be administered orally, and it is now produced in tons, it is no longer necessary
+[00:45:19.120 --> 00:45:25.760]   to resort to its water soluble derivatives, which are difficult to purify. And in contrast to
+[00:45:25.760 --> 00:45:31.120]   pristine C 60, maybe toxic. And that's what he said. And he's true. And that's right. That's
+[00:45:31.120 --> 00:45:36.160]   100% right. Everything, you know, so that that's a highly accurate statement. And again, just like
+[00:45:36.160 --> 00:45:41.440]   Chris, he's like, Hey, you know what, C 60 in olive oil, we proved it. It's not toxic. We proved
+[00:45:41.440 --> 00:45:47.200]   it does all this incredible stuff. You know, you know, be careful with water soluble, full, you know,
+[00:45:47.200 --> 00:45:54.640]   florinols, because hey, they may be toxic. Okay, and that's that's what I'm hoping to have shown you
+[00:45:54.640 --> 00:46:00.960]   in today's video. So then the last part here is, can you make your own? So for those of you who are
+[00:46:00.960 --> 00:46:06.400]   like, yeah, you know, you want to try it, great, you want to try and make your own, you can do it.
+[00:46:06.400 --> 00:46:12.720]   Let me show you how. Okay, excuse me. The first one is where can you buy it? Well, it's readily
+[00:46:12.720 --> 00:46:18.080]   available. There's different sites that sell it. You've got Solaris cam in Canada. They sell
+[00:46:18.080 --> 00:46:26.160]   full orinols. You've got MST in Europe, they sell full orinols. So it's quite easy to basically order
+[00:46:26.160 --> 00:46:33.840]   the florinols from a certified chemistry lab that they will sell you the actual full orinols. Okay,
+[00:46:33.840 --> 00:46:39.920]   so you can go ahead and buy them. If you want to know how to make them, here's a an article
+[00:46:39.920 --> 00:46:46.400]   by Heichler ultrasonics, where it basically gives you a ultrasonic synthesis of water
+[00:46:46.400 --> 00:46:51.920]   solvos 660 step by step instructions on how to make your own. So can you make your own? Absolutely.
+[00:46:51.920 --> 00:46:58.240]   What are the mixing methods? Well, it's just florinol in water. You can stir it and only takes
+[00:46:58.240 --> 00:47:04.240]   less than 30 seconds. So unlike C 16 oil, which takes two weeks, the mixing methods are you could
+[00:47:04.240 --> 00:47:10.000]   either use a stir or you could use an ultrasonic. But either way, the formula is quite simple.
+[00:47:10.000 --> 00:47:16.720]   This formula came from Pierre at Solaris cam, the founder and proprietor of Solaris cam. Basically,
+[00:47:16.720 --> 00:47:24.240]   the solution is full orinol in water. The formula is the solubility. You can add up to 220 grams
+[00:47:24.240 --> 00:47:29.680]   per liter. That's the saturation rate and the time to dissolve is 30 seconds. So here again,
+[00:47:29.680 --> 00:47:35.600]   this is another point I want to make about the products. If it can take up to 200 grams per liter,
+[00:47:35.600 --> 00:47:42.000]   okay, none of these products tell you how much florinol is in the water, is in the bottle.
+[00:47:42.000 --> 00:47:48.000]   Okay, unlike, you know, like when you get a bottle of C 60 oil, it'll tell you in there that it's
+[00:47:48.000 --> 00:47:55.200]   like, oh, it's got like 0.8 milligrams per liter is our per, yeah, 0.8 milligrams per milliliter
+[00:47:55.200 --> 00:48:03.520]   is the typical amount of C 60 in oil that will be on the label. To tell you, okay, I'm not just
+[00:48:03.520 --> 00:48:09.920]   buying oil, I'm buying C 60 in oil. And the majority of the cost is the C 60. So you want to know
+[00:48:09.920 --> 00:48:14.160]   you're getting your money's worth, right? Well, all of these products, they don't they don't
+[00:48:14.160 --> 00:48:22.400]   stipulate how much C 60 full orinol right is in their product. And so if you can go from zero or
+[00:48:22.400 --> 00:48:29.120]   like one gram to 220 grams per liter, then you don't really know how much you're you're getting. And
+[00:48:29.120 --> 00:48:34.000]   that's the another issue is not only do you not know which version or let's say you even know
+[00:48:34.000 --> 00:48:38.240]   which version, but you don't know how much is actually in the bottle. Okay, and that's another
+[00:48:38.240 --> 00:48:43.680]   issue with the product labeling that I found when looking at the product. So again, this is how you
+[00:48:43.680 --> 00:48:50.000]   would do it yourself. And, and it's really kind of interesting where I know that the saturation for
+[00:48:50.000 --> 00:48:57.920]   C 60 is the baseline is from the body study, you know, the pair study is 0.8 milligrams per milliliter.
+[00:48:57.920 --> 00:49:02.800]   And according to iron Mitchell, you can get way beyond that, depending on the type of oils you
+[00:49:02.800 --> 00:49:07.920]   use on the mixing, the methodology you're using to to mix the two together. I'm sure it's the same
+[00:49:07.920 --> 00:49:13.600]   for full orinols. And again, it really, you know, again, it's like another variant, right? Not only
+[00:49:13.600 --> 00:49:18.480]   do you have what version you've got how much is in there and so forth. So there you go on that one.
+[00:49:18.480 --> 00:49:25.120]   So the last slide, I just kind of want to sum it up and just like, so do you want to try it?
+[00:49:25.120 --> 00:49:31.920]   You know, the here's the pros, the pros again, let me summarize. It's got some incredible properties
+[00:49:31.920 --> 00:49:37.760]   that can do some incredible stuff that's like C 60, right? Everything from tumor suppression,
+[00:49:37.760 --> 00:49:44.880]   super antioxidant. I mean, it's a great supplement, depending on version. Okay. And the products that
+[00:49:44.880 --> 00:49:50.240]   are out there are sort of all over the map. And it's really hard to figure out what you're getting,
+[00:49:50.240 --> 00:49:55.760]   how much of it you're getting, and what's the cost benefit? Does it promote longevity? No.
+[00:49:55.760 --> 00:50:03.520]   Okay. It hasn't been proven yet. Okay. Do we know exactly how toxic it is? Well, yeah, the 6060H24.
+[00:50:03.520 --> 00:50:08.240]   Yes, there's a study on that one, but not on the other ones, right? You know, so
+[00:50:08.240 --> 00:50:13.920]   for me, that's just, you know, so we're all going to have to make a decision and we don't have to
+[00:50:13.920 --> 00:50:18.400]   make, I'm sorry, you can make a decision if you want to. Hey, do you want to try this new supplement?
+[00:50:18.400 --> 00:50:22.800]   It's it's out there on the market. People are selling it. And you know, you want to try something
+[00:50:22.800 --> 00:50:29.520]   that could be the next big thing. And you know, honestly, my my my my conclusion after studying
+[00:50:29.520 --> 00:50:40.240]   this intensely for three weeks is for longevity, I would stick with C 60 for health. I would I
+[00:50:40.240 --> 00:50:46.080]   wouldn't mind trying florinols at all, because you know, I jumped in both feet into C 60
+[00:50:46.080 --> 00:50:53.520]   in 2017 when, you know, most of the studies on mammals hadn't even been done yet. And I jumped
+[00:50:53.520 --> 00:50:59.840]   in just purely on one study that said it promoted longevity. And that is the holy grail of biohacking.
+[00:50:59.840 --> 00:51:03.840]   And so I, you know, and it was super antioxidant. So I just jumped right in both feet, start taking
+[00:51:03.840 --> 00:51:10.400]   it. And I've been taking C 60 since 2017. So so you know, and then of course, all the studies keep
+[00:51:10.400 --> 00:51:16.160]   coming out and keep coming out, proving over and over that it's not toxic, etc. Now, will I do the
+[00:51:16.160 --> 00:51:24.560]   same thing with florinols? Yeah, yeah, I definitely would. But I would stick to a I would stick to
+[00:51:24.560 --> 00:51:32.720]   C 60 OH 24. Or what I'm thinking of trying and thanks to Dimitri is I'm going to try his product.
+[00:51:33.520 --> 00:51:38.400]   As soon as I can get it, a little trouble, they're getting mail from Russian nowadays. But the idea
+[00:51:38.400 --> 00:51:42.800]   of those, I definitely am very interested in trying his product because he's trying it already.
+[00:51:42.800 --> 00:51:47.680]   They're in clinical trials on humans with some really incredible results. And so it's like, okay,
+[00:51:47.680 --> 00:51:52.000]   I know, I'll give it, I'll give that a try. Would I try Buck y'all? And it's not even available.
+[00:51:52.000 --> 00:51:57.360]   Would I try, you know, David avocado wolf swan or these other ones? You know, not unless I knew,
+[00:51:57.360 --> 00:52:05.920]   not unless I knew exactly what it was. But with the space lab product, which is the Russian product,
+[00:52:05.920 --> 00:52:10.640]   you know, I'm willing to give it a try. So I'm going to be doing a trial of my own trying that
+[00:52:10.640 --> 00:52:15.280]   product and see how it works for me. I want to see if it gives me the same benefits that I get.
+[00:52:15.280 --> 00:52:22.400]   We see 60 now, which I can measure clearly. It's it's it prevents me from getting any UV light
+[00:52:22.400 --> 00:52:28.640]   radiation. I don't get sunburned. I can I can eat things that are toxic to me that like other
+[00:52:28.640 --> 00:52:33.760]   people like I'm really highly sensitive to MSG. So I avoid MSG like the plague. However,
+[00:52:33.760 --> 00:52:38.480]   when I'm taking C 60, I can eat all I want. It doesn't even bother me. It's just crazy.
+[00:52:38.480 --> 00:52:42.640]   So that'll be another way to tell whether or not it's working for me. You know, that sort of thing.
+[00:52:42.640 --> 00:52:46.640]   So and then of course, just monitoring my general well-being and stuff like that while I'm taking
+[00:52:46.640 --> 00:52:50.960]   it. So I'm looking forward to trying it. I'm definitely want to try it because I'm a biohacker and
+[00:52:50.960 --> 00:52:56.720]   we live on the edge. We are the human trial. So, you know, I'm not encouraging you or discouraging
+[00:52:56.720 --> 00:53:03.120]   you from trying it. I just want to present to you what I learned. All the data I collected is
+[00:53:03.120 --> 00:53:10.560]   available for you to review. But this is the summary of water soluble C 60. To answer the question,
+[00:53:10.560 --> 00:53:19.040]   is it the next big thing in biohacking? My answer is is too early to tell. Okay. So with that said,
+[00:53:19.040 --> 00:53:23.600]   thank you very much for sticking it out with me on this video. Tons of information, tons of data.
+[00:53:23.600 --> 00:53:28.400]   And I just really just want to say, hey, thanks for, thanks for watching. Really appreciate it.
+[00:53:28.400 --> 00:53:33.760]   If you want to learn more about me and the work I do, you can reach me at Tinkers.academy.
+[00:53:33.760 --> 00:53:38.000]   Just type that in your URL window that goes to my blog. Of course, I got a YouTube channel.
+[00:53:38.000 --> 00:53:41.920]   And if you like this kind of content, like and subscribe, I'd appreciate it. So thank you very
+[00:53:41.920 --> 00:53:46.480]   much. Mahalo. Have a great day. And I hope this was educational for you. Aloha.
+

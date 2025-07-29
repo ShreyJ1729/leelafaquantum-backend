@@ -1,0 +1,97 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.480",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and this video is a Lele Q, otherwise known as Lele Quantum Tech and Quantum Upgrade product updates. I had a chance to talk with Phillip this week, the owner, operator of Lele Quantum Tech, where we talked about a bunch of different topics. And one of those topics was what are the new products and services that are recently launched that we haven't talked about in our on this channel, as well as what are some of the new things that are coming down the pipe over the next year."
+    },
+    {
+        "start": "00:00:28.480",
+        "end": "00:00:55.880",
+        "text": "And so Phillip was gracious enough to give me a few minutes just to kind of give me an update as to what is expected when. And I know you guys love this kind of things. I'm looking forward to it as well. So I just wanted to share with you that video clip on all of the new stuff that's in the works and when it's gonna be launched or when it's planned to be launched so that you can kind of get an idea, like what's coming up and all the good news for that. So here we go, I'm gonna go ahead and play the clip because this is such a popular topic"
+    },
+    {
+        "start": "00:00:55.880",
+        "end": "00:01:24.040",
+        "text": "in the chat groups is like, hey, what's coming up next? And what can we expect and when? So if you don't mind, can we just kind of, I know you got a hard stop in five minutes or maybe just like a quick little elevator speech but the list that we're seeing right now on the slide, these are the five things that you've posted about and just kind of wanted to get an update on them. And if you have time, maybe what else is not on the list. But so since we last talked about new products,"
+    },
+    {
+        "start": "00:01:24.040",
+        "end": "00:01:50.360",
+        "text": "you've launched a 360 Perception Boost on Traum EZ. We haven't covered that in any video. So for people that didn't know about that, could you kind of describe what that is for Traum EZ? It's part of the app now and it's called 360 Perception Boost. - Yes, this is a quite interesting one because it's literally the case when you wear glasses, sunglasses or contacts of any kind,"
+    },
+    {
+        "start": "00:01:50.360",
+        "end": "00:02:17.160",
+        "text": "that it's almost as if it's cutting off yourself from your soul. Now that doesn't really fully work, but it's a disconnection that happens. And you're then suddenly just very focused on what's in front of you and you're not really connected to the big picture anymore and you lose your 360 Perception."
+    },
+    {
+        "start": "00:02:17.160",
+        "end": "00:02:49.880",
+        "text": "- Of course, if someone like a crew or a Roman would put on glasses or sign glasses, it doesn't happen to them, right? Because that's a different level of consciousness and awareness that they have and connection, right? That they have so deeply established that that just doesn't happen. But to the random person, which I would say is like over 99.5% of the people probably, it happens to them, right?"
+    },
+    {
+        "start": "00:02:49.880",
+        "end": "00:03:16.640",
+        "text": "As if their field has really an impact. Now, this Perception Boost counters that and if you wear glasses or contacts, you're fully still in the 360 Perception, which is that's what you want, right? That's your innovation, that's everything, right? That's the connection, the conscious connection"
+    },
+    {
+        "start": "00:03:16.640",
+        "end": "00:03:45.720",
+        "text": "or at least subconscious connection to your soul and all of that. That is what it does. - Okay, cool. I know you've got a hard stop in three minutes, so let me just ask you each one of these and if you could just tell us when do you think they'll be released and we'll get into the descriptions. I can provide those in the chat group afterwards, but you mentioned the super grand block in January. Is that correct? That'll be released in January? - That's what you're trying. - You're trying, okay. - That's what we're trying."
+    },
+    {
+        "start": "00:03:45.720",
+        "end": "00:04:12.800",
+        "text": "- Okay, and if everything works out, then yes, it will be ready then. And then in the Quantum Masterclass, I'm assuming you mean the basically Quantum Wellness Practitioner course. - Okay, that's what it's called, okay. - I think more or less, I think we haven't fully named everybody. We're working on it and I honestly, I think we wanted to launch it this year and maybe we start in this year,"
+    },
+    {
+        "start": "00:04:12.800",
+        "end": "00:04:42.440",
+        "text": "but I would say at latest, it will be also in January. There's not so much more that needs to be done. It's just technical stuff now at this point. And then it's about the whole description website, blah, blah, blah. So, you know, it would be January, maybe a little bit before. Quantum diagnostics, okay, yeah, that's a TAFA one. That's for quantum upgrade. And I don't know, maybe a year."
+    },
+    {
+        "start": "00:04:42.440",
+        "end": "00:05:10.480",
+        "text": "We haven't made a lot of progress there just because we've been swamped with a lot of other things. But that vision is obviously a big vision and a very concrete vision and we're gonna work on it. But yeah, I think this will take probably at least a year. And quantum eye drops, it will be either Q1 or Q3 of next year. - Okay. - Just because we have to go through all of these different hoops"
+    },
+    {
+        "start": "00:05:10.480",
+        "end": "00:05:39.520",
+        "text": "and make it available through a nonprofit and we're having all these discussions right now and nothing else is really set up. - Okay. And then we're working on it. - Okay. - And then I wanna add our sleep product, which it's at this point just still an idea. - A sleep product, is that gonna be different than the contest that's running right now, the calm and sleep frequency?"
+    },
+    {
+        "start": "00:05:39.520",
+        "end": "00:06:05.480",
+        "text": "- I don't know if we will use that for that. We, that's actually a good point. We may be able to include that at this point. We already have the physical substances for that and we've tinkered around with our own frequencies to add to that. So we're at a pretty good point. But yeah, since the contest is going on,"
+    },
+    {
+        "start": "00:06:05.480",
+        "end": "00:06:34.120",
+        "text": "this may well be an additional layer to it. And it would be quite exciting actually to infuse it there as well. But we, we don't know, right? So the first frequencies were actually delivered several days ago and I think yeah, I'll take us some time to go through all of that. But that's an exciting, exciting process. - Yeah, I'm looking forward to that one. Okay. So then you mentioned the jacket. When, when's the new jacket gonna be out now,"
+    },
+    {
+        "start": "00:06:34.120",
+        "end": "00:07:01.360",
+        "text": "out for sale? - We try for this year so that for this winter, people will be able to have a real quantum down jacket, which looks awesome. It's, it's literally, it will look as good as a $900 jacket that does not help with EMF and that does not have any silver and that does not contain a heel 360 frequency"
+    },
+    {
+        "start": "00:07:02.080",
+        "end": "00:07:30.000",
+        "text": "with quantum energy, but it will have all of those things and it will look great and be warm. - All right, so it'll be available for this coming up holiday season? - That is what we're targeting at this point. - Awesome. - We're working heavily on that. - Yeah, awesome. That's good to hear. And the other one question is the contest results for the calm and sleep frequency. When do you think that you'll be able to tell everybody"
+    },
+    {
+        "start": "00:07:30.000",
+        "end": "00:07:59.880",
+        "text": "who won that and all that stuff? - In November. - In November. - And I'm guessing the second half of November. - Okay. And one last question that's coming up is that are you guys planning a black Friday sale? I've been asked that multiple times. (laughs) - Hmm, what should I say? - Yeah, I always say that you usually do, but don't count on it, you know, whatever, but what's the words? - I'm not allowed to say it, but you know, you-- - No spoilers."
+    },
+    {
+        "start": "00:07:59.880",
+        "end": "00:08:28.120",
+        "text": "- We usually we do something, right, don't we? - Yeah, usually we do. Okay, no spoilers, guys, just like Yellowstone. Okay, so thanks so much for your time. I really appreciate it, Phillip. I know you gotta run, but thanks so much for clarifying all this stuff. I'm gonna put this together and get it out to the group. And if everybody has more questions, just let me know 'cause I just keep a list. And then I catch Phillip every now and then. And we'll just go through these"
+    },
+    {
+        "start": "00:08:28.120",
+        "end": "00:08:38.480",
+        "text": "and just answer everybody's questions. - Thanks so much, Kay, you're amazing. And thank you everyone out there. And yeah, all the best to everyone."
+    }
+]

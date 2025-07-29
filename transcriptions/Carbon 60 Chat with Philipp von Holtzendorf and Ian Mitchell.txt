@@ -1,0 +1,844 @@
+
+[00:00:00.000 --> 00:00:05.580]   Aloha everyone and welcome to another Carbon 60 video. I am your host Kailmer and in this
+[00:00:05.580 --> 00:00:10.000]   video I've got a very special treat. I had a great conversation this morning with
+[00:00:10.000 --> 00:00:14.920]   Phillip von Holson-Dorf and I and Mitchell and we talked C60 for about an hour and
+[00:00:14.920 --> 00:00:18.600]   covered a lot of the things that are going on in the industry in the last year
+[00:00:18.600 --> 00:00:23.860]   with a specific attention to a recent study where someone had tried to replicate
+[00:00:23.860 --> 00:00:28.400]   that original rat study done by body in Musa and which they discovered that you
+[00:00:28.400 --> 00:00:31.920]   know there wasn't any longevity in mice and so we talked about that we talked a
+[00:00:31.920 --> 00:00:34.880]   lot about to the some of the controversy that's been in the industry for the last
+[00:00:34.880 --> 00:00:42.560]   year with regards to the products that are out on the commercial markets various
+[00:00:42.560 --> 00:00:46.400]   studies are showing that they don't map they don't match to what the labels are
+[00:00:46.400 --> 00:00:49.480]   saying in terms of the amount of C60 in the product so that you know that's an
+[00:00:49.480 --> 00:00:51.760]   interesting development both of these gentlemen have been in the industry to
+[00:00:51.760 --> 00:00:56.680]   C60 industry for quite some time and are very knowledgeable about C60 so you
+[00:00:56.680 --> 00:01:01.480]   know we talked about that we talked about solvent free C60 about purity of C60
+[00:01:01.480 --> 00:01:05.640]   and it was just a really great talk and these gentlemen are so gracious to have
+[00:01:05.640 --> 00:01:08.920]   spent that time with me and I just really appreciate it and I know that you'll
+[00:01:08.920 --> 00:01:12.920]   find this conversation interesting so without further ado I want to say thank
+[00:01:12.920 --> 00:01:17.120]   you for stopping by and and you know and visiting and listening to this
+[00:01:17.120 --> 00:01:21.200]   interview and I want to say thank you specifically to Ian and Phillip thank you
+[00:01:21.200 --> 00:01:24.560]   so much for your time this morning I really do appreciate it and I really
+[00:01:24.560 --> 00:01:28.080]   enjoyed our conversation now for any of you that want to have learn more about
+[00:01:28.080 --> 00:01:31.800]   C60 we have a telegram C60 chat group and I have a blog called the Tinkers
+[00:01:31.800 --> 00:01:35.760]   Academy all the links in that were discussed in our interview are in the
+[00:01:35.760 --> 00:01:38.840]   video description so if you want to come on over learn a little bit more got
+[00:01:38.840 --> 00:01:42.600]   questions about C60 you're more than welcome so again thank you everyone and
+[00:01:42.600 --> 00:01:48.080]   enjoy the interview. Aloha. Aloha everybody and welcome to another C60
+[00:01:48.080 --> 00:01:54.160]   chat I am so thrilled to have I and Mitchell and Phillip von Holtendorf with
+[00:01:54.160 --> 00:01:57.760]   me today to talk about C60 and some other stuff that I think you're gonna
+[00:01:57.760 --> 00:02:03.440]   love to hear about and without further ado these gentlemen both have tremendous
+[00:02:03.440 --> 00:02:07.640]   amount of things going on so it's really hard to intro them but I'll just like
+[00:02:07.640 --> 00:02:11.400]   let them intro themselves so how about you know Phillip you want to go first
+[00:02:11.400 --> 00:02:15.440]   just who you are for anyone who hasn't heard your name before and what do you
+[00:02:15.440 --> 00:02:20.120]   do? So sounds good well thank you Kay thanks for having us I'm looking forward
+[00:02:20.120 --> 00:02:25.400]   to the panel here it's going to be very interesting yeah so for the people that
+[00:02:25.400 --> 00:02:29.760]   don't know me you know I'm from Germany originally you live in the U.S. with my
+[00:02:29.760 --> 00:02:38.160]   family and you know I used to used to be in corporate Europe if you will and
+[00:02:38.160 --> 00:02:44.680]   corporate America then afterwards and already as early as the year 2000
+[00:02:44.680 --> 00:02:52.080]   actually that was really where certain events in my life started to make me
+[00:02:52.080 --> 00:02:58.400]   really think about life much more deeply that it really wasn't about just going
+[00:02:58.400 --> 00:03:03.480]   up in the morning getting up in the morning working your day and then going
+[00:03:03.480 --> 00:03:10.240]   to sleep and that's pretty much what you do for your life and I started to really
+[00:03:10.240 --> 00:03:16.800]   look into the energetic nature of our lives and the universe and everything
+[00:03:16.800 --> 00:03:22.520]   and started to become really interested in this inner journey if you will and
+[00:03:22.520 --> 00:03:27.800]   that's what I did in parallel if you will while I was still working in corporate
+[00:03:27.800 --> 00:03:35.080]   you know was in leadership positions of small and very large companies and at
+[00:03:35.080 --> 00:03:41.120]   some point I arrived at a point where I really couldn't do that anymore be in
+[00:03:41.120 --> 00:03:51.000]   big corporate and be aware be more aware so I started to be self-employed
+[00:03:51.000 --> 00:03:58.440]   running my own business and all my interest had been into finding things
+[00:03:58.440 --> 00:04:06.840]   and mechanisms new technologies that helps humanity to heal on certain levels
+[00:04:06.840 --> 00:04:13.520]   whether that's energetic work so I've myself participated in countless energy
+[00:04:13.520 --> 00:04:20.280]   and shamanic workshops and all of that my wife actually she she was born with
+[00:04:20.280 --> 00:04:25.560]   the ability to see our eye and she never really lost that divine connection if
+[00:04:25.560 --> 00:04:30.400]   you will this conscious connection and didn't forget who she was if you will
+[00:04:30.400 --> 00:04:37.880]   I went through the hole forgetting and yeah at some point really started to
+[00:04:37.880 --> 00:04:42.640]   only do what comes from deep within where I feel I'll give this is something
+[00:04:42.640 --> 00:04:48.720]   that brings me joy and that also helps other people and that's how I arrived
+[00:04:48.720 --> 00:04:55.680]   one hand at C60 and then on the other hand which is my other part of what I
+[00:04:55.680 --> 00:05:04.520]   do during the day is the lead a quantum tech and yeah so this is really what I'm
+[00:05:04.520 --> 00:05:10.400]   trying to move forward try to help people with that and certainly also be a
+[00:05:10.400 --> 00:05:17.040]   little bit of a voice to tell people about it awesome and that's great I'm
+[00:05:17.040 --> 00:05:21.000]   really is so so just to clarify to all that to the audience is like I just want
+[00:05:21.000 --> 00:05:26.280]   to you know from a C60 standpoint Phillips company this C60 labs you're
+[00:05:26.280 --> 00:05:30.680]   you're more of you're a wholesaler more than a retailer right because the on
+[00:05:30.680 --> 00:05:35.000]   your website you've got products but you sell primarily through resellers is
+[00:05:35.000 --> 00:05:39.480]   that correct that is absolutely correct yeah you would not be able to purchase
+[00:05:39.480 --> 00:05:43.920]   anything like the website right okay that website just because we work in
+[00:05:43.920 --> 00:05:51.360]   mainly in Europe with a lot of you know small sized sales partners I would
+[00:05:51.360 --> 00:05:55.440]   say because we don't work with you know large companies that that sell our
+[00:05:55.440 --> 00:06:02.840]   products and also in in Taiwan as well as a little bit here in the US as well
+[00:06:02.840 --> 00:06:09.360]   and yeah then we have another shop that's kind of our own shop where you know
+[00:06:09.360 --> 00:06:16.640]   Roman half know the healer from Europe and my wife and I we offer you know some
+[00:06:16.640 --> 00:06:20.320]   energetic webinars and things like that and there we do have some of the
+[00:06:20.320 --> 00:06:24.000]   products that you could actually purchase directly but we don't market it
+[00:06:24.000 --> 00:06:28.280]   it's just there and people can get it there but we don't actively promote the
+[00:06:28.280 --> 00:06:33.800]   products there okay and so and the cool part is and you also is that you you
+[00:06:33.800 --> 00:06:38.760]   sell and just as a as a plug you know the we have a 660 telegram chat group and
+[00:06:38.760 --> 00:06:43.440]   and Philip has always been so gracious as to offer the group that if you're a
+[00:06:43.440 --> 00:06:48.880]   member of it you know a discount on raw C60 so it's not just C60 retail
+[00:06:48.880 --> 00:06:55.040]   products but C60 powder itself group discount go through telegram and then
+[00:06:55.040 --> 00:06:58.320]   and then what's really cool and then so we can you know we can really expand
+[00:06:58.320 --> 00:07:04.400]   the discussion here is that the products that are under C60 or a
+[00:07:04.400 --> 00:07:10.400]   Layla C60 are not just oils for ingestion but also the topicals and also
+[00:07:10.400 --> 00:07:14.880]   you know some of the encapsulated C60 products so it's really well-rounded in
+[00:07:14.880 --> 00:07:20.040]   terms of the various C60 products out there both wholesale and retail so
+[00:07:20.040 --> 00:07:23.120]   that's really cool thanks for thanks for being on thanks for spending you know
+[00:07:23.120 --> 00:07:28.000]   having some time for us today so the other person on our panel our C60
+[00:07:28.000 --> 00:07:33.440]   panel is no other than iron Mitchell and I'm so happy and thrilled to be able to
+[00:07:33.440 --> 00:07:38.560]   finally have a chat with you here on the channel so iron for people who may not
+[00:07:38.560 --> 00:07:49.000]   know you how would you describe what you do professionally curious so I am yeah
+[00:07:49.000 --> 00:07:56.160]   I've been in the C60 space for oh going on nine years give or take actively
+[00:07:56.160 --> 00:08:00.180]   working with it and developing products and researching and producing different
+[00:08:00.180 --> 00:08:04.760]   patents I've you know I'm sure people have looked at the patent you know the
+[00:08:04.760 --> 00:08:10.720]   patents have done anti metastatic behavior using C60 and using C60 and
+[00:08:10.720 --> 00:08:18.480]   conjugating it to saccharides and using different preparations with all
+[00:08:18.480 --> 00:08:24.520]   sorts of other enzymatic compounds I've just really tried to look for issues
+[00:08:24.520 --> 00:08:28.720]   that people had and how I could solve them initially the the first was a
+[00:08:28.720 --> 00:08:34.840]   longevity issue for me which was how I arrived at working in C60 period and I
+[00:08:34.840 --> 00:08:42.040]   oh adopt the hats my father who pointed pointed me in the direction of C60 is a
+[00:08:42.040 --> 00:08:47.040]   research topic and since then I've done a lot of research people have seen that
+[00:08:47.040 --> 00:08:52.040]   you know my patent portfolio probably from a life that originally where I
+[00:08:52.040 --> 00:08:59.040]   worked on the life extension of dogs and cats and horses and a lot of the the
+[00:08:59.040 --> 00:09:04.680]   other things it's really expanded greatly again as I said it's about
+[00:09:04.680 --> 00:09:10.640]   curiosity for me but I'm just trying to see how I can apply technologies to make
+[00:09:10.640 --> 00:09:15.440]   life better for people it's actually that's why Phillip and I are kindred
+[00:09:15.440 --> 00:09:18.880]   spirits in a sense is because we're really working towards the same goal
+[00:09:18.880 --> 00:09:23.400]   which is bettering humanity and for me it's been mostly applied sciences that
+[00:09:23.400 --> 00:09:27.920]   it had been doing that I'm lucky enough to be hired to do consulting work and
+[00:09:27.920 --> 00:09:32.080]   pharmaceutical development and things like that and so I get to work on all
+[00:09:32.080 --> 00:09:37.160]   sorts of topics and and see all sorts of different technologies and and able to
+[00:09:37.160 --> 00:09:41.880]   you know pick and choose and cherry pick from one thing to another and and use it
+[00:09:41.880 --> 00:09:46.880]   kind of additively to look at you know different ways to benefit people so
+[00:09:46.880 --> 00:09:53.440]   specific to C60 I have multiple patents in the space you know cancer hair growth
+[00:09:53.440 --> 00:09:58.840]   life extension and a couple actually about four or five others that will be
+[00:09:58.840 --> 00:10:04.400]   coming in the next year I no longer am actively with any specific C60 company
+[00:10:04.400 --> 00:10:11.600]   so at this point I'm just purely an applied researcher I own a stake and the
+[00:10:11.600 --> 00:10:18.080]   company that I founded in 2014 wife that in C360 but I'm not actively working
+[00:10:18.080 --> 00:10:22.400]   with them I'm just running my own site Mitchell Sciences which is just coming
+[00:10:22.400 --> 00:10:28.840]   up as of October to take on all of the different things that I want to research
+[00:10:28.840 --> 00:10:35.160]   and in a nutshell that's it professionally curious yeah no I would say
+[00:10:35.160 --> 00:10:41.000]   you're also a just an avid biohacker you know anti-aging biohacker from all
+[00:10:41.000 --> 00:10:46.040]   the stuff that you do it's just amazing yeah I've been lucky in that a lot of
+[00:10:46.040 --> 00:10:50.280]   a lot of people in that space were really welcoming given some of the study I
+[00:10:50.280 --> 00:10:55.280]   know you've seen the p53 knockout study where we got a 93 percent extension of
+[00:10:55.280 --> 00:10:58.720]   lifespan which was really similar to Fati Musa's you know where he got a 90
+[00:10:58.720 --> 00:11:03.800]   percent extension which I think a 3 percent delta is something that's not
+[00:11:03.800 --> 00:11:08.840]   random that's very specific and yeah you know I actually do work with bullet
+[00:11:08.840 --> 00:11:14.320]   proof you know they've hired me to develop things and it is the biohacking
+[00:11:14.320 --> 00:11:17.360]   space is great because I do it on myself you know I'm constantly injecting
+[00:11:17.360 --> 00:11:22.040]   myself on a daily basis with various peptides I have a full-scale peptide
+[00:11:22.040 --> 00:11:26.220]   synthesis rig in the lab you know fully automated robotic peptide synthesis
+[00:11:26.220 --> 00:11:31.280]   rig so I get to play with all sorts of crazy biohacking stuff oh yeah cool I
+[00:11:31.280 --> 00:11:35.800]   just I just I mean I've been recently into peptides myself and then Philip and
+[00:11:35.800 --> 00:11:41.400]   I are doing a self experiment by the way yeah I got asked Philip how you doing on
+[00:11:41.400 --> 00:11:46.160]   this but we're taking full or not we just like he started before I did but
+[00:11:46.160 --> 00:11:52.440]   just trying out full or not as a as a new you know new health supplement to see
+[00:11:52.440 --> 00:11:55.840]   how that works and for those of you guys listening at home full or not as a
+[00:11:55.840 --> 00:11:59.800]   C60 derivative but yeah yeah so yeah I guess we're all like that and then I'll
+[00:11:59.800 --> 00:12:03.120]   just do a quick intro of myself and this is how I explain myself anybody who
+[00:12:03.120 --> 00:12:10.200]   doesn't know me I am the Homer Simpson in the new plant of life that's pretty
+[00:12:10.200 --> 00:12:14.840]   much I have a day job this is my hobby and and I don't know why because if you
+[00:12:14.840 --> 00:12:18.400]   would have told me three years ago that I could make 30 plus videos about a
+[00:12:18.400 --> 00:12:24.480]   molecule I would have just laughed at you but somehow I just got curious started
+[00:12:24.480 --> 00:12:28.080]   writing about it they're not writing but doing videos about it and research and
+[00:12:28.080 --> 00:12:32.320]   yeah and the only thing I've ever run into that's been problematic was when I
+[00:12:32.320 --> 00:12:39.520]   went against the shungai crowd claims running up against Iraq I suppose well
+[00:12:39.520 --> 00:12:43.960]   you know of all the videos I made right yeah yeah definite a rock but all the
+[00:12:43.960 --> 00:12:49.280]   videos I ever made that I got the most horrific trolling and and negative
+[00:12:49.280 --> 00:12:53.440]   comments but when I just when I basically explained to the world that the science
+[00:12:53.440 --> 00:12:59.720]   literature does not support any of the claims about shungai being related you
+[00:12:59.720 --> 00:13:03.640]   know having the benefits of C60 and and but you go to any shungai site you know
+[00:13:03.640 --> 00:13:07.280]   they will say it's all about C60 and you've actually gotten this is what's
+[00:13:07.280 --> 00:13:13.880]   horrible about you got people on eBay selling shungai powder as C60 and I just
+[00:13:13.880 --> 00:13:17.800]   you know and you know and half of it's silica and all that stuff but yeah the
+[00:13:17.800 --> 00:13:22.520]   shungai crowd I swear anyway but yeah well good thanks thanks a lot guys for
+[00:13:22.520 --> 00:13:26.520]   making a little bit of time you know I'm really glad we could just be here we
+[00:13:26.520 --> 00:13:29.000]   got a little bit of an agenda that you know I had it was on the screen in the
+[00:13:29.000 --> 00:13:33.160]   beginning and let's just jump right in there's been a lot of real interesting
+[00:13:33.160 --> 00:13:38.960]   developments in the last year regarding C60 and the industry and I just really
+[00:13:38.960 --> 00:13:42.640]   would love to get your guys's opinion about it so you don't mind let me jump
+[00:13:42.640 --> 00:13:48.920]   in with the first question which is and and and for those of you who follow my
+[00:13:48.920 --> 00:13:52.880]   channel I did two videos on quote what have we learned in the last three years
+[00:13:52.880 --> 00:13:58.000]   meaning since C60 really kind of took off in 2017 it's been three years now
+[00:13:58.000 --> 00:14:02.960]   and we went from I think what I think back then I and we had what and even
+[00:14:02.960 --> 00:14:08.160]   even Laila you started after the 2017 right after the body study got
+[00:14:08.160 --> 00:14:13.360]   publicized more into the general market but which is I think there were
+[00:14:13.360 --> 00:14:17.500]   always four or five yeah because I do this pricing guide I don't know if you
+[00:14:17.500 --> 00:14:23.160]   probably read it right the once a year I could do a market study and I remember
+[00:14:23.160 --> 00:14:27.640]   my first market study was November of that year because I I just went shopping
+[00:14:27.640 --> 00:14:31.440]   you know because after the cliff I went on Sarah Westall and announced you know
+[00:14:31.440 --> 00:14:36.720]   and talked about the study it went crazy and so I remember I went to Purple
+[00:14:36.720 --> 00:14:40.480]   Power and bought my first bottle and then I started just okay where else can you
+[00:14:40.480 --> 00:14:44.760]   buy it because it sold out overnight and I remember making a list and that's
+[00:14:44.760 --> 00:14:48.840]   what was the first publication and I think there was like maybe seven maybe
+[00:14:48.840 --> 00:14:53.720]   seven that was all the websites in the whole world that sold C60 oil so and it
+[00:14:53.720 --> 00:14:59.800]   interesting that that particular podcast with Cliff on Sarah's show yeah I you
+[00:14:59.800 --> 00:15:03.680]   want to talk about getting trolled pretty hard I hopped on the thread because I
+[00:15:03.680 --> 00:15:06.760]   was so pleased that people were actually doing research on it and somebody else
+[00:15:06.760 --> 00:15:10.800]   had given it a little a little light in the darkness I made some comments and I
+[00:15:10.800 --> 00:15:14.080]   referenced my knockout study because it had already been done a couple years
+[00:15:14.080 --> 00:15:20.600]   prior to that okay and it sweet Jesus boy I I elicited just the ire of some of
+[00:15:20.600 --> 00:15:25.880]   the people I remember one comment saying that's not possible because if it were
+[00:15:25.880 --> 00:15:29.280]   it would be a tremendous discovery and you would have published it everywhere
+[00:15:29.280 --> 00:15:35.320]   now I assure you it's totally possible and yeah it's really cool but you don't
+[00:15:35.320 --> 00:15:39.680]   always publish everything you do you know it's not unfortunately that's not
+[00:15:39.680 --> 00:15:42.960]   the world we live in and you guys know this I mean you can you can develop
+[00:15:42.960 --> 00:15:46.760]   things you know I have one tapping that I just finished with the University and
+[00:15:46.760 --> 00:15:51.920]   we're keeping it very much close to the chest because you don't necessarily
+[00:15:51.920 --> 00:15:56.000]   want everybody to see what you're doing because it just crushes you but boy that
+[00:15:56.000 --> 00:16:00.200]   was it was the same experience with your shungai crew it just kind of went left
+[00:16:00.200 --> 00:16:04.160]   yeah that's weird oh I've learned one thing though and I and I love Sarah West
+[00:16:04.160 --> 00:16:09.200]   all I just you know but I've learned do not comment on her videos well when you
+[00:16:09.200 --> 00:16:15.640]   know she has a vocal audience oh yeah I haven't I haven't checked out any
+[00:16:15.640 --> 00:16:18.640]   of her you know bit shoot or any of these other sites she's on now but I do
+[00:16:18.640 --> 00:16:23.800]   subscribe to her but yeah do not comment on her YouTube videos that was kind of
+[00:16:23.800 --> 00:16:28.080]   like man you jump in there and say anything yeah it gets wild or cliff high
+[00:16:28.080 --> 00:16:37.000]   videos cool hey okay so the question that I've got is some of the developments
+[00:16:37.000 --> 00:16:40.920]   in the last year I think the most I think the most ones that stand out is
+[00:16:40.920 --> 00:16:46.960]   let's chat about this October it got published in October it was a a study
+[00:16:46.960 --> 00:16:51.960]   that tried to replicate or claims to replicate the body study with mice though
+[00:16:51.960 --> 00:16:56.800]   instead of rats and it came out with findings and in one of the findings was
+[00:16:56.800 --> 00:16:59.760]   interesting which is they compared four different products and none of the
+[00:16:59.760 --> 00:17:03.720]   products matched the label we'll talk I'd like to talk more about that one but
+[00:17:03.720 --> 00:17:07.560]   then but the other finding obviously was they didn't detect any longevity so you
+[00:17:07.560 --> 00:17:10.280]   know I was just wondering both of you guys I mean what do you think about that
+[00:17:10.280 --> 00:17:14.840]   study as it relates to the fact that you know body and and Musa already kind of
+[00:17:14.840 --> 00:17:19.040]   you know kind of shown the world it's possible and then especially you I and
+[00:17:19.040 --> 00:17:23.000]   you know you did a you did your own rat study as you just mentioned and then
+[00:17:23.000 --> 00:17:27.160]   now we've got this mouse study so where do we go from here or what are your
+[00:17:27.160 --> 00:17:31.320]   thoughts on that either one you I'll give the very quick answer here because you
+[00:17:31.320 --> 00:17:36.200]   know I'm actually not familiar in too much detail with that and I would
+[00:17:36.200 --> 00:17:42.240]   really refer to iron on that I mean I can just say that and I'm happy to go into
+[00:17:42.240 --> 00:17:48.400]   that a little bit more like what we've seen over the last several years amongst
+[00:17:48.400 --> 00:17:55.960]   our customer base sales partners friends family and ourselves is just
+[00:17:55.960 --> 00:18:03.720]   absolutely amazing and yeah so I think there have been a lot of good studies and
+[00:18:03.720 --> 00:18:07.800]   I'm really interested in iron in the hearing what he has to say about that
+[00:18:07.800 --> 00:18:11.400]   specific study and then maybe mentioning his own that he's done I think it was
+[00:18:11.400 --> 00:18:16.440]   with mice though right I'm trying to find out it was P53 knockout mice yeah so
+[00:18:16.440 --> 00:18:21.760]   interestingly I of course received that study as soon as it came out from a
+[00:18:21.760 --> 00:18:26.440]   ton of people you know people I knew and work with and people I don't know just
+[00:18:26.440 --> 00:18:33.200]   got my email address and sent it to me and the most curious portion to me is that
+[00:18:33.200 --> 00:18:38.840]   their findings seem contradictory and you know I know Fafy Musa had
+[00:18:38.840 --> 00:18:44.600]   findings that showed a 90% extension lifespan with the P53 knockout mice
+[00:18:44.600 --> 00:18:50.760]   that I did the entire cohort on average had a 93% extension so 93 and 90% are
+[00:18:50.760 --> 00:18:55.280]   pretty small it's a it's a tight variation and I wouldn't think that a
+[00:18:55.280 --> 00:19:00.520]   3% delta is something that just occurs by coincidence and I can also say with
+[00:19:00.520 --> 00:19:05.440]   definitive certainty that when you look at cells in culture you can find a
+[00:19:05.440 --> 00:19:11.280]   tremendously varied output in ATP levels and I do these at the University
+[00:19:11.280 --> 00:19:17.160]   every week and we'll look at ATP levels and things and when you put C60 into a
+[00:19:17.160 --> 00:19:23.040]   cell culture the ATP production goes through the roof and what what the
+[00:19:23.040 --> 00:19:27.400]   cascading effect of that is is normally the body has senescent cells which are
+[00:19:27.400 --> 00:19:31.040]   damaged cells some people call them zombie cells and they run around and they
+[00:19:31.040 --> 00:19:34.840]   generally don't die they just kind of keep moving which is why they turn them
+[00:19:34.840 --> 00:19:39.440]   zombie cells but the detrimental cascading effect of that is that 8% of
+[00:19:39.440 --> 00:19:43.160]   the cells if they're affected can cascade and affect about 40% of the
+[00:19:43.160 --> 00:19:48.040]   cells so you really want to get rid of senescent cells and C60 has the effect
+[00:19:48.040 --> 00:19:53.600]   by virtue of up regulating ATP production in the mitochondria your body triggers
+[00:19:53.600 --> 00:19:57.280]   mitophagy which is the process whereby it stimulates lysosomes to go in and
+[00:19:57.280 --> 00:20:02.160]   break apart the damaged mitochondria so that energy production as a whole goes
+[00:20:02.160 --> 00:20:06.560]   up and it also cleaves out and triggers autophagy on a lot of the cells that
+[00:20:06.560 --> 00:20:11.440]   are just in the standard senescent so you end up with an organism that's far
+[00:20:11.440 --> 00:20:16.800]   healthier in aggregate and the rationale behind saying well we've rebuilt all
+[00:20:16.800 --> 00:20:21.880]   the small components and the larger components are performing more poorly
+[00:20:21.880 --> 00:20:26.720]   logically doesn't make sense and based on what I've seen just in terms of ATP
+[00:20:26.720 --> 00:20:32.800]   production every week that you know I run these tests and do the analysis it
+[00:20:32.800 --> 00:20:39.040]   doesn't make any sense now you can very easily screw up an experiment with C60
+[00:20:39.040 --> 00:20:45.800]   just by exposure to light and the idea that you could get you know photonic
+[00:20:45.800 --> 00:20:51.280]   degradation and cause degradated oxygen byproducts and things like that that's
+[00:20:51.280 --> 00:20:56.400]   perfectly plausible I don't know that the guys at i-core consistently work with
+[00:20:56.400 --> 00:21:00.840]   C60 enough to know that you know I would think they did the cursory check on the
+[00:21:00.840 --> 00:21:06.080]   literature but I wouldn't think that they play with it enough to know all of
+[00:21:06.080 --> 00:21:09.560]   the different techniques that you really need to pay attention to so that you
+[00:21:09.560 --> 00:21:13.480]   don't end up with some sort of photodegradation and degradation byproducts
+[00:21:13.480 --> 00:21:17.680]   because I think even in that study they they reference the fact that the
+[00:21:17.680 --> 00:21:21.680]   degradation byproducts caused an issue and didn't increase longevity and caused
+[00:21:21.680 --> 00:21:26.680]   some toxicity and there was proliferation of tumor growth and I have seen multiple
+[00:21:26.680 --> 00:21:31.400]   times both in vitro and in vivo where we'll look at actual animals that have
+[00:21:31.400 --> 00:21:37.960]   tumors and the tumors go away that's not something that's you know fairy tale
+[00:21:37.960 --> 00:21:42.160]   science I've seen it so many times and it's repeatable both in the lab and in a
+[00:21:42.160 --> 00:21:48.560]   clinical setting with animals I just have a difficult time with with thinking
+[00:21:48.560 --> 00:21:55.960]   that there is no aggregate extension in the lifespan yeah let's say I read
+[00:21:55.960 --> 00:22:00.560]   this and I tried to really try to gap it to the body study in terms of
+[00:22:00.560 --> 00:22:05.240]   preparation the type of oil you know all the materials and methods it seemed
+[00:22:05.240 --> 00:22:10.840]   like they'd followed the same process but just with mice instead of we'll
+[00:22:10.840 --> 00:22:16.040]   star rats but yeah you're right David on the surface you can just do something
+[00:22:16.040 --> 00:22:20.720]   very simple like exposed it to you know standard lighting or keep it in a
+[00:22:20.720 --> 00:22:25.280]   reactive environment in terms of just exposure to air you can oxidize things
+[00:22:25.280 --> 00:22:28.880]   if you leave it exposed to the air too long if you you know purge it with
+[00:22:28.880 --> 00:22:33.800]   nitrogen and keep it in their atmosphere and you don't allow light it you know
+[00:22:33.800 --> 00:22:37.520]   roughly 420 nanometers which is just kind of standard light or the blue part
+[00:22:37.520 --> 00:22:41.920]   of the spectrum to hit it you're far better off but if you don't account for
+[00:22:41.920 --> 00:22:45.920]   that you know you do end up with light dependent toxicity right so there's
+[00:22:45.920 --> 00:22:50.080]   factors that even though you follow the methodology and the protocols there's
+[00:22:50.080 --> 00:22:55.200]   factors beyond that that will affect the outcome of a study like I remember you
+[00:22:55.200 --> 00:22:58.560]   were telling me when you were doing or I'm sorry not telling me put on and on
+[00:22:58.560 --> 00:23:02.480]   multiple interviews by the way I'm probably the only person other than your
+[00:23:02.480 --> 00:23:11.840]   wife that has an iron Mitchell playlist on YouTube actually I'm such a nerd I'm
+[00:23:11.840 --> 00:23:15.640]   such a nerd you know by the way if anyone wants to see it I it's public go to my
+[00:23:15.640 --> 00:23:19.280]   YouTube channel but but one of your you were talking about your pf3 and you
+[00:23:19.280 --> 00:23:23.320]   discover that they changed the food to the mice or the rats right and they're
+[00:23:23.320 --> 00:23:28.360]   got a mess of your results it's just the food that they were feeding them was
+[00:23:28.360 --> 00:23:32.760]   changed by some lab tech guy that wasn't paying attention yeah and it caused a
+[00:23:32.760 --> 00:23:36.400]   hyperbolic spike in that in the tumor we had you know we had done an
+[00:23:36.400 --> 00:23:40.080]   inoculation with a tumor to look at the growth and you basically you let the
+[00:23:40.080 --> 00:23:43.960]   tumor extend to a certain burden and then you introduce your your therapeutic
+[00:23:43.960 --> 00:23:48.640]   agent and this was a lab actually that was in the pf3 study this was you know
+[00:23:48.640 --> 00:23:54.580]   with normal mice that were using we used immunofluorescence in in the
+[00:23:54.580 --> 00:23:58.360]   different cancer so we could count it literally down to a cellular level and
+[00:23:58.360 --> 00:24:02.200]   see how many cells we had left and we were doing the experiment and it was
+[00:24:02.200 --> 00:24:06.640]   going great I was thinking woohoo you know I've done it I've crushed cancer and
+[00:24:06.640 --> 00:24:11.080]   and it was going down in precipitous drop you know 30 35 percent week on week
+[00:24:11.080 --> 00:24:16.240]   and then it stopped and went hyperbolic and we had to sacrifice the animal
+[00:24:16.240 --> 00:24:21.080]   very shortly like three and a half days later and it was literally just a
+[00:24:21.080 --> 00:24:24.680]   change from the ketogenic diet that I had the animal on which was a Harlan
+[00:24:24.680 --> 00:24:31.040]   product back to a standard you know mouse child and dead you know three
+[00:24:31.040 --> 00:24:34.600]   and a half days had to sacrifice it three it was it was true it was it was
+[00:24:34.600 --> 00:24:38.960]   the one time where I thought you know there but for the grace of McDonald's
+[00:24:38.960 --> 00:24:45.560]   go I yeah really you say if you're a mouse and you're listening to this
+[00:24:45.560 --> 00:24:51.680]   video hey you know stay away from the standard mouse child diet it's the SMD
+[00:24:51.680 --> 00:24:56.720]   version of the American SM diet yeah it's exactly right yeah and for all the
+[00:24:56.720 --> 00:25:00.280]   mice listening yeah they're cowering in their they're cowering in their cages do
+[00:25:00.280 --> 00:25:06.240]   not let the lab tech feed you McDonald's of mouse child that's amazing that's
+[00:25:06.240 --> 00:25:09.000]   amazing so yeah so you know that's kind of what I was saying because what I was
+[00:25:09.000 --> 00:25:13.680]   saying in my video about this was like hey you know one study does not does not
+[00:25:13.680 --> 00:25:18.920]   you know it's not conclusive we need more so along the more are you planning
+[00:25:18.920 --> 00:25:23.320]   anything that like you know you already did the 50 you know your P53 not but
+[00:25:23.320 --> 00:25:27.640]   are you planning to do any other type of C60 longevity studies because I know
+[00:25:27.640 --> 00:25:32.160]   that actually yeah yeah yeah yeah yeah yeah one of the things you know people
+[00:25:32.160 --> 00:25:36.200]   have been asking me lately and I get this a lot you know what realistically do
+[00:25:36.200 --> 00:25:41.080]   you think is is a cap on the lifespan and at this point knowing what I know
+[00:25:41.080 --> 00:25:46.880]   now in terms of how to modulate you know antioxidant responses in mitochondrial
+[00:25:46.880 --> 00:25:51.960]   function with C60 and coupling that with enhancement with peptides and you
+[00:25:51.960 --> 00:25:57.440]   know modulation of endocrine secretions I think we're in the range where easily
+[00:25:57.440 --> 00:26:03.040]   you know 300 400 percent extension and lifespan is doable so yes I am actively
+[00:26:03.040 --> 00:26:08.160]   working on doing something to that end because the idea of just getting a 90%
+[00:26:08.160 --> 00:26:13.120]   lifespan extension is not all that flashy to me anymore I know that can be
+[00:26:13.120 --> 00:26:18.200]   done yeah I think we can actually push the bounds greatly oh that's cool that's
+[00:26:18.200 --> 00:26:21.440]   really cool I would actually confirm that here from a different perspective
+[00:26:21.440 --> 00:26:27.440]   because you know we know energetically that this is actually something where it
+[00:26:27.440 --> 00:26:33.440]   would normalize right so 300 400 percent increase doesn't sound strange at all
+[00:26:33.440 --> 00:26:39.680]   to me rather it is strange to see that you know we die off when we're like 75
+[00:26:39.680 --> 00:26:47.440]   years old there's a lot that is being done that there is unhealthy people
+[00:26:47.440 --> 00:26:52.240]   right and just from an energetic perspective we're also moving into a
+[00:26:52.240 --> 00:26:57.160]   time where some of those old games if you will are dying off and it's
+[00:26:57.160 --> 00:27:02.720]   coincidentally now happening that people like iron and a lot of other people
+[00:27:02.720 --> 00:27:09.280]   are on the globe are finding new interesting technologies and techniques
+[00:27:09.280 --> 00:27:16.000]   and substances and molecules for that matter that can have a great impact on
+[00:27:16.000 --> 00:27:21.320]   that so I'm extremely positive on that as well you know also really related to
+[00:27:21.320 --> 00:27:25.720]   the stuff that that we're really doing yeah I think it's a really good point I
+[00:27:25.720 --> 00:27:30.880]   think that you know some really I'm really as equally as well in the biohacking
+[00:27:30.880 --> 00:27:37.920]   anti-aging and it's amazing that you know it's it's a two-fold or multi-prong
+[00:27:37.920 --> 00:27:43.120]   effort and the first effort is you've got to stop poisoning yourself and
+[00:27:43.120 --> 00:27:48.000]   allowing yourself to be poisoned and irradiated so everything from EMF
+[00:27:48.000 --> 00:27:54.600]   protection to you know eliminating heavy metals from your your diet and all
+[00:27:54.600 --> 00:27:57.680]   these other things you know like everything from you know eliminating
+[00:27:57.680 --> 00:28:00.320]   all the chemicals in your house eliminating all the toxins that you're
+[00:28:00.320 --> 00:28:04.880]   exposed to the the poison air the poison water the poison food all that stuff
+[00:28:04.880 --> 00:28:09.040]   you know that to me that's just that's where you start before you start getting
+[00:28:09.040 --> 00:28:14.600]   into you know grinding on C60 and resveratol and N&M and following David
+[00:28:14.600 --> 00:28:18.240]   you know Sinclair around and and doing what he's doing and so I really think
+[00:28:18.240 --> 00:28:22.000]   that's true you've got to you've got to really stop you know you have to take
+[00:28:22.000 --> 00:28:26.320]   care your your meat sack on one hand before you try to you know make it you
+[00:28:26.320 --> 00:28:30.360]   know you can't you can't get it to live longer if you don't stop poisoning it
+[00:28:30.360 --> 00:28:37.280]   so yeah I got definitely good point okay so so guys so so we talked about this
+[00:28:37.280 --> 00:28:44.320]   study here and I think that so the next thing is is we're gonna you know I
+[00:28:44.320 --> 00:28:47.720]   guess like what you were saying I know is was continued to study the concepts of
+[00:28:47.720 --> 00:28:52.120]   lifespan and see if you can prolong it further and then but I just was wondering
+[00:28:52.120 --> 00:28:57.760]   if you if you had heard about I think you know SES had announced that they are
+[00:28:57.760 --> 00:29:02.160]   doing a long just longevity study I think they're doing one on humans if I
+[00:29:02.160 --> 00:29:05.520]   recall and so I mean I don't know if you've heard of that study but they just
+[00:29:05.520 --> 00:29:10.880]   started it last spring so I hadn't but it's yeah that's actually fantastic I
+[00:29:10.880 --> 00:29:14.680]   I think I will probably be one of the only people that's around to see the
+[00:29:14.680 --> 00:29:21.960]   results of the study yeah the three of us can talk about it a hundred years
+[00:29:21.960 --> 00:29:25.560]   from now yeah yeah so yeah because they announced that it was they're
+[00:29:25.560 --> 00:29:28.040]   announced they're doing a long just study I think they're trying to replicate
+[00:29:28.040 --> 00:29:32.240]   the body study first but also no okay all right sorry I'm sorry just there's
+[00:29:32.240 --> 00:29:35.080]   so many things are in my head about this but yeah they're doing they're
+[00:29:35.080 --> 00:29:40.440]   replicating the body study and then Ken from purple power announced that they're
+[00:29:40.440 --> 00:29:44.640]   doing a lot a human study so they're actually doing a human study he'd
+[00:29:44.640 --> 00:29:47.800]   announced that they're doing a human study Chris announces of doing another
+[00:29:47.800 --> 00:29:50.840]   rat study so it's real interesting we've got people in the industry that are
+[00:29:50.840 --> 00:29:54.720]   stepping up and adding to the research and not just you know making claims and
+[00:29:54.720 --> 00:29:59.360]   making products so it's awesome to see so many people come together and and
+[00:29:59.360 --> 00:30:03.920]   again you know just this one for anyone who read this and is worried and you
+[00:30:03.920 --> 00:30:07.240]   know that you're gonna give up on c60 just remember you know one study is not
+[00:30:07.240 --> 00:30:11.560]   conclusive and it's a body of evidence and right now what we have is we've got
+[00:30:11.560 --> 00:30:14.920]   a couple of studies that say yes and we've got one state said no and there's a
+[00:30:14.920 --> 00:30:19.160]   million factors that could be that could change that so real good stuff but so
+[00:30:19.160 --> 00:30:22.880]   now we're at the group though we're all very passionate about what we're doing
+[00:30:22.880 --> 00:30:27.080]   because someone asked me literally about a week and a half ago you know why
+[00:30:27.080 --> 00:30:31.200]   isn't a study being done on the EMF and the blocking effects of EMS
+[00:30:31.200 --> 00:30:36.780]   physiologic or EMFs physiologically from using c60 and my response was it's not
+[00:30:36.780 --> 00:30:40.040]   financially viable you know studies are generally done by people with an
+[00:30:40.040 --> 00:30:44.760]   agenda and the c60 crowd not totally different but I think a lot of us are
+[00:30:44.760 --> 00:30:48.800]   really so genuinely intrigued that we want to know so we're we're all
+[00:30:48.800 --> 00:30:53.000]   independently funding all of these studies ourselves just to get the data
+[00:30:53.000 --> 00:30:59.800]   yeah and I and this is this is maybe not for the interview but after this or
+[00:30:59.800 --> 00:31:03.960]   tomorrow we should connect in regards to the EMF stuff because yeah I have
+[00:31:03.960 --> 00:31:08.480]   definitely have a thought that I want to share so yeah I'm yeah I would be
+[00:31:08.480 --> 00:31:12.760]   happy to I'm very very happy to you got it you got it you got to check this
+[00:31:12.760 --> 00:31:17.720]   stuff out I did a video with Phillip about the test results of his EMF
+[00:31:17.720 --> 00:31:22.840]   clothing blind and he's got all I mean the basically there's a lot of real
+[00:31:22.840 --> 00:31:26.360]   interesting results that came out of it so anyway yeah that's a whole nother
+[00:31:26.360 --> 00:31:33.120]   topic but the test results are amazing that came from wearing charged EMF
+[00:31:33.120 --> 00:31:36.360]   clothing in terms yeah without a doubt you know Phillip and I have talked about
+[00:31:36.360 --> 00:31:41.240]   this and the concept I just finished you know things cross paths a lot and I'm
+[00:31:41.240 --> 00:31:46.040]   sure it's no coincidence but I just finished a product developing or a
+[00:31:46.040 --> 00:31:50.240]   project developing a product for a group in Austin called biocharged and it's
+[00:31:50.240 --> 00:31:57.800]   biocharged.co and the yeah there you go it's kind of intriguing because it's
+[00:31:57.800 --> 00:32:02.440]   15% it's basically working on the other side what's that I just want to point
+[00:32:02.440 --> 00:32:08.040]   out you get 15% off use this code yeah there you go yeah it's it's
+[00:32:08.040 --> 00:32:11.480]   interesting because it's looking at the pro oxidative side of things you know
+[00:32:11.480 --> 00:32:15.320]   and kind of in the quest to have more energy you don't necessarily just want
+[00:32:15.320 --> 00:32:18.720]   to do antioxidant behaviors you also have to address the other side of the
+[00:32:18.720 --> 00:32:23.880]   sine wave and look at what you can do with pro oxidative therapies and this is
+[00:32:23.880 --> 00:32:28.320]   you know most people don't really buy into the idea of quantum charge but it's
+[00:32:28.320 --> 00:32:33.440]   absolutely the basis of everything you're doing and I actually developed a
+[00:32:33.440 --> 00:32:39.400]   system to quantumly charge the ozonides that are in the ozonated oil
+[00:32:39.400 --> 00:32:43.440]   there you end up with degradation products where your your redox potential
+[00:32:43.440 --> 00:32:48.720]   zeroed out but you have you know a base of ozonides left in the material that are
+[00:32:48.720 --> 00:32:54.720]   very reactive and if you charge them you can get an effect that's you know
+[00:32:54.720 --> 00:32:59.000]   two three x which you would normally get and it has to do with you know quantum
+[00:32:59.000 --> 00:33:03.800]   spin of that you know electrons you're basically capturing angular momentum
+[00:33:03.800 --> 00:33:08.240]   spin states and in training them and you can get kind of the volume turned up on
+[00:33:08.240 --> 00:33:12.160]   a specific compound and what Philip's been doing with you know impregnating
+[00:33:12.160 --> 00:33:18.720]   fabrics using frequencies it makes perfect sense I use lasers and and I
+[00:33:18.720 --> 00:33:23.960]   quote beam splitters to basically create a holographic gel out of the ozonated
+[00:33:23.960 --> 00:33:28.360]   oil products to lock in specific spin states you know blast from a holographic
+[00:33:28.360 --> 00:33:32.280]   plate is actually it's an amorphous solid so it's more like a liquid just in
+[00:33:32.280 --> 00:33:36.400]   a different time scale and so from the standpoint of you know femtosecond pulse
+[00:33:36.400 --> 00:33:44.000]   lasers a gel is far closer to you know a holographic plate than most things but
+[00:33:44.000 --> 00:33:50.440]   the quantum the quantum impregnation of different materials absolutely 100% I
+[00:33:50.440 --> 00:33:53.560]   can show with lab data that it definitively makes a difference and
+[00:33:53.560 --> 00:33:58.320]   phillips you know impregnation of various fabrics and things like that I
+[00:33:58.320 --> 00:34:04.840]   literally use that I haven't bought any of the clothing yet but I actually keep
+[00:34:04.840 --> 00:34:13.360]   in my desk and my lab things that have been quantumly treated because it's it's
+[00:34:13.360 --> 00:34:16.920]   great science it's just not common science yet yeah 50 years from now
+[00:34:16.920 --> 00:34:21.040]   everybody will understand it oh yeah you know boy do I have a whole lot of
+[00:34:21.040 --> 00:34:26.320]   questions about this stuff I don't know if you I don't know if you get I don't
+[00:34:26.320 --> 00:34:31.000]   know but I am like I for the last 20 something years my I don't know yeah I
+[00:34:31.000 --> 00:34:35.160]   don't know how to explain it but my OCD passion has been bio electrical
+[00:34:35.160 --> 00:34:40.160]   magnetics and and everything to do about all of the research and and the all the
+[00:34:40.160 --> 00:34:43.720]   dead scientists and all of that you know I mean everything from the you know
+[00:34:43.720 --> 00:34:48.200]   lakovsky multi-wave oscillator roll right I mean all that stuff and then all
+[00:34:48.200 --> 00:34:51.880]   you know along comes Philip last year and he goes hey Kevin you got to check
+[00:34:51.880 --> 00:34:57.040]   this thing out and then it's like you know I I was just in a lakovsky machine
+[00:34:57.040 --> 00:35:02.120]   oh cool okay I just yeah yeah I think I got one at home too I shrink that crank
+[00:35:02.120 --> 00:35:06.320]   that up and by the way I actually I actually ran into a practitioner a CTM
+[00:35:06.320 --> 00:35:10.760]   practitioner that uses it in her practitioner practice along with using
+[00:35:10.760 --> 00:35:15.040]   the violet ray and she went into deep detail about how she's discovered it
+[00:35:15.040 --> 00:35:20.360]   works you know in the concept of Chinese traditional medicine and yeah that was
+[00:35:20.360 --> 00:35:23.560]   a great interview it's on the channel as well but okay so I'll check that out my
+[00:35:23.560 --> 00:35:30.680]   my buddy Paul Daphtok actually built one and it's a fantastic unit it is and so
+[00:35:30.680 --> 00:35:34.160]   I've been just fascinated by this stuff and then and so I've been tinkering
+[00:35:34.160 --> 00:35:37.360]   around for years you know like everything from making my own organized
+[00:35:37.360 --> 00:35:41.440]   and you know tensor coils and purple plates and all this stuff right and
+[00:35:41.440 --> 00:35:46.400]   nothing really moved the dial until Philip said hey you had to try this you
+[00:35:46.400 --> 00:35:50.640]   had to check this thing out and it was like whoa and so you know and and it
+[00:35:50.640 --> 00:35:54.680]   actually has results that you can actually measure which is row I'm row
+[00:35:54.680 --> 00:35:57.840]   left brain when it comes to you know being able to measure stuff and so that's
+[00:35:57.840 --> 00:36:01.620]   what's so cool after I had that interview with Philip about his test
+[00:36:01.620 --> 00:36:05.800]   results I ran out and bought a deca vol I just got to teach myself how to use
+[00:36:05.800 --> 00:36:09.280]   it but you know I'm I really want to start you know playing around with it
+[00:36:09.280 --> 00:36:13.120]   just from a measurement standpoint and that's from a science standpoint so yeah
+[00:36:13.120 --> 00:36:17.680]   okay before we get into that I do want to talk about the other really big
+[00:36:17.680 --> 00:36:22.520]   development that popped up in the C60 industry last year and that was and
+[00:36:22.520 --> 00:36:26.400]   it's a little bit tied to this when you talk about like this study which was
+[00:36:26.400 --> 00:36:30.440]   that mouse study it had this little snippet in there where they bought four
+[00:36:30.440 --> 00:36:34.080]   different products commercial products and they discovered that you know the
+[00:36:34.080 --> 00:36:41.160]   saturation was different and then and then Chris from SES did a study where
+[00:36:41.160 --> 00:36:46.040]   they looked at I think 22 products and discovered that even though the benchmark
+[00:36:46.040 --> 00:36:50.640]   label you know label the benchmark the body you know body study benchmark
+[00:36:50.640 --> 00:36:54.200]   saturation which some people will claim is you know written by God which is not
+[00:36:54.200 --> 00:36:58.520]   you know is 0.8 milligrams right I mean you got some people that argue with me
+[00:36:58.520 --> 00:37:02.680]   on Facebook that it's the number it's not possible and I'm like yeah it is
+[00:37:02.680 --> 00:37:08.720]   possible go you know but anyway and so what's interesting right is that you
+[00:37:08.720 --> 00:37:13.040]   have that old old old like years ago longevity study where remember we all
+[00:37:13.040 --> 00:37:17.960]   every but not we would yeah they all kicked in and they sent in different
+[00:37:17.960 --> 00:37:21.560]   you know samples and out of five samples man the whole you know the
+[00:37:21.560 --> 00:37:25.920]   variance was huge right and then you've got right then you've got you know SES
+[00:37:25.920 --> 00:37:29.800]   did a study last spring where they did 22 found the same results then you got
+[00:37:29.800 --> 00:37:34.200]   this study did four found the same results so you know I know you know like
+[00:37:34.200 --> 00:37:39.280]   both of you are C60 oil producers you're not temp temporarily not right now
+[00:37:39.280 --> 00:37:44.560]   but you know your predictors of 60 C oil products I mean what do well how do
+[00:37:44.560 --> 00:37:49.240]   you respond to that because it's like my first reaction was to everybody was
+[00:37:49.240 --> 00:37:53.960]   like hey guys you can't trust the labels unless you know it's a credible
+[00:37:53.960 --> 00:37:59.440]   company that has you know that has the means and are testing their output
+[00:37:59.440 --> 00:38:03.280]   product and before they mail it out and put a label on it it is what they say
+[00:38:03.280 --> 00:38:07.240]   it is and there's very few of those guys doing that you know but so what do you
+[00:38:07.240 --> 00:38:09.600]   do and I've been telling everybody well just got to make it yourself so that
+[00:38:09.600 --> 00:38:12.520]   when you're done and you look at the bottom of the beaker in your filter
+[00:38:12.520 --> 00:38:16.920]   paper you know where the C60 went other than that you know what do you guys how
+[00:38:16.920 --> 00:38:20.360]   do you record how do you I mean what do you guys say about that because you know
+[00:38:20.360 --> 00:38:24.400]   it's pretty bad for the industry when the consumer has no idea what they're
+[00:38:24.400 --> 00:38:28.240]   getting are you know is all their money going to see 60 or is it just going to
+[00:38:28.240 --> 00:38:32.040]   oil because and then then of course if it's just going to oil which is what
+[00:38:32.040 --> 00:38:35.680]   these studies show no wonder people are all like yeah this doesn't do anything
+[00:38:35.680 --> 00:38:39.600]   and they're all you know they're all like negative about this the benefits of
+[00:38:39.600 --> 00:38:43.440]   C60 because they're buying a product that has nothing in it anyway go ahead
+[00:38:43.440 --> 00:38:47.800]   what do you guys think well so from my perspective I mean first of all you
+[00:38:47.800 --> 00:38:54.200]   know all product was not purchased here I know that for a fact maybe if we
+[00:38:54.200 --> 00:39:00.400]   had direct sale on our website it would have been but and we get we get our
+[00:39:00.400 --> 00:39:06.400]   products regularly tested on that so we won't be under the threshold that we
+[00:39:06.400 --> 00:39:14.520]   say it is if we sell an 0.8 product then it's going to be 0.8 and then if it's
+[00:39:14.520 --> 00:39:19.960]   1.0 or 1.2 then it's also that I can say that you know I've been actually
+[00:39:19.960 --> 00:39:24.560]   wondering myself in the past and I think I will also say something about that
+[00:39:24.560 --> 00:39:32.840]   when people sell MCT or or coconut oil or MCT coconut oil for example and say
+[00:39:32.840 --> 00:39:42.280]   there's 0.8 in it you know then they don't know they are not able to show
+[00:39:42.280 --> 00:39:49.160]   you or to tell you how they're actually getting that much C60 into that oil and
+[00:39:49.160 --> 00:39:53.880]   we don't know that either frankly we only know that from all that we know it's
+[00:39:53.880 --> 00:39:59.960]   impossible we do know though it's very possible to get you know even two
+[00:39:59.960 --> 00:40:07.080]   grand per litter into into olive oil as an example so it's yeah but I would
+[00:40:07.080 --> 00:40:12.960]   agree you know it doesn't represent a great industry standard so you know I
+[00:40:12.960 --> 00:40:18.160]   think that speaks to the fact that it would be good to have a some seal of
+[00:40:18.160 --> 00:40:23.400]   approval I don't want to go into that further now but I think there there's
+[00:40:23.400 --> 00:40:27.960]   some things underway at least and I think in general you know every
+[00:40:27.960 --> 00:40:33.280]   producer should you know just do some house cleaning and make sure that they
+[00:40:33.280 --> 00:40:39.880]   don't put anything on the label that they actually yeah can't keep can yeah
+[00:40:39.880 --> 00:40:46.960]   can't make true no I 100% second that the reality is there needs to be some sort
+[00:40:46.960 --> 00:40:51.720]   of standardized you know seal of approval or standards that we're all
+[00:40:51.720 --> 00:40:56.880]   held to just to ensure safety for people and I know that some things were in the
+[00:40:56.880 --> 00:41:01.320]   works on that front so yeah I do won't address that but it needs to happen it
+[00:41:01.320 --> 00:41:05.200]   needs to happen in reasonably short order and you know Phillip I know you I've
+[00:41:05.200 --> 00:41:08.600]   actually sent you my test data before so you know that you know that you know
+[00:41:08.600 --> 00:41:12.800]   the the claims that I was making about having a you know greater than 1.2
+[00:41:12.800 --> 00:41:17.240]   concentration absolutely well founded you know I had everything tested by
+[00:41:17.240 --> 00:41:21.720]   Pierre and Solaris you know just to verify it because I got a lot of pushback
+[00:41:21.720 --> 00:41:26.200]   from that but it's not really that difficult to do if you just address the
+[00:41:26.200 --> 00:41:30.920]   problem with slightly different thinking now coconut oil that's an entirely
+[00:41:30.920 --> 00:41:35.240]   different story because I use a lot of NCT and caprylic acid you know which is
+[00:41:35.240 --> 00:41:41.160]   just the CA for action of coconut oil pretty frequently and you cannot and I
+[00:41:41.160 --> 00:41:45.360]   will definitively state you cannot get that much in there through normal
+[00:41:45.360 --> 00:41:52.920]   processes even if you heat it to ADC and do you know high mechanical shearing and
+[00:41:52.920 --> 00:41:57.640]   under pressure just not happening there's just a certain degree of bond strength
+[00:41:57.640 --> 00:42:02.520]   that you're not able to elicit in certain lipids and that's one of them so
+[00:42:02.520 --> 00:42:08.480]   you know to say that coconut oils at 0.8 I would very much like to see the test
+[00:42:08.480 --> 00:42:12.920]   data supporting that because as of as of yet with my own products I've never
+[00:42:12.920 --> 00:42:19.320]   seen that I generally see sub point four migs per mill yeah you know but but
+[00:42:19.320 --> 00:42:23.520]   again easily done with olive oil you know you can I've done 3.2 as a
+[00:42:23.520 --> 00:42:29.000]   concentration it's not not terribly difficult and that's also one of the
+[00:42:29.000 --> 00:42:35.960]   reasons why we actually came up with a product that is a mix of NCT and olive
+[00:42:35.960 --> 00:42:44.200]   oil where you can get you know 0.8 gram per liter in easily with no problem you
+[00:42:44.200 --> 00:42:48.160]   get the benefits of the NCT oil that some people you know really love and
+[00:42:48.160 --> 00:42:54.400]   enjoy and I must agree there are great properties in that oil and combine it
+[00:42:54.400 --> 00:42:58.760]   with olive oil so that would be you know also for the home brewers really good
+[00:42:58.760 --> 00:43:05.600]   good way to do that rather than just using NCT straight so longer chain
+[00:43:05.600 --> 00:43:12.520]   lipids to increase the saturation bottom line right yeah a longer chain of
+[00:43:12.520 --> 00:43:16.880]   monounsaturated yeah you're far better off and able to bond more yeah so okay
+[00:43:16.880 --> 00:43:20.880]   so you're both kind of alluded to the that the possibility of a you know a
+[00:43:20.880 --> 00:43:26.440]   industry standards be governing body because you know I thought a lot about
+[00:43:26.440 --> 00:43:31.800]   that and obviously it had to be funded by somebody and I do know of one effort
+[00:43:31.800 --> 00:43:37.160]   that is being attempted but it's being attempted by a producer of a product
+[00:43:37.160 --> 00:43:42.080]   which is a significant conflict of interest in my opinion but you know to
+[00:43:42.080 --> 00:43:47.040]   have an independent third party validating so in the meanwhile best best
+[00:43:47.040 --> 00:43:54.840]   advice to consumers anybody know what you're buying just say go with go with
+[00:43:54.840 --> 00:43:58.980]   groups who are willing to share their data publish the results that have
+[00:43:58.980 --> 00:44:03.620]   verified test data you know I think you know the guys at SES are really good
+[00:44:03.620 --> 00:44:08.300]   about that and I know they have their own HBLC so it's it's really easy to do
+[00:44:08.300 --> 00:44:13.220]   when you have access to good testing equipment like I've got HBLC UV this
+[00:44:13.220 --> 00:44:18.140]   GCMS you know it's really easy to verify stuff when you actually have the tools
+[00:44:18.140 --> 00:44:22.980]   to do it it's really difficult if you don't have the tools to do that right
+[00:44:22.980 --> 00:44:26.980]   yeah you would you know and common sense if you're gonna make a product that
+[00:44:26.980 --> 00:44:31.220]   you're gonna
+[00:44:31.220 --> 00:44:36.740]   powerful parts that regulates all of this no I want to say something also in
+[00:44:36.740 --> 00:44:40.540]   regards to SES certainly they're a great player in the industry but they're
+[00:44:40.540 --> 00:44:45.100]   also you know running under a conflict of interest certainly in that regard if
+[00:44:45.100 --> 00:44:51.180]   they're checking on products that they sell themselves and we've seen it
+[00:44:51.180 --> 00:44:56.860]   heard that multiple times actually in the past so that they would just say
+[00:44:56.860 --> 00:45:02.620]   well you have to have 99.99% and all that and just because they were the
+[00:45:02.620 --> 00:45:07.540]   biggest seller in the world in regards to that and why you know I don't think
+[00:45:07.540 --> 00:45:13.980]   as an industry we need to do that and so I think the the lab that I really
+[00:45:13.980 --> 00:45:18.220]   appreciate here in the C60 world the Solaris because first of all they're
+[00:45:18.220 --> 00:45:23.300]   top-notch absolutely know what they're doing very very experienced have been
+[00:45:23.300 --> 00:45:30.620]   around for a very long time and they don't participate in the C60 oil
+[00:45:30.620 --> 00:45:37.460]   production and sales so from that standpoint they're a little bit further
+[00:45:37.460 --> 00:45:41.860]   way and they have a more neutral perspective and that's also you know for
+[00:45:41.860 --> 00:45:47.540]   anybody you know being a homebrew for example that purchases powder or oils
+[00:45:47.540 --> 00:45:51.340]   or whatever you know if you ever wanted to get your products tested you know you
+[00:45:51.340 --> 00:45:57.180]   can certainly do that with Solaris as well as an example I mean it's not cheap
+[00:45:57.180 --> 00:46:01.900]   but it's also it's still a lot cheaper than if you were to go to just to a
+[00:46:01.900 --> 00:46:07.140]   normal lab that doesn't do it on a regular basis yeah not that that's a
+[00:46:07.140 --> 00:46:11.740]   very good point I mean in fact I was gonna ask you I and that in your in your
+[00:46:11.740 --> 00:46:15.660]   interview with Luke's story recently you'd actually said that where you know
+[00:46:15.660 --> 00:46:19.300]   when like people ask all the time I mean you know because they can't afford the
+[00:46:19.300 --> 00:46:25.060]   99.99 and you know and you made a comment I believe in police correct me if I'm
+[00:46:25.060 --> 00:46:31.380]   wrong that the difference between 99.95 and 0.99 is infinitesimal and it's not
+[00:46:31.380 --> 00:46:36.420]   important so would you it's not and you know it people it's important if you
+[00:46:36.420 --> 00:46:41.020]   have a financial interest in it but in terms of the actual you know issue of
+[00:46:41.020 --> 00:46:46.740]   solvent toxicity from toluene it's irrelevant you know I mean just the
+[00:46:46.740 --> 00:46:50.620]   math that I mean if you run the math you say okay on average you're looking at
+[00:46:50.620 --> 00:46:57.500]   like 0.8 nigs per mil and you might have 0.05% toluene left over maybe you know
+[00:46:57.500 --> 00:47:01.980]   after one vacuum pass and if you're doing two passes in a vacuum oven it's
+[00:47:01.980 --> 00:47:06.140]   less than that but even still that's gonna amount to 0.4 migs in an entire
+[00:47:06.140 --> 00:47:10.820]   leader and you know toluene is something that your body can process I mean it
+[00:47:10.820 --> 00:47:15.260]   hydroxylates it in terms of interpencil alcohol and that's just something that
+[00:47:15.260 --> 00:47:18.460]   you know part of your cells your cytochrome actually uses that so there's
+[00:47:18.460 --> 00:47:23.060]   there's a standard clearance rate for toluene and it's not it's not like
+[00:47:23.060 --> 00:47:28.260]   you're exceeding that even if you did 99.5 and really that the reference range
+[00:47:28.260 --> 00:47:32.060]   there is talking about different higher order fullerenes not specifically
+[00:47:32.060 --> 00:47:37.160]   toluene but again you know the concentration is so low that you're
+[00:47:37.160 --> 00:47:42.860]   almost never going to be able to pass the threshold it toluene toxicity I just
+[00:47:42.860 --> 00:47:47.500]   if it were an issue I would be all over it and and shouting it from the
+[00:47:47.500 --> 00:47:51.700]   mountaintops but you know you can clear like the standard clearance rate is 0.8
+[00:47:51.700 --> 00:47:58.980]   migs per kilogram per day right and if you suck down a liter of C60 every day
+[00:47:58.980 --> 00:48:05.480]   that was horribly produced with 99.5 and not really well backed right you might
+[00:48:05.480 --> 00:48:10.140]   have an issue if you took a liter a day but if you're not taking a liter a day
+[00:48:10.140 --> 00:48:14.980]   then literally your body's clearance rate as you know is prescribed by you
+[00:48:14.980 --> 00:48:18.540]   know you can find them in PubMed or anything else but there's no issue it's
+[00:48:18.540 --> 00:48:22.540]   from a monetary standpoint it's great to scare people to say you have to have
+[00:48:22.540 --> 00:48:30.060]   sublimated a 99.99 total not accurate physiologically it's just a bit of a
+[00:48:30.060 --> 00:48:35.340]   ruse yeah so okay so there's two issues here and so let me clarify something
+[00:48:35.340 --> 00:48:39.700]   because I was under the understanding that the purity percentage that's sold
+[00:48:39.700 --> 00:48:47.500]   when you buy raw C60 if it says 99.95 as an example that that means that of the
+[00:48:47.500 --> 00:48:54.740]   sample 99.95 is C60 and the other 0.05 is other fullerenes and amorphous
+[00:48:54.740 --> 00:49:00.660]   carbon that's right so it's not right to the to the residual solvents but it's
+[00:49:00.660 --> 00:49:06.420]   it's just saying how much of what am I buying is actually C60 so and then so
+[00:49:06.420 --> 00:49:10.860]   and then what you just said was hey you know what if you bought 99 let me just
+[00:49:10.860 --> 00:49:14.380]   let me know what's the load number right is it 99.95
+[00:49:14.380 --> 00:49:21.580]   99.95 right is no problem not not 99.95 that's actually common misconception I
+[00:49:21.580 --> 00:49:29.460]   did work and you know clinical studies in a large cohort of dogs and used 99.5
+[00:49:29.460 --> 00:49:34.940]   as the base okay and all the blood markers were impeccably good they
+[00:49:34.940 --> 00:49:38.740]   actually date they normalized incorrect themselves yeah metrics that were high
+[00:49:38.740 --> 00:49:42.940]   became normalized towards low and metrics that were low normalized towards a
+[00:49:42.940 --> 00:49:48.340]   high point so yeah the idea that you have to have 99.99 also if you're talking
+[00:49:48.340 --> 00:49:51.700]   about higher order fullerenes as long as you're not talking about you know
+[00:49:51.700 --> 00:49:54.820]   nanotubes or something that morphologically you know just because the
+[00:49:54.820 --> 00:49:59.820]   shape is going to have a detrimental impact your body it's carbon you're
+[00:49:59.820 --> 00:50:04.420]   going to clear it even C60 your body will actually break down over time and the
+[00:50:04.420 --> 00:50:08.900]   fractional amounts you're talking about it you know 0.5 right it's
+[00:50:08.900 --> 00:50:14.460]   incredibly low a point it's just an on issue yeah it's just really an on issue
+[00:50:14.460 --> 00:50:20.660]   okay so the point five if you went 99.5 then you got a 0.5 something else and
+[00:50:20.660 --> 00:50:25.340]   that's something else yeah C70 C84 right yeah and I've actually tried to find
+[00:50:25.340 --> 00:50:29.940]   research on what happens when you take C70 burn as an example and now I'm doing
+[00:50:29.940 --> 00:50:36.660]   research on what happens when you take you know full on all's and so about
+[00:50:36.660 --> 00:50:40.020]   bottom line though you're saying hey there's just really no no physiological
+[00:50:40.020 --> 00:50:44.940]   impact from taking amorphous carbons and I and different fullerenes as long as
+[00:50:44.940 --> 00:50:50.300]   they're caged fullerenes but either way right yeah yeah as long as they're age
+[00:50:50.300 --> 00:50:54.060]   fullerenes and not nanotubes of some sort just because again the shape there I
+[00:50:54.060 --> 00:50:58.300]   mean you can you can think it through it's not that hard to imagine scurrying
+[00:50:58.300 --> 00:51:04.460]   a cell membrane with a nanotube okay all right so I want to wrap up this what
+[00:51:04.460 --> 00:51:08.300]   I'm showing on the screen wrap it up by saying to everybody correct me from
+[00:51:08.300 --> 00:51:14.060]   wrong hey you know what when you're buying C60 oil commercially just make
+[00:51:14.060 --> 00:51:18.420]   sure that it's from a source that has that can that would willingly share with
+[00:51:18.420 --> 00:51:23.380]   you their proof that what's on the label is what's in the bottle until such time
+[00:51:23.380 --> 00:51:27.540]   that there's some kind of like seal of approval but you know just keep that in
+[00:51:27.540 --> 00:51:32.020]   mind when you're buying C60 oil you don't know what you're getting unless
+[00:51:32.020 --> 00:51:34.740]   you're dealing with the people that are going to make sure you're getting what
+[00:51:34.740 --> 00:51:38.100]   they say they're getting so that I'll drop that subject now the next subject
+[00:51:38.100 --> 00:51:41.260]   though we're talking about purity which I think we got a good handle on that but
+[00:51:41.260 --> 00:51:45.340]   you know I and you were talking about solvency you know like residual solven
+[00:51:45.340 --> 00:51:50.500]   so let me let me get your take on that because you know of all of the of all
+[00:51:50.500 --> 00:51:55.100]   of the C60 industry drama that I've gotten sucked into is that whole issue
+[00:51:55.100 --> 00:52:01.100]   about individuals that sell C60 oil products and claim that they're solvent
+[00:52:01.100 --> 00:52:07.540]   free and then so can I get what's your opinion about that because you know is
+[00:52:07.540 --> 00:52:14.180]   it even possible to synthesize a C60 product without you know that's app
+[00:52:14.180 --> 00:52:18.780]   that's truly solvent free from all the different means of you know even like
+[00:52:18.780 --> 00:52:21.540]   you were saying even sublimated because I believe that even if you
+[00:52:21.540 --> 00:52:28.020]   sublimated you still have other things that was in the graphite right that
+[00:52:28.020 --> 00:52:31.780]   that once you know because I'm thinking in my mind right that you would even if
+[00:52:31.780 --> 00:52:35.540]   you sublimated which means you don't use chemicals guys that you would you
+[00:52:35.540 --> 00:52:39.180]   know let's say you're gonna end up with this full arena so that you're gonna
+[00:52:39.180 --> 00:52:44.380]   sublimate but then when you sublimate the so right and it then it goes you know
+[00:52:44.380 --> 00:52:48.620]   and I'm just thinking isn't there gonna still be something in there that's gonna
+[00:52:48.620 --> 00:52:52.500]   be whatever was in the graphite and so there's no such thing as like purity I
+[00:52:52.500 --> 00:52:55.980]   mean you know that there's no solvents or no heavy metals or any of that kind
+[00:52:55.980 --> 00:52:59.300]   of stuff I mean what do you guys like this whole solvent free thing has been
+[00:52:59.300 --> 00:53:02.540]   kind of a debate you know and I just wondering what you guys thought about
+[00:53:02.540 --> 00:53:08.860]   solvent free people that advertise solvent free C60 products. Hey I'll
+[00:53:08.860 --> 00:53:13.780]   jump in on this one first I again you know with regards to say toluene which
+[00:53:13.780 --> 00:53:20.460]   is certainly the most common you know solvent used to produce C60 you know
+[00:53:20.460 --> 00:53:24.820]   in my own arc reactor even if I didn't use it to separate it through a column
+[00:53:24.820 --> 00:53:29.540]   after the fact yeah it's the graphite that you're using is mostly pure but
+[00:53:29.540 --> 00:53:34.460]   it's certainly not a hundred percent I have yet to see something where there's
+[00:53:34.460 --> 00:53:40.740]   a singular peak on on the HPLC there's always a little bit of noise when you
+[00:53:40.740 --> 00:53:46.180]   when you zoom in same thing with readouts on GCMS you're not gonna isolate
+[00:53:46.180 --> 00:53:51.900]   something down to perfect purity at least I have as of yet not seen that but I
+[00:53:51.900 --> 00:53:57.660]   don't really think it's an issue I I think you know again you know people
+[00:53:57.660 --> 00:54:02.500]   you can you can test or you know concentrations of toluene after the
+[00:54:02.500 --> 00:54:07.100]   fact and get nowadays you can get pretty accurate readings down you know like
+[00:54:07.100 --> 00:54:12.900]   15 p.m. and stuff like that you know just for doing the urinary methods but it
+[00:54:12.900 --> 00:54:16.460]   just doesn't seem like an issue I mean I don't want to waste people's time on
+[00:54:16.460 --> 00:54:20.620]   focusing on something that really is kind of a non-issue if somebody is really
+[00:54:20.620 --> 00:54:25.460]   egregious and doesn't vacuum dry something and preps it with toluene or
+[00:54:25.460 --> 00:54:29.420]   you know dichlorobenzene or one of the other things that's far more extreme and
+[00:54:29.420 --> 00:54:35.380]   harsh yeah you could have some issues but most of the people I know in the C60
+[00:54:35.380 --> 00:54:39.780]   space nobody's doing that we're all guys who are generally kind of geared
+[00:54:39.780 --> 00:54:43.180]   towards helping other people and want to produce products that benefit people I
+[00:54:43.180 --> 00:54:47.300]   don't I have yet to meet anybody who's you know tying somebody to the railroad
+[00:54:47.300 --> 00:54:54.220]   tracks and producing C60 wearing their black top at yeah so Philip what do you
+[00:54:54.220 --> 00:55:01.260]   think yeah so I actually want to quote someone and that is up here the CEO of
+[00:55:01.260 --> 00:55:07.460]   Solaris because I think it's a it's an interesting quote here using
+[00:55:07.460 --> 00:55:12.180]   sublimation is the same base process where C60 is made and purified with
+[00:55:12.180 --> 00:55:18.460]   solvent sublimation is a heating process at very high temperatures and at these
+[00:55:18.460 --> 00:55:24.940]   temperatures C60 can make toxic dimers and trimers and also decompose these
+[00:55:24.940 --> 00:55:31.580]   byproducts can be deco deposited during sublimation as they will also be
+[00:55:31.580 --> 00:55:39.380]   vaporized to me the sublimed grade has most probably toxic byproducts including
+[00:55:39.380 --> 00:55:45.580]   dimers trimmers oxides and opened fullerings I would not use it even for
+[00:55:45.580 --> 00:55:51.540]   synthesis synthesis people should be made aware Wow well while we're on the
+[00:55:51.540 --> 00:55:56.740]   topic of issues with sublimation yeah I I will in light of fear saying that
+[00:55:56.740 --> 00:56:01.300]   publicly I'll join it and chime in I having heated you know you can
+[00:56:01.300 --> 00:56:04.820]   sublimate things are unfortunately and having heated stuff in the lab to
+[00:56:04.820 --> 00:56:09.900]   slightly above those temperatures for prolonged periods it damages the C60
+[00:56:09.900 --> 00:56:14.460]   like I've had to I did that on one batch with a couple hundred grams just to see
+[00:56:14.460 --> 00:56:19.980]   what would happen and how it would work and I had to scrap all of it it just
+[00:56:19.980 --> 00:56:24.180]   the chroma were completely improper when you when you analyze it after the
+[00:56:24.180 --> 00:56:30.300]   fact it was no longer the beautiful you know wine colored C60 in olive oil it
+[00:56:30.300 --> 00:56:35.500]   became this kind of odd rust burnt orange and I have the same concerns with
+[00:56:35.500 --> 00:56:39.420]   some of the synthesis processes other than other than you know just purification
+[00:56:39.420 --> 00:56:44.500]   from you know looking at sublimation as a purification technique some of the
+[00:56:44.500 --> 00:56:48.820]   some of the synthesis processes I have noticed a difference and I know that
+[00:56:48.820 --> 00:56:52.700]   they they analyze the same way in terms of you know when you run them through an
+[00:56:52.700 --> 00:56:59.940]   HPLC but there are differences like I have a preference Wow this is
+[00:56:59.940 --> 00:57:05.060]   fascinating right up my alley okay so that's really cool I mean that's really
+[00:57:05.060 --> 00:57:14.740]   interesting to hear so solvent free C60 is negligible from the concept of you
+[00:57:14.740 --> 00:57:19.860]   know the the amount the parts per million should any residual solvent get
+[00:57:19.860 --> 00:57:23.380]   carried forward from the from the you know from the process right that's kind
+[00:57:23.380 --> 00:57:27.340]   of the the general death unless somebody is terribly egregious in my
+[00:57:27.340 --> 00:57:31.020]   preparatory methods and really does not know what the hell they're doing yeah
+[00:57:31.020 --> 00:57:35.620]   you're pretty safe so if you're out there buying C60 powder to make your own
+[00:57:35.620 --> 00:57:39.380]   or buying a C60 product and you go on their website they show you the little
+[00:57:39.380 --> 00:57:44.420]   fancy graph and says yeah it's pure it's solvent free here's the graph it's
+[00:57:44.420 --> 00:57:48.580]   still you still don't know quite you know for sure but most likely though it's
+[00:57:48.580 --> 00:57:53.420]   not amen if you if you find somebody cracking shungite and then putting it in
+[00:57:53.420 --> 00:58:00.180]   goof off you might have an issue yeah yeah no kidding yeah yeah cuz yeah I was
+[00:58:00.180 --> 00:58:03.100]   just yeah okay so that that makes sense that that does you know it's the same
+[00:58:03.100 --> 00:58:07.940]   kind of thing we need to worry about it's it's a young industry actually
+[00:58:07.940 --> 00:58:12.860]   C60 oil products so yeah really interesting really interesting because
+[00:58:12.860 --> 00:58:18.300]   you know I did a whole study on on just how residual sees how residual
+[00:58:18.300 --> 00:58:22.340]   solvents could exist you know there's studies out there for that and I did
+[00:58:22.340 --> 00:58:25.580]   some research on that yes it's it's gonna exist but let me ask you this last
+[00:58:25.580 --> 00:58:28.060]   question and I do know that we're running out of time and I want to be
+[00:58:28.060 --> 00:58:31.380]   respectful every time we have to wrap up in a couple of minutes but you know
+[00:58:31.380 --> 00:58:35.820]   the concept of homeopathy right because this is another argument of the
+[00:58:35.820 --> 00:58:40.060]   solvent free crowd and and no disrespect everybody I totally respect you for
+[00:58:40.060 --> 00:58:44.380]   that but the solvent free crowd you know quotes homeopathy because you know the
+[00:58:44.380 --> 00:58:48.700]   whole idea of like one molecule carries the frequency of the substance and how
+[00:58:48.700 --> 00:58:52.540]   that interacts with your own frequency right as an energy being and all that
+[00:58:52.540 --> 00:58:58.340]   what so if those solvents do come forward and you know and to our biological
+[00:58:58.340 --> 00:59:03.260]   3d meat sack it's not a big deal right because we can hydroxylate it what do
+[00:59:03.260 --> 00:59:07.300]   you think about residual solvents in terms of you know that that homeopathy
+[00:59:07.300 --> 00:59:13.380]   you know concept because you know that you are actually taking in you know you
+[00:59:13.380 --> 00:59:20.180]   want me to answer that first yeah yeah so obviously you know that would need to
+[00:59:20.180 --> 00:59:28.020]   be studied to give a definitive answer but I do think the concept is is pretty
+[00:59:28.020 --> 00:59:33.660]   clear for homeopathy and maybe a lot of people don't know that but you can take
+[00:59:33.660 --> 00:59:41.500]   spider poison or all kinds of other poisons in a homeopathic form and then
+[00:59:41.500 --> 00:59:45.780]   they actually have an absolutely amazing and supportive effect certainly it
+[00:59:45.780 --> 00:59:50.260]   depends on what you need what the goal is here right and all of that and then
+[00:59:50.260 --> 00:59:54.540]   what is the actual substance but just from a concept perspective something that
+[00:59:54.540 --> 01:00:00.060]   would be detrimental to your health if you took it in real physical form could
+[01:00:00.060 --> 01:00:07.020]   be absolutely fantastic to support you in an energetic form or homeopathic
+[01:00:07.020 --> 01:00:12.900]   form for that matter I just wanted to you know that's cool that out there okay
+[01:00:12.900 --> 01:00:19.740]   I know what do you think 100% some of the concepts of homeopathy work if you
+[01:00:19.740 --> 01:00:25.420]   look at Luke Montagnier's work the Nobel laureate it is overwhelmingly
+[01:00:25.420 --> 01:00:31.180]   compelling I don't see how anyone can look at his research and not realize
+[01:00:31.180 --> 01:00:36.100]   that there is a whole lot that's going on vibrationally I think a lot of people
+[01:00:36.100 --> 01:00:40.660]   would discount Montagnier saved the fact that he was the guy who isolated the
+[01:00:40.660 --> 01:00:44.800]   HIV virus and got the Nobel Prize for it that whole that whole being a Nobel
+[01:00:44.800 --> 01:00:50.500]   laureate thing carries a little weight you know what Phillip was saying is
+[01:00:50.500 --> 01:00:55.620]   exactly right you know even in India they've approved homeopathy you know the
+[01:00:55.620 --> 01:00:59.380]   Parliament approved homeopathy and they've got a giant population they're not
+[01:00:59.380 --> 01:01:04.300]   going to do something that's not working I think really the the idea that
+[01:01:04.300 --> 01:01:09.500]   toluene is going to carry a vibration forward 100% accurate the idea that
+[01:01:09.500 --> 01:01:13.380]   anything is going to carry a vibration forward absolutely accurate the question
+[01:01:13.380 --> 01:01:18.580]   is why just mathematically why would the frequency of that small amount of
+[01:01:18.580 --> 01:01:24.260]   toluene overcome the frequency of the oil or overcome the inherent frequencies of
+[01:01:24.260 --> 01:01:28.460]   the C60 yeah and for that matter if you're really going to get you know kind of
+[01:01:28.460 --> 01:01:34.740]   on the edge of things that are accepted the the impact of that amount of a
+[01:01:34.740 --> 01:01:40.260]   molecule is probably less impactful than the you know the intent of the people
+[01:01:40.260 --> 01:01:44.980]   preparing it and I know that's going to sound terribly woo to a lot of people
+[01:01:44.980 --> 01:01:50.180]   but I think the science will prove that out that there's an impact you know if
+[01:01:50.180 --> 01:01:54.540]   you again if you look at Luke Montagnier's work they're using super precise
+[01:01:54.540 --> 01:01:59.260]   instrumentation you know microphones and to pick up vibrations and frequencies
+[01:01:59.260 --> 01:02:05.260]   that people don't commonly think of as impactful yeah but they are absolutely
+[01:02:05.260 --> 01:02:09.820]   100% making an impact and you can see it through you know Montagnier is being
+[01:02:09.820 --> 01:02:14.620]   able to transmit data that he records from water that's been you know diluted
+[01:02:14.620 --> 01:02:20.340]   billions of fold and then transmitting the recorded data to you know a colleague
+[01:02:20.340 --> 01:02:25.980]   in Italy and then having that fellow use polymerase chain reactions to create
+[01:02:25.980 --> 01:02:30.620]   recreate genetics to 98 plus percent fidelity you know that's literally just
+[01:02:30.620 --> 01:02:35.980]   transmissions from things that read out is water so the vibrations definitively
+[01:02:35.980 --> 01:02:40.740]   have an impact I just don't think in the case of the solvents is that impact
+[01:02:40.740 --> 01:02:46.220]   going to overwhelm everything else man again I don't I don't really buy it not
+[01:02:46.220 --> 01:02:50.540]   to mention I haven't seen people complaining and K you might have seen
+[01:02:50.540 --> 01:02:55.140]   this more than I I haven't seen anybody complaining about polygline toxicity I
+[01:02:55.140 --> 01:02:59.380]   don't actually know if anyone nor have I heard of anyone or any animal that's
+[01:02:59.380 --> 01:03:06.260]   exhibited polygline toxicity yeah yeah I nope me neither well if you talk to
+[01:03:06.260 --> 01:03:09.580]   Bob Greska you know he's got clients out there I've actually tried to reach out
+[01:03:09.580 --> 01:03:14.180]   to some of them and they don't they never responded I don't know why but you
+[01:03:14.180 --> 01:03:17.860]   know just to say hey you know you know Bob gave me your name and I was wondering
+[01:03:17.860 --> 01:03:22.820]   if you could to collaborate on what you told him right but but yeah in terms of
+[01:03:22.820 --> 01:03:27.620]   just trying to understand that people claiming that they had adverse reactions
+[01:03:27.620 --> 01:03:32.900]   to a C60 oil product and they attributed it to the fact that it was not a solvent
+[01:03:32.900 --> 01:03:37.580]   free you know advertised product then switching to one such as Greska C60 and
+[01:03:37.580 --> 01:03:41.420]   then all of a sudden they get better results and to me there's so many
+[01:03:41.420 --> 01:03:46.820]   factors involved in I feel better on this one versus that one in time of day
+[01:03:46.820 --> 01:03:50.580]   and year all that so it's just it's so anecdotal it's I wanted I've been I
+[01:03:50.580 --> 01:03:54.100]   wanted to try to you know like just narrow it down scientifically but it was
+[01:03:54.100 --> 01:03:59.100]   impossible but you know but in my opinion though I just think that I I
+[01:03:59.100 --> 01:04:04.060]   personally probably pick up more toxins just from the the gas off of the
+[01:04:04.060 --> 01:04:08.180]   materials in my home than I ever would from the tablespoon of C60 I take
+[01:04:08.180 --> 01:04:12.460]   every morning you know so I just I just don't worry about it I'd but yeah without
+[01:04:12.460 --> 01:04:16.700]   a doubt yeah and then but you have to but you have to constantly be you know
+[01:04:16.700 --> 01:04:20.900]   maintain a vigil of detoxing daily like this whole time we're talking and I
+[01:04:20.900 --> 01:04:24.140]   wish we had more time talk about it you know I'm connected with a cannula to
+[01:04:24.140 --> 01:04:29.020]   my Browns gas generator so yeah there you go I'm inhaling that stuff you know
+[01:04:29.020 --> 01:04:33.100]   six eight hours a day taking C60 and all that but it's you know we hit the top
+[01:04:33.100 --> 01:04:37.100]   of the hour I know we got a wrap up and man this was a great conversation I've
+[01:04:37.100 --> 01:04:42.180]   got so many more questions but thank you guys for your time I do need it I know
+[01:04:42.180 --> 01:04:46.460]   you need to go so I just want to say you know thank you so much for your time
+[01:04:46.460 --> 01:04:51.820]   today you know please stay on on on the line here for a second but any parting
+[01:04:51.820 --> 01:04:55.180]   words of wisdom that you want to share with everybody about C60 and where we're
+[01:04:55.180 --> 01:05:05.500]   at today 2021 yeah so you know from my perspective I think everybody that has
+[01:05:05.500 --> 01:05:10.860]   been experimenting with C60 is a pioneer in that regard right so we do know
+[01:05:10.860 --> 01:05:15.660]   there's a lot of facts pointing to this being an absolutely amazing molecule
+[01:05:15.660 --> 01:05:22.420]   and it's growing so yeah keep keep experimenting with it keep researching
+[01:05:22.420 --> 01:05:27.300]   it keep talking about it and I think for the whole industry as a whole I hope
+[01:05:27.300 --> 01:05:33.980]   that we will just you know create more studies that we also partner more
+[01:05:33.980 --> 01:05:40.740]   together in general rather than trying to segment out and try to you know when
+[01:05:40.740 --> 01:05:44.620]   markets here I think this this industry from my perspective should be different
+[01:05:44.620 --> 01:05:51.060]   this is about humanity and about something great that that is around that
+[01:05:51.060 --> 01:05:55.860]   we've all discovered and are discovering so let's let's rather work
+[01:05:55.860 --> 01:06:00.900]   together and I think you know in other countries especially Europe for
+[01:06:00.900 --> 01:06:05.540]   example certainly one of the great next steps would be in the next few years to
+[01:06:05.540 --> 01:06:12.020]   get some you know approvals from the authorities to actually use it this may
+[01:06:12.020 --> 01:06:16.220]   be difficult to achieve certainly because of different interests but that
+[01:06:16.220 --> 01:06:19.900]   would be something just as an outlook also for the industry where I would hope
+[01:06:19.900 --> 01:06:26.820]   that we're headed yeah yeah no I agree I agree so and then I am I noticed that
+[01:06:26.820 --> 01:06:35.020]   your website has yet to be filled out yeah it's actually it's kind of intriguing
+[01:06:35.020 --> 01:06:38.980]   because I've been very busily working and consulting on projects that I'm
+[01:06:38.980 --> 01:06:44.380]   ridiculously passionate about so most of the people who are engaging me already
+[01:06:44.380 --> 01:06:49.420]   know where I'm at but yeah I expect that it'll be filled out you know parting
+[01:06:49.420 --> 01:06:54.540]   words of wisdom for people in the C60 space I would just kind of do a quick
+[01:06:54.540 --> 01:06:59.740]   risk-benefit analysis you know it's been my experience that the pros greatly
+[01:06:59.740 --> 01:07:06.060]   outweigh the cons and I'm obviously in wholeheartedly and I think time is going
+[01:07:06.060 --> 01:07:11.220]   to prove out that there's tremendous amount of beneficial effects and my
+[01:07:11.220 --> 01:07:16.900]   only regret in a lot of this is that I didn't start the process a decade before
+[01:07:16.900 --> 01:07:23.500]   I did I wish that I you know had known the the benefits that I would have seen
+[01:07:23.500 --> 01:07:30.660]   over time because in my own life it's been very positive and really
+[01:07:30.660 --> 01:07:35.020]   tremendously impactful so for the rest of the community I'd say you know keep
+[01:07:35.020 --> 01:07:38.820]   the faith keep doing it you know if at some point one of us you know in the
+[01:07:38.820 --> 01:07:43.820]   research space determines that there is something that is bad you know we're
+[01:07:43.820 --> 01:07:46.980]   gonna shout it from the mountaintops I you know at this point as you pointed
+[01:07:46.980 --> 01:07:51.220]   out I I'm no longer producing any particular thing so for me right now it's
+[01:07:51.220 --> 01:07:55.500]   just pure research at some point I expect that I will go back into space in
+[01:07:55.500 --> 01:08:01.340]   hopefully the near future but I wouldn't recommend anything that I thought was
+[01:08:01.340 --> 01:08:06.700]   going to be detrimental to people but I really would implore people to just
+[01:08:06.700 --> 01:08:12.020]   continue to do this because the science is going to back it up and if people
+[01:08:12.020 --> 01:08:17.660]   wait you know a longevity study for humans the data is going to be coming in
+[01:08:17.660 --> 01:08:20.980]   over the next few decades it's not going to be something that comes in
+[01:08:20.980 --> 01:08:27.060]   quickly and if you wait you know for a study to be resolved in 50 years you're
+[01:08:27.060 --> 01:08:34.220]   likely going to have missed the boat yeah yeah definitely okay so thank you
+[01:08:34.220 --> 01:08:39.300]   guys thank you so much so so iron you've got a new endeavor you're doing science
+[01:08:39.300 --> 01:08:44.820]   research obviously your new websites called Mitchell sciences it's it's in
+[01:08:44.820 --> 01:08:48.900]   development right now for these you for those of you guys I want to follow iron
+[01:08:48.900 --> 01:08:54.460]   it's Mitchell sciences calm and then you do have you still but you have a current
+[01:08:54.460 --> 01:08:59.500]   product is called biocharged and if you look I'll put it in the link there's
+[01:08:59.500 --> 01:09:03.900]   iron did a I think was an October an interview with Dave Asprey from Bullet
+[01:09:03.900 --> 01:09:08.500]   Proof about this new product and that was fantastic it was real interesting so
+[01:09:08.500 --> 01:09:11.620]   if you're interested in iron's new product there I'll link to the video that
+[01:09:11.620 --> 01:09:16.780]   talks about it and then for Phillip Layla labs or Layla yeah Layla labs and
+[01:09:16.780 --> 01:09:21.300]   Layla Q and so you've got two different I'll put links for all of this stuff out
+[01:09:21.300 --> 01:09:25.220]   there if you want to reach out to these guys that's where you will find them so
+[01:09:25.220 --> 01:09:30.420]   awesome thanks gay hey thanks a lot and the recording now and hang on okay but
+[01:09:30.420 --> 01:09:34.860]   thank you everybody and thanks for watching the video
+

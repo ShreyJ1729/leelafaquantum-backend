@@ -1,0 +1,732 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.800",
+        "text": " - Hello, everyone, and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and I've got on the line, Philip Samore von Holzendorf of Leila Q. And we are gonna do today a tutorial on how to use Leila capsules and Leila quantum cards. And so I wanna first say, good morning, Philip. How are you today? Welcome. - Hi Kay, happy Friday. - Yeah, happy Friday. It's July 4th week, and everybody today, we're recording this on July 1st."
+    },
+    {
+        "start": "00:00:28.800",
+        "end": "00:00:58.120",
+        "text": "So happy July, at six months left of the year. I think that comes down to like what? 10 or 11 paychecks till Christmas. (laughing) That's how I keep track of time. But anyway, so for those of you who have not heard of Philip, which I can't imagine how you haven't, but Philip is a healer, founder and owner, operator of Leila quantum tech. And so he's the go-to guy. He is our sensei for the quantum power group, and he's the man."
+    },
+    {
+        "start": "00:00:58.120",
+        "end": "00:01:25.960",
+        "text": "So very busy. So what I've been trying to do at the Tinkers Academy is catch him, and it's real hard, but every now and then I can catch him, get him for an hour. And I'm trying to put these tutorials together. And basically these are pick Philip's mind sessions. So we're gonna go ahead and talk about capsules and cards today. And I just wanna say thank you, Philip, for spending some time with me. And also thank you to the folks in the chat group,"
+    },
+    {
+        "start": "00:01:25.960",
+        "end": "00:01:54.920",
+        "text": "in our telegram chat group, without your participation. This wouldn't even be, we wouldn't be able to do as well as we do, because I'm asking you guys for questions, and you gave out some great questions, and hopefully we'll, I think we have enough time today where we can get to them also. So thanks for participating, and this is for you. So before we jump into the content, do you need to give the disclaimer at neither Leila quantum tech, nor the Tinkers Academy recommend or endorse any specific tests,"
+    },
+    {
+        "start": "00:01:54.920",
+        "end": "00:02:22.480",
+        "text": "physicians, procedures, opinions, or other information that may be mentioned in this video. Reliance on any information appearing and discussed in this video solely at everyone's own risks. Statements made have not been evaluated by, evaluated by the EFSA or the FDA, or any government derivative. They're of Leila quantum tech products and products that Leila quantum tech may represent are not intended to diagnose, treat, cure, or prevent any disease. So with that said, let's jump right in."
+    },
+    {
+        "start": "00:02:22.480",
+        "end": "00:02:52.480",
+        "text": "So we are talking about the two different products that Leila quantum tech provides. One is called, I just refer to them as the quantum capsules. They come in three different flavors right now. And then there's these other things called the frequency cards. And so Phillip, you know, I think, you know, it's really, you know, I'm sure you run into this too. I mean, I run into it where like, you know, what's the elevator pitch? Like if I were to say to you and you had like, you know, an elevator of one minute, right, you're in an elevator."
+    },
+    {
+        "start": "00:02:52.480",
+        "end": "00:03:20.320",
+        "text": "And someone says, oh, what are you wearing? Or, you know, you're holding that in your hand. What is that? How would you describe, let's start with the capsule. Like, how would you just like, what's your elevator pitch for someone says, hey, what is that? How would you describe it? - Yeah, for the capsule, I would say this is a brass capsule that is charged with specific frequencies. And we can get into that for any specific capsule. What frequencies are in there?"
+    },
+    {
+        "start": "00:03:20.320",
+        "end": "00:03:49.840",
+        "text": "And then you find five titanium spheres inside that are charged with pure quantum energy. And that makes it that those frequencies are boosted out pretty much to a field of up to two to three meters. You know, what is that? You know, it's a, yeah. - Six to nine feet. - Six to nine feet more or less. Yeah, thank you. And yeah, that's the elevator. And then we can get into the details of it."
+    },
+    {
+        "start": "00:03:49.840",
+        "end": "00:04:19.720",
+        "text": "- Okay. And then what would you say? Like, if you were holding this in your hand and someone looks at you and they, oh, what's that? Oh, I'm a frequency card. What is a frequency card? - Yep. So this is a special card out of metal that is charged with a specific frequency that helps or is supposed to help with the specific use case. So, you know, we develop frequencies with our healer network, but as well, you develop frequencies, for example,"
+    },
+    {
+        "start": "00:04:19.720",
+        "end": "00:04:46.480",
+        "text": "okay, molecular frequencies. And there's always a use case, right? There's always a goal to solve a problem, you know, whether it's, you know, I always give the inner piece example because that's one that that's very easy to explain and it's been a long, been around for a while. So if someone has just stress inside and it's very unbalanced, you know,"
+    },
+    {
+        "start": "00:04:46.480",
+        "end": "00:05:11.640",
+        "text": "maybe even has fear, you know, tendency for panic attacks doesn't need to be on the scale like super strong can be also relatively subtle. But then this frequency card would help with that because it kind of helps us to access and stimulate our inner piece within us and helps us to expand that again."
+    },
+    {
+        "start": "00:05:11.640",
+        "end": "00:05:39.680",
+        "text": "And so we develop frequencies that help with issues, if you will. And the radios is pretty much, it's way smaller than with the capsule. It's, you know, a strong radius of about 37 meters. I would call that about a foot, maybe a little bit more than a foot. And yeah, but it's enough. You have to wear it at the body though. So that's important. You need to do a word in your pocket as an example,"
+    },
+    {
+        "start": "00:05:39.680",
+        "end": "00:06:09.320",
+        "text": "hold it in your hand, put it underneath your pillow underneath your bed sheet, something like that. So that's, those are the differences. And we have, I think, I don't even know how many we have, but definitely we have over 20 different frequency cards by now. - Okay, so to kind of summarize, these are frequency objects, you know, objects that hold a frequency. The frequencies that we're talking about are, you know, things that are like etheric or molecular or resonant."
+    },
+    {
+        "start": "00:06:09.320",
+        "end": "00:06:36.840",
+        "text": "I mean, there's just different types of frequencies, but frequencies for those of you who understand energy work is that all things are energy and all energy vibrates and all vibration is frequency. And so you are an energy being. And because of that, different frequencies can do different things for you and train with you. And so these devices hold those frequencies. And when you hold these devices, then you're exposing yourself to the frequencies. So what would you, so the main difference then for them,"
+    },
+    {
+        "start": "00:06:36.840",
+        "end": "00:07:05.000",
+        "text": "for the person who doesn't know, is okay. So if you say like these both hold frequencies, then the spheres do what exactly? What's the difference between like, you know, I got a frequency over here and a frequency over here, but this one's special, you know, and so the spheres act as, how would you describe that? - As a booster. - As a booster. - So the energy level is way more powerful. - Okay. - So if we had, we also have a heel."
+    },
+    {
+        "start": "00:07:06.160",
+        "end": "00:07:34.840",
+        "text": "So if we take the heel capsule and the heel card, heel frequency cards, then the heel capsule will be way more powerful, way more energetic. So you'll feel that in a much stronger way. The radius is bigger. - Okay. - So, and stronger is not always better. But, you know, I think in this sense, you know, for this specific frequency said, you know, I would prefer the capsule over the card,"
+    },
+    {
+        "start": "00:07:34.840",
+        "end": "00:08:00.600",
+        "text": "but there are others where, you know, for example, the inner piece wouldn't make so much sense actually as a capsule. It really makes most sense as a card. So there's this and that. And yeah, and I think people actually have asked, and I know that this has come up in the group several times. They've asked, you know, could you maybe have a neutral capsule? And then, you know, if we have specific frequencies,"
+    },
+    {
+        "start": "00:08:00.600",
+        "end": "00:08:29.760",
+        "text": "we could just add the frequency to it, right? And so we'll be doing that. We haven't started on it yet, but we will be doing that. - Okay. So yeah, so as you're talking, you know, I kind of have this one slide prepared to kind of capture like the technical specs, right? And so maybe let's talk a little bit more about that so people truly understand the difference between these two products."
+    },
+    {
+        "start": "00:08:30.760",
+        "end": "00:08:59.280",
+        "text": "And then how the spheres interplay with that. But so first of all, you know, I'm just, you know, I'm going to save these slides for all of those guys. I don't want to refer back to this stuff, but, you know, the size is the card is like a regular business card. And the capsule's about two inches tall and about a little bit over half an inch wide. So they're, you know, that's kind of the size. So let's talk about the field. Now, because these are energy devices, they have a field, right? And the field is that this is as far away from it"
+    },
+    {
+        "start": "00:08:59.280",
+        "end": "00:09:27.920",
+        "text": "as you could be with, you know, and not feel it anymore. So you want to have these things close to you in order to use them, right? So let's start with the card because it's the pretty much the card and the empty capsule are the same. I mean, would you say that they're the same level of energy? When we talk just about kind of the strength of the energy. We have frequency, and we'll talk about that separately because people seem to, you know, there are people that get them interchange,"
+    },
+    {
+        "start": "00:09:27.920",
+        "end": "00:09:56.440",
+        "text": "but they're, you know, they're two separate things. So you've got a frequency, but then you've got this energy that is kind of like the carrier, right? It's the, it broadcasts the frequency. So how would you say in terms of energy level, you know, are these, are these, is that, 'cause I've always thought that the empty capsule because it has about as much, it has a little bit more metal than the card, but I was always thinking that they were the same. Would you say that? - Very similar, yeah. - Okay, all right. So, so this is where it starts off."
+    },
+    {
+        "start": "00:09:56.440",
+        "end": "00:10:25.200",
+        "text": "So at the very, very basic, you know, for people that are super sensitive to energy, you know, just an empty capsule or the card might be suitable for you. And then for, to kind of put it into perspective, each one of these things because it generates quantum energy has a field, you know, of how much energy, you know, like how far out does the energy go? And so let me just make sure I've got my notes right, but so in field strength, our field, the size of the field, right?"
+    },
+    {
+        "start": "00:10:25.200",
+        "end": "00:10:54.880",
+        "text": "You were saying basically it's like six to nine feet, which is what you said earlier, right? Is what a capsule, you know, that's the radius of a capsule. So, honestly-- - And that's measurable. I mean, or you could see it, the very strong field of a capsule is also smaller than, you know, three meters. So if you wanted to charge water, for example, we'll get into that, you can't have it two meters away, then it wouldn't work."
+    },
+    {
+        "start": "00:10:54.880",
+        "end": "00:11:22.120",
+        "text": "- Okay, all right, so, but I want to point out though that the six to nine feet is with all five spheres, right? - Yes. - Okay, so let's talk about, so if it's an empty capsule, or if it's a card, right? What would you say would be the field? Like, I always thought it was like eight to 10 centimeters, but I forgot, but it was just like four inches, but do you know what, like, what is the field of a card?"
+    },
+    {
+        "start": "00:11:23.480",
+        "end": "00:11:53.000",
+        "text": "- Yeah, it's about 20 to 30 centimeters. So that is, you know, I think 30 centimeters is a foot more or less. - All right, so about 10 inches in, yeah? - Yeah, yeah. - Okay, well, just, you know, everybody, you know, we're all approximating here. Okay, so keep that in mind. So I did, you know, I was thinking about this earlier when I wrote, when I created this deck. And Philip, this is kind of like how I was thinking was a way to explain it, right?"
+    },
+    {
+        "start": "00:11:53.000",
+        "end": "00:12:22.440",
+        "text": "The difference in spheres. And I know, and I know you don't have like, oh, if I add one sphere, how much bigger does it get? Like, if it starts out at 10 inches, right? That's the size of the field. So if you had an empty capsule, you want it right on your body, right? If you want to experience it. But then if I put one sphere in, how much wider does the field get? Two spheres, three spheres, so forth. So I kind of wanted to point out that in this little diagram here, you start out with a field size,"
+    },
+    {
+        "start": "00:12:22.440",
+        "end": "00:12:52.040",
+        "text": "like this dark colored circle. And that would be the size of the field, which means you want to keep the item close to you within that field, or you won't be feeling it. But then, and then specific to the capsule, you can add up to five spheres. And every time you add a sphere, that field gets bigger and bigger and bigger. And then it will stretch out to nine feet. So this is kind of, I mean, I don't know. I mean, does that help? I'm trying to like visualize it."
+    },
+    {
+        "start": "00:12:52.040",
+        "end": "00:13:20.160",
+        "text": "I think this is perfect. And, but I still want to tell people, like even if you have the capsule filled with all the spheres, still the best way to use it is to wear it around your neck. And then you have it close to your heart chakra, even if the field is big. But then, you know, the EMF protective effect, for example, is the greatest, you have the largest field around you. And so, I mean, obviously, if you can tolerate it, just very, very few people for them,"
+    },
+    {
+        "start": "00:13:20.160",
+        "end": "00:13:49.880",
+        "text": "five spheres there's a lot in the beginning. But most people can easily tolerate it. - Okay, that's okay. So that's two things I wanted to add was, which is, all right, do I start off with all five spheres? Or do I start with an empty capsule? You know, as I'm getting adjusted to the energy. But, you know, I agree with you, because I've been hanging out in the chat room for two years. And yeah, the majority of people can just start off with five spheres, no problem. But I've actually heard from people that they had to like, they got a little overwhelmed, it kind of interrupted their sleep."
+    },
+    {
+        "start": "00:13:49.880",
+        "end": "00:14:18.720",
+        "text": "And they had to take a few out, and then they felt better, right? And so, you know, it's because it's a lot of energy. So that's the idea. - Don't wait a night. - Right, and so the spheres are basically the volume knob for a capsule. You could turn up the energy, or you can turn down the energy just by adding or taking out spheres, right? And I think that's an important part. And I think the, and to see the other, the other question I wanted to just kind of throw out there is, is, I just lost my train of thought,"
+    },
+    {
+        "start": "00:14:18.720",
+        "end": "00:14:47.560",
+        "text": "but it was a good one, and maybe it'll come back. So talking about strength. Okay, so that's the idea behind strength. And so, if you have a card, then what would you say is the best way to get the most out of it? - To word in your pocket throughout the day. And if you don't have a pocket, then find some other creative solution. I know people are very creative,"
+    },
+    {
+        "start": "00:14:47.560",
+        "end": "00:15:16.840",
+        "text": "I don't wanna make any suggestion, but I've seen a very creative ways to do it. And at night, it's really, I've seen and heard and also tried myself three different ways. One is underneath the pillow, works pretty well. Then what actually also works is put it underneath the bed sheet. Then it's even closer to the center of the body. And then some people actually experimented"
+    },
+    {
+        "start": "00:15:16.840",
+        "end": "00:15:46.640",
+        "text": "with just having it there, pretty much at the center of the body close to you. And I've tried that myself without putting it underneath the sheet and just having it there. And I thought, well, you know, that's, you know, that may disturb my sleeve because then you have a card laying there, but actually I never even noticed the physical. It never bothered me at all. And it actually worked pretty well. And I've tested that like with the inner piece card, which actually works really good at night."
+    },
+    {
+        "start": "00:15:46.640",
+        "end": "00:16:14.480",
+        "text": "It's always the first go-to I recommend for people, you know, to try at night before they move to the sleep and rest card or the common rest, I must say. Even though it can be well worn during the day, it doesn't make you sleepy, right? It just helps to balance the mind and all that. And I've tested that and I liked it underneath the pillow, but it had an even greater effect when I had it closer to like the solar plexus."
+    },
+    {
+        "start": "00:16:14.480",
+        "end": "00:16:42.000",
+        "text": "For example, which I thought was interesting because that's actually where you could say that's kind of like the center of our inner piece anyway, not the solar plexus. - Okay. - Checker out wise. - Yeah. - So. - Okay, so yeah, and then you'd mentioned earlier that same thing, right? You know, if you wear the heel as a capsule, as a necklace, then having it over your heart chakra is probably the best place to put it. So all right, so that's how you would get the most optimal benefit from it."
+    },
+    {
+        "start": "00:16:42.000",
+        "end": "00:17:11.400",
+        "text": "Keep in mind the size of the field and staying and then the best way to wear these and carry them so that you can get the most out of your product. Now in terms of strength, in our block series tutorials, we talked about strength in terms of consciousness levels. So I didn't wanna throw this out there 'cause I wasn't sure if that concept applied to a capsule and a card. So is there a consciousness level for these devices?"
+    },
+    {
+        "start": "00:17:11.400",
+        "end": "00:17:39.080",
+        "text": "Like you would find in a block? - Yes, actually you can find that and you can measure that. The only problem is that I don't think I have those levels, but we measured the cards. (laughs) I'm trying to find it here because I'd send it to myself at some point. - Okay. - So there's definitely--"
+    },
+    {
+        "start": "00:17:39.080",
+        "end": "00:18:07.640",
+        "text": "Maybe I can find it here throughout the time, but there is definitely level, but it's still completely different from a block and that's what people need to not kind of fuse then because the block works completely different than the capsule or the card, but you can still measure where it is on the Hawkins scale, for example. - Okay. So what, okay, I'll tell you what."
+    },
+    {
+        "start": "00:18:07.640",
+        "end": "00:18:37.880",
+        "text": "We're gonna keep going and then you can send it to me later. I'll fill in the blanks and then when people get a copy of this, they'll see what those numbers are. That's kind of give you everyone an idea and obviously the cards would be less than the capsules 'cause the capsules are stronger. But no, that's great. - Yeah, the caveat, I must say, so what I'll give you for the card that we measured, it's different for the different cards and it doesn't apply to every card and then also some of those cards. - Yeah, so the cards are charged with different levels"
+    },
+    {
+        "start": "00:18:37.880",
+        "end": "00:19:08.440",
+        "text": "and not every card is the same. So let's not put just one value in there. I'll give you a range of where they are and I think that'll be best because otherwise we're gonna give out false information. - Okay, so I'm just gonna make some notes here. Depends on cards, right? Okay, all right, so that's good to know. I didn't know that, so okay, all right. I'll fix this. Okay, so we'll go ahead and leave it at that. That's the technical specs."
+    },
+    {
+        "start": "00:19:08.440",
+        "end": "00:19:34.520",
+        "text": "Now, let's get into-- - They're all above 500, by the way, so they're all the way above 500. - Wow, that's pretty cool. - I think it's interesting, you know, that's the, I think that's the level of unconditional love that Hawkins describes. - That's cool, that's very cool. Okay, so we've talked about the idea that the frequency is one subject, energy is another, energy supports frequency and broadcasts it."
+    },
+    {
+        "start": "00:19:34.520",
+        "end": "00:20:04.280",
+        "text": "So then now let's talk about the things you can do or that these item, these devices do, right? And so one of the things that these two things can do is charge stuff. And by the word charge, I'm implying that it can, because it holds quantum energy, it can then share that quantum energy to another thing, stuff, right? And so, Philip, what I've got this kind of this blank template here and I thought we could just talk about it"
+    },
+    {
+        "start": "00:20:04.280",
+        "end": "00:20:32.120",
+        "text": "as to like, is it possible? And if it is, what would you, you know, how would you go about it? So let's start off with what we did talk about in the technical specs conversation, you know, about how this quantum energy in the capsule in the card can quote charge people and pets. And so, I guess the number one question about, you know, when it's like, if it's next to me, is it's giving me quantum energy, right?"
+    },
+    {
+        "start": "00:20:32.120",
+        "end": "00:21:01.400",
+        "text": "- Yes, so it does that end the frequency and there's one very important distinction that we'll come back to while we, as we go through these different line items here. So you can charge yourself, you know, your pet, your plan, you can charge water and things like that. But any like dense object doesn't take on the frequency energy, which is an important factor."
+    },
+    {
+        "start": "00:21:01.400",
+        "end": "00:21:29.920",
+        "text": "So there is no regular bleed over off a frequency that then sticks in a different object. You know, if you take a chess piece, for example, and put it next to the capsule or next to the card or some other metal your phone, it does not take on the frequency. And therefore, you can also have two or three or four different frequency cards are relatively close to each other"
+    },
+    {
+        "start": "00:21:29.920",
+        "end": "00:21:59.320",
+        "text": "and they don't spill over each other. So that is not possible. However, you could still, and that's where it gets really into the woo-woo. You can still charge a denser object with the heel capsule, for example, but you have to use your intention to do it. It doesn't work any other way. And I'm sorry that this is a woo-woo, but we fit that over and over again."
+    },
+    {
+        "start": "00:21:59.320",
+        "end": "00:22:27.280",
+        "text": "It doesn't do it on its own. - All right, so what we're talking about is quantum energy being emitted from one of these objects into something else, you know, in a very positive way. So now we talked about people and pets, right? So if you wanted them to benefit from a capsule or a card, that's what we just covered. You wear it correctly or carry the card correctly,"
+    },
+    {
+        "start": "00:22:27.280",
+        "end": "00:22:57.640",
+        "text": "you know, keeping it close within the field, right? So now, very good to know about the cards, but okay, let's start with the food and water. So a lot of folks have asked, like, how do I charge a plate of food if all I own is a capsule? Or can I put a glass of water on a card, you know, that sort of thing? So let's just start with capsules. So if I had a plate of food and I had a capsule, you know, is there a way to charge the food with a capsule? And you just mentioned, if you use intention,"
+    },
+    {
+        "start": "00:22:57.640",
+        "end": "00:23:27.240",
+        "text": "so how would that work? - So food usually is not very dense and it really depends on what type of food it is, but if it's the less dense it is, the easier it is, because then it contains a lot of water and water absorbs energy very, very well and easily. So anything that's really not that dense, you know, starting with the soup, for example, like a soup would be like the quickest to charge"
+    },
+    {
+        "start": "00:23:27.240",
+        "end": "00:23:57.160",
+        "text": "and easiest to charge. And then I don't know what will be a very dense one. - Steak. - Yeah, like a super well done steak, right? (laughing) - It's delicious. - So that would take longer, but yeah, you can do it. You would have to put the capsule ideally next to the steak or next to the glass of water"
+    },
+    {
+        "start": "00:23:57.160",
+        "end": "00:24:26.760",
+        "text": "and then leave it there for a little bit. You know, you'll never gonna get a result that the blocks could do, that it's just absolutely impossible, but you will get at least a neutralization of some of the energies that you don't want in meat, for example, in meat, always an animal was killed, okay? And you always have that energy within it. We just need to be aware of it, doesn't mean that we don't have to eat meat, we should need that much,"
+    },
+    {
+        "start": "00:24:26.760",
+        "end": "00:24:58.080",
+        "text": "but if we eat meat, fine, but let's be aware of that. And with the capsule, for example, or the blocks you can eliminate then, you know, this energy of suffering. - Okay, oh no, that's a good point. That's a big deal in Buddhism as well. Okay, so to use a capsule charge food and water, I need to place it next to it. And you said for a few minutes, do you have a guideline on how many minutes that is?"
+    },
+    {
+        "start": "00:24:58.080",
+        "end": "00:25:26.320",
+        "text": "What's a few mean to you? - Yeah, so I think to get just a basic quick charge for water, two, three minutes, that's what I would recommend. And if you wanna have a really nicely charged, leave it there for 10, 15 minutes with the steak, you know, probably the ideal way is to, before you actually grill it, to do it, because then you can have it sit there longer,"
+    },
+    {
+        "start": "00:25:26.320",
+        "end": "00:25:54.920",
+        "text": "because once you grill it, you're probably in a rush to eat it because you don't wanna eat it cold, right? So I think the minimum for a steak, also two, three minutes, that would be the absolute minimum laying right next to it. But if you want an even deeper charge, also 10 to 15 minutes. - Okay, I'm just gonna, okay, so-- - In the water, it's the case, so if you have the capsule next to the water,"
+    },
+    {
+        "start": "00:25:54.920",
+        "end": "00:26:23.080",
+        "text": "probably within 20 seconds already, you already have some of the frequency in. There's already a change happening, but I mean, you may as well really wait a little longer and just have it charged even deeper. - Okay, and you know, and okay, so it's safe to say generalizing, you know, generalizing, 'cause these are all guidelines, folks, this is not an exact science. When we talk about frequency and energy and all that stuff, it's very, very subjective."
+    },
+    {
+        "start": "00:26:23.080",
+        "end": "00:26:51.880",
+        "text": "- Yes, and then we have the differences, right? If you have a big porterhouse steak bone inside, and then you have a small fillet mignon. So they're nuances, so you just-- - Yeah, so with these times, you'll cover it all. - Okay, so in general, if you've got food and water, two to three minutes, place it right next to it, and then optimally 10 to 15. So I'm gonna ask you the question though that people are gonna ask is, do I do this before, if does it make a difference?"
+    },
+    {
+        "start": "00:26:51.880",
+        "end": "00:27:20.640",
+        "text": "If I do it before I cook it, or after I cook it? - Doesn't really make a difference, and-- - I didn't think-- - Yeah, I would do it before and now we don't have to worry about time, your food getting cold. - Yeah, yeah. - Yeah, exactly. And unless you have, if you have, you know, a salad, for example, you know, that you make, and then you put the dressing on, you know, you can-- I mean, that's obvious, you don't have to cook that anymore, so-- (laughing) - Yeah, okay, so, and also I wanna point out people have asked about, you know,"
+    },
+    {
+        "start": "00:27:20.640",
+        "end": "00:27:46.600",
+        "text": "how do I charge the food in my refrigerator if all I have is a capsule? Just keep in mind, you know, the field of a capsule, right? So if it's fully, you know, if you just, if I place one capsule in my fridge because of the field strength, would it, like basically, you know, and I left it in overnight, would everything in my fridge kind of benefit? I mean, would I have that same effect? Or do I really need to put it right next to it?"
+    },
+    {
+        "start": "00:27:46.600",
+        "end": "00:28:15.420",
+        "text": "- Yeah, I would say you would have to put it right next to it, so everything that's in very close proximity will have a benefit, and maybe some of these items will also have a benefit, like the liquids, you know, we haven't really tested that, how does it go through the plastics, et cetera? So, you know, I think, honestly, for the fridge, if you wanna cover the whole fridge, I think you need to put like three capsules in there."
+    },
+    {
+        "start": "00:28:15.420",
+        "end": "00:28:44.680",
+        "text": "- Okay. - That's what I'm getting. - Okay, so, key thing, yeah, yeah, okay, so that's very important. Put it next to what you wanna charge or have more than one capsule. Okay, 'cause that's a big deal, right? And everybody wants to charge their food and water. That's the first thing I ever did, start doing what's charging my food and water. So, the concept too now, with supplements and medicines, is that the same concept as food and water, right? I can't imagine it'd be different. I know that we've always been very cautious"
+    },
+    {
+        "start": "00:28:44.680",
+        "end": "00:29:11.200",
+        "text": "about medicines, and then supplements, but would it be the same concept? I just place it next to it, two to three minutes. Okay, so it's pretty much all the same. You know, just like with blocks though, I mean, the IB, is there any issue with medicines? - So, that's something where I don't really wanna make a recommendation because we didn't test that. - Okay. - And I just don't wanna speak about, you know,"
+    },
+    {
+        "start": "00:29:11.200",
+        "end": "00:29:40.440",
+        "text": "pharma products if we haven't tested it. So, I would say at this point, I don't recommend people do that. And I don't think that there would be an issue, but it's still something I'd rather look into it. - Okay. - Before I talk about it. - Yeah, I agree. Okay, so now for plants, you know, we've got the great Jack Newell experiment and the rest in peace, where he basically took capsules"
+    },
+    {
+        "start": "00:29:40.440",
+        "end": "00:30:08.640",
+        "text": "and stuck them in the dirt in all of his house plants. And the plants just like all of a sudden, they were went from dying to thriving, you know? So, it's the same concept as food and water, right? If you wanted to help a plant and all you had was a capsule, then literally sticking it in the dirt right next to the plant and leaving it there would be, is that something you would recommend? - Partially, so because what we found out"
+    },
+    {
+        "start": "00:30:08.640",
+        "end": "00:30:38.160",
+        "text": "that plants actually don't really like to have metals close to their roots. And that was an interesting one that we found out. So, if you can charge the pot, for example, or you can have it very close to the pot, or have something be very, maybe stick it in, but don't stick it in deep because you don't want to get close to the roots."
+    },
+    {
+        "start": "00:30:38.160",
+        "end": "00:31:07.720",
+        "text": "Yes, and that's really the metal itself. It's just the metal that they don't like to have close to the roots. - Okay. - But if you can get it close, then absolutely, yeah, it totally is great for the plants, they love it. - Okay, and then, and that's something that you would do 10, 15 minutes or leave it there for a day or so. 'Cause we're talking about that's alive. - Well, I mean, frankly, it frankly depends."
+    },
+    {
+        "start": "00:31:07.720",
+        "end": "00:31:37.280",
+        "text": "You can leave it in there for a very, very long time. Like we have this greenhouse where we have an infinity block. Now, we don't want to really talk about that, but that's there at all times, frankly. So, and you can charge a pot with, you know, your specific plant food or with a healful plant frequency. And that can be constant because it's not, you know, it's not going to overwhelm the plant. It's just going to be a constant support of the plant. - Okay, yeah, 'cause it's a living thing. - And here again, just for people,"
+    },
+    {
+        "start": "00:31:37.280",
+        "end": "00:32:03.840",
+        "text": "just in case they may have understood what I meant with the metal and the roots. So, if you had a card that you wanted to leverage, let's say the heal for plants card, then rather lay it on the pot, right? On the soil, on top, rather than trying to stick it inside the pot, if that makes sense. - Okay, all right, I mean, okay."
+    },
+    {
+        "start": "00:32:03.840",
+        "end": "00:32:31.880",
+        "text": "So, place capsule next to container not in the dirt. Okay, so, okay, 'cause plants aren't happy. Okay, no, that's very helpful. Okay, so then, you know, and then just, you know, the other thing I was thinking about is like we had a recommendation way back in the beginning where we could, you were, I think it was you, right? We were basically talking about I have a cell phone and all I have is a heal capsule, you know,"
+    },
+    {
+        "start": "00:32:31.880",
+        "end": "00:32:59.720",
+        "text": "and then the idea was, well, if I lay my phone on top of my capsule, it helps mitigate the radiation coming from the phone. Is that accurate? Like place it next to it? - Sorry, Kay, if you can hear me, can you please repeat the question, I apologize, but the internet was wonky again. - Oh, and yeah, yeah, no worries. Okay, so in terms of like cell phones and routers, if I, if there was a time, right, where I think there was a recommendation where, you know,"
+    },
+    {
+        "start": "00:32:59.720",
+        "end": "00:33:28.320",
+        "text": "people asked about it and the response was, just lay your phone on top of the capsule for like, I forgot how long, but, and then that would actually help mitigate the EMF from the device. Is that accurate? - Yeah, I don't think you can do that constantly, like you can't charge it that way that it, that it does that. I mean, you can have it next to it all the time. And while it's next to it, yes, that's the case,"
+    },
+    {
+        "start": "00:33:28.320",
+        "end": "00:33:52.480",
+        "text": "but you can't charge the phone that way. - So there's no way to charge. - In order to really protect against EMFs, that's not possible. You'd have to have to have a block. - It's better just to wear it, right? We just wear it. - Yeah, absolutely. - All right, so it doesn't charge electronics 'cause of this whole dense object rule. And so then other stuff, it pretty much applies. So would it be safe to say that"
+    },
+    {
+        "start": "00:33:52.480",
+        "end": "00:34:21.600",
+        "text": "the purpose of these devices is primarily for living things and that are high in water, pretty much, right? - Yes. - Yeah, okay, so plants, humans, pets, things of water food, you know, got a lot of water in it. And that's really what these are meant for. If you want to charge bigger things, denser things like your phone, your bike, car, you know, bed, then you would need to get a block."
+    },
+    {
+        "start": "00:34:21.600",
+        "end": "00:34:50.440",
+        "text": "So that, is that an accurate statement? - Exactly. And like you said initially, you know, we're energy beings and so are animals and plants. And so obviously on the physical level, the water is, and the blood, you know, is obviously very receptive, but the whole energy system can leverage these frequencies in a very easy manner. - Oh yeah, yeah, yeah, okay. Okay, so yeah, I'm hoping this is really clear. It's really clearing up for me too,"
+    },
+    {
+        "start": "00:34:50.440",
+        "end": "00:35:20.280",
+        "text": "'cause I really honestly never really played much around with the capsules, 'cause I had the block from day one. So I've always just tinkered with blocks. So this is very helpful. I know a lot of folks are working their way up, right? And saving for blocks. So in the meanwhile, you know, this is for you. So you kind of can understand the boundaries by which these devices can be used optimally. So let's talk about the cards, 'cause the cards are so much weaker than a full sphere,"
+    },
+    {
+        "start": "00:35:20.280",
+        "end": "00:35:50.000",
+        "text": "you know, five sphere capsule. Can they actually charge, like if I were to take a card and put it under a glass of water, would it actually be able to impart energy and then whatever the frequency was, right? In the card, would it be able to impart that onto the water? - Yes, absolutely, because water is so receptive. And so unless you charge the water prior to that in a block, you know, then that wouldn't be possible"
+    },
+    {
+        "start": "00:35:50.000",
+        "end": "00:36:22.880",
+        "text": "to get this frequency in because the water would already be kind of like sealed a little bit. But other than that, yes, you can. And I would say, you know, five to 25 minutes, maybe. But again, water reacts super quickly. So you'll have a first change probably already after a minute. - Okay, and then for food, I mean, if I put like a plate of food on top of a card, would that do anything?"
+    },
+    {
+        "start": "00:36:22.880",
+        "end": "00:36:52.720",
+        "text": "- It depends a little bit on how dense the food is, but I would say, yeah, you'll get some benefit. It's gonna be less than with a capsule, but you'll get some benefits. But if you only have a card and you still wanna do something good for your food, then yeah, absolutely, you know, put your steak on the card for 10 minutes. And you'll have a better steak. - Okay, all right."
+    },
+    {
+        "start": "00:36:52.720",
+        "end": "00:37:22.520",
+        "text": "So I'm gonna say five to 25 minutes is kind of a wide. But you're so, yes. So I would say five for minimal, 25 optimal, okay, for you guys playing at home. And so the same concept would be for supplements, five to 25, would it be about right? - Yes. - Okay, unknown for medicines. And then for plants, if I got the plant, you know, heel for plant frequency card, and I got an ailing plant,"
+    },
+    {
+        "start": "00:37:22.520",
+        "end": "00:37:52.340",
+        "text": "would I just take the card and put it under the plant? 'Cause you don't wanna put it in the dirt, right? - Yeah, that's what I would do. - Okay. - And I would leave it there for quite some time. - Yeah. I'm just saying leave it there for a while. Same thing, yes, yeah. So your durations are for a while. Okay, if with plants, plants are very special. Okay."
+    },
+    {
+        "start": "00:37:52.340",
+        "end": "00:38:21.420",
+        "text": "And then if I had a cell phone and a card, would it do anything? It just same thing with, it just really doesn't charge electronics. - Yeah, that's not a point. Also, if you have a cell phone and then, you know, you have these little cases for the cell phone, right? You could, one could think you'll put the card in there. But then, you know, it's actually better to have it right in your pocket because then it supports you. And then you don't really have to worry"
+    },
+    {
+        "start": "00:38:21.420",
+        "end": "00:38:49.860",
+        "text": "about the cell phone. - Okay, yeah, no, no, no, that's good. Okay, great. So this, I'm hoping everyone, there's some clarity as to what these can and cannot do. And that way it's really clear. So let's talk about the available frequencies. So we talked about energy and that energy enables the devices to charge things. It carries the frequency. But then for the frequency themselves. Now, on the website, if you wanna know the definition"
+    },
+    {
+        "start": "00:38:49.860",
+        "end": "00:39:17.260",
+        "text": "or like what are these, there's a description in the dropdown. So you would select one of them, click on it, and then there'll be a description of what that frequency, you know, is for, right? And so those are the, these are the current list of frequencies. We've got some new ones. Not really sure on the names yet. We might change the names. But here's the current list of frequencies that are available in Leleque. We got three new ones that are coming."
+    },
+    {
+        "start": "00:39:17.260",
+        "end": "00:39:45.700",
+        "text": "The ones in blue are available as a capsule, right? And then there's the newest one, which is your focus. And so we did have a question from the group about focus 'cause it's, I recall the question was specific to, there's some unique recommendation about the focus card. It was like something about the first 24 hours. Can we just touch on that real quick? - Yes, oh, I would have forgotten that. I'm glad you're bringing that up."
+    },
+    {
+        "start": "00:39:45.700",
+        "end": "00:40:12.540",
+        "text": "And I have even said in the group that we're gonna mention it. So yes, so that one, because it can also, so it really, to promote the really deep change, it needs to be worn for 24 hours straight in the first 24 hours. And that doesn't mean that if you take a shower, please don't take it in the shower. Just take it off. That is not a problem to put it away for a few minutes. That's really not the issue."
+    },
+    {
+        "start": "00:40:12.540",
+        "end": "00:40:42.780",
+        "text": "But the point is to wear it really over this long period of time because it can, so the focus card, while really anybody can use it for better focus, there are certain groups of people that have a really, really, really big issue with focus, right? And that goes into, didn't really wanna talk about that, but like ADHD,"
+    },
+    {
+        "start": "00:40:42.780",
+        "end": "00:41:11.380",
+        "text": "Alzheimer, these types of things weren't really, this has nothing to do with the disease or disease treatment or any of that. But so there are just more severe issues also with focus that people can have. And we tested that. And so having it straight for the first 24 hours just gives a real opportunity to make some significant changes."
+    },
+    {
+        "start": "00:41:11.380",
+        "end": "00:41:38.900",
+        "text": "And then after that, it can be used as needed. And we still recommend it for the first two weeks after that probably for three to five hours a day. If you wanna wear it longer, you can, but it doesn't need to be, you know, depth definitely you don't have to wear it at night. And then after those first two weeks, you can just use it whenever you think you want it, you need it if you need to concentrate and so on, if that makes sense."
+    },
+    {
+        "start": "00:41:38.900",
+        "end": "00:42:08.740",
+        "text": "- Okay, okay, I think yeah, that makes sense to me. If you guys have questions, always feel free to go into the Telegram chat group, ask your questions there, everyone's very helpful and we're trying to get to all the questions. So that was the special thing about the focus one, which is a new one. And again, I guess the main thing too is that there's so many different frequencies, they do different things. There is actually a question on the list and let me just ask it now, which I think one of the first questions on the list was, what's the best way to figure out"
+    },
+    {
+        "start": "00:42:08.740",
+        "end": "00:42:37.860",
+        "text": "which frequency is best for me, right? Somebody asked that question. So, you know, with all of these different, you know, frequencies, how does someone just decide? You know, like if I wanted, you know, 'cause we get this question a lot, there's an actual different question that's related, which is, oh, hi, you know, I just discovered Leila, sounds really awesome, where do I start? And my recommendation for people to start is like, oh, start with a capsule or a card, you know, feel it, you know, expose yourself to it"
+    },
+    {
+        "start": "00:42:37.860",
+        "end": "00:43:06.100",
+        "text": "before you invest heavily into it, right? I mean, and then people, like so many people, then just go off and get blocks afterwards when they realize what these things can do and that's wonderful and everything. But for the very, very, very beginner, you know, what's, what would you say to someone that says, hey, you know, how do I know what works for me? Or what would it be best, you know, to try? What would you, what would you be at? What's your answer to that? - I always say that the absolute all-rounder is the heel capsule."
+    },
+    {
+        "start": "00:43:06.100",
+        "end": "00:43:34.700",
+        "text": "That is the general starting point that I feel that I haven't met anyone that doesn't or wouldn't benefit from it and really see some positive results. And it, you know, whether you're young or old, fat or thin or, you know, female male, it doesn't matter, right? The capsule is just something that works for pretty much anyone. Now, in terms of the cards,"
+    },
+    {
+        "start": "00:43:34.700",
+        "end": "00:44:03.940",
+        "text": "that's indeed a little bit more tricky because it can be almost overwhelming, you know, with so many different frequency cards. But the first thing I would do is just look at the names of the cards because they actually, I think, you know, and in some cases we had to change the names a little bit. So the, you see the seasons there. So currently that's actually not online, but we'll put it back online in the next couple of weeks. So the seasons used to be called the LOG relief,"
+    },
+    {
+        "start": "00:44:03.940",
+        "end": "00:44:30.540",
+        "text": "but yeah, we had to change that. And now it's called season, so it's maybe a little bit unclear. But the rest is pretty clear what it's for, right? Abundance, prosperity, inner peace, you know, weight management, you know, I think that's all relatively clear. So the ones that are clear speak to you because you know, is this something I want to work on? Is this something I have an issue with?"
+    },
+    {
+        "start": "00:44:30.540",
+        "end": "00:44:59.580",
+        "text": "Feel inside you, okay, what resonates with me? And because I think that's maybe even better than using the brain. - Yeah, okay. That makes a lot of sense. - Yeah, and additional possibilities also to look at the mandala that is on each of the cards."
+    },
+    {
+        "start": "00:44:59.580",
+        "end": "00:45:26.860",
+        "text": "And you can see that online and just look at it and don't think, okay, well, I like this in terms of the art or something like that. It's just rather to look at it and see how your system reacts to it, you know, is it, you know, how do you resonate with this on an energetic level? This may be a difficult task for some people, but it's something you can do. That's one of the reasons why we have those mandalas"
+    },
+    {
+        "start": "00:45:26.860",
+        "end": "00:45:54.460",
+        "text": "because they resonate very closely with the frequency that's actually on the cards. - Yeah, I'm glad you mentioned that. I think it's something that we definitely want to share is that each different frequency as a mandala that's created just for that frequency by a very gifted and talented person, right? And so they're all very unique and they're energetically tied to the frequency itself."
+    },
+    {
+        "start": "00:45:54.460",
+        "end": "00:46:23.980",
+        "text": "So each one has its own mandala and that mandala is very special just for that frequency. So yeah, I'm glad you mentioned that 'cause I always forget to tell people about that 'cause a lot of people don't notice that they're all different 'cause they only have a few, but yeah, the mandala is very important for each one of those cards. Great, okay, thanks for sharing that. Now let's just jump into one of the main things about, okay, now if I have a capsule, because I have spheres, right,"
+    },
+    {
+        "start": "00:46:23.980",
+        "end": "00:46:52.980",
+        "text": "I can add different frequencies to the existing capsule. So I do want to point out, and this is like a three minute tutorial on the Quantum Power YouTube channel, links below in the video description, where Phillip basically will teach you how to use the spheres out of a capsule to add a frequency. So here's a really good example. Let's say you really resonate with a particular type of herb or essential oil."
+    },
+    {
+        "start": "00:46:52.980",
+        "end": "00:47:21.820",
+        "text": "And so let's say it could be lavender and lavender really calms you and you use lavender for everything and you have the heel capsule and you're all like, I want to add lavender to it, right? 'Cause it doesn't contain lavender the frequency of lavender then you can use the spheres to add the frequency of lavender to a piece of foil and then put that foil inside your capsule, your heel capsule, and then you would have added that extra frequency to it. So there's a tutorial on YouTube"
+    },
+    {
+        "start": "00:47:21.820",
+        "end": "00:47:49.420",
+        "text": "on how to do that, links below. So that is another thing you can do with your capsule that you cannot do with a card, which is pretty cool. And again, it doesn't work with dance objects, so it's basically going to be limited to, you know, herbs, oils, you know, things like that. Like you couldn't take, you know, something thick and go, I want to take this frequency of this thick thing and you know, it's not going to work with dance objects. But so you might want to take a look at this tutorial"
+    },
+    {
+        "start": "00:47:49.420",
+        "end": "00:48:16.780",
+        "text": "if you want to know how to add frequencies to your capsule. Okay, anything to add to that? Cool? - Well, the only thing I think in the video itself, I forgot to mention that we should use our intention to do that, but at the same time, it's almost not relevant because as we're doing it, we're kind of having that intention to do it anyway. So, but you know, I felt like after I did the video that I could have mentioned that because it's,"
+    },
+    {
+        "start": "00:48:16.780",
+        "end": "00:48:46.380",
+        "text": "we have this strong intention to copy this into that, then, you know, that's the proper way to do it. - Okay, all right, so let me just jump through the questions now from the group. The first thing was, is can you use a sphere packet, sphere packet to copy a frequency to a blank capsule? Yes or no? 'Cause the capsule's kind of dense, right? It's half an inch thick. Could I use, you know, like if I had the, if I wanted to just, instead of using foil,"
+    },
+    {
+        "start": "00:48:46.380",
+        "end": "00:49:14.500",
+        "text": "could I just put a frequency into a capsule? - It's a good question. I don't know. I would go for the foil. - Yeah, I agree with that. So that's, I'm just gonna go down the question. So, probably not use the foil. Can you copy the frequency in a capsule to a foil using the sphere packet? Okay, that we already answered that. Yes, you can. You can copy frequencies. Oh, no, no, no."
+    },
+    {
+        "start": "00:49:14.500",
+        "end": "00:49:42.300",
+        "text": "This is using the capsule as a source. Because the capsule's a half inch thick and you put a sphere packet on it, would you be able to take that, let's say it's a heel capsule and I want to copy heel to a piece of foil, right? Could I use the sphere packets and put it on top of the heel capsule and then underneath it there's a foil, even though the capsule's half an inch thick, would the foil pick up from the spheres? - So, if we have a heel capsule in our hands now"
+    },
+    {
+        "start": "00:49:42.300",
+        "end": "00:50:11.540",
+        "text": "and then put the aluminum foil underneath it, you could do it directly. You don't have to use a sphere stamp or anything as long as you use your intention, but you have to use your intention for that and leave it there for just a few minutes just in case. - All right, good. There you go. Next question. If I put my heel capsule on something metal, when it is full of the spheres, would it copy the frequency into the metal? And then we've already answered that."
+    },
+    {
+        "start": "00:50:11.540",
+        "end": "00:50:40.780",
+        "text": "The answer is no, because it's too dense, right? And so the second question is, do the spheres need to be in the four on bottom and one on top configuration wrapped in foil to for it to copy? And you just answered that question. So, it doesn't have to be in that configuration. You could just have, you know, basically be holding the whole capsule for all five spheres, right? In other words, you don't have to make an exact sphere."
+    },
+    {
+        "start": "00:50:40.780",
+        "end": "00:51:11.180",
+        "text": "Okay, so, all right, I think we answered that question. Yeah, it definitely won't, you can't use spheres to copy frequency into metal. And then when you do want to use spheres to copy, if you want to copy the heel frequency on the foil, just hold it in your hand. If you want to copy the essential oil on the foil, make a sphere packet and you have four on the bottom one on top, correct? Okay, now for people who have multiple heel capsules and there are other configurations,"
+    },
+    {
+        "start": "00:51:11.180",
+        "end": "00:51:38.260",
+        "text": "okay, I guess are there, but are there other configurations using more spheres wrapped in foil that would have an additional benefit when copying frequencies? So, quicker copying, okay, so I'm thinking like I got, I got four, I got to buy the four pack, right? I got 20 spheres. Could I shove them all in a piece of foil and would it work better than five? Probably, yeah, we haven't tested it, but I would say yes. Yeah, wait for energy."
+    },
+    {
+        "start": "00:51:38.260",
+        "end": "00:52:05.540",
+        "text": "Okay, and then, yeah, okay, so it hasn't been tested, so the answer is probably, but we don't know for sure. And that's something that we'll probably have to figure out one day, but good question. Next one is, can you copy a frequency using a card versus a sphere packet? All right, so can I take the frequency of a card and put it on a piece of foil, leave it there for a day? Would that foil pick up the frequency off of just a card?"
+    },
+    {
+        "start": "00:52:05.540",
+        "end": "00:52:32.980",
+        "text": "I would say no, so you would have to stick with water if you wanted to use the card and some less dense substances. All right, there you go, thank you for that. Okay, next question, what's the best, what can we answer that, best way to figure out? Okay, that was a great answer, brother. Now, the next one is, oh, this comes up a lot, right? Can children and pregnant women use capsules and cards?"
+    },
+    {
+        "start": "00:52:32.980",
+        "end": "00:53:01.180",
+        "text": "So obviously, as a company, we can't talk about pregnancy and give official recommendations, but we can point to obviously the fact that there hasn't been anything negative or harmful, whatsoever reported, nor is it even possible with the quantum field and a lot of pregnant women have reported just amazing benefits."
+    },
+    {
+        "start": "00:53:01.180",
+        "end": "00:53:30.660",
+        "text": "So if you look at the study results and everything, what it does, I think you can draw your own conclusion, but I have to say it this way because I'm not gonna make an official recommendation. Okay, yeah, that makes sense. You know, just my testimony, I have a 12-pound dog and that dog wears a necklace that was burned in an IB9, very, very, very high strength, and she's just fine. I mean, there's nothing, I mean, no harm at all."
+    },
+    {
+        "start": "00:53:30.660",
+        "end": "00:53:59.180",
+        "text": "So that's just to give you an idea. You have a 12-pound something. Okay, so if someone uses a card at night, has it been determined that under the pillow head region is the best location for this? - So before we get into that, really quick, I wanna mention again, also the whole pregnancy thing, right? Because people are like, oh my God. But in the end of the day, it's life what's there."
+    },
+    {
+        "start": "00:53:59.180",
+        "end": "00:54:28.140",
+        "text": "And we're talking about pure quantum energy, which is the most natural thing of our cells that helps to put cells and, you know, anything related or energy system into more balance, just on its own, just by being there. So really think about it. If that sounds beneficial. So just, and then coming to the cards now,"
+    },
+    {
+        "start": "00:54:28.140",
+        "end": "00:54:57.020",
+        "text": "I think we talked about that earlier. So there are three ways that I've heard and tried, one is underneath the pillow, which is great, another one is underneath the sheets. And the other one is just to have it, you know, just with you, you know, maybe starting even off with holding it in your hand. - Okay, all right, you're cutting in and out, but I'm gonna go ahead and answer that question. So there you go. That's the answer to that one, which is under the pillow, under the sheets"
+    },
+    {
+        "start": "00:54:57.020",
+        "end": "00:55:25.540",
+        "text": "or in your pocket if you wear shorts or pajamas, but have it close to you within that 10-inch window or field length? So Philip, are you back yet? Okay, we're gonna give this. Okay, so there we go. We're on to the next question. So is it better to sleep with a card under the, okay, we talked about that. Oh, wait, this is a different question. Is it better to sleep with a card under the pillow or in a cue block with photo and intention?"
+    },
+    {
+        "start": "00:55:25.540",
+        "end": "00:55:53.940",
+        "text": "So, which is like, if I wanna get the best optimal results from the calm and rest card, which used to be called sleep, is it better to put it in the cue block with my photo or is it better to put it under my pillow? Does it matter? - Definitely underneath the pillow or close to your body in regards to the calm and rest as well as for the inner peace because if you're in the block,"
+    },
+    {
+        "start": "00:55:53.940",
+        "end": "00:56:22.820",
+        "text": "you're a much higher energy stimulation in general and that can be amazing. But if you're looking at difficult sleep that you have in all of that, then having the card there is the best way to go. - Okay, no, okay. We answered this question, skipped that one. So the next question is, if I carry a card or capsule in my pocket, should I switch pockets every now and then? Does it matter?"
+    },
+    {
+        "start": "00:56:22.820",
+        "end": "00:56:49.660",
+        "text": "- Good questions and yeah, every now and then I would actually recommend to do that. It's not that, if you wear a capsule in the pocket and not around your neck, then with a capsule, it's definitely more important to change the sides every now and then because you can get more energy heavy on one side and then you also wanna give that energy to the other side. We've noticed that with the cards, it's really not that big of a deal."
+    },
+    {
+        "start": "00:56:49.660",
+        "end": "00:57:19.540",
+        "text": "But hey, you can still do it every now and then every now and then it doesn't mean like a few times a day. It means rather a few words in the left pocket on a Monday, maybe on a Tuesday, you put it in the right pocket. - Okay, no, okay, great. Now, this next one is a member that says, this is what I wanna do. Put my stainless steel water bottle that I had charged in the cube block. So the bottle is charged full of water, puts it on top of a frequency card."
+    },
+    {
+        "start": "00:57:19.540",
+        "end": "00:57:49.180",
+        "text": "Do I get structured frequency water? So I'm gonna answer that. If you've charged the bottle and the water's in the bottle, then the bottle is charging the water. So the water's being structured by the bottle. Okay, so the answer's no, because the bottle's doing it, not the card. So the second question is, does the frequency also end up in the... So here's the next question. Does the frequency of the... Okay, all right, because the bottle's charged, right? - Yeah, the card can't do anything anymore"
+    },
+    {
+        "start": "00:57:49.180",
+        "end": "00:58:18.780",
+        "text": "because the bottle is already fully charged. The frequency can't even get through the bottle anymore. - There you go. Okay, that answers the last question here. Okay, all right, so everybody understand, right? If something's fully charged, the card's not gonna have any effect on it. Okay, so now, the next one is, if you make a foil in the infinity block first generation from a card, do you need further time in the block to seal the foil? No, right, 'cause it's already got... - Can you repeat that, please?"
+    },
+    {
+        "start": "00:58:18.780",
+        "end": "00:58:46.660",
+        "text": "Okay, if you already know the answer, yeah. - Well, no, if I take the foil and I charge the frequency from card onto foil, right, in the infinity block, do I need more time in the block to seal the foil? And the answer to me would be no, because the frequency's in the foil, you're done, right? - Yeah, pretty much, yeah. - I think the only other thing would be is, quote,"
+    },
+    {
+        "start": "00:58:46.660",
+        "end": "00:59:15.460",
+        "text": "the use of the word seal means that it's full. So if you worried about full, then just go to full three minutes and then there's nothing that's ever gonna copy onto that foil again, unless you get a higher infinity block. Okay, what are the... Oh, go ahead. - Yeah, no, no, no, I mean, it's good like this. Yeah, but you don't need to go three minutes with a foil, literally, so, you know, a minute and you're not gonna get more in."
+    },
+    {
+        "start": "00:59:15.460",
+        "end": "00:59:45.580",
+        "text": "- Okay, one minute's good. Next one is, what are the thoughts on doubling or tripling up on wearing heel capsules? - Yeah, so, I don't necessarily recommend it. I think you're good with one heel capsule, I don't think. I mean, if you really feel there's like a day where you need such an energy boost and you need a whole lot more in you, if you feel like it really, and you feel that's super beneficial to you, then go ahead and do it."
+    },
+    {
+        "start": "00:59:45.580",
+        "end": "01:00:12.180",
+        "text": "In general, I don't think it's necessary to wear two or three. - Okay. - But again, everyone is different. - Yeah, man, hey, if you have that feeling for a certain Monday, go for it. - Okay, yep, yep, there are some days where you need more energy than others. - Okay. - Okay, so next one, and we're just gonna jam through this, Phillips gotta take off in eight minutes, so I wanna try to get as much out of his brain as I can get."
+    },
+    {
+        "start": "01:00:12.180",
+        "end": "01:00:41.380",
+        "text": "Now, next question is, can the foil and the card go in the same purple bag? Is any time-- - The foil and the card. - You would not place, I guess the better question is, is there any time you would not place a card and the foil that you, you know, in the same bag together? So like, let's say I have the inner piece card and I go make some inner piece foils, right? Okay, so the answer to that is, if you made it in the cube block, no problem."
+    },
+    {
+        "start": "01:00:41.380",
+        "end": "01:01:07.980",
+        "text": "But if I made the foil in the eye block, should I keep the foil away from the card? - No, so as long as it's the same frequency, you can have it all in there together. - Okay, all right, all right, so then the question is, is at what level are in, when you make these cards, what level are they topped off at, at the IB level? 'Cause I know that in the past, if you wanted to add something to a later product,"
+    },
+    {
+        "start": "01:01:07.980",
+        "end": "01:01:37.620",
+        "text": "you needed an IB4 or higher, right? So is that applied to the card so that it's like topped off at three? And if I wanted to add something to a card, I'd need a four higher, is that about right? - Yeah, so, you know, we've had the philosophy here that we always use our best fitting and highest blog as long as fits for charging the cards. Where it makes sense, right?"
+    },
+    {
+        "start": "01:01:37.620",
+        "end": "01:02:06.580",
+        "text": "For example, for inner piece and comment rest, it actually wouldn't make sense to use all these higher ones that it really wouldn't. But we never anticipated that people would then ask in which was this charge that we didn't keep track of it. So I actually can't tell you the answer, it just varies. And we always give you the best product. And, you know, if we come up with an even better way in six months, we'll do it the even better way"
+    },
+    {
+        "start": "01:02:06.580",
+        "end": "01:02:36.140",
+        "text": "in six months, so that's what we keep doing. And I don't think you need to top off any card, to be honest. - Yeah. - Oh, I don't think it's really necessary. - Okay, thank you. What is the max time a card should be in the IB? I think that we've covered that. It's like, if I wanted to make a foil with an IB, with using a card as the source frequency, it was like 15 seconds, right? I'm just trying to remember. - Yeah, it's pretty much done in 15 seconds."
+    },
+    {
+        "start": "01:02:36.140",
+        "end": "01:03:04.200",
+        "text": "Sorry, you can leave it in there for 20 seconds. That's really fine, then I would remove the card because, again, you know, the cards you don't want to have in there for too long, not for three minutes, cumulative. So, yeah. - Okay, 15, 20 seconds, tops. Okay, now next one, regarding the neutral capsules and spheres coming out, charged in that 2,000 Hawkins scale IB, why would it not overload our nervous system wearing it?"
+    },
+    {
+        "start": "01:03:04.200",
+        "end": "01:03:33.620",
+        "text": "If you're using it 2,000 Hawkins-- - Yeah, first of all, it's completely different if you put your head in this 2,200 Hawkins scale infinity block or if you wear an object that was charged in it, right? It's a completely different thing. And there's, in addition though, even if you put your head in there,"
+    },
+    {
+        "start": "01:03:33.620",
+        "end": "01:04:02.380",
+        "text": "it wouldn't overwhelm you unless you would do it for too long because there's a specific feature that pretty much gives you what you need and picks you up where you are, if that makes sense. It's a little bit hard to understand, but it's really an additional, it's like a harmony buffer, if that makes sense. Something like that, I would call it. - Okay, all right, thank you. All right, so we're about to run out of time,"
+    },
+    {
+        "start": "01:04:02.380",
+        "end": "01:04:30.820",
+        "text": "so I want to just jump into two quick questions that I think are the most important out of the last five. So we've got people that have been losing spheres. How do they get in, they don't own a block? Is Layla gonna start selling replacement spheres? - I don't think so, to be honest, but if you lost spheres, then just reach out to Emma on Telegram or at support@lilaq.com"
+    },
+    {
+        "start": "01:04:30.820",
+        "end": "01:05:00.380",
+        "text": "and we'll help somehow. - Okay. - Maybe we'll have to do it at some point with replacement spheres, but we haven't really, we haven't set it up yet. - Okay. - I'd say it that way. - All right, and then the last thing that I wanted, the last question I think of, if I'm cherry picking questions here, is you mentioned earlier, using intention. And so there's a way to add an intention to a capsule. And even like with the Agni,"
+    },
+    {
+        "start": "01:05:00.380",
+        "end": "01:05:30.180",
+        "text": "you've been sharing these wonderful posts from Agni with different mantras that he's been sharing, which thank you so much for that. I tried one and it was wonderful. So if I wanted to add a mantra or an intention to my capsule, I'm just gonna say it if you correct me from wrong, then all I need to do is just write down my intention. Like I, you know, whatever your intention might be, like let it go, you know, you're having a problem breaking up with someone or you know, whatever it might be, you know, help me lose weight or I will not eat as much. Whatever your thing is,"
+    },
+    {
+        "start": "01:05:30.180",
+        "end": "01:05:55.660",
+        "text": "I just write it on a piece of paper and I put it inside my capsule, or I can write down the numbers of the mantra, write the mantra out and put it inside the capsule. And that's how you add an intention to a capsule. Is that correct? - Yes, that's definitely one and an easy way to do it. If someone also has a block, for example, then you could take a little piece of an aluminum foil"
+    },
+    {
+        "start": "01:05:55.660",
+        "end": "01:06:25.180",
+        "text": "and take a bigger piece of paper and write down the full intention and charge this intention onto this aluminum foil and then put the aluminum foil into the capsule, which may be a little bit easier if you have a block because fitting a full piece of paper in there in the capsule may be a little bit tricky. You can still make it work though. And yeah, but those are the two ways that I see that are available to us."
+    },
+    {
+        "start": "01:06:25.180",
+        "end": "01:06:54.700",
+        "text": "- So yeah, one more thing you can do with your capsule. All right, so we're gonna wrap up, Phillips got stuff to do, he's always got appointments. So I just wanna say to everybody else that if you check the video description is below, we've have other tutorials. So we've got a three part tutorial on the blocks. And then, well, the, by the way, the pink and purple colored slides are when I have Phillip on the line and the blue ones are just me. And so I've made some tutorials as well on how to make a quantum capsule,"
+    },
+    {
+        "start": "01:06:54.700",
+        "end": "01:07:24.060",
+        "text": "how to have capsule, how to upgrade frequency cards or capsules. And then of course, go on to the Quantum Power channel, YouTube, all the links will be in the below, in the video description, to help you learn more about getting the most you can out of your investment in the Layla Q Quantum Tech products. And they're wonderful products. And I highly encourage everyone to learn more about them so that you can get the best experience you can from them. So they'll all be the links below and, you know, by all means go and check out some of these other tutorials"
+    },
+    {
+        "start": "01:07:24.060",
+        "end": "01:07:51.060",
+        "text": "that we've created. And again, with that, I have to let Phillip go. And I just wanna say thank you so much for your time. Thank you for participating to all the members that threw questions at me. I'm hoping that we got to the majority of them. I think we did. So, you know, hey, thanks a lot, everyone. Thank you, Phillip, for this morning. And so just wanted to let everybody know if you wanted to get ahold of myself or Phillip. We have, and I'll, this'll be a link below as well, but to the Quantum Power Group on Telegram."
+    },
+    {
+        "start": "01:07:51.060",
+        "end": "01:08:20.500",
+        "text": "We're up to 94984 members as of this morning. And then you can always reach me at the Tiggers Academy, the links will be in the description below. So anyway, thank you so much, Phillip. I really appreciate your time today. - Thank you, Kay. I find this amazing that you're doing this. Really, that's so awesome. I couldn't think of a better one to ask all these questions. And thanks for constantly, you know, also really thinking about this and doing that."
+    },
+    {
+        "start": "01:08:20.500",
+        "end": "01:08:49.020",
+        "text": "And thank you very much to all the members in the group. You're really awesome. And thanks for your questions and your interest and all of that and helping discover these things. You know, again, I was just so happy to get all your answers in regards to the food allergy things, right? And I don't know if you saw that, Kay, but there was this-- - Yeah, the guy with the lemon. - Member, with the lemon that just posted about it. And it's just so helpful to hear these things"
+    },
+    {
+        "start": "01:08:49.020",
+        "end": "01:09:18.540",
+        "text": "because that's something where we haven't done a study yet, right? And we all want to know more about it. And ideally, well, we'll figure it out, right? And can tell at some point, yet it really helps us with this all the time. And this is how you do it. And these are the guidelines. So this is a big step. You know, what we've learned through you guys. And we'll set up studies in that regard. And then hopefully that will be helpful to everyone. - All right. Well, thank you so much."
+    },
+    {
+        "start": "01:09:18.540",
+        "end": "01:09:22.340",
+        "text": "Appreciate your time today. Aloha. - Thank you, Kay."
+    }
+]

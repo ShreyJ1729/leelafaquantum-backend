@@ -1,0 +1,262 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.000",
+        "text": " Hello everyone. Welcome to another Tinkers Academy video. This is Kay Elmer, your host. I've got Philip von Holzendorf on the line with me to talk about 2024 product updates for a Leila Quantum Tech, Quantum Upgrade, and the traumies. So Philip, welcome. And yeah, so you posted about a week ago some really cool stuff about what's coming down the pipe for this year. So I kind of just grabbed your post out of Telegram and if you wanted to kind of"
+    },
+    {
+        "start": "00:00:28.000",
+        "end": "00:00:54.160",
+        "text": "maybe kind of like, you know, elaborate on it because all, you know, all we got were these bullets, but so I've got the three different posts here. So if you want, could you just kind of elaborate for us? Like what's coming down the pipe and about when can people expect, you know, some of these new new products and services? So let's start with this. Okay, great. So let's start with the for Leila Quantum products. This is Leila Quantum Tech. Number one, you know, I guess we're like a"
+    },
+    {
+        "start": "00:00:54.160",
+        "end": "00:01:23.120",
+        "text": "week or two passes, but you've already launched the infinity block booster capsules. And you've already launched the newest infinity blocks, right? So those are out there. And we are, we are working on making deuterium depleted water. We were actually successful in making that, but we still need to do a lot of lab testing. And then the actual goal is to, you know, all goals not really to make"
+    },
+    {
+        "start": "00:01:23.120",
+        "end": "00:01:48.960",
+        "text": "deuterium depleted water. The goal is to, and we're not sure if we'll succeed, to be honest, but we figure we'll just put it out there, you know, and maybe people can cheer us on. But the idea is to create a device that like, like the block, that people can use to make deuterium depleted water themselves because we actually found some absolutely significant, you know, qualities of deuterium"
+    },
+    {
+        "start": "00:01:48.960",
+        "end": "00:02:16.480",
+        "text": "depleted water. And it's quite fascinating. And so that's what we're working on, see if we'll succeed. And then another thing is that I think the Olympic performance frequency we so far have not really launched it as a card. I think for at the latest Q2, that's also on the horizon to create that as a card probably and possibly in another way. I've been thinking about wristbands or something like"
+    },
+    {
+        "start": "00:02:16.480",
+        "end": "00:02:42.160",
+        "text": "that. But you know, that's just me thinking as a tennis player. But that would be kind of a cool thing. Okay. Oh, man, you know this, when you said the deuterium depleted water, I've been following that story for years and trying to figure out a way to afford it. What like, what do you think, like how low can you go? I mean, what do you think with what your approach? So first of all,"
+    },
+    {
+        "start": "00:02:42.720",
+        "end": "00:03:10.560",
+        "text": "yeah, so we tested, and we're still testing some, but we've been testing several deuterium depleted waters. And it seems that there isn't even a huge benefit anymore from going too low. So we tested, I think, eight PPM up to 24 PPM. And then it starts to be not such a big difference anymore. The difference is marginal. Even the, I think, the largest player"
+    },
+    {
+        "start": "00:03:11.440",
+        "end": "00:03:37.600",
+        "text": "in the space from Romania, actually, I've met one of the owners of that company at a conference. He's a super nice guy. And they make 24 PPM and 18 PPM. And also he would tell you that there isn't really a big difference anymore. But people obviously gravitate to the lower the better. But at 24 PPM, you already have amazing deuterium depleted water. And we didn't see much"
+    },
+    {
+        "start": "00:03:37.600",
+        "end": "00:04:02.560",
+        "text": "of a benefit energetically. We saw a lot of benefits, though, of that water. And then, you know, even upcharging it, then an affinity block, absolutely fascinating. So a few things that, you know, people can read about deuterium depleted water. Obviously, these people need to be very careful of what they write, because they can't stay, it helps you with cancer and all of that, you know, you know, the drill, certainly, because you can't stay in this well. But"
+    },
+    {
+        "start": "00:04:03.840",
+        "end": "00:04:32.080",
+        "text": "yeah, so they position this as longevity water. And I think that's smart. But certain things, I'm sure they don't even know. Like we found out, for example, that so this Romanian company, they sell these waters in the heart plastic bottles. Okay. And we all know that plastic gets in the water. You know, you get microplastic particles that gets in the water, no matter what"
+    },
+    {
+        "start": "00:04:32.080",
+        "end": "00:05:01.760",
+        "text": "water you drink. However, it doesn't happen with deuterium depleted water, which is very, very fascinating. It doesn't take on the plastic. And if you add frequencies, then you have an amplified absorption and delivery mechanism off the water with the frequency. So there's a lot of really cool stuff. And yeah, and it's but it's so expensive, right? That, you know, you just,"
+    },
+    {
+        "start": "00:05:01.760",
+        "end": "00:05:28.560",
+        "text": "I mean, a normal person couldn't just afford to drink just this water. So at this point, you know, go with very good filtered water and, and you know, charge it in the block and you'll have amazing water. But I think we can take it to next level. If we can indeed make a deuterium depleted and then roll it out in a way where everyone becomes self sufficient, right? And not"
+    },
+    {
+        "start": "00:05:28.560",
+        "end": "00:05:52.080",
+        "text": "with technology that costs $250,000. Right. Yeah, you know, I'm, I'm over the over the charts excited about this. And I wish you guys all the luck in your, your research. So I just want to clarify though, you're thinking about, or you're working on a method to produce at least 24 ppm deuterium depleted water. I mean, you're going to go that low. So that's going to be the end product"
+    },
+    {
+        "start": "00:05:52.080",
+        "end": "00:06:19.920",
+        "text": "of your, of your device. At this point, we don't know if we don't succeed, but that is, that is what we're something along those lines is what we're trying to aim. Yeah, pretty amazing. Well, I'm rooting you on. And I look forward to hearing more about this as you guys proceed with your research. But that's amazing. If you could do it, you're going to help so many people. Okay, so you're also looking at putting the Olympic frequency in a card. Are you looking at any more"
+    },
+    {
+        "start": "00:06:19.920",
+        "end": "00:06:49.120",
+        "text": "frequency cards though this year? Or is that just going to be more frequencies added to quantum upgrade? Is it just, you know, for Laila? Well, it's a good question. I don't have any in mind currently. But you know, how it goes usually within a year, there's, there's probably going to be a couple of frequencies that we'll roll out with. And probably the, the community will help with that and put in some requests. Okay, great. Hey, I just want to, before we jump to the next one,"
+    },
+    {
+        "start": "00:06:49.120",
+        "end": "00:07:11.440",
+        "text": "I just want to let everybody know, we just recorded the infinity block booster capsules video, where we talk about the first two block, you know, the first two products here. So you can catch more about those in that other video. But the DDW thing is just exciting. So, okay, so that's what's coming for Laila quantum tech. Now for quantum upgrade, you'd mentioned that you're going"
+    },
+    {
+        "start": "00:07:11.440",
+        "end": "00:07:38.560",
+        "text": "to increase the regular levels to 1400 levels on the scale and booster levels up to 22. Wow. That's pretty high. So is that coming out this quarter, then first quarter, like this spring? This month, this month, that's, that's what we're aiming for. You know, I mean, you know, there's always the possibility it doesn't work up. But my goal is that this month, this is,"
+    },
+    {
+        "start": "00:07:38.560",
+        "end": "00:08:06.960",
+        "text": "this is done. And I know the team is working on it and they, they have a lot to do. And I said, I would like to really launch this already this month. So, Okay. So you did, you did footnote that that both are not available to new customers, but it's going to be with 10 year. So how long do the people have to wait to access these higher level boosters? That is my to do. So if we don't roll it out by the end of January, and then you"
+    },
+    {
+        "start": "00:08:06.960",
+        "end": "00:08:34.400",
+        "text": "all know it was my fault. So no, I still have to basically put the logic behind that because yeah, you know, it's, you know how it is, right? You need to look at everyone. You have the advanced folks, right? That can take in a lot. And then you have some of the very new ones and you really don't want them to be overwhelmed. So I'll have to look into it in a quiet minute and just take an"
+    },
+    {
+        "start": "00:08:34.400",
+        "end": "00:08:59.920",
+        "text": "hour and write it all down. Okay. No, I get it. I totally get it. Oh, you know, hey, I just got a question on this new booster level. I mean, the grand block is 1800. So if you got a booster at 22, is that like sticking your head in a grand block for a couple of, for an hour? Like I can set my booster for 90 minutes. So if I set my, my booster for 90 minutes at 2200, that's more powerful than sticking my head in the grand block for an hour and a half."
+    },
+    {
+        "start": "00:09:01.200",
+        "end": "00:09:25.520",
+        "text": "Is that, well, is that a relatable person? The grand block is at 2200, though, right? Isn't it? That was a, I'm not mistaken. All right. Well, either way, whatever it is, it's pretty much that way. Yes. And it's not just the head. Yeah. So I stick in my whole body. Oh, wow. Wow. That's, that's, yeah, I can't wait to try that. Oh, that's gonna be wild. I'll play the tennis"
+    },
+    {
+        "start": "00:09:25.520",
+        "end": "00:09:55.200",
+        "text": "nationals probably with the 2020. Yeah, yeah. That's gonna be, that's wild. Okay. So that's like, put yourself in, that's put yourself in something stronger than the grand block. Wow. Okay. So yeah, I'm gonna try that one. Okay. Okay. So now there's gonna be some new frequencies, the dog and cat ones. So these are the regular dog and cat, the heel for dog and the heel for cat. And that's gonna be available on quantum upgrade. Yes. That's correct. All right. And on a separate note, I think"
+    },
+    {
+        "start": "00:09:55.200",
+        "end": "00:10:24.800",
+        "text": "Junai can possibly revisit the, the, the com for dog. Oh, yeah. Because, you know, I think you had a pretty good start there. And I think there were some things that, that Roman saw that, you know, obviously he can do in a, in a, from a completely different angle. And maybe we could combine these efforts and maybe for quantum upgrade, I think it would make sense to have that. You know what I"
+    },
+    {
+        "start": "00:10:24.800",
+        "end": "00:10:50.960",
+        "text": "mean? Oh, yeah. No, that would be for dogs. Oh, that would be great. I mean, I kind of started on that frequency. And I thought I got like as far as I could go because I'm human. But if we could get Roman involved, that would be awesome. Because my little dog gets so anxious, you know, when there's a storm out or a loud noise. And that's kind of what I designed it for was just his little tiny little chiwini. So I'm just trying to calm her down, you know, but she's not like a chihuahua"
+    },
+    {
+        "start": "00:10:50.960",
+        "end": "00:11:18.240",
+        "text": "where she's nervous all the time. She's just nervous with loud noises. So that's why I created that. But if Roman could add his little flair to that, that'd be awesome. That would be great. Okay. No, that'd be fantastic. So and my little dog just came actually a little more more. She just came to be here. And that's interesting. And she gets anxious when she needs to go to the groomer or she needs to go to the vet. So yeah, they just nervous. I mean, well, I've got I've"
+    },
+    {
+        "start": "00:11:18.240",
+        "end": "00:11:44.720",
+        "text": "got my daughter has a Belgian Malinois, which is a military dog. And that dog has more anxiety than anybody else in the family. So anxiety is not just not just the, you know, belongs to little dogs. Okay, so now there was a question in the telegram group about the dog frequency. Like, what bundle are you going to add it to? Or is it going to be like animals are going to be a separate other by itself, separate bundle? Okay. All right. So there'll be a separate animal"
+    },
+    {
+        "start": "00:11:44.720",
+        "end": "00:12:15.200",
+        "text": "ones, because I see you're adding horses. But but but what I'm thinking though, is that whoever has the all in one frequency bundle, I'm pretty certain that it will be added there as well. Don't, you know, don't quote me. But maybe I'll get overwritten by someone at this point that that will be my goal. All right. Cool. So you're going to add horses, right? So people who have horses that can add put like literally have a subscription for their horse, correct?"
+    },
+    {
+        "start": "00:12:15.200",
+        "end": "00:12:38.960",
+        "text": "Yes. Okay. All right. So is it going to be like a heal for horses? It's a good point. We probably need to develop that. Yes. Oh, cool. Correct. And we we've had a lot of requests actually regarding horses. So I think, you know, that's something good to do. Oh, yeah, I could see how it really benefit horses. I used to have one old guy needed a lot of help."
+    },
+    {
+        "start": "00:12:38.960",
+        "end": "00:13:03.360",
+        "text": "That would have been nice to have at the time. Okay. So what about livestock down the road? Because I could see how, you know, farms would benefit from having pre yeah. So I think for them, I would I would, you know, I mean, it's it's it's hard, you know,"
+    },
+    {
+        "start": "00:13:03.360",
+        "end": "00:13:32.160",
+        "text": "I don't think it could be like for a horse. But let's say you have 100 chickens. I think you would want to have the whole, you know, area basically put in like the home location service for quantum upgrade. I think that one would be the one to make sense. And then in terms of frequency, yeah, why not something for chickens? I mean, to be honest, I probably think it is"
+    },
+    {
+        "start": "00:13:32.160",
+        "end": "00:14:00.160",
+        "text": "low priority at this point. Okay. All right. So one last one for quantum upgrade is you're going to do a pineal gland activating frequency. So like, is that like a third eye awakening kind of thing? Yeah, that's pretty much what it would be like. And that would probably mean we would do that and launch that for Leela quantum tech as well. It's just something we we started working on, but it needs a whole lot more work. So I don't"
+    },
+    {
+        "start": "00:14:00.160",
+        "end": "00:14:29.520",
+        "text": "think before the end of Q two, this will really come out. But it's it's a great one. I think especially for these times. Cool. Yeah. Cause you know, I also tried started working on one and never quite finished it. So maybe I ought to finish it and throw it at you and you see what you do with it. Okay. No, that's awesome. All right. So that's what's coming for quantum upgrade. And we're looking at it happening this quarter, 2024. Yes. Okay. Okay. So now you've got the new product"
+    },
+    {
+        "start": "00:14:29.520",
+        "end": "00:14:51.520",
+        "text": "updates for traumese. And I noticed that in your post, you said this was going to be free. So free is awesome. I love that price. I think everybody else is going to. So if you have traumese today, you're going to get this for free. So once you go ahead, so you posted two things in telegram about something called amazing travel and something called Vax harmonization. So what are these two"
+    },
+    {
+        "start": "00:14:51.520",
+        "end": "00:15:16.080",
+        "text": "things for? Yes, absolutely. And I want to say that the trauma easy is one of the really most underestimated tools we have. And I don't think I speak enough about it, to be honest. But it already now with the trauma functions is an incredible tool to lighten ourselves to work on ourselves and,"
+    },
+    {
+        "start": "00:15:16.080",
+        "end": "00:15:44.560",
+        "text": "you know, lift these traumas and convert them into life force energy. And now for everyone that has it, we are adding the amazing travel button. So what happens is that there will be an actual app, an actual app that you can be able to download. And there's not very much to do on there. You know, you don't really have to do much there. But there what you'll find there is two buttons."
+    },
+    {
+        "start": "00:15:44.560",
+        "end": "00:16:13.600",
+        "text": "One is the amazing travel button. And that one, once you activate it, and here, by the way, I'd give you false information if I told you 24 hours, but it's 12 hours, actually. So we set it on 12 hours. So once you click that, then a special energy will start vibrating from the phone, which is specifically meant to support anyone who's like on the go right now, whether it's"
+    },
+    {
+        "start": "00:16:13.600",
+        "end": "00:16:38.480",
+        "text": "on the go to the grocery store, or you're traveling to Australia, or you're traveling to visit grandma or whoever. You're in a plane car train. It doesn't really matter about. And it really, it really helps you to get into the here and now to be at ease and at balance. And it's sort of"
+    },
+    {
+        "start": "00:16:38.480",
+        "end": "00:17:04.960",
+        "text": "like you're you're having this special travel energy bubble for an amazing travel. That's pretty much what it does. It automatically turns off after 12 hours. But let's say you have a longer travel or you you will resume your travel. Then after the 12 hours, you can activate it again. And it will again run for 12 hours. So that's pretty much how that works. And I'm sure we'll get into more"
+    },
+    {
+        "start": "00:17:04.960",
+        "end": "00:17:28.800",
+        "text": "details at some point once we launch it. And then the Vax harmonization, we will call that a little bit differently because we need to be a little bit mindful. But for now, that's kind of like the project title, I would say. It it actually is incredible. Absolutely. I've witnessed it several"
+    },
+    {
+        "start": "00:17:28.800",
+        "end": "00:17:57.280",
+        "text": "times. It is meant to harmonize and convert Vax. I'm not even saying the word now because I are, you know, we need to be careful of any kind and of anyone that you have had in the past, whether as a one year old to year old or just recently converts, you know, that into life force"
+    },
+    {
+        "start": "00:17:57.280",
+        "end": "00:18:26.000",
+        "text": "energy. And with that, it transforms any type of energetic contract, blockages, pain, attachments, etc., also into life force energy. And it is very, very powerful. Even light damage that was done, you know, can be countered with this. You know, if"
+    },
+    {
+        "start": "00:18:26.000",
+        "end": "00:18:54.720",
+        "text": "if there's very advanced damage done, you know, then it still does some help. But, you know, there's, you know, we, we, for example, we had a we had a case where someone had developed a in a very young age, actually an absolute terrible cancer. And that was at a stage where we already knew beforehand, you know, there's, you can't do anything anymore there. You know,"
+    },
+    {
+        "start": "00:18:54.720",
+        "end": "00:19:19.040",
+        "text": "it was a quite sad story, actually, but, you know, obviously, you know, if something has developed into something major, you know, then, you know, you can still help. You can still use the process, but, you know, that that person will be gone from birth pretty soon. And, but besides that, it really helps significantly with these issues. And the way it will work is you also press that"
+    },
+    {
+        "start": "00:19:19.040",
+        "end": "00:19:48.480",
+        "text": "button, then it activates and you put it in your thymus gland. And then there will be basically three waves of energy that will go through you and you don't need to do anything. You just let it happen. And we will explain, you know, these three steps. Obviously, once we launch it, with the third step, it really is like the integration of body, mind, and soul. So where you really,"
+    },
+    {
+        "start": "00:19:48.480",
+        "end": "00:20:13.360",
+        "text": "if people can feel this, and a lot of people actually feel this, is that the soul fully enters the body again. This is so profound. It's, it's, it's even if you have like two feet that are, you know, of different size that then the size of the feet, we've seen them even out, right? And things like that. It is very, very profound. It's an absolutely amazing feeling where"
+    },
+    {
+        "start": "00:20:13.360",
+        "end": "00:20:42.640",
+        "text": "suddenly the body from having been sort of disconnected from the soul because of, you know, whatever issues we've, we've gone through, right? That it reenters that it's, it's an amazing feeling. And we've seen many people where this has done some wonders. So that's pretty much what happens. And then, then after that, after you get done, and that takes about, I would say five to 10 minutes, right? Until that process is done,"
+    },
+    {
+        "start": "00:20:42.640",
+        "end": "00:21:11.440",
+        "text": "maybe give it 10 minutes. And then after that, you basically use the, the, the trauma easy and do the trauma work per the steps, you know, that we outline in the PDF for this specific topic. So you're using basically in, you know, vaccination, you know, as the topic, any trauma in regards to vaccination that I've gotten in my life, right? Okay. So you use that. And then you go through"
+    },
+    {
+        "start": "00:21:11.440",
+        "end": "00:21:37.680",
+        "text": "this process for this specific trauma, and also, you know, basically get all this trauma out, and you will feel like a new person after that. Wow. Wow. That's really cool. So there is, so there's a process to, you have to do some inner work along with your traumies, your phone that's got traumies on it in order to do the harmonization, right? And then the travel is just something you"
+    },
+    {
+        "start": "00:21:37.680",
+        "end": "00:22:05.360",
+        "text": "turn on, but you have to have your phone on you. Correct. Okay. Yes. Wow. That sounds amazing. I can't wait. So that's going to happen in the next couple of months then. That is correct. Yes. Okay. Well, thank you so much for giving us the updates for 2024. That's amazing. Can't wait to hear more. And always guys, for you, you know, once these products launch and you've got questions, Phillip, I'm sure you'll be more than happy to kind of we'll do a Q&A about, you know,"
+    },
+    {
+        "start": "00:22:05.360",
+        "end": "00:22:34.720",
+        "text": "collect the questions and provide as many answers as we can in a telegram. And if it's a lot, we'll do a video. Does that sound good? Sounds great. Okay. Great. So hey, everybody, thank you so much. Phillip, thank you for spending time with me today, trying to explain everything about the updates and stuff. So I just want to say thank you for anyone who, you know, this is about late like quantum tech, quantum upgrade, trauma easy, you know, you can the links will be in the video description below. That's where you can find out more about these products. If you're new to"
+    },
+    {
+        "start": "00:22:34.720",
+        "end": "00:23:01.200",
+        "text": "this, you can always reach me on the Teakers Academy and you can reach both of us on telegram. So thank you, Phillip. Really appreciate your time today. And thank you, everyone, for listening to the video. You know, really appreciate you guys's patronage and being members of our community. So thanks, Phillip. Thank you so much, Kay. I really appreciate everything you're doing. Thanks so much for having done these videos. It was also great to chat again. I really missed it."
+    },
+    {
+        "start": "00:23:01.200",
+        "end": "00:23:16.000",
+        "text": "So this was awesome. And thanks to everyone out there, you know, for, you know, supporting the community for being part of the community and for just being so awesome in the world. All right. Thanks a lot. A lot."
+    }
+]

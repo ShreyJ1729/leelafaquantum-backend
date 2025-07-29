@@ -1,0 +1,167 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.520",
+        "text": " - Okay, well, welcome to another Layla Quantum Tech update. Actually, this is our first. You know, we've had a bunch of questions recently in the Telegram chat group about different products and about when things are gonna be available. And so I thought we would just get quick on the line with Philip and just ask some questions and just kind of see what's going on at Layla for all of you folks in the Layla community. So, welcome, Philip, how are you doing today?"
+    },
+    {
+        "start": "00:00:28.520",
+        "end": "00:00:56.720",
+        "text": "- Very good, thanks. - Hey, yeah, so, you know, I think the number one question I'm seeing in the chat group is the QB Mini, or I, that's what I call it, but you know, a lot of people are kind of excited about it. And so, you've mentioned a couple of posts that it's coming. Do you know, do you have any more information about when the, like the little travel quantum block is gonna be available? - I think the first batch we may have available in the end of April."
+    },
+    {
+        "start": "00:00:56.720",
+        "end": "00:01:22.880",
+        "text": "- Okay, and it's probably gonna be sold out very quickly just because we don't have a large quantity yet. We're still figuring out some of the nuts and bolts of the quantum consciousness' levels. And we're gonna finish that up probably this week. And then, yeah, we can get started hopefully in the second half of April, rather the, you know, probably last week of April."
+    },
+    {
+        "start": "00:01:22.880",
+        "end": "00:01:52.160",
+        "text": "And hopefully, pretty soon, this can become a regular product. - Okay, so, you know, the question that I saw centered around it is like, like, how is it in strength compared to the regular quantum block in terms of, you know, the dimension of the field and the strength of it? Is it, is it like, would you have you guys been able to measure the field? - Yeah, that's exactly what we're still fine-tuning right now to make a final decision on how strong we want to have it."
+    },
+    {
+        "start": "00:01:52.160",
+        "end": "00:02:18.960",
+        "text": "So, I can't give an answer yet in regards to that, but yeah, we will certainly make that available as soon as we can. - Okay, and so, but you can still use it as to charge other objects, right? Like you would use a regular block? - That absolutely, you will be able to do, yes, 100%. And it's, and you have one, right? - I have the prototype, the smaller one. - Yep, and it's gonna be one centimeter larger"
+    },
+    {
+        "start": "00:02:18.960",
+        "end": "00:02:48.360",
+        "text": "than the one that you have on all sides. - Okay, all right, 'cause yeah, I was kind of thinking that when this is released, that it's probably gonna be different in energy strength 'cause it's smaller, which is gonna, which, I don't know, this is what I wanna ask and I don't know if you have the answers yet, but, and then the timings for using that little block may be different than the QB, right? Like, would you need to leave stuff in longer? I guess you're figuring that out, but I'm just assuming that because it's smaller,"
+    },
+    {
+        "start": "00:02:48.360",
+        "end": "00:03:16.960",
+        "text": "it's smaller field and that the timings to charge things and to use it to copy frequencies may be different. Is that, would that be accurate? That it will be different like you like? - Most likely, it'll be a little bit different, but again, it depends on where we end up with, with the quantum consciousness level and the actual charge that will carry. And then, yeah, we'll make it available and we'll tell exactly, is this gonna be comparable now"
+    },
+    {
+        "start": "00:03:16.960",
+        "end": "00:03:45.680",
+        "text": "time-wise or not? Sorry, I don't think more information I literally don't yet. - Oh, sure, yeah, maybe we can do a tutorial on that guy when he comes out, 'cause we just finished the one with the QB. Okay, so then on the opposite side of that spectrum is this now 12-inch, big thing, you know, big quantum block. Is it a big infinity block, right? The one that was, that one smoothie stores using? So it's basically a 12-inch by 12-inch infinity block, is that correct? - Yes, that's correct."
+    },
+    {
+        "start": "00:03:45.680",
+        "end": "00:04:13.400",
+        "text": "- Is that a new product or is that just a one-off just for that company? - Well, it was a one-off and then we gave it away in the last giveaway and there are a lot of people interested in it, so if we've gotten several messages in that regard, so we're thinking about adding it, but it's, I'm trying to put the brakes on in that regard because it becomes almost overwhelming with the amount of products"
+    },
+    {
+        "start": "00:04:13.400",
+        "end": "00:04:41.360",
+        "text": "that the handling is tough, you know, because it's all energy products. You can't mix stuff. You can't, you know, it's not that trivial. And from that perspective, I think that will take longer and we were thinking maybe to do a pre-order for this one or, you know, where we say, okay, hey, you know, the ones that are really interested, you know, we wanna, you know, make it available to you and then just tell us, if you're interested,"
+    },
+    {
+        "start": "00:04:41.360",
+        "end": "00:05:10.400",
+        "text": "you can pre-order it and then we'll make it once, but we may never have it really as a regular product on the website. That's at the moment where I stand because that would be logistically easier to handle. But we would then also at least make it available to the ones that really wanna have it. - Okay, and then, okay, and then, oh, you know, that actually reminds me, for the mini, will there be a pre-order for the mini or is this gonna be, you'll announce it"
+    },
+    {
+        "start": "00:05:10.400",
+        "end": "00:05:40.080",
+        "text": "when it's available for sale and it's, you're gonna sell it until you run out? - It's a good question though. Either way, we could do it, we could just launch it and then we would probably have to tell you this. We may just have like 20 or 25 of these and then it's gonna be gone, we have to reorder, but maybe we'll do a pre-order for that as well in the beginning, but that one, we're set that we're gonna make this a regular product."
+    },
+    {
+        "start": "00:05:40.080",
+        "end": "00:06:09.360",
+        "text": "- Okay, great. And then, you know, the screws, right? We've got, you've just got another product out there that's new is a set of screws that are designed to hold the Infinity Block three plates together, right? So that you can separate the plates without using rods to charge bigger things. So you just did a giveaway of some screw sets that are basically the first batch, but are those available for sale yet?"
+    },
+    {
+        "start": "00:06:09.360",
+        "end": "00:06:38.200",
+        "text": "Or when will they be? 'Cause I definitely need them. (laughs) - We'll get them and you're in the lucky position that you're talking to me right now, so I'm committing to send you some. - Awesome, yeah, 'cause I do the Jack Newell method with the zip ties, right? But it's just like, I hate dealing with zip ties, 'cause when you gotta cut 'em off, it's just such a pain. But yeah, yeah, that's great. So are those, like, what's the timeframe on those guys? Come in."
+    },
+    {
+        "start": "00:06:38.200",
+        "end": "00:07:07.520",
+        "text": "So we have our first batch, and it's not so many. So the idea is to add them as an option, when you have your Infinity Block and you wanna purchase it, that you can add it as an option, and likely we'll make it as staying the loan product as well, just so that the ones that already have an Infinity Block can also order it, and it's definitely not gonna be"
+    },
+    {
+        "start": "00:07:07.520",
+        "end": "00:07:36.160",
+        "text": "expensive by any means. We're really trying to just cover the cost of the logistics and the manufacturing and all of that. And we thought this is just an amazing add-on for the Infinity Block, because for the people that don't know what we're talking about, the Infinity Block has three plates on the top and three plates on the bottom. But if you wanted to put your whole body in it, for example, or charge larger objects, then you need to unscrew everything,"
+    },
+    {
+        "start": "00:07:36.160",
+        "end": "00:08:05.960",
+        "text": "and it's been a little bit difficult for people to do that, and because you wanna keep the distances of those plates, those three plates on the top and three on the bottom, and people tend to use zip ties and everything. But this is what the community is so awesome for, because they had great ideas, and then they started asking, couldn't you make something for this? And that's how we came up with this truth. And so thank you to everyone for that. And soon, I think maybe in the end of April,"
+    },
+    {
+        "start": "00:08:05.960",
+        "end": "00:08:35.480",
+        "text": "we could have the first few that can be ordered, and then probably, I don't know, like the end of May or so this hopefully could become a regular product add-on. - Okay, great, and then another similar thing that was brought up in the past, just trying to get an update on a new product, which was the QBlock carrier bag, that you'd mentioned that you were looking to source. I don't know, 'cause you were so busy in the last two weeks, you might have missed."
+    },
+    {
+        "start": "00:08:35.480",
+        "end": "00:09:02.440",
+        "text": "There was this discussion in the chat group about people that are traveling with their blocks, and because they're getting jostled around, that the screws come loose. And so we were having a big discussion like how do you tighten the screws down so they don't jiggle loose, right, when they're being moved around, and we were thinking Teflon tape and stuff, but then I reminded everybody that, \"Hey, there's a bag, and you could either buy it, \"I don't know, Walmart or something,\" but you were gonna actually kind of,"
+    },
+    {
+        "start": "00:09:02.440",
+        "end": "00:09:31.680",
+        "text": "so is there a status on a bag to carry your Q and I block for traveling? - Yes, we worked on that actually, and that was also an impulse from the group, so thank you, and so we will be getting samples, probably in the next two weeks, I'm assuming, and actually I'll be traveling a little bit, so mid-April, we should have the samples here at the latest,"
+    },
+    {
+        "start": "00:09:32.240",
+        "end": "00:10:00.200",
+        "text": "and they will already have the mandala on it, so they should look nice, and they're supposed to be exactly fitting for the blocks, but I wanna see them really with my own hands, and not just on pictures and everything, and then if I'm happy with that, then I can let you guys know, and then we'll put in a really big order,"
+    },
+    {
+        "start": "00:10:00.200",
+        "end": "00:10:30.360",
+        "text": "and we may even think about figuring out a way if we could charge the bag in a way where it would contain the fields, not sure that would be something, maybe a question to the community, if that would be of interest, then we can look into that, but maybe it's none of interest, 'cause maybe you actually wanna have the full field, even if you have it in the bag, so. Oh yeah, that's what I didn't even think about that."
+    },
+    {
+        "start": "00:10:30.360",
+        "end": "00:10:58.400",
+        "text": "Okay, yeah, all right, so hey community, when you guys see the video, chime in, if you want the carrier bag to act like a purple bag, which Emma lovingly calls the quantum sleeping bag, I love that phrase, it's a sleeping bag for quantum blocks, so if you wanted to hold it in, so that if it's in that bag, it's not affecting anything around it, or just be a regular bag, so chime in in the chat group, and we'll collect the comments,"
+    },
+    {
+        "start": "00:10:58.400",
+        "end": "00:11:28.320",
+        "text": "so last product update question is frequencies, right now we've got the full set out there, are there any plans to add new frequencies that's coming up in the near future? Yes, a very exciting one, and so we had work actually for many, many months already on an ADHD frequency, it's not gonna be called that way, but it's been tested and all of that, but it's been optimized,"
+    },
+    {
+        "start": "00:11:28.320",
+        "end": "00:11:56.040",
+        "text": "so it was interesting because, I was always asked to know when can you release this specific frequency and all of that, and I always put on the brakes, and now I know why, because at some point, we figured together with Roman that we actually can significantly improve it, and make it not only for, it's gonna be the focus energy, it's gonna be called focus, and it's gonna be able to serve people"
+    },
+    {
+        "start": "00:11:56.040",
+        "end": "00:12:24.960",
+        "text": "that have an ADHD or ADHD related problem, but also people with dementia, Alzheimer, would be the ones that could benefit from this, and yeah, everyone that's just having issues with focusing and being present, getting into a specific task, or something you're doing,"
+    },
+    {
+        "start": "00:12:24.960",
+        "end": "00:12:52.880",
+        "text": "a disclaimer of course, our products are not intended to diagnose, treat, or prevent any disease, I wanna mention that here, is we're not doing anything for specific diseases, but we figured once we combined some of these frequencies that really there is benefit that can be seen, and yeah, so it'll be an interesting one, and I think we'll launch it in the end of April."
+    },
+    {
+        "start": "00:12:52.880",
+        "end": "00:13:21.800",
+        "text": "- Oh, awesome, okay, so is that different than the frequency set you're working on with the autism study? Is that like a separate, the autism will be a separate frequency? 'Cause it sounds like that's something autistic individuals could benefit from having a focus frequency, but I think you mentioned in the past that with the study that's being done in India, that there might be a frequency just for that, that particular condition."
+    },
+    {
+        "start": "00:13:21.800",
+        "end": "00:13:49.800",
+        "text": "Is that in the works? - That's slightly different, that one's slightly different, and we have that already, not sure if we're gonna put it out there publicly, but we may, I have to think about it, because yeah, that one would be very specific for that, but then it would be for a specific condition, and I try to shy away from having something"
+    },
+    {
+        "start": "00:13:49.800",
+        "end": "00:14:18.280",
+        "text": "for a specific condition if that makes sense. - No, yeah, it does. - Don't live in this world where you need to be careful what you do. - Yeah, I hear you. Okay, yeah, I was just wondering, 'cause we do get people asking about it because they hear about the study, which is ongoing, and it's still everything's being tested and evaluated, so a lot of patients are gonna be required on that particular one, 'cause it's a one year study, but okay. So other than what I mentioned, anything else coming up that you might wanna share"
+    },
+    {
+        "start": "00:14:18.280",
+        "end": "00:14:46.840",
+        "text": "with the community in terms of products and frequencies and Layla Q? - Yeah, nothing new except the really big news that'll be out probably in May, and just an update because many people have asked, the DNA and cell protector card has been out of stock for several weeks now, and we've heard you, we've been working hard on it, so also that one, well, that may already be available next week,"
+    },
+    {
+        "start": "00:14:46.840",
+        "end": "00:15:15.360",
+        "text": "so we've been producing and lasering currently, so I hope I can get it done relatively soon. - Yeah, you need more Phillips in the factory. (laughs) - I'm working on it. - Your next card should be a clone card. Make more Phillips. All right, well, thank you very much for your time. I thought this would be beneficial for the community, just 'cause so many people asking about all these different things,"
+    },
+    {
+        "start": "00:15:15.360",
+        "end": "00:15:25.760",
+        "text": "so this is the Layla Q update today is March 31, 2022, and thank you, Phil, I appreciate the update. - Thank you, Kay, I appreciate it."
+    }
+]

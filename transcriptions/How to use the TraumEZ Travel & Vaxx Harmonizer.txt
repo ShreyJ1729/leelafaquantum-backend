@@ -1,0 +1,940 @@
+
+[00:00:00.000 --> 00:00:03.000]   Hello, everyone, and welcome to another Tingers Academy video.
+[00:00:03.000 --> 00:00:05.920]   I'm your host, Kay Elmer, and I've got on the phone Philip,
+[00:00:05.920 --> 00:00:08.840]   some more von Holtzendorf of Leila Quantum Tech.
+[00:00:08.840 --> 00:00:12.520]   Now, this is going to be a tutorial on how to use the travel
+[00:00:12.520 --> 00:00:16.720]   and Vax harmonizer feature that comes with TROM-EZ.
+[00:00:16.720 --> 00:00:19.280]   All right, so before I jump into anything,
+[00:00:19.280 --> 00:00:21.160]   let me do our normal disclaimer.
+[00:00:21.160 --> 00:00:23.000]   Neither Leila Quantum Tech nor the Tingers Academy
+[00:00:23.000 --> 00:00:25.720]   will recommend or endorse any specific tests,
+[00:00:25.720 --> 00:00:27.960]   positions, procedures, opinions, or other information
+[00:00:27.960 --> 00:00:30.120]   that may be mentioned in this video.
+[00:00:30.120 --> 00:00:32.360]   Reliance on any information appearing.
+[00:00:32.360 --> 00:00:33.920]   And discussed in this video is solely
+[00:00:33.920 --> 00:00:35.280]   at everyone's own risk.
+[00:00:35.280 --> 00:00:38.520]   Statements made have not been evaluated by the EFSA or FDA
+[00:00:38.520 --> 00:00:41.080]   or any governmental derivatives thereof.
+[00:00:41.080 --> 00:00:42.640]   Leila Quantum Tech products and products
+[00:00:42.640 --> 00:00:44.600]   that Leila Quantum Tech may represent
+[00:00:44.600 --> 00:00:47.640]   are not intended to diagnose, treat, cure, or prevent
+[00:00:47.640 --> 00:00:48.560]   any disease.
+[00:00:48.560 --> 00:00:51.520]   All right, so hey, Philip, how are you today?
+[00:00:51.520 --> 00:00:54.400]   - No, I'm doing fine, thank you, how are you?
+[00:00:54.400 --> 00:00:56.560]   - I've almost got the disclaimer memorized.
+[00:00:56.560 --> 00:00:58.400]   Yeah, I'm doing pretty good.
+[00:00:58.400 --> 00:01:01.600]   Okay, so today, you know, this is going to be the second
+[00:01:01.600 --> 00:01:04.400]   or the third tutorial on TROM-EZ.
+[00:01:04.400 --> 00:01:08.120]   So we've got one on how to use TROM-EZ for trauma release.
+[00:01:08.120 --> 00:01:11.920]   I recorded one on how to just subscribe and set up the app.
+[00:01:11.920 --> 00:01:15.360]   And then this tutorial is going to be
+[00:01:15.360 --> 00:01:18.680]   as Philip to come online and kind of explain
+[00:01:18.680 --> 00:01:20.600]   how do you, you know, how do you use,
+[00:01:20.600 --> 00:01:23.840]   if that's even an appropriate term, the travel feature?
+[00:01:23.840 --> 00:01:26.760]   And then how do you use the VAX harmonizer?
+[00:01:26.760 --> 00:01:28.080]   You're like, what do you do when you turn it on,
+[00:01:28.080 --> 00:01:29.840]   if you happen to do anything?
+[00:01:29.840 --> 00:01:31.920]   So that's what I've asked him to do.
+[00:01:31.920 --> 00:01:36.920]   Now, if you recall from, if you've seen the subscribe video,
+[00:01:36.920 --> 00:01:39.960]   you'll know that when you turn on your app,
+[00:01:39.960 --> 00:01:42.760]   you know, it's really simple, you just log in
+[00:01:42.760 --> 00:01:46.040]   and then you just click right here on the travel icon.
+[00:01:46.040 --> 00:01:48.040]   And once you've seen that green arrow
+[00:01:48.040 --> 00:01:50.200]   on the green check mark, it says right here,
+[00:01:50.200 --> 00:01:51.720]   the service has been activated
+[00:01:51.720 --> 00:01:54.440]   and it's going to run for 12 hours straight, okay?
+[00:01:54.440 --> 00:01:55.600]   And that's how you turn it on.
+[00:01:55.600 --> 00:01:58.360]   It just turn on and it runs and it turns itself off.
+[00:01:58.360 --> 00:02:01.720]   Now, the other one is the VAX harmonization feature.
+[00:02:01.720 --> 00:02:03.880]   And then same thing, if you want to run that one,
+[00:02:03.880 --> 00:02:06.280]   you click that guy, you get the little green check
+[00:02:06.280 --> 00:02:08.280]   and then you get the confirmation that it's running
+[00:02:08.280 --> 00:02:10.000]   and that's going to run for 30 minutes.
+[00:02:10.000 --> 00:02:12.000]   Is that correct, Philip?
+[00:02:12.000 --> 00:02:12.880]   - That is correct, yeah.
+[00:02:12.880 --> 00:02:14.680]   - Okay, and that's how you turn them on.
+[00:02:14.680 --> 00:02:16.920]   And so now they don't, you can't turn them off,
+[00:02:16.920 --> 00:02:19.480]   you just turn them on and then they start running.
+[00:02:19.480 --> 00:02:21.200]   And so let's get into the detail.
+[00:02:21.200 --> 00:02:26.200]   One, yeah, you actually can turn off the travel feature.
+[00:02:26.200 --> 00:02:28.640]   You can turn it off yourself,
+[00:02:28.640 --> 00:02:33.000]   but you cannot turn off the VAX activation.
+[00:02:33.000 --> 00:02:35.040]   So that just runs out after 30 minutes
+[00:02:35.040 --> 00:02:37.760]   and then you could reactivate it
+[00:02:37.760 --> 00:02:42.200]   if you wanted it, you know, for your wife or whatever.
+[00:02:42.200 --> 00:02:43.400]   - Okay, yeah, I just noticed that.
+[00:02:43.400 --> 00:02:45.200]   I didn't, yeah, I was been playing around
+[00:02:45.200 --> 00:02:47.440]   with the app for a couple of days now.
+[00:02:47.440 --> 00:02:48.840]   Oh, okay, so you can turn this off.
+[00:02:48.840 --> 00:02:49.960]   I just tried it and it worked.
+[00:02:49.960 --> 00:02:50.960]   Okay, great.
+[00:02:50.960 --> 00:02:53.360]   Okay, so then you can turn off travel,
+[00:02:53.360 --> 00:02:55.000]   cannot turn off VAX.
+[00:02:55.000 --> 00:02:57.000]   And I also noticed too, if this is correct,
+[00:02:57.000 --> 00:02:59.760]   well, you can do both at the same time, right?
+[00:02:59.760 --> 00:03:01.320]   'Cause I tested that and they both,
+[00:03:01.320 --> 00:03:04.120]   you can both turn them both on at the same time.
+[00:03:04.120 --> 00:03:06.560]   - Yeah, you could, you know,
+[00:03:06.560 --> 00:03:09.720]   I don't necessarily would do that,
+[00:03:09.720 --> 00:03:11.840]   but it's, yeah, you could do that.
+[00:03:11.840 --> 00:03:13.920]   - Okay, all right, so that's how you turn it on.
+[00:03:13.920 --> 00:03:17.080]   So now for the travel, if you guys know, right,
+[00:03:17.080 --> 00:03:20.200]   if you see this a little learn more URL here,
+[00:03:20.200 --> 00:03:21.880]   if you click on the learn more,
+[00:03:21.880 --> 00:03:23.400]   you're gonna see the instructions.
+[00:03:23.400 --> 00:03:24.640]   And so these are the instructions
+[00:03:24.640 --> 00:03:26.200]   for the travel feature.
+[00:03:26.200 --> 00:03:28.200]   So let's say Phillip, the question is,
+[00:03:28.200 --> 00:03:31.360]   is I turn this thing on, do I need to do anything?
+[00:03:31.360 --> 00:03:35.680]   - No, you don't need to place the phone
+[00:03:35.680 --> 00:03:37.840]   at a specific point.
+[00:03:37.840 --> 00:03:40.240]   It doesn't need to be in the thymos gland,
+[00:03:40.240 --> 00:03:42.760]   but you wanna have the phone with you obviously.
+[00:03:42.760 --> 00:03:47.520]   So if you travel, don't leave the phone at home, right?
+[00:03:47.520 --> 00:03:49.880]   Then it's not gonna do you any good.
+[00:03:49.880 --> 00:03:52.200]   So that's the only thing, have the phone with you
+[00:03:52.200 --> 00:03:56.520]   as you would usually, and then it just runs.
+[00:03:56.520 --> 00:03:59.240]   - Okay, so what's the distance?
+[00:03:59.240 --> 00:04:02.160]   Like, is there like, I think in the instruction somewhere,
+[00:04:02.160 --> 00:04:05.920]   it says, I believe it's seven meters is the field
+[00:04:05.920 --> 00:04:07.480]   around the phone is like,
+[00:04:07.480 --> 00:04:10.400]   you just need to be near your phone within seven meters.
+[00:04:10.400 --> 00:04:13.680]   Is that an accurate distance or would you happen to know?
+[00:04:13.680 --> 00:04:16.720]   - Yeah, I would suggest to be in within a meter
+[00:04:16.720 --> 00:04:21.200]   of the phone, three feet or so,
+[00:04:21.200 --> 00:04:26.200]   to have the full blown energy that you want there.
+[00:04:26.200 --> 00:04:31.320]   But indeed, the field could be seen and perceived
+[00:04:31.320 --> 00:04:33.640]   within about seven meters.
+[00:04:33.640 --> 00:04:38.640]   But then, as always, it's the weakest on the outside, right?
+[00:04:38.640 --> 00:04:43.120]   So when you're six meters away,
+[00:04:43.120 --> 00:04:45.680]   you're not gonna get the full benefit.
+[00:04:45.680 --> 00:04:47.480]   - Okay, and so the travel feature,
+[00:04:47.480 --> 00:04:49.720]   like what's your quick elevator pitch
+[00:04:49.720 --> 00:04:52.960]   on what the travel feature is?
+[00:04:52.960 --> 00:04:54.640]   'Cause it seems like it's like an energy
+[00:04:54.640 --> 00:04:56.800]   that's coming from your phone, right?
+[00:04:56.800 --> 00:04:59.240]   You need to be like within three feet of it,
+[00:04:59.240 --> 00:05:01.920]   and you use it for like the purpose of traveling.
+[00:05:01.920 --> 00:05:04.120]   But like, what really is that?
+[00:05:04.120 --> 00:05:07.200]   How would you describe that, quote, travel energy?
+[00:05:07.200 --> 00:05:09.120]   - Yeah, it's been developed specifically
+[00:05:09.120 --> 00:05:12.600]   for these regular average issues
+[00:05:12.600 --> 00:05:14.840]   that people have when they travel,
+[00:05:14.840 --> 00:05:18.680]   that they get into stress and to some extent,
+[00:05:18.680 --> 00:05:20.480]   also anxiety, right?
+[00:05:20.480 --> 00:05:22.520]   Because things are, you know,
+[00:05:22.520 --> 00:05:27.360]   and especially when things happen, fears,
+[00:05:27.360 --> 00:05:30.440]   we tend to not be in the here now when we travel,
+[00:05:30.440 --> 00:05:33.280]   but rather in the, okay, we forgot something,
+[00:05:33.280 --> 00:05:37.800]   or we will be somewhere tomorrow and all of that.
+[00:05:37.800 --> 00:05:42.120]   So it pulls you basically into the here and now,
+[00:05:42.120 --> 00:05:44.600]   it supports you with an energy bubble
+[00:05:44.600 --> 00:05:49.600]   to feel balanced and really feel at ease with things.
+[00:05:49.600 --> 00:05:54.580]   And yeah, everything also the,
+[00:05:54.580 --> 00:05:57.840]   you know how it works with these attractor fields
+[00:05:57.840 --> 00:06:00.760]   that David Hawkins talked about, right?
+[00:06:00.760 --> 00:06:05.760]   So what we vibrate and what we have in our field,
+[00:06:05.760 --> 00:06:07.720]   we pull into our lives.
+[00:06:07.720 --> 00:06:11.320]   So if we have strong anxiety there,
+[00:06:11.320 --> 00:06:13.760]   and the fear that something goes wrong,
+[00:06:13.760 --> 00:06:17.040]   or anger because, you know, I don't know,
+[00:06:17.040 --> 00:06:20.480]   we had to pay extra for a bag at the airport
+[00:06:20.480 --> 00:06:22.080]   and we didn't know about it, right?
+[00:06:22.080 --> 00:06:23.840]   All these things then accumulate,
+[00:06:23.840 --> 00:06:28.840]   we're fully stressed and then it just gets worse from there.
+[00:06:28.840 --> 00:06:31.960]   And then basically that energy is there,
+[00:06:31.960 --> 00:06:33.680]   that doesn't even happen, you know,
+[00:06:33.680 --> 00:06:37.600]   that whatever happens, we can take it at ease and with ease
+[00:06:37.600 --> 00:06:42.040]   and that things just develop in a nice, beautiful way
+[00:06:42.040 --> 00:06:45.640]   and way easier than it would otherwise happen.
+[00:06:45.640 --> 00:06:48.120]   That's pretty much what you can think of.
+[00:06:48.120 --> 00:06:50.440]   And it's just to reiterate this,
+[00:06:50.440 --> 00:06:54.400]   this is not just for a travel that would be overseas
+[00:06:54.400 --> 00:06:55.760]   or something like that.
+[00:06:55.760 --> 00:06:59.680]   You can turn this on if you just go groceries shopping, right?
+[00:06:59.680 --> 00:07:03.320]   Because there's also a lot of potential stress
+[00:07:03.320 --> 00:07:04.760]   that you can encounter.
+[00:07:04.760 --> 00:07:07.240]   And it's also a good way to test it, right?
+[00:07:07.240 --> 00:07:11.520]   You know, let's what I was thinking
+[00:07:11.520 --> 00:07:14.680]   was people who have to commute to work,
+[00:07:14.680 --> 00:07:18.400]   you know, the stress of driving and traffic.
+[00:07:18.400 --> 00:07:20.760]   - Yeah, exactly, yeah, exactly.
+[00:07:20.760 --> 00:07:23.960]   Especially LA or New York City, probably.
+[00:07:23.960 --> 00:07:25.600]   - Oh, so how can you go to work?
+[00:07:25.600 --> 00:07:27.480]   - Oh, yeah, I hear that.
+[00:07:27.480 --> 00:07:29.960]   So how is this different than the energy you get
+[00:07:29.960 --> 00:07:32.360]   for the quantum upgrade you subscription?
+[00:07:34.200 --> 00:07:39.200]   - Well, that is just a pure natural quantum energy field
+[00:07:39.200 --> 00:07:43.280]   that helps you to increase your consciousness level
+[00:07:43.280 --> 00:07:45.400]   and just vibrates very high.
+[00:07:45.400 --> 00:07:48.880]   So that is certainly already extremely positive.
+[00:07:48.880 --> 00:07:52.680]   And then you can use specific frequencies.
+[00:07:52.680 --> 00:07:55.320]   You could use the inner piece frequency, for example.
+[00:07:55.320 --> 00:07:58.320]   It has some similar effects, of course,
+[00:07:58.320 --> 00:08:01.280]   in regards to use, staying in balance.
+[00:08:01.280 --> 00:08:03.760]   But this feature, this Trump easy feature,
+[00:08:03.760 --> 00:08:06.720]   is just targeted towards this, right?
+[00:08:06.720 --> 00:08:08.920]   The inner piece isn't targeted for this,
+[00:08:08.920 --> 00:08:11.200]   the quantum upgrade isn't targeted
+[00:08:11.200 --> 00:08:13.440]   for this specific use case.
+[00:08:13.440 --> 00:08:16.480]   So there are nuances.
+[00:08:16.480 --> 00:08:18.840]   - Okay, all right, so it's like your frequency, okay.
+[00:08:18.840 --> 00:08:21.440]   But it's an energy with inner frequency.
+[00:08:21.440 --> 00:08:22.280]   Or a figure with inner frequency.
+[00:08:22.280 --> 00:08:23.680]   - And you can have the, exactly,
+[00:08:23.680 --> 00:08:26.200]   you can have the quantum upgrade for you turned on
+[00:08:26.200 --> 00:08:27.680]   and even a frequency.
+[00:08:27.680 --> 00:08:28.840]   But when you're traveling,
+[00:08:28.840 --> 00:08:30.960]   you can still turn this feature on
+[00:08:30.960 --> 00:08:35.760]   and it'll just make you be in a travel bubble, if you will.
+[00:08:35.760 --> 00:08:37.120]   - Right, okay.
+[00:08:37.120 --> 00:08:38.080]   All right, sounds good.
+[00:08:38.080 --> 00:08:39.040]   So that's pretty much it.
+[00:08:39.040 --> 00:08:41.280]   Just turn it on and keep the phone near you
+[00:08:41.280 --> 00:08:43.600]   and it runs for 12 hours.
+[00:08:43.600 --> 00:08:44.560]   If you want to turn it off,
+[00:08:44.560 --> 00:08:47.040]   just turn it off using your app.
+[00:08:47.040 --> 00:08:49.120]   Okay, that seems pretty straightforward.
+[00:08:49.120 --> 00:08:51.160]   Now this one's a little bit more complicated,
+[00:08:51.160 --> 00:08:52.240]   the VEX harmonizer.
+[00:08:52.240 --> 00:08:55.080]   So now the instructions are kind of long.
+[00:08:55.080 --> 00:08:58.200]   I just kind of condensed them down to the nine steps.
+[00:08:58.200 --> 00:09:00.800]   So I guess first things Phillip question, right,
+[00:09:00.800 --> 00:09:04.040]   is I turn it on, I get the green check.
+[00:09:04.040 --> 00:09:05.680]   It's only going to run for 30 minutes.
+[00:09:05.680 --> 00:09:07.400]   So what, what's, what do I,
+[00:09:07.400 --> 00:09:10.120]   so I guess what's the first thing I should be doing?
+[00:09:10.120 --> 00:09:12.160]   You know, or is it just, you know, follow these steps?
+[00:09:12.160 --> 00:09:14.080]   Or could you kind of walk you through
+[00:09:14.080 --> 00:09:19.080]   what somebody should be doing to, you know, to use this feature?
+[00:09:19.080 --> 00:09:22.840]   - Well, I guess the first question I would have for you
+[00:09:22.840 --> 00:09:25.920]   is if the word sieving is actually the word
+[00:09:25.920 --> 00:09:28.600]   that anyone would use in the US,
+[00:09:28.600 --> 00:09:31.240]   that's just the direct translation,
+[00:09:31.240 --> 00:09:34.760]   you know, of the German word and how it is energetically,
+[00:09:34.760 --> 00:09:37.200]   but we could also replace it with harmonizing
+[00:09:37.200 --> 00:09:39.600]   so that we just have a question for you.
+[00:09:39.600 --> 00:09:43.560]   And then, you know, I can move on into explaining.
+[00:09:43.560 --> 00:09:45.360]   - Yeah, I didn't know.
+[00:09:45.360 --> 00:09:48.000]   I just copied and faced it.
+[00:09:48.000 --> 00:09:50.480]   I figured you'd explain what sieving meant.
+[00:09:50.480 --> 00:09:52.400]   Okay, so it means harmonizing.
+[00:09:52.400 --> 00:09:53.480]   Okay, all right.
+[00:09:53.480 --> 00:09:56.840]   - I think I had told the team already to replace it
+[00:09:56.840 --> 00:09:58.560]   like a couple of weeks ago.
+[00:09:58.560 --> 00:09:59.400]   - Okay.
+[00:09:59.400 --> 00:10:01.200]   - Currently, it hasn't happened so far.
+[00:10:01.200 --> 00:10:04.720]   I'll ask again, when I read this, I was like,
+[00:10:04.720 --> 00:10:08.320]   "No, I've never heard this in English."
+[00:10:08.320 --> 00:10:10.040]   (laughs)
+[00:10:10.040 --> 00:10:14.720]   Okay, anyway, so what's important is that
+[00:10:14.720 --> 00:10:18.640]   you don't need to like do anything in these steps, right?
+[00:10:18.640 --> 00:10:22.240]   What you do, the only thing you do is basically
+[00:10:22.240 --> 00:10:27.040]   that you're basically mentally preparing yourself
+[00:10:27.040 --> 00:10:28.160]   that you're doing this now,
+[00:10:28.160 --> 00:10:30.280]   which you're gonna do anyway when you do this, right?
+[00:10:30.280 --> 00:10:31.720]   There's nothing more.
+[00:10:31.720 --> 00:10:35.200]   And you put your phone on the thymus gland.
+[00:10:35.200 --> 00:10:37.840]   And then you let it happen.
+[00:10:37.840 --> 00:10:42.600]   So the energy field activates when you press that button.
+[00:10:42.600 --> 00:10:46.280]   There's also not a five minute lag time or something.
+[00:10:46.280 --> 00:10:48.920]   It starts pretty much right away.
+[00:10:48.920 --> 00:10:51.000]   You press the button, you put it on your thymus gland,
+[00:10:51.000 --> 00:10:53.560]   you lay down, you can also sit down if you want.
+[00:10:53.560 --> 00:10:56.560]   I mean, I personally prefer to lay down.
+[00:10:56.560 --> 00:10:58.120]   And then it starts.
+[00:10:58.120 --> 00:11:00.640]   And it comes basically in three waves.
+[00:11:00.640 --> 00:11:03.800]   And the energy waves come from the feet first.
+[00:11:03.800 --> 00:11:06.680]   So they go through you.
+[00:11:06.680 --> 00:11:11.680]   And you, if you're very sensitive to energy,
+[00:11:11.680 --> 00:11:14.680]   you'll actually feel that.
+[00:11:14.680 --> 00:11:17.660]   And then it goes through the first time.
+[00:11:18.920 --> 00:11:20.800]   Then it goes through the second time again,
+[00:11:20.800 --> 00:11:23.560]   starting with the feet all the way to the top,
+[00:11:23.560 --> 00:11:25.800]   to the top of your crown.
+[00:11:25.800 --> 00:11:30.520]   And then the third round goes one more time
+[00:11:30.520 --> 00:11:33.760]   and activates the chakras in that moment.
+[00:11:33.760 --> 00:11:37.600]   We, so depending on what issues we have
+[00:11:37.600 --> 00:11:42.600]   in regards to medication, possibly misuse,
+[00:11:42.600 --> 00:11:45.520]   possibly alcohol misuse or other drug misuse
+[00:11:45.520 --> 00:11:50.520]   or the past in regards to any specific Vax, right?
+[00:11:50.520 --> 00:11:55.040]   There's possibilities that in many cases
+[00:11:55.040 --> 00:11:57.320]   actually very high probabilities,
+[00:11:57.320 --> 00:11:59.720]   especially in regards to the Vax,
+[00:11:59.720 --> 00:12:04.000]   that the sole isn't in the body, right?
+[00:12:04.000 --> 00:12:09.000]   The sole is basically either sort of cut off
+[00:12:09.000 --> 00:12:11.720]   or it's standing right next to the body
+[00:12:11.720 --> 00:12:13.560]   or something like that, right?
+[00:12:13.560 --> 00:12:16.000]   And so in this process, in this third process,
+[00:12:16.000 --> 00:12:19.280]   that's really the most powerful
+[00:12:19.280 --> 00:12:23.400]   where most people actually notice something
+[00:12:23.400 --> 00:12:27.400]   is that the sole really enters fully in the body.
+[00:12:27.400 --> 00:12:32.120]   So it's the reunion, if you will.
+[00:12:32.120 --> 00:12:35.320]   And that can actually sometimes be physically felt
+[00:12:35.320 --> 00:12:39.440]   by even a foot getting longer that was shorter
+[00:12:39.440 --> 00:12:42.560]   than the other one or that you feel suddenly your spine
+[00:12:42.560 --> 00:12:47.560]   gets longer and that you feel bigger physically a little.
+[00:12:47.560 --> 00:12:50.200]   And so that's how that can be noticed.
+[00:12:50.200 --> 00:12:52.840]   And then this is done.
+[00:12:52.840 --> 00:12:56.080]   It takes about 10 to 15 minutes.
+[00:12:56.080 --> 00:12:58.360]   And so then the question is there,
+[00:12:58.360 --> 00:13:02.240]   and after 15 minutes, you know, you're done.
+[00:13:02.240 --> 00:13:04.200]   Unless something is calling you,
+[00:13:04.200 --> 00:13:06.400]   oh, maybe I'm still working through stuff
+[00:13:06.400 --> 00:13:10.520]   and you would be maybe the zero point 5%
+[00:13:10.520 --> 00:13:14.160]   where it may take a couple of minutes longer.
+[00:13:14.160 --> 00:13:18.080]   But yeah, after 15 minutes, usually it's all done.
+[00:13:18.080 --> 00:13:21.680]   And in some cases already after 10 minutes,
+[00:13:21.680 --> 00:13:23.480]   why do we leave it on for 30 minutes?
+[00:13:23.480 --> 00:13:28.480]   That's just just a buffer to be on the safe side
+[00:13:28.480 --> 00:13:33.240]   and also that it cannot be reactivated like right after.
+[00:13:33.240 --> 00:13:35.040]   That's pretty much it.
+[00:13:35.040 --> 00:13:35.960]   - Wow, okay.
+[00:13:35.960 --> 00:13:37.600]   So just-- - It's a powerful feature.
+[00:13:37.600 --> 00:13:39.840]   - Yes, oh yeah. - Really powerful feature.
+[00:13:39.840 --> 00:13:43.280]   It can be used also for any type of shedding
+[00:13:43.280 --> 00:13:45.520]   that is encountered or can be encountered.
+[00:13:45.520 --> 00:13:47.480]   It's, you know, even, I don't know.
+[00:13:47.480 --> 00:13:51.280]   Maybe you don't drink alcohol anymore usually,
+[00:13:51.280 --> 00:13:53.360]   but you go out on a Saturday night
+[00:13:53.360 --> 00:13:56.160]   and meet your best friends and oh my God.
+[00:13:56.160 --> 00:13:59.040]   And you come home and the next day you feel like crap.
+[00:13:59.040 --> 00:14:01.840]   Well, you obviously drank too much and all of that.
+[00:14:01.840 --> 00:14:05.880]   So it'd be wise at least energetically to do this here
+[00:14:05.880 --> 00:14:09.240]   because it will calm your energy system.
+[00:14:09.240 --> 00:14:14.240]   It'll harmonize, you know, all these substances basically.
+[00:14:14.240 --> 00:14:20.680]   And then your body will have a much, much faster recovery
+[00:14:20.680 --> 00:14:22.760]   time in that regard also.
+[00:14:22.760 --> 00:14:26.960]   - Okay, so this is like energy detox from anything
+[00:14:26.960 --> 00:14:30.080]   that we've, you know, subjected ourselves to in our lives.
+[00:14:30.080 --> 00:14:32.160]   Okay, so it's not like-- - It's such toxins, correct.
+[00:14:32.160 --> 00:14:34.360]   - Yeah, so you're just like lay down, put the phone on,
+[00:14:34.360 --> 00:14:36.360]   you know, turn it on, put the phone over your thymus,
+[00:14:36.360 --> 00:14:38.200]   which is, as a reminder everybody,
+[00:14:38.200 --> 00:14:40.200]   your thymus is located right here,
+[00:14:40.200 --> 00:14:43.120]   which is pretty much between your throat
+[00:14:43.120 --> 00:14:45.200]   and heart chakra right there in the middle of your chest
+[00:14:45.200 --> 00:14:46.560]   or upper chest.
+[00:14:46.560 --> 00:14:48.440]   And you just, I would just say lay down, right?
+[00:14:48.440 --> 00:14:51.440]   Put the phone on the above your thymus gland.
+[00:14:51.440 --> 00:14:52.600]   You can be turned off, right?
+[00:14:52.600 --> 00:14:55.880]   You can turn your phone off or put it in airplane mode
+[00:14:55.880 --> 00:14:56.760]   or leave it on, right?
+[00:14:56.760 --> 00:14:57.600]   Doesn't matter.
+[00:14:57.600 --> 00:15:01.320]   - Exactly, that's totally up to you.
+[00:15:01.320 --> 00:15:03.440]   It doesn't matter, it works regardless.
+[00:15:03.440 --> 00:15:04.960]   - And so when you're just laying there,
+[00:15:04.960 --> 00:15:07.120]   you don't, it's not like you have to work through it
+[00:15:07.120 --> 00:15:08.640]   like you do with trauma release, right?
+[00:15:08.640 --> 00:15:10.760]   You just lay there in 15 minutes
+[00:15:10.760 --> 00:15:12.040]   and it does its thing, right?
+[00:15:12.040 --> 00:15:14.640]   Is that a correct assessment?
+[00:15:14.640 --> 00:15:16.240]   - That's absolutely correct.
+[00:15:16.240 --> 00:15:19.120]   I wanna stay focused on it. - I had to work with it.
+[00:15:19.120 --> 00:15:21.160]   - Yeah, just stay with it.
+[00:15:21.160 --> 00:15:23.160]   I mean, I wouldn't read a book in the meantime.
+[00:15:23.160 --> 00:15:26.760]   I wouldn't talk on the phone or any of these things.
+[00:15:26.760 --> 00:15:30.680]   It's just like, view it as a sacred process
+[00:15:30.680 --> 00:15:34.640]   that you're doing to clean yourself, right?
+[00:15:34.640 --> 00:15:39.080]   And so stick with it, that's what I suggest.
+[00:15:39.080 --> 00:15:41.120]   But there's nothing actively you need to do.
+[00:15:41.120 --> 00:15:43.560]   The only thing that we suggest
+[00:15:43.560 --> 00:15:45.920]   when you do this the first time,
+[00:15:45.920 --> 00:15:52.360]   in regards to VACs, for example,
+[00:15:52.360 --> 00:15:56.080]   there is on a certain energetic level,
+[00:15:56.080 --> 00:15:58.880]   always in agreement or contract or promise
+[00:15:58.880 --> 00:16:01.280]   that we enter basically.
+[00:16:01.280 --> 00:16:05.760]   Or there's a trauma that comes from that, right?
+[00:16:05.760 --> 00:16:10.280]   So I don't know, maybe it was we were one and a half years old.
+[00:16:10.280 --> 00:16:14.040]   We got this needle put in our butts
+[00:16:14.040 --> 00:16:16.040]   and we were crying, you know,
+[00:16:16.040 --> 00:16:17.520]   these things we forget,
+[00:16:17.520 --> 00:16:20.440]   but it's still something that is in the system
+[00:16:20.440 --> 00:16:23.040]   and that was created and left a mark.
+[00:16:23.040 --> 00:16:29.200]   And so that is something to do a regular trauma release
+[00:16:29.200 --> 00:16:33.120]   session after this is highly recommended.
+[00:16:33.120 --> 00:16:35.640]   Just the first time, you know,
+[00:16:35.640 --> 00:16:37.360]   if you then use it on a regular basis
+[00:16:37.360 --> 00:16:39.760]   because you know, what I just explained,
+[00:16:39.760 --> 00:16:41.520]   you went out with your friends on a Saturday
+[00:16:41.520 --> 00:16:43.520]   or for shedding and all of that,
+[00:16:43.520 --> 00:16:45.880]   I mean, you don't have to do a trauma release with that.
+[00:16:45.880 --> 00:16:47.040]   You just do this.
+[00:16:47.040 --> 00:16:48.880]   - Right, okay, that makes sense.
+[00:16:48.880 --> 00:16:53.000]   So there's two aspects to, let's say, you know,
+[00:16:53.000 --> 00:16:54.600]   have being exposed to chemicals.
+[00:16:54.600 --> 00:16:56.560]   If there's trauma related to it,
+[00:16:56.560 --> 00:16:59.720]   do the trauma afterwards or if there's not just,
+[00:16:59.720 --> 00:17:02.440]   just, you know, do the, do the sex harmonization then.
+[00:17:02.440 --> 00:17:03.280]   Okay.
+[00:17:03.280 --> 00:17:04.800]   - Exactly. And it's very easy.
+[00:17:04.800 --> 00:17:07.520]   - It's actually, it is really two different things, yeah.
+[00:17:07.520 --> 00:17:10.520]   - Yeah, but it's very easy to name the trauma, right?
+[00:17:10.520 --> 00:17:13.440]   Because the trauma, so then, you know,
+[00:17:13.440 --> 00:17:20.040]   are there any traumas, promises, contracts
+[00:17:20.040 --> 00:17:26.040]   in regards to vaccinations?
+[00:17:26.040 --> 00:17:28.160]   Give me a number between zero and 10, right?
+[00:17:28.160 --> 00:17:31.040]   So it's very easy.
+[00:17:31.040 --> 00:17:32.520]   You know the trauma, right?
+[00:17:32.520 --> 00:17:34.440]   It's not that you need to look for a trauma
+[00:17:34.440 --> 00:17:36.480]   because it's related to this.
+[00:17:36.480 --> 00:17:40.360]   Or if you know you have substance abuse in the past
+[00:17:40.360 --> 00:17:41.920]   and you're using it for this now,
+[00:17:41.920 --> 00:17:46.240]   then after that, certainly you wanna do a trauma release
+[00:17:46.240 --> 00:17:49.200]   session with yourself for that.
+[00:17:49.200 --> 00:17:53.120]   And then you ask if there's any traumas, promises,
+[00:17:53.120 --> 00:17:57.560]   contracts, negative attachments,
+[00:17:57.560 --> 00:18:02.560]   buy and bond energies in regards to substance abuse, right?
+[00:18:02.560 --> 00:18:05.840]   And then you just work through that and just,
+[00:18:05.840 --> 00:18:08.760]   you'll know this is very powerful.
+[00:18:08.760 --> 00:18:11.640]   You know, this is powerful stuff if we can remove this.
+[00:18:11.640 --> 00:18:13.120]   - Okay, no, that's great.
+[00:18:13.120 --> 00:18:15.240]   Okay, it sounds really simple to use as well.
+[00:18:15.240 --> 00:18:17.680]   So all right, so then there you go, folks.
+[00:18:17.680 --> 00:18:21.000]   All you gotta do, activate it and sit back,
+[00:18:21.000 --> 00:18:22.400]   keep your phone close to you.
+[00:18:22.400 --> 00:18:24.200]   And then for this one, put it on your thymus.
+[00:18:24.200 --> 00:18:25.680]   So, okay, great.
+[00:18:25.680 --> 00:18:29.240]   With that said, then let's jump right into the various
+[00:18:29.240 --> 00:18:30.160]   questions that we got.
+[00:18:30.160 --> 00:18:31.880]   And you probably answered a couple of them already,
+[00:18:31.880 --> 00:18:36.040]   but let me go ahead and just, let's just run through them.
+[00:18:36.040 --> 00:18:38.720]   This is right out of the Telegram chat groups.
+[00:18:38.720 --> 00:18:41.520]   One of them is, do I have to have an active trauma
+[00:18:41.520 --> 00:18:43.880]   subscription to use the app?
+[00:18:43.880 --> 00:18:46.280]   - Yes, it does not work for anyone
+[00:18:46.280 --> 00:18:48.560]   that doesn't have a subscription, it's just gonna work.
+[00:18:48.560 --> 00:18:52.080]   - Right, so the steps are, subscribe to Traumeezy
+[00:18:52.080 --> 00:18:55.760]   first, once you, you know, activated Traumeezy
+[00:18:55.760 --> 00:18:58.600]   and it's running, then you go and download the app
+[00:18:58.600 --> 00:19:00.600]   and then you could use the features, right?
+[00:19:00.600 --> 00:19:02.920]   And it all kicks off pretty quickly,
+[00:19:02.920 --> 00:19:05.760]   within 15 minutes right after you pay
+[00:19:05.760 --> 00:19:07.640]   and all that stuff, right?
+[00:19:07.640 --> 00:19:08.480]   - Yes.
+[00:19:08.480 --> 00:19:11.560]   - Okay, number two, when I activate the Vax harmonization
+[00:19:11.560 --> 00:19:14.440]   on my phone, does it just activate for me
+[00:19:14.440 --> 00:19:18.120]   or does it activate for all numbers in the family package?
+[00:19:20.480 --> 00:19:23.440]   - No, that activates just for your phone.
+[00:19:23.440 --> 00:19:26.880]   - Okay, and then every person in the family
+[00:19:26.880 --> 00:19:28.600]   would need to download the app,
+[00:19:28.600 --> 00:19:30.680]   put their phone number in and turn it on and off
+[00:19:30.680 --> 00:19:32.200]   for themselves, correct?
+[00:19:32.200 --> 00:19:34.680]   - Correct, for these features, if they wanna use it,
+[00:19:34.680 --> 00:19:38.200]   absolutely, it's connected to the specific phone number.
+[00:19:38.200 --> 00:19:40.880]   Yeah, otherwise that would be kind of crazy
+[00:19:40.880 --> 00:19:44.840]   if we were to, you know, be able to manage this
+[00:19:44.840 --> 00:19:46.960]   for our whole family, yeah.
+[00:19:46.960 --> 00:19:48.320]   - Right, right.
+[00:19:48.320 --> 00:19:50.000]   And then, okay, so I guess a side question
+[00:19:50.000 --> 00:19:51.280]   just 'cause I'd popped it in my head,
+[00:19:51.280 --> 00:19:55.640]   but if, could I just turn it on,
+[00:19:55.640 --> 00:19:59.080]   turn on like one of these features on my phone
+[00:19:59.080 --> 00:20:00.960]   and hand my phone to somebody,
+[00:20:00.960 --> 00:20:04.560]   and then they could use it like the Vax harmonizer?
+[00:20:04.560 --> 00:20:07.880]   - Yeah, so interestingly, that's not how it works
+[00:20:07.880 --> 00:20:12.920]   in Austria, how he had set it up for Austrians,
+[00:20:12.920 --> 00:20:17.920]   but we made it a requirement that if we offer this together,
+[00:20:18.920 --> 00:20:21.480]   that this should be working,
+[00:20:21.480 --> 00:20:23.720]   so if you wanna use it for your daughter
+[00:20:23.720 --> 00:20:28.040]   or someone else, you can, it's absolutely possible.
+[00:20:28.040 --> 00:20:30.600]   And there's still obviously a family package and all that,
+[00:20:30.600 --> 00:20:32.800]   which makes a lot of sense because,
+[00:20:32.800 --> 00:20:35.560]   I mean, who wants to give their own phone away
+[00:20:35.560 --> 00:20:38.440]   to other people constantly at all times, right?
+[00:20:38.440 --> 00:20:39.360]   - Right.
+[00:20:39.360 --> 00:20:41.720]   - Right, so if someone really is interested
+[00:20:41.720 --> 00:20:44.360]   in having these features obviously for a whole family,
+[00:20:44.360 --> 00:20:46.720]   the family package makes a lot of sense,
+[00:20:46.720 --> 00:20:49.080]   but hey, certainly, absolutely use it.
+[00:20:49.080 --> 00:20:51.160]   You can use it for your dog also, by the way.
+[00:20:51.160 --> 00:20:52.400]   - Yeah, it's gonna ask you.
+[00:20:52.400 --> 00:20:53.480]   I was just sort of thinking,
+[00:20:53.480 --> 00:20:55.160]   'cause those guys have had vaccinations,
+[00:20:55.160 --> 00:20:58.120]   I'd like to help them free, you know,
+[00:20:58.120 --> 00:21:01.400]   release the energy from, okay, all right, great.
+[00:21:01.400 --> 00:21:02.440]   Okay, so now, number three,
+[00:21:02.440 --> 00:21:06.040]   how do the other subscribers from my family
+[00:21:06.040 --> 00:21:08.760]   subscription log into Trump easy?
+[00:21:08.760 --> 00:21:11.320]   So it's just with their phone number, right?
+[00:21:11.320 --> 00:21:15.600]   - Yeah, and at this point, certainly a big apology
+[00:21:15.600 --> 00:21:18.200]   that we've had some issues here with this app
+[00:21:18.200 --> 00:21:21.760]   over the last, I think, two and a half weeks
+[00:21:21.760 --> 00:21:25.000]   going back and forth that we learned the hard way
+[00:21:25.000 --> 00:21:28.120]   that we're not really in control of that
+[00:21:28.120 --> 00:21:31.680]   if you work with Google Play Store
+[00:21:31.680 --> 00:21:36.680]   and with the Apple iPhone folks, right?
+[00:21:36.680 --> 00:21:40.560]   I think they've been doing the best they can,
+[00:21:40.560 --> 00:21:45.160]   but the best they do is then not up to the standards
+[00:21:45.160 --> 00:21:47.360]   that we're used to, right?
+[00:21:47.360 --> 00:21:50.840]   So everything took longer and the things were not done
+[00:21:50.840 --> 00:21:53.800]   in the way they were supposed to and all of that.
+[00:21:53.800 --> 00:21:56.160]   And I'm actually glad that for the quantum upgrade,
+[00:21:56.160 --> 00:21:59.080]   we don't have an app because I can tell you
+[00:21:59.080 --> 00:22:01.960]   then at least with this web application, we're in control
+[00:22:01.960 --> 00:22:05.200]   and if something doesn't work, we know it's all full
+[00:22:05.200 --> 00:22:06.720]   and we can fix it fast.
+[00:22:06.720 --> 00:22:09.720]   So that was the issue, but I think everything is fixed now
+[00:22:09.720 --> 00:22:13.120]   and we now have phone numbers indeed.
+[00:22:13.120 --> 00:22:15.960]   I think there's just one little thing with the Google Play Store
+[00:22:15.960 --> 00:22:17.000]   that we're still working through,
+[00:22:17.000 --> 00:22:19.520]   but other than that, everyone with their phone numbers
+[00:22:19.520 --> 00:22:23.000]   should be able to get access and no problem
+[00:22:23.000 --> 00:22:24.520]   and then it works for them.
+[00:22:24.520 --> 00:22:27.440]   - Okay, and if you don't, everybody,
+[00:22:27.440 --> 00:22:29.960]   I guess this is what I'm telling people is
+[00:22:29.960 --> 00:22:31.520]   if it's not working, make sure you have
+[00:22:31.520 --> 00:22:35.120]   the most recent version of the app
+[00:22:35.120 --> 00:22:37.200]   because it's been updated like several times
+[00:22:37.200 --> 00:22:38.880]   since two weeks ago.
+[00:22:38.880 --> 00:22:41.760]   So just making sure that you have the most recent version,
+[00:22:41.760 --> 00:22:43.520]   make sure that your numbers are correct,
+[00:22:43.520 --> 00:22:45.560]   the phone number you're using is correct
+[00:22:45.560 --> 00:22:47.000]   and if you still can't get in,
+[00:22:47.000 --> 00:22:49.320]   then obviously contact support.
+[00:22:49.320 --> 00:22:53.800]   But the main bugs are fixed at this point, correct?
+[00:22:53.800 --> 00:22:55.200]   - Yes, absolutely.
+[00:22:55.200 --> 00:22:58.400]   And I even think that they made it a requirement
+[00:22:58.400 --> 00:23:04.560]   to, if you go into your app and it's not updated,
+[00:23:04.560 --> 00:23:06.560]   then you actually update it.
+[00:23:06.560 --> 00:23:07.520]   - Yeah, actually I did.
+[00:23:07.520 --> 00:23:10.880]   Yeah, I saw that they added a notification
+[00:23:10.880 --> 00:23:15.040]   to go ahead and update before it was updating
+[00:23:15.040 --> 00:23:16.240]   but you weren't getting notified.
+[00:23:16.240 --> 00:23:19.200]   So if you log out of your app, guys,
+[00:23:19.200 --> 00:23:22.560]   and then log back in, if there is an update,
+[00:23:22.560 --> 00:23:24.280]   it's going to tell you update
+[00:23:24.280 --> 00:23:27.040]   once you have the most recent version.
+[00:23:27.040 --> 00:23:29.920]   So that problem got addressed as well.
+[00:23:29.920 --> 00:23:33.120]   Okay, all right, so yeah, good news.
+[00:23:33.120 --> 00:23:36.040]   And yeah, it's been a little struggle
+[00:23:36.040 --> 00:23:38.640]   and thank you everybody out there for your patience.
+[00:23:38.640 --> 00:23:41.320]   And I think this is a great feature
+[00:23:41.320 --> 00:23:42.520]   and I think going forward,
+[00:23:42.520 --> 00:23:45.880]   I think people are going to really, really benefit from it.
+[00:23:45.880 --> 00:23:47.640]   So let me jump into the next one.
+[00:23:47.640 --> 00:23:48.480]   Next question here.
+[00:23:48.480 --> 00:23:51.520]   Number four, do the new features work in airplane mode?
+[00:23:51.520 --> 00:23:53.280]   Or, okay, so we answered that.
+[00:23:53.280 --> 00:23:56.760]   Yes, the phone doesn't need to be turned on.
+[00:23:56.760 --> 00:23:59.920]   It could be an airplane mode or turned on, right?
+[00:23:59.920 --> 00:24:01.840]   Either way, if you, when you put it on your thymus
+[00:24:01.840 --> 00:24:03.360]   or use it for travel.
+[00:24:03.360 --> 00:24:07.600]   Number six, I'm sorry, number five,
+[00:24:07.600 --> 00:24:09.200]   does your phone need to be placed on
+[00:24:09.200 --> 00:24:10.560]   or above your thymus for each mode?
+[00:24:10.560 --> 00:24:11.920]   Okay, we covered that.
+[00:24:11.920 --> 00:24:14.280]   Number six, do these features affect others
+[00:24:14.280 --> 00:24:15.880]   within the field of the phone?
+[00:24:15.880 --> 00:24:17.080]   That's a good question.
+[00:24:17.080 --> 00:24:20.080]   So if I'm doing travel and I'm in a car
+[00:24:20.080 --> 00:24:23.480]   and I put the phone between me and my companion,
+[00:24:23.480 --> 00:24:26.760]   are we both going to be exposed to that travel energy?
+[00:24:26.760 --> 00:24:33.320]   - When you travel with someone in your car,
+[00:24:33.320 --> 00:24:35.560]   you're pretty close, yes, absolutely.
+[00:24:35.560 --> 00:24:36.840]   - Okay, so if there,
+[00:24:36.840 --> 00:24:40.280]   if anything in the field is going to get that,
+[00:24:40.280 --> 00:24:41.760]   'cause travel is the one that,
+[00:24:41.760 --> 00:24:44.320]   okay, you don't have to like put it on your person.
+[00:24:44.320 --> 00:24:46.960]   Okay, and then we talked about how big the field is.
+[00:24:46.960 --> 00:24:49.520]   Now, number seven is, here's a person that says,
+[00:24:49.520 --> 00:24:52.000]   I work as a nurse in a hospital at night.
+[00:24:52.000 --> 00:24:54.760]   Would it be good to activate the amazing travel
+[00:24:54.760 --> 00:24:58.160]   while I work at night for my 12-hour shift?
+[00:24:58.160 --> 00:25:03.560]   - I mean, you can definitely do that.
+[00:25:04.960 --> 00:25:07.360]   If it's just a regular shift
+[00:25:07.360 --> 00:25:09.080]   where you're just sitting in an office,
+[00:25:09.080 --> 00:25:11.320]   I mean, play with it,
+[00:25:11.320 --> 00:25:13.040]   but it's meant to be for something
+[00:25:13.040 --> 00:25:17.600]   where you're like, you're on the road,
+[00:25:17.600 --> 00:25:20.800]   you're going somewhere, you're driving somewhere
+[00:25:20.800 --> 00:25:23.280]   and all of that, but sure.
+[00:25:23.280 --> 00:25:26.720]   I mean, if you feel better with that energy there,
+[00:25:26.720 --> 00:25:29.000]   you can also just test it and turn it on.
+[00:25:29.000 --> 00:25:32.280]   I mean, there's no reason really do not do it
+[00:25:32.280 --> 00:25:33.600]   if you feel good with it.
+[00:25:33.600 --> 00:25:35.400]   - Yeah, Tinker, there you go.
+[00:25:35.400 --> 00:25:36.240]   Tinker away.
+[00:25:36.240 --> 00:25:37.440]   - We didn't put a limit on it,
+[00:25:37.440 --> 00:25:39.280]   that you can just use it like once a month
+[00:25:39.280 --> 00:25:41.280]   or so you can use it as often as you want.
+[00:25:41.280 --> 00:25:42.400]   - Cool, okay, yeah.
+[00:25:42.400 --> 00:25:43.760]   So give it a try.
+[00:25:43.760 --> 00:25:46.000]   Number eight, why can't we activate
+[00:25:46.000 --> 00:25:49.960]   and deactivate Vax harmonization when we want
+[00:25:49.960 --> 00:25:52.160]   as is already the case with travel?
+[00:25:52.160 --> 00:25:57.160]   - It just is technically for us not possible,
+[00:25:57.160 --> 00:25:59.640]   technically slash energetically.
+[00:25:59.640 --> 00:26:00.480]   - Okay, so.
+[00:26:00.480 --> 00:26:01.760]   - Because it's just a different thing.
+[00:26:01.760 --> 00:26:06.760]   So the, yeah, I would have to go into real energetic details
+[00:26:06.760 --> 00:26:12.560]   here, but the two features are completely different
+[00:26:12.560 --> 00:26:15.080]   in what they do and how they work
+[00:26:15.080 --> 00:26:16.600]   and how we operate them.
+[00:26:16.600 --> 00:26:19.040]   So it's just not possible.
+[00:26:19.040 --> 00:26:19.880]   Sorry.
+[00:26:19.880 --> 00:26:23.240]   - Okay, all right, but you can turn off travel,
+[00:26:23.240 --> 00:26:25.280]   but you cannot turn off the Vax
+[00:26:25.280 --> 00:26:29.920]   because the thing, it executes three waves in a row
+[00:26:29.920 --> 00:26:30.920]   for 15 minutes.
+[00:26:30.920 --> 00:26:33.360]   And so, yeah, you don't want to stop it.
+[00:26:33.360 --> 00:26:35.240]   But if you turn it on and you don't,
+[00:26:35.240 --> 00:26:37.200]   and you didn't want to use it at that time
+[00:26:37.200 --> 00:26:39.040]   or you get a phone call or, you know,
+[00:26:39.040 --> 00:26:40.080]   you got to take care of your kid.
+[00:26:40.080 --> 00:26:41.000]   - No harm no fault.
+[00:26:41.000 --> 00:26:41.840]   - Yeah, no harm no fault.
+[00:26:41.840 --> 00:26:42.920]   All right, you just put it to the side.
+[00:26:42.920 --> 00:26:45.640]   It's not on your thymus, it's not running.
+[00:26:45.640 --> 00:26:46.920]   Yeah, it's not running on you, all right.
+[00:26:46.920 --> 00:26:49.000]   It's just running on the phone, but no big deal.
+[00:26:49.000 --> 00:26:49.840]   - Yeah.
+[00:26:49.840 --> 00:26:50.680]   - Okay, that makes sense.
+[00:26:50.680 --> 00:26:52.680]   All right, so number nine, somebody asks,
+[00:26:52.680 --> 00:26:54.560]   can you add a timer in the app
+[00:26:54.560 --> 00:26:56.760]   so we know how long something's been running?
+[00:27:00.520 --> 00:27:02.280]   - I don't think so at this point.
+[00:27:02.280 --> 00:27:04.040]   I think in general, maybe that's something,
+[00:27:04.040 --> 00:27:06.800]   I'll take it to the team, but yeah,
+[00:27:06.800 --> 00:27:09.000]   I don't think anything in the very short term.
+[00:27:09.000 --> 00:27:11.080]   You know, I mean, just set an alarm, you know,
+[00:27:11.080 --> 00:27:12.680]   if you want to know, or, you know,
+[00:27:12.680 --> 00:27:15.000]   have a watch or something, I think at this point,
+[00:27:15.000 --> 00:27:18.800]   that's easier, you know, it's just,
+[00:27:18.800 --> 00:27:20.600]   I'm a little hesitant going again
+[00:27:20.600 --> 00:27:22.840]   back and forth with these play stores.
+[00:27:22.840 --> 00:27:24.920]   Every little thing that we do,
+[00:27:24.920 --> 00:27:27.680]   we need to get an additional approval for,
+[00:27:27.680 --> 00:27:30.120]   which actually also always increases the risk
+[00:27:30.120 --> 00:27:33.400]   of something gets completely declined then.
+[00:27:33.400 --> 00:27:34.760]   And then at the same time,
+[00:27:34.760 --> 00:27:36.520]   then they need to also implement
+[00:27:36.520 --> 00:27:37.840]   what we tell them to do.
+[00:27:37.840 --> 00:27:41.720]   So I'm inclined to say, look, I mean,
+[00:27:41.720 --> 00:27:43.840]   the minutes you can count in a different way.
+[00:27:43.840 --> 00:27:44.840]   - Just keep track.
+[00:27:44.840 --> 00:27:47.080]   Just remember when I turned it on.
+[00:27:47.080 --> 00:27:50.040]   Okay, so yeah, okay, so just keep track on the app.
+[00:27:50.040 --> 00:27:51.520]   Keep track outside of your app
+[00:27:51.520 --> 00:27:53.040]   what time you turn these things on.
+[00:27:53.040 --> 00:27:55.320]   All right, number 10, has there been any testing
+[00:27:55.320 --> 00:27:57.920]   or usage of the TROM-EZ Vax frequency
+[00:27:57.920 --> 00:28:02.120]   or actually want to upgrade or blocks or heal capsules
+[00:28:02.120 --> 00:28:04.560]   for a Vax injured person?
+[00:28:04.560 --> 00:28:06.280]   So I guess the question is,
+[00:28:06.280 --> 00:28:09.920]   has there been testing of this
+[00:28:09.920 --> 00:28:11.800]   for someone who was Vax injured?
+[00:28:11.800 --> 00:28:12.640]   That was the question.
+[00:28:12.640 --> 00:28:15.080]   - Yeah, I mean, well, there have been lots of tests,
+[00:28:15.080 --> 00:28:19.200]   but there have not been any formal studies in that regard.
+[00:28:19.200 --> 00:28:20.040]   - Okay.
+[00:28:20.040 --> 00:28:23.400]   - And I also wouldn't be able to comment now
+[00:28:23.400 --> 00:28:26.440]   on a Vax injured person and what that does.
+[00:28:26.440 --> 00:28:28.040]   You know, that's just something in general,
+[00:28:28.040 --> 00:28:30.680]   whether that's any of our technologies,
+[00:28:30.680 --> 00:28:32.760]   we wouldn't be able to comment on it.
+[00:28:32.760 --> 00:28:35.080]   - Okay, okay, I understand.
+[00:28:35.080 --> 00:28:36.960]   - But I can just in general,
+[00:28:36.960 --> 00:28:38.680]   like generalize one thing.
+[00:28:38.680 --> 00:28:43.440]   You know, the longer someone has been injured
+[00:28:43.440 --> 00:28:45.320]   with something and the more severe,
+[00:28:45.320 --> 00:28:49.280]   the harder it is to actually, you know,
+[00:28:49.280 --> 00:28:50.480]   get the full benefit.
+[00:28:50.480 --> 00:28:52.600]   So you will always get the benefits,
+[00:28:52.600 --> 00:28:55.960]   but do this as fast as you can.
+[00:28:55.960 --> 00:28:58.320]   You know, like don't wait for years
+[00:28:58.320 --> 00:29:02.360]   after everything is already really bad
+[00:29:02.360 --> 00:29:05.640]   and you're already in the late stages of tubal cancer, right?
+[00:29:05.640 --> 00:29:08.640]   I mean, that's a tough one.
+[00:29:08.640 --> 00:29:10.360]   You know, we had a case like that.
+[00:29:10.360 --> 00:29:14.560]   You know, mom was like, well, my 21-year-old
+[00:29:14.560 --> 00:29:17.720]   developed the tubal cancer and it's late stage now
+[00:29:17.720 --> 00:29:19.040]   as there's something you can do.
+[00:29:19.040 --> 00:29:22.600]   And yeah, you know, you can harmonize a few things
+[00:29:22.600 --> 00:29:24.160]   and you can make things easier
+[00:29:24.160 --> 00:29:27.720]   and just allow everything to go faster,
+[00:29:27.720 --> 00:29:30.120]   but there was nothing anymore energetically
+[00:29:30.120 --> 00:29:31.600]   that could have been done for that kit.
+[00:29:31.600 --> 00:29:34.040]   Unfortunately, it's a quite sad story.
+[00:29:34.040 --> 00:29:39.040]   And yeah, so just do it a little earlier before it's too late.
+[00:29:39.040 --> 00:29:43.920]   - Okay, and I guess that begs the question too.
+[00:29:43.920 --> 00:29:46.720]   I mean, to use the, you know,
+[00:29:46.720 --> 00:29:50.760]   for using the Vax harmonizer, is it just like a one and done?
+[00:29:50.760 --> 00:29:52.560]   You only gonna use it once or like,
+[00:29:52.560 --> 00:29:53.840]   I guess the older you are,
+[00:29:53.840 --> 00:29:57.560]   the more you've been subjected to, you know,
+[00:29:57.560 --> 00:30:01.440]   more vaccinations along with everything else
+[00:30:01.440 --> 00:30:03.760]   and all the different toxins and things you're exposed to,
+[00:30:03.760 --> 00:30:06.040]   you would wanna harmonize the energy with.
+[00:30:06.040 --> 00:30:08.480]   So, I mean, you just don't ever use it once.
+[00:30:08.480 --> 00:30:10.960]   Would you use it like multiple times?
+[00:30:10.960 --> 00:30:13.520]   Or, 'cause if you're not someone
+[00:30:13.520 --> 00:30:15.160]   that's gonna feel that difference,
+[00:30:15.160 --> 00:30:17.080]   but you know it's working energetically,
+[00:30:17.080 --> 00:30:17.960]   what would you recommend?
+[00:30:17.960 --> 00:30:21.640]   Like, do it once a month or what's your thoughts there?
+[00:30:22.480 --> 00:30:24.160]   - I think it's a great question.
+[00:30:24.160 --> 00:30:28.280]   So, in general, just for the Vax or any of them
+[00:30:28.280 --> 00:30:31.680]   that you've received, it's just necessary to do it once.
+[00:30:31.680 --> 00:30:36.280]   And then just do the trauma release afterwards for that.
+[00:30:36.280 --> 00:30:40.360]   But then you could have other things from your past, right?
+[00:30:40.360 --> 00:30:43.280]   Whether recent or long ago past,
+[00:30:43.280 --> 00:30:47.320]   doesn't really matter in regards to specific medications
+[00:30:47.320 --> 00:30:52.240]   or, I don't know, drug, alcohol misuse.
+[00:30:52.240 --> 00:30:54.080]   These types of things, right?
+[00:30:54.080 --> 00:30:59.080]   So, you can then use it also again for that.
+[00:30:59.080 --> 00:31:03.240]   And the process should take care of all of that together,
+[00:31:03.240 --> 00:31:05.560]   but I like the focus of it.
+[00:31:05.560 --> 00:31:09.000]   So, if you know you had something there, do it again,
+[00:31:09.000 --> 00:31:12.480]   let it run, and then do a trauma release also for that.
+[00:31:12.480 --> 00:31:15.680]   And then you're done with all of these,
+[00:31:15.680 --> 00:31:18.640]   but the Vax thing, just for the Vax,
+[00:31:18.640 --> 00:31:20.280]   you just need to do that once.
+[00:31:20.280 --> 00:31:23.960]   And then you can still do this like once a month
+[00:31:23.960 --> 00:31:27.200]   or whenever you feel, okay, you were exposed to a lot of people
+[00:31:27.200 --> 00:31:30.840]   and you feel there maybe was some shedding going on, right?
+[00:31:30.840 --> 00:31:32.560]   And some people actually know that.
+[00:31:32.560 --> 00:31:37.080]   I mean, we know people that their hand turns red
+[00:31:37.080 --> 00:31:39.040]   or their face turns red or whatever.
+[00:31:39.040 --> 00:31:41.720]   I mean, they literally physically see that
+[00:31:41.720 --> 00:31:43.560]   and feel that if that happens.
+[00:31:43.560 --> 00:31:47.720]   Others don't, but then you may have just this feeling, right?
+[00:31:47.720 --> 00:31:50.120]   So, if you have that feeling, then just go do it.
+[00:31:50.120 --> 00:31:51.520]   It's 10, 15 minutes.
+[00:31:51.520 --> 00:31:55.880]   It's actually quite a nice thing to do when you just woke up
+[00:31:55.880 --> 00:31:57.720]   and you're like, oh, you know,
+[00:31:57.720 --> 00:32:00.240]   I could just stay another 10, 15 minutes in the bed
+[00:32:00.240 --> 00:32:05.600]   and then get up and, you know, maybe I'll just do this now.
+[00:32:05.600 --> 00:32:07.200]   Why don't you just do it?
+[00:32:07.200 --> 00:32:09.760]   - So, this isn't just, okay, so this isn't just
+[00:32:09.760 --> 00:32:14.200]   for the recent Vax thing that we all were subjected to.
+[00:32:14.200 --> 00:32:16.480]   This is a life crisis, this is okay.
+[00:32:16.480 --> 00:32:19.680]   - Any, yeah, because as a baby already, you know,
+[00:32:19.680 --> 00:32:23.120]   you get those needles and all of that.
+[00:32:23.120 --> 00:32:26.040]   And, yeah, it's in regards to all of this,
+[00:32:26.040 --> 00:32:31.040]   as well as medications, alcohol, drug misuse.
+[00:32:31.040 --> 00:32:35.840]   It's quite comprehensive, actually.
+[00:32:35.840 --> 00:32:37.080]   - Okay, all right.
+[00:32:37.080 --> 00:32:38.920]   So, definitely you can use it more than once
+[00:32:38.920 --> 00:32:40.680]   and follow up with a trauma release
+[00:32:40.680 --> 00:32:43.680]   and do it as many times as you feel.
+[00:32:43.680 --> 00:32:45.520]   As you feel, follow your intuition.
+[00:32:45.520 --> 00:32:48.040]   I guess it's a good way to put it then, right?
+[00:32:48.040 --> 00:32:48.880]   - Yes.
+[00:32:48.880 --> 00:32:51.480]   - Great, number 11 is how do I use it for my son?
+[00:32:51.480 --> 00:32:53.760]   I think we covered this, which is just basically
+[00:32:53.760 --> 00:32:56.440]   hand them the phone, let them use your phone.
+[00:32:56.440 --> 00:32:58.640]   Turn it on, hand them the phone.
+[00:32:58.640 --> 00:33:00.480]   Show them what to do.
+[00:33:00.480 --> 00:33:02.560]   Number 12, is there a recommended number of times?
+[00:33:02.560 --> 00:33:03.880]   Oh, I just asked that, okay.
+[00:33:03.880 --> 00:33:06.600]   Number 13, will travel and Vax Harmonizer
+[00:33:06.600 --> 00:33:10.240]   be added to the website so we can control it under,
+[00:33:10.240 --> 00:33:13.320]   like the quantum upgrade dashboard?
+[00:33:13.320 --> 00:33:16.960]   - Yeah, at this point, that's not planned, no.
+[00:33:16.960 --> 00:33:18.320]   - Okay, so it's just gonna stay on the app.
+[00:33:18.320 --> 00:33:19.720]   So you get, yeah, okay.
+[00:33:19.720 --> 00:33:20.840]   So, it's just gonna be on the app.
+[00:33:20.840 --> 00:33:23.560]   Number 14, can you add a pause button?
+[00:33:23.560 --> 00:33:26.240]   Okay, we covered that, you just, there's no pause.
+[00:33:26.240 --> 00:33:28.560]   It's either turn it on or off, travel,
+[00:33:28.560 --> 00:33:31.280]   or just turn it on Vax, okay.
+[00:33:31.280 --> 00:33:33.720]   Number 15, if I'm logged into the app,
+[00:33:33.720 --> 00:33:38.720]   does the trauma easy still work for general trauma harmonizing?
+[00:33:38.720 --> 00:33:43.080]   - If you're logged into the app, yeah, yeah, yeah, absolutely,
+[00:33:43.080 --> 00:33:43.920]   no problem. - Okay, so.
+[00:33:43.920 --> 00:33:46.320]   It doesn't lose this capability.
+[00:33:46.320 --> 00:33:49.200]   - So, trauma easy is always running, right?
+[00:33:49.200 --> 00:33:52.240]   So if I put my phone up to my thymus,
+[00:33:52.240 --> 00:33:54.320]   and I turned on Vax Harmonizer,
+[00:33:54.320 --> 00:33:57.680]   I've actually got both running at the same time, right?
+[00:33:57.680 --> 00:34:02.280]   - Yeah, I wouldn't do that though, and I actually tried it
+[00:34:02.280 --> 00:34:04.760]   because I wanted to know, okay, how does that work?
+[00:34:04.760 --> 00:34:07.040]   If I do it both at the same time,
+[00:34:07.040 --> 00:34:11.040]   I wouldn't do it just because I like the focus of it, right?
+[00:34:11.040 --> 00:34:13.760]   Because you're doing two different things,
+[00:34:13.760 --> 00:34:16.760]   really two different things, and I would just focus
+[00:34:16.760 --> 00:34:20.800]   on getting that first process done and execute it,
+[00:34:20.800 --> 00:34:23.680]   and then you go for the trauma release.
+[00:34:23.680 --> 00:34:27.200]   Now, with the travel feature, it's a little bit different.
+[00:34:27.200 --> 00:34:28.640]   You can have the travel feature on,
+[00:34:28.640 --> 00:34:30.920]   and then while that put it on the thymus band
+[00:34:30.920 --> 00:34:35.600]   and work on a trauma, that's not really such a big deal,
+[00:34:35.600 --> 00:34:37.960]   but I think with the Vax Harmonizer,
+[00:34:37.960 --> 00:34:41.440]   I wouldn't do that at the same time as releasing a trauma.
+[00:34:41.440 --> 00:34:44.880]   Okay, all right, so that answers number 15.
+[00:34:44.880 --> 00:34:49.280]   Also, we answered number 16, you can run them both, okay?
+[00:34:49.280 --> 00:34:53.720]   So then 17, are there issues with using travel or Vax
+[00:34:53.720 --> 00:34:56.120]   while also running quantum upgrade?
+[00:34:56.120 --> 00:34:58.360]   Yeah, so we did have, I kind of condensed this
+[00:34:58.360 --> 00:35:01.680]   into one question, but lots of people were asking about,
+[00:35:01.680 --> 00:35:06.520]   well, I'm running quantum upgrade for you with Olympic,
+[00:35:06.520 --> 00:35:09.400]   and that's like a motivating frequency,
+[00:35:09.400 --> 00:35:11.480]   but then over here, I'm trying to use trauma-easy
+[00:35:11.480 --> 00:35:14.560]   for trauma release, or I'm doing Vax Harmonization.
+[00:35:14.560 --> 00:35:17.080]   At the same time, I've got quantum upgrade
+[00:35:17.080 --> 00:35:18.320]   running on inner piece, you know?
+[00:35:18.320 --> 00:35:21.000]   So what's your recommendation?
+[00:35:21.000 --> 00:35:23.160]   'Cause there's so many tools, right?
+[00:35:23.160 --> 00:35:26.400]   Like, you know, so how would you address that with like,
+[00:35:26.400 --> 00:35:29.480]   hey, you know, you've got QE, you've got trauma-easy,
+[00:35:29.480 --> 00:35:31.560]   and it's all running at the same time?
+[00:35:31.560 --> 00:35:34.040]   What's your recommendation?
+[00:35:34.040 --> 00:35:36.960]   Well, it all matters how you feel, and in general,
+[00:35:36.960 --> 00:35:38.800]   it's no problem whatsoever.
+[00:35:38.800 --> 00:35:42.760]   If you have something running on a quantum upgrade,
+[00:35:42.760 --> 00:35:47.760]   and then you work on the Vax Harmonizer, for example,
+[00:35:47.760 --> 00:35:50.520]   that is no problem whatsoever.
+[00:35:50.520 --> 00:35:55.960]   So you can just do that, and then if you feel in
+[00:35:55.960 --> 00:35:59.320]   and you want to have no frequency running during that time,
+[00:35:59.320 --> 00:36:02.080]   just turn it off during that time, right?
+[00:36:02.080 --> 00:36:03.560]   I mean, turn that frequency off,
+[00:36:03.560 --> 00:36:06.000]   but it's not that you have to do that.
+[00:36:06.000 --> 00:36:09.560]   It really is okay, and it is fine.
+[00:36:09.560 --> 00:36:12.120]   It's not, there's no contraindication or anything.
+[00:36:12.120 --> 00:36:13.240]   Okay, all right, good.
+[00:36:13.240 --> 00:36:15.000]   So perfectly-- In general, just, you know,
+[00:36:15.000 --> 00:36:17.280]   since the Olympic performance was mentioned, right?
+[00:36:17.280 --> 00:36:21.600]   That is one that I would not use that one
+[00:36:21.600 --> 00:36:23.840]   like throughout the whole day, for example,
+[00:36:23.840 --> 00:36:25.920]   or like for days in a row.
+[00:36:25.920 --> 00:36:32.480]   Because it's a very stimulating energy for the cells,
+[00:36:33.360 --> 00:36:37.400]   it's wise to maybe just use that for several hours, right?
+[00:36:37.400 --> 00:36:39.840]   Or for your competition, for your practice,
+[00:36:39.840 --> 00:36:44.080]   for whenever, or you need to clean your house, right?
+[00:36:44.080 --> 00:36:46.280]   And you know, it's gonna take the next three hours,
+[00:36:46.280 --> 00:36:48.640]   and you're really not in the mood to do anything,
+[00:36:48.640 --> 00:36:51.720]   well, just turn it on and then go do it.
+[00:36:51.720 --> 00:36:53.960]   But I wouldn't use it from eight in the morning
+[00:36:53.960 --> 00:36:57.400]   until eight at night, because it's, yeah,
+[00:36:57.400 --> 00:37:02.360]   you're usually not doing athlete activities,
+[00:37:02.360 --> 00:37:04.120]   et cetera, during that time.
+[00:37:04.120 --> 00:37:06.920]   But you will notice, if you haven't run for so long,
+[00:37:06.920 --> 00:37:11.840]   that you're constantly doing stuff and acting and all of that.
+[00:37:11.840 --> 00:37:15.720]   And I personally think that that may be too much,
+[00:37:15.720 --> 00:37:18.480]   you know, you don't wanna burn too much.
+[00:37:18.480 --> 00:37:19.640]   - Okay, no, that makes point.
+[00:37:19.640 --> 00:37:20.480]   Yeah, it's like, yeah,
+[00:37:20.480 --> 00:37:24.520]   it's an energy drink, basically, okay.
+[00:37:24.520 --> 00:37:26.880]   - They're healthy, they're healthy as you can find, yeah,
+[00:37:26.880 --> 00:37:28.040]   for sure. - Sure, good.
+[00:37:28.040 --> 00:37:28.880]   That's a good point.
+[00:37:28.880 --> 00:37:30.280]   Yeah, you don't wanna burn yourself out.
+[00:37:30.280 --> 00:37:34.040]   Okay, so let's see, that was number 17.
+[00:37:34.040 --> 00:37:37.440]   Oh, and number 18, would it be possible to provide a way
+[00:37:37.440 --> 00:37:41.440]   for users to add, delete, and change phone numbers themselves?
+[00:37:41.440 --> 00:37:44.920]   Or are they always gonna have to go to support for help with that?
+[00:37:44.920 --> 00:37:46.480]   - Support. - You wanna change.
+[00:37:46.480 --> 00:37:48.240]   Support? - Mm-hmm.
+[00:37:48.240 --> 00:37:49.640]   - Okay, so I can't, yeah, no,
+[00:37:49.640 --> 00:37:53.280]   'cause I noticed you couldn't change it on the dashboard.
+[00:37:53.280 --> 00:37:58.400]   So yeah, okay, so if you wanna change the number of yourself
+[00:37:58.400 --> 00:38:00.200]   or anyone in your family plan,
+[00:38:00.200 --> 00:38:03.200]   contact support, okay, so number 19,
+[00:38:03.200 --> 00:38:07.000]   is there a way to keep both traveling Vax on 24/7?
+[00:38:07.000 --> 00:38:08.720]   Somebody was asking that?
+[00:38:08.720 --> 00:38:11.280]   - Nope. - Nope, okay, so it's just,
+[00:38:11.280 --> 00:38:14.200]   you can turn travel back on after 12, right?
+[00:38:14.200 --> 00:38:17.600]   - Yeah, and you can turn the Vax on again after 30 minutes
+[00:38:17.600 --> 00:38:19.320]   so you can do all these things.
+[00:38:19.320 --> 00:38:22.880]   I don't know what the-- - Wouldn't recommend, yeah.
+[00:38:22.880 --> 00:38:24.560]   - Yeah, I mean, you know, I mean, I don't know,
+[00:38:24.560 --> 00:38:29.560]   maybe you have 23 friends over, right?
+[00:38:29.560 --> 00:38:35.480]   - Yeah. - And then you do one after the other
+[00:38:35.480 --> 00:38:38.800]   for the Vax, a Hummerizer, I mean,
+[00:38:38.800 --> 00:38:41.840]   you could possibly do that and then you, it's 24 people,
+[00:38:41.840 --> 00:38:45.120]   including you, so that'd be 12 hours at running straight.
+[00:38:45.120 --> 00:38:49.200]   Certainly, you know, that's the theoretical possibility.
+[00:38:49.200 --> 00:38:52.040]   - So no limits, but it's all manual.
+[00:38:52.040 --> 00:38:53.600]   It's not just gonna run, right?
+[00:38:53.600 --> 00:38:56.000]   - Okay, 20.
+[00:38:56.000 --> 00:38:59.280]   Can you add the ability to subscribe to the app?
+[00:38:59.280 --> 00:39:01.200]   So like, you know, turn the, you know,
+[00:39:01.200 --> 00:39:03.840]   basically subscribe through the app
+[00:39:03.840 --> 00:39:05.600]   as opposed to through the website,
+[00:39:05.600 --> 00:39:07.880]   or are you just gonna leave the app
+[00:39:07.880 --> 00:39:11.040]   as just the way to turn on those two features?
+[00:39:11.040 --> 00:39:12.800]   - That's a good question, actually.
+[00:39:12.800 --> 00:39:15.520]   So I will take that to the team and ask
+[00:39:15.520 --> 00:39:19.160]   if there would be a possibility to do that in the future.
+[00:39:19.160 --> 00:39:20.240]   I'm not sure.
+[00:39:20.240 --> 00:39:22.080]   - Okay, and then somebody was wondering
+[00:39:22.080 --> 00:39:25.720]   if they can pay for Traumese with crypto,
+[00:39:25.720 --> 00:39:28.920]   like they do for, you know, the blocks and stuff?
+[00:39:28.920 --> 00:39:34.280]   - At this point, no, it's actually not possible
+[00:39:34.280 --> 00:39:36.680]   because it's also not possible with quantum upgrade.
+[00:39:36.680 --> 00:39:39.680]   The reason for that is that with crypto,
+[00:39:39.680 --> 00:39:44.680]   so far at least you cannot set up any recurring payments.
+[00:39:44.680 --> 00:39:46.240]   - No, okay.
+[00:39:46.240 --> 00:39:47.800]   Yeah, that gave you a subscription.
+[00:39:47.800 --> 00:39:49.360]   Okay, that makes sense.
+[00:39:49.360 --> 00:39:53.280]   Okay, number 21, will the app and, or end service
+[00:39:53.280 --> 00:39:56.560]   work from a location I do not have cell service?
+[00:39:56.560 --> 00:40:02.760]   - Yeah, it always works no matter where you are.
+[00:40:02.760 --> 00:40:06.360]   - Okay, so it needs to be activated certainly.
+[00:40:06.360 --> 00:40:07.360]   - Ah, okay, that's what it means.
+[00:40:07.360 --> 00:40:09.280]   - Once, right, so you activate it
+[00:40:09.280 --> 00:40:13.920]   and you are somewhere connected to a cell tower or whatever,
+[00:40:13.920 --> 00:40:18.080]   just so that it's clear that's your phone, but that's it.
+[00:40:18.080 --> 00:40:21.360]   You know, once it's on your phone with that phone number,
+[00:40:21.360 --> 00:40:23.760]   it doesn't matter if you turn it off
+[00:40:23.760 --> 00:40:28.760]   and if you go to the deserts, it doesn't really matter.
+[00:40:28.760 --> 00:40:29.760]   - Okay, yeah.
+[00:40:29.760 --> 00:40:30.880]   - It's an on your phone.
+[00:40:30.880 --> 00:40:33.240]   - Okay, don't need cell service, but you do need it
+[00:40:33.240 --> 00:40:35.920]   to turn it on, but once it's on,
+[00:40:35.920 --> 00:40:37.120]   you don't need to have it turned on.
+[00:40:37.120 --> 00:40:38.120]   Okay. - Yeah.
+[00:40:38.120 --> 00:40:39.720]   - All right, number 22, do I run
+[00:40:39.720 --> 00:40:41.480]   the VAX harmonization once for all?
+[00:40:41.480 --> 00:40:43.520]   Okay, I guess I asked this question.
+[00:40:43.520 --> 00:40:46.760]   So, okay, we answered that question.
+[00:40:46.760 --> 00:40:48.600]   You don't need to run it for...
+[00:40:48.600 --> 00:40:50.640]   Well, I guess it all depends on the person, right?
+[00:40:50.640 --> 00:40:52.360]   Whether you wanna run it for each single VAX
+[00:40:52.360 --> 00:40:54.040]   you ever had in your lifetime
+[00:40:54.040 --> 00:40:56.320]   or make one round for all of the VAX,
+[00:40:56.320 --> 00:41:01.240]   I guess it's just follow your intuition and go with that.
+[00:41:01.240 --> 00:41:06.960]   Then, number 23, if a family member with a subscription
+[00:41:06.960 --> 00:41:09.040]   turns on a feature, does it turn on for me?
+[00:41:09.040 --> 00:41:11.960]   Okay, that's just the reverse of that other question.
+[00:41:11.960 --> 00:41:14.040]   So, no, everyone's completely separate.
+[00:41:14.040 --> 00:41:19.040]   Okay, so that answers the non-technical bug questions.
+[00:41:19.040 --> 00:41:24.800]   We had Jess has made a whole lot of troubleshooting questions
+[00:41:24.800 --> 00:41:29.480]   and I think we've been, Neil, Emma has done a great job
+[00:41:29.480 --> 00:41:30.880]   just getting through all of them.
+[00:41:30.880 --> 00:41:34.320]   So, Emma, if you're hearing this, congratulations
+[00:41:34.320 --> 00:41:37.480]   and thank you so much for a job, well done.
+[00:41:37.480 --> 00:41:39.720]   Okay, so, 'cause we took all the bug questions out
+[00:41:39.720 --> 00:41:42.560]   and, like you said, I think we're done with that.
+[00:41:42.560 --> 00:41:46.160]   So, all right, so that's this tutorial
+[00:41:46.160 --> 00:41:49.240]   on how to use the travel feature
+[00:41:49.240 --> 00:41:53.040]   and how to use the VAX harmonization feature.
+[00:41:53.040 --> 00:41:55.600]   And so, if you got any questions,
+[00:41:55.600 --> 00:41:57.760]   we are gonna, I guess, if it's okay to announce,
+[00:41:57.760 --> 00:42:02.760]   we're gonna set up a traumisee chat group, just for traumisee.
+[00:42:02.760 --> 00:42:05.920]   So, we'll be announcing that shortly
+[00:42:05.920 --> 00:42:07.640]   and link in the video description and all that.
+[00:42:07.640 --> 00:42:10.520]   So, we're gonna concentrate all of that discussion
+[00:42:10.520 --> 00:42:13.600]   in one group 'cause it kinda took over both groups
+[00:42:13.600 --> 00:42:16.080]   or for a couple of weeks.
+[00:42:16.080 --> 00:42:18.280]   And that way we can keep it kinda organized.
+[00:42:18.280 --> 00:42:21.800]   But other than that, yeah, thank you, Philip,
+[00:42:21.800 --> 00:42:24.480]   for helping me put this together.
+[00:42:24.480 --> 00:42:25.880]   And thank you for your time.
+[00:42:25.880 --> 00:42:29.440]   And thank you guys for sticking with us and your patience.
+[00:42:29.440 --> 00:42:31.680]   Did you have any parting words?
+[00:42:31.680 --> 00:42:35.440]   - Well, a huge thank you to you and not to me, really,
+[00:42:35.440 --> 00:42:38.440]   for putting this together and doing this
+[00:42:38.440 --> 00:42:42.240]   and picking up the questions
+[00:42:42.240 --> 00:42:45.560]   and really helping out the community in a big way.
+[00:42:45.560 --> 00:42:48.680]   And us, so huge things, to you,
+[00:42:48.680 --> 00:42:53.080]   big things to Anna and her team,
+[00:42:53.080 --> 00:42:57.400]   and then also big things for the patience of the users
+[00:42:57.400 --> 00:42:59.480]   in regards to this.
+[00:42:59.480 --> 00:43:03.160]   Again, we blame it on Apple and Google.
+[00:43:03.160 --> 00:43:06.040]   Of course, I think we're still responsible.
+[00:43:06.040 --> 00:43:08.520]   So, I'm glad it's working now.
+[00:43:08.520 --> 00:43:10.520]   - All right, great.
+[00:43:10.520 --> 00:43:12.920]   Well, thank you very much, Philip, and have a great day.
+

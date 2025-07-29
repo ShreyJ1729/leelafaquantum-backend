@@ -1,0 +1,397 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.200",
+        "text": " Aloha, everyone, and welcome to another Tinker's Academy video. I'm your host, Kay Elmer, and this video is another installment in the series Benefits of Quantum Healing, specifically to EMF in electric vehicles, and the effect of not only the effect of that EMF, why you're inside an electric vehicle, EMF, standing for electromagnetic frequencies, but also the application of quantum energy to mitigate those effects. So, there's four new"
+    },
+    {
+        "start": "00:00:29.200",
+        "end": "00:00:56.720",
+        "text": "studies that just got released. They're actually, you know, written in German, so they have to be translated to English. I got the first draft, and then the first draft usually gets edited and proved, and then they have a final draft in English that eventually will then get published to the Leila Quantum Tech website. So, they're not on the website yet. I'm just going to be sharing with you one of the four studies that have been just released because I just want to get that information out there. I think it's really profound because at the end of the day, I'm going to give you a quick"
+    },
+    {
+        "start": "00:00:56.720",
+        "end": "00:01:24.880",
+        "text": "executive summary. Driving around an electric vehicle is really bad for your health, and then the other summary point of the summary is that, you know, you can mitigate that effect with quantum energy. So, now, if you'll bear with me, I do want to level set and provide some context for these studies so that you understand, you know, basically, you know, how they were conducted and what the meaning of the information is. I think it's really important that I share that so that you"
+    },
+    {
+        "start": "00:01:24.880",
+        "end": "00:01:52.000",
+        "text": "kind of, you know, have the context to understand, you know, what the results actually mean. So, the first thing, you know, is that I think is so important, is like, you know, who is doing these studies, you know, and how, you know, how, you know, qualified are they? So, I guess that's the best phrase. So, I just want us to stipulate that the company is that handles these studies is referred to as BESA, and what BESA stands for is the International Association for Bioenergetic Systems"
+    },
+    {
+        "start": "00:01:52.000",
+        "end": "00:02:17.040",
+        "text": "Analysis, the IFV BESA, and it's really run by two seasoned and veteran clinicians in holistic practices who have just been spending decades of their career under the guise of bio-systems analysis, which is also referred to in the industry as Iranian Stress Assessments, okay. Now, the two individuals are Wolfgang Hangs, Albright and Eva Cranki,"
+    },
+    {
+        "start": "00:02:17.040",
+        "end": "00:02:46.000",
+        "text": "and their clinician, or their clinic is located in Austria. Now, this, what they do is they provide services to all a range of different industries and different technologies from agriculture to technology to products and so forth, where they study the effects of these products and these practices that people want to have evaluated on what's the effect of people and animals as they're interacting with these products. And so, that's why, you know, just to give you"
+    },
+    {
+        "start": "00:02:46.000",
+        "end": "00:03:11.920",
+        "text": "some background, that's all these people do is they conduct studies, they've been doing it for decades, and they're very, very accomplished at doing what they do in terms of evaluating the health risks of all sorts of different things. And these folks have been doing this in Europe, and they're one of the most highly qualified clinics in Europe that conduct studies for anybody who wants to see the effects of what they do in their products and their practices, you know,"
+    },
+    {
+        "start": "00:03:11.920",
+        "end": "00:03:41.360",
+        "text": "on humans and animals, okay? Now, what they actually use for their materials and methods of their studies is they refer to as, you know, again, as biosenergetic systems analysis, which is a, I'm going to say, a deco vol type of device, and I'll explain what that means, where it scans roughly around 60 points along the surface of the skin. So, in other words, you know, an individual or an animal, if they're testing against a product, in this case, the"
+    },
+    {
+        "start": "00:03:41.360",
+        "end": "00:04:07.200",
+        "text": "product was an electric vehicle, then what the investor will do is conduct multiple redundant studies, you know, usually, you know, several studies across the road with different participants that they call proponents, I guess, or respondents or something, sorry, I'll get into it. And then so they take these individuals, you know, the test cases, and then they'll measure them with before, you know, before they're ever exposed to something, then they'll measure as"
+    },
+    {
+        "start": "00:04:07.200",
+        "end": "00:04:35.840",
+        "text": "they're exposed, then afterwards, and they measure 60 different points along the surface of the skin using their own proprietary, you know, analysis device. And what those measurements will do is analyze the effect of the thing, you know, in this case, again, you know, it's electric vehicle on its effect on the energetic systems of the body as it relates to the, you know, the"
+    },
+    {
+        "start": "00:04:35.840",
+        "end": "00:05:04.800",
+        "text": "condition of the lungs, the skin, intestines, connective tissue, stomach nerves, organ, bladder, liver, abdomen, heart, etc. So there's all of these different things that they'll test for to see, you know, what is the impact of this thing on the person or on the animal in all of these different categories here you see in the bottom of the slide. So the thing that's really important, though, if you've never heard about bio-energetic systems analysis, or if you've never heard about meridian stress assessments, I want to give you a little background about the science and the"
+    },
+    {
+        "start": "00:05:04.800",
+        "end": "00:05:30.800",
+        "text": "technology and the validation of this practice. Now this was developed. The idea was developed by a Dr. Reinhard Wohl back in the 1940s. This was 80 years ago, and this doctor, he was a medical doctor at the time, and he became very dissatisfied with the diagnostics, you know, methodologies that at the time in the 40s that the medical establishment had in terms of trying to diagnose"
+    },
+    {
+        "start": "00:05:31.600",
+        "end": "00:05:59.360",
+        "text": "anyone of his patients as to what their problems were. So then he could then, of course, you know, develop a treatment plan. That's your standard MO for any doctor. It's like, you know, they need to do a diagnostics, and then they need to figure out what's wrong with you, or usually they guess based on a bunch of test results, and then they come up with a treatment plan. And the unfortunate part in today's environment, in my opinion, is that, you know, they have to guess at what would be the best treatment plan for what they think is wrong with you, and then you always get that"
+    },
+    {
+        "start": "00:05:59.360",
+        "end": "00:06:28.720",
+        "text": "speech right at the end of your doctor visit, which is, well, if nothing happens or it doesn't work, you know, in a week, come back and see me, we'll reevaluate your dosage or your prescription, you know, that whole thing about, you know, let's try it for a week and find out, because they really don't know at the end of the day what is really, really, really wrong with you, or, you know, your condition, and then, of course, they're, you know, because of that, they're guessing at what's going to solve that problem. So now what Dr. Reinhard Wohl spent decades doing was trying to figure out,"
+    },
+    {
+        "start": "00:06:28.720",
+        "end": "00:06:53.920",
+        "text": "okay, now how do I improve the process of diagnosis, so that I can then really understand what the problem is so that I can then, you know, develop treatment plans that would be appropriate for that problem. So then what he did was, is he, he went and started looking at traditional Chinese medicine, because what he wanted to understand was, okay, what's a better way to diagnose, instead of doing all these blood tests and, you know, all, you know, the stuff that they do,"
+    },
+    {
+        "start": "00:06:53.920",
+        "end": "00:07:21.680",
+        "text": "right. And then so what he discovered was, if you applied the concept of traditional Chinese medicine, because for thousands of years now, right, I mean, this is what's really important. If you understand, the general idea of health care is that, you know, how long has, you know, the traditional medicine practices that we kind of are, you know, subjected to in our current society, which is standard American, you know, the standard American care, American medical association,"
+    },
+    {
+        "start": "00:07:21.680",
+        "end": "00:07:49.920",
+        "text": "they develop a standard of care, and that's only been around maybe 100 years, right. It's only 100 years, but when you look at Chinese traditional medicine, that goes back thousands of years. So that's why he looked towards that. And then basically working with those practitioners at that time, they were able, now they're able, because of their training and their experience, able to diagnose with quite incredible accuracy. So he figured out that, you know, the method that"
+    },
+    {
+        "start": "00:07:49.920",
+        "end": "00:08:16.160",
+        "text": "they were using was actually having the body tell you what's wrong with it, because the body can. And they discovered that, whereas a traditional acupuncturist can then, if you've ever been to one, they'll basically look at all these different things about you, and but they're going to be putting their hands on you, and they're going to be with their hands, they're trained to basically feel the energy flow through your body through a system of your body is like a very complex,"
+    },
+    {
+        "start": "00:08:16.160",
+        "end": "00:08:44.880",
+        "text": "beautiful machine with tons of wiring in it. And there's, and it's energy, and that energy is flowing all through that wiring, and all those wiring of, you know, those, those energy, what they call meridians, they reach out to all the different organs and all the different parts of your body. And you are basically this really complex, you know, machine that's really wired, and everything's wired together. And if they get, and they put their hands on you, and they can sense how well that energy is flowing from point to point. And so what he did was he"
+    },
+    {
+        "start": "00:08:44.880",
+        "end": "00:09:09.680",
+        "text": "took the, you know, basically being a westernized doctor, he decided, well, if you know, is there a technology that could do that for people like himself and other doctors who aren't trained Chinese met, you know, practitioners? And so then what he did was he developed a device that could then send a particular level of voltage and current, like we're talking microvolts, microamps, right,"
+    },
+    {
+        "start": "00:09:09.680",
+        "end": "00:09:37.680",
+        "text": "that this device will then basically transmit into the body. And then he would measure it at the two points, the beginning and the end of any one of those particular wiring points, because now the wiring points are all meridians. And to kind of give you an example, there's, you know, here's the map of the body. And so you've got your meridians, let's say here, I'm just going to give you the top one here, the stomach one, it starts up here in the, in the, in the forehead, and it comes all the way through the body, and it ends right here. And this is the thousands of years of Chinese"
+    },
+    {
+        "start": "00:09:37.680",
+        "end": "00:10:05.040",
+        "text": "traditional medicine has discovered how the body is wired. So he already had a blueprint. So then when he took the technology and he put like one probe up here and one probe down here, and then he would measure the current and the voltage going through the body through that one particular, you know, meridian. And based on the information he got back from the measurement of that, he would determine the actual condition of the stomach. And so now, and this is where he"
+    },
+    {
+        "start": "00:10:05.040",
+        "end": "00:10:34.720",
+        "text": "applied traditional, you know, doc, you know, basically healthcare practices or diagnoses practices against, you know, using this technique based on the Chinese traditional medicine. All right. So what he discovered based on just decades of analysis and experimentation was that when he would apply the current and voltage at one point of the meridian and then measure it coming out the other end of that meridian, right? If the, if the, if the voltage and the current remain the same,"
+    },
+    {
+        "start": "00:10:34.720",
+        "end": "00:11:02.880",
+        "text": "then he discovered that it, what it meant that that particular organ and that particular meridian was an optimal condition. That was a healthy person. And this is from measuring the both, right? He would basically measure using, using this, you know, this meridian stress assessment methodology. And then he would apply traditional diagnoses to it. And then he would compare the two and over time, we're talking decades, he spent his career doing this and developing this."
+    },
+    {
+        "start": "00:11:02.880",
+        "end": "00:11:32.720",
+        "text": "There's actually a device out there, out there in the world you could buy called the decavol device that actually is what he developed. And so it's still out there on the market and tons and tons of holistic folks use that in today's world. But there's other devices now beyond, you know, just his device as, as shown here in this slide, you know, Bessa Institute developed their own decavol device. You'll find other decavol devices, one's called a bioscan. So there's other devices out there that are now being used and not just the one that he developed,"
+    },
+    {
+        "start": "00:11:32.720",
+        "end": "00:11:58.320",
+        "text": "but I digress. So going back to his actual results where he would evaluate using the, you know, his, you know, basically his meridian stress assessment methodology, then he would compare that to your standard diagnoses, where he would actually test, let's say, this example of the stomach, all the different ways you would test the stomach, you know, if you were just a regular doctor, and then he would match the two results and the results over decades of time, he developed"
+    },
+    {
+        "start": "00:11:58.320",
+        "end": "00:12:24.640",
+        "text": "this device and this methodology. So at the end of the day, if the current coming in is the same as the current coming out, you're healthy. That, that, that part of your body is good to go and you are in a good optimal state. Now what he discovered was if he put that current and that voltage through a meridian to a specific, you know, let's say a specific part of your body, spleen, gallbladder, heart, blood circulation, lung, all these different meridian points"
+    },
+    {
+        "start": "00:12:24.640",
+        "end": "00:12:53.680",
+        "text": "that tied to different organs. Now if it came out and the voltage at the end of the meridian, he put it in on one end and he'd take it with measurement on the other end. Now if it came out and the actual voltage decreased, then, then when he would go in and actually do an analysis, regular, you know, you know, doctor analysis, then he would discover that that particular part of the body was in a disease condition. It was actually damaged. It was diseased, right? And then, and"
+    },
+    {
+        "start": "00:12:53.680",
+        "end": "00:13:20.320",
+        "text": "that's how he determined that, okay, if I see the voltage come out lower, then it's going to be where I'm, what I'm looking at is diseased, that it's definitely damaged and it's got a problem that needs to be treated. Now the other end of the spectrum is if now if the voltage increased, so he put in, you know, a set amount of voltage in current and one point of the meridian and he measured it at the other end of the meridian. If the voltage increased, then he discovered through"
+    },
+    {
+        "start": "00:13:20.320",
+        "end": "00:13:47.040",
+        "text": "all that study that then when he went into the look at that specific organ or that specific meridian area, then the condition of that organ was in a degenerative condition. And that's just the words he used. Degenitive means that it was stressed, inflammation, it was starting to show the signs of weakness. In other words, this was under a lot, you know, that you're having a lot of problems with this thing. You've caught it before it got damaged. That's what's key here."
+    },
+    {
+        "start": "00:13:47.040",
+        "end": "00:14:16.240",
+        "text": "You've caught the problem before it's damaged and then he would develop a treatment plan for that. And so that's the actual way to do it. That's the scientific approach that he developed called the meridian stress assessment using a decouveau device, which then you look at the Best Institute. They developed their own decouveau device. They do the same types of measurement. They measure the meridian points. They evaluate the organs and then they come out with a treat, you know, basically, well, they don't develop the treatment plans. They just would create the study that says,"
+    },
+    {
+        "start": "00:14:16.240",
+        "end": "00:14:44.400",
+        "text": "hey, this is what it's doing to the body. Okay, so they're doing the studies, but this is what it's based on. So when you see the results in the study, I'm going to share with you. I wanted to let you know that's how you interpret the results, that this is a science that has been around for 80 years. Now, as to why, you know, our, you know, the health care industry does not adopt this, I can't answer that. But I'll tell you what, that based on all of his work and all of the"
+    },
+    {
+        "start": "00:14:44.400",
+        "end": "00:15:08.160",
+        "text": "different doctors that have followed his work in the last 80 years, this methodology is spot on and it marries directly to, you know, what the Chinese have been doing for thousands of years. So the device now, and when you look at the results of the study, I'll be sharing in a second, you'll, they basically color coded it to make it way simpler to interpret. And so the four different"
+    },
+    {
+        "start": "00:15:08.160",
+        "end": "00:15:34.400",
+        "text": "color codes from the results that are coming from the analysis is going to be green that basically shows that you're an optimal energy state, meaning that the current in the current out is the same. You're, you're healthy, it's good, you're good to go. Yellow is that it's inflamed, it's starting to go, but you know, starting to get stressed out. The blue is degenerative. It actually means that, you know, you've got damage, you're being damaged. It's not just a little bit"
+    },
+    {
+        "start": "00:15:34.400",
+        "end": "00:16:03.200",
+        "text": "of inflammation and discomfort that you've got some damage and that there's problems. It's a serious, you know, it's a very serious to understand that there's, you know, you're being damaged. And then the, the red, it comes out, it just shows as your total deregulation. So if you see red, that means bad. That means like, okay, you've got a chronic serious problem with that area, okay? You know, so you can, you know, obviously you can realize, right? Damage does not name mean, damage does not mean you're, you know, like severe, right? So it's just, that's the scale,"
+    },
+    {
+        "start": "00:16:03.200",
+        "end": "00:16:30.560",
+        "text": "right? It goes from perfectly healthy to being affected to blue being, hey, you're being damaged, you're flat out, you know, being damaged. And then red means you are completely damaged at that point. So that's kind of how they did the scale. So let me get into the study now. Thank you for listening to that. But I think it's really good context for the study. Now, there's been four studies that popped out. So let me just kind of show it to you. Here's my Adobe reader. And so there's been four different studies. And so there's, they kind of number"
+    },
+    {
+        "start": "00:16:30.560",
+        "end": "00:16:59.760",
+        "text": "them so that you've got, they call the study P76 1.0, where they study the EMF in an electric vehicle via quantum entanglement using an Laila infinity block. Now they use the Laila infinity block for all four of these studies. And for those of you who have blocks, the Laila infinity block is the same power level as a travel block, which is sort of why the travel block was invented. So these little travel blocks or the infinity blocks have the same potential as, you know,"
+    },
+    {
+        "start": "00:16:59.760",
+        "end": "00:17:29.840",
+        "text": "for this study, you can put that in the same category. So there's just one, there's 76 1.0, there's 76 1.1, which is subject number two. That's the second person that was evaluated, again, using an electric vehicle, electric car, the 76 2.0. Again, this is another individual. And then of course, there's a fourth study on a fourth different individual, 76 2.1. Now, I'm gonna just share with you 76 2.0, you know, because all four studies show similar results. So,"
+    },
+    {
+        "start": "00:17:29.840",
+        "end": "00:17:58.240",
+        "text": "you know, if you read one, it's sort of like reading all of them. So I kind of want to share the study with you so you understand, you know, how it was done, you know, in terms of actual, you know, study on the persons. But before I get into that, I kind of want to explain what the study is. So the objective of the studies was to prove the functionality of the glala quantum infinity block by test results obtained by confronting the subject, the person, with exactly selected EMF, EMSF. I don't know why they call it that. Carrying objects in the"
+    },
+    {
+        "start": "00:17:58.240",
+        "end": "00:18:27.680",
+        "text": "electric vehicle and the electric vehicle itself in order to significantly prove and compare his or reactions without, right, this is the before picture without the block and then with the block. Okay, so that's really kind of as simple as it gets. You know, before you drive that thing, let me see how you look, you know, and let me take an assessment of how your body is, you know, telling us how, you know, how you are, which your level of wellness and health. And then they put them in the car for a different, very experience of time. And then they evaluated them"
+    },
+    {
+        "start": "00:18:27.680",
+        "end": "00:18:54.880",
+        "text": "after to see what the effect of being in the car was. And then they did a third one where they said, hey, okay, now you're, we test you before you get in the car, you drive around in it for a little while, then we test you like what, you know, what's happening to you as you're in that car. And then thirdly, okay, now we put an infinity block in there. And then you'll see, you know, see how you're doing after that. So now the different individuals, you know, subject one, two, and three, you know, so they've got different people in the different studies. But I'm focusing"
+    },
+    {
+        "start": "00:18:54.880",
+        "end": "00:19:23.840",
+        "text": "on subject three right now, but you'll kind of just see where there's different people. There's a female, a pensioner is an older lady, another individual was a male 37. But this one that I'll be sharing with you is a female age 62, who actually lived in, they made a comment that she lived in the vehicle. Okay, so they took, they just took, you know, the individual, again, 62 year old female is the study that I'll be covering. And so let's talk about that study now. So this is 76 2.0."
+    },
+    {
+        "start": "00:19:23.840",
+        "end": "00:19:52.720",
+        "text": "All of these are going to be eventually posted on there. So you can easily read the other ones when you want to, once they get posted to the website. So now I'm going to just jump ahead, I'm going to make this a little bit bigger so you can read it as well. Make it a little bit bigger. And let's jump ahead to the section of the study that kind of just explains, okay, what they did. So now this is what they did. They went here, position one. So there's all these different measurements. So they're taking lots of different measurements of the person. So the very first one"
+    },
+    {
+        "start": "00:19:52.720",
+        "end": "00:20:21.360",
+        "text": "is about half an hour of driving, I'm sorry, that's position four, I'm sorry, I'm sorry, position one. So this is when they start. So a basic test was created by the test person outside the luxury class vehicle, okay, electric vehicle, electric car. So they know this is where they take up measurement, and you're going to see the results here as I scroll down. You know, these things are like 34 pages each, so that there's a lot of information here. A very detailed study"
+    },
+    {
+        "start": "00:20:21.360",
+        "end": "00:20:47.440",
+        "text": "was done. And you know, you can see how they really detailed oriented. So they basically test the subject before or outside the luxury class vehicle before they get into it. And then position three is where they're in that vehicle, and they're driving it and they're writing in it for five minutes. That's the second measurement. The third one was about a half an hour after driving, right? So half an hour after they drive for five minutes, they do another measurement."
+    },
+    {
+        "start": "00:20:47.440",
+        "end": "00:21:14.080",
+        "text": "And then in this case, they actually had the person turn on their smartphone. They had a generation 4G smartphone, they had that person turn their smartphone on inside their vehicle while they're driving it, okay? To see, hey, you know what? Does the smartphone being on make it worse? And then after that, then they took another measurement, and then in position six here, this was their sixth measurement, they took a look at the person and said, okay, now"
+    },
+    {
+        "start": "00:21:14.080",
+        "end": "00:21:41.440",
+        "text": "you're driving around, and then what we're going to do is we're going to put the infinity block inside the car with you. And then after five minutes, five minutes now after they put the infinity block in the car with the person, they did a measurement. And then in position seven, the seventh measurement, after another five minutes, then they turn the phone back on. And then, you know, in this specific case, they actually had the person put their phone,"
+    },
+    {
+        "start": "00:21:41.440",
+        "end": "00:22:08.240",
+        "text": "you know, lay it on their thigh, which is apparently where this individual, you know, this was their habit, right? They'd have their phone put it on their thigh, they're driving in their electric vehicle, but this time again, you know, they're looking at it like, okay, well, what happens when you do that with the infinity block in your car? So let's jump right into the results. And remember now what the colors are, so I want to remind you one more time what the colors mean. So you've got green is good, yellow is is you're starting to go bad, blue, you're"
+    },
+    {
+        "start": "00:22:08.240",
+        "end": "00:22:38.480",
+        "text": "definitely in a very, you know, you're being damaged. And red is really, really, really bad. So let's go back to the 62 year old lady who was in her car. And again, so let me, hopefully I'm going to try to remember where we're at on this one, because there's a lot of information here. So the very first thing is the very first thing, right, she just outside of her car, and has, and just okay, before you start driving. So then let's take a look at it. So now, right off the bat, the person is in green. So if we've got, I just want to point back again,"
+    },
+    {
+        "start": "00:22:38.480",
+        "end": "00:23:06.560",
+        "text": "what is green mean? Green means great blue means you're, you're not doing too good. And so right off the bat, this person is mostly green, a little bit, you know, and partially blue. There's some yellow in there. So there's definitely some inflammation, but the blue. And so I want to point out here before I get going too far is that if you look at every one of these other best of studies, and there's been a bunch of them, they've been, they've studied the heel capsule. They studied the different quantum block, the infinity block, without cars, okay, with all sorts of, but there's been"
+    },
+    {
+        "start": "00:23:06.560",
+        "end": "00:23:34.880",
+        "text": "over a dozen studies and every, and even on pets, every single one of them showed that they were living in a degenerative state. Every one of them was blue, had some blue, you know, on their measurements. And that just goes, and then, you know, so of course, when you ask them, well, why does everybody have problems? And nobody's just, you know, like walking around in a good state and bottom line is because of the environment we live in. We live in a 24 hour electro smog,"
+    },
+    {
+        "start": "00:23:34.880",
+        "end": "00:24:03.440",
+        "text": "constantly subjected to radiation from every possible device that we're interacting with, plus the chemical soup that we live in, whether it's in the food, in the forms of preservatives where glauphosphates and, you know, pesticides and fungicide, even the bread you eat, you know, if you ever wonder why your bread doesn't mold after two weeks, well, that's because it's full of fungicides, and, and that they basically keep the mold from growing. Well, it's a toxin to keep the mold from developing, wouldn't you know, so imagine what it's doing to your cells. So,"
+    },
+    {
+        "start": "00:24:03.440",
+        "end": "00:24:30.880",
+        "text": "you know, we live in a very toxic soup, every single thing from the food, the air, the water, the chemicals we use in our home, the soaps, everything is a constant assault on our bodies in terms of we are always in somewhat of an inflammatory state. We're always overcoming the damage that's being done to us, and, and basically fighting off the, the assault of all these toxins, all these different toxins and radiations that we're exposed to. So that was, you know, so at the end"
+    },
+    {
+        "start": "00:24:30.880",
+        "end": "00:24:59.200",
+        "text": "of the day, I mean, bottom line, we should all be very concerned that that is the condition by which we exist is in a degenerative state, right? And to what level defines your level of health, and of course, degenerative state leads to damage states, which leads to disease and chronic conditions. So, you know, you can just kind of figure that out from there. So again, the lady, before she starts driving her car, she's 57% in, again, the green, 42% in the blue, which means,"
+    },
+    {
+        "start": "00:24:59.200",
+        "end": "00:25:29.040",
+        "text": "you know, more than, you know, she's in a pretty good shape. I mean, for someone who is, you know, any one of us is this is a good, actually a good picture, because we're more healthy than we're not, you know, and, you know, living in the environment we live in. So you can see where the, the results show, you know, the condition of the lung, the skin, the large intestine. So these are all the different radians that they're testing to see, you know, what the impact is on every single one of these radians. So you can imagine how long this takes to do one study, because they have to measure"
+    },
+    {
+        "start": "00:25:29.040",
+        "end": "00:25:54.560",
+        "text": "multiple times. And then for every time they measure, they measure 60 different radians, okay, or 60 different points. So in this case, this lady, you know, definitely, there's issues with lungs and skin, but she was looking good, large intestine was okay, connective tissue was okay, nerves were okay, or organ degeneration was not, you know, was green. So not so bad, sets and problems with stomach, but you can kind of see just, I won't get into too much detail, because you can see the colors and that's the whole point, you know, so we make"
+    },
+    {
+        "start": "00:25:54.560",
+        "end": "00:26:20.400",
+        "text": "this video as short as possible. So that was before she got in the car. Now she gets in the car, remember now this is the second time she gets in the car, she first time she gets in the car, she's driving around for five minutes after five minutes. She's only two percent in optimal health, and now she's 97% measured to have, she's now being basically exposed to a radiation that is"
+    },
+    {
+        "start": "00:26:20.400",
+        "end": "00:26:47.280",
+        "text": "seriously affecting her, is beginning to seriously affect her health. Now every one of these, look at the level of blue on every single part of her body has now shown that she's in a degenerative state, her body's being inflamed, it's being, you know, and if you look at, again, if you look at the blood tests that were done by Dr. Rubik on the exposure to Wi-Fi, which is another, you know, it's another EMF radiation, you'll see the actual blood, the effects on the blood is"
+    },
+    {
+        "start": "00:26:47.280",
+        "end": "00:27:13.680",
+        "text": "coagulation, lots of, you know, lack of oxygenation, and, you know, basically a decrease in immune response and so forth. So the blood is being directly affected in the exposure of EMF. So not only is she inflamed, but she's got all sorts of different, now all of a sudden, you can see the extent of being in this electric car is pretty, pretty intense. And so it's right there. I mean, the bottom line is, I personally have never been in one, I've never driven one,"
+    },
+    {
+        "start": "00:27:13.680",
+        "end": "00:27:41.280",
+        "text": "and I don't ever want to get into one after looking at this study personally. Okay, so that's five minutes now. Now you look at it, okay, now remember now she drives now, the next time they measure her, she's been driving around, I believe it was for 20 minutes, and so now she's like literally, it's 95, now after 20 minutes, she's 95% degenerative, and now 5%, she's being there, she's actually experiencing damage. There's actual damage"
+    },
+    {
+        "start": "00:27:41.280",
+        "end": "00:28:04.720",
+        "text": "happening to her body from the radiation from this car, EMF radiation. So this is pretty, pretty eye opening. For those of you who have an electric car, I'm sorry, but this is what's happening to your body when you're driving that thing. Five minutes and then, you know, 20 minutes later, you are 95%, you know, being exposed to a very harmful EMF, and 5% of you is now starting"
+    },
+    {
+        "start": "00:28:04.720",
+        "end": "00:28:32.000",
+        "text": "to get damaged. So then they measure her again, and then, I believe this was, I'm sorry, I'm trying to keep it in memory, it's like five minutes. Oh yeah, this is the third one, where she turns the phone on, and so now it's 92 and 7%. So now, remember it went from 5% red, now to 7% red, after she turns the phone on in her car. So it just made it worse, you know, so it's just like,"
+    },
+    {
+        "start": "00:28:32.000",
+        "end": "00:28:58.240",
+        "text": "okay, well, how do you make, when you're, when you're exposed to severe EMF, and your body is starting to be assaulted by the radiation, well, let's turn the phone on, and let's make it even worse, which is what, you know, which was what happens if you leave that phone on while you're inside this EMF box. So then what happens? So then they put the, after five minutes, remember, they put the infinity block in the car with this person, and then all of a sudden, boom,"
+    },
+    {
+        "start": "00:28:58.240",
+        "end": "00:29:26.720",
+        "text": "this is the benefits of quantum healing. This is the effect of quantum energy on the body by literally not just reversing the effects mitigate. Oh no, this is on your body now, we're not measuring EMF at all, we're just measuring, or this is best as just measuring what your body's response is. Now your body's response after you put the infinity block, or again, if you put the travel block in the vehicle with you, then all of a sudden, boom,"
+    },
+    {
+        "start": "00:29:26.720",
+        "end": "00:29:50.720",
+        "text": "you go into 100% right there, I don't know if you can see it, 100% in the green. So you have been completely on from a bio energetic standpoint, the effects on your body have been 100% reversed, not just the blue, but the red as well. So the damage stops, and the effect, the assault on your body stops, and you're back, and you're back to running at an optimal state. This exact"
+    },
+    {
+        "start": "00:29:50.720",
+        "end": "00:30:15.440",
+        "text": "measurement is the same results as if you look at the Dr. Rubik study in EMF, you know, quantum benefits for healing, I'm sorry, benefits of quantum healing, EMF part one, where they looked at the blood, and you'll see this incredible 180 turnaround in the performance and the health of the blood. Immune response goes up, right, coagulation almost disappears,"
+    },
+    {
+        "start": "00:30:15.440",
+        "end": "00:30:40.160",
+        "text": "oxygenation's good, you know, so it just really just does this incredible health benefit of the quantum energy on the blood, but then you can also see what the incredible effect of the quantum energy on all of the different organ systems within the body as measured through bio energetic. So it turns it around 180, this is five minutes with the infinity block in the vehicle. Okay, so every single one, you can see it's completely turned around 180,"
+    },
+    {
+        "start": "00:30:40.160",
+        "end": "00:31:06.080",
+        "text": "and the effect on your body is gone. There's no effect on your body at this point from the radiation. And again, they measured it one last time, where she turned the phone on, and she, you know, this is with the infinity block in the car, then she turns the phone on, and again, it's still at 100%. So even if you amp up the EMF, right, this is what it means, you're in the car, you amp up the EMF, it's even worse for you, but this time she amped up the EMF by turning on the"
+    },
+    {
+        "start": "00:31:06.080",
+        "end": "00:31:27.200",
+        "text": "phone, but it had no effect on her body because of the infinity block sitting in her car. I think that quantum energy has this incredible healing effect on the body to basically prevent your body, you know, prevent. Well, that's actually the way I look at it. It's, it's, it gives your"
+    },
+    {
+        "start": "00:31:27.200",
+        "end": "00:31:55.760",
+        "text": "body the energy, right, to basically block the effect of the radiation. So the radiation's still hitting you, but you're not getting any, you're not, you're not being impacted by it. And that's what's key here. So then at the end of the study, it's just a summary of the results of the different measurements that were taken. So again, I kind of want to just stipulate that, you know, it's such a big deal. This is such a big deal, because, you know, and, and if you look at the actual study,"
+    },
+    {
+        "start": "00:31:55.760",
+        "end": "00:32:25.680",
+        "text": "it shows this. So let me just read you what the official quote definition of blue means is that basically they do a measurement. It's 50 to zero on the, on their, on their machine, but it's so called the genitive measuring the range or a lack of energy as reaction to the stimulation of the system by corresponding environmental signals. Okay. So you're basically being affected. And then it moves up to green. And then you are now in an optimal state where it's measuring a range of 50 to max. I think it's, yeah, it's 50 to zero, but then, you know,"
+    },
+    {
+        "start": "00:32:25.680",
+        "end": "00:32:53.840",
+        "text": "50 to max 70 still count as natural, meaning the higher the number, the, the better the energy is flowing through you. And you want that, you know, you want, you want to have a flow of energy, the flow of energy throughout your body means you're healthy. And that's what that means. So that's the study. Again, there's four of them that we published in the near future. Today is March 26, 2023. So hopefully by April, you'll be able to access all of these studies. This was"
+    },
+    {
+        "start": "00:32:53.840",
+        "end": "00:33:21.120",
+        "text": "one of the four, the other three studies, very similar results, if not the same results. At the end of the day, the summary, I believe that you'll get from looking at these studies is, if you're in an electric vehicle, don't turn on your phone. It's bad enough that you're in one. It is very unhealthy for you to be driving a one or driving around in one or riding around in one. And if you are going to be doing that, then you really should consider, you know, anything. I"
+    },
+    {
+        "start": "00:33:21.120",
+        "end": "00:33:48.160",
+        "text": "mean, whether it's EMF clothing or Leila Quantum Tech product, but please, you know, do what you can because it is not good for you. And you should try to be doing whatever you can to either get a different car, you know, honestly, or, you know, you know, try to mitigate it through one of these technologies that'll help you. And again, you know, EMF clothing is one, C60 is another one. But then again, this is the video about the benefits of quantum healing."
+    },
+    {
+        "start": "00:33:48.160",
+        "end": "00:34:15.280",
+        "text": "So if you want to learn more about quantum energy, I'm sorry if I scared you, but this is the result of the study. And it's true. It's valid. It's based on an 80 year old scientific methodology and done by a very, very professional clinician. So, you know, at the end of the day, you know, do what you can to protect yourself, especially if you have children. Children are extremely even more susceptible because they're growing your pets as well. So anything that's in"
+    },
+    {
+        "start": "00:34:15.280",
+        "end": "00:34:42.000",
+        "text": "that car with you is being exposed to radiation. So, you know, I encourage everyone to do what you can. It not just, you know, with quantum, but do what you can. So if you want to learn more about quantum energy, you want to read the studies in the future, you can go to the Layla Quantum Tech website. I'll put the links below in the description. Of course, if you're interested in getting, you know, an infinite block or a travel block, you know, that again, that's on the same website, link below, or you can find me. I have a huge section of my blog about quantum energy. And it's"
+    },
+    {
+        "start": "00:34:42.000",
+        "end": "00:35:08.720",
+        "text": "my blog. It's called the Tinkers Academy. And if you just type in tinkers.academy and you are all window, it takes you right to my blog, of course, the links in the below in the video description. So that's how you can learn more about quantum energy. You can take a look at some of these studies yourself. And if you have any questions about anything that you're seeing or hearing here, then please join us. I'll put the links as well in the telegram chat group. Ask away. You should be asking. You should be skeptical, you know, and you should out there, you know, definitely"
+    },
+    {
+        "start": "00:35:08.720",
+        "end": "00:35:34.000",
+        "text": "encourage everyone. Ask and ask questions. Ask all the questions you want. You know, because this is real. It is validated. It's a third-party independent study that Leila commissioned. So there's no, there's no bias. It's third-party. Leila did not do the study themselves, you know, is the best institute that had, would that have been commissioned to do that. And so there you go. I hope I appreciate your time today. I hope this was something you learned and that you found"
+    },
+    {
+        "start": "00:35:34.000",
+        "end": "00:35:38.880",
+        "text": "interesting. And again, thank you for your kind comments. And Aloha. Have a great day."
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.880",
+        "text": " Aloha, everyone, and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and in this video, I'd like to talk to you about why you need vitamin D. No, really, because I know you've watched lots of different vitamin videos, and of course, you know that every vitamin is important to you and all the minerals and all that stuff, but this is not that video. Basically, what I wanted to share with you is some news that's coming up, some studies that have been done about the effect of vitamin D on the news,"
+    },
+    {
+        "start": "00:00:26.880",
+        "end": "00:00:55.120",
+        "text": "and also, you know, really kind of just taking a look at some of the myths, like, you know, what's the deal with vitamin D and vitamin K, and do you really need both? Is sunlight better than oral, you know, oral supplementation and that sort of thing? So, I did some research, wanted to share it with you, especially in light of the times, and, you know, want you to join me, and maybe I can help you learn something, and this will be educational for you, and so let's jump right in. So, of course, there's that disclaimer, the video content is not intended for to be a substitute for professional"
+    },
+    {
+        "start": "00:00:55.120",
+        "end": "00:01:24.320",
+        "text": "medical advice diagnosis or treatment. Always seek the advice of your physician or other qualified health provider in any questions. You have regarding medical condition, or disregard professional medical advice or delay in seeking it, because it's something you have read or seen in this video, or on the Tinkers Academy website. The Tinkers Academy hereby disclaims any and all liability to any party for any direct, indirect, implied, punitive, spectral, incidental, or other consequential damages arising directly or indirectly from any use of the video content and associated blog"
+    },
+    {
+        "start": "00:01:24.320",
+        "end": "00:01:51.920",
+        "text": "post, which is provided as is and without warranty. All right, there you go. I wanted to just don't sue me. Bottom line, though, is, you know, if you just find stuff on the internet and YouTube and things like that, you know, I encourage everyone to do their own research. I try to provide as much research to you and help you make the right decisions for you and your family. Also, too, another just FYI, all of the information held in this video is available via links in the video"
+    },
+    {
+        "start": "00:01:51.920",
+        "end": "00:02:21.840",
+        "text": "description below, including products, research, etc, etc. So there you go. Let's jump right in. Now, first things first, I'm just going to real quick, you can just, you know, pause the video if you want to read the slide. But bottom line is depending on what you read, the vitamin D deficiency in the general population for Caucasians is anywhere from 36 to 42%. So there are a butt load of us that are vitamin D deficient and most likely deficient and everything else as well. So that's no surprise, right? But the thing that's interesting that when I did the research on this was that"
+    },
+    {
+        "start": "00:02:21.840",
+        "end": "00:02:51.520",
+        "text": "Hispanics are 63% on, you know, on average when they do these statistical analyses and even more so African Americans are 82% deficient in vitamin D. So it's kind of a pronounced problem. You know, you can definitely see and it's even more interesting as the darker your skin is that you'd actually have more problems with vitamin D. So I thought that was really interesting and obviously there's a lot of associated problems with vitamin D and you can go ahead and just take a peek at this thing. But one of the interesting things here is that there are a lot of things that can go wrong if you"
+    },
+    {
+        "start": "00:02:51.520",
+        "end": "00:03:17.120",
+        "text": "don't have enough vitamin D, which of course goes along with everything else that you could be deficient in. So bottom line vitamin D deficiency bad. Okay, but here's the news that I wanted to share with you. And this is the thing you, unless you're living under a rock, and most of you are not bottom line is, you know, yours, if you've been paying attention to the news, then you know that this is coming up and it's becoming more and more and more pronounced in media and the mainstream"
+    },
+    {
+        "start": "00:03:17.120",
+        "end": "00:03:47.280",
+        "text": "media about the fact that, you know, COVID is making a comeback. So let me just share with you. This is from the Today NBC News. Literally one week ago today, today is September 12th, Tuesday, 2023. And now, honestly, everywhere I look, YouTube, you know, I don't really watch television, but all the ads that I'm seeing on all the different streaming services that I have are now really, really pumping, you know, the fact that COVID's making a rise. And of course,"
+    },
+    {
+        "start": "00:03:47.280",
+        "end": "00:04:14.960",
+        "text": "they just recently just FDA just approved a new booster. So, you know, it's, it's like, it's really, really ramping up. And so I just wanted to share it with you. She kind of get an idea of what's really going on concert and sports arenas, even daytime TV. A reminder that COVID-19 has not gone away as health experts say a late summer wave of cases is now leading to an uptick in hospitalizations, though still well below pandemic peaks."
+    },
+    {
+        "start": "00:04:14.960",
+        "end": "00:04:40.480",
+        "text": "We haven't reached a predictable pattern with the virus. That's why we have to care. And we're seeing incredible mutations and changes in the virus among those. Boy, where have you heard that before? So, you know, at the end of the day, when we take a look at what happened during the pandemic, I think it's safe to say that people were getting sick. You know, we know that the PCR tests were flawed. So you're either getting a cold, the flu, you know, or COVID itself. But there really was an"
+    },
+    {
+        "start": "00:04:40.480",
+        "end": "00:05:06.800",
+        "text": "actual COVID because of all the people I know and all the different, I mean, I really just, you know, what do we do for two years other than being locked down and just really pay attention to this stuff. But at the end of the day, people are getting sick. And so the people who actually got COVID were just sick as hell, couldn't smell just out for two weeks down. I mean, down hard. And then a lot of them have long COVID where they're still not well. And then there's other people out there who"
+    },
+    {
+        "start": "00:05:06.800",
+        "end": "00:05:33.520",
+        "text": "just got the flu. And you know, I knew people that, you know, basically tested positive and got a two week vacation with a little bit of sniffles. So, you know, the whole idea though, is that there's a regular flu that goes around even as much as the media wants to pretend that the flu went away during pandemic, which is complete BS, right? The flu just doesn't disappear after 200 years. So bottom line though, but you know, let's just for sake of argument, people are getting sick and you're either getting really, really sick or mildly sick. But either way, you're getting sick. And"
+    },
+    {
+        "start": "00:05:33.520",
+        "end": "00:06:00.000",
+        "text": "now with this thing coming back, you know, and they're really starting to pump it out, then obviously we're also entering into winter. So here's the thing that I wanted to point out specifically to COVID because you know, they're making a big deal about it coming back. And as course, you remember it being something that was a bioweapon that got out of a lab or released from a lab, depends on who you talk to. But at the end of the day though, you know, if this is coming back"
+    },
+    {
+        "start": "00:06:00.000",
+        "end": "00:06:27.360",
+        "text": "and we're going to see another, you know, release and or seasonal flu and all that stuff, then this is what really is interesting about that particular thing. So, and the thing that we're really most concerned about and what I'm kind of keeping an eye on is, hey, you know, if something else gets released again, and they want to ramp it up because, you know, coincidentally, it is an election year next year. Bottom line is that, you know, in the early days of the pandemic, they did a study and"
+    },
+    {
+        "start": "00:06:27.360",
+        "end": "00:06:56.240",
+        "text": "there's a study published in the NCBI, you know, you know, scientific literature that basically we're saying, hey, you know, they took a look in the early days of the of the pandemic. They were looking at, okay, let's again, let's just ignore that whole PCR thing being wrong and who knows what they really had. But at the end of the day, they basically said, hey, you know, 180 out of 185 people that were hospitalized, being sick with the, you know, the typical symptoms of flu/COVID bottom line, though, they took a look at that and they found out that out of 185 people,"
+    },
+    {
+        "start": "00:06:56.240",
+        "end": "00:07:25.760",
+        "text": "they're showed statistically a clear inverse relationship between the magnitude of the disease and the levels of vitamin D on admission. Okay, so out of these, the 50% who were hospitalized, okay, showed characteristic, characteristic vitamin D deficiency. Now, okay, so let's say 185 people get sick, you know, and end up in the hospital because they're sick. And then we know that 36 to 42% are vitamin D deficient anyway. And they find out that 50%"
+    },
+    {
+        "start": "00:07:25.760",
+        "end": "00:07:53.200",
+        "text": "of the people that ended up in the hospital are vitamin D deficient. Well, you know, honestly, unless they split that out by race, that just means that it's just the typical population. All right. Right. I mean, statistically, it's the same time number almost. So it really did vitamin D really make a difference between the severity of the disease. By the way, we're not talking about getting it or not. We're talking about severity. Okay, this is what the study focused on. So the whole idea, though, is that, you know, the scientists were like, you know, is it really causation"
+    },
+    {
+        "start": "00:07:53.200",
+        "end": "00:08:16.800",
+        "text": "or preventative? And the numbers really weren't there. And so the whole idea there, they were looking at in the beginning, they were looking at science was looking at the ability for vitamin D to counteract, you know, you know, the actual catching of the disease. And they were looking at it as a possible treatment. So then what was interesting, though, and I want to point out another study that was published in PubMed called vitamin D insufficiency may account for"
+    },
+    {
+        "start": "00:08:16.800",
+        "end": "00:08:42.880",
+        "text": "almost nine of 10 COVID-19 deaths. Okay, so this was later on in the year in 2020, where they started looking at people who were, you know, they were claiming that died of COVID. And again, if you've been paying attention during the pandemic, you know, that's, there's a lot of BS in those numbers. And so it looks like it's really hard to kind of make sense of it. But if you just step back and say, okay, regardless of what the PCR test, who cares what you labeled their illness,"
+    },
+    {
+        "start": "00:08:42.880",
+        "end": "00:09:10.480",
+        "text": "let's just say they got sick. And they ended up in the hospital, and no real change there, you know, the same kind of rough percentages. Unless, of course, like again, unless you really break it out by race, you really don't know if that 50%, you know, we're vitamin D deficient, because they, you know, was it because they were sick? Who knows, right? Because it just, it isn't substantial. However, they later on did another study and was a study of studies, you know, where they actually said, Hey, let's look at all the people that are claimed to have died,"
+    },
+    {
+        "start": "00:09:11.280",
+        "end": "00:09:38.720",
+        "text": "you know, or died with a claim, right, to COVID. And again, just people that are sick, people that are sick and died that year. When they took a look at it, I think this is where it really stands out as as a causation. And basically, they said, you know, of this study, where they found out that almost nine out of 10 people died. So bottom line, those evidence from observational studies and accumulating is accumulating, right? This was during the pandemic, there were a year"
+    },
+    {
+        "start": "00:09:38.720",
+        "end": "00:10:08.080",
+        "text": "into it. But bottom line, they really started taking a look at the studies and that they've discovered that the majority of deaths due to SARS COVID infections, i.e. they were sick, were statistically attributed attributable to vitamin D insufficiency and could potentially be prevented by vitamin D supplementation. So at this point, a year into the pandemic, you know, doctors, parents, scientists, and all those guys started realizing that, Hey, vitamin D is playing a significant role, not only in the severity of the conditions, but also now is really affecting"
+    },
+    {
+        "start": "00:10:08.080",
+        "end": "00:10:34.240",
+        "text": "the deaths of people who, quote, got sick of something, right? But then this is what's most important. This is really what I wanted to convey. One of the key points in this video is that, hey, this study available PubMed links below in the video description, you can read the study yourself. Bottom line is that when translated to the proportional proportion of deaths in the population that is statistically attributable to vitamin D insufficiency, a key measure of public health"
+    },
+    {
+        "start": "00:10:34.240",
+        "end": "00:11:02.720",
+        "text": "relevance of risk factors, these results imply that 87% of people who got sick died deaths, right? Maybe statistically attributed to vitamin D insufficiency and could potentially be avoided by eliminating vitamin D insufficiency. Okay, so what does that mean? Seriously, getting sick, whether it's the flu or whatever they want to name it this year, right? Bottom line is, hey,"
+    },
+    {
+        "start": "00:11:02.720",
+        "end": "00:11:31.040",
+        "text": "you know what? The majority, the majority, nine out of 10 people who ended up dying from being sick, right? Call it which one? We're vitamin D deficient. I think that is a significant piece of information. Take that bullet, put it in a pin, and then say, hey, well, wait a minute, then okay, it does actually make an effect. I mean, these are, it has an effect. Okay, so now, that's what I really wanted to convey. So when it comes to why do you need vitamin D, well, hey,"
+    },
+    {
+        "start": "00:11:31.040",
+        "end": "00:11:56.080",
+        "text": "this is a hell of a reason. We're getting into winter now. It's, it's fall. We're in the flu season, and now we're going to be coming up to COVID season. And I realize that a lot of you still have your wildfire decorations up, but now we need to put up our COVID decorations. But here we go. We're entering a new season and vitamin D is a big deal with it according to the studies of the studies. Okay, so this is real factual information, not the propaganda, you know, that other stuff."
+    },
+    {
+        "start": "00:11:56.080",
+        "end": "00:12:26.000",
+        "text": "So now, let's take a look at some of the myths behind vitamin D. So hey, you know, one of the first questions I want to know was, well, you know, I mean, I take supplementation for vitamin D, and I'm also, you know, I also try to spend as much time as I can outdoors getting sunlight. The two ways you can get vitamin D is your body can produce it when you're out in the sun, right, or you can take its supplements. But one of the questions that I came up with is like, well, which is better. You know, I mean, is there really any difference between getting sunlight and"
+    },
+    {
+        "start": "00:12:26.000",
+        "end": "00:12:53.840",
+        "text": "taking oral supplementation? And then of course, you know, you got this whole thing in the winter, where you're not really going to get a lot of sunlight because you're wearing so much clothes. And at the same time, we have a society now that is sort of wrapped around their smart devices, and they don't get any sun normally, you know, so there's not a lot of people that work outside, you know, you know, actually, you know, because we're service industry, we're typically working indoors, the majority of us. So hey, which one's better taking a supplement or going to getting"
+    },
+    {
+        "start": "00:12:53.840",
+        "end": "00:13:18.480",
+        "text": "sunlight? And here's an interesting study that came from the NCBI. The title of this study is effective sun exposure versus oral vitamin D supplementation on, you know, vitamin D3 levels in young adults. I'm sorry, young adults. And so the interesting thing about this study was they've discovered that there's really no difference. Okay, so that means that both are good. And so they took it, there was an eight week randomized placebo controlled clinical trial that they did"
+    },
+    {
+        "start": "00:13:18.480",
+        "end": "00:13:46.320",
+        "text": "in Korea, which is they didn't soul Korea. And now so Korea is at 37 North Latitudes. So you know, it's the same point. Literally, you know, I think I think the United States, the continental United States is the lower 48, right? So it's anywhere from like 30 degrees North Latitude to 48 degrees North Latitude. So if your soul would be like literally the middle of our country in terms of where it is on the planet. So it's the same place, same amount of sunlight, eight week controlled"
+    },
+    {
+        "start": "00:13:46.320",
+        "end": "00:14:12.800",
+        "text": "randomized study, and they did a study. And they discovered, and this is what's interesting though, they discovered that sun exposure and oral vitamin D three effectively increased. So that was bottom line, the bottom line is that, hey, there's really no difference between the two. However, what was interesting in the results of this study was they discovered that the ones that had taken oral supplementation actually had higher vitamin D, but then when they actually got into the details"
+    },
+    {
+        "start": "00:14:12.800",
+        "end": "00:14:37.600",
+        "text": "of the people who were participating in this study, they found out that compliance with sun exposure was relatively low. In other words, the people who were told to go get extra amount of sunlight just didn't get around to doing it. And that's when they discovered, oh, that's why it's lower. So at the end of the day, the study comes out and says, Hey, you know what, they're pretty much the same. So you can, so the answer to this problem is bottom line is you can either take"
+    },
+    {
+        "start": "00:14:37.600",
+        "end": "00:15:06.000",
+        "text": "oral supplements or get sunlight, or both, right? If you really want to, I really want to make sure that you're out your levels are high. So now one of the things, so let's take a look at oral supplementation. So the issue about oral supplementation is that there's always been this thing about, you know, when you talk to the people that know this stuff, and they say, Oh, you have to take vitamin K, you know, especially, and just another thing too, there's vitamin D, there's vitamin K, and the ones that's recommended in these studies is a particular form of vitamin D called D3,"
+    },
+    {
+        "start": "00:15:06.000",
+        "end": "00:15:35.200",
+        "text": "and a particular form of vitamin K called K2, right? So let's stick to D3K2 from this point forward. So here's what's interesting. And I went looking around the internet for try to information about, Hey, you know, what's the relationship between the two? And there's lots of really good studies about it. And it really kind of summarizes down to the reason that those two are always kind of bundled together, and that you can't just think about, I need to take vitamin D or, you know, D3, I need to be taking K. And so why is that? So really, it's kind of very, very simple,"
+    },
+    {
+        "start": "00:15:35.200",
+        "end": "00:16:00.320",
+        "text": "is that here's the deal. In the absence of vitamin K2, calcium circulating in the body that has been absorbed from food by vitamin D is also deposited in the soft tissues of the body, and in the arteries leading to arterial sclerosis. Okay, so vitamin D3 should therefore always be taken in combination with vitamin K2. So what does that mean? Well, it's interesting because"
+    },
+    {
+        "start": "00:16:00.320",
+        "end": "00:16:29.360",
+        "text": "vitamin D and K, these are all like, you know, they're basically hormones, right? And so they basically trigger your body. And it has a lot to do with calcium. So what vitamin D does, and it's one of its one of its things that it does, right? Is it it deposits the calcium you're taking, and it puts into your soft tissues and your arteries. Now that's fine. If you don't overdo it, you know, your body will regulate itself. However, if you end up taking too much,"
+    },
+    {
+        "start": "00:16:29.360",
+        "end": "00:16:59.120",
+        "text": "or it accumulates too much in you, then that's problematic because you don't want to calcify your arteries. Clear, you know, that's common sense. And so what K2 does the opposite. And that's what K2 vitamin K comes in and says, Oh, no, it takes the vitamin, it takes the calcium out of your soft tissues and puts it into your bones. And that's why those two come together. They balance each other out so that over, you know, overdoing on either one or, you know, one or, you know, just keeping it all in balance so that you don't have too much calcium in your soft tissues and it"
+    },
+    {
+        "start": "00:16:59.120",
+        "end": "00:17:27.680",
+        "text": "always ends up where it needs to end up. And so that's really what it comes down to. So I found this really great article on a website called vitamin express. And in here, you know, when it talks about dosage, it's real interesting because that's one of the clear things I was trying to really trying to figure out in my research was what is the proper dosage of these two things, you know, A, it's clear you need to take it. You need, you know, you need this, right, if you especially if you want to avoid the big C. And so how much should you take? And so now the literature"
+    },
+    {
+        "start": "00:17:27.680",
+        "end": "00:17:57.200",
+        "text": "is a little bit, you know, literature is rule all over the map. And but bottom line is this article really kind of gets into the whole wall. If you have, if you know, this is your level of health, or if you have these health problems, and you should take this much, if not that much, if not, and so it really kind of broke it down to, Hey, what if there's a range, you know, so nothing's like, you know, black and white. So vitamin D three, people, this is the recommended dosage, you know, according to the science, based on your health, it really depends on your health. You might want to take, you know, take a read at this article to kind of get an idea of like,"
+    },
+    {
+        "start": "00:17:57.200",
+        "end": "00:18:24.000",
+        "text": "where do you stand? But the range is anywhere from 2,500 to 5,000 IU per day for vitamin D three, and the range for vitamin K two is 45 to 200 micrograms per day. Okay, so that's really what people should be taking. And of course, now taking oral supplementation depends on how much sunlight you if you get all, if you get constant sunlight and you're always bodies producing it, as was, you know, as was the study in South Korea, you know, then you can completely be fine,"
+    },
+    {
+        "start": "00:18:24.000",
+        "end": "00:18:48.720",
+        "text": "just off of sunlight. But if you don't get a lot of sunlight or no sunlight, then you're going to need oral, right? So it's kind of like this balance between the two, or you do the two together, if you do the two together, then you don't have to worry about, you know, getting too much of either one. That's the whole point about the balancing. So I spent some time on Amazon, I did my thing, the best price, highest review, and also to try to figure out, okay, how do these numbers match up?"
+    },
+    {
+        "start": "00:18:48.720",
+        "end": "00:19:14.240",
+        "text": "So I did find two specific supplements that were the best price for their dosage amount per capsule. And the thing about it, right, this is the low end. So if this one from now, vitamins, basically the D3K2 complex, you know, it's really, it's really kind of really inexpensive, but it's 1000 IU and 45 MCG of vitamin K2. All right, so this would be the low end of the scale."
+    },
+    {
+        "start": "00:19:14.240",
+        "end": "00:19:42.480",
+        "text": "And then of course, the high end of the scale would be 5000 IU and 200 micrograms. And so you kind of got this is the scale right here. And this is the price difference, because you're obviously getting more. But you know, if you wanted to save some time, take a shortcut, then, you know, links in the video description below, I did the homework research for you. So that's kind of how that works out. And then of course, you know, again, guys, it's September, winter's coming, the ramping up COVID, you know, please, you know, just help yourself, help your loved ones,"
+    },
+    {
+        "start": "00:19:42.480",
+        "end": "00:20:07.040",
+        "text": "and make sure that you are covered. Okay, and that's my recommendation. And by the way, I do this as well. Now, talk about sunlight. Okay, so here's the thing about sunlight. And it's not about the actual like, you know, it's not the specific idea of the, you know, while it is bio photons coming from the sun, but it's specifically the UV radiation UVB and UVA radiation, that's"
+    },
+    {
+        "start": "00:20:07.040",
+        "end": "00:20:33.440",
+        "text": "actually driving the melanin production in your in your epidermal layer of your skin that produces the vitamin D. So, you know, for me, I was like, okay, well, if we know that which is better and they're both the same. And then okay, well, then during the winter, I definitely want to take supplementation, because I'm not getting as much sunlight. But also too, just what I do, and if I just wanted to kind of make this recommendation, is that I also continue to get sunlight quote"
+    },
+    {
+        "start": "00:20:33.440",
+        "end": "00:20:59.200",
+        "text": "and sunlight and quotes through the winter, I use a vitamin D lamp. And so, you know, here is a study from MCBI and CBI on the effect of ultraviolet radiation from a from a portable fluorescent lamp. Okay. So, in other words, in the absence of sunlight, how do you keep getting, you know, how do you produce vitamin D naturally? Because for me, at the end of the day, I want to try to do"
+    },
+    {
+        "start": "00:20:59.200",
+        "end": "00:21:28.640",
+        "text": "everything I can as naturally as possible and not do, you know, not do synthetic, you know, synthetic simulation as much as I can. But bottom line, though, is this is why I think that it's really important to continue to get that ultraviolet radiation throughout the winter. So, you know, if you know, I'm from Hawaii, and so I never bothered with this. It was always sunny. And so, I didn't really think about it until I moved to the mainland. And when I got here, I'm like,"
+    },
+    {
+        "start": "00:21:28.640",
+        "end": "00:21:58.640",
+        "text": "you know what, I really want to make sure that I continue to get bio photons and, you know, sunlight throughout the winter months when I'm not being able to go outside very much or not be able to have sun exposure. So, I bought one of these lamps when I got here a couple of years ago, and I use it regularly throughout the winter. And I'll tell you, it really did, for me personally, this is my, you know, experiences. It really made, I think it made a positive difference in terms of just getting through the winter. You know, I was taking oral supplementation of vitamin DK2 as well"
+    },
+    {
+        "start": "00:21:58.640",
+        "end": "00:22:24.640",
+        "text": "as getting the, and getting the, you know, the UVB and UVA, you know, light to continue to have my body produce, you know, the melanin and producing D3. So, the interesting thing about this study, though, is that it proves that using this lamp, this very specific lamp, which was what was chosen to be used in the study, discovered that, you know, when you use this lamp, okay, it was, the study was,"
+    },
+    {
+        "start": "00:22:24.640",
+        "end": "00:22:52.720",
+        "text": "I believe it was seven individuals. It was actually a placebo controlled study. So, they did human tissue, they did seven human beings, and then they did a group of people who did not use the lamp, and they discovered that across the board, the ones with the lamp, and also the human tissue in the lab controlled, were actually, you know, had had risen in D3. So, A, it works, okay. And, you know, what was interesting is you don't have to do it a lot. I mean, the control study of the"
+    },
+    {
+        "start": "00:22:52.720",
+        "end": "00:23:20.720",
+        "text": "humans that were doing it were three times a week, okay. And then if you read, you know, I own this thing, so the instructions are you start out at three minutes, each side, so you kind of flip yourself like a hamburger, you know, you just, you know, and face it, face it, and then flip over, you know, but it was three minutes each side, right? And then you grow up to five minutes, and you do it every other day. And that's what I do throughout the winter, and it's just really quick and get out of the shower, boom, I stand in front of it, put your goggles on, you got to make sure you have goggles on because it is UV light. But the end of the day, you know, this thing worked"
+    },
+    {
+        "start": "00:23:20.720",
+        "end": "00:23:49.440",
+        "text": "really, really well. It traveled really well too, because I ordered it when I was in Hawaii, not thinking crap, I mean, now I got to go to the mainland. So, I shipped, you know, it shipped to me in Hawaii, and I shipped it to myself here in Missouri. It traveled both ways just fine, nothing broke. It was, you know, it was a really sturdy little piece of equipment. And so, yeah, it's basically on an off switch and a timer. And then you just kind of flip back and forth where your goggles three times a week, and you're good. And so, the other thing that's really important"
+    },
+    {
+        "start": "00:23:49.440",
+        "end": "00:24:14.800",
+        "text": "about this lamp that I had to kind of figure out, which was, you know, if you, I also use a red light lamp, but with a UV lamp, this study indicated that, you know, the people that did it and actually showed that they, you know, by using it, they only exposed 9% of their body, 9% of their body to the light, because I was always kind of trying to figure out position of the lamp, where, and where you stand and all that stuff. But at the end of the day, you know, basically,"
+    },
+    {
+        "start": "00:24:14.800",
+        "end": "00:24:43.840",
+        "text": "if you're just shirtless, stand in front of it, where it just hits you the trunk of your body, that's good, and you're good. So, it's really quite simple to use. And I think the most important thing to me is you're asking, well, you know, if it's, if I can get vitamin D through supplements, why would I want to do, you know, and go out and get a vitamin D lamp? And so, the last thing I want to share with you is the research, my research that I, that I went through to kind of make that decision for myself and saying, well, you know, hey, you know, again, you know, it's a lot more"
+    },
+    {
+        "start": "00:24:43.840",
+        "end": "00:25:13.520",
+        "text": "expensive than taking supplements. But here's the thing that's real interesting about the benefits of UV radiation over other vitamin D production. Okay. So, while we know that because of the study in Seoul, Korea, that you can get it either way, so that, you know, there's really not much difference. But here's the thing, if you take it in by light, if you produce vitamin D with light, okay, UVA, UVB, you know, using this lamp or stand out in the sun, you know, throughout the year, except for"
+    },
+    {
+        "start": "00:25:13.520",
+        "end": "00:25:37.280",
+        "text": "winter, then hey, there's a lot of other benefits. And so, I'm kind of a biohacker as, you know, really into the whole longevity, anti-aging, biohacking thing. And so, you know what, when I did the research on this, I'm like, that's why I ended up buying it was not just because of vitamin D, but because the lamp in this, you know, and of course, sunlight, sunlight's free, go out there and enjoy all the free sunlight you can get. And when you don't get as much, then think about this."
+    },
+    {
+        "start": "00:25:37.280",
+        "end": "00:26:02.880",
+        "text": "The vitamin D lamp does more for you than just produce vitamin D. And I think one of the interesting thing was was that, you know, there's some simple things here. I mean, there's some simple smart stuff, but over the summer, you know, you're getting light and your increases melanin in that course, because that gives you your tan and tan acts like sunscreen. Okay. So that's obviously clear, you know, it'd be basically you're in a tanning salon. You've got your own little tanning salon"
+    },
+    {
+        "start": "00:26:02.880",
+        "end": "00:26:30.480",
+        "text": "at home using this lamp, and your skin skin stays relatively tanned. And then that protects you from sunlight, but you know, not not an issue in winter, obviously. However, too, though, the thing about it though is that this has been shown as an effective treatment for skin diseases like psoriasis, vatiligo, ectopic dermatitis, and localized squirrel, squirrel, derma. Okay, now I also have eczema and my eczema gone, you know, and since I started doing this whole sunlight therapy years"
+    },
+    {
+        "start": "00:26:30.480",
+        "end": "00:26:56.480",
+        "text": "ago. So I don't, you know, so I think it really helps if you have a skin condition, that's another perk for, you know, using a vitamin D lamp instead of instead of and or with supplementation. And also, too, you know, the idea here is that UV exposure can suppress clinical symptoms of multiple sclerosis. We didn't know that until I did the research. But here's the thing about the bio hacking stuff. This was huge. When I found this out, boom, I ordered the vitamin D lamp,"
+    },
+    {
+        "start": "00:26:56.480",
+        "end": "00:27:22.960",
+        "text": "that UV generates nitric oxide, which may reduce blood pressure and generally improve cardiovascular health. UVA induced no induced, no, oh, yeah, nitrous oxide may also have an antimicrobial effects and furthermore, acts as a neurotransmitter. Okay, so what does that mean? Okay, well, also, too, I just want to say UV exposure may improve mood through the release of endorphins."
+    },
+    {
+        "start": "00:27:22.960",
+        "end": "00:27:50.240",
+        "text": "And so what this comes down to is that, you know, if you're out there trying to make sure you get enough vitamin D and you either can take supplements, right, or stand under a lamp or sunlight or both. And I'm the person that chose both because I really want to make sure that A, I get that I keep it at a really high level, which, by the way, I haven't had a sick day at work for over, I don't know, six, seven years now. And so I really maintain those levels as high as I can."
+    },
+    {
+        "start": "00:27:50.240",
+        "end": "00:28:14.720",
+        "text": "I take vitamin K with the D3 so that it balances out. I don't have any calcium buildup in my soft tissues. But the thing about it, too, by using the lamp throughout the winter, okay, it's really the bio photons of it is a really, really, really beneficial thing. I mean, I originally grew up in Alaska. And you know, cabin fever is a real big deal up there. And there's a really high alcoholism"
+    },
+    {
+        "start": "00:28:14.720",
+        "end": "00:28:37.600",
+        "text": "rate, a lot of drug, you know, drug usage in dark, cold climates, because there's not a lot else to do. You know, and so people get a little depressed. That's what's called cabin fever. And so, and you know, this light really, really makes a big difference towards that. It really, you know, getting that light produces endorphins. But then from, again, going back to this right"
+    },
+    {
+        "start": "00:28:37.600",
+        "end": "00:29:05.040",
+        "text": "here, nitric oxide is one of the top five anti-aging focuses that, you know, in all the research I've done on biohacking. I mean, it's like, there's, it's like one of the holy grail things to do. And there's this big thing. And if you look it up about, you know, taking NNM, which is nicotinamide mononucleotide, you know, it's this big thing, you know, the anti-aging biohacking guys are all"
+    },
+    {
+        "start": "00:29:05.040",
+        "end": "00:29:32.960",
+        "text": "about NNM, because what is so big about NNM, it, it creates nitric oxide. It helps your body produce more nitric oxide, nitric nitric oxide is a huge thing when it comes to longevity and anti-aging and your health. And so what's most interesting, I mean, this is really the most interesting thing that popped out of my research when I was doing this was like, Whoa, this like does that? Because you know, I take NNM, but now I'm like, okay, now, now I know that the lamp"
+    },
+    {
+        "start": "00:29:32.960",
+        "end": "00:30:02.960",
+        "text": "and sunlight is also anti-aging. So I hear, you know, it's just another plus that, you know, I wanted to share with you. I learn, I share, I communicate, and I just really wanted to put all this together and share with you today. So hey, man, I really want to say thank you very much for watching. I hope you learned something. Hope this was educational. You know, the big sea wave is coming at us. Winter's coming. Make sure you keep your vitamin D levels up. Take K with it and consider getting more sunlight. And if you can't, you know, get a lamp if you're stuck"
+    },
+    {
+        "start": "00:30:02.960",
+        "end": "00:30:28.080",
+        "text": "indoors all the time and stay healthy. Okay, don't let them get you. So thanks for watching. Really appreciate your time. If you want to reach out and learn more about what I do, it's all about health and healing in a multitude of different ways. You can just type in Tinkers.academy and you are a window and it pops you right over to my blog again. And if you enjoy the content and you find it valuable, thank you. You know, please like and subscribe. And I will continue to product a"
+    },
+    {
+        "start": "00:30:28.080",
+        "end": "00:30:49.680",
+        "text": "lot more content. And I have put out a lot of content on this type of topics. And I just, that's my thing. I really enjoy helping people. And I really, really, really am adamant about not letting the owl pass get me and trying to stay as healthy as I can be your own healer. All right, guys? So thank you very much. Have a great day. Hope this was helpful. Aloha."
+    }
+]

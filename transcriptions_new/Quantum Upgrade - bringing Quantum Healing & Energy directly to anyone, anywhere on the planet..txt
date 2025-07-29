@@ -1,0 +1,832 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.720",
+        "text": " And welcome to the Tinkers Academy video, I'm your host, Kay Elmer, and in this video, I've got Philip some more of on Holtzendorf of Leila Quantum Tech. And he and I are both very excited about this new service that they're launching. It's a separate company called Quantum Upgrade. And I thought we could just get them on the line and we could just kind of talk about it."
+    },
+    {
+        "start": "00:00:27.720",
+        "end": "00:00:55.720",
+        "text": "It's going to be officially up tomorrow, today is August 5th, 2022. And tomorrow the new website for the new service will be up. And I've been just kind of studying the website, all the details. I've been looking at the studies that are coming out from the trial, the pilot. And you know, it's quite amazing. And I just really am just excited about this. And I thought I'd, you know, get Philip on the line, let's talk about this. So hey, Philip, good morning. How are you doing? Hi Kay. Thanks for having me on."
+    },
+    {
+        "start": "00:00:55.720",
+        "end": "00:01:24.600",
+        "text": "Glad to have you back to this. Yes. Yes. So let me, first of all, for anyone who hasn't heard of Philip before, Philip is the healer. He's a healer. He's a founder and owner of an operator of Leila Q Quantum Tech. And before we jump into too much detail, let me just throw out the disclaimer. It's our standard Leila tech disclaimer. So neither Leila Quantum Tech nor the Tinkers Academy recommend or endorse any specific"
+    },
+    {
+        "start": "00:01:24.600",
+        "end": "00:01:52.720",
+        "text": "tests, physicians, procedures, opinions, or other information that we mentioned in this video, reliance on any information appearing and discussed in this video is solely at everyone's own risks. Statements made have not been evaluated by the EFSA or FDA or any governmental derivatives thereof. Leila Quantum Tech products and products that Leila Quantum Tech may represent are not intended to diagnose, treat, cure, or prevent any disease. All right. So I'll get the official stuff out of the way. But hey, Philip, let's talk about your new service."
+    },
+    {
+        "start": "00:01:52.720",
+        "end": "00:02:21.440",
+        "text": "First of all, this is the website. It officially launches tomorrow. It's called Quantum Upgrade. And I think the first question that everyone's going to have is, okay, well, what is Quantum Upgrade? What do you mean by that? Because mostly, everyone who is aware of you and the countless number of interviews you've had with all these different personalities and Dave Asprey and Luke Story and all these guys, you've talked a lot about your technology, but now you've got a service."
+    },
+    {
+        "start": "00:02:21.440",
+        "end": "00:02:50.920",
+        "text": "So why don't we just start with that? What exactly is Quantum Upgrade as a service? Yes. And before I get there for everyone to know, so it's quantum upgrade.io. It's very important. It's not.com. That was already taken by some business out of Puerto Rico. So it's .io in the end so that not that you get distracted from something else."
+    },
+    {
+        "start": "00:02:50.920",
+        "end": "00:03:12.480",
+        "text": "And so what is this? It's basically a quantum energy charging service on steroids and in an extremely flexible manner. It leverages the Leela Quantum Tech technology, but that has been optimized, upgraded and"
+    },
+    {
+        "start": "00:03:12.480",
+        "end": "00:03:37.720",
+        "text": "worked on for a period of 12 months now, to actually make it possible to offer it in this way, meaning that some people may be familiar with the block technology. If you have an infinity block, then you know what I'm talking about or a quantum block or travel block, that, for example, you can put your picture in, right?"
+    },
+    {
+        "start": "00:03:37.720",
+        "end": "00:04:02.840",
+        "text": "And then there is a quantum entanglement happening and you're getting the charge of that block in that moment. But if you then put a picture of some random politician in there or someone else, then with yourself together, then you can mingle these energies and you shouldn't do that and we"
+    },
+    {
+        "start": "00:04:02.840",
+        "end": "00:04:24.880",
+        "text": "always recommend no one shall do that, nor us, right, obviously. So we've created a technology where there is no commingling whatsoever and not even in the slightest way. We optimize the technology in a way where it buffers and I will get to that in a second"
+    },
+    {
+        "start": "00:04:24.880",
+        "end": "00:04:54.200",
+        "text": "and we optimize the technology in a way where it can flexibly provide specific Hawkins levels of consciousness. And with the buffering mechanism, that's very important. So if you, for example, select 800 on the Hawkins scale for the service that you're invoking, but you're actually just able to take in 700 because you're really not used"
+    },
+    {
+        "start": "00:04:54.200",
+        "end": "00:05:15.120",
+        "text": "to such a strong level. It does not overwhelm your nervous system. It doesn't overwhelm a detox reaction. Detox may always happen for newcomers, but it's really in a much more harmonious way."
+    },
+    {
+        "start": "00:05:15.120",
+        "end": "00:05:39.600",
+        "text": "And so it basically picks up the person or the pet or whatever is being charged where that object, that pet or that person is, but that is very, very critical. However, then as you're using this field more and more and you're upgrading yourselves and"
+    },
+    {
+        "start": "00:05:39.600",
+        "end": "00:06:05.800",
+        "text": "your own consciousness level increases over time, you can take in a lot more of that energy. And if at some point you feel you want to have more a stronger field, you can do that. And you can also, and then I'll stop talking for a moment, set up a booster, which is for 30 minutes, every day you can set it up or just for particular days, and you can choose"
+    },
+    {
+        "start": "00:06:05.800",
+        "end": "00:06:32.600",
+        "text": "a much higher consciousness level on the Hawkins scale for that time, meaning that you could have, let's say, a 700 on a regular basis, and you could have the booster of maybe 1,000 just for 30 minutes in the mornings at 9 a.m. because that's your time where you want to get going and that's where you need to energy the most as an example. And last but not least, you'll be able to set your time zone, like in which time zone"
+    },
+    {
+        "start": "00:06:32.600",
+        "end": "00:06:57.160",
+        "text": "you live in or you currently are in when you're traveling, and you can set your days and night times, which is important because you may want to have a lower Hawkins scale level at night, let's say maybe 500 or 600, and during the day you may want to have 700 or 800, whatever it may be, but it may be for you that you want to have it at night in a different way."
+    },
+    {
+        "start": "00:06:57.160",
+        "end": "00:07:26.880",
+        "text": "And you can set that all easily up in your account. Wow, that sounds, but I can't no wonder it took you a year to build. I'm just talking and I'm processing all of the different variables, and I'm like, so it's basically like a block that's got little dials on it and you can just customize the experience for your own, you know, for your own particular situation, right? I'm just like a virtual way, right?"
+    },
+    {
+        "start": "00:07:26.880",
+        "end": "00:07:54.320",
+        "text": "This is like a Layla block that's got dials on it that you can tune it in, all different kinds of ways to kind of suit exactly what you want it to do. That's how that's how that's what I'm seeing in my mind when you're talking. That's pretty amazing. So this is, okay, so, so, okay, so I get so many questions. Let's start off with some of the stuff that you mentioned, okay? I kind of was, I put together this PowerPoint after I looked at the web slides, but I hadn't"
+    },
+    {
+        "start": "00:07:54.320",
+        "end": "00:08:22.280",
+        "text": "gotten that explanation, everybody, until just the second as Philip's been busy on vacation and I've been on my own doing my own thing. So we finally got together today's, you know, and talk about this for the first time together. So this is actually experiencing quantum healing from a distance, right? That's, that's how you can describe it. And I also really liked the analogy that you just brought up with this, you know, block"
+    },
+    {
+        "start": "00:08:22.280",
+        "end": "00:08:47.600",
+        "text": "that you can really customize and dial in, because that's, that's indeed pretty much how it works. And it is that this field is being made available for you. I mean, if people could, for you, there's, there's these other services too that we can get into where it works a little bit differently if you have a business, but you can do that for, for your business actually too. Okay. All right."
+    },
+    {
+        "start": "00:08:47.600",
+        "end": "00:09:14.240",
+        "text": "So before we jump too far into the how this thing works, in terms of like how to subscribe and how to sign up for the service and how the service operates, I want to caveat that we're going to get into it in a little bit. But that, Philip, you mentioned that you'd done, you did a, you've done studies and you also did a pilot with about like 20 different people, right, using the service ahead of time to kind of build out, you know, the features and kind of flush out how this thing works."
+    },
+    {
+        "start": "00:09:14.240",
+        "end": "00:09:44.160",
+        "text": "So I read just recently, you know, this morning's been really busy, Philip just sent the studies over to me. So I haven't read them page, you know, front to end, but I read the summaries and I just want to point out to anyone who's just like wondering like, like, wow, you know, this, this sounds pretty crazy, right? I mean, it does, honestly, but I mean, I, I mean, I, we've got studies and we're going to show them to you and it is unbelievable that, and this is the thing right, Philip, at the end of the day, if I have a block in my home, I put my hands in the block."
+    },
+    {
+        "start": "00:09:44.160",
+        "end": "00:10:10.400",
+        "text": "Or the service, it's the same result, that the concept of quantum entanglement, which is healing at a distance, where it doesn't matter how far away you are, that you can actually experience the quantum healing. And then that's what the study showed, right, because your studies are saying, hey, everything that the block can do in person, it could do at a distance. And we, and we can dial it into you as a person."
+    },
+    {
+        "start": "00:10:10.400",
+        "end": "00:10:37.920",
+        "text": "Yes, right, can you expand on that? Like, you know, like, like the concept of the entanglement, I think that's the thing that I mean, first of all, I think when I, when I, you know, help new members kind of understand what's going on in the chat group, the first thing is, you know, they're trying to understand or wrap their head around quantum healing, or just the quantum energy itself and then how does that work and, and, and if I have a block or a capsule, right?"
+    },
+    {
+        "start": "00:10:37.920",
+        "end": "00:11:07.800",
+        "text": "So they're, that's their frame of reference is that they're touching it. And so they're kind of, so they first start trying to figure out how does it work. And then it's all wrapped around how to touch it. But then you introduce this concept that says, oh, it also works from a distance where you're not even touching anything. And then that just kind of just like, what, you know, it's, it's like, you know, so it's really hard for a lot of folks to conceptualize quantum entanglement. So let me just let you talk about that and so that you can kind of explain that, you"
+    },
+    {
+        "start": "00:11:07.800",
+        "end": "00:11:32.360",
+        "text": "know, that all of this stuff that the website's making claims for, there are studies that back it up. Okay. I want to put that out there. But secondly, the concept, though, the concept that you could actually build an energy. That's not that, you know, you're not touching. Okay. I'm going to let you talk. Yeah. So the prerequisite obviously is that you need a highly concentrated pure quantum energy"
+    },
+    {
+        "start": "00:11:32.360",
+        "end": "00:11:47.960",
+        "text": "field if you want to somehow experience pure quantum energy over the distance. Now if you have that, and if we have this field, this multidimensional quantum energy"
+    },
+    {
+        "start": "00:11:47.960",
+        "end": "00:12:13.600",
+        "text": "space or field, and you put in an exact signal of someone or something that it, that it is clear it is that object or is it's that human or it's that pet, then the quantum field provides"
+    },
+    {
+        "start": "00:12:13.600",
+        "end": "00:12:42.480",
+        "text": "the energy as if that object that person or that pet would be literally physically in that space. Even though it sounds crazy, it really isn't that crazy once you understand the whole concept. And if you can see energy, it's just hard because we're not used to these concepts. So this signal, that is the important one."
+    },
+    {
+        "start": "00:12:42.480",
+        "end": "00:13:09.700",
+        "text": "So you can, you know, if you have a block, you can do that with a picture, for example. If I take a picture of myself, that is a very clear signal. Another clear signal could be, you know, one of my hairs as an example. Another clear signal could be my full name and my birth date, right? So those are very clear signals, and with the phone, for example, it could be the phone"
+    },
+    {
+        "start": "00:13:09.700",
+        "end": "00:13:37.800",
+        "text": "number, the exact phone number, including the country code. And inside this field, time and distance do not matter. So as soon as you get the signal in, the field just provides the energy. It's as easy as it can be for that field. But for us, it's just hard to understand that that really happens."
+    },
+    {
+        "start": "00:13:37.800",
+        "end": "00:14:04.960",
+        "text": "And it also doesn't matter whether you're 10,000 miles away or 1,000 miles away or just 10 meters away. There's no real difference. Quantum entanglement has been proven multiple times in the lab, so that's not a new concept. And it's new that you can use these applications the way that we're providing it nowadays."
+    },
+    {
+        "start": "00:14:04.960",
+        "end": "00:14:30.680",
+        "text": "Yeah, I mean, it is a completely new concept for people who have never experienced it. But if you've experienced quantum energy, you can also experience it from a distance. And that's what this service provides. And I think that's pretty amazing. And so there's a lot to it. But at the end of the day, the claims that are made on the website have been validated"
+    },
+    {
+        "start": "00:14:30.680",
+        "end": "00:14:55.960",
+        "text": "by an independent third party institution that's done studies on this very thing. And we'll get it deeper into that. But before we get into the studies, though, let's talk about, you know, people, I mean, my first question was like, wow, this is really cool. I get, you know, I already get it, you know, like, well, how does it work? You know, so first thing I noticed was that you had different options, right? So I could sign up people myself, right."
+    },
+    {
+        "start": "00:14:55.960",
+        "end": "00:15:24.800",
+        "text": "And then the options where you could have set it up where you could have your pet experience the energy, your car, a business, cell phones, and your whole home, is that correct? So these are the seats that are out there. Yes. Yes. And there's supposed to be a bundle as well that I'm not 100% certain if that will be live already tomorrow, but that's, that's the goal to have also a bundle, which would"
+    },
+    {
+        "start": "00:15:24.800",
+        "end": "00:15:49.760",
+        "text": "be, you know, I think $70 per month and that covers pretty much all of these services. So you could, you could then choose all of these services or, you know, just a subset of those services. Okay. All right. So, so if you wanted to experience quantum healing, you've got multiple different options"
+    },
+    {
+        "start": "00:15:49.760",
+        "end": "00:16:18.680",
+        "text": "on how to experience it yourself, your pets, your car or all of it as a bundle, which that's going to be presented in the website. And then when you go to register, you know, I did notice that it was like a subscription, right? That you had this, you know, that there's a subscription that you sign up for. And then one of the things though that on the subscription was, like you mentioned it earlier, was this Hawkins scale. And so, and you were mentioning, you know, if you could kind of explain, like when they"
+    },
+    {
+        "start": "00:16:18.680",
+        "end": "00:16:46.480",
+        "text": "go to the register section and they say, hey, I have to pick a Hawkins scale, you kind of described it earlier, but, you know, could you describe it a little bit more like so people who've never even heard of this thing, like, well, you know, how do I know what, what scale or what, you know, where I am on this scale? I think that's going to be the first question that everybody has is like, oh, I want to try it. You know, by the way, there's a seven day free trial guys. So go ahead and try it. And then when you pick something, mostly yourself, your pet, whatever you choose that you want"
+    },
+    {
+        "start": "00:16:46.480",
+        "end": "00:17:12.040",
+        "text": "to have experienced the quantum healing or quantum energy, when it comes to that point where you have to pick a Hawking scale, Philip, when people say, well, how do I know what to pick? What would be your answer for that to pick on the Hawking scale, you mean? Yeah. When I was kind of playing around the website, there was this that you had to, if you decided"
+    },
+    {
+        "start": "00:17:12.040",
+        "end": "00:17:38.880",
+        "text": "you wanted, let's say, pick one for my pet, my dog, and it's sign up your pet, right? And this is to basically set up that signal so that the signal knows where to go. The name of the pet, right, where you live, your city country, so it knows how to dial in, right? But then there's this Hawking scale thing. Is this something they could choose exactly what the amount is or is that just for people? No."
+    },
+    {
+        "start": "00:17:38.880",
+        "end": "00:18:05.520",
+        "text": "So you will be able to make these choices in your account, but there's a default setting that we recommend for the general public, if you will. And then if you are much more experienced with energy work or you can hand an infinity blog and all that, then you may just want to have more energy and then you can set that. That is no problem whatsoever."
+    },
+    {
+        "start": "00:18:05.520",
+        "end": "00:18:32.200",
+        "text": "So it's very, very flexible and you can even do it on a day by day basis if you wanted to. Like you can say, well, I'll just do this today and then tomorrow I'll just try a little bit more. That's something you can do for your pet, obviously, you know, I would really start at the lower level, you know, I think we have a preset at 600 for during the day, but also there you can make adjustments."
+    },
+    {
+        "start": "00:18:32.200",
+        "end": "00:18:56.880",
+        "text": "So we usually recommend if you don't know anything about it, just go with the default settings at first and then experience and feel and then see if you would want to make adjustments and you'll probably get these inputs when over time where you know, oh, okay, so I really, I can start feeling this energy now I want more or I want less. You'll make these adjustments."
+    },
+    {
+        "start": "00:18:56.880",
+        "end": "00:19:22.000",
+        "text": "So the Hawkins scale was developed by Dr. David Hawkins many years ago, who was an absolutely amazing guy, actually, and he looked at consciousness levels and he developed the scale from zero to one thousand, which is displayed in his book, \"Pala versus Force.\" If anyone is interested in reading the book, go ahead."
+    },
+    {
+        "start": "00:19:22.000",
+        "end": "00:19:51.080",
+        "text": "The audio book is probably the more convenient way of then listening to it. And it explains in a very, very good way what's actually all behind it. There's a lot of science behind it, frankly, and so you're talking about lower levels of consciousness, for example, in the low hundreds, which is about jealousy and things like that."
+    },
+    {
+        "start": "00:19:51.080",
+        "end": "00:20:16.360",
+        "text": "So if you go, I think to the level of 500, everything above is considered unconditional love and then it goes even further and the level 700 to 1,000 are kind of like the most expansive levels of consciousness that he at the time determined to be possible here"
+    },
+    {
+        "start": "00:20:16.360",
+        "end": "00:20:42.760",
+        "text": "on earth in a physical representation. Now it doesn't mean, so if you can test your own consciousness levels too, by the way. So if someone tests to be at a level of 550, that doesn't mean that all the aspects of our lives are at this 550 level, right?"
+    },
+    {
+        "start": "00:20:42.760",
+        "end": "00:21:08.120",
+        "text": "It may be that we have a certain issue with, I don't know, cats. I don't know, we have very difficult encounter with cats at some point. Now there's this underlying hate of cats or something, or there's a lot of fear that suddenly comes up and then it puts us in states of lower consciousness, for example, that"
+    },
+    {
+        "start": "00:21:08.120",
+        "end": "00:21:27.440",
+        "text": "is actually possible, but then in other areas, you may have much higher levels of consciousness. And so if I measure my consciousness level, then it would be the combination of everything that I am basically, and it's sort of the average, okay?"
+    },
+    {
+        "start": "00:21:27.440",
+        "end": "00:21:54.080",
+        "text": "So we're able to set the level of our technology onto different levels on the Hawkins scale, because that's just, the technology is so advanced that it has these fields that have"
+    },
+    {
+        "start": "00:21:54.080",
+        "end": "00:22:23.480",
+        "text": "such a high level of consciousness that is way, way higher than the maximum that we make available, so we couldn't go higher than that, but we can certainly go lower than that and offer the different variations. And those different variations are needed because we're all different people. We all have different stories and different consciousness levels ourselves and different"
+    },
+    {
+        "start": "00:22:23.480",
+        "end": "00:22:53.120",
+        "text": "days and things that are coming up in our lives, so we wanted to make it as flexible as possible, but at the same time, it shouldn't be overwhelming. That's why we have these default levels and it's something you can play with moving forward. Okay, that's a great explanation. I think I was looking at something that was like you could actually set it, but this makes a lot more sense. You can set it, like in your account, in your account, you will be able to set it, so if"
+    },
+    {
+        "start": "00:22:53.120",
+        "end": "00:23:17.840",
+        "text": "you have a default level of 600 and then you want to take it to 700 or 800 or 900 or 500, you'll be able to do it. We just have boundaries, we would not be able to set it to 1000 on a regular basis, only with a specific authorization by the customer service, so we make exceptions for certain"
+    },
+    {
+        "start": "00:23:17.840",
+        "end": "00:23:43.200",
+        "text": "people if we know and they know that they can tolerate that level of energy. Cool, no, that's really cool. So basically, if I wanted to experience this, I could do this seven-day free trial. It'd be like if for people who I guess don't have a block already or even want to just try it. Could you register someone else? Like let's say I have a block, but I got my best friend that lives in a couple of cities"
+    },
+    {
+        "start": "00:23:43.200",
+        "end": "00:24:11.320",
+        "text": "away and I want to gift this person quantum energy I've been putting their picture in and in my own block, but could I gift that service to somebody? Like sign someone else up? If that someone is aware of it and wants to do it, then yes, otherwise I don't recommend it really, that's your choice, but in general I would say please ask people if they want"
+    },
+    {
+        "start": "00:24:11.320",
+        "end": "00:24:37.680",
+        "text": "to just don't just do it for them. Okay, so how this works is if you're experiencing quantum energy, you choose one of your options or all, then you register, it starts off at 600 on the Hawkins scale. You can always increase it if you want to go to the next level. So that all makes sense. Now on the website, you did talk about the frequencies, right?"
+    },
+    {
+        "start": "00:24:37.680",
+        "end": "00:25:05.440",
+        "text": "So you've got two separate things, as I always want to remind everybody that there's quantum energy is one thing and frequencies is another, right? And then together they even are better, they complement each other. You can use the energy to send frequency, but frequencies and energy are two separate things. So I noticed you had this set of frequencies. How do these frequencies play into the services that you're offering?"
+    },
+    {
+        "start": "00:25:05.440",
+        "end": "00:25:34.700",
+        "text": "You know, people pets, cars, homes? Do they get to select frequencies or is it built into like, hey, if I say a car, then I'm automatically going to get what you have decided is best for cars, business. No, there's no specific frequency whatsoever at this point that is abatable. It's really pure quantum energy and with all its benefits and with the buffering, et cetera, what I mentioned."
+    },
+    {
+        "start": "00:25:34.700",
+        "end": "00:26:01.160",
+        "text": "Okay. However, in the future, there will also be specific frequencies that you can basically load in. So that's not available yet and I'm guessing that'll take another three months. So we have the technology in the back and works already. We have successfully already developed all of that, but it takes all some time to build it for the front end as well."
+    },
+    {
+        "start": "00:26:01.160",
+        "end": "00:26:30.080",
+        "text": "And before we add those frequencies, what will come next is to actually have an app. So at this point here, you can log in to my account on the website and you can change all these settings in near real time. And in about a month or a month and a half, you'll also have an app available for Android and for iPhones where you can simply do it on your app and then it'll be even more convenient."
+    },
+    {
+        "start": "00:26:30.080",
+        "end": "00:26:58.360",
+        "text": "And once that's done, then we'll work on the next step that there are a few frequencies that you can book in. As an example, you may then want to have the inner piece frequency for the night or for just one night during the week. It's all something that you can set yourself in and you can select these frequencies. Okay. All right. Okay. So you can't dial in a frequency just yet and when you see these descriptions here, EMF"
+    },
+    {
+        "start": "00:26:58.360",
+        "end": "00:27:28.280",
+        "text": "protection, ESuffering and proof focus, that's actually the result of just quantum energy by itself. So they're not frequencies. It's literally the benefit of quantum energy. And this is what has been the results of experiencing just neutral positive quantum energy. So it's not a frequency. So I took it like when I saw the word frequency, I thought it was a frequency for that, but this is just the benefits of quantum energy. So okay, I get it now. All right. Like I said, everybody, I just was looking at all this stuff just this week."
+    },
+    {
+        "start": "00:27:28.280",
+        "end": "00:27:55.480",
+        "text": "So this is my first chance to clarify with Philip what I'm reading. Okay. So that's really helpful. Okay. Now let's talk about the studies. So could you, you did, you hired BESA and then you also did a pilot, right? Is that kind of what you? So how did you go about validating that this would even be beneficial for people? Yeah. So the BESA Institute already did several tests and experiments over the last 12th month,"
+    },
+    {
+        "start": "00:27:55.480",
+        "end": "00:28:23.760",
+        "text": "basically showing the effects and what it does and that it works every time. And they actually have worked with the doctors practice in Europe and are now not only just doing their BESA testing, but they're also doing lifeblood analysis. And we said, okay, so BESA testing is great, but we would really like to look into this physical evidence."
+    },
+    {
+        "start": "00:28:23.760",
+        "end": "00:28:49.560",
+        "text": "And if they could run a study, a pilot study at first with four test persons, that's typically what you do in order to see if there are any differences and how it works with a distant charging of our service. And that was randomized and completely double blind."
+    },
+    {
+        "start": "00:28:49.560",
+        "end": "00:29:14.640",
+        "text": "And it was amazing because in 100% of the cases, significant changes, positive changes, and the blood happened in regards to the white blood cells and red blood cells all over the place. Literally everything that you can see under a dark field microscope improved significantly in just a few minutes through this distant charging."
+    },
+    {
+        "start": "00:29:14.640",
+        "end": "00:29:37.800",
+        "text": "Now, even though that was happening in 100% of the cases, a study with four people isn't enough to get to statistical significance. So then the next step was to set up a larger study with 12 test persons, and they actually had 13 in the end of the day, and then the same results happened."
+    },
+    {
+        "start": "00:29:37.800",
+        "end": "00:30:02.520",
+        "text": "So now that just on its own proves the absolute statistical significance. The results were incredible across the board, and again, in 100% of the cases, and now it was 17 out of 17 people showed significantly positive changes in their blood, white blood"
+    },
+    {
+        "start": "00:30:02.520",
+        "end": "00:30:30.360",
+        "text": "cells, red blood cells, blood clotting reversal, and things like that across the board. So it's fascinating. It leaves me speechless almost every time. And when the head of the BESA Institute witnessed that, that that was happening, even though he knew that it would work, and it should work, and all of that, it was still, for him,"
+    },
+    {
+        "start": "00:30:30.360",
+        "end": "00:30:54.440",
+        "text": "he cried when he was on the phone telling me about the results, because he said it's just so unbelievable, so amazing to see these changes, and that it is possible that way. Yeah, and that's, yeah, I gotta say, I mean, I was looking at this this morning right"
+    },
+    {
+        "start": "00:30:54.440",
+        "end": "00:31:22.000",
+        "text": "before you jumped on the call, and I'm gonna walk everybody through this, but I just want to state, this is profound, okay. I'm not a young chicken, so I've been around a while, had my, had my fill of allopathy medicine got into natural healing modalities, and this is, what we're talking about here is physical"
+    },
+    {
+        "start": "00:31:22.000",
+        "end": "00:31:49.860",
+        "text": "evidence here, but I think, but before I jump into the actual results, for people who don't know what BESA is, could you kind of explain what BESA is, so that people understand that you didn't do these studies yourself, or hire your, you know, your brother-in-law? Oh, yeah, yeah, of course, yeah, so, yeah, we wouldn't know how to run these studies, first of all, and second of all, that will be just a terrible, bad practice if we did"
+    },
+    {
+        "start": "00:31:49.860",
+        "end": "00:32:19.700",
+        "text": "this ourselves, so we hand off our products or a service that needs to be tested to institutes that do that for a living, you know, that test technologies, that test people, and all of that. Now, the BESA Institute is the largest independent biofeedback and biosystem analysis of testing and research institute in Europe, and they do these things for a living, so that's, that's"
+    },
+    {
+        "start": "00:32:19.700",
+        "end": "00:32:49.700",
+        "text": "literally what they do, and so, and they're very, very detailed, by the way, and very, very thorough, so in terms of this, this whole study also, it took them a long time to do that because they didn't even want to do more than two people, because they figured, okay, if we, if we do this, too much maybe, if we have been 10 people, maybe the effect on the first two already affects the other one, so they wanted to completely eliminate anything"
+    },
+    {
+        "start": "00:32:49.700",
+        "end": "00:33:15.020",
+        "text": "that could influence the results, and yeah, so they, that's what they do, and they set up these studies, and all we hear about is, okay, that, you know, when is the study going to start, and how many test persons, is it going to be, and what's, what's the general protocol that they're going to be testing, and that's pretty much it, and then we wait,"
+    },
+    {
+        "start": "00:33:15.020",
+        "end": "00:33:41.540",
+        "text": "and, and then we hear back, and then it's always this moment of truth, basically, and getting these results back is just amazing, but yeah, that's, that's the BESA Institute, they work with, yeah, they work internationally, but they're, they're well known in, in Europe. Okay, so I just want to, let's just, you know, benchmark that this is a third party, independent third party scientific organization that is, that's, you know, all they do is do these"
+    },
+    {
+        "start": "00:33:41.540",
+        "end": "00:34:07.100",
+        "text": "kinds of studies, so you hire them, they do whatever they're going to do, the results or whatever they are, and you have no influence on it at all, you know, I just go ahead and pay a lot of money for these, these studies to be produced, and so you, in, in the Lele Quantum Tech environment, all of your products have been evaluated by BESA and IGAF, and all these different entities, and the validation of quantum energy and the frequency, the concept"
+    },
+    {
+        "start": "00:34:07.100",
+        "end": "00:34:33.940",
+        "text": "of quantum healing has been validated with the physical objects, capsules, cards, you know, blocks, but what makes this so profound, so unbelievably amazing to me is that you've now run studies, or you had BESA run studies on the concept of quantum energy and healing over distance, which is called quantum entanglement, and that here are the studies when you actually"
+    },
+    {
+        "start": "00:34:33.940",
+        "end": "00:35:03.860",
+        "text": "applied this new quantum upgrade service to different people and what happened to them, and then, and so, this is the before and after, I want to walk through this and let's talk about it, but so this particular study, now there's different ways to measure the impact of, of energy on a person, like whether they'd be Wi-Fi, EMF, whatever, you know, but in this case, they were measuring what quantum energy does for a person, and they were looking"
+    },
+    {
+        "start": "00:35:03.860",
+        "end": "00:35:32.140",
+        "text": "at their blood, and so this is a blood analysis called dark field microscopy, but it's not just looking at the blood under a microscope, it's actually measuring the various components within the blood, so I want to kind of walk through that, because this is what I read this morning, and again, I just want to say how profound this is, I mean, try to imagine talking to your, if you have an allopath doctor, and typical, you know, went through the, you know, quote, healthcare field, which is not really healthcare, but, you know, and"
+    },
+    {
+        "start": "00:35:32.140",
+        "end": "00:36:01.580",
+        "text": "there's like the little white coat people you see for five minutes that, you know, with your health insurance from your work, okay, those are allopaths, try to, can you imagine if you told them that, hey, there's a way to actually improve all of my blood, I can actually improve my health when I sign up for a service, and it's all quantum energy over distance, they would, you know, you just know what they would say, because they don't understand it, but here you go, here's proof, and that's what, I mean, I'm just amazed, so let's start"
+    },
+    {
+        "start": "00:36:01.580",
+        "end": "00:36:29.100",
+        "text": "off with the most important stuff is for a level set with everybody, that what these studies show, now if you, if you have your own block, right, and you put a picture in it, it's just, it's sort of the same concept, right, I mean, you're pretty much, you can't dial in as, as well as the services, it's a kind of like an upgrade, I guess that's why you called an upgrade, right, it has more features, but doing the same thing, quantum entanglement, quantum healing over distance, this is what it's actually doing to your"
+    },
+    {
+        "start": "00:36:29.100",
+        "end": "00:36:53.100",
+        "text": "blood, to the person that you're trying to help and try to heal, or the pet, and then I guess we could talk a little bit more about like, I mean, what would that do to a car or a business, right, but let's talk about just a person, because this is what I think all of us are most adamant about is how do we help heal our pets, our family, our loved ones, you know, and I think that's where we all start, I think that's the starting point"
+    },
+    {
+        "start": "00:36:53.100",
+        "end": "00:37:21.340",
+        "text": "for everybody is helping, helping our friends and family, so the thing about analyzing blood, and I just want to point out some things like any too technical, is it looks at all of these different things, right, so you look at all the, I don't even get into the science of it, but see, on this side is what they're measuring for, and if you read these, oh, and then by the way, these studies are going to be available on the website, right, so anybody can just read these, okay, so all of this is going to know, you know, full transparency, everything's going to"
+    },
+    {
+        "start": "00:37:21.340",
+        "end": "00:37:48.540",
+        "text": "be out there, you guys can evaluate it yourself, but when you read this, this is what they're measuring, and then over here is the explanation of why it's important, or what it does for you, so like right here, it's like this, you know, this aspect of your blood affects your immune system, this aspect of your blood affects your stress tolerance, or cellular metabolism, immune system, detoxification, all this stuff, so this is why these different categories are so important,"
+    },
+    {
+        "start": "00:37:48.540",
+        "end": "00:38:15.820",
+        "text": "because when you do a full on blood analysis, you're measuring all the different things in your blood, which is, you know, that's why they call it your life blood, because your blood is your, I mean, that is like literally the most important thing in your body, and it carries all the oxygen and all that, it just does everything for you, right, your blood is the most important thing in your body keeping you alive, and so here's all the different attributes of your blood, it can determine the load on your kidneys, it can determine bacterial infections, it can"
+    },
+    {
+        "start": "00:38:15.820",
+        "end": "00:38:41.100",
+        "text": "determine all these different things about your health, right, and so here we go, so they did a full on blood analysis of all of these different attributes to determine what happened to people before and after they were exposed to the quantum upgrade service, and this is some of the results, and so this is all going to be there, you guys can download all this, I'm just going to walk you through it, but when I first saw this Phillip, I'm just blown away, I mean, look, look at this,"
+    },
+    {
+        "start": "00:38:41.100",
+        "end": "00:39:07.900",
+        "text": "look, look, look at the count, so here's a before, and after pro band one just means this is test subject one, right, there's test subject one, pro band two is that second person, three, four, these are your different people, that's what pro band means, so on the very first person, right, they measured him before him or her, they don't know, right, it's just all blind, and this person showed basically, right here, this is this is kind of like the bad stuff,"
+    },
+    {
+        "start": "00:39:07.900",
+        "end": "00:39:31.340",
+        "text": "they had a money roll formation, that's when your blood clots up into little, like they call it relay formations, they look like little rolls of coins, and when you do that you have really low oxygen adjacent, oxygen adjacent, I never get that word right, and you have, and it's really bad for you, it just means your blood's all clumped up, you're not getting enough oxygen, and so forth, they look at this, I don't know how to pronounce that word count,"
+    },
+    {
+        "start": "00:39:31.340",
+        "end": "00:39:55.420",
+        "text": "leukocyte, and then they look at the fillet information, which is it measures your oxidative stress, it measures water, oxygen in the blood, and then this one here, these different colors, measure the flow property of the blood, and the cell membrane vitality, all, like I said earlier, you can look at the top part here, familiarize yourself with what these different things mean,"
+    },
+    {
+        "start": "00:39:55.420",
+        "end": "00:40:22.220",
+        "text": "they all affect different parts of your health, and what happens, so before, basically the blood is clumped up, and it wasn't very healthy, very low numbers on the stuff that's important, so this is the stuff that's bad, these two colors here, these things right here, this is important, you want that to be high, and you want these to be low, right, bottom line, if you read the description, and then after they expose, so can you talk about after they were exposed, so"
+    },
+    {
+        "start": "00:40:22.220",
+        "end": "00:40:49.340",
+        "text": "what is that like, like they sign up, so this is if a person signed up for the service, and you turned it on, and this is like the next day, or is it, you know, is how, how, like what is quote after? So if you use the, if you sign up for the service, then you need to go into my account, and you need to select your time zone, and that's the minimum you need to do, you can then also play"
+    },
+    {
+        "start": "00:40:49.340",
+        "end": "00:41:19.020",
+        "text": "around with the hark, and scale out of that, but at minimum you need to set your own time zone, and then you click on, I think, update, and that's after clicking that, that's when the service starts, and this here, yeah, and so this what you see here wasn't after a day or so, that was about, I think, 10 to 15 minutes of charging, so I think it was literally just 10 minutes, and I think"
+    },
+    {
+        "start": "00:41:19.020",
+        "end": "00:41:46.060",
+        "text": "after, yeah, 10 or 15 minutes, they took the next measurement, and yeah, they also took videos, frankly, and they were able to even see how it's changing, and as soon as the energy comes in, it is, it is indeed profound, and yeah, on all levels, as you said, those, those, those aspects"
+    },
+    {
+        "start": "00:41:46.060",
+        "end": "00:42:11.500",
+        "text": "changed and improved, like the money rolls, for example, or you can call it blood clotting, but then again, which was interesting because we know people have that have followed that in the past, Dr. Rubik in the US was the first one to actually tell us that the white blood cell mortality and activity also improved significantly, because that's one of those things that happened"
+    },
+    {
+        "start": "00:42:11.500",
+        "end": "00:42:38.700",
+        "text": "with EMF, that your white blood cells, which are directly linked to your immune system, they get paralyzed, and so if, so then they are inactive, and so the, the energy was able to, to make them active again, and increase this activity and mortality, and this happened here too, so they specifically looked at that as well, which is, which is profound, because that's what you're"
+    },
+    {
+        "start": "00:42:38.700",
+        "end": "00:43:06.220",
+        "text": "looking at, if you want to be healthy, you, you want to have a healthy immune system, it's not really going to happen without a healthy immune system. Right, so what's, okay, so after like roughly 15 minutes, this person's blood analysis, and there's two different sets of documents, you can actually look at the actual study themselves, this right here is literally just a summary, but these graphs are actually present within the studies themselves, I encourage everyone to read this,"
+    },
+    {
+        "start": "00:43:06.220",
+        "end": "00:43:32.620",
+        "text": "I mean, this is an investment in your health, and I encourage everybody to kind of understand, you know, what that value of that investment is, but here, this is, this is the first person, immediately his blood turns from being kind of clotted, and, and, and basically, you know, barely doing what it's supposed to do to, all of a sudden, boom, it's open, it's free, the oxygen's flowing, the membrane valve, you know, it's, everything's just immediately better"
+    },
+    {
+        "start": "00:43:32.620",
+        "end": "00:43:59.100",
+        "text": "after 15 minutes, and this is quantum entanglement, this is not, he's not touching anything, he's just, this is just in a room, and somewhere far away, they're, they're, they're, they're sending him quantum healing. So here's another person, ProVant 2, same thing, really highly clotted, really low performance on blood performance, I'll just call it that, and then all of a sudden, you know, this guy doesn't go to zero, but is, but the negative aspects of the blood drop,"
+    },
+    {
+        "start": "00:43:59.100",
+        "end": "00:44:28.940",
+        "text": "and the positive aspects of the, of the blood go up, and then, again, another one, where basically the negative positive, and then the negatives go down, the positives go up, and on this isn't like you were saying, right, all 17 subjects, this was 100% of them experienced positive benefits, right? Yes, that is correct, 100%. So every single one of these persons, so this was what, this one here right now, ProVant 4 is interesting, because I noticed that this was the first one,"
+    },
+    {
+        "start": "00:44:28.940",
+        "end": "00:44:58.300",
+        "text": "that actually, they measured the parasitic load, okay, and that's kind of an extra attribute that I didn't see in the other ProVans, and so here's something that, this is mind-blowing, okay, but here you go, this is the parasitic load, and it goes from a 7, right, in the, in the blood analysis, and it drops to 2, okay, that's literally like 300% decrease, almost, right, so I'm doing math in my head, but look at the decrease in parasitic load, and so for everybody, and this,"
+    },
+    {
+        "start": "00:44:58.300",
+        "end": "00:45:24.380",
+        "text": "this kind of goes back in time, right, because how many people have experienced Leyla, you know, quantum energy, and then said, and some, and not, not, not, not all of them, but there's been several people over like the last couple years that I've been doing this with you, where they report that, hey, you know, they don't, it's like they, they feel like a little nauseous sometimes, or they feel a little queasy, or it's like, or they, you know, they kind of get exposed to it, and then they got"
+    },
+    {
+        "start": "00:45:24.380",
+        "end": "00:45:50.220",
+        "text": "to take, like a capsule with the five spheres, they try all five, it makes them feel a little weird, so they take, we tell them, hey, take, take the capsule, you know, that the spheres out, and just start with the empty capsule, or just one sphere, right, which is the same concept of quantum energy on a Hawkins scale, right, is that in terms of amount of energy coming to them, but this is it, right here, this is where the science comes in. Bottom line is quantum energy is decreasing,"
+    },
+    {
+        "start": "00:45:50.220",
+        "end": "00:46:17.180",
+        "text": "it's improving your blood, so that it, the blood's flowing better, and it's, it's basically detoxing you, and it reduces your parasitic load, because your body's able to flush it out faster and better, and that's why people, and so this is this, all of a sudden the light bulb went off in my head, when I read this page, and I realized, ah, that's why people are having those experiences, because I never considered once for that quantum energy could reduce a parasitic load, but it makes"
+    },
+    {
+        "start": "00:46:17.180",
+        "end": "00:46:42.700",
+        "text": "sense that if it improves your blood, your blood's, you're basically, how your, your blood is the process by which you haul out all your pathogens, you know, and your, and your digestive system, right, but your blood is one, if it's anything in your blood, it needs to be moving quickly and, and functioning really high, ah, to eliminate all those pathogens, molds, fungus, bacterias, and viruses in your bloodstream, there you go, it's just, this, this, I mean,"
+    },
+    {
+        "start": "00:46:42.700",
+        "end": "00:47:10.140",
+        "text": "can you, did you notice this, or did you guys talk about this at Baysa, what did they say about this, because this is, this is new, you never ever did a parasitic load study, I just, you know, that is, that is correct, and it's, ah, I'm grateful that they did it, and indeed, if you, if you think about it, this is, um, this, this is very, very profound, because also people need to understand that we're, like you said before, the blood is,"
+    },
+    {
+        "start": "00:47:10.140",
+        "end": "00:47:35.660",
+        "text": "I mean, the blood is within us, right, and the blood is pretty much everywhere, and if it's, if it's in bad shape, we're in bad shape, so it could not be underestimated to look at a healthy blood, um, and, and get it to that point. Now, there's, yeah, it's, it's, it's just, um, mind blowing,"
+    },
+    {
+        "start": "00:47:35.660",
+        "end": "00:48:05.260",
+        "text": "I don't even know what else to add, ah, at this point, because, ah, it really works on all of those levels, and, yeah, yeah, still speechless sometimes. Yeah, this one's really, this one right here, Probound 4 is very fascinating, because they have like the, the positive markers, they're, they're like, it's really weird, everybody else is like really high, bad stuff, low good stuff, but this guy is high, good stuff, and bad stuff, right, and then he switches over to,"
+    },
+    {
+        "start": "00:48:05.260",
+        "end": "00:48:36.860",
+        "text": "all of a sudden his blood starts flowing really, really high. It's like eight times what it was before, and his good stuff kind of goes down a little bit, but then his bad stuff just goes down too. So, yeah, this was really weird, but it's definitely a, an official positive effect, especially on this acidic load thing is for people to, to understand. So it's the, the quantum energy is providing the possibility for the body to initiate these changes, because in the end of the day,"
+    },
+    {
+        "start": "00:48:36.860",
+        "end": "00:49:01.820",
+        "text": "it's your body that kicks in suddenly into the self healing mode, right, and into the mode of really pushing through, but because of all the exposure that we have throughout the day and throughout our lives, frankly, with bad air, bad food, and the emf soup we live in, and, and other stress, frankly, right, you know, we need to pay our bills and, I don't know, you know,"
+    },
+    {
+        "start": "00:49:01.820",
+        "end": "00:49:27.980",
+        "text": "our kid head and accidents, all these stressors that always, you know, as soon as these stressors come in, we can operate and function a little bit less, and then, you know, the body is constantly just playing catch up, and so what happens is if you're getting this increased level on the Hawkins scale or increased quantum energy field that you then have available, it's almost as if it's"
+    },
+    {
+        "start": "00:49:27.980",
+        "end": "00:49:56.620",
+        "text": "this, your battery can recharge and you're tapping into this extra load and you're taking that and your body is taking these actions suddenly that it's otherwise not really able to do. That is what's happening. So the energy itself doesn't just do all these things on its own. It's really providing it for your body to get into this gear of now I can take this on and I can take that on,"
+    },
+    {
+        "start": "00:49:56.620",
+        "end": "00:50:23.740",
+        "text": "and obviously, you know, if you do that on a longer term basis, there's much more than you can achieve, but it's it's absolutely profound that you can see something like this here already happening within 10 to 15 minutes. Yeah, I don't want to beat this up too much because people can read it, and but here's I just want to point out one more person and then they in the test, but this person came in high triglycerides and for those of you guys watching your cholesterol, that's what they"
+    },
+    {
+        "start": "00:50:23.740",
+        "end": "00:50:51.180",
+        "text": "look at, right? So this guy's got high cholesterol, he's got blood clotting, he's got signs of inflammation and allergies, he's got protein clumping, kidney stress, I mean, this is not a very healthy person, and then boom, soon as he experiences quantum energy, his blood starts to flow, all of his stress indicators are down. So these just make a note that when you're reading this that the attribute that they're measuring changes by person, right? So they're measuring different things for different"
+    },
+    {
+        "start": "00:50:51.180",
+        "end": "00:51:20.140",
+        "text": "people just to see what's changing. And you can see it's just unbelievable improvement by all of these markers going down, because all these markers are negative markers, right? So keep an eye out for what they're actually measuring. So it's not always from, you know, from frame to frame to frame, it's not consistent as to what they're measuring. So you have to kind of make sure you read, because when I saw this, I'm like, why do they all go down? I'm like, oh, because they're all bad, and then they all got much better. But try to imagine those of you watching your cholesterol,"
+    },
+    {
+        "start": "00:51:20.140",
+        "end": "00:51:48.380",
+        "text": "and it goes from a, what is that, the yellow one, a seven, right? It goes from a seven to a one, after 15 minutes, that's decreasing the cholesterol. Amazing stuff. So let me jump back, and again, all of this will be on the website, but, you know, it's the proofs in the pudding. This is it. These are the studies that validate the claims on the website. So let's talk about the website in terms of like, okay, well, now that you're, we kind of like"
+    },
+    {
+        "start": "00:51:48.380",
+        "end": "00:52:18.060",
+        "text": "talked about the amazing, you know, validation of quantum healing for people, pets, living things, right? But what about like, how does that would, how would that even apply to a car, or, or like, here's your, here's your choices, right? Here's, so I'm just kind of like, could you kind of explain like, okay, well, we just, we just walk through exactly what this does, how it helps living creatures. And I'm assuming it's going to help plants the same way because"
+    },
+    {
+        "start": "00:52:18.060",
+        "end": "00:52:42.860",
+        "text": "plants have their own way of doing things, but plants obviously have lifeblood as well. It's not blood, I guess it's called. Yes, and if you, if you pick the service for your home, for example, and you explain that the plants you have in your home will benefit from that energy, because the difference then, which if you do it for yourself, then literally you have this energy"
+    },
+    {
+        "start": "00:52:42.860",
+        "end": "00:53:03.260",
+        "text": "field available at all times that you have this on. And if you have it in just in your home and not for yourself, then it's you're still always in your energy without this additional boost, but in your home itself, you'll have more energy available and that, that applies to"
+    },
+    {
+        "start": "00:53:03.260",
+        "end": "00:53:32.540",
+        "text": "plants as well, obviously. And, and with a car, certainly the goal is not to improve the car. I mean, maybe there's something there that we're not aware, right, that maybe, maybe there's more optimal oil function or something like that. That's certainly possible. That's not at all the goal. The goal here right now is, if you have your car charged, that when you're in it,"
+    },
+    {
+        "start": "00:53:32.540",
+        "end": "00:54:01.020",
+        "text": "you're in a, in a positive quantum energy field, that all the EMF in your car are neutralized and harmonized. And yeah, that you have that energy available while you and someone else are in your car. That's the idea about it. Okay, same thing with the phone pretty much. And the phone, we actually tested has quite a radius, actually, once you, once you set the service. And wherever"
+    },
+    {
+        "start": "00:54:01.020",
+        "end": "00:54:28.940",
+        "text": "you take that phone, that phone actually radiates a field. And all the EMF issues that you would have otherwise are non-existent as long as your phone is in that field. Okay. Okay, so then, that's great. That's a good explanation. Now, I kind of understand how quantum energy benefits cars and phones. It's from an EMF and positive, positive energy field. What about business? I mean,"
+    },
+    {
+        "start": "00:54:28.940",
+        "end": "00:54:54.860",
+        "text": "how would you describe to someone like, what this service could do for your business? Like, if I sign up for my business, positive energy in my office, how does that translate to like, results or what they would expect or what they would like to see? Yes, it's so the service for the business supports the business energetically on all levels."
+    },
+    {
+        "start": "00:54:54.860",
+        "end": "00:55:25.180",
+        "text": "And it's a little bit hard to explain because there's so many aspects to it. And it's sometimes difficult to put it in words. But it has an impact on everything you're doing on your staff, your whole leadership. Let's imagine a company with 100 people that work there, right? And they may be in different places. So it's an organization."
+    },
+    {
+        "start": "00:55:25.180",
+        "end": "00:55:50.540",
+        "text": "You can look at it as an energetic bundle of energy, right? This entity that has. Yeah, exactly. Like suppliers, they have customers, and then they have these employees that are at the heart and the core of the company. And then you may have some people in there that are working against the company, or they're just there to get paid. And they don't really support"
+    },
+    {
+        "start": "00:55:50.540",
+        "end": "00:56:19.260",
+        "text": "from within the company's vision and all of that. So as soon as this energy comes in, more of these things become very visible and obvious. And it can happen relatively quickly, actually, that such people kind of move themselves out or expose themselves in another way, or they get a job offer somewhere else, suddenly, just so that if they don't fit into this organism,"
+    },
+    {
+        "start": "00:56:19.260",
+        "end": "00:56:44.540",
+        "text": "because remember what quantum energy does is pure quantum energy in this high consciousness field, it helps that everything can be in its optimal form, right? And if there's something that is parasitic, for example, like these employees that work against the company and not for the vision of all of that, you can view them as parasitic with the energy of using it as parasitic."
+    },
+    {
+        "start": "00:56:44.540",
+        "end": "00:57:09.100",
+        "text": "So they get, there's at some point, no chance anymore for them to stay. They'll just be moved out one way or another. And suddenly, you may find, oh, wow, you know, you wanted, and we already had that, actually, in the test with a couple of companies. One of them was, it's actually pretty famous guy. I can't mention him, though, because he needs to stay anonymous. But they've been looking"
+    },
+    {
+        "start": "00:57:09.100",
+        "end": "00:57:34.220",
+        "text": "for a new employee for months for a specific role and couldn't find anyone, right? Not even close, right? There was just no one there. And then they turned the service on, and within one week, suddenly, there was someone reaching out to them, and they were like, wow, this is exactly what you're looking for. They had an interview. It was just the perfect fit. And there you go, there was"
+    },
+    {
+        "start": "00:57:34.220",
+        "end": "00:57:56.140",
+        "text": "this person. And at the same time, two other people actually moved out of the company through different reasons, right? You know, you can always find a reason in the autowell, too. But these things are triggered. And so if you look at it really as this, what's the potential for a company,"
+    },
+    {
+        "start": "00:57:56.140",
+        "end": "00:58:21.260",
+        "text": "really? And we must say also, this is not to support evil doings, right? Or manipulation. So if there's a company out there that works to rip off their customers, or it's just doing bad business practices, those are not going to be supported because the quantum energy field"
+    },
+    {
+        "start": "00:58:21.260",
+        "end": "00:58:47.900",
+        "text": "doesn't support such things. It really doesn't. It's going to make an effort to change these things. So rather, I would say that this service here is rather for conscious companies, or for companies that want to move into being a more conscious company. Because you want to work from your heart, and you want to try to do good things. And yes, companies need to make money,"
+    },
+    {
+        "start": "00:58:47.900",
+        "end": "00:59:14.620",
+        "text": "because if you don't make money, you can't pay your employees, you can't exist, you can't develop your products and services for this. So that's all great, right? But if there's a good intention behind it, all of that gets supported. If you have bad intentions somewhere, those things will surface and they'll come up. So that's pretty much how it works. That's amazing. Okay, that's a great explanation. I totally get it. It's all about harmonization."
+    },
+    {
+        "start": "00:59:15.980",
+        "end": "00:59:45.660",
+        "text": "And essentially, in training, in training to the positive energy. So yeah, you're right. There is a reducer, parasitic load aspect as well. But for a whole different viewpoint, that's interesting. Okay, so thank you for explaining that. So we talked about the studies, how to go ahead and register, and how the system works. But I think the last thing, I just wanted to cover a few questions that I had, that I know people would kind of"
+    },
+    {
+        "start": "00:59:45.660",
+        "end": "01:00:12.940",
+        "text": "ask to kind of wrap this up. And I just want to say, again, thank you for your time this morning. I know you've got a hard stop here in a few minutes. So I just wanted to ask some questions. And again, everybody, you know, about our telegram chat group. So if you have questions about the new service, we're using the same telegram chat group. We're not going to have a second one or anything. Same one. I don't think we're going to, we can probably talk about it. But"
+    },
+    {
+        "start": "01:00:12.940",
+        "end": "01:00:38.780",
+        "text": "the idea was to either have no chat group or have a separate chat group. And we actually have a small chat group already, because we had this, you know, we had two 20 to 30 people that had tried the service already. And we set up a chat group and actually it seemed to be beneficial for people. So yeah, tell me what you think. Obviously, I'm happy to do that offline as well."
+    },
+    {
+        "start": "01:00:38.780",
+        "end": "01:01:05.580",
+        "text": "Yeah, let's let's ask the folks, because we have the pilot group has a separate chat group. And let's ask them, because you know that right now there's 5,000 folks or plus or 5,100 members, Leila Quantum Tech. And it's all about, you know, the products and using them. And I think that anyone who's jumping in that wants to talk about the service, it might, I don't know, I want to make sure everyone gets their questions addressed as best as we can. And I don't want anyone to"
+    },
+    {
+        "start": "01:01:05.580",
+        "end": "01:01:30.220",
+        "text": "get lost in the shuffle, because we're, you know, someone's talking about a device versus someone's talking about the service. So yeah, there is two chat groups right now. And so we'll go ahead and we'll figure that one out. But I just want to make sure everyone's aware that, you know, that the whole idea is on topic, right? You want people to be talking about, you know, and they got questions about the service. We don't want them to get weeded out because there's, you know, 3000 people"
+    },
+    {
+        "start": "01:01:30.220",
+        "end": "01:01:59.820",
+        "text": "asking about devices. So, okay. Yeah, that's been my understanding so far as well that we don't combine these these groups. Okay, so do okay, we'll figure out what to do about that later, everybody. Okay, so I'll send you the link, I'll send you the invite link to the other group. And then we'll just see, you know, if it if it makes sense so far, it's been beneficial because people did indeed have questions. And yes, it's more to manage, but as long as it's beneficial."
+    },
+    {
+        "start": "01:01:59.820",
+        "end": "01:02:28.540",
+        "text": "You need more amas. You need to clone Emma, you need about six of them. Emma one, Emma two. Okay, so now some quick questions here is where I've been throwing these questions. And as we're talking, so we did talk about choosing the right Hawkins level for me. And I guess at the end of the day, you know, if you've tried it for, I would say how many days would you recommend someone try it before they start, you know, increasing the Hawkins level, which is, I would think that people"
+    },
+    {
+        "start": "01:02:28.540",
+        "end": "01:02:54.940",
+        "text": "would just give it a week. And if you're not really feeling anything, then you know, then boost it up a bit. Would that be a kind of a good response? Yeah, it probably depends a little bit on how experienced you are with these things and how sensitive you are to your own inner world. You know, can you can you feel energy shifts really easily? Or do you have a hard time? And so for some people already after a day, that may be possible. And some people, it may take three or"
+    },
+    {
+        "start": "01:02:54.940",
+        "end": "01:03:22.540",
+        "text": "four days or like you said seven days. So it really depends. So just put yourself into a category, total newbie to all of this or quite experienced and very sensitive, and then go from there and just feel. Yeah, use your intuition, but then also take your time, everybody, a lot of this quantum energy stuff is so subtle that you don't even notice it's doing anything until time has passed and you need to look backwards in time and go, wow, those are a couple amazing months,"
+    },
+    {
+        "start": "01:03:22.540",
+        "end": "01:03:50.140",
+        "text": "you know, and then you didn't realize that they were amazing months while they were happening and that they were different from the months before. So it does take some time and it's very subtle, but as you can see, you know, the studies show it's doing something. It's definitely improving things about you. So give it some time and use your intuition. We talked about the frequencies. Now we talked about does the field run. So you were, okay, so when I sign up for the"
+    },
+    {
+        "start": "01:03:50.140",
+        "end": "01:04:15.820",
+        "text": "service and I click, okay, start, does the field just set up and then it just stays that way for 24/7? Correct. Yeah, with the caveat though, that you are able and we also recommend that to select, you know, what you want to have for your nighttime and we, you know, if you sleep in your nighttime, obviously it's different. If you're working night shifts, then, you know, you'll set"
+    },
+    {
+        "start": "01:04:15.820",
+        "end": "01:04:44.940",
+        "text": "that as your daytime or vice versa. And you can have these different levels and then you can set your booster if you like to. So, but yeah, that then automatically runs and then your booster, you don't need to do anything if it's set. Then if it's set for 9 a.m. in the morning or 8 a.m. It'll turn on right at that time in your time zone. And then after 30 minutes, it's going to get back to your default setting. Okay. All right. Perfect. Now, what if I already"
+    },
+    {
+        "start": "01:04:44.940",
+        "end": "01:05:09.900",
+        "text": "have a LeleQ card? I'm wearing a heel capsule or I own a block. Would this service be even applicable to me since I already have that stuff? Or what's your recommendation or would it interfere? Yeah. So, I'm having a hard time obviously making a recommendation for people that have a blog. I don't want to sell them anything in addition. That's really not what it's about."
+    },
+    {
+        "start": "01:05:10.620",
+        "end": "01:05:40.540",
+        "text": "But yeah, there are benefits and it depends on what for, right? So, if you have a business, for example, then this would be something that you couldn't really do in this way with your blog. Also, the coverage for specific things. I mean, the energy is more advanced. You can get to different consciousness levels that way. And through the buffering mechanism, it's something"
+    },
+    {
+        "start": "01:05:40.540",
+        "end": "01:06:07.660",
+        "text": "that you can't do with your blog at home at this point. So, meaning that if I have an infinity blog or an upgraded infinity blog, I couldn't possibly, you know, usually leave the picture of myself in like at all times, right? It would be too much. And that's something if you wanted to have that for longer periods of time, that's where this comes in because it doesn't stress you"
+    },
+    {
+        "start": "01:06:07.660",
+        "end": "01:06:35.740",
+        "text": "out in any way. Okay. Now, that makes sense. So, it's pretty much if you have a blog, you may or may not really gain much from having the service unless it's something for a business or something you want to run 24/7. Because I know, you know, like my blogs, I'm always using it for something and nothing ever stays in there more than, you know, a day or so. So, okay. All right. So, that kind of puts it into play. But, you know, but for folks, I just want to try quantum energy."
+    },
+    {
+        "start": "01:06:35.740",
+        "end": "01:07:01.100",
+        "text": "They don't know where to start. This is a great place to start. And then, of course, you've got the seven day free trial. I want to mention one more time, okay? And then that's on the website. You just click on the link when you see it. And then what I'm like, so if I'm wearing Leleque clothing, you know, like I wear your beanie all the time for my EMF beanie. And so, but the thing's charged. And if I set up the service, any issue, like if I'm wearing the shirt or,"
+    },
+    {
+        "start": "01:07:01.100",
+        "end": "01:07:29.660",
+        "text": "you know, I just want to make sure that for people who have already kind of invested in your products and are using your products, you know, if, you know, would the service benefit? It sounds like the service would definitely benefit people, you know, regardless, you know. Yes, that's correct. There's no interference. So, if you wear a t-shirt and I actually, we've run tests with that. And I've tested it myself also. There's no problem whatsoever to have your"
+    },
+    {
+        "start": "01:07:29.660",
+        "end": "01:07:57.100",
+        "text": "EMF blocking t-shirt and then the service itself. Not at all. You can keep doing that. Sure. Or you don't need the t-shirt then, possibly. Okay. Yeah, no. Okay. So then, you know, here's a question we get all the time in the chat group anyway, which is what it would it affect other devices, you know, because all these so many people own different energy devices, because that's the community that, you know, is interested in this stuff. So they already come in owning all these little,"
+    },
+    {
+        "start": "01:07:57.100",
+        "end": "01:08:27.580",
+        "text": "you know, trinkets and things I do. I have a ton of them, you know, everything from crystals, the EMF protective thingies. And I mean, so would it have you looked at, you know, applying the service to people who have, you know, a few of those things in their home or are they wearing them? And does it benefit? Yes. Is it benefit? You know, any issue that they need to know about? No, no interference in that sense. So if you have crystals, for example, it's awesome. It works extremely well together. The crystals will continue to"
+    },
+    {
+        "start": "01:08:27.580",
+        "end": "01:08:54.700",
+        "text": "radiate their own frequency and qualities. If you have, you know, devices like, you know, like a somovative or blue sheet, all those things, you really don't need them. That's frankly something that's totally unnecessary if you have the service, because the service operates on such a high consciousness level that these other devices can't even reach. And all the use cases"
+    },
+    {
+        "start": "01:08:54.700",
+        "end": "01:09:19.580",
+        "text": "that they cover is anyway are all covered by the service. So that's definitely not necessary. But if you have them and then you feel, well, you know, they just provide just a tiny aspect of what I really want to achieve, then definitely get the service. And you could also then keep the devices because it's there's not going to be any harm, you know, let's say that way."
+    },
+    {
+        "start": "01:09:19.580",
+        "end": "01:09:48.060",
+        "text": "All right. Perfect. Thank you. Now, in terms of like, I already asked you whether you could gift the service to another person. So basically the response, make sure to just remind everybody is like, not without their consent, because you want them to be involved in the healing, right? They have to be, you know, consent to it and want want it. And then at the same time, too, if you know, if you if you don't have a block, this would probably be the best way to like help other people that"
+    },
+    {
+        "start": "01:09:48.060",
+        "end": "01:10:11.020",
+        "text": "you care about. Or if you do have a block, but you use it all the time for all sorts of different things, and you want to use it, you know, you want to set them up so that they're constantly getting this positive energy, then yeah, the service would be okay. And so it is so if I wanted to, right, I could just put in that other person's name on the registration site. And it would just go ahead and send it to them. And then you would charge me for the cost. So you can do that, right?"
+    },
+    {
+        "start": "01:10:11.020",
+        "end": "01:10:40.940",
+        "text": "Yes, that's possible. It's just, you know, important that whoever does that, then either gets the login information to to do the setting of the time zone and possibly other things, or that you do it for that person if the person wants to do that, for example. I mean, if you have a grandmother that's ADA, and she would like to have a service, then you probably want to set it up for her and do all that. Yeah, yeah. Okay. All right. So then we did talk about increasing the energy"
+    },
+    {
+        "start": "01:10:40.940",
+        "end": "01:11:11.740",
+        "text": "that's increasing the Hawkins scale on their on once you open up your account. And then the last question I was thinking about is like, you know, is there a refund if I don't feel anything, or what would you say to people that sign up for this thing? And like a month later, they're like, I don't feel anything. You know, would you say? Yeah. Yeah, what's the response for that? So first of all, we have the seven day trial, which I think is a good time for people to, you know, get into this and to feel and notice, notice differences. And then after that,"
+    },
+    {
+        "start": "01:11:11.740",
+        "end": "01:11:38.860",
+        "text": "you can set up for the monthly service. So you can also say save and then set up for the yearly service. But if it's a monthly service, you can basically cancel it month to month. So as long as you cancel before the next billing date, which is once a month, then it's canceled right away. And it's very simple to cancel. Obviously, you know, that, you know, you can send an email to"
+    },
+    {
+        "start": "01:11:38.860",
+        "end": "01:12:07.740",
+        "text": "support@quantumupgrade.io or you can actually also cancel it in your account yourself. So that's all easy and simple and no problem whatsoever. Okay, no, great. So yeah, I definitely encourage everyone to give it a try. Even if you have a block, you know, it's a seven day free trial, give it a shot. Okay, so I got to wrap it up. Both of us have got a hard stop in three minutes. So first of all, I just want to say thank thank you, Philip, for your time this morning. I really"
+    },
+    {
+        "start": "01:12:07.740",
+        "end": "01:12:35.420",
+        "text": "appreciate it. I answered all my questions. So thank you so much. This is an amazing new service. The results from the studies are just unbelievably just. It's just amazing. I mean, I'm still blown away by all of this happening via software and miles away and all the positive stuff that comes from it. And it's all validated with studies. And I'm like, but it's blowing my mind. It really is. It's unbelievable. But so just thank you for your time. The website now, it's going to be"
+    },
+    {
+        "start": "01:12:35.420",
+        "end": "01:13:05.180",
+        "text": "up live tomorrow, right? On the sixth? Yes. Okay, so it's the quantum upgrade.io is the website. There'll be links in the video description below. We have our existing quantum power group right now with which for Leila quantum tech, this will be a new entity, a new business entity called quantum upgrade, Leila quantum upgrade, right? Is that the name of it? No, no, no, Leila. It's just called Leila. Just quantum upgrade. Okay, so if you have any questions in the meanwhile,"
+    },
+    {
+        "start": "01:13:05.180",
+        "end": "01:13:34.060",
+        "text": "you'll feel free to come in our telegram chat group where I'm going to post this video, or you can always reach me. I'm Kay Elmer at the Tinkers Academy where you can ask me questions. You can ask Philip questions at the quantum power group. And then, of course, starting tomorrow, the new service will be launched. And go ahead, sign up for your seven-day free trial, please. And just let us know how it worked out for you. So again, thank you, Philip. Really appreciate your time today. Any pretty words? Thanks. Thanks so much, Kay. Thanks to everyone"
+    },
+    {
+        "start": "01:13:34.060",
+        "end": "01:14:03.580",
+        "text": "listening. And yeah, everyone, please have a great weekend. And again, if you sign up for this seven-day free trial, let us know how it goes for you. I'll provide you, Kay, with the invite link to this other currently very small telegram group just because people may indeed be interested in sharing their feedback there or asking questions. So we'll just do that. And yeah, thanks again for having me on. All right. Well, thank you very much. And have a great weekend, everyone."
+    },
+    {
+        "start": "01:14:03.580",
+        "end": "01:14:07.900",
+        "text": "And we'll talk to you on telegram. Loha."
+    }
+]

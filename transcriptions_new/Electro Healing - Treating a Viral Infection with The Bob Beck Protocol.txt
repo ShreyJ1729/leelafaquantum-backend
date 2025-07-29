@@ -1,0 +1,702 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.760",
+        "text": " Aloha, everyone, and welcome to another ElectroHealing video by me, Kay Elmer. And in this video, I'd like to share with you how to treat a viral infection with a Bob Beck protocol. Before I get into any of the content, I need to go over the disclaimers with you. And I do apologize. It's kind of long this time due to the nature of the content that I'll be sharing. Please bear with me. I need to read this, and then we can jump right in. The medical information on this video is provided as an information resource only, and it's"
+    },
+    {
+        "start": "00:00:28.760",
+        "end": "00:00:55.880",
+        "text": "not to be used or relied on for any diagnostic or treatment purposes. This information is not intended to be patient education, does not create any patient-physician relationship, and should not be used as a substitute for professional diagnosis and treatment. Please consult your health care provider before making any health care decisions or for guidance about a specific medical condition. The author of this video expressly disclaims responsibility, and she'll have no liability"
+    },
+    {
+        "start": "00:00:55.880",
+        "end": "00:01:21.280",
+        "text": "for any damages, loss, injury, or liability whatsoever suffered as a result of your reliance on the information contained in this video. The author of this video does not endorse specifically any test, treatment, or procedure mentioned. By viewing this video, you agree to the foregoing terms and condition which may from time to time be changed or supplemented by the author. If you do not agree to the foregoing terms and conditions, you should not view this video."
+    },
+    {
+        "start": "00:01:21.280",
+        "end": "00:01:48.640",
+        "text": "I would like to also add that I do not endorse any of the products I'm just sharing with you the products I'm aware of, and that I am completely unbiased in terms of having no financial relationship with any of the products displayed in this video. Okay, so let's move right in. Ooh, that was lengthy. Okay. The first thing you need to know, and this is where I want to throw this up front, is that there are cautions and warnings about using the Bob Beck protocol."
+    },
+    {
+        "start": "00:01:48.640",
+        "end": "00:02:15.600",
+        "text": "And before I describe what it is and how to do it, let me go ahead and cover this. This is the most important thing. So if any of this applies to you, then you probably don't need to watch the video, so let me save you some time. First of all, if you've got an electronic implant somewhere in your body, whether it's in your head, your heart, whatever, if you've got electronics inside you, don't do this, because you are essentially going to connect a blood electrifier and pulse voltage through your bloodstream. So not a good idea."
+    },
+    {
+        "start": "00:02:15.600",
+        "end": "00:02:44.200",
+        "text": "If you're a child, or I doubt if children watch my videos, but if you're children and pregnant women, there's that classic disclaimer. There's not enough research and it's just too risky. Do not recommend. Do not try this. I just do not think it'd be a good idea. If you are immune compromised and you need to have your dependent on intraday medication, meaning you take medication throughout the day and you need it all the time, then you"
+    },
+    {
+        "start": "00:02:44.200",
+        "end": "00:03:14.000",
+        "text": "should absolutely not do this, because one of the things about the Bob Beck protocol is it uses blood electrification, and that process creates a situation called transfection. Because of the frequency and the voltage and the amperage that's being pulsated through your bloodstream in what it does, which is it eliminates pathogens, when that is actually occurring, then transfection occurs through a process called electroporation. I apologize. There's a lot of words coming out right now that I'm not defining."
+    },
+    {
+        "start": "00:03:14.000",
+        "end": "00:03:43.680",
+        "text": "But bottom line is that if you're on medication or if you're immune compromised, you may kick off a detox reaction that your body may not be able to compensate for and it will make you terribly, terribly ill. Or if you are on medication and through electroporation, then you will have a massive dose of that medication far beyond what you've actually taken because of that function called transfection. So between these two things that could possibly happen, well, actually, not possibly, they do happen."
+    },
+    {
+        "start": "00:03:43.680",
+        "end": "00:04:10.360",
+        "text": "If you're on any one of those situations, then you're going to get very ill and it's not going to be a very good thing. So, not for you. Now I did transfection simply means that if you take, let's say you take a telenol and then you zap your blood, you're going to get a ten times dose of that telenol inside of you. And you can imagine what it would do to somebody's liver and/or if you were having problems, right? Or you were on some other medication. The Herxheimer reaction is a detox reaction when your body is overwhelmed by and essentially"
+    },
+    {
+        "start": "00:04:10.360",
+        "end": "00:04:40.200",
+        "text": "what's going to happen, it's going to basically neutralize all the pathogens that goes past where the probes are. And that excess load on your detox process within your body, your immune system has to process it, it has to flush it out of you. And if you overwhelm your immune system and your lymphatic system with excess dead pathogens, trying to find a way out of you, then you will go into a horrible detox reaction. And it's called the Herxheimer reaction. And also last thing is the skin damage."
+    },
+    {
+        "start": "00:04:40.200",
+        "end": "00:05:09.400",
+        "text": "There's a possibility of damaging your skin if you do it wrong. And so I'll cover that in the tips on how to use the probes. But bottom line though is you have to be very, very careful and you could damage your skin. You could either burn your skin, you could give yourself a rash, or you actually could cause a little bit of nerve damage if you just use the machine at too high of a volume, you know, at a power level. And so there is that possibility as well. And I'm sorry, I just want everyone to know, these are all the things you really need to understand."
+    },
+    {
+        "start": "00:05:09.400",
+        "end": "00:05:35.200",
+        "text": "You know, I mean, and I would say that, you know, clearly the majority of people could do this without issues. But there are some that have problems and issues. And these are the things you need to know about because I want to just be really transparent and really upfront about this whole situation. Okay. However, let me show you something that I think is quite remarkable. I'm a little bit of a nerd. And so I do a lot of spreadsheets and things like that all the time. And one of the things I also do is I keep a journal of my sick days."
+    },
+    {
+        "start": "00:05:35.200",
+        "end": "00:06:01.040",
+        "text": "And so I went to go look at it because I was thinking about the effect of me doing Bob, you know, the Bob Beck protocol, whenever I started to feel ill and since I started doing it. So, and then, you know, what was my life like before that timeframe? So I happen to have a minimum, I have 12 years of records going back to 2008. So it actually went to like middle of 2007, but I threw that data away."
+    },
+    {
+        "start": "00:06:01.040",
+        "end": "00:06:30.360",
+        "text": "So I've got full year records of the number of days that I was ill and this does not include getting injured. Okay. Just ill from 2008 to 2019, that's a total of 12 years. And now about, I'd say around around, you know, around 2012 is kind of when I became a little woke about taking better care of myself and self treating and so forth. And from that moment on around those time frames, I began using the Bob Beck protocol."
+    },
+    {
+        "start": "00:06:30.360",
+        "end": "00:06:55.880",
+        "text": "So I want to just point out, now these are just the number of sick days over the years. And I want to point out something I think is very important. When you take a look at these 12 years right here and you look at the last six years, the number of days I was out per year was an average of 3.7. Now the prior six years before I started doing the Bob Beck protocol, the number of days absent per year average was 6.2. This is over a 12 year time span."
+    },
+    {
+        "start": "00:06:55.880",
+        "end": "00:07:23.560",
+        "text": "Now what that means is since I've been doing the Bob Beck protocol, every time I even get the little bit of the sniffles or a cough or anything like that, over the last six years compared to the prior six years before that, I've reduced the number of sick days or sick occurrences by 40%. That's 40% reduction in being sick. And the impact of that on not calling out, of not having to gel poops to pick up drop off kids, you know, when you're sick."
+    },
+    {
+        "start": "00:07:23.560",
+        "end": "00:07:51.800",
+        "text": "And it's just a huge improvement in my health and just the improvement in just overall just general efficiency in terms of functioning. So I just wanted to share with you some hard data because I actually have data on how well the Bob Beck protocol has been working for me in terms of keeping me healthy. You can actually see where I have days like three years here with zero sick days compared"
+    },
+    {
+        "start": "00:07:51.800",
+        "end": "00:08:20.680",
+        "text": "to all these other years where I never missed a year being sick. And so I think this is quite important to recognize. Okay. So that's just some data just to share with you about the Bob Beck protocol. So now what I want to do is share with you something I think is really, really important because when it comes to viral infections or any type of pathogen infection, bacterial or I would say more so let's just focus on viral. That's the purpose of this video. Sorry. Didn't mean to go off on a tangent."
+    },
+    {
+        "start": "00:08:20.680",
+        "end": "00:08:48.800",
+        "text": "Talk about viral infections. This is your typical and courtesy of MN Health. This is your typical mainstream medical response to a viral infection. And I just want you to just hear it firsthand. When people have a viral infection, sadly, there's not much to do other than to rest, drink fluids. As a parent, when you have a sick child, it's really tough because you want to do something for your child."
+    },
+    {
+        "start": "00:08:48.800",
+        "end": "00:09:13.200",
+        "text": "And honestly, the best thing is to give them lots of tender loving care and give them some comforting medications that are over the counter just to help take care of the symptoms that we're suffering from. But antibiotics won't help in those cases. So there you go. You know, it's kind of true. There is no, the most that they can give you is antivirals like Tamiflu. But at the end of the day, they're going to just treat the symptoms."
+    },
+    {
+        "start": "00:09:13.200",
+        "end": "00:09:42.080",
+        "text": "This is mainstream medical science basically saying when people have a viral infection, sadly, there's not much else to do. Go home and take some drugs that will treat the cough, that will treat the sinus issue, but not do anything to eliminate the virus infection that you've got in your body. So is that true? This is my question to the world. Is that a true statement? Well, let's take a look."
+    },
+    {
+        "start": "00:09:42.080",
+        "end": "00:10:09.280",
+        "text": "In 1990, two doctors from the Albert Einstein College of Medicine in New York filed a patent number US 5139684A that basically was titled electrical, electrically conductive methods in systems for treatment of blood and other fluids and/or synthetic fluids with electric forces. So what these two doctors had discovered back in 1990, okay, 30 years ago, was a new process"
+    },
+    {
+        "start": "00:10:09.280",
+        "end": "00:10:39.120",
+        "text": "in system for treatment of blood and/or body fluids and/or synthetic fluids from a donor or recipient or storage receptacle, or in a recycling system using novel electricity conductive treatment vessels for treating blood and other body fluids and/or synthetic fluids with electric field forces of appropriate electrical field strength to provide electric current flow through the blood and other body fluids at a magnitude that is biologically compatible but is sufficiently."
+    },
+    {
+        "start": "00:10:39.120",
+        "end": "00:11:05.360",
+        "text": "To render the bacteria, viruses, and/or fungus ineffective to infect normally healthy cells while maintaining the biological usefulness of the blood or other body fluids. So what this patent proved because they had to prove what they're saying in a patent. So they proved it, they filed a patent for it, and they got the patent for it that said,"
+    },
+    {
+        "start": "00:11:05.360",
+        "end": "00:11:35.360",
+        "text": "hey, guess what world, we found a way to make pathogens, bacteria, viruses, and fungus ineffective to infect healthy cells but maintain their biological usefulness. Now the patent that they had filed essentially says you need to take, if you take the blood out, run it through this blood electrifier device and then pump the blood back in, you know, you're going to kill off everything, you're going to actually not kill off, but"
+    },
+    {
+        "start": "00:11:35.360",
+        "end": "00:12:01.600",
+        "text": "you're going to render them ineffective or let's say neutralize. This patent is the beginning of what is called the Bob Beck protocol. So this is in 1990, so a gentleman by the name of Bob Beck decided that he read that patent and he decided he was an electrical engineer and he held several patents of his own and he decided to take it one step further and he developed a different type of blood"
+    },
+    {
+        "start": "00:12:01.600",
+        "end": "00:12:30.160",
+        "text": "electrifier that did not require you to take your blood out of your body. So this is something that you could literally, and because he was an electrical engineer, you could do it home if you have this little device and then what he did, which was the most remarkable thing that he did, and this is back in the early 1990s, like 30 years ago, was he open sourced it. He decided that this was so important in the world that you could have a little tiny device that could basically kill all different kinds of pathogens in you and cure you, right?"
+    },
+    {
+        "start": "00:12:30.160",
+        "end": "00:12:59.640",
+        "text": "There's that amazing word cure of you of any bacterial virus or fungus mold infection with just a tiny little electrical device that he open sourced it. He put the schematics out in the world and said, \"Hey, here you go, world. Go ahead and build these own.\" And for the 1990s, he basically went around to multiple different medical conferences, I guess, they're not really medical conferences, but hackers and tinkerers of the day, and he went around and he did a bunch of lectures."
+    },
+    {
+        "start": "00:12:59.640",
+        "end": "00:13:28.720",
+        "text": "And I want you to hear Bob Beck himself speak about this incredible discovery that he made and what it meant to him. So now this is a really old video from back in the day, and I want you to just hear the very beginning of this, okay, so that you can hear from his little words. They present in the cure for AIDS, and it was immediately suppressed, quite."
+    },
+    {
+        "start": "00:13:28.720",
+        "end": "00:13:55.800",
+        "text": "This is a package of Wrigley's chewing gum. When I was a kid, it cost a nickel. When I bought one at the John Wayne Airport before I was flying these traditionally, it cost a dollar eight cents. This package of chewing gum represents the entire cost of curing HIV, cancer, Epstein"
+    },
+    {
+        "start": "00:13:55.800",
+        "end": "00:14:23.080",
+        "text": "Barr, hepatitis, even herpes, that takes about five months. These others take about three weeks, and this is proven, and we'll prove it to you before you leave the room tonight. So my one problem is show. All right, I'd like to just leave it right there if you heard what he said. It included HIV, which is a virus, obviously. So back in the day, Bob Beck toured a bunch of different conferences, and he gave this"
+    },
+    {
+        "start": "00:14:23.080",
+        "end": "00:14:51.560",
+        "text": "speech, all of these videos are on YouTube. In fact, just as a reminder, every single thing I'm going to walk you through the ton of leak. There's more research in this one video than any other of my videos except for maybe this other one, but I cannot stress enough how incredible Bob Beck's invention was. And he's talking about the cost of the parts where he would basically give you a schematic"
+    },
+    {
+        "start": "00:14:51.560",
+        "end": "00:15:19.800",
+        "text": "and you would go and buy electronic components for a buck and then build these things yourself. This is obviously 30 years ago. And then he actually had a handout when you would show up to one of these, and somebody was, you know, by the grace, right, of angels. Somebody held on to one of those handouts, and they made a photocopy of it, and they're floating around the web right now. And it's literally the actual handout from their lecture, and it's the Bob Beck lecture, and he named his lecture, \"Take Back Your Power.\""
+    },
+    {
+        "start": "00:15:19.800",
+        "end": "00:15:47.120",
+        "text": "And now, of course, there is a link to this handout in the video description. So what this simply means is that he developed a way using the idea in the patent from the Albert Einstein Clinic Institute, and he used that, created a device that could do what he just described, which would neutralize any pathogen in the bloodstream. And so this is the story of how that's going to work and how to go about doing it."
+    },
+    {
+        "start": "00:15:47.120",
+        "end": "00:16:15.200",
+        "text": "Now the first thing you need to understand about the Bob Beck protocol, it's actually four separate protocols combined into one. So when, and then if you actually watch his videos, or you watch his, you know, his lectures, you know, they start in the early '90s, and they end around 2000, and I believe he passed away in 2008 or 1998 or something like that. But as he went along in time, from the moment that he discovered blood electrification, as"
+    },
+    {
+        "start": "00:16:15.200",
+        "end": "00:16:41.180",
+        "text": "he progressed through time, he added on more and more different steps so that originally he just started with blood electrification, and then he added on Clodal Silver, and then he added on Ozone, then he added on PMF. And then this bottom part here is just, is what I do as well. But the four major steps is what ended up becoming the Bob Beck protocol. And actually, somebody, there's another book out there called \"The First Aid Kid of the"
+    },
+    {
+        "start": "00:16:41.180",
+        "end": "00:17:10.500",
+        "text": "Future\" that somebody wrote a book about Bob Beck and his protocol. If you want to go and find that, I think there's a link in that too as well. So let me describe to you what the four are. Now this is blood electrification. I did a full video on this, and what blood electrification does in step one of the protocol is it neutralizes pathogens, just like that patent set. So if any virus or any bacteria, any mold or fungi comes into that field of where the probes are, it'll neutralize them, it'll make them ineffective, they will not be able"
+    },
+    {
+        "start": "00:17:10.500",
+        "end": "00:17:33.620",
+        "text": "to latch onto healthy cells, and will not be able to infect you. And then your lymphatic system will then flush them out of you. And it does also, and what it also does too, because it's electricity, it actually kicks off a process called electroporation. And electroporation is when you have a normal cell, and the cell wall is kind of like a membrane, like let's say a ping-pong ball, right, it's really smooth all the way around."
+    },
+    {
+        "start": "00:17:33.620",
+        "end": "00:18:03.340",
+        "text": "Now when an electricity passes through that cell, it basically morphs into what you would look like visually as a little golf ball with all these little divots in it, and the divots on the outside of the cell are just where the cell wall has thinned. And it just does that, it just kind of spasms for a short brief time, and it kind of opens up and it becomes more porous so that anything that's floating around that cell is now able"
+    },
+    {
+        "start": "00:18:03.340",
+        "end": "00:18:32.940",
+        "text": "to kind of penetrate that cell through those little divots in the cell wall, and then it closes back up again. Now because of electroporation, what Bob Beckdette did, and this is the thing too, if you listen to his lectures and you read his writings, he really started trying to get people to understand how important this was. And so people obviously were not receptive to the idea because you couldn't patent it, and it's not a drug, and that seems to be the way everything goes nowadays, but he was"
+    },
+    {
+        "start": "00:18:32.940",
+        "end": "00:19:01.660",
+        "text": "adamant, and he literally spent over $100,000 of his own money. He went out of the country and he did his own human trials, and this is how he learned what the protocol should be. And you'll hear that, you'll hear him talk about that in his lecture. So when he added Clodal Silver, because silver has the properties to be able to kill pathogens, and so he added that. So the idea was, is that when the blood electrifier is working, it's neutralizing pathogens, but at the same time, it's electing parading the red blood cells and the white blood cells."
+    },
+    {
+        "start": "00:19:01.660",
+        "end": "00:19:30.420",
+        "text": "So then if you have Clodal Silver in your bloodstream at the same time, because it's electro-parading, it'll be able to absorb the Clodal Silver, the ionic silver particles, much easier into the cell, and then eliminate any viruses that are inside the cell. And so it really gave it a boost up and really made the protocol that much better. And then he added on Ozone. Ozone is, as you know, there's a huge warning about Ozone, but it's always about breathing"
+    },
+    {
+        "start": "00:19:30.420",
+        "end": "00:20:00.340",
+        "text": "Ozone gas, which is 03, Oxygen, three atoms of Oxygen in 103. But if you bubble Ozone in water and then drink the water, what happens is when that water comes in you, you know, there's three Oxygen atoms connected together, and it always wants to go back to being a gas, it's very unstable. And so one of the Oxygen atoms will release off to create an 01, and then the gas is the 02. That little 01, well, it's a free radical."
+    },
+    {
+        "start": "00:20:00.340",
+        "end": "00:20:30.300",
+        "text": "It's what we always try to avoid. That's what we're taking C60 and it causes aging and all this other stuff. But what it also does is it kills pathogens because oxygen will kill any type of pathogen that it encounters. So if that 01 hits a, you know, like it does as much damage to your healthy cells as it does to pathogens. So if you've got a heavy pathogen load and you release all this 01 into your system, you know, while your body's dealing with the free radicals, it's killing off all the"
+    },
+    {
+        "start": "00:20:30.300",
+        "end": "00:20:54.780",
+        "text": "pathogens in your body at the same time. And it's also something that's really amazing is that it's an immune modulator, a scientist that have discovered that by drinking ozone water or doing ozone with the call in suffocation, which is essentially, you know, putting ozone gas through the bottom half of you to put it easy, then your body then actually has an immune response to the ozone and it actually"
+    },
+    {
+        "start": "00:20:54.780",
+        "end": "00:21:18.060",
+        "text": "kicks off different processes in your body and actually is good for trying to motivate and actually stimulate your immune system and beef you up a lot more about being, you know, having a stronger immune system. So that was the second thing that he had added to the blood electrification protocol. And then eventually he went to using the, which is a magnetic pulser, which is also"
+    },
+    {
+        "start": "00:21:18.060",
+        "end": "00:21:43.940",
+        "text": "PEMF and pulsed electromagnetic field therapy, and so what PMF did or these magnetic pulsers, what he did was, and this was the thing, he started all off with trying to figure out how to cure AIDS because back in the 90s, for those of us who are old enough to remember, that was the, let's say the coronavirus of the day, right, it was like, oh, it was AIDS was the big, the big thing before anybody worried about anything else."
+    },
+    {
+        "start": "00:21:43.940",
+        "end": "00:22:12.340",
+        "text": "And so he was trying to treat AIDS patients and kill the HIV virus and what he discovered over time, which was several years into it, where he had been building together this protocol, he discovered that the AIDS virus, just like, let's say the chickenpox virus will lay dormant in different parts of your body and kind of hide from, you know, it's self protective. These things are not stupid. They've evolved with us as a species and so the virus, the HIV virus, would lay dormant"
+    },
+    {
+        "start": "00:22:12.340",
+        "end": "00:22:41.460",
+        "text": "in the lymphatic system in certain parts of the body, so what was happening was he would treat people with the Bob Beck protocol, especially HIV patients, and they would get way better and then they would go away, would come back months later and they'd be sick again. And they were trying to figure out why are you sick because we basically wiped everything out of you. We did the tests and you showed none, but what happened was they showed none because they were testing the blood, but what they realized was that the HIV virus was able to hide out and literally go to the farthest reaches of the lymphatic system."
+    },
+    {
+        "start": "00:22:41.460",
+        "end": "00:23:08.380",
+        "text": "So what Bob Beck decided to do, and this is what worked for him, and this is what worked in the protocol through his human trials, which by the way, it's so terrible, he never published because he wasn't a scientist, you know, he was an engineer, so he didn't publish his results, but he talks about them in his lectures. So with the magnetic pulser, what he did was he added a fourth step to the protocol, which by, you would use a magnetic pulser and you would pulse the six major lymphatic"
+    },
+    {
+        "start": "00:23:08.380",
+        "end": "00:23:36.100",
+        "text": "glands on your body, and by doing that, he discovered that that would completely eliminate the HIV virus and that people would actually be cured. Interesting how you've never heard that before, right? Yes, there's a cure to HIV. So that was the Bob Beck protocol, and these are the four steps. Now I've done a, I've done my own type of modification where I've just, I've just some tinkering around, and I've discovered that in the area of the step two, which is you"
+    },
+    {
+        "start": "00:23:36.100",
+        "end": "00:24:01.580",
+        "text": "want another, you want an element that will kill off the pathogens, not just neutralize them. I've also learned that vitamin C because of the tremendous and credible value of vitamin C, vitamin C will also work very well, and it's interchangeable with Clodal Silver. So for those folks, you know, because the Clodal Silver or ionic silver world, there's kind of like two fields of study, one group really believes in it, another group doesn't"
+    },
+    {
+        "start": "00:24:01.580",
+        "end": "00:24:30.780",
+        "text": "think it works, no problem, then just substitute it with liposomal vitamin C, and you will see the same results. Okay, so I've done that. As a tink, I've tried to see, you know, well, can you substitute these? And then if you are really sick, and this is what I call mega-backing, if I'm really really sick, I mean, like, like there was just one part where I was literally bronchitis coughing blood, you know, kind of that sick about to have pneumonia. And so I decided I would do a quote mega-back where I actually did all five of these, plus"
+    },
+    {
+        "start": "00:24:30.780",
+        "end": "00:24:58.860",
+        "text": "I upgraded, I have a medical grade ozone machine with an oxygen concentrator, so I used not my regular ozone generator, but I used a medical grade ozone generator, added liposomal C, I did all of this all at the same time, twice a day. I mean, it was like full-on, just go for it, and I was perfectly fine a week later. So this is the actual protocol, and this is how you do it. So let me walk you through how to do this, and then for those of you that want to stick"
+    },
+    {
+        "start": "00:24:58.860",
+        "end": "00:25:25.900",
+        "text": "around, we can actually go through the research on what it does specifically and how it works, but I just wanted to kind of cover this with you, all right? So now, the very first thing that, you know, that everybody really should know is what this stuff costs, and so I want to point that out. Now, if you wanted to do the blood electrification, the ozone generator, you know, basically your basic package, your basic four-step, Bob Beck protocol, there's different ranges"
+    },
+    {
+        "start": "00:25:25.900",
+        "end": "00:25:50.460",
+        "text": "best based on what equipment you buy, what supplies you buy, and so forth. So for a blood electrifier, it's anywhere from, you can buy just a good enough model that works just fine as low as 8850, or you could just go and just go all out and get one that does multiple different things, and it has little fancy armbands in the whole bit, right? So it could get expensive, the ozone water generators, if you go on Amazon, anywhere from"
+    },
+    {
+        "start": "00:25:50.460",
+        "end": "00:26:19.020",
+        "text": "50 to 100 dollars, magnetic pulses are the most expensive thing you're going to run into, which is, and this is like eBay use prices versus buy brand new prices, anywhere from 177 to 440, and these are all prices as of this week. And then to make the colloidal silver, you'll need some equipment, and that's basically nine-volt batteries, leads, volt, and TDS meter, and of course, pure silver wire, and that just as a straight package is about $82, I priced it out."
+    },
+    {
+        "start": "00:26:19.020",
+        "end": "00:26:46.260",
+        "text": "So now, the cost to do the Bobback protocol could be anywhere from 397, all the way up to 972, depending on your equipment. So you could literally do this for less than 400 dollars, and the thing is, okay? It's a 400 dollar one-time investment, because you're just going to be able to use this over and over, if you've got a large family, then everybody can get treated, you don't have to keep going back to the drug store, stand in line, get your prescription, go on, you know, none of it, you don't have to keep going to the doctor, you have this thing and you use it, okay?"
+    },
+    {
+        "start": "00:26:46.260",
+        "end": "00:27:12.300",
+        "text": "And unless when your pieces of equipment break down, and you need to replace it, you're good to go. You can keep making colloidal silver, you can keep making ozone water, you can keep pulsing, you know, the batteries I'll have are all rechargeable, I never got to buy anything more. It's a one-time investment, and you can use it over and over and over and over. Okay, in fact, the one that I'm using right now was the original one I bought eight years ago, and I bought other blood electrifiers, because I'm just a tinker and I want to try different products."
+    },
+    {
+        "start": "00:27:12.300",
+        "end": "00:27:40.820",
+        "text": "But the original one that I started working with, I still use that one, and that thing's got rusted screws on it, it's just old and beat up, but it works, and it works great. So that's the cost, okay? So now let's walk through the how-to, and I just want to first of all just kind of mention something where I'm using other individuals' videos of how to do these things because there is so many videos on how to make colloidal silver, how to do ozone water, how to make liposomalcy."
+    },
+    {
+        "start": "00:27:40.820",
+        "end": "00:28:09.460",
+        "text": "There's just so many of them that I just felt like it was completely unnecessary to kind of re-record yet another video doing the same thing. So I'm just using other people's content, which I really try not to do, but I just want to just say, \"Hey, sorry, this is how I'm doing it,\" because I think it's just pointless to make another video that somebody else has already made. And then secondly, I really, really, really wanted to get this out as fast as possible, and this was the fastest way to get this video out in the open."
+    },
+    {
+        "start": "00:28:09.460",
+        "end": "00:28:36.740",
+        "text": "I think it's so critical given what's in the news right now, okay? So now how to make colloidal silver with 9-volt batteries. If you've never done this before, it is very simple. It just sounds complicated, okay? Basically, these are the materials you need. So you need a jar with the distilled water in it. You need two silver wires for the positive and negative electrodes, the two electrical leads that have alligator clips on both ends, four 9-volt batteries, a voltmeter to make sure you've got the right voltage and a TDS meter."
+    },
+    {
+        "start": "00:28:36.740",
+        "end": "00:29:05.580",
+        "text": "So now when you're doing this, and I'm just going to go ahead and kind of walk you through it, basically you take this guy, in fact, he's not using silver wires, using silver bars. And so now you can use silver bars or silver coins, but you've got to make sure that they're pure silver. It's got to be 99.99, just absolutely must make sure that it is the purest form of silver. Do not compromise. If there's any other metal in that, like, let's say you used a silver liberty versus"
+    },
+    {
+        "start": "00:29:05.580",
+        "end": "00:29:29.820",
+        "text": "a silver maple, well, the liberty's got some other, it's not pure, you know, 99.99% silver, but the silver maple, the Canada sells, you know, their one-ounce coins are. But you know, or you can buy the wires, okay? You can buy pure silver wires, you can go on eBay, Amazon, so forth. All right, so you've got to make sure it's pure silver. So now you just have the jar, you put the water in it, and then this is what this individual does."
+    },
+    {
+        "start": "00:29:29.820",
+        "end": "00:29:56.780",
+        "text": "Using like this, basically, you know, plastic chip bag holder to hold the two alligator clips right there, and that's going to hold the wires that he puts into the jar with the distilled water. And then so that's really it. You can see where he's using, instead of wires, using the bars. So then he's got the silver clamped on with the alligator clips, and this is what he's using to hold it. No, I don't use that. I just, you know, connect, I just have the wires hanging off the side of the jar."
+    },
+    {
+        "start": "00:29:56.780",
+        "end": "00:30:26.740",
+        "text": "And then so the next thing he does, or that you would do, is you fill it up with distilled water. You must use distilled water. There is no compromise on that. There must be nothing else in there, okay? And then of course, then you make sure that it's clean. It's clean distilled water. You have a TDS meter meter, which measures the parts per million. There should be zero. So you put your TDS meter in there, make sure it's zero. There's nothing else in there. Now all you've got in there is silver, you know, and just water."
+    },
+    {
+        "start": "00:30:26.740",
+        "end": "00:30:55.140",
+        "text": "That's it. There's nothing else in there. There's no salt. There's nothing else. Okay? And then you go ahead and just jump back up there. And then once you have the water in there, then you would then connect the four batteries. You connect them together, just like that, in series. And if you take four times nine, you get 36 volts, then you connect it up to the wires like that. And this guy's kind of doing it a little clunky, but it's the idea is the same. And then you set your timer."
+    },
+    {
+        "start": "00:30:55.140",
+        "end": "00:31:25.100",
+        "text": "Well, he's setting a timer, but you don't need a timer. You just kind of watch it and you keep measuring it with your TDS meter. Do you just keep watching it and measuring it with the TDS meter to see what your parts per million is? That's what a TDS meter is right there. So then I would just check it every 15 minutes. And then when you see this thing go up to 10 parts per million, boom, you're done. That is the Bobbeck protocol. It's making Clodal or it's essentially ionic silver. I don't really want to get into this discussion between ionic and Clodal. I know what you're all thinking of those."
+    },
+    {
+        "start": "00:31:25.100",
+        "end": "00:31:54.900",
+        "text": "You guys understand that Bobbeck didn't worry about it and I'm not worrying about it. So it, but it's essentially I got it. Okay. But anyway, so you've basically that's it. You've electrolyzed water with silver in it. And now there's silver ions floating around in that water and it's being picked up by the TDS meter. And once you get to 10 parts per million, 10 PPM, you're done. That's what you need. And that's what the Bobbeck protocol calls for. All right. So there's that. So now this is ozone."
+    },
+    {
+        "start": "00:31:54.900",
+        "end": "00:32:24.780",
+        "text": "Now the ozone in order to make ozone water, okay, this is actually the model that I have. I got like two of these, one in my kitchen and one is a backup and then I've also got my medical grade one. But this is the one I use. It works great. It's just fine. It's like, I don't know, 70 bucks or something. And so now what you need is an ozone generator. It comes with the tubing, the bubbler, you need a glass and you need water. Now when making ozonated water, you don't need to have distilled water. Just any regular water will do and I recommend you always filter. So just have a glass of filtered water."
+    },
+    {
+        "start": "00:32:24.780",
+        "end": "00:32:54.380",
+        "text": "And then what you would do is you obviously take it out of the box and we get past that point. And there we go. And so you take it out of the box, you take your bubblers, they have this machine comes with two bubblers, one's for making ozonated oils and then once meant for water, the white ones for water. So then you would basically set your machine. It has multiple settings on it. And then I usually set it for 15 minutes at the highest that I can set it for. And then you just take the bubbler, you connect the tube to the bottom, to the white one,"
+    },
+    {
+        "start": "00:32:54.380",
+        "end": "00:33:23.860",
+        "text": "and then plop that into a glass of water and just turn it on. And then it starts to bubble ozonated water. That's it. And then once it beeps and it's done the 15 minutes, there's your ozonated water. It's as easy as that. This thing is so small that it does not create enough released ozone into the air to cause any concern. If you're in a large room, there's no worry about that. You'll be fine. You will smell it, but it's not going to be harmful because it's not a lot of ozone. And that is how you make ozonated water."
+    },
+    {
+        "start": "00:33:23.860",
+        "end": "00:33:50.300",
+        "text": "Okay. So now this is the how to do blood electrification. So in order to do blood electrification, you need to have a bloody electrifier, a little electronic device, and if you know, obviously there's links in the video description. And I made a separate video all about blood electrification and went through all the different websites that sell it. So take a look at my video list. You'll find it in there, but you need a blood electrifier. That's the little device that Bob Beck invented."
+    },
+    {
+        "start": "00:33:50.300",
+        "end": "00:34:17.980",
+        "text": "Lots of different folks, not lots, but you know, there's about a half a dozen folks out there that are making these things for sale. soda is the actual real full on commercial, you know, producer of blood electrifiers. There's soda instruments in Canada. So you need one of those devices. Now it comes with two electrodes, two cotton sleeves that cover the electrodes, two lead wires. It comes with all this stuff, a wrist strap. But what it doesn't come with is it doesn't come with a little dropper bottle. And then you need to make a little bit of salt water."
+    },
+    {
+        "start": "00:34:17.980",
+        "end": "00:34:46.580",
+        "text": "And the reason you need the salt water, and I'll show you this, is this is the actual gentleman. I think his name is Ross and he actually was a partner of Bob's in terms of just parading around the country talking about blood electrification back in the day. He was a real young man at the time. And so this is him describing his product now. He took Bob Beck's idea and made it commercial, so he's been doing this and selling this longer than anyone else has. And so, you know, kudos to you, you know, Ross for doing that."
+    },
+    {
+        "start": "00:34:46.580",
+        "end": "00:35:15.820",
+        "text": "And so now this is how he's basically describing how to use his product. And then here's your cotton sleeves that he would put over the probes. There's the probe right there. And then there's one on each side. There's two, right? And then you have the two different probes, positive and negative. It plugs into your blood electrifier. You have a wristband right here. And then so what you would do is, well that's the armband to hold the device, sorry. So then you have the armband to hold the device on your upper arm and then you have a wristband right here that would hold the probes in place."
+    },
+    {
+        "start": "00:35:15.820",
+        "end": "00:35:42.740",
+        "text": "And so you can kind of see where he's showing right now the placement of the probes. There's two basic ways to do this, okay? We have two different arteries on both sides of our wrist. And so in the typical Bob Beck protocol, he originally would just basically put one on one artery and one on the other vein, like a vein artery, artery vein. I'm sorry, I get confused. But there's one on each side, you can take a pulse off of each side of your wrist. And that's just how our bodies are are meant."
+    },
+    {
+        "start": "00:35:42.740",
+        "end": "00:36:09.620",
+        "text": "So you can take a pulse on this side or a pulse on that side where the pulse, you feel the pulse, that's where you need to put the probe, okay? So you would put the probe right up over those two spots. So when you actually watch him do this, you basically, you need to set the probe spacing on the strap so that they go over the right places on your wrist. And that's how you have, that's probe placement right there, okay? So that's proper probe placement."
+    },
+    {
+        "start": "00:36:09.620",
+        "end": "00:36:39.140",
+        "text": "And then the thing about the salt water now is in order to remain conductive, then you want to wet the cotton sleeves that go over the probes, you want to keep them moist and you need to use a conductive fluid which is simply salt added to water. And that will remain, it'll become conductive and it'll go from the probe through the cotton sleeve because it's been moistened with salt water because it needs to have some minerals into your skin right above where your vein and artery are."
+    },
+    {
+        "start": "00:36:39.140",
+        "end": "00:37:06.420",
+        "text": "And because it's so close to your blood flow, that's how the electrical signal, the electrical, you know, pulsing voltage will actually pass through your bloodstream. Now one of the things, I'll get into the tips and things like that, but this is one way to do it. Now there's another way to do it where you literally could just do one side of you. So on this side of your wrist, on the inside side is, for me, and for a lot of people,"
+    },
+    {
+        "start": "00:37:06.420",
+        "end": "00:37:34.980",
+        "text": "it's the only place they can find a pulse, for whatever reason, they just can't find a pulse on the outside of their wrist. And so if that's you, then you can use this one on this side and then on your other arm, you could use where you can find a pulse on your other. So you could do wrist to wrist or two per wrist. Okay. There's different ways you could pulse. There's another way to use legs, but I have never seen anyone have any great success, except there's one character on YouTube, but I don't recommend trying to do legs because then you got wires going down and up and it's to be, that would be nuts."
+    },
+    {
+        "start": "00:37:34.980",
+        "end": "00:38:02.260",
+        "text": "But you can at least do either wrist to wrist right on the outside or on both sides of the wrist. Okay. And that's how you place it. And then when you turn that machine on, the key to it is you turn it up to where you can feel the pulsing, and then you just turn it down. I'll cover that in tips. And that's how to use the blood electrifier. Okay. Now, let's talk about the actual protocol itself. This is straight out of the Bob Beck protocol. The way you do it. Now you do it over a two hour span."
+    },
+    {
+        "start": "00:38:02.260",
+        "end": "00:38:31.060",
+        "text": "This is when you build up to it, let me just back up. This thing will work and it will cause a Herxheimer reaction. Remember that detox thing, if you are heavily full of pathogens, okay, so it is highly recommended that you take baby steps to build yourself up to the full two hours. So anyone who's never done this before should only try it for 15 minutes and see what happens. And then do 30 minutes and see what happens and so forth."
+    },
+    {
+        "start": "00:38:31.060",
+        "end": "00:38:59.940",
+        "text": "Don't all do it in the same day. All right. You just got to make sure that your body can handle the amount of detoxing that's going to occur once you turn this thing on. All right. Make that very clear. So now once you can build yourself up toward the two hours and I would suggest that you do that before you get sick, okay, you know, make sure you've got a tolerance for this thing. And that way when you get sick, you can run the full protocol. So now it's a two hour protocol. And the two hour protocol is where you would basically start."
+    },
+    {
+        "start": "00:38:59.940",
+        "end": "00:39:27.180",
+        "text": "You would drink eight to 12 ounces depending on your size and it's all up to you of Clodal Silver. You drink it and you start zapping. And then every half hour, okay, you drink another of the, yeah, you just kind of switch back and forth. So you can, and this is the thing. You can start with ozone and switch to Clodal Silver and you know, or you can start with Clodal Silver and switch to ozone. It's not really specific. So I just put it out here like this, drink eight to 12 ounces of Clodal Silver and then start zapping, okay."
+    },
+    {
+        "start": "00:39:27.180",
+        "end": "00:39:56.420",
+        "text": "And then half an hour later, drink again, another eight to 12 ounces of ozone water. And then again, half hour, drink some Clodal Silver, eight to 12 ounces, half hour, drink ozone water, half hour, drink Clodal Silver, okay. You get how that works. It's just every half hour. Just keep drinking. Okay. From start to finish. And over two hours stand point of time. Now one thing to know about that is that the actual forces of electroporation where it pops"
+    },
+    {
+        "start": "00:39:56.420",
+        "end": "00:40:24.140",
+        "text": "open your cells and you're able to suck in, you know, anything that's floating around that, you know, your permeability of your cell walls is greatly extended and you're able to absorb better anything that's floating around. Well, at this point, you've got a lot of Clodal Silver and ozone or radical oxygen is floating around in your bloodstream and the effect of electroporation will last for two more hours. So that's important to note so that during these two hours, it's basically a four hour time window that you should not take anything else."
+    },
+    {
+        "start": "00:40:24.140",
+        "end": "00:40:53.740",
+        "text": "I mean, I've eaten during this time period because, you know, and it didn't affect me. But I would just absolutely don't take anything else, okay, for those four hours because then you will get a mega dose of it. I mean, Bob Beck has stories in his lectures where one person was doing blood of electrification, didn't pay any attention to the warnings. He had one beer and basically was on the floor, you know, because it was just his body had been electroporated and he just absorbed all that alcohol way more than he would normally have because his cells have paraded."
+    },
+    {
+        "start": "00:40:53.740",
+        "end": "00:41:19.700",
+        "text": "Okay. So it does last for four hours. Okay. Two hours during and the two hours afterwards, but the protocol itself is just for two hours. You drink Clodal Silver, ozone, Clodal Silver, ozone, Clodal Silver and then you start zapping and stop zapping at the two hour mark. The protocol, this is the protocol and then you do it once daily for seven days. That's it. And then all of his human trials that Bob Beck had done showed that this will eliminate any"
+    },
+    {
+        "start": "00:41:19.700",
+        "end": "00:41:45.780",
+        "text": "pathogen in your bloodstream, viruses, bacteria, molds and fungus, anything that's alive other than you. You want you. You don't want the rest of those guys. Okay. So that's the Bob Beck protocol and that's how you do it. So now here are the tips and these are the points that I really want to get across to make sure everyone's really clear on what's important here. Sufficient mineralization and hydration is absolutely essential. If you are not hydrated and you don't have enough minerals in your body, then the current"
+    },
+    {
+        "start": "00:41:45.780",
+        "end": "00:42:13.140",
+        "text": "flow between the probes and through your blood will not occur because you just you don't have enough conductivity and it just won't work. You need to be hydrated and you need to be mineralized. Okay. The only thing is, is do not do this on a full stomach because why? Well, you're going to drink a lot of fluids and you're not going to be able to pee it out fast enough and don't do it late at night because otherwise you're going to be getting up a lot at night. This is all. Believe me. This is my experience. Okay. So make sure you, you know, you can eat a little bit but don't eat too much because you're"
+    },
+    {
+        "start": "00:42:13.140",
+        "end": "00:42:39.900",
+        "text": "going to fill up with a lot of fluid and you need to drink all that fluid and that that's what takes precedent. That's why you're doing this. So just don't have a full stomach when you start. And the other thing too. No, this is something new. And I've kind of played around with it, Bob Beck said, do not take any medications because people were asking him, you know, well, what if I'm on, you know, I have to take my hypertensive medicine or whatever. And then he would say, well, our test showed that you should not take it within 12 hours of doing blood electrification. Okay."
+    },
+    {
+        "start": "00:42:39.900",
+        "end": "00:43:08.900",
+        "text": "But so I have actually kind of just messed around with this to tink with it. And I've discovered that I actually can go and like within two hours, but I don't want to say that out, you know, as a recommendation, I would just say anywhere from six to 12 hours prior, do not take any medication. All right. Because again, you will have the transfection reaction and then you will have a bigger dose of the medication. So within six to 12 hours, you know, do not take any medication before you do the Bob Beck protocol. And then this other thing that I think is really kind of important."
+    },
+    {
+        "start": "00:43:08.900",
+        "end": "00:43:38.380",
+        "text": "The more I learn about C 60 antioxidants, radical oxygen, you know, scavengers, so forth, because you want ozone to work and you want those radical oxygens, you don't want anything up in else in your body that's going to be scavenging them up. You don't want anything mopping them up for right that moment, okay? So don't take any antioxidants. Don't take your C 60 and then do your Bob Beck and then you could take it later. But you want you want those radical oxygens at the moment in time that you're doing the Bob Beck protocol."
+    },
+    {
+        "start": "00:43:38.380",
+        "end": "00:44:07.660",
+        "text": "So do not take that stuff, okay, six to 12 hours prior to doing Bob Beck protocol. Now the eyedropper is to keep the sleeves moistened. Like I said, you should check every 15 minutes. You will be amazed how fast those things dry out. You need to keep them moistened. What's really you will notice right away that when they dry out and you put a drop in there and it moistens, boom, that pulse, you're going to feel that pulse 10 times stronger than it was before. You don't realize how much that cotton sleeve being moist makes a difference to the strength"
+    },
+    {
+        "start": "00:44:07.660",
+        "end": "00:44:37.220",
+        "text": "of the pulse. So keep your probe sleeves moistened, okay? Now one of the things too, if you have metal probes, different machines have different types of probes. If you have metals, make sure you use a scrubby brush and you clean that thing thoroughly before you use those probes. Because anything that gets, that's between the probe and your bloodstream is going to interfere with the conductivity of the signal going through your bloodstream. Same thing with your skin. You need to wash your skin thoroughly before you place the probes on and you also need to keep your skin dry between the probes."
+    },
+    {
+        "start": "00:44:37.220",
+        "end": "00:45:06.140",
+        "text": "Now this is what's really important. You saw that picture where he was holding up his wrist and the probes are on one side of his wrist. Well, that space between the probes, you want to make sure when you're keeping your sleeves wet that you do not leave water or your skin cannot be wet there. It needs to be as dry as a bone. Because if you have any moisture between those probes then the current is going to go from one probe to the other probe across the top of your skin and you will not get the proper signal through your bloodstream, okay?"
+    },
+    {
+        "start": "00:45:06.140",
+        "end": "00:45:36.020",
+        "text": "So it needs to go into your body, not across your skin. So keep that area dry. Very, very, very important. Now you need to maintain the power. Now when you have to turn up the dial, you put the probes on, get the sleeves wet, turn the electrifier on, turn the power up. Now you're going to be able to feel it. You'll turn it all up and then you'll feel this pulsing, right? Then you want to turn it down to where you can just feel it, okay? Don't go too high. Don't try to superman power struggle through it. Just go down to where you can barely just feel it and good enough."
+    },
+    {
+        "start": "00:45:36.020",
+        "end": "00:46:02.220",
+        "text": "That's good enough, okay? Because you may damage your skin, talked about that. Now again, one more time I got to say this is so critical, start slow. You ramp up in 15 minute increments until you reach two hours a day, okay? Be really careful. I have had herximer reactions doing different types of things. They're not pleasant. They manifest themselves in everything from flu-like symptoms to full-on rashes and illness and just, you know, it gets bad."
+    },
+    {
+        "start": "00:46:02.220",
+        "end": "00:46:28.140",
+        "text": "So be really careful about detoxing too quickly because this thing will neutralize your pathogens and then your body will have to deal with it. And you don't want to overwhelm your body's ability to do so. Okay. Now, for the, how to use the magnetic pulser, the magnetic pulser is just a paddle connected to a little box. And so really that's all you need. And then what you need to do, and this is the thing about, depending on what virus you're"
+    },
+    {
+        "start": "00:46:28.140",
+        "end": "00:46:54.300",
+        "text": "treating, you know, who knows whether or not it acts like the HIV virus and goes and hides out in your lymphatic system. I'm just covering this part because I want to be thorough because this is quote the official Bob Beck protocol. And I don't want to make a video that follows it to the letter. So now these are the points on your body that Bob Beck said you needed to zap. And so then right here under your armpits, right here in your groin area and then right here behind your ears. Okay. So there's six points on your body."
+    },
+    {
+        "start": "00:46:54.300",
+        "end": "00:47:22.060",
+        "text": "You would take the paddle and with the north side of the paddle, always north. Okay. And you use the north side facing your skin, you zap for three minutes in each location and you do three times each. So you hit these, you just go, you know, go full circle three times, three minutes each. And that's how you do the magnetic pulsing as part of the Bob Beck protocol. All right. Now, the last thing I wanted to do is just kind of talk about the liposomal vitamin C. And this, this would wrap up the how to."
+    },
+    {
+        "start": "00:47:22.060",
+        "end": "00:47:51.380",
+        "text": "The liposomal vitamin C as an as a substitution for a clodal silver. Like I said, it works. Okay. So now if you wanted to do that, it's, it's $70 for all the stuff you would need. And it's very, very simple to do. So all you need is an ultrasonic jewelry cleaner like this. You need some asorbic acid, some sunflower lethicin and distilled water. This one, you need distilled water. Okay. I know it gets complicated, right? But this is what you need to do. And the recipe is quite simple. This is my recipe."
+    },
+    {
+        "start": "00:47:51.380",
+        "end": "00:48:18.420",
+        "text": "She's done it differently. My recipe and this video actually does it differently than my recipe, but it's just there for show. I'll walk you through it. But it's three tablespoons of lethicin with eight ounces of water and I use hot water. And then one, it helps, you know, basically dissolve everything much easier. And then one tablespoon of a sorbic acid for ounces of water. So what I do is I basically take these two, I, I make them separately, each one in its own glass, dissolve the lethicin, dissolve the sorbic acid."
+    },
+    {
+        "start": "00:48:18.420",
+        "end": "00:48:48.260",
+        "text": "And then I pour it into the ultrasonic cleaner and I son of Kate for six minutes. That's it. And then you've got liposomal vitamin C, which is exactly like lipofluorines. Basically you're creating a, you're using a fat, which is a lipid. And you're, you're basically surrounding a another molecule. In this case, it's a sorbic acid molecule for C60, it's the, it's the C60 molecule. So when you're doing liposomal C60, then you're creating liposomes out of C60, which is called lipofluorines."
+    },
+    {
+        "start": "00:48:48.260",
+        "end": "00:49:17.380",
+        "text": "And then if you do it with vitamin C, you get liposomal vitamin C. Same concept, the exact same concept using sonication as opposed to stirring. So now here's this guy's video basically walks through the different, you know, different tools that you need and the different materials. He actually, which is really cool about this video, all the links here in the video description. He actually uses a microscope to show you the liposomes when he's done. So basically he does it where using, he's using a cooling, a cooler water and he lets it sit for a while, it's faster and his, his measurements are a little different."
+    },
+    {
+        "start": "00:49:17.380",
+        "end": "00:49:45.060",
+        "text": "But bottom line is he mixes it all together. And he just has a different mixing, you know, way he does it. But bottom line is you put it all in the ultrasonic cleaner. And then he, then when he's done with the ultrasonic cleaner, then he then mixes it up with a blender, which I think is excessive, you don't need that step. And then he does a check. And when he does the check, it's kind of cool, where you can actually see right there, you can see the liposomes have formed. So that just kind of shows that, hey, it worked, you know, and I made liposomal vitamin C."
+    },
+    {
+        "start": "00:49:45.060",
+        "end": "00:50:14.660",
+        "text": "This would also probably work, I guess, I don't know, I don't want to go into a C60. So, but that's, that's kind of it for that. So you can definitely, like I said, substitute this for the Clodal Sover, all right? So that's that, that's the video. Now for anyone who wants to know more, learn more, this, you can keep going on with me. But you know, it's already gotten to 50 minutes at this point. I wanted to keep it as short as possible. But that is the Bob Beck protocol. It works. It works really well for me."
+    },
+    {
+        "start": "00:50:14.660",
+        "end": "00:50:40.780",
+        "text": "And I just encourage everyone to not just focus on everything that I'm seeing in the news about, you know, how to avoid it and how to avoid this and how to avoid that. But you know, you need to kind of plan for like, well, what would happen if you did catch it, you know, and if you're reading the news, you know that if you did catch it, you're going to be very, very hard pressed to get any attention from medical authorities because of just the onslaught of all the other people that need medical attention as well."
+    },
+    {
+        "start": "00:50:40.780",
+        "end": "00:51:10.680",
+        "text": "So to be able to self-treat at home is critical in these times. And I just highly encourage everybody to do whatever you can to make sure that you and your loved ones are going to be able to write out any storms. Okay. Now let me walk you through one other thing before I let you go and get into the research. This is the, this is all of the links in the video description. And I just want to show you that I did all this research and there's a ton more information than what I've just discussed with you. So here's going to be the links."
+    },
+    {
+        "start": "00:51:10.680",
+        "end": "00:51:40.580",
+        "text": "It's going to be all the different equipment for blood electrification equipment. The research, all the videos I've showed you, the patents, everything. And if you click on any one of these links that'll show you the actual research behind blood electrification and Bob Beck and his book and all that, Clodal Silver, same thing. Here the supplies for Clodal Silver, the research behind Clodal Silver, ozone, the supplies, the research, pulse-electromagnetic field therapy. Here's the Pulsar, the research. Clodal liposomal vitamin C, again, the supplies and the research and then some information about the Herxheimer reaction."
+    },
+    {
+        "start": "00:51:40.580",
+        "end": "00:52:09.140",
+        "text": "Okay. So, oh, there's a ton of links, a ton of research in the video description so that you can go ahead and do what you need to do. All right. Well, that's it. So, you know, thank you so much for watching the video. Now the rest of this video will be basically the research material, the validation and the science behind some of this stuff. And it's, I find it quite interesting for those of you who want to stick around, come with me, probably be another 10 minutes and then we'll wrap this whole thing up, okay? So for the rest of you, Aloha, thank you very much. I really appreciate your time."
+    },
+    {
+        "start": "00:52:09.140",
+        "end": "00:52:37.700",
+        "text": "So, now let's get into the research material. Now, I basically wanted to just validate how these, each one of these separate components work using a direct testimony from different doctors, different institutes and so forth, so that you can see that these are valid academic and they're not just, you know, you know, crazy woo guys in the interlands, okay. So now I did show you the patent for blood electrification and that is a proven methodology"
+    },
+    {
+        "start": "00:52:37.700",
+        "end": "00:53:07.620",
+        "text": "for nullifying viruses, pathogens and so forth. Now let's, let's just, I just want to play a little bit of this video so that you can kind of hear how ionic silver works and why it works, okay? So let me go ahead and start this and then I just want you to hear it. What is it about silver? I'm seeing silver coins kill bacteria even in a water jug. I'm seeing silver in many different forms destroy stink and odor, viruses, bacteria."
+    },
+    {
+        "start": "00:53:07.620",
+        "end": "00:53:35.160",
+        "text": "What is it about silver and why does it work? I'm Dr. Gordon Pedersen and I'm the medical director of the Silver Health Institute and this is why silver works. In a chemical diagram, this is what silver looks like. We have two electrons in an interorbital, 8, 18 and then in the outer orbital we only have one electron, I've signified it right there."
+    },
+    {
+        "start": "00:53:35.160",
+        "end": "00:54:03.520",
+        "text": "This is significant and this is why silver works. It has only one electron here and it rotates like a wheel that's out of balance. It can't ever get itself even as dense as it is in balance until an electron is placed into this placement. Where is it going to get an electron? One single electron? It's going to steal it from bacteria."
+    },
+    {
+        "start": "00:54:03.520",
+        "end": "00:54:32.580",
+        "text": "It's going to steal it from viruses. It's going to steal it from yeast. Yeah, here's a single layered cellular organism meaning there's only all these little teeny electrons around here and that makes up a cellular wall. It is an incomplete cellular wall because it's only one electron thick. As soon as this silver particle which is magnetic gets anywhere near this bacteria, it's going"
+    },
+    {
+        "start": "00:54:32.580",
+        "end": "00:55:02.500",
+        "text": "to steal that bacteria and make silver completely in balance. Stealing an electron from bacteria, viruses and yeast balances silver. That's why silver works. There's other mechanisms of action but silver steals an electron to balance itself out thus destroying pathogens. And they said that there's no treatment for viruses. Now, let's talk about ozone therapy."
+    },
+    {
+        "start": "00:55:02.500",
+        "end": "00:55:30.180",
+        "text": "Again, here's the courtesy of the American Center for Biological Medicine. I think this is a profound video that you should listen to as well. One is blood ozone therapy which is actually IV ozone and the other one is rectal ozone therapy. What ozone does is exactly what it sounds like it does. It oxygenates the blood but it's also a wonderful way to get your immune system stimulated and to fight infections off. So whether you have a long-standing infection or chronic fatigue or you're going on a trip"
+    },
+    {
+        "start": "00:55:30.180",
+        "end": "00:55:59.620",
+        "text": "and you don't want to get infections, doing a form of ozone is one of the best ways you can to stimulate your immune system and kill off pathogens. To draw the blood out, the inject ozone into your blood and then it goes back into the system. It's very safe. It's very hygienic. And what the ozone does is it stimulates your cells to produce some things that fight infection and then of course the ozone itself has a wonderful ability to sterilize any viral or we'll say pathogenic infections in the bloodstream and that also gets into the tissues."
+    },
+    {
+        "start": "00:55:59.620",
+        "end": "00:56:27.820",
+        "text": "Ozone therapy in whatever form we deliver it, whether it's for me. Just stop it right there. If you heard him again, you can hear why did Bob Beck choose Clodosilver, why did Bob Beck choose ozone and in both of these situations there's a reputable doctor basically explaining to you very clearly that these things will kill pathogens. So he put that in the combination of blood electrification for obvious reasons. And surprise, surprise."
+    },
+    {
+        "start": "00:56:27.820",
+        "end": "00:56:55.620",
+        "text": "Here's another way to kill viruses that you don't hear about from the mainstream media. Okay so now how does pulse-electro-magnetic field therapy work and this is courtesy of Dr. Steven Stokes. The technology is called Pulse-electro-magnetic field therapy or PMF for short. What it does is nothing short of remarkable. Using a high amount of voltage in the tens of thousands, it creates a man-made lightning"
+    },
+    {
+        "start": "00:56:55.620",
+        "end": "00:57:23.420",
+        "text": "bolt that is then projected through a wire system to create a strong magnetic field that is intense but brief. So brief that the magnetic field safely slips through the cellular membranes to activate and charge the cell's DNA, the very essence of the repair mechanism of that cell. Studies show that pulse-electro-magnetic field therapy assists stem cells in your own body"
+    },
+    {
+        "start": "00:57:23.420",
+        "end": "00:57:49.100",
+        "text": "to differentiate into the damaged tissue. So the healing potential for this treatment is limitless. The FDA in the United States has already approved PMF therapy for bone regeneration. And as mentioned before, there are over 600 studies online at the pubmed.gov website that show its validity in treating everything from Alzheimer's, back pain, digestive problems, anxiety, and yes, even cancer."
+    },
+    {
+        "start": "00:57:49.100",
+        "end": "00:58:15.700",
+        "text": "PMF therapy is changing medicine at a quick alarming rate. Paul. So I just want to point out there, it's treating, quote, cancer and the whole issue about pulse-electro-magnetic field therapy is, you know, he doesn't mention electroporation but that's obviously one of the other effects from it. But the aspect of not only electroporation but it also, like he was mentioning, it stimulates"
+    },
+    {
+        "start": "00:58:15.700",
+        "end": "00:58:44.260",
+        "text": "the ATP production in the cells which induces healing. And so if you've got damage being created by viruses, pathogens and so forth, not only does PMF, you know, kind of basically stun the viruses, it'll also kick your cells into a repair mode just like ozone is a immune modulator that'll kick in your immune system. So this was the fourth protocol that was added to make, you know, the fourth step to make the bot-back protocol."
+    },
+    {
+        "start": "00:58:44.260",
+        "end": "00:59:05.900",
+        "text": "So the last one is I wanted to just kind of introduce you to Dr. Andrew Saul, he's got a PhD. And if you've never heard of Andrew Saul, I can't, you know, this is just a lecture. There's no, you know, really good sound bite that I could grab from this lecture but I did put this in the video description. And what I want to point out, and this is probably one of the most important things I"
+    },
+    {
+        "start": "00:59:05.900",
+        "end": "00:59:33.060",
+        "text": "could ever share with you is that Dr. Andrew Saul is the, he's the individual behind the website called DrYourself.com, okay? And so if you will see, he's got a page and what DrYourself.com is, it's basically an encyclopedia of how to treat numerous different ailments, diseases and problems using nutrients."
+    },
+    {
+        "start": "00:59:33.060",
+        "end": "00:59:59.700",
+        "text": "Okay, and so he's created this encyclopedia of studies, of knowledge, of protocols and just a huge base of information that I literally have used as my Bible for my own personal health. And so I think one of the most important things that, that you could see right on, this is the SARS-Pays Coronavirus SARS page. This is obviously in the video description and how to treat it with vitamin C. Then here's a quote that I just want to just share with you."
+    },
+    {
+        "start": "00:59:59.700",
+        "end": "01:00:28.900",
+        "text": "And it's a quote by Robert F. Cathhart MD, \"I've not seen any flu yet that was not cured or markedly ameliorated by massive doses of vitamin C. And then he goes on to have all these different links to different places in his encyclopedia called DrYourself.com where he talks about how vitamin C is incredibly powerful tool against any type of virus to wipe it out. So you can see why for myself and my recommendation that it is a equitable substitute for collateral"
+    },
+    {
+        "start": "01:00:28.900",
+        "end": "01:00:58.220",
+        "text": "silver vitamin C, especially liposomal vitamin C. And just for those of you who are not familiar with liposomal vitamin C versus vitamin C, I just want to point out that vitamin C is water soluble, which means when you take vitamin C as a capsule or a tablet, the efficacy rate or your ability to absorb the vitamin C is about 19% of it. And the other 81% of that vitamin C will just eliminate through your urinary tract. Okay, because it just, it just, you know, it's water soluble. And so you don't really absorb much and you have to take a lot because you're only, you're"
+    },
+    {
+        "start": "01:00:58.220",
+        "end": "01:01:25.060",
+        "text": "only absorbing, you know, 19% of whatever you take in. Now when you create liposomal vitamin C, that, that 19% goes all the way up to about 92%. So it really makes it that much more bio available, like four to five times more bio available. And so that when you take vitamin C as in a liposomal form, which is exactly the same concept of taking vitamin, I'm sorry, C 60 in a liposomal form, it becomes bio available."
+    },
+    {
+        "start": "01:01:25.060",
+        "end": "01:01:53.700",
+        "text": "And that's why, you know, it, that's why I, you know, I'm, I'm basically recommending that you take it as a liposomal and not just as a vitamin C. Okay. But in a pinch, you, if you were taking vitamin C, Dr. Andrew Saul, I think there's a one of his articles I read on there that basically said, well, if you're going to just take tablets and just take one of these, take a thousand milligrams every six minutes or 10 minutes or something like that, until you have loose stool, so which you can take thousands and thousands and thousands before you get there, because you're only, you know, 19%."
+    },
+    {
+        "start": "01:01:53.700",
+        "end": "01:02:21.860",
+        "text": "But if you take liposomal vitamin C and you take like four ounces and four ounces and four ounces and you're drinking it and by the way, two caveats about it. One, it tastes really horrible. So that's just something you have to overcome. Number two is if you do this and you're doing blood electrification, I will remind you again that there's that thing called transfection. When you take in a lot of liposomal vitamin C and you do blood electrification simultaneously,"
+    },
+    {
+        "start": "01:02:21.860",
+        "end": "01:02:51.620",
+        "text": "you will reach maximum saturation way quicker than you normally would. So if you've done a vitamin C flush before and you know what to expect, this is not like that. You will reach it so quickly that you'll be very surprised and you need and I'm not trying to be humorous, but you need, if you're going to do this, if you're going to take liposomal vitamin C and do blood electrification, very serious warning, you need to be very close"
+    },
+    {
+        "start": "01:02:51.620",
+        "end": "01:03:16.100",
+        "text": "to a toilet the entire time. Do not go and leave the house. This is personal experience. You will need those toilet trips and you will not have a choice whether to use the toilet. So you better have one around, okay? So that's, that's, you know, because it's a vitamin C flush and you're going to be saturated because the worst thing that could ever happen with too much vitamin C is you have loose stools or you have diarrhea, okay? That's the ultimate place where this all goes."
+    },
+    {
+        "start": "01:03:16.100",
+        "end": "01:03:44.020",
+        "text": "So heads up on that vitamin C is powerful, doctoryourself.com. This one of the best sites on the internet for staying healthy. All right. So lastly, that's it. That's the last slide. Thank you so much for your time today. It's an hour of your time and it's, it's so valuable. Thank you for spending it with me. Thank you for watching my video. Now again, for all the further information, please refer to the links in the video description."
+    },
+    {
+        "start": "01:03:44.020",
+        "end": "01:04:11.900",
+        "text": "And if you have any questions at all, come on to the Tinkers Academy, go on to the Telegram chat group and just, you know, ask questions. I'm always available on either one of those platforms. And I just want to say thank you and, and, you know, we are facing some uncertain times ahead of us with what's going on with China. And this is, this is one way to bring some peace of mind. And personally, I'm not, I'm not even worried about it. I'm prepared for this. I've done it so many times I can't even count."
+    },
+    {
+        "start": "01:04:11.900",
+        "end": "01:04:41.800",
+        "text": "I've had some serious, serious illnesses that I've treated with a Bob Beck protocol and come back from, you know, you know, near death pretty much. And so I'm, I'm not worried at all. I'm ready for this and I know what to do. And I, I, I hastily put this video together so you would also know what to do. And, and I hope that, I hope that it, nothing happens to you. I hope that you have good health and, and take care of yourselves. And if you've got any questions, you know, where to find me? Hey, thank you so much again."
+    },
+    {
+        "start": "01:04:41.800",
+        "end": "01:04:43.480",
+        "text": "Have a great weekend. Aloha."
+    }
+]

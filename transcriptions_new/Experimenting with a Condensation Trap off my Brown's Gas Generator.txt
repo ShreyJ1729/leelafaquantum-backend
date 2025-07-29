@@ -1,0 +1,22 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.040",
+        "text": " Hello Internet! This is Kay Almer from the Tinkers Academy. I'm doing something new well Tink and I just wanted to share it with you so I just recently got one of these and these are called condensation traps and what they're meant to do is capture all of the basically the liquid that's coming through through the gas so that it doesn't get into your cannula so I decided to go ahead and buy one and"
+    },
+    {
+        "start": "00:00:29.040",
+        "end": "00:00:56.880",
+        "text": "actually get them on Amazon two at a time so I got a couple but I'm just trying this one so I wanted to kind of show you the rig so I got a connection tube and it's coming off of my number two bubbler and it's just hanging there and then it goes into the trap which is the condensation trap and then I pulled out a brand new cannula to kind of see and compare to my other cannula that I've been using for quite some time and I just wanted to show you that this one I've"
+    },
+    {
+        "start": "00:00:56.880",
+        "end": "00:01:24.360",
+        "text": "been using for quite a bit of time you could see that right there I mean there's like liquid you know water or condensate in the cannula I've been using this guy since February 8th it's March 31 so a couple of months so you can see even though I kind of I use the whip it method where I swing around and blow through it and just trying to continually keep the the fluid out of that cannula and so I decided well you know it's kind of a pain in the A and"
+    },
+    {
+        "start": "00:01:24.360",
+        "end": "00:01:43.920",
+        "text": "then so I decided well why don't I try this condensation trap so this is the experiment I've got it all hooked up brand new cannula no fluid at all I'm gonna give it a try for a week and then I will report back to say whether or not the experiment was successful there you go"
+    }
+]

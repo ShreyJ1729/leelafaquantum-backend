@@ -1,0 +1,647 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.680",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kalmer and in this video I'd like to share with you a bioelectromagnetic healing device called the biophotonic multi-wave oscillator. It's essentially what I would think that if there's ever going to be medbed technology that this would be incorporated into that because this is clearly the concept of healing in the 21st century. So let me let me kind of just explain what"
+    },
+    {
+        "start": "00:00:29.680",
+        "end": "00:00:56.400",
+        "text": "I'm talking about because this is a phrase that I came up with because there's really no name for all of these different versions of the same thing. I mean they all have their own name that they've called their product you know all these different inventors that have come up with this but essentially though it's I see it as a class of device and it's biophotonic it's also a multi-wave oscillator that's the name I'm giving it. So this is my phrase okay so you're not going to find"
+    },
+    {
+        "start": "00:00:56.400",
+        "end": "00:01:23.280",
+        "text": "that out there in the public but that's what this really is. It's essentially a multi-wave oscillator that's emitting light. So in this video I'm going to just do like a high-level overview of the different devices that are out on the market and how they sort of are working and then get into the biological effects and then obviously if I can share with you whatever I can give you in terms of like you know what does this do? In other words number two would be you know what's"
+    },
+    {
+        "start": "00:01:23.280",
+        "end": "00:01:51.120",
+        "text": "it supposed to do? Number three would be what are the testimonials and the studies if any that basically validate or try to validate that you know the efficacy of these devices in terms of healing and also too you know lastly in the back of the video it's going to be if you want to experience one of these things then you know I go ahead and give you all the information you need so that if you wanted to try one there you know there's lots of different ways not lots of different ways but you know there are ways to go ahead and try one of these things. So now"
+    },
+    {
+        "start": "00:01:51.120",
+        "end": "00:02:19.200",
+        "text": "before I jump into the content I do want to kind of explain that right now there's only you know there's been several of these devices that have been created a couple of the companies have just kind of disappeared off their you know radar but right now of the four different devices that are most are that are actually out there for sale right now and for experiencing you've got this biocharger device and these are all the same technologies essentially there are obviously major"
+    },
+    {
+        "start": "00:02:19.200",
+        "end": "00:02:46.000",
+        "text": "differences and that's going to be discussing another video but there's a device called a biocharger there's one called the Tesla energy lights there's one called the quantum pulse and then there's the nova light now all of these devices have former names these are all the current names the most recent names given to the devices but each one of these have other names that they've been given in the past because you know as they evolve and get new features and so forth you know"
+    },
+    {
+        "start": "00:02:46.000",
+        "end": "00:03:15.440",
+        "text": "there's different names to them all so it does get really confusing trying to figure out you know what your device is what and who did what and how it works and all of that so this video is going to be let's talk about these devices as at a high level so that we can all kind of understand hey what are they you know what general in general terms executive summary hey let's you know like what do these things do and and what are people saying about them so now before I jump in that I just have some disclaimers I just want to make sure that all information contained in this video"
+    },
+    {
+        "start": "00:03:15.440",
+        "end": "00:03:41.600",
+        "text": "that you understand is for educational purposes only and should not be just you know construed as any type of medical advice all right so none of this stuff has ever been approved by the FDA or you know sanctioned by them or even there's no they haven't even been classified as medical devices you know so none of that FDA stuff applies here so just you know fair warning that this is just for educational purposes and also too I want to really make sure that you understand that I"
+    },
+    {
+        "start": "00:03:41.600",
+        "end": "00:04:08.160",
+        "text": "have no affiliation to any of the products here so I'm not an affiliate I'm not selling anything this is just purely information and you know for education and just sharing now also too that the information that is contained in this video is public okay so I've just basically spent my entire Christmas break for the last three weeks researching these devices and every single different device and the story behind all of them and the technology etc so it's all public information source from"
+    },
+    {
+        "start": "00:04:08.160",
+        "end": "00:04:37.520",
+        "text": "the web archives patent databases existing vendors websites and also on YouTube and I just want to convey you know convey that all of this material is presented under fair use now the last thing I really want to kind of say is that you know after three weeks of collecting information about these class of devices and the content in this in this discussion really kind of comes down to three actual separate conversations that I think are really valuable to have about these"
+    },
+    {
+        "start": "00:04:37.520",
+        "end": "00:05:07.520",
+        "text": "devices in general and so one of them is just you know what are the claims that are being made and that's this video this video is about you know hey what are people what are the people who created these things say about them and so forth and so what are the claims that have been made and I think that's the where I want to start this conversation the next two discussions that I think are important to have and these will be in future videos is an actual review of the technology kind of comparing the devices to each other comparing them to the original multi-wave oscillator and just there's a"
+    },
+    {
+        "start": "00:05:07.520",
+        "end": "00:05:33.680",
+        "text": "lot of technology involved and especially a lot of technology that involves the you know like what is the output of this machine and how is it working and and how is it doing some of the things that these claims are saying that they're doing I mean it's in a fascinating area and you know I wouldn't be able to have a you know a short video if I tried to include that so that's going to be a separate video of course now there's the third piece here is the clinical validation now none"
+    },
+    {
+        "start": "00:05:33.680",
+        "end": "00:05:57.920",
+        "text": "of the vendors who have created these invented them and put them out on the market they've done you know there are no NIH level you know pseudo sham you know placebo type you know control group type studies that have been done on any of these machines in terms of use on humans or pets animals and so forth everything is just simply testimonial and claims by the vendors and so"
+    },
+    {
+        "start": "00:05:57.920",
+        "end": "00:06:24.800",
+        "text": "there's been no third party independent review except for one there's been a couple of studies that have been done by third parties on one of the machines that was done quite a long time ago and I'll share that in the video as well but they're not like NIH level studies so there's really been no third party peer review and I just want to stipulate that as well it's part of that whole idea about you know don't construed as medical advice it hasn't fallen under any of that"
+    },
+    {
+        "start": "00:06:24.800",
+        "end": "00:06:51.920",
+        "text": "kind of stuff that you would expect you know like you like just say like you know like other type of devices out there that are actually classified as medical devices other devices out there have like lots of you know peer reviewed studies that show that they do what they do you know like red light therapy for example so anyway so I just wanted to make sure that you understand that there's three conversations here that I think are really important to kind of really truly understand this technology and this one is this first video you're watching right now is"
+    },
+    {
+        "start": "00:06:51.920",
+        "end": "00:07:20.160",
+        "text": "the claims made video so let's jump right in now what is a biophotonic multi-wave oscillator and so there's a little history here I think that's important for everyone to understand is that it is literally the next generation of an original multi-wave oscillator that was invented by a gentleman whose name is Georges Lacoskey and this patent came out in 1934 and his device that he put on the market he commercializes patent and it's called the colosa now the colosa kind of was"
+    },
+    {
+        "start": "00:07:20.160",
+        "end": "00:07:47.120",
+        "text": "put out there was basically part of the medical establishment it was really big in Europe and there was and it was introduced in the early 40s to the American market and of course World War II you know totally shut that down and you know the world changed for a few years and so it just kind of disappeared after World War II but the whole idea though is that Lacoskey theorized and he was the very first one to come up with this you know it predecessor is Nikola Tesla who created"
+    },
+    {
+        "start": "00:07:47.120",
+        "end": "00:08:11.600",
+        "text": "these coils and they've kind of like kind of collaborated with each other and he put together this healing machine because in his theory his theory was really kind of simple if you think about it basically he was thinking and theorizing that all of the cells of our body have you know have a resonant frequency that we operate on and if you think of like a you know like a piano or a guitar"
+    },
+    {
+        "start": "00:08:11.600",
+        "end": "00:08:37.920",
+        "text": "and you know every single string or every single key of the device you know resonates at a specific tone right and and and then you know once it comes out of you know when it comes out of tune eventually over usage and over time you know like you know and your guitars out of tune for example so you have to have someone tune it or you tune it yourself you're using tuning forks whatever but the whole idea though is once it once that each one of those strings or each one of the keys"
+    },
+    {
+        "start": "00:08:37.920",
+        "end": "00:09:05.520",
+        "text": "on a piano becomes out of tune then it doesn't sound right it just doesn't play right it's no longer at you know pitch perfect right so there's the concept of you know how a device or how a cell or a string or a key in the world of resonant frequencies and audio sound there's the idea of pitch perfect you know what is it what does it mean to be pitch perfect and that means it's in its natural state and it's resonating perfectly and it's operating exactly like how you know the"
+    },
+    {
+        "start": "00:09:05.520",
+        "end": "00:09:35.440",
+        "text": "universe created it to be you know and and and operate right but once it becomes out of tune then Likovsky's idea was and his theory was as well if we could find a way to tune your cells back to its natural healthy you know basically perfect pitch state then in that perfect pitch state what is the you know environment well the environment of a perfect pitch resonating you know resonating cell and there's trillions of cells in each one of us"
+    },
+    {
+        "start": "00:09:35.440",
+        "end": "00:10:01.840",
+        "text": "and there's all sorts of different kinds of cells from blood cells to cells that make up your kidneys and liver and brain and I mean there's so many different cells right and there's trillions of them and so what would happen if you could create a device that would tune the human body just like you would tune a guitar or tune a piano or a cello or so forth right and so that's what he set out to do and so he kind of basically was like well you know his idea was"
+    },
+    {
+        "start": "00:10:01.840",
+        "end": "00:10:31.120",
+        "text": "well you know I can't figure out and there's no way back in the you know turn of the century literally a hundred years ago there was no way for Likovsky to find out what was the exact frequency of every single type of cell right and so what he did was he kind of took the shotgun approach and he created a you know a pulse modulator that's what this device is it's the power supply and it also puts out a pulse okay and an oscillating pulse that using kind of like old school technology"
+    },
+    {
+        "start": "00:10:31.120",
+        "end": "00:10:59.760",
+        "text": "using something called a spark gap which is like two little metal rods that are a distance apart you run high current through the rod the rods and it creates a little arc a little lightning bolt between the two of them and that little lightning bolt is what pulses right it just keeps it you know like kind of like that and then as that really and then it then it also uses a step up process where the voltage is stepped up from coming out of the wall as you know our you know in America"
+    },
+    {
+        "start": "00:10:59.760",
+        "end": "00:11:25.840",
+        "text": "the voltage coming out of your wall is 110 volts in Europe it's 220 but there it's not really high I mean not really high in the world of high voltage right and so it takes that 110 volts and it steps it up to a little over 50 thousand to 600 thousand volts are coming out of this machine and it's coming out at a pulse because of the spark gap ran through the Tesla coils and then what creates"
+    },
+    {
+        "start": "00:11:25.840",
+        "end": "00:11:49.200",
+        "text": "the frequency are these incredible antennas that he came up with which are essentially based on the golden mean and so he created these copper antennas and he connected them to these coils and then what would happen is if you sat in between these coils you would experience this pulse high voltage pulsing you know electrical field that was resonating every single frequency"
+    },
+    {
+        "start": "00:11:49.200",
+        "end": "00:12:15.120",
+        "text": "that was the you know the entire scale because the frequencies were generated by the electricity the arcing of the electricity as it passed through these these antennas okay so I'm sorry I'm sorry I'm trying to just explain this this is my elevator explanation of what a multi wave oscillator does and that's where you would get this pulsed electromagnetic frequency that was essentially"
+    },
+    {
+        "start": "00:12:15.120",
+        "end": "00:12:39.680",
+        "text": "a device that would tune the human body to back to pitch perfect and so what happened was it actually worked and so now I did an entire video about George's Lacoskey's multi wave oscillator link in the video description below where it talks in great detail about this machine and especially the biological effects that they discovered when they started using it in medical clinics throughout"
+    },
+    {
+        "start": "00:12:39.680",
+        "end": "00:13:04.320",
+        "text": "Europe and when they brought it to America and what it did was it resolved whatever issue people had it would actually do what Lacoskey theorized it would do once you get tuned like a guitar you play at perfect pitch and a perfect pitch cell does not have any disease or anything wrong with it so keep that in mind so it's kind of like you know he invented this a hundred years ago so since the"
+    },
+    {
+        "start": "00:13:04.320",
+        "end": "00:13:31.840",
+        "text": "30s and especially after the 40s when World War II kind of just changed the world this machine kind of went into hiding and so then it kind of just disappeared off the radar in terms of like healing modalities and being used in medical clinics and so forth it just literally disappeared after World War II but the story goes now what happened was was this and then all is a credit to a guy named James Gerard who is the one of the founders who is the founder of the biocharger"
+    },
+    {
+        "start": "00:13:31.840",
+        "end": "00:13:59.600",
+        "text": "model you know it's a company and it's also a device so he came up with no James Gerard in the late 80s started tinkering around saying hey you know about with about you know with the Lacoskey multi wave oscillator as his inspiration and he created something called the biocharger and so now I like again I'm classifying this multi wave oscillator as a biophotonic you know MWO multi wave oscillator because of the fact that instead of these two rings creating"
+    },
+    {
+        "start": "00:13:59.600",
+        "end": "00:14:28.320",
+        "text": "the frequencies he has the same idea where the base unit is your pulse modulator and then using spark now the original ones that he created used a spark gap it created that high intensity high voltage and it when it came up here though this section up here is the antenna and the antenna instead of using copper coils he's used he decided to use what we would call a spectrum tube that's filled with different types of gases and essentially he wanted he used the noble gases there's eight"
+    },
+    {
+        "start": "00:14:28.320",
+        "end": "00:14:53.440",
+        "text": "six of the noble gases that he uses in his machine to simulate the atmospheric conditions of our planet and so in in his way of approaching it once you pulse that electrical current or that electrical voltage through these spectrum tubes then the output instead of it being this really high charge electrical field with frequency you know the scale the up and down scale of the frequency"
+    },
+    {
+        "start": "00:14:53.440",
+        "end": "00:15:23.200",
+        "text": "constantly pulsing and modulating and oscillating then what this would do what this device would do is is the same thing that's the theory but instead it would use light it would use photons to and the electrical field as the carrier wave to then pulse those bio photons through you and then the gases would be what would create the different frequencies and it would also be up and down the scale and so it's just a different way to approach the same goal which is creating a healing"
+    },
+    {
+        "start": "00:15:23.200",
+        "end": "00:15:52.240",
+        "text": "machine that would tune the body back to pitch perfect and so this this this device was created in 1988 now since then this device has been on the market the biocharger was the first one by James Gerard who's now formed a company called Applied Technologies and so now the patents that have been put out there now if you search the patent database there's I found essentially four patents based that would kind of wrap around the idea of what I've described to you now the first"
+    },
+    {
+        "start": "00:15:52.240",
+        "end": "00:16:19.120",
+        "text": "one as I mentioned was Georges Glasky and he filed a patent in France and it basically was filed on June 12 1934 so since then when we're talking about and that was the original Likovsky so we call that the Likovsky multi-wave oscillator now for these other devices that I'm calling the biophotonic multi-wave oscillator the patents came out there was a patent that came out by a gentleman called Jean Coons who is the the the founder and inventor of the device"
+    },
+    {
+        "start": "00:16:19.120",
+        "end": "00:16:46.000",
+        "text": "the original device name was called the Vibe Machine it's now called Quantum Pulse okay and so this Quantum Pulse device he filed two patents on it one in August 23rd of 2005 and he filed another one September 1st 2009 so it's kind of odd because when you look at the fourth patent on the multi-wave oscillator it's filed it's actually was filed by James Gerard which is also applied"
+    },
+    {
+        "start": "00:16:46.000",
+        "end": "00:17:11.840",
+        "text": "technologies and he filed a patent on the you know for the biocharger but he filed it just this last year in March 30 2003 so you know the chronology of the of the development of the device goes from Likovsky to Gerard but it's interesting I find it's just a weird thing where the chronology of the patent filings actually skipped Gerard and actually Gene kind of slid in there and got"
+    },
+    {
+        "start": "00:17:11.840",
+        "end": "00:17:40.400",
+        "text": "got his patents filed but then you know you know James actually filed in 2003 so these are the different patents that exist and now when you read the different patents I think one of the you know it's kind of like the best one I could find to kind of explain the technology and I'm only going to do this at a super high level I don't you know because this is not a technology discussion this is like the executive summary but I do want to explain so I'm going to take I think when I read all of these I think this one or this one right here the patent number"
+    },
+    {
+        "start": "00:17:40.400",
+        "end": "00:18:05.440",
+        "text": "seven five eight three one seven two kind of has a description in the patent that I think is probably the closest thing to you know keeping it in layman's terms and and simplicity as to like what is this really you know what does this do from a technology standpoint so this is a snapshot out of that out of that patent now let me just kind of read to you why you kind of talk while I talk about or may just read you the description in the patent so the description of what this device is"
+    },
+    {
+        "start": "00:18:05.440",
+        "end": "00:18:31.840",
+        "text": "it's called a multi-frequency electromagnetic field generator okay that's the name of the patent and what it is it's disclosed is the multi-frequency electromagnetic field generator that is capable of generating electromagnetic flux fields that are projected at a distance from the device radial fields horizontal fields and spiral fields are generated by the electromagnetic field generator and are projected at a distance from the device a wide range of frequencies is generated as a"
+    },
+    {
+        "start": "00:18:31.840",
+        "end": "00:18:59.840",
+        "text": "result of the fast rise time pulses produced by the device the geometry and structure of the device cause the electromagnetic fields to encircle the device and be collected at the far end of the device by the antenna an inner coil antenna that is centrally disposed in the device receives electromagnetic waves that are transformed into a current that is applied to an inner coil the inner coil produces a strong electromagnetic field that extends outwardly in a horizontal"
+    },
+    {
+        "start": "00:18:59.840",
+        "end": "00:19:27.120",
+        "text": "direction that increases the projected horizontal distance of the electromagnetic field yeah okay so that's that's layman term but the point that I want to make by reading that is that it's not just oh you know let's just pump out some electricity and create a bubble field no the way that these things are designed is they are spinning and creating longitudinal waves of electricity it's not just a bubble you know like you know any other type of electrical"
+    },
+    {
+        "start": "00:19:27.120",
+        "end": "00:19:56.880",
+        "text": "device is essentially just you know it's radiated outwards and it's kind of like a bubble if you were to think of it a field but this one is spinning the electricity so like essentially the power is coming out of the box it out of the spark gap spark gap you know oscillating circuit and then this high voltage pulsed electricity is then coming through the coil and because of the way that it's designed it's spinning it it's spinning that field in multiple directions and then when it hits this very top section here this little thing here"
+    },
+    {
+        "start": "00:19:56.880",
+        "end": "00:20:24.320",
+        "text": "which I can kind of show you like here on the biocharger this top coil is called a mobius coil and there's some discussion out there that's like what kind of field is created when you when you wrap wire like that and so what's really happening is it creates a longitudinal field and it also in some people actually think it creates an energy vortex when you pump you know electricity through one of these fields so what you've got essentially is an electromagnetic field that's just twisting and turning and spinning and then it's projecting"
+    },
+    {
+        "start": "00:20:24.320",
+        "end": "00:20:51.440",
+        "text": "frequencies into that field and that's what makes this really kind of unique it's way different than if you were to just walk up to a power line and experience electrical fields right from an EMF standpoint and that's the point is because when you basically experience high voltage in this type of an electrical magnetic environment it is found to be good for you as opposed to walking up to a power line which is found to be bad for you so because of the way that"
+    },
+    {
+        "start": "00:20:51.440",
+        "end": "00:21:17.120",
+        "text": "this works it's actually quite different and very different in terms of like you know EMF like what's good EMF and what's bad EMF well this is apparently good EMF so now this is a copy on the right side here of the actual antenna there's 12 different tubes filled with different gases in the antenna and then on top of this stands the Mobius coil okay it's not pictured here in this diagram but it's over here right here if you look at this little tiny thing now I went and took a"
+    },
+    {
+        "start": "00:21:17.120",
+        "end": "00:21:46.160",
+        "text": "look at what types of gases are being used I couldn't get any specifications on the Vibe machine itself but I do have a novel light I have like one of these this is the one I have right here on the right it's the novel light as part of the research for this video I discovered a really great deal on one of these it's a used one because the company is now defunct but I got I just you know the stars lined up for me and I was able to go ahead and get one of these things so I found"
+    },
+    {
+        "start": "00:21:46.160",
+        "end": "00:22:14.400",
+        "text": "a used one on eBay and you know I you know just to kind of convey my dedication to my my level of interest and just absolutely I'm just fascinated by biological magnetics in general but I found this thing on eBay and it was pick up only I drove during the Christmas break I took three days packed up the dogs and I drove from my home in Missouri all the way to Colorado to pick it up"
+    },
+    {
+        "start": "00:22:14.400",
+        "end": "00:22:43.600",
+        "text": "it was 1,500 miles over three days to go ahead and acquire this this device and now it's set up in my living room and I'm using it so it's quite an adventure you know as part of making this video in terms of I wanted to get one after I did all this research I'm like I want to get one really badly and so I did but anyway so what I'm trying to say is that when I was able to contact the folks at biocharger and by the way those guys are so friendly and so helpful and so I contacted"
+    },
+    {
+        "start": "00:22:43.600",
+        "end": "00:23:06.320",
+        "text": "the biocharger folks and I'm like hey what's in those you know what what are the what are the gases that you guys are using and so they basically said hey we're using six of the eight noble gases argon helium krypton mercury neon and zion and so they use there's 12 tubes right so there's two of each one of these gases in the biocharger okay now my nova light that I got now that one has"
+    },
+    {
+        "start": "00:23:06.320",
+        "end": "00:23:32.880",
+        "text": "these six different noble gases but it also contains carbon dioxide nitrogen and oxygen so I've got like six plus three I got nine different gases in the nova light and yes so what are the other three and I believe and I can't confirm this because there's nobody around to explain it to me but I believe the other three are just duplicates of some of these gases and I'm trying to figure that out right now but you know it's just one of my things about the whole technology review is"
+    },
+    {
+        "start": "00:23:32.880",
+        "end": "00:24:00.480",
+        "text": "like I've got a lot of work to do in the future to really understand like does this thing do what it says it's gonna do you know does it meet then and what are exactly is the field sizes and things like that to give you an example the vibe machine says the field is six to eight feet so the recommended you know user is supposed to sit like three feet close to it so that you're closest to the fields you're getting the you know the bulk of the of the frequencies and so forth so field sizes"
+    },
+    {
+        "start": "00:24:00.480",
+        "end": "00:24:26.320",
+        "text": "you know pulse rates how many watts it's pulling all that stuff will be in the next video but that's what the the different gases that are being used now the claim obviously right is that when you pass a high voltage high voltage electricity through these gases it's going to create that frequency spread that lacoskey discovered coming through coil you know actual copper coils but instead they'll be coming through these gases and that's sort of how that that's you know that's"
+    },
+    {
+        "start": "00:24:26.320",
+        "end": "00:24:54.320",
+        "text": "sort of in a nutshell how it works so let me kind of give you a little demo the first notes that I took two different clips the first one is my is the novel light that I acquired a couple of weeks ago from that guy in in Colorado and shout out to you because I made a new friend it's it was fun to meet somebody who's excited about bioelectro magnetics as I am I've been really passionate about this for like 20 years and so is he so you know so it was great to meet it as someone who's"
+    },
+    {
+        "start": "00:24:54.320",
+        "end": "00:25:22.720",
+        "text": "like a part of the tribe you know so anyway so I got my nova light and so here's a there's a clip I'm about to show you to kind of demo what these things look like when they're turned on the first one is the nova light 3000 that I own and the second one is is the actual biocharger that is you know what that was created by James Gerard and the individual in the video is Luke's story and they did a video together about the biocharger it's a great video link in the video"
+    },
+    {
+        "start": "00:25:22.720",
+        "end": "00:25:50.720",
+        "text": "description where he demonstrates how the biocharger looks and sounds while it's turned on so let me go ahead and just start that for you okay well let's see if I can get the here we go"
+    },
+    {
+        "start": "00:25:58.880",
+        "end": "00:26:26.320",
+        "text": "it goes down now all of the different colors are the different gases and if you get really close to that movie as well if you look close enough you'll see that there's art coming off of that movie as well here's the biocharger and Luke's story now you'll notice that biocharger was far enough to put a case around the antennas you don't shaft here"
+    },
+    {
+        "start": "00:26:26.320",
+        "end": "00:26:51.280",
+        "text": "so and they also in case the movie is well for probably the same reason but if you look at the very top right here there's there's a little rod that comes out of the top that actually discharges the little you know the basically the arcing and now I do want to point out that while this thing is running because it's arcing there's little you know lightning bolts coming off of it it is creating negative ions and it's creating ozone but you know when you run it for like three"
+    },
+    {
+        "start": "00:26:51.280",
+        "end": "00:27:20.640",
+        "text": "minutes or something like that the ozone accumulation is not so heavy but I'm not sure how the ozone accumulation around a biocharger is I don't have one I haven't been able to well I haven't experienced one just quite yet but but that's this that's what these devices do look like that's what they look like and sound like and the other thing to know about them is you know they're loud they're not quiet machines and they do produce a smell so so in a nutshell okay let's talk about about you"
+    },
+    {
+        "start": "00:27:20.640",
+        "end": "00:27:46.880",
+        "text": "know what's really happening here from a biological effect standpoint so what I want to say is like here's an example of the biocharger and so one of the first things I want to say is what's coming out of this machine and how it affects you biologically is the first thing again is the pulse electromagnetic frequency the PEMF now Lakovsky talked about using a broad bandwidth so that the cells with very weak vibrations when placed in the field of multiple vibrations find their own"
+    },
+    {
+        "start": "00:27:46.880",
+        "end": "00:28:15.440",
+        "text": "frequency and start again to oscillate normally through the phenomenon of resonance unquote and that's kind of what's going on and so that's kind of what's creating this healing magic now the other thing too about these high voltage it's it's healthy high voltage now one of the things about high voltage EMF exposure it is extremely beneficial like a quick cold shower when you wake up whereas long-term exposure stimulates the body's immune system too much so short-term high voltage"
+    },
+    {
+        "start": "00:28:15.440",
+        "end": "00:28:45.280",
+        "text": "therapy increases the transmembrane potential TMP enhances the sodium potassium pump for your cells to communicate and to you know essentially you know detox and also increases ATP production so that boosts your energy it kills pathogens that's what's key here and infections so that's like it's doing a blood electrification act action at the same time and overall improve cell metabolism and energy levels and I can testify to that just to let you know I've been using my Novolite for a"
+    },
+    {
+        "start": "00:28:45.280",
+        "end": "00:29:10.800",
+        "text": "week now I use it three minutes a day and then one of the first things I realized not to do is don't do this at night because every single time I use it after six I'm only sleeping two to three hours at night I just automatically wake up and I'm wide awake full of energy like I just had a full night sleep it's bizarre so I'm learning now just to turn that you only use that thing in the morning because it's really quite disruptive to my circadian rhythm now the other thing that's"
+    },
+    {
+        "start": "00:29:10.800",
+        "end": "00:29:38.240",
+        "text": "going on is the biophotons and that's what this key thing here is light and that's what makes this device so unique and different than the Likovsky multi-wave oscillator again that used coils so now in terms of biophotons or light and that's what makes this so special is that your body can be thought of as a coherent biophotonic field of energy and information and when this field starts to break down the body becomes sick and weak right so now biophotons like enzymes provide the"
+    },
+    {
+        "start": "00:29:38.240",
+        "end": "00:30:08.720",
+        "text": "activation energy needed for biochemical reactions to take place in your body the gas tube emission spectra from the tubes provides a richer and more precise array of laser-like and highly ordered photons that strengthen and energize your body's natural field all right so that's kind of the whole description of what biophotons do and you know and one of the other things the to me the you know the esoteric idea of of what also biophotons and how they're important to us"
+    },
+    {
+        "start": "00:30:08.720",
+        "end": "00:30:33.920",
+        "text": "is that you know you if you talk to energy workers you know we are considered beings of light and there's this really interesting thing about light that I find that is equally as interesting about water which kind of folds into the concepts of reality and and you know what we perceive as reality and I think that in the future like again as I first stated if there's ever gonna"
+    },
+    {
+        "start": "00:30:33.920",
+        "end": "00:31:00.080",
+        "text": "be medbed technology it's gonna have a lot to do with manipulating light and water because we are water and we are light you know as physical beings okay then the last thing again is those frequencies and those harmonics that are coming out of that pulsed electromagnetic you know pulse that's coming out to the frequencies and there's that one other thing that's happening too and I just kind of want point out this thing pumps out ozone right so you're being you're smelling it"
+    },
+    {
+        "start": "00:31:00.080",
+        "end": "00:31:27.440",
+        "text": "but at the same time though it's pumping out negative ions and if you ever look into negative ions you know it's the reason that negative ions are found in nature and especially like you know after a storm you know after or close to the any kind of moving water and it's like you know why are people so attracted you know to going to the beach well that's because the beach environment is full of negative ions and negative ions are super healthy for us it's basically nature's"
+    },
+    {
+        "start": "00:31:27.440",
+        "end": "00:31:52.960",
+        "text": "gift to us in the form of free electrons and electrons are the opposite of the things that all causes problems right so that's one of the most that's why this device and this class of devices are pumping out so much wonderful stuff that it's really quite amazing in terms of like you know what it's actually producing so now how you use it again you know basically you can sit there and you can expose yourself just by yourself but you're also going to do group you know this"
+    },
+    {
+        "start": "00:31:52.960",
+        "end": "00:32:23.520",
+        "text": "thing is so strong that you can have up to six people surrounding the machine the biocharger is recommended to use it for 12 to 15 as I mentioned the novolite and the vibe machine i.e. the quantum pulse you use it for three minutes at a time you know so devices vary in terms of you know usage and user guides but you know the whole idea though is you can expose you can expose yourself in individually or in groups for a period of time okay so that's kind of how the device works"
+    },
+    {
+        "start": "00:32:23.520",
+        "end": "00:32:52.880",
+        "text": "how it's designed and what it produces now let's talk about the testimonials now this is the actual what have people experience and what have they you know what are the manufacturers saying about hey you know what happens when you use this thing well i want to first start off with now this is jean coonsies the inventor of the vibe machine which is now called again the quantum pulse machine and his story is really kind of unique in the group of gentlemen that put together these devices"
+    },
+    {
+        "start": "00:32:52.880",
+        "end": "00:33:20.560",
+        "text": "post-likovsky because jean created a vibe machine and he kind of ran afoul of the fda so you know this is a like he gave a lecture in 2005 but by 2007 the fda kind of got on his ochole about the claims he was making through his testimonials he was giving that were published on his website so what happened was is after the fda basically got on him about what he was claiming to have done"
+    },
+    {
+        "start": "00:33:20.560",
+        "end": "00:33:51.440",
+        "text": "they shut him down and so after 2007 the original vibe machine website was gone he went kind of underground and disappeared for a while because you know he just completely just basically did the big no-no you should not you know this is we all know right it's very dangerous to cure cancer you know as as an example and so you know so he just ran afoul of the authorities that protect the you know the pharmaceutical industry so and the medical establishment and so he disappeared and he"
+    },
+    {
+        "start": "00:33:51.440",
+        "end": "00:34:16.560",
+        "text": "earned the star award of the alternative medicine world which is he got his own page on quack watch and it's and here's the thing nothing had to do with the fact that anyone got injured or that they went to this thing and they were there was no complaints from anyone who had exposed themselves to this device you know none of the people using it you know were were the reason it was simply"
+    },
+    {
+        "start": "00:34:16.560",
+        "end": "00:34:40.960",
+        "text": "because he was basically saying things that you know the medical establishment does not want him to say and so he disappeared but he came back and that's where the quantum pulse you know you know device i.e it's essentially the vibe machine but it's now called the quantum pulse it's no longer for sale you know you can't just go and buy the device from him but you know if you contact them"
+    },
+    {
+        "start": "00:34:40.960",
+        "end": "00:35:08.160",
+        "text": "directly yeah yeah you can go get one but now it's more of a instead of selling a device to the to practitioners and the public now it's more like hey you know the the website that he's got up it's like hey this is this great technology extremely vague very you know not a lot of detail for obvious reasons after what happened and it but it's basically like here's all the people that offer sessions and so now it's more like go to go to that website to find people who have the"
+    },
+    {
+        "start": "00:35:08.160",
+        "end": "00:35:35.360",
+        "text": "device so you can go and get an experience from it in the old days when the vibe machine was actually out there their practitioners their sales were about 60 percent of their sales went to practitioners everyone from chiropractors to veterinarians were using these machines 40 percent of their sales went to the general public for personal use and so that 60 percent you know they were basically called vibe centers and people would go to the vibe centers and and and take treatments off of the"
+    },
+    {
+        "start": "00:35:35.360",
+        "end": "00:36:00.640",
+        "text": "vibe machine and so now so that same concept still in play now now it's called the quantum pulse you go find someone who has a quantum pulse you know they're providing sessions for it and you can go to their website and and find someone who's doing that in your state or in your area you know so that's kind of how that evolved but I can tell you that if you look at anybody else's websites or you try to get any information about hey what is this thing to do what you know what"
+    },
+    {
+        "start": "00:36:00.640",
+        "end": "00:36:24.000",
+        "text": "are people saying about it it's completely scrubbed off the web now and the only place it lives is in in is in the internet archives on the old web on the old on the old well actually on the old site but it's also in this one video that he did this he did a lecture in 2005 it is on youtube and this is where I got this information which is where he was basically explaining hey this is what people"
+    },
+    {
+        "start": "00:36:24.000",
+        "end": "00:36:51.440",
+        "text": "are saying so let me run through with you what people had experienced and this is directly from jean coons these are the testimonials of people who had used the vibe machine back in the day so one of the first things was it it just dissolves calcium buildup in your in your in your bones in your body whether there's a patient who had breast cancer tumors that that person used the device for three and a half minutes per day for 30 days and then after another 30 days the cancer"
+    },
+    {
+        "start": "00:36:51.440",
+        "end": "00:37:19.520",
+        "text": "was gone someone also had another individual had brain cancer and they used the device for two minutes a day for five days cancer gone they were told that they had two months to live they lived a year past that point you know so it's not the panacea but they lived a year past that point and he wasn't he didn't explain you know what happened it you know individuals reporting increased in energy individuals reporting that they were on insulin for 10 years they did they used the"
+    },
+    {
+        "start": "00:37:19.520",
+        "end": "00:37:46.560",
+        "text": "vibe machine for daily for three months and they no longer needed to use insulin and they weren't using it anymore another individual is taking 17 different pharmaceutical you know products a day they used the machine for three months and they completely came off pharmaceuticals 100 percent this individual is on on oxygen they used the device for four months daily and they came they came off oxygen no longer needed it he also reported the people had said that they had seen"
+    },
+    {
+        "start": "00:37:46.560",
+        "end": "00:38:11.520",
+        "text": "improvements and or the disappearance of everything for multiple sclerosis Parkinson's lupus osteoarthritis and improvements in eyesight now he goes on in his video to say that people had great improvements in cataracts and eye floaters tendinitis migraines especially migraines it just eliminates them pain management reduces reliance on again on pharmaceuticals improvements in blood"
+    },
+    {
+        "start": "00:38:11.520",
+        "end": "00:38:36.240",
+        "text": "pressure improvements in broad sugar and also they had one autistic child use the machine after four or five sessions and the autistic child started talking and stuff like that you know improved uh issue it showed a 40 percent reduction time for wound healing uh it was improved the recovery time for stroke victims everyone here used it their mood improved there was this real interesting side effect you know where everyone anyone who had a depression they popped right"
+    },
+    {
+        "start": "00:38:36.240",
+        "end": "00:39:04.880",
+        "text": "at a depression being exposed to the vibe machine and then for pets he actually has uh i believe in one of his videos he actually has a picture of a dog with a huge tumor on it now the dog used the you know had the dog used the the vibe machine for two minutes per day for two weeks and you can see the picture where the actual tumor has shrunk considerably and so it's pretty interesting now unfortunately you know you you can't find this information anywhere else anymore like i said"
+    },
+    {
+        "start": "00:39:04.880",
+        "end": "00:39:32.640",
+        "text": "it's been scrub but this is what's what he got him in trouble with the FDA and so that's kind of what the vibe machine is known to have done back in the day and so now the other thing to like i did mention earlier is that there were clinical studies so if you go back into web archives and you find his old website that no longer exists today then he had actually posted three that he was actually in the process of doing clinical studies on his device because you know just like"
+    },
+    {
+        "start": "00:39:32.640",
+        "end": "00:40:02.560",
+        "text": "any other inventor you know you want to back up your claims and so he'd done and you know commissioned three different studies on that old website and so luckily there's two of them are still available there's a third one on depression that's just not available anymore i couldn't get ahold of it it's not in the public record but the one on pilot that he did a pilot study on on anti-aging conducted at the Holos University by Dr. Ginger Bowler and Dr. Norman Shealy back in December of 2005 now i'm not sure if you if you're in the alt"
+    },
+    {
+        "start": "00:40:02.560",
+        "end": "00:40:30.800",
+        "text": "medicine world you might know who Dr. Shealy is he's very prominent i followed him for years and years followed his work and so when i saw his name i was like oh this is legit so now this study now and they're just write-ups so they're not even like published peer review studies they're just like a write-up and so in that write-up of the pilot study on anti-aging basically they tested i think 14 individuals who took questionnaires and documented all of the things that they were having trouble with it's kind of like that little questionnaire you get when you show up at your"
+    },
+    {
+        "start": "00:40:30.800",
+        "end": "00:40:57.280",
+        "text": "doctors if you haven't been around for a long time they got this big question in air that you know you checkbox all the things that are you know troubling you you have problems with high blood pressure whatever and so they get they took those and so out of the number of you know there's like hundred number a hundred plus number of total issues that these 14 people had and then they had them use the vibe machine for a while and then they had them redo the study you know redo the questionnaire"
+    },
+    {
+        "start": "00:40:57.280",
+        "end": "00:41:23.280",
+        "text": "and then they had shown that they're after using the vibe machine that there was a reduction of 53 percent in the number of people number of problems that people were reporting as having issues with so it showed a 53 reduction right in problematic issues that people had by using the vibe machine so I thought very interesting because Norman Sheely is a very reputable scientist now he there's also"
+    },
+    {
+        "start": "00:41:23.280",
+        "end": "00:41:50.800",
+        "text": "another study that's on that old website called clinical study on direct correlations between psychotronic and biochemical measures of human DNA now that's just like it's two literally two paragraphs and I honestly don't understand it it's like it's just way past my pay grade it talks about DNA unwinding and blah blah blah so I can't tell if it's good or bad there's no clear abstract or conclusions so I don't know what this whole study was about but it is out there on that old"
+    },
+    {
+        "start": "00:41:50.800",
+        "end": "00:42:19.760",
+        "text": "website link in the video description below and again there was that depression study now we know that the depression study even though it's unavailable we know by his by Gene Kuntz's testimony in his video that you know that it did improve mood and people were walking away with depression cured so that was kind of the interesting thing that I found in terms of like hey what are the you know what are the testimonies what are the clinical studies on this device and so that's kind of that so you know when you read all of that you can't help but go wow that's pretty pretty wild I mean"
+    },
+    {
+        "start": "00:42:19.760",
+        "end": "00:42:46.400",
+        "text": "they're just claims they haven't been quote validated but it's pretty amazing and so I do want to add on one last thing was that I've been discussing this video that I'm trying to make I've been working on for three weeks in our telegram chat group and you know with some of the people in there that are really really versed on multi-wave oscillators and one person jumped in like two nights ago and said hey I have I have the biocharger and I did and I did this you know"
+    },
+    {
+        "start": "00:42:46.400",
+        "end": "00:43:14.000",
+        "text": "this and this with me and then my son and and the testimony from that individual that was posted in telegram was straight on par with all of these incredible claims made by Gene Kuntz so when she came in and said or he I'm sorry you know made that claim of like hey I have a biocharger and this is what it did for us you know meaning I used a biophotonic multi-wave oscillator and it was beyond remarkable her personal testimony of somebody that I've kind of known about they've"
+    },
+    {
+        "start": "00:43:14.000",
+        "end": "00:43:40.400",
+        "text": "been hanging around telegram with us for quite a while and so this was like wow really that is so cool so there's a lot of you know there's I have you know there's well there's smoke there's fire and there's so I'm just feeling really positive about like hey some of these claims you know they might be true so hopefully we'll be able to get a lot more definitive about the specifics of what's happening when you use these things but I'm telling you that the stories from people who are using it"
+    },
+    {
+        "start": "00:43:40.400",
+        "end": "00:44:08.960",
+        "text": "are beyond amazing again this is medbed technology I mean this is magic you know kind of thing and you know obviously it's quantum healing too so we'll get into that in that other video so that's the case studies and the clinical studies and the last thing I want to kind of share with you are some notes about these machines before I get into the last piece of the video and that's that you know when you hear jean coons talk about the Vibe machine again now called quantum pulse you know he basically wanted to make sure everyone was really clear and so I really appreciate that"
+    },
+    {
+        "start": "00:44:08.960",
+        "end": "00:44:37.680",
+        "text": "this guy said these things about his own device when he said hey does not work on everyone all right so here let's level set it's not the magical miracle you know cure and so he you know quantified that his device had incredible results but it didn't work on everybody but it helps the majority people who used it now some people they actually felt slight tingling in their problem areas when exposed to the machine and others others that that he kind of kind of kept in touch with"
+    },
+    {
+        "start": "00:44:37.680",
+        "end": "00:45:03.520",
+        "text": "really kind of over time he had discovered that you know the you've got to improve your environmental situation for the results to remain and so by that you know and it's typical with any other type of treatment modality is that you know if you're an alcoholic and you go to rehab and you're cured well you need to not keep you know you need to improve your environmental situation in other words don't go back to drinking you know or if you're if you're eating toxic food all"
+    },
+    {
+        "start": "00:45:03.520",
+        "end": "00:45:28.480",
+        "text": "the time and you've got IBS and all these gut problems and then you know you go to a homeopath and they fix your gut microbiome and you're doing great you're and you know you can't go back to eating the poison food right so so that's just a clear reminder to everyone that hey you know all of these things are just amazing devices amazing healing modalities but if you don't change your environment you know the results will not remain for no matter what you do you know you need if you"
+    },
+    {
+        "start": "00:45:28.480",
+        "end": "00:45:52.720",
+        "text": "want it if you want it to be lasting you need to change your environment and lastly I think the key thing here is as of 2005 according to Gene Coons 50,000 people roughly you know roughly had used the vibe machine and there had been not one of 50,000 people now this is not just him it's all of the other vibe centers right there's they remember the vibe centers right so of all"
+    },
+    {
+        "start": "00:45:52.720",
+        "end": "00:46:19.920",
+        "text": "of the different users of 50,000 people as of 2005 no reported adverse side effects nobody had a problem with it not one complaint out of 50,000 users and that was his claim pretty amazing okay now now if you look at if you listen to the there's a really great Luke's story podcast with James Gerard and his and his two partners I believe it's Jim Law and Colin Besser I'm sorry if I got it"
+    },
+    {
+        "start": "00:46:19.920",
+        "end": "00:46:46.240",
+        "text": "wrong you know of applied technology which is also the biocharger NG NG stands for next generation it's the most recent model I believe it's like model three right now but if you listen to that video link in the video description then you know one of the things that really really is amazing about what James Gerard has done is now all of these other devices out there on the market so I'm going to go back to this picture here there's four devices currently on the market only two of them"
+    },
+    {
+        "start": "00:46:46.240",
+        "end": "00:47:16.160",
+        "text": "are still out there you know the companies exist and the companies are selling the other two are out there but you're only ever going to find a used version okay so now James Gerard basically in that video with Luke's story talks about how the third generation of the biocharger has switched from using spark gap technology and it's now using solid state technology so it's using electronics to simulate that spark gap that's sparking that pulse that pulse rate and so because they're using"
+    },
+    {
+        "start": "00:47:16.160",
+        "end": "00:47:39.280",
+        "text": "electronics that software controlled and so it's really really super high tech so not only was he the inventor of the concept of the bio photonic multi wave oscillator he's now taking it to another level by switching over to solid state technology but that's controlled by software and his most recent version of the biocharger NG which just came out I believe recently within the last couple"
+    },
+    {
+        "start": "00:47:39.280",
+        "end": "00:48:04.800",
+        "text": "years now also has the ability to download into it frequency sets which they call recipes which is now then combining the concept of you know if you go into the world of Raymond Royal Rife you know okay I don't want to get it's this is not a Rife machine but you get into that world where you start using specific frequencies let's say you've got issues with kidneys you've got"
+    },
+    {
+        "start": "00:48:04.800",
+        "end": "00:48:29.840",
+        "text": "issues with IBS you've got issues with you know whatever your problem might be that you can actually go out and get frequency sets you know there's it's kind of been this science that's been going on for a hundred years where people have kind of figured out hey if you play these five frequencies then it will improve X and so then he's got this entire database now and on a cloud and that the biocharger actually connects to the Wi-Fi it connects to the cloud and you can download these"
+    },
+    {
+        "start": "00:48:29.840",
+        "end": "00:48:58.240",
+        "text": "frequency sets again they call them recipes and you can play specific recipes right through your machine so that not only is it hitting the entire you know bandwidth from A to B you know A to Z right it's also playing specific it's also playing those specific frequency sets for specific problems so that's really what this whole amazing thing about the biocharger is it's really taking it to another level now they call you know the next generation and that's what's really amazing about"
+    },
+    {
+        "start": "00:48:58.240",
+        "end": "00:49:25.200",
+        "text": "you know the technology after you know reviewed all of it so you know so it is pretty cool and you know the price reflects that so now here you go what a lot of people I think are you know my first question about everything and I'm sorry I put it at the end but you know god I got to keep you watching the video anyway but hey if you want to experience one of these things and I know I did because I ran out and drove for three days with my dogs in the truck across Kansas which is probably"
+    },
+    {
+        "start": "00:49:25.200",
+        "end": "00:49:51.440",
+        "text": "the most boring drive you could ever make in America and I went and picked up my novel I but this is how you if you wanted to go out and say hey I want to try this thing this sounds cool then you can first of all you can book a session so now there are again if you go to the quantum pulse I mean all the video all these links everything every single thing I'm mentioning I've got a link in my video description so that you can do your own research but you can go to the quantum pulse website you"
+    },
+    {
+        "start": "00:49:51.440",
+        "end": "00:50:16.800",
+        "text": "can find a vibe center or someone a practitioner who has a quantum pulse i.e. vibe machine and you can in your area and you can go and book a session with them now the biocharger has the same thing they also have all these different places that are they're using in all these different wellness centers you can go book a session one thing too that's interesting is that I found out that if you are interested in buying a biocharger then the friendly folks at the biocharger will be more than"
+    },
+    {
+        "start": "00:50:16.800",
+        "end": "00:50:41.680",
+        "text": "happy to get you set up with one of those folks and have you try it for free so that might be another way to approach it because I was offered yeah you want to try one of these things because you know I am interested in getting a biocharger and so you can go book a session through biocharger and find a local biocharger person in your area and then also too you know that Tesla energy lights are still out there being used in wellness center so when I did a research or when I did a Google search"
+    },
+    {
+        "start": "00:50:41.680",
+        "end": "00:51:09.920",
+        "text": "on Tesla energy lights I did find a Tesla energy lights wellness center I don't recall what states in but I'm sure if there's one there's probably more but you also can find a Tesla energy lights bio center or wellness center to actually go and book a session so if you don't want to buy one of these things you just want to try it out there's three places where you can go and try to find you know give it a try give it a demo now if you're like me and you just want to purchase one because you're you know you're me then there's there's basically the four of them there's all four"
+    },
+    {
+        "start": "00:51:09.920",
+        "end": "00:51:36.000",
+        "text": "more still available out there you can go buy one so now the quantum pulse I reached out to the quantum pulse folks and said hey if I wanted to buy one you know what it costs well brand new they're selling them for two twelve thousand eight hundred and if they have a used one on hand they'll sell it to you for ninety seven hundred dollars okay so you can go ahead and if you wanted to buy one you could reach out to quantum pulse and these are for sale today because they sell them new now the biocharger new it's sixteen thousand nine hundred ninety so it's like really"
+    },
+    {
+        "start": "00:51:36.000",
+        "end": "00:52:04.400",
+        "text": "expensive uh yeah you know and it's because it's the fanciest one it's got the most going you know most different features and all that extra stuff uh so brand new it's sixteen thousand nine hundred ninety that's what this one is right here on the left i'm sorry on the right and but you if you can find one use there is one right now uh this is uh january six two thousand twenty four uh there is actually on ebay right now there's a use one someone selling for fourteen thousand dollars on ebay now i want to point out though that you know yeah you can save a couple grand but"
+    },
+    {
+        "start": "00:52:04.400",
+        "end": "00:52:30.640",
+        "text": "here's the idea though there's asterisk right there on biocharger because it's run by software after two if you buy one brand new and this is according to the biocharger people if you buy a biocharger brand new then you've got two years for free of access to the cloud database to get you know uh software upgrades you know because it's like any other software right it's always going to need annual maintenance and upgrades and patches and you know that crap right but also"
+    },
+    {
+        "start": "00:52:30.640",
+        "end": "00:52:57.280",
+        "text": "too you have you want access to the recipe database the machine only holds 40 recipes okay so if you wanted to swap them in and out you wanted to get different ones and try different ones uh you're going to want to have access to that database so after two years okay then if you wanted to have a continued so the software subscription to the recipe database uh it's going to be five hundred ninety eight dollars per year after the first two years so the biocharger is one of those"
+    },
+    {
+        "start": "00:52:57.280",
+        "end": "00:53:23.360",
+        "text": "devices where you buy it it's really expensive uh and it's still going to cost you 600 bucks a year after the two years every year every year after year so that is one of probably you know it's a drawback from a financial perspective so if you're committed to this thing and just be aware it's going to cost you and it's going to have an ongoing cost so the total cost of ownership is going to be whatever you know however long you own it so it does go up in price you know because of that"
+    },
+    {
+        "start": "00:53:23.360",
+        "end": "00:53:51.680",
+        "text": "now the Novolite they're selling those use right now on ebay there's one or two of them for sale and they're averaging about five thousand each now i was so lucky that the seller that i bought mine from they were they posted their ad on ebay for like 3950 and i was like i'd snagged it immediately even knowing that i had the drive to go get it um and then after you know you and but here's the funny part after i included from 3950 once you add on the taxes and the cost of"
+    },
+    {
+        "start": "00:53:51.680",
+        "end": "00:54:18.800",
+        "text": "the trip and the gas alone you know it ended up being around five thousand bucks you know and so you know so they're you know that's just the cost of a used Novolite you can get one on ebay for five grand that's kind of where i got mine now the Tesla energy lights there is actually one now right now on ebay for sale it's also on sale for five thousand dollars so that seems to be the you know the kind of like the used price for these devices you know about on five grand on ebay from personal"
+    },
+    {
+        "start": "00:54:18.800",
+        "end": "00:54:45.760",
+        "text": "people who own these things now i also want to point out to that you know the reason i bought a Novolite is because i can't afford a biocharger uh certainly can't afford a brand new bi machine so you know it's kind of like in my mind it's like hey you know it's a good place to start if you just kind of want to tinker around you want one to A that works and B you know you want to tinker around with it you know it's kind of a good entry price if you just want to start out somewhere in trying to experience one of these biophotonic multi-wave oscillators yourself okay so other than that"
+    },
+    {
+        "start": "00:54:45.760",
+        "end": "00:55:10.400",
+        "text": "hey you know what i just want to say thank you so much for watching the video i really appreciate you know i really appreciate the friendly comments and just engagement of you know this type of information this is my passion you know bio electrical magnetic healing devices and also quantum healing is really where i just like that's my thing okay so now if you want to learn more again all of the links are in the video description so you can go ahead and and kind of just check"
+    },
+    {
+        "start": "00:55:10.400",
+        "end": "00:55:36.240",
+        "text": "out all of that plus i also found interviews of each one of the different inventors and you know i've mentioned a lot about you know the bi machine and about biocharger and i really don't want to leave out the fact that the novelite uh there's only like one short little three-minute video about the from the maker of that one uh that individual just sold machines and went to shows to sell them had a website but they didn't have any type of youtube channel or any thing that really kind of"
+    },
+    {
+        "start": "00:55:36.240",
+        "end": "00:56:04.240",
+        "text": "took it you know took the information uh to the next level but i want to point out one thing that for the Tesla energy lights they have and the biocharger they both have really really deep content rich youtube channels and so now the biocharger really kind of goes the modern way of just you know lots of user testimonials lots of user information you know all that tutorials and all that stuff product information on their youtube channel but if you go to the Tesla energy lights"
+    },
+    {
+        "start": "00:56:04.240",
+        "end": "00:56:28.160",
+        "text": "youtube channel they went and spent a lot of time trying to understand you know how these devices worked and why they work instead of they've interviewed physicists and actually one of the things that i found incredibly remarkable about the Tesla energy lights and that's this guy right here right is that there's a testimonial video on their youtube channel by dr dittrick clinkheart"
+    },
+    {
+        "start": "00:56:28.160",
+        "end": "00:56:56.800",
+        "text": "of the sofia health institute now if any of you are in that alternate space like i am you recognize the name of dr norman sheely but you'll also recognize dittrick dr dittrick clinkheart as a really reputable you know thought leader in in the world of alternative health and he actually has one at the sofia health institute and he uses it in his practice which i found shocking and amazing and cool and i'm like wow so i you know i i want to make sure that you know the Tesla energy"
+    },
+    {
+        "start": "00:56:56.800",
+        "end": "00:57:24.240",
+        "text": "lights product or its devices right up there with the other three in terms of just being an amazing biophotonic multi-wave oscillator so anyway learning more lots of video links in the video description also too if you like this type of content this is my thing again i'm totally into bioelectro bioelectromagnetic healing devices is really my passion i'm just curious and and i've been studying this for 20 years and also quantum healing and you can find all my work on"
+    },
+    {
+        "start": "00:57:24.240",
+        "end": "00:57:52.240",
+        "text": "the tinker's academy just type in tinker's dot academy and you're all window and it goes over to my blog and of course i've got my youtube channel and if you like this kind of content hey you know what i welcome you to subscribe to my channel um like subscribe all that kind of stuff just if you want to see more content i do plan on really kind of refocusing i've been spending a long time on quantum healing for a while now and i really kind of want to get back into bioelectromagnetics this year for 2024 so there'll be a lot more content like this coming out"
+    },
+    {
+        "start": "00:57:52.240",
+        "end": "00:58:00.160",
+        "text": "anyway again amen thanks for watching really appreciate your time i hope you enjoyed this content and have a great day aloha"
+    }
+]

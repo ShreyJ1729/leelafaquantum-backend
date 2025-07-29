@@ -1,0 +1,822 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.180",
+        "text": " Aloha everyone and welcome to another Tinker's Academy video and in this video I have Phillip on Holtendorf with me with the Layla Quantum Tech and we're going to be doing a discussion about the latest product updates for Layla Quantum Tech. So good morning Phillip, how are you today? Very good. Thank you, Kay. Yeah, hey, you know, so everybody, the last time we did an update to just kind of share"
+    },
+    {
+        "start": "00:00:26.180",
+        "end": "00:00:55.660",
+        "text": "with you the new products and services coming out from Layla Quantum Tech was back in May of 2022. So now it's November and there's been a lot of great developments, some really cool stuff coming. So we're going to be talking about all that stuff. So you know, stay with us here. But first, you know, for anyone who hasn't heard of Phillip, he is the, he is a, he himself a healer and he's also the founder, owner and operator of Layla Quantum Tech, which also there's a spinoff called Quantum Upgrade, which I've done lots of videos with Phillip"
+    },
+    {
+        "start": "00:00:55.660",
+        "end": "00:01:23.380",
+        "text": "about that already. Links in the, links below. I'll put all that stuff in the, in the video description if you're interested. And also Layla Labs, which is sort of how Phillip and I met, which is a C60 company. So anyway, before we jump into the content, I've got to do this disclaimer. So bear with me, neither Layla Quantum Tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video. Reliance on any information appearing and discussed in this video is solely at everyone's"
+    },
+    {
+        "start": "00:01:23.380",
+        "end": "00:01:52.020",
+        "text": "own risks, statements made have not been evaluated evaluated by the EFSA or FDA or any governmental derivatives thereof. Layla Quantum Tech products and products that Layla Quantum Tech may represent are not intended to diagnose, treat, cure or prevent any disease. All righty. So thank you very much. So first question and of stuff coming up in the near future today is November 10 and there have been many, many people saying, Hey, is there going to be a black Friday sale?"
+    },
+    {
+        "start": "00:01:52.020",
+        "end": "00:02:21.820",
+        "text": "So is there. Yes, and the good news is it's supposed to start today. How about that? Okay. Perfect. So you're going to add so we decided to do it early this time we decided to do it early. People have been asking and asking and then also there's just so much going on around black Friday. So we said, well, just do it early and we'll have it there for the whole time until Brett"
+    },
+    {
+        "start": "00:02:21.820",
+        "end": "00:02:45.980",
+        "text": "black Friday, including black Friday. And it's also very simple because the code will actually be black Friday. Okay. All right. So details about actual sale, you're going to announce that in the telegram groups. Yeah. And but I can, I can also share it here, of course, so it's 25 to 30% off of everything"
+    },
+    {
+        "start": "00:02:45.980",
+        "end": "00:03:14.540",
+        "text": "side white that even includes the four packs of field capsules. And so it's 25% off everything. And then if anyone pays with crypto, it's an additional 5%. That part is always active, by the way, for people that may not know that. But so that would, that would add 5% to the 25, which makes it 30%. Wow. Wow."
+    },
+    {
+        "start": "00:03:14.540",
+        "end": "00:03:43.340",
+        "text": "That's a great sale starts today, November 10. The code is black Friday and there'll be a lot more details will be posted in the telegram chat group. So yeah, definitely. So the sale is on. And by the way, guys, it's November. So if you've ever thought about getting a Layla Quantum jacket, this is it. It's getting cold and those jackets are awesome. I got one from my daughter and she wears it all the time when it's cold. She loves that jacket. So yeah, it's, it's awesome."
+    },
+    {
+        "start": "00:03:43.340",
+        "end": "00:04:13.100",
+        "text": "So yeah, definitely don't forget that there are clothing products out there that are infused with quantum energy and, and they're actually pretty cool. So yeah, it's cold, it's black Friday, winter's coming and Christmas is coming. So there you go. There's your sale. Any others? That is pretty amazing that you're just mentioning the quantum jacket, because I was literally just thinking about mentioning that and now you're mentioning it. I'm like, this is like true quantum integral and that's quite amazing."
+    },
+    {
+        "start": "00:04:13.100",
+        "end": "00:04:39.060",
+        "text": "But I wanted to mention it for different reasons. Because this jacket won't be available for much longer, just because we're phasing it out. Okay. And there will be a new jacket that won't be available until in about a year, you know, or nine or 10 months. So this jacket and we may not even know, we don't even know at this point if we can make it because silver is getting so expensive."
+    },
+    {
+        "start": "00:04:39.060",
+        "end": "00:05:08.820",
+        "text": "Oh, and as you know, the whole, you know, inner part of that jacket is filled with this silver fabric. So yeah, there's not many jackets left, but yeah, you can still get them. And yeah, I think with this discount, it's actually a huge, huge discount. Yeah, that's a pretty steep discount. Okay. So there you go, everybody. And I just want to say that, you know, this thing is an EMF article of clothing. So it's EMF shielded or ready with silver and then the silver, the jacket itself, but"
+    },
+    {
+        "start": "00:05:08.820",
+        "end": "00:05:36.340",
+        "text": "the metal in the jacket has been infused with quantum energy. And so it's EMF protective. The other, you know, a couple of months ago, my daughter went back home to Hawaii to visit her mom and I was telling her, Hey, you know what, I was right when all those massive solar flare hitting. And so the bottom line is, Hey, I told her to wear your jacket on the airplane because the radiation is going to be super high, you know, it's high and it's already high when"
+    },
+    {
+        "start": "00:05:36.340",
+        "end": "00:06:01.540",
+        "text": "you're flying, but when, you know, put the jacket on so that she didn't, you know, get exposed to that much radiation. So she complied and she felt great the whole trip. So yeah, it's, it's a great, I mean, it's an awesome piece of clothing for EMF. And then on top of that, though, you know, the, the effect of the quantum energy is pretty good too. Okay. So there's that. So you're phasing out the jackets and new jackets won't be available for a year."
+    },
+    {
+        "start": "00:06:01.540",
+        "end": "00:06:26.340",
+        "text": "So if you ever on the fence about one, there's a 25 to 30% off sale for jackets. And you might want to pull the trigger on that now. Okay. So the next big thing that's really created a buzz in our telegram chat group is the new product that you've got coming out called the neutral quantum energy capsule. I guess that's what you're going to talk to them, you know, you're that's what you mentioned in the chat. So this is your actual post out there."
+    },
+    {
+        "start": "00:06:26.340",
+        "end": "00:06:55.660",
+        "text": "And so I was wondering if maybe you could kind of explain what this new incredible capsule is going to be because it's going to be charged with a 2,200, you know, hawken scale level block, which doesn't even exist in your product line, right? Because right now the, you know, the eye block is, is like, I think, 733. So this is some incredibly strong block that Layla owns that you'll be using to create these capsules, and also noticed in the chat that you mentioned, it's going to be made"
+    },
+    {
+        "start": "00:06:55.660",
+        "end": "00:07:24.900",
+        "text": "out of titanium, maybe not brass, and also that there's going to be a sphere. So could you kind of just explain what this new product is going to be? And then I've got a, you know, Sandy D asked me on the side, if you could kind of explain what this means in terms of like, it's going to be important and relevant the next few weeks. So what, you know, what did you kind of mean by that? But yeah, if you could, yeah, talk about this, oh, and there's going to be only 80 of them, so there's going to be a line."
+    },
+    {
+        "start": "00:07:24.900",
+        "end": "00:07:53.060",
+        "text": "Yeah, so that's to start with, and we, we may make this a regular product in the future. Anyway, this, this came from user requests, you know, people asked in the, in the telegram groups since multiple months, frankly, if there could be a neutral capsule, and then some added, and could this be with strong energy? And then at some point, I had to impulse, okay, let's now do it."
+    },
+    {
+        "start": "00:07:53.060",
+        "end": "00:08:20.120",
+        "text": "And we will use, you know, this 2,200 block, which isn't just a regular, like if infinity block, it has multiple additional features. It's pretty much, you know, equivalent to the system that we're using for the quantum upgrade, and now we're using that to actually charge these capsules, which will be brass"
+    },
+    {
+        "start": "00:08:20.120",
+        "end": "00:08:49.740",
+        "text": "and not titanium, so I don't know if I misspoke some, somewhere, but that was never the intention to have it in titanium, but it will contain titanium spheres, the five titanium spheres as usual, and then the, the addition is that there will be one additional sphere, a titanium sphere of a different color, so that you can, you know, always identify it, and that will"
+    },
+    {
+        "start": "00:08:49.740",
+        "end": "00:09:13.900",
+        "text": "be charged with inner piece, with the inner piece frequency, and that was just the impulse that I had to do, because inner piece is obviously the frequency that helps us a lot to be more balanced, and if we have a mind that's just spinning the whole time, that it just helps"
+    },
+    {
+        "start": "00:09:13.900",
+        "end": "00:09:43.140",
+        "text": "us with that, and also if we're in fear, or if we're really in anxiety, and the next several months, I think we'll be quite turbulent here in the auto world, that's at least our perception, and not that it hasn't been turbulent in the last few years in several months, but it may, maybe even more, so and then, you know, the more we can just be balanced within ourselves,"
+    },
+    {
+        "start": "00:09:43.140",
+        "end": "00:10:11.700",
+        "text": "the better we can deal with everything, so that was the impulse to just add it to that, and yeah, so it plays nicely with this feature that the neutral capsule has, that you can add different frequencies to it, like this inner piece, and then if you don't want the inner piece, you just take that sphere out, and you can then create aluminum foils, your frequency foils with your desired frequencies, that you want to have in there, and then just"
+    },
+    {
+        "start": "00:10:11.700",
+        "end": "00:10:40.020",
+        "text": "add those, remove these, as you want, so this is the most flexible capsule in that sense, and it's also the most powerful one we've ever made. Yeah, okay, awesome, so I noticed that the price will be like 150, and when do you think these will be available on the website? I promise it will be available in the beginning of January, if we can make it earlier we will, but at the latest in the beginning of January."
+    },
+    {
+        "start": "00:10:40.020",
+        "end": "00:11:09.100",
+        "text": "Okay, and since there's only going to be like a limited amount for the initial launch, are you going to start a wait list for this? That's a good question, yeah, well, let me- I know, over a dozen people already said they want it, that was the one, I want to- Yeah, but no worries, we will try to make this a regular product, because it seems really people didn't just ask for it, it's"
+    },
+    {
+        "start": "00:11:09.100",
+        "end": "00:11:37.940",
+        "text": "also that it seems to be something that people really want to have, so- Okay, so most likely if there's, you know, the 80s sells out, they'll be more in the future, so it's not like a rush to the door, it's not a who concert, so let's go, it'll just be a product, it's just launching with 80. But you know, I do want to- I asked you last week, but I want to- there was a question in the chat a couple of weeks ago that I penned for my next talk with you, and you and"
+    },
+    {
+        "start": "00:11:37.940",
+        "end": "00:12:07.900",
+        "text": "I, you'd answered that question last week, but it comes up right here, so let me kind of make sure it's really clear so that, you know, because I make neutral, I have neutral capsules myself and I interchange foils that I create different, you know, stuff. But there was a question that said, \"Hey, you know, if I put a foil of a frequency into my capsule, doesn't the, you know, and the spheres radiate that frequency on the foil outward, you know, wouldn't that then imprint the frequency onto the shell of the capsule itself?\""
+    },
+    {
+        "start": "00:12:07.900",
+        "end": "00:12:32.900",
+        "text": "Right? And then your answer was- The answer was, \"No, that would not happen, that would not happen.\" Well, because the capsule is already charged fully, and there's no aluminum foil that can add anything, and also the spheres are not adding anything to the capsule."
+    },
+    {
+        "start": "00:12:32.900",
+        "end": "00:13:00.100",
+        "text": "So, you know, if there was that possibility, then that happens already right away. And then with this saturation effect, the capsule is already saturated and there can't be anything added at that point anymore. Yeah. Yep. So there you go. You could add, you know, if you put it in a higher block with an additional frequency, that's how you could permanently add it."
+    },
+    {
+        "start": "00:13:00.100",
+        "end": "00:13:29.180",
+        "text": "Okay, so the answer bottom line is that's what the whole idea of a neutral energy capsule is, is so that you can change that capsule with any frequency you want at any time by just simply burning a frequency onto a piece of foil and then putting it into the capsule between the spheres and the capsule. And then all of a sudden that capsule becomes an inner piece capsule, or that capsule becomes like a men's booster capsule, or a heel, or you can just do whatever you want."
+    },
+    {
+        "start": "00:13:29.180",
+        "end": "00:13:54.900",
+        "text": "If you have the frequency on a card, or you create your own frequencies from the stuff around your home, then you can burn it on, you know, if you have a block or you use spheres, either way, right? There's different techniques, put it onto a foil, add it to the capsule. And there you go. You've got your own unique customized capsule, which is totally cool. And so I'm glad that you're selling one now because that way more people who don't own blocks can start, you know, creating these things for themselves. So that'd be really cool."
+    },
+    {
+        "start": "00:13:54.900",
+        "end": "00:14:22.900",
+        "text": "I'll come up with a little tutorial on that too, so that everyone is really clear on how to go about doing it. So there you go. I'm looking forward to this one. I think it's going to be really, really cool because I think my strongest neutral is because I have an IB9 and I made a full titanium capsule with titanium spheres, and it held six spheres. So that's what I use for a neutral capsule right now is an IB9 level six-fear titanium capsule."
+    },
+    {
+        "start": "00:14:22.900",
+        "end": "00:14:47.460",
+        "text": "And I'm looking forward to this one because I know even at like IB7 or IB8, right, it's only 1150. So it's definitely, you know, this one will be quite, quite powerful, which I'm looking forward to because I've kind of reached that point now where a little bit more strength is good for me to take me to that next level. So all right. Okay. So that's that one. Very, a lot of excitement about that."
+    },
+    {
+        "start": "00:14:47.460",
+        "end": "00:15:16.060",
+        "text": "The next thing was you threw a poll into the chat room last week asking people if they're interested in larger blocks. So I kind of took your poll and created this slide where this is the current quantum block. It's a, you know, and basically it's eight by eight by almost eight inches, selling for 1499. And then you're asking people, right, if anyone's interested in a larger quantum or if they're interested in a larger infinity block."
+    },
+    {
+        "start": "00:15:16.060",
+        "end": "00:15:44.140",
+        "text": "So could you kind of just, you know, kind of just, they're not products. I think that's what the thing was. It's a poll. It's not like, hey, we're going to launch these things. But could you kind of explain what you're thinking here and what you'd like to have people chime in on? Yes. And I've revised this. So I posted something new yesterday because this, this was misunderstood across the board. I mean, not by everyone, but so many people had questions, oh, but why is this the same"
+    },
+    {
+        "start": "00:15:44.140",
+        "end": "00:16:11.260",
+        "text": "level and how can this, like, why infinity block and then you had quantum block and infinity block. And people were wondering why is there an infinity block that is larger and is stronger. And so I completely tossed that. And also the 16 by 16 by 16 was actually a miss on my part because we couldn't make it at that size. Okay. At least not in these quantities at this point."
+    },
+    {
+        "start": "00:16:11.260",
+        "end": "00:16:38.220",
+        "text": "I mean, we could, but it's just, it's, it's not convenient in any way actually would make things way more difficult than it would have to be more expensive. So I revised it and just placed sizes there and said, guys, what sizes would you prefer for this? And that's it. And so we're going to wait until the size comes back."
+    },
+    {
+        "start": "00:16:38.220",
+        "end": "00:17:05.540",
+        "text": "And then, then we're going to, yeah, make the decision if we can produce it in time, you know, the goal is to also have that in January, it definitely will not be before that. So that'll be a stretch, but we'll try. And then we'll provide more details at that point. And then we'll provide also details around what's that on the Hawkins scale."
+    },
+    {
+        "start": "00:17:05.540",
+        "end": "00:17:34.780",
+        "text": "Because, yeah, people started to misunderstand my posts and apologize if that didn't help with clarification. Yeah. Yeah. There's so many questions about like, okay, well, what's the 12 by 12 inch? How big is the field? What's the, you know, and I realized when I was reading it, it's like, well, we wouldn't know because you haven't made it yet. You're asking if people want it. And then if they do want it, then you'll make it and then figure this out. Right? Right? Yeah. Okay. That took me awhile."
+    },
+    {
+        "start": "00:17:34.780",
+        "end": "00:18:04.380",
+        "text": "So, so right now then the poll, right, the poll is, is anybody interested in a regular product that's a 12 by 12 inch quantum block or a 14 by 14, 14 quantum block, right? And is anyone interested in a 12 by 12 inch infinity block? Right? That's the question. And so based on how people, well, the new question is actually not, not, it's not related to quantum block or infinity block at all."
+    },
+    {
+        "start": "00:18:04.380",
+        "end": "00:18:34.060",
+        "text": "Oh, just asking what size do you want 12 by 12, 14 by 14, 15 by 50 by 15 and just to keep it simple because otherwise we're going to get tons of questions again, like that and sizes and then we can move to the next step. So you've added any, okay, so you've added a 15 by 15? Yep. Yeah, 15 by 15, 15 and then 12 by 12 and 14 by 14 by 14, if I'm not mistaken."
+    },
+    {
+        "start": "00:18:34.060",
+        "end": "00:19:02.660",
+        "text": "Those are the ones and now people can just vote which size is the one that they would prefer. Okay. Okay. So these are your right here. These are the, whoops, I want to mess it up. Right here is these are the three sizes of either block, right? So, okay. So folks, all members, please chime in, are you interested in a quantum or infinity block,"
+    },
+    {
+        "start": "00:19:02.660",
+        "end": "00:19:32.580",
+        "text": "which one in a bigger size? And if you want that bigger size, which big, which bigger size would you be most interested in? That's the pole. Exactly. And don't think of infinity block or quantum block, like completely do not think about that. Just think about the size because it's not about infinity block or quantum block. It's just about the size and rest assured that whichever size it will be, we'll make it a very, very powerful version and that all the information about it will certainly"
+    },
+    {
+        "start": "00:19:32.580",
+        "end": "00:20:00.740",
+        "text": "be available before anyone can order it. Okay. All right. You know, and here's a great question. Someone threw out there and they're like, well, why would I need a bigger one? And I didn't answer it because it was kind of stupid, but the first thought in my head was it's like, well, so I could stick my head in it without taking a rod out is my head's too big to fit into into a regular block. It's just, you know, I'm just come from a big, sweet family. We got big heads and I can't get my head in it."
+    },
+    {
+        "start": "00:20:00.740",
+        "end": "00:20:27.740",
+        "text": "So I have to actually, you know, I use the little screws and separate the plates in order to put my head in the block. And I do that a lot. I do that a lot. So yeah, that's my first thought. But you know, plates, right? If you want to charge a platter of food, you got to separate your plates. So that was my first time. I mean, do you have any other answer to why would I want a bigger block? Yeah, first of all, I mean, I could tell you what I would prefer. It's that's a 12 by 12 by 12, because that's the one that we're actually using in our"
+    },
+    {
+        "start": "00:20:27.740",
+        "end": "00:20:57.260",
+        "text": "kitchen every day, every day, like all the time, yeah, charge stuff, new groceries that we get. And I had to go with my son yesterday to to a grocery store that we usually don't go to do because we try to buy organic and really healthy stuff. But you know, sometimes he just wants something else and I'm like, okay, I'll buy whatever you want."
+    },
+    {
+        "start": "00:20:57.260",
+        "end": "00:21:26.100",
+        "text": "And then I just went charging it before I put it in a fridge. That's exactly what I do. Everything fits in there. Everything fits in there. Every bowl fits in there, every salad bowl, every, every plate really. And it still doesn't take too much of your counter space at the same time. So I find that one very convenient. Every head fits in it, honestly. And then, you know, the only other addition would be, I mean, if you have a 14 by 14 by"
+    },
+    {
+        "start": "00:21:26.100",
+        "end": "00:21:54.780",
+        "text": "14 or 15 by 15 by 15, then you can probably put your upper body in it as well. I mean, it probably depends, you know, how, you know, but women probably can. And that will be the only other addition really and would make it make it easier to, you know, put it around your belly and things like that. But even this one here works really well, the 12 by 12 by 12."
+    },
+    {
+        "start": "00:21:54.780",
+        "end": "00:22:22.220",
+        "text": "So yeah, it's really something to consider again here. It's not like, you don't need the biggest blog on earth, you know, it's, it's, does it make sense, you know, what do I want to put in and do I have the space for it? And that's kind of the question that I want people to vote on so that we know, okay, what is really wanted out there. Okay. All right. That makes sense. Yeah. I actually do the same thing, but I use the screws and I separate the plates on one of"
+    },
+    {
+        "start": "00:22:22.220",
+        "end": "00:22:51.980",
+        "text": "my IBS and it's in the kitchen all the time. I mean, that's, you know, it, that's its job and everything I buy, it sits between the plates before I put it away. But you know, it's the, it's the regular one though, but I totally get it that, you know, it is kind of neat one just for the kitchen. And in the same concept too, like if I'm out there looking for organics, certain, you know, veggies or something and I can't find it, I'll buy the regular one and I'll just put it in the block. Just kind of negate all of these. Okay."
+    },
+    {
+        "start": "00:22:51.980",
+        "end": "00:23:19.300",
+        "text": "Yeah. All right. So cool. There you go. So that's the pole. Please. And I guess you pin the pole, right? The pole has been pinned in the group. Yes. It should be pinned. Just double check. Let's say there we go. Okay. Right here. Just click on the pin. There's your, your question. Please vote. We got 42 votes. Please vote, like your wrap up voting, I guess in a while, but you know, please vote. Let us know what, what you're interested in and then we'll, we'll go from there."
+    },
+    {
+        "start": "00:23:19.300",
+        "end": "00:23:46.500",
+        "text": "I guess fill up will then develop bigger blocks if you guys are showing that you want one. Okay. So that's that one. And then let's talk about the other new products and frequencies that are coming out. So here's back in May, our last video that about this subject where we were announcing, you were announcing new stuff, you know, the new travel block, the new water bottle, all that really great stuff, some new frequencies. So now it's November and it's the end of the year and you've got a lot more stuff."
+    },
+    {
+        "start": "00:23:46.500",
+        "end": "00:24:15.700",
+        "text": "So a lot more innovation and a lot more really cool stuff coming on. So let's go down the list and just kind of share with people, you know, what you've got in mind. So we already talked about the first one, which, yeah, totally cool. I'm looking forward to that. But then you've got this other, like, I guess it's a service that you're calling what trauma support or have you named it yet? But it's, and what is its purpose? Yeah. So we have not named it yet because we need to be a little bit careful with FDA regulation"
+    },
+    {
+        "start": "00:24:15.700",
+        "end": "00:24:39.620",
+        "text": "and how we can name it. But, you know, in essence, it's about trauma support and trauma release. And it's indeed a service. However, it's something where you're actively involved, like you need to go through certain steps in order to actually bring up the trauma and then to release it."
+    },
+    {
+        "start": "00:24:39.620",
+        "end": "00:25:08.580",
+        "text": "And you release it in a few steps in the subconscious, in the conscious. And you know, basically bring it to a state of full awareness of it and full release, which then ends up freeing a lot of inner energy and power. And you'll feel that like it's, it's, it's, it's very noticeable. Like if it's like really good trauma work, you notice it."
+    },
+    {
+        "start": "00:25:08.580",
+        "end": "00:25:34.500",
+        "text": "You feel lighter afterwards and you feel just energy public up and a blockage just going away. And that's what's going to happen with this. So it's, it's basically a guide, very, very simple, very simple. Everyone can do it on the sofa. You don't have to be an expert at all. It's not even going to take long and that's the whole, whole point about this."
+    },
+    {
+        "start": "00:25:34.500",
+        "end": "00:26:02.900",
+        "text": "You know, this, it's, it's developed together with an Austrian healer who has since about 20 years has been focused solely on trauma work. And so he already developed a technology actually with, then together with his guide, would enable people to release a trauma within 30 to 45, 50 minutes."
+    },
+    {
+        "start": "00:26:02.900",
+        "end": "00:26:27.620",
+        "text": "And now actually what we've done is we combined what he has built with what we've built. And for the optimized that the guy will stay the same, but now you can release it in pretty much five minutes. So wow. And it doesn't really matter what type of traumatic experience it is."
+    },
+    {
+        "start": "00:26:27.620",
+        "end": "00:26:56.940",
+        "text": "And I don't know when this will be available, but my current guess is by the end of Q one. And we will most likely as though make it available on the Lila Q website as well as on the quantum upgrade website. It's not going to go through the quantum upgrades system. It wouldn't really work that way. So it's going to be separate, but we'll make it available. It's not going to be like a third website. You need to go to a pool."
+    },
+    {
+        "start": "00:26:56.940",
+        "end": "00:27:26.740",
+        "text": "So it's not like, it's not a product, right? It's more like a technique combined with a service. Right? So yes, it's actually energy that we will make available for like a, but you don't have frequency. It's not like actually. Right. There's no physical. It's like the quantum upgrade. It's like the quantum upgrade, where you will, you will get the energy basically in order to do this work. And then if you go through these steps, this, that's kind of like the breakthrough."
+    },
+    {
+        "start": "00:27:26.740",
+        "end": "00:27:55.420",
+        "text": "Oh, I get it. Okay. I get it. All right. So if you did it without the energy, it would work. Okay. So it's like a trauma release energy frequency is going to be sent to you at the same time you're doing these steps as if you were like literally sitting with the healer and the healer's doing it right in front of you. Right? So you kind of like. Sort of actually, okay. Yes. So we will actually, so your phone will receive this energy and you will have it also available at all times."
+    },
+    {
+        "start": "00:27:55.420",
+        "end": "00:28:24.700",
+        "text": "And then whenever you want, you can do some trauma work. Okay. No, that's fantastic. That's going to work. Okay. I definitely want to try to, yeah, we're, we're all human beings. I mean, I think the first trauma is birth and it just goes downhill from there. Right? So yeah, I can see where this is going to be real awful. Okay. So end of Q one. So we're like, it's November so up to four months from now, but it's coming. It's being developed."
+    },
+    {
+        "start": "00:28:24.700",
+        "end": "00:28:53.660",
+        "text": "Stay tuned. But that sounds super cool. Okay. Great. Now the next one here are the new frequencies coming out. So let's go down the list and let's just talk about like, so now, okay, first, I guess everyone's going to want to know like, when will these new frequencies come out? I guess, are they all like coming up like January or, or is it each one that has a different release? We'll just mention. Well, that's, so can we call the dark energy, dark energy protection just in case so that"
+    },
+    {
+        "start": "00:28:53.660",
+        "end": "00:29:21.340",
+        "text": "people don't misunderstand it, you know, they should always like, I learned this now. There's always room for me. We're not selling dark energy. Yeah. You're right. Yeah. Good point. And, and then this one will be at some point in, in 2023, I don't know when maybe we can make it happen also by the end of Q one and the other ones here that are below that,"
+    },
+    {
+        "start": "00:29:21.340",
+        "end": "00:29:50.460",
+        "text": "they're targeted to be released and in terms of the seasonal, which is the former allergy relief booster. We call it maybe seasonal booster, right? Because that's, that's your, your frequency, you develop it. So we can maybe call it booster again. And those are targeted for January. Okay. So. And I can certainly speak to them. Like what, what, what? Sure. Yeah. Yeah. Yeah. I think I'm definitely interested in like, what's the explanation for each one of these?"
+    },
+    {
+        "start": "00:29:50.460",
+        "end": "00:30:12.860",
+        "text": "So, but I just want to clarify timing wise, dark energy sometime next year. And by the way, I, I got a copy of that a year ago when I was having issues in my home and believe me folks, it actually works anyway. So that's as far as I go with that, but then, and then, but the rest of these new frequencies are going to come out in January. So let's talk, let's start with what, like, what is the detox support frequency?"
+    },
+    {
+        "start": "00:30:12.860",
+        "end": "00:30:41.380",
+        "text": "So the detox support frequency actually was developed by one of the members in the group. And that member wants to stay anonymous. And we respect that, but, but that member, yeah, had, had tried, had worked for several months actually on this frequency and sent us, you know, these frequency cards and in"
+    },
+    {
+        "start": "00:30:41.380",
+        "end": "00:31:04.820",
+        "text": "the beginning, there wasn't a good enough effect and then, and then it improved until it was really a frequency that really works very well. And so we've, we've tested it along the way and we've, we had provided feedback along the way so it could be arriving at a really awesome product, which it, it now is."
+    },
+    {
+        "start": "00:31:04.820",
+        "end": "00:31:30.580",
+        "text": "And so thanks to, to the member and yeah, we're, we're making that available now that the detox support card, okay, so like support you in your detox efforts. Oh, cool. Okay. So, like, so let's say if someone is adamantly trying to detox, you know, like that's their focus for the next month or two doing juices or whatever, right, then this frequency would"
+    },
+    {
+        "start": "00:31:30.580",
+        "end": "00:31:57.580",
+        "text": "help their body acclimate and, or mitigate the negativity, or they, you know, the negative responses is that what the frequency does. It would, it would just basically support you as you're going through that process and make it not so bad. Well, detoxing that is, that is an aspect of it, but it actually makes the detox work even better. So it really helps detoxing. Yeah. Wow."
+    },
+    {
+        "start": "00:31:57.580",
+        "end": "00:32:22.660",
+        "text": "Even if you don't want to do juices and you have this card, you're going to detox. Okay. So it's not just a, so, so it's, so it's, so it's for like all the time use it, not just specific to people that are going through a detox, right? So it's kind of like all the time things. So it's like, it supports your body because, you know, we're detoxing every single time we XL, you know, and I don't know, I wouldn't, I wouldn't wear this every day to be honest."
+    },
+    {
+        "start": "00:32:22.660",
+        "end": "00:32:52.020",
+        "text": "For this would be for me for certain days or certain periods of time. When I feel, okay, now, you know, I, I need to detox, you know, I had maybe after Christmas, you know, you eat a lot of chocolate and, and, and, and all these fun things. And you feel like, oh, you know, I don't need to detox and a little bit quicker. And then that's when I would use it as an example. Okay. Okay. No, that's good. That's good to know. So there you go. Um, yeah, that's great."
+    },
+    {
+        "start": "00:32:52.020",
+        "end": "00:33:21.660",
+        "text": "So that would, okay. Here's, I got just sidebar question, but would that go well with like the weight loss frequency? Just out of curiosity. Yeah. Yeah. So those two things going to go together. Okay. All right. Cool. You know me, I'm always mixing, matching, creating boosters. I'm never just satisfied with just, I got a tinker. It's my thing. Okay. No, cool. Okay. So that's coming up. That's really kind of neat. Now, let's the next one here is the, the gratitude. So how would you describe this guy?"
+    },
+    {
+        "start": "00:33:21.660",
+        "end": "00:33:48.260",
+        "text": "Yeah. So, and so gratitude actually was already on my list before we released the first frequency card. And then we didn't do it, obviously, and, and then at some point, every now and then I thought about it and I didn't do it. And now a member in the group actually asked if we couldn't make a frequency for that. And that sparked this, this impulse, yes, we actually need to do this now."
+    },
+    {
+        "start": "00:33:48.260",
+        "end": "00:34:13.980",
+        "text": "And gratitude obviously is an amazing state of being. And if you, you can, you can certainly help and promote that just by thinking about things that you're grateful for, right? And then, you know, it, it literally changes your vibration, all state, and having a frequency card now that really supports you to be more in this vibrational state. That is the point of it."
+    },
+    {
+        "start": "00:34:13.980",
+        "end": "00:34:42.100",
+        "text": "And so we've created this just, you know, together with Roman, just a few days ago. It's an amazing frequency and yes, so we're going to release it. Wow. That sounds really cool. Yeah. And it'll be sometime in, in January. Okay. So it's the frequency of gratitude, just like the happiness one, right? That you released earlier, it's a frequency of happiness. Well, that's kind of neat to think about. Yeah. It's a loop actually works differently because the happiness is not necessarily that you're,"
+    },
+    {
+        "start": "00:34:42.100",
+        "end": "00:35:07.620",
+        "text": "that you're right away in happiness mode. And that would be great, actually. And I think we may want to do an upgrade at some point to, to that frequency card. That's the expectation. But the, the happiness card really helps us to get in contact with these barriers that, that stand in between us and the happiness. So, so there's work to be done really for us."
+    },
+    {
+        "start": "00:35:07.620",
+        "end": "00:35:35.300",
+        "text": "So it's, with the gratitude though, it's, it really helps to bring us into this vibrational state relatively quickly. Okay. All right. Pretty neat. Okay. Let's talk about the next one here, which is the inflammation relief booster. You want me to just, you want to describe it? Yes. So why don't you actually talk about that? I just realized I'm the one that made it. Okay. So I, I actually made a video called how to make a booster and this was what I, this,"
+    },
+    {
+        "start": "00:35:35.300",
+        "end": "00:36:04.700",
+        "text": "I talked about this specific booster and how I made it and what I went through on it. So in brief, I, I'm focusing on molecular frequencies because I'm not as gifted as Philip and not even on the same, you know, universes, Roman, just a mortal. And so I tinker with a lot of molecular frequencies and, and you know, each one of them, if you think of a frequency, it's also a sound, all frequencies are sound. Sometimes we just, you know, we're just not, we just can't hear them, but they're, they're all sound."
+    },
+    {
+        "start": "00:36:04.700",
+        "end": "00:36:34.700",
+        "text": "So, and in my mind, and the way that I kind of approach boosters is, is to mix and match different molecular frequencies to create a harmonic and that harmonic then produces the result that I'm trying to seek like, like, like what you enrollment just did, you found the frequency of gratitude, which is, I think is beautiful, that's beautiful. And so for me though, the mortal, when I mix and match frequency, so I basically, I think combined, I don't know, like 30, 40 different substances."
+    },
+    {
+        "start": "00:36:34.700",
+        "end": "00:37:04.260",
+        "text": "And I, and then the technique is really just, you know, providing that to Philip and Roman and, and then they, they kind of evaluated at their level and then I got some feedback. I did some more changes. And I think I ended up with like five prototypes and finally the fifth prototype, which is months of work and different mixing and matching and, and of different substances. And it's all in that video. I came up with one that basically when you are bathed in this frequency, it helps your"
+    },
+    {
+        "start": "00:37:04.260",
+        "end": "00:37:32.780",
+        "text": "body reduce inflammation and inflammation isn't just quote, you know, like swelling. Like if you sprained your ankle, I mean, inflammation is throughout our entire bodies. But a lot of people don't realize it, you know, let, that exposure to all of the toxins and chemicals in our environment causes inflammation. In fact, you know, GMO is really bad for that, you know, for your gut. So you know, we're always under the pressure of inflammation. And if you did any research on it, it is the number one cause of, of, of, you know, organ"
+    },
+    {
+        "start": "00:37:32.780",
+        "end": "00:38:02.700",
+        "text": "failure, you know, inflammation and hypertension, which is high blood pressure. So, so I tried, I wanted to create something that would just kind of like have a frequency that you could carry with you all the time that would support your health, you know, and that's kind of why I put this together. It took several months, several prototypes, finally got the, the Roman and Philip seal of approval. And it's going to be released on the website now along with the other boosters. Any, is that about describing? Well, I think that is perfect."
+    },
+    {
+        "start": "00:38:02.700",
+        "end": "00:38:27.140",
+        "text": "There's nothing more to add other than that's, it's really a great frequency. And we're looking forward to offering it to everyone. So, yeah, it's a great work again. Okay. Thank you. Well, thank you for your help on that. Okay. So let's, the next one here is the, is the frequency that actually I think we've got more questions about this one than any of them, which is when, you know, when is the resurrection frequency going to come out?"
+    },
+    {
+        "start": "00:38:27.140",
+        "end": "00:38:55.740",
+        "text": "So, but I guess first question is, is what is the resurrection frequency? So it actually helps to harmonize and neutralize past experiences that currently make us act in a certain way. So often we have learned something because of reactions of others or something that we,"
+    },
+    {
+        "start": "00:38:55.740",
+        "end": "00:39:25.700",
+        "text": "you know, just a easy example, you know, as a kid, I walk across the street. I'm not paying attention. I get hit by a car. Then that experience will continue to affect me in my future each time I walk across the street, right? And there are countless examples of where we have experiences that then lead to certain actions and reactions of ourselves that may be unwarranted in the future because they're"
+    },
+    {
+        "start": "00:39:25.700",
+        "end": "00:39:55.020",
+        "text": "not neither out of the moment, they're not decisions that we truly make out of our inner self, but they, we make them because we're wired because of these experiences, right? So it helps loosen these, these, these connections to these experiences so that we can live more free in the here now out of our true self and not out of these experiences. That's the best way to describe this."
+    },
+    {
+        "start": "00:39:55.020",
+        "end": "00:40:23.820",
+        "text": "Wow. Okay. So, okay. So it's like it's the difference between resurrection and trauma support or are they very complimentary to each other because it sort of sounds like the same thing, but just a little different, you know, flavor, resurrection, would you, would you think that's that's something more of dealing with trauma we carry with us into this existence and trauma is more support is more like dealing with what you've gained since you got here?"
+    },
+    {
+        "start": "00:40:23.820",
+        "end": "00:40:48.700",
+        "text": "Is that kind of my reading that right? Yeah. So the actual trauma support product that will come out or service will go much deeper and will be extremely focused and targeted onto those main traumas that we have, like the, the bigger ones, if you think, if you will, there's still like millions of experiences"
+    },
+    {
+        "start": "00:40:48.700",
+        "end": "00:41:18.060",
+        "text": "that we've made that also impact us, and that's pretty much what the resurrection card and frequency helps with. To some extent, it helps also with these other traumas, but it's, you know, like a big trauma. You really have to do some targeted work. It's not just going to dissolve within you without you looking at it and doing the work. It's not going to happen. And, and so this card is a card that you can have and it helps you to remove and neutralize"
+    },
+    {
+        "start": "00:41:18.060",
+        "end": "00:41:47.420",
+        "text": "a lot of these things without doing any extra work. It's happening subconsciously. So this is a true little healer for the pocket, basically, that you can work with for a longer period of time, but no, like actual traumas, no, you need to put in the work as well. Okay. So as a tinker, I'm thinking, you know, resurrection with inner peace and add that to a neutral capsule and wear that around for a while would probably be very helpful for someone that's"
+    },
+    {
+        "start": "00:41:47.420",
+        "end": "00:42:12.700",
+        "text": "going through something difficult. There you go. Yeah. There you go. Okay. Well, that's cool. Okay. Well, looking forward to that one. Now the seasonal booster, that's kind of an easy one, right? I get, you know, we created the, I created the allergy relief booster. You had to change the name because lawyers and so now it's called the seasonal booster"
+    },
+    {
+        "start": "00:42:12.700",
+        "end": "00:42:41.180",
+        "text": "and I want to, I want to emphasize that it's called seasonal because it was designed. It's a molecular frequency, a bunch of different frequencies created a harmonic that basically alleviate your seasonal symptoms. And it's not meant to treat diagnosable glory, but it's, but it's been found that it does help. Like if you have a basically an allergy that like a seasonal allergy to something, it really"
+    },
+    {
+        "start": "00:42:41.180",
+        "end": "00:43:10.620",
+        "text": "helps clear up your sinuses, blah, blah, blah, blah, so, but it's, it's not a medical thing and disclaimer, blah, blah, blah, blah, but that's kind of what it does. And, and it works. And so it just got renamed and it's going to be relaunched, right? You didn't, we kept, we kept the mandala for that, right? That's the same mandala and all that stuff. Yeah. Okay. So just, okay. So just, and then, you know, you had a funny story about this specific frequency, right?"
+    },
+    {
+        "start": "00:43:10.620",
+        "end": "00:43:35.300",
+        "text": "So the other, you posted something the other day where you had an interview and you were having, you were having a massive allergy attack or something and you whipped this out and it worked. Do you remember that? I think you just posted. Yes. Yes. I do remember that. Yeah. Can you share the story? I thought that was funny. Yes. That was actually the, the interview with Sarah Westall and so the night before it really hit me hard with allergies, I don't know what they sprayed in the air here."
+    },
+    {
+        "start": "00:43:35.300",
+        "end": "00:44:04.180",
+        "text": "And then at the same time, we've had a lot of rain over the last several months here, which we usually don't get much. So everything is blooming on top of that and I was like, Oh my God, you know, I, I had to sneeze. I had his stuffy nose and all of that. And so I did two things. I grabbed the, the seasonal booster, a seasonal relief booster. I don't know what I call it in the end."
+    },
+    {
+        "start": "00:44:04.180",
+        "end": "00:44:31.460",
+        "text": "And then I also turned up the, the quantum upgrade. And I felt so much better. So I mean, I was able to do the, the interview with no problems really. I still had a little bit itchy, itchy eyes, but not really itchy, no sneezing, no stuffy nose. So that was quite profound. Cool. I'm glad it helped you. I know it helped you. You know, I have another story that I shared it at the time, I think, but you know, we have"
+    },
+    {
+        "start": "00:44:31.460",
+        "end": "00:44:58.180",
+        "text": "a housekeeper that comes every now and then and she is just in such pain when there are allergies around like it's literally terrible for her. And, and then she was here again and sneezing all the time. And then I was like, here, do you want to try this card? And she was very skeptical, like she's not really into energetics, but she was like, sure, you know, I mean, it's not going to hurt."
+    },
+    {
+        "start": "00:44:58.180",
+        "end": "00:45:27.060",
+        "text": "And then she took it and then she kept it and she would use it since that day, every time when she has allergies and wears it all the time because it really helps her quite a bit. It's great. You know, it's so cool that, that, that I create these things and they work and everybody benefits. I'm, I'm just so tickled when I hear stories like that. That's awesome. That's great. So there you go. So now that I guess we'll jump right into the next subject, but on the subject of seasonal,"
+    },
+    {
+        "start": "00:45:27.060",
+        "end": "00:45:53.020",
+        "text": "you know, it's, it's, it's different than when, you know, cause I guess we took away the word allergy, cause allergy applies to so many things, you know, like all these kids today that are allergic to peanuts and all that stuff. This is just for that seasonal stuff. So I want to point that out. However, our next subject is, let's talk about the latest studies on Leila content tech, the products, you know, what are the studies showing? So I'm going to segue straight into this third bullet right here."
+    },
+    {
+        "start": "00:45:53.020",
+        "end": "00:46:19.980",
+        "text": "And just talk about the other side of the coin when we talk about allergies and that you mentioned in the Sarah West, I'll interview that there's been an allergen study, more like a high level pilot study. And you, and so these are some of the studies that Phillips commissioning on the products that you guys have purchased so that you know how well they work in the, in, you know, on a science level. So you mentioned this allergen study. So let's start with that one."
+    },
+    {
+        "start": "00:46:19.980",
+        "end": "00:46:46.540",
+        "text": "Like, you know, what was that and what did they find so far in it? Yeah. So that topic is really, it's for me, one of the most exciting right now to dig deeper into this because since over well over a year, actually, we've been hearing from many different people that they had a real success in, you know, eliminating food allergy reactions if"
+    },
+    {
+        "start": "00:46:46.540",
+        "end": "00:47:16.180",
+        "text": "they charge substances in the infinity block. I think, I don't know if we have quantum block reports that would probably work as well just much longer charging. And then, you know, we did this live presentation at the biohacking conference last year in Orlando, in front of 100 people where touch shipment got crappied in his arm and it was all a huge allergy reaction right away."
+    },
+    {
+        "start": "00:47:16.180",
+        "end": "00:47:45.500",
+        "text": "And then about seven minutes later, the same crappied that was charging right on stage and then infinity block in the meantime was put in his other arm. There wasn't a reaction. So that was already great, but we said, okay, we need to follow up with real studies so that we can provide some guidance and also make certain claims, right? Because people want to know, okay. So what does this mean if I'm gluten sensitive, right? What does that mean?"
+    },
+    {
+        "start": "00:47:45.500",
+        "end": "00:48:09.660",
+        "text": "And for now, we can only say don't try it because we don't have enough data yet and we want to be very mindful about that. So naturopathic clinic in Munich, yeah naturopathic clinic in Munich, which is actually a it's a very, very, very successful naturopathic clinic. People fly there from all over Europe, even from London, people fly there to get treated."
+    },
+    {
+        "start": "00:48:09.660",
+        "end": "00:48:34.260",
+        "text": "They have a $45,000 device with which they test allergies and they can find out what people actually have because often people have no clue what they're actually allergic to and they then try to eliminate everything and then they add stuff. So they go there among a lot of other things and treatments to get their allergies tested"
+    },
+    {
+        "start": "00:48:34.260",
+        "end": "00:49:01.740",
+        "text": "and also test their allergic reactions and how they can be reduced. So and they did a pilot and they tested things like lactose, gluten, and a bunch of other different substances and they use the travel block which is in the inside as charged as the basic infinity blocks so you can put it in perspective and we told them that four"
+    },
+    {
+        "start": "00:49:01.740",
+        "end": "00:49:31.580",
+        "text": "minutes is the optimal charging. If you have, you know, food allergies so far, that's what we've been testing. They only charged it for three minutes though and found that across all of the substances and people that were allergic that they tested it with, they found a 65 to 95% reduction in allergy response, which is very significant. That's a whole lot and I must say there's probably even room for improvement because"
+    },
+    {
+        "start": "00:49:31.580",
+        "end": "00:49:58.260",
+        "text": "they just charged it for three minutes and not four minutes so I'm guessing right now that we may see levels that are rather 70 to 100% rather than 65 to 95% but that's speculation at this point so we'll have to see and they will follow up now with more test persons and all of that and I hope that by the end of Q1 we have more data available and that"
+    },
+    {
+        "start": "00:49:58.260",
+        "end": "00:50:27.660",
+        "text": "we can reference and then say, you know, if you're gluten sensitive, you know, here's if you charge your bread for four minutes in this block then you may reduce the allergic response by 70 to 100% or something like that. It's kind of like the dream to have really certain ranges that people can understand and then they can still make their own decision so I don't think at this point it will be"
+    },
+    {
+        "start": "00:50:27.660",
+        "end": "00:50:56.780",
+        "text": "possible that you can eliminate an allergic reaction in 100% of the cases with 100% of the intensity, we'll see, you know. Well, I mean, you know, the absolute ramifications of the concept that this does what it does is mind blowing. I mean, there's nothing that it can explain it in academic science at all. There's nothing."
+    },
+    {
+        "start": "00:50:56.780",
+        "end": "00:51:26.580",
+        "text": "Yeah. Because to them a chemical that causes an allergy response is, you know, there's no way to modify it without another chemical reaction so it's amazing and I just want to throw out there that I, you know, I kind of replicated the crab meat test on myself because I have a reaction to MSG whereby it gives me hives and I get very itchy and I went through a process where I did I repeated the exact test and that you guys did with crab using an eye block."
+    },
+    {
+        "start": "00:51:26.580",
+        "end": "00:51:56.500",
+        "text": "I think I used my IB-9 six minutes and yeah, it was completely, you know, right, it was yeah, it was perfect. Like, I tried it without it and I had the high, I had the itchy's and we had waited a week later, tried it again and no response at all. It was just, it was an amazing, it was an amazing result for me. But you know, I just want to point out though that's awesome. Yeah, you know, I'm a tinker, I'm going to be doing these things but I really want to stress though that I only did it because I knew that the worst thing that could happen"
+    },
+    {
+        "start": "00:51:56.500",
+        "end": "00:52:26.460",
+        "text": "to me is I break out knives and I scratch and I itch and, you know, it goes away after two days. However, if you guys out there that, you know, if you require an epipen and you're worried about anaphylic shock, don't do this. It is just not worth it to do that unless, you know, unless there's been a ton of studies and stuff like that. So, major, major caution about tinkering around with something when it's a serious reaction, you know, because I know people with gluten, I know people with IBS and Crohn's and all"
+    },
+    {
+        "start": "00:52:26.460",
+        "end": "00:52:52.340",
+        "text": "that and myself being allergic to certain food preservatives and things like, you know, you know, I mean, the worst is going to happen is, you know, you get hives or if it's that level, then proceed with caution. But yeah, absolutely don't, don't risk your health. But you know, conceptually, the idea that quantum energy can modify a physical substance,"
+    },
+    {
+        "start": "00:52:52.340",
+        "end": "00:53:20.900",
+        "text": "then you ingest it and it produces a different response in your chemistry is just amazing. Wow, I'm just so, just so blown away by this because the ramifications of your next study and the results from that study are going to imply that it possibly can mitigate other things that are not just allergens, like GMOs, pesticides, glyphosate, you know, all that other stuff that's in our food and just think about what would happen if you guys put all"
+    },
+    {
+        "start": "00:53:20.900",
+        "end": "00:53:48.740",
+        "text": "your food through this stuff and then the absolute improvement in your diet just by charging food, you know, so, yeah, it's amazing, I'm just amazed, I'm seriously just blown away and never thought from the beginning when you and I started tinkering around with this stuff that this would get to this level of just life changing, literally life changing for humanity. It's just, wow, anyway, I'm just gushing here and just amazing to me, I'm just so amazing."
+    },
+    {
+        "start": "00:53:48.740",
+        "end": "00:54:15.400",
+        "text": "Yeah, and I feel the same, so it's truly the most exciting right now to dig into and find out, you know, there's so many people that struggle with allergens and all of that and the base institute actually laid the groundwork for this already quite a long time ago because they had tested herbicide and pesticide neutralization and all of that already with their advanced"
+    },
+    {
+        "start": "00:54:15.400",
+        "end": "00:54:41.360",
+        "text": "a deck of all method and so on that level, it's really not a surprise, it's now, it's still mind blowing right now that we're digging into much more specialized testing methods that are apparently finding pretty much the same thing. And so yeah, definitely like the herbicide and pesticide thing on a frequency level."
+    },
+    {
+        "start": "00:54:41.360",
+        "end": "00:55:06.520",
+        "text": "Yeah, I would not be surprised at all if this is also validated here by this study. And one addition to this, because they did not only test such substances that people are allergic to, but they also tested sugar. And so you cannot be allergic to sugar, but sugar has a, it's a point of response that is. Yeah, exactly."
+    },
+    {
+        "start": "00:55:06.520",
+        "end": "00:55:32.680",
+        "text": "It's a poison in that sense and it's highly addictive as well. And shame on me. I love chocolate. Wow. We're awesome. Oh my god, I'm going to eat a lot of chocolate. Yeah. But I tell you, so they also tested that and they saw, I think it was a 75 to 85 percent reduction in stress response."
+    },
+    {
+        "start": "00:55:32.680",
+        "end": "00:55:59.440",
+        "text": "And yeah, guess who's charging all the chocolates in the house here? Yeah. Yeah. My wife and I. Oh, yeah. Yeah. Absolutely. You know, I, yeah, I can't, I can't stress enough how I'm a label reader. And I, and, and, and you know, anyone who ever reads a label, if you don't, if you can't pronounce the words of the ingredients, you probably don't want to be eating that stuff, you know?"
+    },
+    {
+        "start": "00:55:59.440",
+        "end": "00:56:27.000",
+        "text": "And like, you know, I mean, there's some, just research at anybody, just like look it up, the titanium dioxide, you know, BMT, all this stuff. Like what's it doing in the food? Like why is aluminum in, in, in anti-perspirant, you know, it's like, anyway, I go off on a tangent because it's, it really gives me off on, on why these toxins are in our environment. MSG is one of the worst ones. I mean, like for the longest time until I found C 60, try to live your life avoiding MSG."
+    },
+    {
+        "start": "00:56:27.000",
+        "end": "00:56:52.200",
+        "text": "You know, and then I got C 60, which does it and now this does it as well. But wow. Yeah. It's, so yeah, it's, it's a, it's a problem. Uh, okay. So let me just, I'm just going to jump down to this other one before I go to the top. But okay. So that's the allergen study. Very exciting. And now let's talk about the ATP study, which I think is just wild. I think what you guys, you know, what that one figured out was pretty cool. Yes."
+    },
+    {
+        "start": "00:56:52.200",
+        "end": "00:57:15.360",
+        "text": "So for everyone with a blog, so if, so what we've, we've tested now for quantum upgrade, but also with, with the infinity block in that case, and it should be no different. Just weaker response with a quantum block. There is an actual increase in ATP production off the human cell."
+    },
+    {
+        "start": "00:57:15.360",
+        "end": "00:57:45.280",
+        "text": "And it, it read the devices used and it can be used also by putting a picture of you in, you know, as, you know, that procedure already, right? And that will happen in the first four hours, uh, we see an increase in, and I have to wait because I don't actually have the study results back other than the first heads up. Yes, it worked, you know, and we had a test that was done a first test about 10 days"
+    },
+    {
+        "start": "00:57:45.280",
+        "end": "00:58:08.080",
+        "text": "ago. And now this was a follow up and I think they had over 100 cells. So it was statistically significant also. And across the board, they saw this jump. So that means that not only do the cells get additional quantum energy that they will"
+    },
+    {
+        "start": "00:58:08.080",
+        "end": "00:58:37.840",
+        "text": "have available, no, also their own energy production on the cellular level increases, at least in the first four to six hours, significantly. I mean, it's, it's, it's obvious and we're not talking like 100% or something. I think then you would cook probably. And that would be also not good, but it's, it's a, it's quite a, it's a very visible and significant change."
+    },
+    {
+        "start": "00:58:37.840",
+        "end": "00:59:01.960",
+        "text": "And so that's also on multiple levels. Um, amazing, because first of all, again, you see how physically our organism is reacting and where there's a benefit that you can see and to think of it, you're in a, in a competition, right? I don't know. Baseball game or you run a marathon or something like that. It's like turbo boost. Right."
+    },
+    {
+        "start": "00:59:01.960",
+        "end": "00:59:27.360",
+        "text": "Yeah, for that time, and what's, what's very interesting so far is that, that after a certain time, the ATP production normalizes, um, that's what we've seen so far across the board. And this, this, what we see and read out of this is actually that we know that the quantum"
+    },
+    {
+        "start": "00:59:27.360",
+        "end": "00:59:53.280",
+        "text": "energy helps put things and organisms really into balance and it, and it supports everywhere. But it may not be the best if we continue to have access ATP production over a longer period of times. And, um, and that also would make a lot of sense. So it's, it's very interesting because you can literally see like you turn it on or you, you put, put it in the block and, and it's just jumping."
+    },
+    {
+        "start": "00:59:53.280",
+        "end": "01:00:19.320",
+        "text": "It's jumping right out of the game and continues for about four hours and then it all realizes. It's very interesting. Yeah, I tell you, you know, I've been a biohacker for a long time and ATP productions like the Holy Grail. It's your cellular energy generators, Taidir, mitochondria, bottom line. It's what you're, it's how you walk around all day. I mean, you know, your energy is, is just that. It's your body's little energy generators."
+    },
+    {
+        "start": "01:00:19.320",
+        "end": "01:00:48.280",
+        "text": "And if you're a, if you're somebody who does sports or whether you're anything you're doing and you need that like point one second gap over your competitors or something like that, you know, if that, this is where it makes that difference. And it's literally how many different devices and techniques and biohacking substances have been geared towards trying to improve ATP production in your, in your cellular biology. It's a huge deal in the sports world. And just to realize, and this is what's really cool about the concept here is that we're"
+    },
+    {
+        "start": "01:00:48.280",
+        "end": "01:01:14.640",
+        "text": "basically saying that quantum energy, something you cannot see that exists in all of nature. If you concentrate that into a person by using entanglement, right, then when they receive that energy, that energy of quantum is going to convert into physical ATP, which like it's like another wow. And this is the study that is finding that to be true."
+    },
+    {
+        "start": "01:01:14.640",
+        "end": "01:01:42.640",
+        "text": "So wow, Philip, that is so cool. Yeah, you're going to, I think we're going to, QE is going to take over the sports world here in the near future. Right? I mean, you have like a student, you got a final exam today. Well, you know, if you got the quantum upgrade, give yourself a boost. If you don't, if you have a block, put your picture in the block, you're going to get that little boost of ATP energy that's going to just power your brain, you know, so, yeah,"
+    },
+    {
+        "start": "01:01:42.640",
+        "end": "01:02:08.960",
+        "text": "it's just anytime you got something going like that, it's a good time to toss your photo in your block and, and power up, you know? So yeah, like job interview, whatever it's got to be, whatever you need to be at peak performance, this would be the time to do that. Exactly. And there are actually quite a lot of professional athletes that are already using our technology,"
+    },
+    {
+        "start": "01:02:08.960",
+        "end": "01:02:34.720",
+        "text": "you know, from one of the, you know, best pole vaulters in the U.S. to several major league baseball players. And now there's multiple world champion, I think four-time world champion in wrestling, who also has won an Olympic medal, who's using our products and now the latest edition is,"
+    },
+    {
+        "start": "01:02:34.720",
+        "end": "01:02:59.040",
+        "text": "I think, Danica Patrick, who was the only female NASCAR driver, she's using the blocks. And I can say that, the other names, I don't want to name because we don't have permission to say those names, but Danica posted on her Instagram already, you know, that she charged her why, she has wineries now with the blocks."
+    },
+    {
+        "start": "01:02:59.040",
+        "end": "01:03:25.160",
+        "text": "That's one I can mention, and then there's the SLR Honda motocross team, actually, that is going to participate in the Baja 1000 in, I think it's mid-November, and they're like top-notch, they're among the best in the world, frankly, and that whole team is now getting into quantum energy, which is kind of cool."
+    },
+    {
+        "start": "01:03:25.160",
+        "end": "01:03:54.680",
+        "text": "No, we also hope that we will keep back from those guys too. Yeah, oh, yeah, that's totally cool. All right, yeah, on a sidebar, I'll get a share, I'll share it later on, but I'll share you a story about the Kentucky Derby and how they're using PMF to produce these exact same results. So, yeah, I mean, think about horse racing and what quantum energy could do, for that. Okay, so, yeah, we've got a hard stop in 10 minutes."
+    },
+    {
+        "start": "01:03:54.680",
+        "end": "01:04:23.280",
+        "text": "So let's talk about the last couple of other studies and then wrap it up, that's going on and ongoing for all the telegram members. You've mentioned the Indian autism study, and you posted about it, but could you summarize that? That's been going on for a year now, so what were the initial results and then what's coming up next? Yeah, so it was the nine-month study, and we're waiting until we get the study published,"
+    },
+    {
+        "start": "01:04:23.280",
+        "end": "01:04:50.080",
+        "text": "and we're not doing that, it's the functional medicine clinic, and unfortunately, the rider that is actually putting all that to pay for all the data and everything has been sick now for some time, and we didn't really interfere because, you know, things are what they are and sometimes, you know, we need to wait for things, but I think if we need to wait another week or two, then we'll suggest that we sign this guy up maybe for the quantum upgrade"
+    },
+    {
+        "start": "01:04:50.080",
+        "end": "01:05:16.720",
+        "text": "so that he feels better soon, and can keep writing this report and everything so it can finally be presented to their medical journal, so yeah, but we at least have the results, and so it was three parts that were tested in the study, one was their functional medicine approach that they've been perfecting since many different years, it's a supplementation"
+    },
+    {
+        "start": "01:05:16.720",
+        "end": "01:05:39.520",
+        "text": "approach, and they know they can get the attic scores down by, I think, ten points, more or less, and that was also shown in this study, but then that's where they max out, right? People continue to use this supplementation and everything, what they've dialed in, but there's no additional effect, right?"
+    },
+    {
+        "start": "01:05:39.520",
+        "end": "01:06:04.880",
+        "text": "So now what then happened is actually with the several helpers out of this group, kudos to you, to everyone that participated, there was quantum distance charging that happened, and over, I think, a three month period, and the attic scores were able to be reduced by"
+    },
+    {
+        "start": "01:06:04.880",
+        "end": "01:06:29.600",
+        "text": "an additional ten points, give or take, which is very significant because you're taking these kids to levels that are way more in the normal spectrum on that path, and everything in regards to attention span, focus, language and speaking skills improved, and even things like the parasitic"
+    },
+    {
+        "start": "01:06:31.040",
+        "end": "01:06:59.840",
+        "text": "load that they usually have in their guts that a lot of autistic kids have these problems, those were able to be reduced as well, which I found interesting, I told that to someone else in an interview the other day, and then I realized, \"Damn, we also found that out in the dark field microscopy study by the basis.\" So it's an improvement, they also. Yeah, so it seems to be something exactly in regards to the microbiome and the parasitic load,"
+    },
+    {
+        "start": "01:06:59.840",
+        "end": "01:07:27.280",
+        "text": "lots more to study, of course, but at least that helped, and then there was a third phase in this study, which was with a capsule, that was a physical brass capsule, it's exactly the one that we're using as the heal capsule, but not charged with the heal frequencies, it was charged with specific frequencies for autistic kids, and that also produced amazing results, and"
+    },
+    {
+        "start": "01:07:28.080",
+        "end": "01:07:52.800",
+        "text": "yeah, that frequency is not available publicly, and I don't know if we'll ever make it publicly available if there would be even enough people that would be interested in those, and then how would we name it, right? We can't really produce anything that's clearly for a disease, so yeah, we just need to be a little bit mindful in that regard, but nevertheless, that study was"
+    },
+    {
+        "start": "01:07:52.800",
+        "end": "01:08:17.440",
+        "text": "done, it produced amazing results, and overall, all these kids were taken down to levels that are getting relatively close to 50, and 50 is really in the normal spectrum, so I think they ended up at 64, coming down from like 96, or something like that, which is significant. That's significant, I mean, you know, just, I mean, there's so many parents out there,"
+    },
+    {
+        "start": "01:08:17.440",
+        "end": "01:08:43.120",
+        "text": "and adults that suffer from this, and it's just, man, that's just amazing, it's beautiful to hear that there's anything out there that can help them with outside effects, that there's not some chemical they gotta take, and 50 pages of, you know, this could happen, and that could happen, if you take this drug thing, you know, that I try to avoid, but yeah, it's beautiful, I mean, it's just so nice to hear that this has worked out, and the study, the study proves it, so"
+    },
+    {
+        "start": "01:08:44.000",
+        "end": "01:09:11.120",
+        "text": "that's awesome, that's awesome to hear that, so you're hoping that the actual like, you know, written study gets published here in a couple of months, and we'll be able to share it with everybody in. Yeah, you know, my gut feeling is, we're talking maybe the end of Q1, yeah, I don't think it's going to happen any quicker, because the thing is that, even if it's fully written up, that doesn't mean that we can already show it, because they want to publish it, and that's their"
+    },
+    {
+        "start": "01:09:11.120",
+        "end": "01:09:38.720",
+        "text": "procedure there, that, that we can't publish it before they publish it. Right, okay, all right, but it's just a, you know, FYI everyone, the autism study was successful at that level, and it's been shown to be very helpful, the blocks, and so that's just, that's wonderful to hear, so something to keep in mind. So that last one here, as we wrap up, is the, you did a D-dimer test, so"
+    },
+    {
+        "start": "01:09:39.440",
+        "end": "01:10:07.600",
+        "text": "first of all, what is a D-dimer test, and then you use the block as part of it, and how that turned out. So there's nothing to report yet, because that study hasn't been done, this is, this is coming currently, so we, we actually, it's a clinic in Florida that is running this study, or starting this study, and they're still in the process of finding the patients that have a bad"
+    },
+    {
+        "start": "01:10:07.600",
+        "end": "01:10:36.240",
+        "text": "D-dimer test, basically, and so, so that's the prerequisite, so that's not very easy, because you have to go through a whole bunch of people, and then you have to do a D-dimer test, and actually find one that, because if you don't have a bad D-dimer test to begin with, there's also no improvement that you can show on that level at least, so that's a prerequisite. Yeah, I hope that this will get some traction, and that we can also present something by the end of Q1. Okay, yeah, you know,"
+    },
+    {
+        "start": "01:10:36.240",
+        "end": "01:11:04.720",
+        "text": "it's a problem of our time. D-dimer is testing tests for the level of blood clotting in your body, and so for those of you who've been watching the news, you probably are aware of the blood clotting issues that have just cropped up in our society, so yeah, it's for anyone who may have had issues with their employment and had to do something about it a year ago. Yeah, this is something to"
+    },
+    {
+        "start": "01:11:04.720",
+        "end": "01:11:32.960",
+        "text": "worry about, and so definitely get D-dimer tested just to make sure you're safe, but you're doing this study should be very instrumental in seeing if quantum energy can help those people who had to and get forced into doing stuff, you know, won't get into that, but yeah, it's a big deal on that level, and I really feel for anyone who had to get coerced into doing stuff they really didn't want to do, and/or their family members did it,"
+    },
+    {
+        "start": "01:11:32.960",
+        "end": "01:12:01.760",
+        "text": "and now they've got health issues, so that's what D-dimer is all about. It's the whole blood clotting thing, so looking forward to that one, Philip, thank you for doing that. Okay, so that's going to wrap up this episode of Leila Quantum Tech product updates, and I want to just say, you know, hey, you know, thank you very much everybody for sticking out. I know it's been a kind of a long video, but there's been so much developments and so many new things are coming on, and it's so exciting."
+    },
+    {
+        "start": "01:12:01.760",
+        "end": "01:12:29.360",
+        "text": "I just want to say thank you for, you know, watching this video and hanging out with Philip and I for this duration, so thanks a lot, everyone. Thank you, Philip, for your time this morning. Now, I just want to mention that if you want to get hold of Philip and/or myself, we're at the Quantum Power Group on Telegram, link below in the video description. If you want to find out more about me or you want to reach out to me, I'm also on Telegram out there, but I'm also, I have a blog called the Tinkers Academy, so just Tinkers.academy in your URL window on your browser."
+    },
+    {
+        "start": "01:12:29.360",
+        "end": "01:12:54.160",
+        "text": "Takes you right to my blog. I got a real big section all about Quantum Energy and all of the different stuff that's kind of like, I try to complement Philip's website with stuff that not on his site, so I kind of, you know, extra stuff and so, and then support the support the members with tutorials and things like that. So again, thank you so much and Philip, any parting words? Well, thank you, Kay, for your time and also the amazing things you're doing,"
+    },
+    {
+        "start": "01:12:54.160",
+        "end": "01:13:22.080",
+        "text": "with the Tinkers Academy and with the contributing, it's such amazing frequencies. I'm looking forward to that and thanks to everyone out there. Thanks for all the members and the group and and it really actually mean that, you know, just for your interaction also for having been at the forefront of this, you know, when maybe even relatives or friends that are very much in the the box of the five senses are like, ah, you know, what are you doing there? This can't work and all"
+    },
+    {
+        "start": "01:13:22.080",
+        "end": "01:13:48.480",
+        "text": "that and I think, you know, we're proving really everyone wrong and now even the most famous biohackers in the world are using our stuff and are talking about it. So yeah, and you had the right feeling about this and then beyond that, the community effort is really the most amazing part of it to, you know, do these things together and to discover new things and that's how the"
+    },
+    {
+        "start": "01:13:48.480",
+        "end": "01:14:13.680",
+        "text": "information flows, like the odd autism study would never have been possible with, without this one member trying this and reporting about it. The food allergy study would have never happened if not members in the group had discovered, you know, that it's helping and that they posted about it. So really, thank you for doing that. Thank you for continuing to Tinker and to to discover."
+    },
+    {
+        "start": "01:14:14.960",
+        "end": "01:14:41.760",
+        "text": "I think we're definitely not at the end of discovering new things, so it will continue to stay interesting. Yeah, no, yeah, you're so right. I mean, if everybody realizes everything, a lot of the stuff that is being developed and produced and provided is because of the community asking for it. So, I mean, we have a true community where it's constant engagement with with Layla Tech and"
+    },
+    {
+        "start": "01:14:41.760",
+        "end": "01:15:05.600",
+        "text": "there's constant development and and it's just great. So, you know, thank you guys out there on Telegram for sticking with us and keep participating, keep asking those questions because, you know, your question might end up as a product next year. So, definitely, thank you for your engagement. And thank you, Phillip. I know you got to go. I got to jump into another meeting. So, thank you so much and have a great day, everybody. Aloha. You too."
+    }
+]

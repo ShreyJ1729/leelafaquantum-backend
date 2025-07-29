@@ -1,0 +1,1563 @@
+
+[00:00:00.000 --> 00:00:04.260]   - Hello, everyone, and welcome to another Tinkers Academy video.
+[00:00:04.260 --> 00:00:07.040]   I'm your host, Kay Elmer, and I've got on the line,
+[00:00:07.040 --> 00:00:09.720]   Philip Samore von Holzendorf of Leila Q.
+[00:00:09.720 --> 00:00:12.680]   And we are gonna do today a tutorial
+[00:00:12.680 --> 00:00:17.640]   on how to use Leila capsules and Leila quantum cards.
+[00:00:17.640 --> 00:00:19.640]   And so I wanna first say, good morning, Philip.
+[00:00:19.640 --> 00:00:21.280]   How are you today?
+[00:00:21.280 --> 00:00:22.120]   Welcome.
+[00:00:22.120 --> 00:00:23.600]   - Hi Kay, happy Friday.
+[00:00:23.600 --> 00:00:25.120]   - Yeah, happy Friday.
+[00:00:25.120 --> 00:00:27.240]   It's July 4th week, and everybody today,
+[00:00:27.240 --> 00:00:28.800]   we're recording this on July 1st.
+[00:00:28.800 --> 00:00:32.360]   So happy July, at six months left of the year.
+[00:00:32.360 --> 00:00:34.240]   I think that comes down to like what?
+[00:00:34.240 --> 00:00:37.040]   10 or 11 paychecks till Christmas.
+[00:00:37.040 --> 00:00:38.640]   (laughing)
+[00:00:38.640 --> 00:00:40.560]   That's how I keep track of time.
+[00:00:40.560 --> 00:00:44.080]   But anyway, so for those of you who have not heard of Philip,
+[00:00:44.080 --> 00:00:45.400]   which I can't imagine how you haven't,
+[00:00:45.400 --> 00:00:49.680]   but Philip is a healer, founder and owner,
+[00:00:49.680 --> 00:00:52.000]   operator of Leila quantum tech.
+[00:00:52.000 --> 00:00:53.880]   And so he's the go-to guy.
+[00:00:53.880 --> 00:00:57.180]   He is our sensei for the quantum power group,
+[00:00:57.180 --> 00:00:58.120]   and he's the man.
+[00:00:58.120 --> 00:01:00.340]   So very busy.
+[00:01:00.340 --> 00:01:04.120]   So what I've been trying to do at the Tinkers Academy
+[00:01:04.120 --> 00:01:06.120]   is catch him, and it's real hard,
+[00:01:06.120 --> 00:01:08.920]   but every now and then I can catch him, get him for an hour.
+[00:01:08.920 --> 00:01:11.960]   And I'm trying to put these tutorials together.
+[00:01:11.960 --> 00:01:15.360]   And basically these are pick Philip's mind sessions.
+[00:01:15.360 --> 00:01:17.480]   So we're gonna go ahead and talk about capsules
+[00:01:17.480 --> 00:01:19.160]   and cards today.
+[00:01:19.160 --> 00:01:20.720]   And I just wanna say thank you, Philip,
+[00:01:20.720 --> 00:01:22.560]   for spending some time with me.
+[00:01:22.560 --> 00:01:25.960]   And also thank you to the folks in the chat group,
+[00:01:25.960 --> 00:01:28.160]   in our telegram chat group,
+[00:01:28.160 --> 00:01:30.440]   without your participation.
+[00:01:30.440 --> 00:01:31.640]   This wouldn't even be,
+[00:01:31.640 --> 00:01:33.840]   we wouldn't be able to do as well as we do,
+[00:01:33.840 --> 00:01:36.000]   because I'm asking you guys for questions,
+[00:01:36.000 --> 00:01:38.040]   and you gave out some great questions,
+[00:01:38.040 --> 00:01:39.520]   and hopefully we'll,
+[00:01:39.520 --> 00:01:41.600]   I think we have enough time today
+[00:01:41.600 --> 00:01:43.360]   where we can get to them also.
+[00:01:43.360 --> 00:01:46.440]   So thanks for participating, and this is for you.
+[00:01:46.440 --> 00:01:48.600]   So before we jump into the content,
+[00:01:48.600 --> 00:01:50.480]   do you need to give the disclaimer
+[00:01:50.480 --> 00:01:51.760]   at neither Leila quantum tech,
+[00:01:51.760 --> 00:01:53.120]   nor the Tinkers Academy recommend
+[00:01:53.120 --> 00:01:54.920]   or endorse any specific tests,
+[00:01:54.920 --> 00:01:56.280]   physicians, procedures, opinions,
+[00:01:56.280 --> 00:01:59.200]   or other information that may be mentioned in this video.
+[00:01:59.200 --> 00:02:00.960]   Reliance on any information appearing
+[00:02:00.960 --> 00:02:04.000]   and discussed in this video solely at everyone's own risks.
+[00:02:04.000 --> 00:02:06.080]   Statements made have not been evaluated by,
+[00:02:06.080 --> 00:02:08.840]   evaluated by the EFSA or the FDA,
+[00:02:08.840 --> 00:02:10.760]   or any government derivative.
+[00:02:10.760 --> 00:02:13.640]   They're of Leila quantum tech products and products
+[00:02:13.640 --> 00:02:15.600]   that Leila quantum tech may represent
+[00:02:15.600 --> 00:02:17.800]   are not intended to diagnose, treat, cure,
+[00:02:17.800 --> 00:02:19.400]   or prevent any disease.
+[00:02:19.400 --> 00:02:22.480]   So with that said, let's jump right in.
+[00:02:22.480 --> 00:02:26.400]   So we are talking about the two different products
+[00:02:26.400 --> 00:02:29.440]   that Leila quantum tech provides.
+[00:02:29.440 --> 00:02:33.080]   One is called, I just refer to them as the quantum capsules.
+[00:02:33.080 --> 00:02:35.680]   They come in three different flavors right now.
+[00:02:35.680 --> 00:02:38.160]   And then there's these other things
+[00:02:38.160 --> 00:02:39.680]   called the frequency cards.
+[00:02:39.680 --> 00:02:41.920]   And so Phillip, you know, I think, you know,
+[00:02:41.920 --> 00:02:43.640]   it's really, you know, I'm sure you run into this too.
+[00:02:43.640 --> 00:02:45.640]   I mean, I run into it where like, you know,
+[00:02:45.640 --> 00:02:47.480]   what's the elevator pitch?
+[00:02:47.480 --> 00:02:49.280]   Like if I were to say to you and you had like, you know,
+[00:02:49.280 --> 00:02:52.480]   an elevator of one minute, right, you're in an elevator.
+[00:02:52.480 --> 00:02:54.560]   And someone says, oh, what are you wearing?
+[00:02:54.560 --> 00:02:56.080]   Or, you know, you're holding that in your hand.
+[00:02:56.080 --> 00:02:56.960]   What is that?
+[00:02:56.960 --> 00:03:00.080]   How would you describe, let's start with the capsule.
+[00:03:00.080 --> 00:03:01.040]   Like, how would you just like,
+[00:03:01.040 --> 00:03:03.320]   what's your elevator pitch for someone says,
+[00:03:03.320 --> 00:03:04.480]   hey, what is that?
+[00:03:04.480 --> 00:03:06.480]   How would you describe it?
+[00:03:06.480 --> 00:03:09.360]   - Yeah, for the capsule, I would say this is a brass capsule
+[00:03:09.360 --> 00:03:13.200]   that is charged with specific frequencies.
+[00:03:13.200 --> 00:03:18.000]   And we can get into that for any specific capsule.
+[00:03:18.000 --> 00:03:20.320]   What frequencies are in there?
+[00:03:20.320 --> 00:03:24.040]   And then you find five titanium spheres inside
+[00:03:24.040 --> 00:03:26.480]   that are charged with pure quantum energy.
+[00:03:26.480 --> 00:03:29.880]   And that makes it that those frequencies are boosted out
+[00:03:29.880 --> 00:03:33.600]   pretty much to a field of up to two to three meters.
+[00:03:33.600 --> 00:03:34.480]   You know, what is that?
+[00:03:34.480 --> 00:03:38.680]   You know, it's a, yeah.
+[00:03:38.680 --> 00:03:39.960]   - Six to nine feet.
+[00:03:39.960 --> 00:03:42.000]   - Six to nine feet more or less.
+[00:03:42.000 --> 00:03:44.520]   Yeah, thank you.
+[00:03:44.520 --> 00:03:47.200]   And yeah, that's the elevator.
+[00:03:47.200 --> 00:03:49.840]   And then we can get into the details of it.
+[00:03:49.840 --> 00:03:50.680]   - Okay.
+[00:03:50.680 --> 00:03:51.520]   And then what would you say?
+[00:03:51.520 --> 00:03:52.960]   Like, if you were holding this in your hand
+[00:03:52.960 --> 00:03:55.520]   and someone looks at you and they, oh, what's that?
+[00:03:55.520 --> 00:03:56.520]   Oh, I'm a frequency card.
+[00:03:56.520 --> 00:03:58.600]   What is a frequency card?
+[00:03:58.600 --> 00:03:59.440]   - Yep.
+[00:03:59.440 --> 00:04:02.360]   So this is a special card out of metal
+[00:04:02.360 --> 00:04:06.160]   that is charged with a specific frequency
+[00:04:06.160 --> 00:04:11.160]   that helps or is supposed to help with the specific use case.
+[00:04:11.160 --> 00:04:16.200]   So, you know, we develop frequencies with our healer network,
+[00:04:16.800 --> 00:04:19.720]   but as well, you develop frequencies, for example,
+[00:04:19.720 --> 00:04:21.480]   okay, molecular frequencies.
+[00:04:21.480 --> 00:04:24.760]   And there's always a use case, right?
+[00:04:24.760 --> 00:04:29.440]   There's always a goal to solve a problem, you know,
+[00:04:29.440 --> 00:04:32.800]   whether it's, you know, I always give the inner piece example
+[00:04:32.800 --> 00:04:35.720]   because that's one that that's very easy to explain
+[00:04:35.720 --> 00:04:38.720]   and it's been a long, been around for a while.
+[00:04:38.720 --> 00:04:42.280]   So if someone has just stress inside
+[00:04:42.280 --> 00:04:46.480]   and it's very unbalanced, you know,
+[00:04:46.480 --> 00:04:49.960]   maybe even has fear, you know,
+[00:04:49.960 --> 00:04:53.480]   tendency for panic attacks doesn't need to be on the scale
+[00:04:53.480 --> 00:04:56.560]   like super strong can be also relatively subtle.
+[00:04:56.560 --> 00:05:01.560]   But then this frequency card would help with that
+[00:05:01.560 --> 00:05:05.920]   because it kind of helps us to access
+[00:05:05.920 --> 00:05:09.000]   and stimulate our inner piece within us
+[00:05:09.000 --> 00:05:11.640]   and helps us to expand that again.
+[00:05:11.640 --> 00:05:16.640]   And so we develop frequencies that help with issues,
+[00:05:16.640 --> 00:05:18.240]   if you will.
+[00:05:18.240 --> 00:05:23.280]   And the radios is pretty much, it's way smaller
+[00:05:23.280 --> 00:05:24.560]   than with the capsule.
+[00:05:24.560 --> 00:05:27.640]   It's, you know, a strong radius of about 37 meters.
+[00:05:27.640 --> 00:05:29.160]   I would call that about a foot,
+[00:05:29.160 --> 00:05:32.120]   maybe a little bit more than a foot.
+[00:05:32.120 --> 00:05:34.400]   And yeah, but it's enough.
+[00:05:34.400 --> 00:05:36.360]   You have to wear it at the body though.
+[00:05:36.360 --> 00:05:37.320]   So that's important.
+[00:05:37.320 --> 00:05:39.680]   You need to do a word in your pocket as an example,
+[00:05:39.680 --> 00:05:42.320]   hold it in your hand, put it underneath your pillow
+[00:05:42.320 --> 00:05:44.520]   underneath your bed sheet, something like that.
+[00:05:44.520 --> 00:05:46.320]   So that's, those are the differences.
+[00:05:46.320 --> 00:05:48.840]   And we have, I think, I don't even know how many we have,
+[00:05:48.840 --> 00:05:52.040]   but definitely we have over 20 different frequency cards
+[00:05:52.040 --> 00:05:52.920]   by now.
+[00:05:52.920 --> 00:05:56.200]   - Okay, so to kind of summarize,
+[00:05:56.200 --> 00:05:59.520]   these are frequency objects, you know,
+[00:05:59.520 --> 00:06:02.240]   objects that hold a frequency.
+[00:06:02.240 --> 00:06:05.000]   The frequencies that we're talking about are,
+[00:06:05.000 --> 00:06:08.480]   you know, things that are like etheric or molecular
+[00:06:08.480 --> 00:06:09.320]   or resonant.
+[00:06:09.320 --> 00:06:11.040]   I mean, there's just different types of frequencies,
+[00:06:11.040 --> 00:06:14.560]   but frequencies for those of you who understand energy work
+[00:06:14.560 --> 00:06:16.240]   is that all things are energy
+[00:06:16.240 --> 00:06:19.760]   and all energy vibrates and all vibration is frequency.
+[00:06:19.760 --> 00:06:21.720]   And so you are an energy being.
+[00:06:21.720 --> 00:06:23.880]   And because of that, different frequencies
+[00:06:23.880 --> 00:06:27.000]   can do different things for you and train with you.
+[00:06:27.000 --> 00:06:30.160]   And so these devices hold those frequencies.
+[00:06:30.160 --> 00:06:32.200]   And when you hold these devices,
+[00:06:32.200 --> 00:06:34.320]   then you're exposing yourself to the frequencies.
+[00:06:34.320 --> 00:06:36.840]   So what would you, so the main difference then for them,
+[00:06:36.840 --> 00:06:39.640]   for the person who doesn't know, is okay.
+[00:06:39.640 --> 00:06:42.520]   So if you say like these both hold frequencies,
+[00:06:42.520 --> 00:06:45.080]   then the spheres do what exactly?
+[00:06:45.080 --> 00:06:46.840]   What's the difference between like,
+[00:06:46.840 --> 00:06:48.320]   you know, I got a frequency over here
+[00:06:48.320 --> 00:06:51.280]   and a frequency over here, but this one's special, you know,
+[00:06:51.280 --> 00:06:56.120]   and so the spheres act as, how would you describe that?
+[00:06:56.120 --> 00:06:57.200]   - As a booster.
+[00:06:57.200 --> 00:06:58.040]   - As a booster.
+[00:06:58.040 --> 00:07:01.360]   - So the energy level is way more powerful.
+[00:07:01.360 --> 00:07:02.200]   - Okay.
+[00:07:02.200 --> 00:07:05.000]   - So if we had, we also have a heel.
+[00:07:06.160 --> 00:07:10.520]   So if we take the heel capsule and the heel card,
+[00:07:10.520 --> 00:07:14.120]   heel frequency cards, then the heel capsule
+[00:07:14.120 --> 00:07:17.800]   will be way more powerful, way more energetic.
+[00:07:17.800 --> 00:07:20.440]   So you'll feel that in a much stronger way.
+[00:07:20.440 --> 00:07:21.960]   The radius is bigger.
+[00:07:21.960 --> 00:07:22.960]   - Okay.
+[00:07:22.960 --> 00:07:26.040]   - So, and stronger is not always better.
+[00:07:26.040 --> 00:07:28.400]   But, you know, I think in this sense, you know,
+[00:07:28.400 --> 00:07:31.480]   for this specific frequency said, you know,
+[00:07:31.480 --> 00:07:34.840]   I would prefer the capsule over the card,
+[00:07:34.840 --> 00:07:37.320]   but there are others where, you know,
+[00:07:37.320 --> 00:07:41.040]   for example, the inner piece wouldn't make so much sense
+[00:07:41.040 --> 00:07:42.440]   actually as a capsule.
+[00:07:42.440 --> 00:07:44.800]   It really makes most sense as a card.
+[00:07:44.800 --> 00:07:46.840]   So there's this and that.
+[00:07:46.840 --> 00:07:50.400]   And yeah, and I think people actually have asked,
+[00:07:50.400 --> 00:07:52.080]   and I know that this has come up
+[00:07:52.080 --> 00:07:53.240]   in the group several times.
+[00:07:53.240 --> 00:07:55.560]   They've asked, you know, could you maybe have
+[00:07:55.560 --> 00:07:57.560]   a neutral capsule?
+[00:07:57.560 --> 00:08:00.600]   And then, you know, if we have specific frequencies,
+[00:08:00.600 --> 00:08:05.600]   we could just add the frequency to it, right?
+[00:08:05.600 --> 00:08:09.560]   And so we'll be doing that.
+[00:08:09.560 --> 00:08:13.120]   We haven't started on it yet, but we will be doing that.
+[00:08:13.120 --> 00:08:13.960]   - Okay.
+[00:08:13.960 --> 00:08:16.280]   So yeah, so as you're talking, you know,
+[00:08:16.280 --> 00:08:18.640]   I kind of have this one slide prepared
+[00:08:18.640 --> 00:08:21.720]   to kind of capture like the technical specs, right?
+[00:08:21.720 --> 00:08:25.240]   And so maybe let's talk a little bit more about that
+[00:08:25.240 --> 00:08:27.480]   so people truly understand the difference
+[00:08:27.480 --> 00:08:29.760]   between these two products.
+[00:08:30.760 --> 00:08:33.440]   And then how the spheres interplay with that.
+[00:08:33.440 --> 00:08:34.920]   But so first of all, you know,
+[00:08:34.920 --> 00:08:37.000]   I'm just, you know, I'm going to save these slides
+[00:08:37.000 --> 00:08:37.840]   for all of those guys.
+[00:08:37.840 --> 00:08:39.280]   I don't want to refer back to this stuff,
+[00:08:39.280 --> 00:08:41.720]   but, you know, the size is the card
+[00:08:41.720 --> 00:08:43.600]   is like a regular business card.
+[00:08:43.600 --> 00:08:46.480]   And the capsule's about two inches tall
+[00:08:46.480 --> 00:08:48.520]   and about a little bit over half an inch wide.
+[00:08:48.520 --> 00:08:50.520]   So they're, you know, that's kind of the size.
+[00:08:50.520 --> 00:08:51.840]   So let's talk about the field.
+[00:08:51.840 --> 00:08:53.920]   Now, because these are energy devices,
+[00:08:53.920 --> 00:08:55.920]   they have a field, right?
+[00:08:55.920 --> 00:08:59.280]   And the field is that this is as far away from it
+[00:08:59.280 --> 00:09:01.120]   as you could be with, you know,
+[00:09:01.120 --> 00:09:02.440]   and not feel it anymore.
+[00:09:02.440 --> 00:09:04.720]   So you want to have these things close to you
+[00:09:04.720 --> 00:09:06.720]   in order to use them, right?
+[00:09:06.720 --> 00:09:08.240]   So let's start with the card
+[00:09:08.240 --> 00:09:11.080]   because it's the pretty much the card
+[00:09:11.080 --> 00:09:14.200]   and the empty capsule are the same.
+[00:09:14.200 --> 00:09:17.160]   I mean, would you say that they're the same level of energy?
+[00:09:17.160 --> 00:09:21.320]   When we talk just about kind of the strength of the energy.
+[00:09:21.320 --> 00:09:24.440]   We have frequency, and we'll talk about that separately
+[00:09:24.440 --> 00:09:25.640]   because people seem to, you know,
+[00:09:25.640 --> 00:09:27.920]   there are people that get them interchange,
+[00:09:27.920 --> 00:09:29.360]   but they're, you know, they're two separate things.
+[00:09:29.360 --> 00:09:31.080]   So you've got a frequency,
+[00:09:31.080 --> 00:09:33.920]   but then you've got this energy that is kind of like the carrier,
+[00:09:33.920 --> 00:09:36.520]   right? It's the, it broadcasts the frequency.
+[00:09:36.520 --> 00:09:41.320]   So how would you say in terms of energy level, you know,
+[00:09:41.320 --> 00:09:42.480]   are these, are these, is that,
+[00:09:42.480 --> 00:09:44.240]   'cause I've always thought that the empty capsule
+[00:09:44.240 --> 00:09:45.960]   because it has about as much,
+[00:09:45.960 --> 00:09:47.600]   it has a little bit more metal than the card,
+[00:09:47.600 --> 00:09:49.880]   but I was always thinking that they were the same.
+[00:09:49.880 --> 00:09:51.480]   Would you say that?
+[00:09:51.480 --> 00:09:52.920]   - Very similar, yeah.
+[00:09:52.920 --> 00:09:54.680]   - Okay, all right.
+[00:09:54.680 --> 00:09:56.440]   So, so this is where it starts off.
+[00:09:56.440 --> 00:09:58.240]   So at the very, very basic, you know,
+[00:09:58.240 --> 00:10:00.800]   for people that are super sensitive to energy,
+[00:10:00.800 --> 00:10:03.040]   you know, just an empty capsule or the card
+[00:10:03.040 --> 00:10:04.560]   might be suitable for you.
+[00:10:04.560 --> 00:10:07.920]   And then for, to kind of put it into perspective,
+[00:10:07.920 --> 00:10:12.040]   each one of these things because it generates quantum energy
+[00:10:12.040 --> 00:10:15.520]   has a field, you know, of how much energy,
+[00:10:15.520 --> 00:10:18.000]   you know, like how far out does the energy go?
+[00:10:18.000 --> 00:10:20.000]   And so let me just make sure I've got my notes right,
+[00:10:20.000 --> 00:10:23.040]   but so in field strength,
+[00:10:23.040 --> 00:10:25.200]   our field, the size of the field, right?
+[00:10:25.200 --> 00:10:28.920]   You were saying basically it's like six to nine feet,
+[00:10:28.920 --> 00:10:31.360]   which is what you said earlier, right?
+[00:10:31.360 --> 00:10:32.800]   Is what a capsule, you know,
+[00:10:32.800 --> 00:10:34.960]   that's the radius of a capsule.
+[00:10:34.960 --> 00:10:37.280]   So, honestly-- - And that's measurable.
+[00:10:37.280 --> 00:10:39.880]   I mean, or you could see it,
+[00:10:39.880 --> 00:10:44.360]   the very strong field of a capsule is also smaller
+[00:10:44.360 --> 00:10:46.960]   than, you know, three meters.
+[00:10:46.960 --> 00:10:50.240]   So if you wanted to charge water, for example,
+[00:10:50.240 --> 00:10:53.680]   we'll get into that, you can't have it two meters away,
+[00:10:53.680 --> 00:10:54.880]   then it wouldn't work.
+[00:10:54.880 --> 00:10:57.600]   - Okay, all right, so, but I want to point out though
+[00:10:57.600 --> 00:11:02.600]   that the six to nine feet is with all five spheres, right?
+[00:11:02.600 --> 00:11:04.160]   - Yes.
+[00:11:04.160 --> 00:11:08.880]   - Okay, so let's talk about, so if it's an empty capsule,
+[00:11:08.880 --> 00:11:11.440]   or if it's a card, right?
+[00:11:11.440 --> 00:11:13.440]   What would you say would be the field?
+[00:11:13.440 --> 00:11:16.400]   Like, I always thought it was like eight to 10 centimeters,
+[00:11:16.400 --> 00:11:17.880]   but I forgot, but it was just like four inches,
+[00:11:17.880 --> 00:11:22.120]   but do you know what, like, what is the field of a card?
+[00:11:23.480 --> 00:11:27.200]   - Yeah, it's about 20 to 30 centimeters.
+[00:11:27.200 --> 00:11:30.280]   So that is, you know, I think 30 centimeters
+[00:11:30.280 --> 00:11:32.200]   is a foot more or less.
+[00:11:32.200 --> 00:11:34.560]   - All right, so about 10 inches in, yeah?
+[00:11:34.560 --> 00:11:38.360]   - Yeah, yeah.
+[00:11:38.360 --> 00:11:40.240]   - Okay, well, just, you know, everybody,
+[00:11:40.240 --> 00:11:41.800]   you know, we're all approximating here.
+[00:11:41.800 --> 00:11:43.640]   Okay, so keep that in mind.
+[00:11:43.640 --> 00:11:45.960]   So I did, you know, I was thinking about this earlier
+[00:11:45.960 --> 00:11:47.640]   when I wrote, when I created this deck.
+[00:11:47.640 --> 00:11:51.080]   And Philip, this is kind of like how I was thinking
+[00:11:51.080 --> 00:11:53.000]   was a way to explain it, right?
+[00:11:53.000 --> 00:11:54.840]   The difference in spheres.
+[00:11:54.840 --> 00:11:57.120]   And I know, and I know you don't have like,
+[00:11:57.120 --> 00:12:00.240]   oh, if I add one sphere, how much bigger does it get?
+[00:12:00.240 --> 00:12:03.520]   Like, if it starts out at 10 inches, right?
+[00:12:03.520 --> 00:12:05.120]   That's the size of the field.
+[00:12:05.120 --> 00:12:06.600]   So if you had an empty capsule,
+[00:12:06.600 --> 00:12:10.240]   you want it right on your body, right?
+[00:12:10.240 --> 00:12:11.480]   If you want to experience it.
+[00:12:11.480 --> 00:12:13.640]   But then if I put one sphere in,
+[00:12:13.640 --> 00:12:15.360]   how much wider does the field get?
+[00:12:15.360 --> 00:12:17.320]   Two spheres, three spheres, so forth.
+[00:12:17.320 --> 00:12:18.600]   So I kind of wanted to point out
+[00:12:18.600 --> 00:12:20.600]   that in this little diagram here,
+[00:12:20.600 --> 00:12:22.440]   you start out with a field size,
+[00:12:22.440 --> 00:12:24.040]   like this dark colored circle.
+[00:12:24.040 --> 00:12:26.240]   And that would be the size of the field,
+[00:12:26.240 --> 00:12:30.280]   which means you want to keep the item close to you
+[00:12:30.280 --> 00:12:32.920]   within that field, or you won't be feeling it.
+[00:12:32.920 --> 00:12:37.000]   But then, and then specific to the capsule,
+[00:12:37.000 --> 00:12:39.760]   you can add up to five spheres.
+[00:12:39.760 --> 00:12:42.040]   And every time you add a sphere,
+[00:12:42.040 --> 00:12:44.880]   that field gets bigger and bigger and bigger.
+[00:12:44.880 --> 00:12:47.000]   And then it will stretch out to nine feet.
+[00:12:47.000 --> 00:12:48.680]   So this is kind of, I mean, I don't know.
+[00:12:48.680 --> 00:12:49.920]   I mean, does that help?
+[00:12:49.920 --> 00:12:52.040]   I'm trying to like visualize it.
+[00:12:52.040 --> 00:12:53.440]   I think this is perfect.
+[00:12:53.440 --> 00:12:56.000]   And, but I still want to tell people,
+[00:12:56.000 --> 00:12:59.240]   like even if you have the capsule filled with all the spheres,
+[00:12:59.240 --> 00:13:02.800]   still the best way to use it is to wear it around your neck.
+[00:13:02.800 --> 00:13:05.000]   And then you have it close to your heart chakra,
+[00:13:05.000 --> 00:13:06.720]   even if the field is big.
+[00:13:06.720 --> 00:13:10.280]   But then, you know, the EMF protective effect, for example,
+[00:13:10.280 --> 00:13:13.600]   is the greatest, you have the largest field around you.
+[00:13:13.600 --> 00:13:17.240]   And so, I mean, obviously, if you can tolerate it,
+[00:13:17.240 --> 00:13:20.160]   just very, very few people for them,
+[00:13:20.160 --> 00:13:22.160]   five spheres there's a lot in the beginning.
+[00:13:22.160 --> 00:13:25.920]   But most people can easily tolerate it.
+[00:13:25.920 --> 00:13:27.120]   - Okay, that's okay.
+[00:13:27.120 --> 00:13:29.240]   So that's two things I wanted to add was,
+[00:13:29.240 --> 00:13:32.360]   which is, all right, do I start off with all five spheres?
+[00:13:32.360 --> 00:13:34.240]   Or do I start with an empty capsule?
+[00:13:34.240 --> 00:13:36.120]   You know, as I'm getting adjusted to the energy.
+[00:13:36.120 --> 00:13:38.480]   But, you know, I agree with you,
+[00:13:38.480 --> 00:13:40.640]   because I've been hanging out in the chat room for two years.
+[00:13:40.640 --> 00:13:42.480]   And yeah, the majority of people
+[00:13:42.480 --> 00:13:44.680]   can just start off with five spheres, no problem.
+[00:13:44.680 --> 00:13:45.920]   But I've actually heard from people
+[00:13:45.920 --> 00:13:48.520]   that they had to like, they got a little overwhelmed,
+[00:13:48.520 --> 00:13:49.880]   it kind of interrupted their sleep.
+[00:13:49.880 --> 00:13:51.280]   And they had to take a few out,
+[00:13:51.280 --> 00:13:52.440]   and then they felt better, right?
+[00:13:52.440 --> 00:13:54.520]   And so, you know, it's because it's a lot of energy.
+[00:13:54.520 --> 00:13:55.440]   So that's the idea.
+[00:13:55.440 --> 00:13:56.640]   - Don't wait a night.
+[00:13:56.640 --> 00:13:59.520]   - Right, and so the spheres are basically
+[00:13:59.520 --> 00:14:02.760]   the volume knob for a capsule.
+[00:14:02.760 --> 00:14:04.280]   You could turn up the energy,
+[00:14:04.280 --> 00:14:05.600]   or you can turn down the energy
+[00:14:05.600 --> 00:14:08.960]   just by adding or taking out spheres, right?
+[00:14:08.960 --> 00:14:10.440]   And I think that's an important part.
+[00:14:10.440 --> 00:14:12.320]   And I think the, and to see the other,
+[00:14:12.320 --> 00:14:15.160]   the other question I wanted to just kind of throw out there
+[00:14:15.160 --> 00:14:18.720]   is, is, I just lost my train of thought,
+[00:14:18.720 --> 00:14:21.440]   but it was a good one, and maybe it'll come back.
+[00:14:21.440 --> 00:14:24.480]   So talking about strength.
+[00:14:24.480 --> 00:14:26.440]   Okay, so that's the idea behind strength.
+[00:14:26.440 --> 00:14:29.560]   And so, if you have a card,
+[00:14:29.560 --> 00:14:32.240]   then what would you say is the best way
+[00:14:32.240 --> 00:14:34.080]   to get the most out of it?
+[00:14:34.080 --> 00:14:39.360]   - To word in your pocket throughout the day.
+[00:14:39.360 --> 00:14:41.420]   And if you don't have a pocket,
+[00:14:41.420 --> 00:14:45.560]   then find some other creative solution.
+[00:14:45.560 --> 00:14:47.560]   I know people are very creative,
+[00:14:47.560 --> 00:14:49.440]   I don't wanna make any suggestion,
+[00:14:49.440 --> 00:14:53.360]   but I've seen a very creative ways to do it.
+[00:14:53.360 --> 00:14:58.360]   And at night, it's really, I've seen and heard
+[00:14:58.360 --> 00:15:01.200]   and also tried myself three different ways.
+[00:15:01.200 --> 00:15:05.480]   One is underneath the pillow, works pretty well.
+[00:15:05.480 --> 00:15:06.920]   Then what actually also works
+[00:15:06.920 --> 00:15:09.220]   is put it underneath the bed sheet.
+[00:15:09.220 --> 00:15:14.120]   Then it's even closer to the center of the body.
+[00:15:14.120 --> 00:15:16.840]   And then some people actually experimented
+[00:15:16.840 --> 00:15:19.040]   with just having it there,
+[00:15:19.040 --> 00:15:22.040]   pretty much at the center of the body close to you.
+[00:15:22.040 --> 00:15:25.120]   And I've tried that myself without putting it underneath
+[00:15:25.120 --> 00:15:27.320]   the sheet and just having it there.
+[00:15:27.320 --> 00:15:29.480]   And I thought, well, you know, that's,
+[00:15:29.480 --> 00:15:31.240]   you know, that may disturb my sleeve
+[00:15:31.240 --> 00:15:34.000]   because then you have a card laying there,
+[00:15:34.000 --> 00:15:37.680]   but actually I never even noticed the physical.
+[00:15:37.680 --> 00:15:40.120]   It never bothered me at all.
+[00:15:40.120 --> 00:15:42.360]   And it actually worked pretty well.
+[00:15:42.360 --> 00:15:44.960]   And I've tested that like with the inner piece card,
+[00:15:44.960 --> 00:15:46.640]   which actually works really good at night.
+[00:15:46.640 --> 00:15:50.080]   It's always the first go-to I recommend for people,
+[00:15:50.080 --> 00:15:51.200]   you know, to try at night
+[00:15:51.200 --> 00:15:53.240]   before they move to the sleep and rest card
+[00:15:53.240 --> 00:15:54.960]   or the common rest, I must say.
+[00:15:54.960 --> 00:15:59.360]   Even though it can be well worn during the day,
+[00:15:59.360 --> 00:16:00.920]   it doesn't make you sleepy, right?
+[00:16:00.920 --> 00:16:04.440]   It just helps to balance the mind and all that.
+[00:16:04.440 --> 00:16:07.760]   And I've tested that and I liked it underneath the pillow,
+[00:16:07.760 --> 00:16:10.360]   but it had an even greater effect
+[00:16:10.360 --> 00:16:14.480]   when I had it closer to like the solar plexus.
+[00:16:14.480 --> 00:16:16.720]   For example, which I thought was interesting
+[00:16:16.720 --> 00:16:19.960]   because that's actually where you could say
+[00:16:19.960 --> 00:16:23.560]   that's kind of like the center of our inner piece anyway,
+[00:16:23.560 --> 00:16:25.040]   not the solar plexus.
+[00:16:25.040 --> 00:16:26.240]   - Okay. - Checker out wise.
+[00:16:26.240 --> 00:16:28.240]   - Yeah. - So.
+[00:16:28.240 --> 00:16:30.640]   - Okay, so yeah, and then you'd mentioned earlier
+[00:16:30.640 --> 00:16:31.520]   that same thing, right?
+[00:16:31.520 --> 00:16:33.560]   You know, if you wear the heel as a capsule,
+[00:16:33.560 --> 00:16:36.160]   as a necklace, then having it over your heart chakra
+[00:16:36.160 --> 00:16:37.520]   is probably the best place to put it.
+[00:16:37.520 --> 00:16:40.160]   So all right, so that's how you would get
+[00:16:40.160 --> 00:16:42.000]   the most optimal benefit from it.
+[00:16:42.000 --> 00:16:45.120]   Keep in mind the size of the field and staying
+[00:16:45.120 --> 00:16:48.440]   and then the best way to wear these and carry them
+[00:16:48.440 --> 00:16:51.640]   so that you can get the most out of your product.
+[00:16:51.640 --> 00:16:56.160]   Now in terms of strength, in our block series tutorials,
+[00:16:56.160 --> 00:17:00.520]   we talked about strength in terms of consciousness levels.
+[00:17:00.520 --> 00:17:01.920]   So I didn't wanna throw this out there
+[00:17:01.920 --> 00:17:06.080]   'cause I wasn't sure if that concept applied
+[00:17:06.080 --> 00:17:07.520]   to a capsule and a card.
+[00:17:07.520 --> 00:17:11.400]   So is there a consciousness level for these devices?
+[00:17:11.400 --> 00:17:12.960]   Like you would find in a block?
+[00:17:12.960 --> 00:17:18.640]   - Yes, actually you can find that
+[00:17:18.640 --> 00:17:20.120]   and you can measure that.
+[00:17:20.120 --> 00:17:23.320]   The only problem is that I don't think
+[00:17:23.320 --> 00:17:28.320]   I have those levels, but we measured the cards.
+[00:17:28.320 --> 00:17:31.960]   (laughs)
+[00:17:31.960 --> 00:17:33.120]   I'm trying to find it here
+[00:17:33.120 --> 00:17:35.880]   because I'd send it to myself at some point.
+[00:17:35.880 --> 00:17:39.080]   - Okay. - So there's definitely--
+[00:17:39.080 --> 00:17:42.040]   Maybe I can find it here throughout the time,
+[00:17:42.040 --> 00:17:43.920]   but there is definitely level,
+[00:17:43.920 --> 00:17:47.120]   but it's still completely different from a block
+[00:17:47.120 --> 00:17:50.800]   and that's what people need to not kind of fuse then
+[00:17:50.800 --> 00:17:54.320]   because the block works completely different
+[00:17:54.320 --> 00:17:56.680]   than the capsule or the card,
+[00:17:56.680 --> 00:17:59.800]   but you can still measure where it is
+[00:17:59.800 --> 00:18:02.080]   on the Hawkins scale, for example.
+[00:18:02.080 --> 00:18:05.200]   - Okay.
+[00:18:05.200 --> 00:18:07.640]   So what, okay, I'll tell you what.
+[00:18:07.640 --> 00:18:10.720]   We're gonna keep going and then you can send it to me later.
+[00:18:10.720 --> 00:18:13.560]   I'll fill in the blanks and then when people get a copy of this,
+[00:18:13.560 --> 00:18:15.920]   they'll see what those numbers are.
+[00:18:15.920 --> 00:18:17.800]   That's kind of give you everyone an idea
+[00:18:17.800 --> 00:18:19.840]   and obviously the cards would be less than the capsules
+[00:18:19.840 --> 00:18:21.280]   'cause the capsules are stronger.
+[00:18:21.280 --> 00:18:22.120]   But no, that's great.
+[00:18:22.120 --> 00:18:24.280]   - Yeah, the caveat, I must say,
+[00:18:24.280 --> 00:18:27.360]   so what I'll give you for the card that we measured,
+[00:18:27.360 --> 00:18:29.680]   it's different for the different cards
+[00:18:29.680 --> 00:18:31.680]   and it doesn't apply to every card
+[00:18:31.680 --> 00:18:33.600]   and then also some of those cards.
+[00:18:34.480 --> 00:18:37.880]   - Yeah, so the cards are charged with different levels
+[00:18:37.880 --> 00:18:39.320]   and not every card is the same.
+[00:18:39.320 --> 00:18:41.720]   So let's not put just one value in there.
+[00:18:41.720 --> 00:18:44.200]   I'll give you a range of where they are
+[00:18:44.200 --> 00:18:46.760]   and I think that'll be best
+[00:18:46.760 --> 00:18:50.720]   because otherwise we're gonna give out false information.
+[00:18:50.720 --> 00:18:54.480]   - Okay, so I'm just gonna make some notes here.
+[00:18:54.480 --> 00:18:55.920]   Depends on cards, right?
+[00:18:55.920 --> 00:19:00.760]   Okay, all right, so that's good to know.
+[00:19:00.760 --> 00:19:02.800]   I didn't know that, so okay, all right.
+[00:19:04.120 --> 00:19:04.960]   I'll fix this.
+[00:19:04.960 --> 00:19:06.760]   Okay, so we'll go ahead and leave it at that.
+[00:19:06.760 --> 00:19:08.440]   That's the technical specs.
+[00:19:08.440 --> 00:19:10.240]   Now, let's get into--
+[00:19:10.240 --> 00:19:12.240]   - They're all above 500, by the way,
+[00:19:12.240 --> 00:19:14.080]   so they're all the way above 500.
+[00:19:14.080 --> 00:19:15.080]   - Wow, that's pretty cool.
+[00:19:15.080 --> 00:19:16.840]   - I think it's interesting, you know,
+[00:19:16.840 --> 00:19:19.200]   that's the, I think that's the level
+[00:19:19.200 --> 00:19:23.640]   of unconditional love that Hawkins describes.
+[00:19:23.640 --> 00:19:25.600]   - That's cool, that's very cool.
+[00:19:25.600 --> 00:19:27.560]   Okay, so we've talked about the idea
+[00:19:27.560 --> 00:19:29.880]   that the frequency is one subject,
+[00:19:29.880 --> 00:19:33.040]   energy is another, energy supports frequency
+[00:19:33.040 --> 00:19:34.520]   and broadcasts it.
+[00:19:34.520 --> 00:19:38.960]   So then now let's talk about the things you can do
+[00:19:38.960 --> 00:19:42.120]   or that these item, these devices do, right?
+[00:19:42.120 --> 00:19:44.720]   And so one of the things that these two things can do
+[00:19:44.720 --> 00:19:46.360]   is charge stuff.
+[00:19:46.360 --> 00:19:50.400]   And by the word charge, I'm implying that it can,
+[00:19:50.400 --> 00:19:53.160]   because it holds quantum energy,
+[00:19:53.160 --> 00:19:56.440]   it can then share that quantum energy
+[00:19:56.440 --> 00:19:59.560]   to another thing, stuff, right?
+[00:19:59.560 --> 00:20:01.240]   And so, Philip, what I've got
+[00:20:01.240 --> 00:20:02.600]   this kind of this blank template here
+[00:20:02.600 --> 00:20:04.280]   and I thought we could just talk about it
+[00:20:04.280 --> 00:20:05.720]   as to like, is it possible?
+[00:20:05.720 --> 00:20:07.160]   And if it is, what would you, you know,
+[00:20:07.160 --> 00:20:08.680]   how would you go about it?
+[00:20:08.680 --> 00:20:10.800]   So let's start off with what we did talk about
+[00:20:10.800 --> 00:20:13.160]   in the technical specs conversation,
+[00:20:13.160 --> 00:20:16.040]   you know, about how this quantum energy
+[00:20:16.040 --> 00:20:21.040]   in the capsule in the card can quote charge people and pets.
+[00:20:21.040 --> 00:20:26.520]   And so, I guess the number one question about, you know,
+[00:20:26.520 --> 00:20:29.320]   when it's like, if it's next to me,
+[00:20:29.320 --> 00:20:32.120]   is it's giving me quantum energy, right?
+[00:20:32.120 --> 00:20:36.840]   - Yes, so it does that end the frequency
+[00:20:36.840 --> 00:20:40.240]   and there's one very important distinction
+[00:20:40.240 --> 00:20:42.320]   that we'll come back to while we,
+[00:20:42.320 --> 00:20:45.240]   as we go through these different line items here.
+[00:20:45.240 --> 00:20:49.320]   So you can charge yourself, you know,
+[00:20:49.320 --> 00:20:52.080]   your pet, your plan, you can charge water
+[00:20:52.080 --> 00:20:53.320]   and things like that.
+[00:20:53.320 --> 00:20:58.320]   But any like dense object doesn't take on the frequency
+[00:20:59.480 --> 00:21:01.400]   energy, which is an important factor.
+[00:21:01.400 --> 00:21:06.400]   So there is no regular bleed over off a frequency
+[00:21:06.400 --> 00:21:09.400]   that then sticks in a different object.
+[00:21:09.400 --> 00:21:11.760]   You know, if you take a chess piece, for example,
+[00:21:11.760 --> 00:21:13.240]   and put it next to the capsule
+[00:21:13.240 --> 00:21:18.240]   or next to the card or some other metal your phone,
+[00:21:18.240 --> 00:21:22.920]   it does not take on the frequency.
+[00:21:22.920 --> 00:21:24.920]   And therefore, you can also have
+[00:21:24.920 --> 00:21:28.280]   two or three or four different frequency cards
+[00:21:28.280 --> 00:21:29.920]   are relatively close to each other
+[00:21:29.920 --> 00:21:34.920]   and they don't spill over each other.
+[00:21:34.920 --> 00:21:37.760]   So that is not possible.
+[00:21:37.760 --> 00:21:39.240]   However, you could still,
+[00:21:39.240 --> 00:21:42.360]   and that's where it gets really into the woo-woo.
+[00:21:42.360 --> 00:21:47.360]   You can still charge a denser object
+[00:21:47.360 --> 00:21:50.160]   with the heel capsule, for example,
+[00:21:50.160 --> 00:21:52.440]   but you have to use your intention to do it.
+[00:21:52.440 --> 00:21:53.840]   It doesn't work any other way.
+[00:21:53.840 --> 00:21:55.880]   And I'm sorry that this is a woo-woo,
+[00:21:55.880 --> 00:21:59.320]   but we fit that over and over again.
+[00:21:59.320 --> 00:22:01.440]   It doesn't do it on its own.
+[00:22:01.440 --> 00:22:03.880]   - All right, so what we're talking about
+[00:22:03.880 --> 00:22:08.880]   is quantum energy being emitted
+[00:22:08.880 --> 00:22:13.000]   from one of these objects into something else,
+[00:22:13.000 --> 00:22:16.120]   you know, in a very positive way.
+[00:22:16.120 --> 00:22:18.960]   So now we talked about people and pets, right?
+[00:22:18.960 --> 00:22:23.040]   So if you wanted them to benefit from a capsule or a card,
+[00:22:23.040 --> 00:22:24.400]   that's what we just covered.
+[00:22:24.400 --> 00:22:27.280]   You wear it correctly or carry the card correctly,
+[00:22:27.280 --> 00:22:29.560]   you know, keeping it close within the field, right?
+[00:22:29.560 --> 00:22:32.480]   So now, very good to know about the cards,
+[00:22:32.480 --> 00:22:34.720]   but okay, let's start with the food and water.
+[00:22:34.720 --> 00:22:36.280]   So a lot of folks have asked,
+[00:22:36.280 --> 00:22:38.280]   like, how do I charge a plate of food
+[00:22:38.280 --> 00:22:39.720]   if all I own is a capsule?
+[00:22:39.720 --> 00:22:42.560]   Or can I put a glass of water on a card,
+[00:22:42.560 --> 00:22:43.400]   you know, that sort of thing?
+[00:22:43.400 --> 00:22:45.440]   So let's just start with capsules.
+[00:22:45.440 --> 00:22:50.360]   So if I had a plate of food and I had a capsule,
+[00:22:50.360 --> 00:22:53.640]   you know, is there a way to charge the food with a capsule?
+[00:22:55.040 --> 00:22:57.640]   And you just mentioned, if you use intention,
+[00:22:57.640 --> 00:22:58.800]   so how would that work?
+[00:22:58.800 --> 00:23:04.800]   - So food usually is not very dense
+[00:23:04.800 --> 00:23:08.200]   and it really depends on what type of food it is,
+[00:23:08.200 --> 00:23:11.600]   but if it's the less dense it is, the easier it is,
+[00:23:11.600 --> 00:23:14.040]   because then it contains a lot of water
+[00:23:14.040 --> 00:23:17.880]   and water absorbs energy very, very well and easily.
+[00:23:17.880 --> 00:23:22.520]   So anything that's really not that dense,
+[00:23:22.520 --> 00:23:24.080]   you know, starting with the soup, for example,
+[00:23:24.080 --> 00:23:27.240]   like a soup would be like the quickest to charge
+[00:23:27.240 --> 00:23:29.120]   and easiest to charge.
+[00:23:29.120 --> 00:23:32.120]   And then I don't know what will be a very dense one.
+[00:23:32.120 --> 00:23:33.720]   - Steak.
+[00:23:33.720 --> 00:23:38.720]   - Yeah, like a super well done steak, right?
+[00:23:38.720 --> 00:23:42.400]   (laughing)
+[00:23:42.400 --> 00:23:43.240]   - It's delicious.
+[00:23:43.240 --> 00:23:48.240]   - So that would take longer, but yeah, you can do it.
+[00:23:48.240 --> 00:23:52.160]   You would have to put the capsule
+[00:23:52.160 --> 00:23:57.160]   ideally next to the steak or next to the glass of water
+[00:23:57.160 --> 00:23:59.080]   and then leave it there for a little bit.
+[00:23:59.080 --> 00:24:00.920]   You know, you'll never gonna get a result
+[00:24:00.920 --> 00:24:04.840]   that the blocks could do, that it's just absolutely impossible,
+[00:24:04.840 --> 00:24:07.720]   but you will get at least a neutralization
+[00:24:07.720 --> 00:24:12.720]   of some of the energies that you don't want in meat,
+[00:24:12.720 --> 00:24:17.920]   for example, in meat, always an animal was killed, okay?
+[00:24:17.920 --> 00:24:20.040]   And you always have that energy within it.
+[00:24:20.040 --> 00:24:22.880]   We just need to be aware of it, doesn't mean
+[00:24:22.880 --> 00:24:26.760]   that we don't have to eat meat, we should need that much,
+[00:24:26.760 --> 00:24:30.400]   but if we eat meat, fine, but let's be aware of that.
+[00:24:30.400 --> 00:24:33.200]   And with the capsule, for example, or the blocks
+[00:24:33.200 --> 00:24:38.200]   you can eliminate then, you know, this energy of suffering.
+[00:24:38.200 --> 00:24:40.720]   - Okay, oh no, that's a good point.
+[00:24:40.720 --> 00:24:43.240]   That's a big deal in Buddhism as well.
+[00:24:43.240 --> 00:24:48.280]   Okay, so to use a capsule
+[00:24:50.160 --> 00:24:53.560]   charge food and water, I need to place it next to it.
+[00:24:53.560 --> 00:24:54.720]   And you said for a few minutes,
+[00:24:54.720 --> 00:24:58.080]   do you have a guideline on how many minutes that is?
+[00:24:58.080 --> 00:24:59.800]   What's a few mean to you?
+[00:24:59.800 --> 00:25:05.280]   - Yeah, so I think to get just a basic quick charge
+[00:25:05.280 --> 00:25:09.440]   for water, two, three minutes, that's what I would recommend.
+[00:25:09.440 --> 00:25:12.560]   And if you wanna have a really nicely charged,
+[00:25:12.560 --> 00:25:16.920]   leave it there for 10, 15 minutes with the steak,
+[00:25:16.920 --> 00:25:20.920]   you know, probably the ideal way is to,
+[00:25:20.920 --> 00:25:24.280]   before you actually grill it, to do it,
+[00:25:24.280 --> 00:25:26.320]   because then you can have it sit there longer,
+[00:25:26.320 --> 00:25:29.960]   because once you grill it, you're probably in a rush
+[00:25:29.960 --> 00:25:32.360]   to eat it because you don't wanna eat it cold, right?
+[00:25:32.360 --> 00:25:37.360]   So I think the minimum for a steak, also two, three minutes,
+[00:25:37.360 --> 00:25:43.360]   that would be the absolute minimum laying right next to it.
+[00:25:43.360 --> 00:25:47.120]   But if you want an even deeper charge,
+[00:25:47.120 --> 00:25:49.080]   also 10 to 15 minutes.
+[00:25:49.080 --> 00:25:51.480]   - Okay, I'm just gonna, okay, so--
+[00:25:51.480 --> 00:25:52.760]   - In the water, it's the case,
+[00:25:52.760 --> 00:25:54.920]   so if you have the capsule next to the water,
+[00:25:54.920 --> 00:25:57.920]   probably within 20 seconds already,
+[00:25:57.920 --> 00:26:00.880]   you already have some of the frequency in.
+[00:26:00.880 --> 00:26:03.560]   There's already a change happening,
+[00:26:03.560 --> 00:26:06.240]   but I mean, you may as well really wait a little longer
+[00:26:06.240 --> 00:26:09.080]   and just have it charged even deeper.
+[00:26:09.080 --> 00:26:11.240]   - Okay, and you know, and okay,
+[00:26:11.240 --> 00:26:14.200]   so it's safe to say generalizing, you know, generalizing,
+[00:26:14.200 --> 00:26:15.840]   'cause these are all guidelines, folks,
+[00:26:15.840 --> 00:26:18.480]   this is not an exact science.
+[00:26:18.480 --> 00:26:20.040]   When we talk about frequency and energy
+[00:26:20.040 --> 00:26:23.080]   and all that stuff, it's very, very subjective.
+[00:26:23.080 --> 00:26:26.040]   - Yes, and then we have the differences, right?
+[00:26:26.040 --> 00:26:29.320]   If you have a big porterhouse steak bone inside,
+[00:26:29.320 --> 00:26:32.400]   and then you have a small fillet mignon.
+[00:26:32.400 --> 00:26:34.360]   So they're nuances, so you just--
+[00:26:34.360 --> 00:26:38.040]   - Yeah, so with these times, you'll cover it all.
+[00:26:38.040 --> 00:26:42.000]   - Okay, so in general, if you've got food and water,
+[00:26:42.000 --> 00:26:44.480]   two to three minutes, place it right next to it,
+[00:26:44.480 --> 00:26:46.160]   and then optimally 10 to 15.
+[00:26:46.160 --> 00:26:47.320]   So I'm gonna ask you the question
+[00:26:47.320 --> 00:26:49.720]   though that people are gonna ask is,
+[00:26:49.720 --> 00:26:51.880]   do I do this before, if does it make a difference?
+[00:26:51.880 --> 00:26:54.480]   If I do it before I cook it, or after I cook it?
+[00:26:54.480 --> 00:26:57.740]   - Doesn't really make a difference, and--
+[00:26:57.740 --> 00:26:58.580]   - I didn't think--
+[00:26:58.580 --> 00:26:59.420]   - Yeah, I would do it before
+[00:26:59.420 --> 00:27:00.840]   and now we don't have to worry about time,
+[00:27:00.840 --> 00:27:01.720]   your food getting cold.
+[00:27:01.720 --> 00:27:03.080]   - Yeah, yeah.
+[00:27:03.080 --> 00:27:03.920]   - Yeah, exactly.
+[00:27:03.920 --> 00:27:05.800]   And unless you have, if you have, you know, a salad,
+[00:27:05.800 --> 00:27:09.000]   for example, you know, that you make,
+[00:27:09.000 --> 00:27:11.960]   and then you put the dressing on, you know, you can--
+[00:27:11.960 --> 00:27:14.000]   I mean, that's obvious, you don't have to cook that anymore,
+[00:27:14.000 --> 00:27:14.840]   so--
+[00:27:14.840 --> 00:27:16.440]   (laughing)
+[00:27:16.440 --> 00:27:18.760]   - Yeah, okay, so, and also I wanna point out
+[00:27:18.760 --> 00:27:20.640]   people have asked about, you know,
+[00:27:20.640 --> 00:27:22.640]   how do I charge the food in my refrigerator
+[00:27:22.640 --> 00:27:24.360]   if all I have is a capsule?
+[00:27:24.360 --> 00:27:28.960]   Just keep in mind, you know, the field of a capsule, right?
+[00:27:28.960 --> 00:27:30.680]   So if it's fully, you know, if you just,
+[00:27:30.680 --> 00:27:33.960]   if I place one capsule in my fridge
+[00:27:33.960 --> 00:27:37.320]   because of the field strength, would it,
+[00:27:37.320 --> 00:27:39.880]   like basically, you know, and I left it in overnight,
+[00:27:39.880 --> 00:27:42.200]   would everything in my fridge kind of benefit?
+[00:27:42.200 --> 00:27:44.320]   I mean, would I have that same effect?
+[00:27:44.320 --> 00:27:46.600]   Or do I really need to put it right next to it?
+[00:27:46.600 --> 00:27:50.840]   - Yeah, I would say you would have to put it right next to it,
+[00:27:50.840 --> 00:27:53.120]   so everything that's in very close proximity
+[00:27:53.120 --> 00:27:57.320]   will have a benefit, and maybe some of these items
+[00:27:57.320 --> 00:28:00.960]   will also have a benefit, like the liquids, you know,
+[00:28:00.960 --> 00:28:02.400]   we haven't really tested that,
+[00:28:02.400 --> 00:28:07.240]   how does it go through the plastics, et cetera?
+[00:28:07.240 --> 00:28:11.320]   So, you know, I think, honestly, for the fridge,
+[00:28:11.320 --> 00:28:12.680]   if you wanna cover the whole fridge,
+[00:28:12.680 --> 00:28:15.420]   I think you need to put like three capsules in there.
+[00:28:15.420 --> 00:28:18.920]   - Okay. - That's what I'm getting.
+[00:28:18.920 --> 00:28:21.800]   - Okay, so, key thing, yeah, yeah, okay,
+[00:28:21.800 --> 00:28:23.000]   so that's very important.
+[00:28:23.000 --> 00:28:25.440]   Put it next to what you wanna charge
+[00:28:25.440 --> 00:28:27.520]   or have more than one capsule.
+[00:28:27.520 --> 00:28:29.160]   Okay, 'cause that's a big deal, right?
+[00:28:29.160 --> 00:28:30.800]   And everybody wants to charge their food and water.
+[00:28:30.800 --> 00:28:32.480]   That's the first thing I ever did,
+[00:28:32.480 --> 00:28:35.080]   start doing what's charging my food and water.
+[00:28:35.080 --> 00:28:39.120]   So, the concept too now, with supplements and medicines,
+[00:28:39.120 --> 00:28:41.560]   is that the same concept as food and water, right?
+[00:28:41.560 --> 00:28:43.120]   I can't imagine it'd be different.
+[00:28:43.120 --> 00:28:44.680]   I know that we've always been very cautious
+[00:28:44.680 --> 00:28:47.200]   about medicines, and then supplements,
+[00:28:47.200 --> 00:28:48.760]   but would it be the same concept?
+[00:28:48.760 --> 00:28:52.160]   I just place it next to it, two to three minutes.
+[00:28:52.160 --> 00:28:54.200]   Okay, so it's pretty much all the same.
+[00:28:54.200 --> 00:28:57.920]   You know, just like with blocks though,
+[00:28:57.920 --> 00:29:01.200]   I mean, the IB, is there any issue with medicines?
+[00:29:01.200 --> 00:29:06.160]   - So, that's something where I don't really wanna make
+[00:29:06.160 --> 00:29:08.800]   a recommendation because we didn't test that.
+[00:29:08.800 --> 00:29:09.640]   - Okay.
+[00:29:09.640 --> 00:29:11.200]   - And I just don't wanna speak about, you know,
+[00:29:11.200 --> 00:29:14.800]   pharma products if we haven't tested it.
+[00:29:14.800 --> 00:29:16.440]   So, I would say at this point,
+[00:29:16.440 --> 00:29:18.720]   I don't recommend people do that.
+[00:29:18.720 --> 00:29:22.400]   And I don't think that there would be an issue,
+[00:29:22.400 --> 00:29:25.360]   but it's still something I'd rather look into it.
+[00:29:25.360 --> 00:29:27.480]   - Okay. - Before I talk about it.
+[00:29:27.480 --> 00:29:28.560]   - Yeah, I agree.
+[00:29:28.560 --> 00:29:31.960]   Okay, so now for plants, you know,
+[00:29:31.960 --> 00:29:36.120]   we've got the great Jack Newell experiment
+[00:29:36.120 --> 00:29:40.440]   and the rest in peace, where he basically took capsules
+[00:29:40.440 --> 00:29:43.640]   and stuck them in the dirt in all of his house plants.
+[00:29:43.640 --> 00:29:45.800]   And the plants just like all of a sudden,
+[00:29:45.800 --> 00:29:49.120]   they were went from dying to thriving, you know?
+[00:29:49.120 --> 00:29:52.360]   So, it's the same concept as food and water, right?
+[00:29:52.360 --> 00:29:57.120]   If you wanted to help a plant and all you had was a capsule,
+[00:29:57.120 --> 00:30:00.760]   then literally sticking it in the dirt right next to the plant
+[00:30:00.760 --> 00:30:02.720]   and leaving it there would be,
+[00:30:02.720 --> 00:30:04.680]   is that something you would recommend?
+[00:30:04.680 --> 00:30:08.640]   - Partially, so because what we found out
+[00:30:08.640 --> 00:30:11.880]   that plants actually don't really like to have metals
+[00:30:11.880 --> 00:30:14.200]   close to their roots.
+[00:30:14.200 --> 00:30:18.880]   And that was an interesting one that we found out.
+[00:30:18.880 --> 00:30:23.880]   So, if you can charge the pot, for example,
+[00:30:24.480 --> 00:30:27.360]   or you can have it very close to the pot,
+[00:30:27.360 --> 00:30:32.360]   or have something be very, maybe stick it in,
+[00:30:32.360 --> 00:30:35.600]   but don't stick it in deep
+[00:30:35.600 --> 00:30:38.160]   because you don't want to get close to the roots.
+[00:30:38.160 --> 00:30:41.280]   Yes, and that's really the metal itself.
+[00:30:41.280 --> 00:30:43.760]   It's just the metal that they don't like
+[00:30:43.760 --> 00:30:47.320]   to have close to the roots.
+[00:30:47.320 --> 00:30:49.120]   - Okay. - But if you can get it close,
+[00:30:49.120 --> 00:30:52.680]   then absolutely, yeah, it totally is great
+[00:30:52.680 --> 00:30:54.800]   for the plants, they love it.
+[00:30:54.800 --> 00:30:57.840]   - Okay, and then, and that's something that you would do
+[00:30:57.840 --> 00:31:02.760]   10, 15 minutes or leave it there for a day or so.
+[00:31:02.760 --> 00:31:05.640]   'Cause we're talking about that's alive.
+[00:31:05.640 --> 00:31:07.720]   - Well, I mean, frankly, it frankly depends.
+[00:31:07.720 --> 00:31:10.160]   You can leave it in there for a very, very long time.
+[00:31:10.160 --> 00:31:13.560]   Like we have this greenhouse where we have an infinity block.
+[00:31:13.560 --> 00:31:15.240]   Now, we don't want to really talk about that,
+[00:31:15.240 --> 00:31:18.200]   but that's there at all times, frankly.
+[00:31:18.200 --> 00:31:20.880]   So, and you can charge a pot with,
+[00:31:20.880 --> 00:31:22.800]   you know, your specific plant food
+[00:31:22.800 --> 00:31:25.760]   or with a healful plant frequency.
+[00:31:25.760 --> 00:31:28.640]   And that can be constant because it's not,
+[00:31:28.640 --> 00:31:30.360]   you know, it's not going to overwhelm the plant.
+[00:31:30.360 --> 00:31:34.040]   It's just going to be a constant support of the plant.
+[00:31:34.040 --> 00:31:35.280]   - Okay, yeah, 'cause it's a living thing.
+[00:31:35.280 --> 00:31:37.280]   - And here again, just for people,
+[00:31:37.280 --> 00:31:39.280]   just in case they may have understood
+[00:31:39.280 --> 00:31:41.360]   what I meant with the metal and the roots.
+[00:31:41.360 --> 00:31:46.120]   So, if you had a card that you wanted to leverage,
+[00:31:46.120 --> 00:31:49.320]   let's say the heal for plants card,
+[00:31:49.320 --> 00:31:54.320]   then rather lay it on the pot, right?
+[00:31:54.320 --> 00:31:58.720]   On the soil, on top, rather than trying to stick it
+[00:31:58.720 --> 00:32:01.480]   inside the pot, if that makes sense.
+[00:32:01.480 --> 00:32:03.840]   - Okay, all right, I mean, okay.
+[00:32:03.840 --> 00:32:08.840]   So, place capsule next to container not in the dirt.
+[00:32:08.840 --> 00:32:12.440]   Okay, so, okay, 'cause plants aren't happy.
+[00:32:12.440 --> 00:32:14.880]   Okay, no, that's very helpful.
+[00:32:14.880 --> 00:32:16.560]   Okay, so then, you know,
+[00:32:16.560 --> 00:32:18.320]   and then just, you know, the other thing I was thinking about
+[00:32:18.320 --> 00:32:22.560]   is like we had a recommendation way back in the beginning
+[00:32:22.560 --> 00:32:26.480]   where we could, you were, I think it was you, right?
+[00:32:26.480 --> 00:32:29.600]   We were basically talking about I have a cell phone
+[00:32:29.600 --> 00:32:31.880]   and all I have is a heal capsule, you know,
+[00:32:31.880 --> 00:32:35.840]   and then the idea was, well, if I lay my phone
+[00:32:35.840 --> 00:32:39.400]   on top of my capsule, it helps mitigate the radiation
+[00:32:39.400 --> 00:32:40.560]   coming from the phone.
+[00:32:40.560 --> 00:32:41.520]   Is that accurate?
+[00:32:41.520 --> 00:32:44.800]   Like place it next to it?
+[00:32:44.800 --> 00:32:46.480]   - Sorry, Kay, if you can hear me,
+[00:32:46.480 --> 00:32:48.760]   can you please repeat the question, I apologize,
+[00:32:48.760 --> 00:32:50.320]   but the internet was wonky again.
+[00:32:50.320 --> 00:32:51.360]   - Oh, and yeah, yeah, no worries.
+[00:32:51.360 --> 00:32:55.160]   Okay, so in terms of like cell phones and routers,
+[00:32:55.160 --> 00:32:57.280]   if I, if there was a time, right,
+[00:32:57.280 --> 00:32:59.720]   where I think there was a recommendation where, you know,
+[00:32:59.720 --> 00:33:03.080]   people asked about it and the response was,
+[00:33:03.080 --> 00:33:05.280]   just lay your phone on top of the capsule
+[00:33:05.280 --> 00:33:06.920]   for like, I forgot how long,
+[00:33:06.920 --> 00:33:10.920]   but, and then that would actually help mitigate the EMF
+[00:33:10.920 --> 00:33:12.480]   from the device.
+[00:33:12.480 --> 00:33:13.480]   Is that accurate?
+[00:33:13.480 --> 00:33:16.920]   - Yeah, I don't think you can do that constantly,
+[00:33:16.920 --> 00:33:21.400]   like you can't charge it that way that it, that it does that.
+[00:33:21.400 --> 00:33:25.280]   I mean, you can have it next to it all the time.
+[00:33:25.280 --> 00:33:28.320]   And while it's next to it, yes, that's the case,
+[00:33:28.320 --> 00:33:31.460]   but you can't charge the phone that way.
+[00:33:31.460 --> 00:33:33.560]   - So there's no way to charge.
+[00:33:33.560 --> 00:33:37.000]   - In order to really protect against EMFs,
+[00:33:37.000 --> 00:33:38.080]   that's not possible.
+[00:33:38.080 --> 00:33:38.920]   You'd have to have to have a block.
+[00:33:38.920 --> 00:33:40.360]   - It's better just to wear it, right?
+[00:33:40.360 --> 00:33:41.200]   We just wear it.
+[00:33:41.200 --> 00:33:42.480]   - Yeah, absolutely.
+[00:33:42.480 --> 00:33:44.800]   - All right, so it doesn't charge electronics
+[00:33:44.800 --> 00:33:47.360]   'cause of this whole dense object rule.
+[00:33:47.360 --> 00:33:49.560]   And so then other stuff, it pretty much applies.
+[00:33:49.560 --> 00:33:52.480]   So would it be safe to say that
+[00:33:52.480 --> 00:33:58.760]   the purpose of these devices is primarily for living things
+[00:33:58.760 --> 00:34:03.320]   and that are high in water, pretty much, right?
+[00:34:03.320 --> 00:34:04.160]   - Yes.
+[00:34:04.160 --> 00:34:06.360]   - Yeah, okay, so plants, humans, pets,
+[00:34:06.360 --> 00:34:09.520]   things of water food, you know, got a lot of water in it.
+[00:34:09.520 --> 00:34:11.400]   And that's really what these are meant for.
+[00:34:11.400 --> 00:34:14.680]   If you want to charge bigger things, denser things
+[00:34:14.680 --> 00:34:19.400]   like your phone, your bike, car, you know, bed,
+[00:34:19.400 --> 00:34:21.600]   then you would need to get a block.
+[00:34:21.600 --> 00:34:24.000]   So that, is that an accurate statement?
+[00:34:24.000 --> 00:34:24.840]   - Exactly.
+[00:34:24.840 --> 00:34:26.080]   And like you said initially, you know,
+[00:34:26.080 --> 00:34:29.720]   we're energy beings and so are animals and plants.
+[00:34:29.720 --> 00:34:32.720]   And so obviously on the physical level,
+[00:34:32.720 --> 00:34:34.840]   the water is, and the blood, you know,
+[00:34:34.840 --> 00:34:37.000]   is obviously very receptive,
+[00:34:37.000 --> 00:34:40.920]   but the whole energy system can leverage these frequencies
+[00:34:40.920 --> 00:34:42.280]   in a very easy manner.
+[00:34:42.280 --> 00:34:46.000]   - Oh yeah, yeah, yeah, okay.
+[00:34:46.000 --> 00:34:49.000]   Okay, so yeah, I'm hoping this is really clear.
+[00:34:49.000 --> 00:34:50.440]   It's really clearing up for me too,
+[00:34:50.440 --> 00:34:53.040]   'cause I really honestly never really played
+[00:34:53.040 --> 00:34:54.880]   much around with the capsules,
+[00:34:54.880 --> 00:34:56.360]   'cause I had the block from day one.
+[00:34:56.360 --> 00:34:59.000]   So I've always just tinkered with blocks.
+[00:34:59.000 --> 00:35:00.040]   So this is very helpful.
+[00:35:00.040 --> 00:35:03.360]   I know a lot of folks are working their way up, right?
+[00:35:03.360 --> 00:35:04.880]   And saving for blocks.
+[00:35:04.880 --> 00:35:07.240]   So in the meanwhile, you know, this is for you.
+[00:35:07.240 --> 00:35:09.720]   So you kind of can understand the boundaries
+[00:35:09.720 --> 00:35:14.520]   by which these devices can be used optimally.
+[00:35:14.520 --> 00:35:17.120]   So let's talk about the cards,
+[00:35:17.120 --> 00:35:20.280]   'cause the cards are so much weaker than a full sphere,
+[00:35:20.280 --> 00:35:22.240]   you know, five sphere capsule.
+[00:35:22.240 --> 00:35:26.720]   Can they actually charge, like if I were to take a card
+[00:35:26.720 --> 00:35:28.520]   and put it under a glass of water,
+[00:35:28.520 --> 00:35:31.800]   would it actually be able to impart energy
+[00:35:31.800 --> 00:35:34.080]   and then whatever the frequency was, right?
+[00:35:34.080 --> 00:35:37.760]   In the card, would it be able to impart that onto the water?
+[00:35:37.760 --> 00:35:41.320]   - Yes, absolutely, because water is so receptive.
+[00:35:41.320 --> 00:35:46.320]   And so unless you charge the water prior to that
+[00:35:46.320 --> 00:35:50.000]   in a block, you know, then that wouldn't be possible
+[00:35:50.000 --> 00:35:52.160]   to get this frequency in because the water
+[00:35:52.160 --> 00:35:55.920]   would already be kind of like sealed a little bit.
+[00:35:55.920 --> 00:35:58.440]   But other than that, yes, you can.
+[00:35:58.440 --> 00:36:03.440]   And I would say, you know, five to 25 minutes, maybe.
+[00:36:06.960 --> 00:36:10.320]   But again, water reacts super quickly.
+[00:36:10.320 --> 00:36:12.560]   So you'll have a first change probably already
+[00:36:12.560 --> 00:36:13.920]   after a minute.
+[00:36:13.920 --> 00:36:16.880]   - Okay, and then for food, I mean,
+[00:36:16.880 --> 00:36:21.800]   if I put like a plate of food on top of a card,
+[00:36:21.800 --> 00:36:22.880]   would that do anything?
+[00:36:22.880 --> 00:36:28.680]   - It depends a little bit on how dense the food is,
+[00:36:28.680 --> 00:36:31.320]   but I would say, yeah, you'll get some benefit.
+[00:36:31.320 --> 00:36:35.600]   It's gonna be less than with a capsule,
+[00:36:35.600 --> 00:36:36.720]   but you'll get some benefits.
+[00:36:36.720 --> 00:36:38.680]   But if you only have a card
+[00:36:38.680 --> 00:36:41.280]   and you still wanna do something good for your food,
+[00:36:41.280 --> 00:36:42.960]   then yeah, absolutely, you know,
+[00:36:42.960 --> 00:36:46.720]   put your steak on the card for 10 minutes.
+[00:36:46.720 --> 00:36:50.240]   And you'll have a better steak.
+[00:36:50.240 --> 00:36:52.720]   - Okay, all right.
+[00:36:52.720 --> 00:36:55.980]   So I'm gonna say five to 25 minutes is kind of a wide.
+[00:36:55.980 --> 00:36:59.160]   But you're so, yes.
+[00:36:59.160 --> 00:37:02.240]   So I would say five for minimal, 25 optimal, okay,
+[00:37:02.240 --> 00:37:04.360]   for you guys playing at home.
+[00:37:04.360 --> 00:37:06.700]   And so the same concept would be for supplements,
+[00:37:06.700 --> 00:37:09.340]   five to 25, would it be about right?
+[00:37:09.340 --> 00:37:11.920]   - Yes.
+[00:37:11.920 --> 00:37:14.040]   - Okay, unknown for medicines.
+[00:37:14.040 --> 00:37:17.000]   And then for plants, if I got the plant,
+[00:37:17.000 --> 00:37:20.040]   you know, heel for plant frequency card,
+[00:37:20.040 --> 00:37:22.520]   and I got an ailing plant,
+[00:37:22.520 --> 00:37:25.560]   would I just take the card and put it under the plant?
+[00:37:25.560 --> 00:37:28.200]   'Cause you don't wanna put it in the dirt, right?
+[00:37:28.200 --> 00:37:30.560]   - Yeah, that's what I would do.
+[00:37:30.560 --> 00:37:31.400]   - Okay.
+[00:37:31.400 --> 00:37:35.240]   - And I would leave it there for quite some time.
+[00:37:35.240 --> 00:37:40.240]   - Yeah. I'm just saying leave it there for a while.
+[00:37:40.240 --> 00:37:44.940]   Same thing, yes, yeah.
+[00:37:44.940 --> 00:37:48.300]   So your durations are for a while.
+[00:37:48.300 --> 00:37:50.900]   Okay, if with plants, plants are very special.
+[00:37:50.900 --> 00:37:52.340]   Okay.
+[00:37:52.340 --> 00:37:55.780]   And then if I had a cell phone and a card,
+[00:37:55.780 --> 00:37:56.740]   would it do anything?
+[00:37:56.740 --> 00:37:57.940]   It just same thing with,
+[00:37:57.940 --> 00:38:00.080]   it just really doesn't charge electronics.
+[00:38:00.080 --> 00:38:03.420]   - Yeah, that's not a point.
+[00:38:03.420 --> 00:38:06.040]   Also, if you have a cell phone and then, you know,
+[00:38:06.040 --> 00:38:09.100]   you have these little cases for the cell phone, right?
+[00:38:09.100 --> 00:38:13.460]   You could, one could think you'll put the card in there.
+[00:38:13.460 --> 00:38:15.100]   But then, you know, it's actually better
+[00:38:15.100 --> 00:38:16.540]   to have it right in your pocket
+[00:38:16.540 --> 00:38:18.900]   because then it supports you.
+[00:38:18.900 --> 00:38:21.420]   And then you don't really have to worry
+[00:38:21.420 --> 00:38:22.740]   about the cell phone.
+[00:38:22.740 --> 00:38:25.420]   - Okay, yeah, no, no, no, that's good.
+[00:38:25.420 --> 00:38:26.260]   Okay, great.
+[00:38:26.260 --> 00:38:29.300]   So this, I'm hoping everyone, there's some clarity
+[00:38:29.300 --> 00:38:32.660]   as to what these can and cannot do.
+[00:38:32.660 --> 00:38:34.100]   And that way it's really clear.
+[00:38:34.100 --> 00:38:37.060]   So let's talk about the available frequencies.
+[00:38:37.060 --> 00:38:39.860]   So we talked about energy and that energy enables
+[00:38:39.860 --> 00:38:41.980]   the devices to charge things.
+[00:38:41.980 --> 00:38:43.900]   It carries the frequency.
+[00:38:43.900 --> 00:38:45.700]   But then for the frequency themselves.
+[00:38:45.700 --> 00:38:49.860]   Now, on the website, if you wanna know the definition
+[00:38:49.860 --> 00:38:52.980]   or like what are these, there's a description
+[00:38:52.980 --> 00:38:53.900]   in the dropdown.
+[00:38:53.900 --> 00:38:56.580]   So you would select one of them, click on it,
+[00:38:56.580 --> 00:38:57.820]   and then there'll be a description
+[00:38:57.820 --> 00:39:01.980]   of what that frequency, you know, is for, right?
+[00:39:01.980 --> 00:39:04.660]   And so those are the, these are the current list
+[00:39:04.660 --> 00:39:05.500]   of frequencies.
+[00:39:05.500 --> 00:39:06.700]   We've got some new ones.
+[00:39:06.700 --> 00:39:08.340]   Not really sure on the names yet.
+[00:39:08.340 --> 00:39:10.420]   We might change the names.
+[00:39:10.420 --> 00:39:13.260]   But here's the current list of frequencies
+[00:39:13.260 --> 00:39:14.940]   that are available in Leleque.
+[00:39:14.940 --> 00:39:17.260]   We got three new ones that are coming.
+[00:39:17.260 --> 00:39:21.300]   The ones in blue are available as a capsule, right?
+[00:39:21.300 --> 00:39:25.440]   And then there's the newest one, which is your focus.
+[00:39:25.440 --> 00:39:29.220]   And so we did have a question from the group about focus
+[00:39:29.220 --> 00:39:34.140]   'cause it's, I recall the question was specific to,
+[00:39:34.140 --> 00:39:37.980]   there's some unique recommendation about the focus card.
+[00:39:37.980 --> 00:39:39.660]   It was like something about the first 24 hours.
+[00:39:39.660 --> 00:39:42.060]   Can we just touch on that real quick?
+[00:39:42.060 --> 00:39:44.420]   - Yes, oh, I would have forgotten that.
+[00:39:44.420 --> 00:39:45.700]   I'm glad you're bringing that up.
+[00:39:45.700 --> 00:39:48.620]   And I have even said in the group that we're gonna mention it.
+[00:39:48.620 --> 00:39:53.540]   So yes, so that one, because it can also,
+[00:39:53.540 --> 00:39:57.980]   so it really, to promote the really deep change,
+[00:39:57.980 --> 00:40:01.900]   it needs to be worn for 24 hours straight
+[00:40:01.900 --> 00:40:03.180]   in the first 24 hours.
+[00:40:03.180 --> 00:40:05.020]   And that doesn't mean that if you take a shower,
+[00:40:05.020 --> 00:40:06.820]   please don't take it in the shower.
+[00:40:06.820 --> 00:40:08.300]   Just take it off.
+[00:40:08.300 --> 00:40:11.340]   That is not a problem to put it away for a few minutes.
+[00:40:11.340 --> 00:40:12.540]   That's really not the issue.
+[00:40:12.540 --> 00:40:17.540]   But the point is to wear it really over this long period of time
+[00:40:17.540 --> 00:40:21.500]   because it can, so the focus card,
+[00:40:21.500 --> 00:40:26.500]   while really anybody can use it for better focus,
+[00:40:27.140 --> 00:40:28.820]   there are certain groups of people
+[00:40:28.820 --> 00:40:33.780]   that have a really, really, really big issue with focus, right?
+[00:40:33.780 --> 00:40:36.100]   And that goes into,
+[00:40:36.100 --> 00:40:42.780]   didn't really wanna talk about that, but like ADHD,
+[00:40:42.780 --> 00:40:45.340]   Alzheimer, these types of things weren't really,
+[00:40:45.340 --> 00:40:47.460]   this has nothing to do with the disease
+[00:40:47.460 --> 00:40:49.820]   or disease treatment or any of that.
+[00:40:49.820 --> 00:40:54.820]   But so there are just more severe issues also with focus
+[00:40:56.780 --> 00:40:58.340]   that people can have.
+[00:40:58.340 --> 00:41:01.900]   And we tested that.
+[00:41:01.900 --> 00:41:06.540]   And so having it straight for the first 24 hours
+[00:41:06.540 --> 00:41:11.380]   just gives a real opportunity to make some significant changes.
+[00:41:11.380 --> 00:41:14.940]   And then after that, it can be used as needed.
+[00:41:14.940 --> 00:41:17.220]   And we still recommend it for the first two weeks
+[00:41:17.220 --> 00:41:20.900]   after that probably for three to five hours a day.
+[00:41:20.900 --> 00:41:23.100]   If you wanna wear it longer, you can,
+[00:41:23.100 --> 00:41:25.020]   but it doesn't need to be, you know,
+[00:41:25.020 --> 00:41:27.940]   depth definitely you don't have to wear it at night.
+[00:41:27.940 --> 00:41:30.580]   And then after those first two weeks,
+[00:41:30.580 --> 00:41:35.060]   you can just use it whenever you think you want it,
+[00:41:35.060 --> 00:41:37.700]   you need it if you need to concentrate and so on,
+[00:41:37.700 --> 00:41:38.900]   if that makes sense.
+[00:41:38.900 --> 00:41:41.900]   - Okay, okay, I think yeah, that makes sense to me.
+[00:41:41.900 --> 00:41:43.220]   If you guys have questions,
+[00:41:43.220 --> 00:41:45.980]   always feel free to go into the Telegram chat group,
+[00:41:45.980 --> 00:41:48.140]   ask your questions there, everyone's very helpful
+[00:41:48.140 --> 00:41:49.940]   and we're trying to get to all the questions.
+[00:41:49.940 --> 00:41:54.380]   So that was the special thing about the focus one,
+[00:41:54.380 --> 00:41:55.500]   which is a new one.
+[00:41:55.500 --> 00:41:56.980]   And again, I guess the main thing too
+[00:41:56.980 --> 00:41:58.780]   is that there's so many different frequencies,
+[00:41:58.780 --> 00:42:00.820]   they do different things.
+[00:42:00.820 --> 00:42:02.460]   There is actually a question on the list
+[00:42:02.460 --> 00:42:04.260]   and let me just ask it now,
+[00:42:04.260 --> 00:42:07.420]   which I think one of the first questions on the list was,
+[00:42:07.420 --> 00:42:08.740]   what's the best way to figure out
+[00:42:08.740 --> 00:42:11.460]   which frequency is best for me, right?
+[00:42:11.460 --> 00:42:12.980]   Somebody asked that question.
+[00:42:12.980 --> 00:42:16.020]   So, you know, with all of these different, you know,
+[00:42:16.020 --> 00:42:20.420]   frequencies, how does someone just decide?
+[00:42:20.420 --> 00:42:21.900]   You know, like if I wanted, you know,
+[00:42:21.900 --> 00:42:22.900]   'cause we get this question a lot,
+[00:42:22.900 --> 00:42:25.220]   there's an actual different question that's related,
+[00:42:25.220 --> 00:42:27.780]   which is, oh, hi, you know, I just discovered Leila,
+[00:42:27.780 --> 00:42:30.660]   sounds really awesome, where do I start?
+[00:42:30.660 --> 00:42:32.820]   And my recommendation for people to start is like,
+[00:42:32.820 --> 00:42:35.780]   oh, start with a capsule or a card, you know, feel it,
+[00:42:35.780 --> 00:42:37.860]   you know, expose yourself to it
+[00:42:37.860 --> 00:42:39.700]   before you invest heavily into it, right?
+[00:42:39.700 --> 00:42:42.100]   I mean, and then people, like so many people,
+[00:42:42.100 --> 00:42:43.820]   then just go off and get blocks afterwards
+[00:42:43.820 --> 00:42:45.940]   when they realize what these things can do
+[00:42:45.940 --> 00:42:47.620]   and that's wonderful and everything.
+[00:42:47.620 --> 00:42:50.580]   But for the very, very, very beginner, you know,
+[00:42:50.580 --> 00:42:52.980]   what's, what would you say to someone that says,
+[00:42:52.980 --> 00:42:55.020]   hey, you know, how do I know what works for me?
+[00:42:55.020 --> 00:42:58.420]   Or what would it be best, you know, to try?
+[00:42:58.420 --> 00:42:59.900]   What would you, what would you be at?
+[00:42:59.900 --> 00:43:01.860]   What's your answer to that?
+[00:43:01.860 --> 00:43:04.780]   - I always say that the absolute all-rounder
+[00:43:04.780 --> 00:43:06.100]   is the heel capsule.
+[00:43:06.100 --> 00:43:09.340]   That is the general starting point that I feel
+[00:43:09.340 --> 00:43:13.860]   that I haven't met anyone that doesn't
+[00:43:13.860 --> 00:43:15.780]   or wouldn't benefit from it
+[00:43:15.780 --> 00:43:18.780]   and really see some positive results.
+[00:43:18.780 --> 00:43:21.500]   And it, you know, whether you're young or old,
+[00:43:21.500 --> 00:43:25.780]   fat or thin or, you know, female male,
+[00:43:25.780 --> 00:43:27.420]   it doesn't matter, right?
+[00:43:27.420 --> 00:43:30.340]   The capsule is just something
+[00:43:30.340 --> 00:43:33.260]   that works for pretty much anyone.
+[00:43:33.260 --> 00:43:34.700]   Now, in terms of the cards,
+[00:43:34.700 --> 00:43:36.260]   that's indeed a little bit more tricky
+[00:43:36.260 --> 00:43:39.300]   because it can be almost overwhelming, you know,
+[00:43:39.300 --> 00:43:42.180]   with so many different frequency cards.
+[00:43:42.180 --> 00:43:46.100]   But the first thing I would do is just look at the names
+[00:43:46.100 --> 00:43:49.620]   of the cards because they actually, I think, you know,
+[00:43:49.620 --> 00:43:53.020]   and in some cases we had to change the names a little bit.
+[00:43:53.020 --> 00:43:55.260]   So the, you see the seasons there.
+[00:43:55.260 --> 00:43:57.060]   So currently that's actually not online,
+[00:43:57.060 --> 00:43:59.980]   but we'll put it back online in the next couple of weeks.
+[00:43:59.980 --> 00:44:03.940]   So the seasons used to be called the LOG relief,
+[00:44:03.940 --> 00:44:07.220]   but yeah, we had to change that.
+[00:44:07.220 --> 00:44:10.860]   And now it's called season, so it's maybe a little bit unclear.
+[00:44:10.860 --> 00:44:14.500]   But the rest is pretty clear what it's for, right?
+[00:44:14.500 --> 00:44:19.020]   Abundance, prosperity, inner peace, you know,
+[00:44:19.020 --> 00:44:21.540]   weight management, you know,
+[00:44:21.540 --> 00:44:23.660]   I think that's all relatively clear.
+[00:44:23.660 --> 00:44:25.780]   So the ones that are clear speak to you
+[00:44:25.780 --> 00:44:28.740]   because you know, is this something I want to work on?
+[00:44:28.740 --> 00:44:30.540]   Is this something I have an issue with?
+[00:44:30.540 --> 00:44:40.220]   Feel inside you, okay, what resonates with me?
+[00:44:40.220 --> 00:44:43.300]   And because I think that's maybe even better
+[00:44:43.300 --> 00:44:44.580]   than using the brain.
+[00:44:44.580 --> 00:44:48.420]   - Yeah, okay.
+[00:44:48.420 --> 00:44:50.340]   That makes a lot of sense.
+[00:44:50.340 --> 00:44:54.580]   - Yeah, and additional possibilities also to look
+[00:44:54.580 --> 00:44:59.580]   at the mandala that is on each of the cards.
+[00:44:59.580 --> 00:45:03.980]   And you can see that online and just look at it
+[00:45:03.980 --> 00:45:07.300]   and don't think, okay, well, I like this
+[00:45:07.300 --> 00:45:09.380]   in terms of the art or something like that.
+[00:45:09.380 --> 00:45:13.820]   It's just rather to look at it and see how your system
+[00:45:13.820 --> 00:45:16.460]   reacts to it, you know, is it, you know,
+[00:45:16.460 --> 00:45:20.220]   how do you resonate with this on an energetic level?
+[00:45:20.220 --> 00:45:22.340]   This may be a difficult task for some people,
+[00:45:22.340 --> 00:45:24.660]   but it's something you can do.
+[00:45:24.660 --> 00:45:26.860]   That's one of the reasons why we have those mandalas
+[00:45:26.860 --> 00:45:30.620]   because they resonate very closely with the frequency
+[00:45:30.620 --> 00:45:33.500]   that's actually on the cards.
+[00:45:33.500 --> 00:45:34.740]   - Yeah, I'm glad you mentioned that.
+[00:45:34.740 --> 00:45:38.460]   I think it's something that we definitely want to share
+[00:45:38.460 --> 00:45:43.020]   is that each different frequency as a mandala
+[00:45:43.020 --> 00:45:45.140]   that's created just for that frequency
+[00:45:45.140 --> 00:45:48.340]   by a very gifted and talented person, right?
+[00:45:48.340 --> 00:45:49.980]   And so they're all very unique
+[00:45:49.980 --> 00:45:54.460]   and they're energetically tied to the frequency itself.
+[00:45:54.460 --> 00:45:57.700]   So each one has its own mandala
+[00:45:57.700 --> 00:46:00.780]   and that mandala is very special just for that frequency.
+[00:46:00.780 --> 00:46:02.580]   So yeah, I'm glad you mentioned that
+[00:46:02.580 --> 00:46:04.660]   'cause I always forget to tell people about that
+[00:46:04.660 --> 00:46:07.260]   'cause a lot of people don't notice that they're all different
+[00:46:07.260 --> 00:46:09.140]   'cause they only have a few, but yeah,
+[00:46:09.140 --> 00:46:12.620]   the mandala is very important for each one of those cards.
+[00:46:12.620 --> 00:46:14.900]   Great, okay, thanks for sharing that.
+[00:46:14.900 --> 00:46:18.820]   Now let's just jump into one of the main things about,
+[00:46:18.820 --> 00:46:20.820]   okay, now if I have a capsule,
+[00:46:20.820 --> 00:46:23.980]   because I have spheres, right,
+[00:46:23.980 --> 00:46:28.820]   I can add different frequencies to the existing capsule.
+[00:46:28.820 --> 00:46:29.980]   So I do want to point out,
+[00:46:29.980 --> 00:46:32.700]   and this is like a three minute tutorial
+[00:46:32.700 --> 00:46:35.100]   on the Quantum Power YouTube channel,
+[00:46:35.100 --> 00:46:37.220]   links below in the video description,
+[00:46:37.220 --> 00:46:39.420]   where Phillip basically will teach you
+[00:46:39.420 --> 00:46:42.460]   how to use the spheres out of a capsule
+[00:46:42.460 --> 00:46:43.500]   to add a frequency.
+[00:46:43.500 --> 00:46:45.260]   So here's a really good example.
+[00:46:45.260 --> 00:46:47.700]   Let's say you really resonate
+[00:46:47.700 --> 00:46:52.980]   with a particular type of herb or essential oil.
+[00:46:52.980 --> 00:46:56.060]   And so let's say it could be lavender
+[00:46:56.060 --> 00:46:57.540]   and lavender really calms you
+[00:46:57.540 --> 00:46:59.500]   and you use lavender for everything
+[00:46:59.500 --> 00:47:00.660]   and you have the heel capsule
+[00:47:00.660 --> 00:47:02.780]   and you're all like, I want to add lavender to it, right?
+[00:47:02.780 --> 00:47:06.780]   'Cause it doesn't contain lavender the frequency of lavender
+[00:47:06.780 --> 00:47:09.500]   then you can use the spheres
+[00:47:09.500 --> 00:47:12.620]   to add the frequency of lavender to a piece of foil
+[00:47:12.620 --> 00:47:15.180]   and then put that foil inside your capsule,
+[00:47:15.180 --> 00:47:16.180]   your heel capsule,
+[00:47:16.180 --> 00:47:19.380]   and then you would have added that extra frequency to it.
+[00:47:19.380 --> 00:47:21.820]   So there's a tutorial on YouTube
+[00:47:21.820 --> 00:47:24.020]   on how to do that, links below.
+[00:47:24.020 --> 00:47:26.500]   So that is another thing you can do with your capsule
+[00:47:26.500 --> 00:47:29.420]   that you cannot do with a card, which is pretty cool.
+[00:47:29.420 --> 00:47:32.020]   And again, it doesn't work with dance objects,
+[00:47:32.020 --> 00:47:35.340]   so it's basically going to be limited to, you know,
+[00:47:35.340 --> 00:47:37.660]   herbs, oils, you know, things like that.
+[00:47:37.660 --> 00:47:40.420]   Like you couldn't take, you know, something thick and go,
+[00:47:40.420 --> 00:47:43.620]   I want to take this frequency of this thick thing
+[00:47:43.620 --> 00:47:45.780]   and you know, it's not going to work with dance objects.
+[00:47:45.780 --> 00:47:49.420]   But so you might want to take a look at this tutorial
+[00:47:49.420 --> 00:47:52.300]   if you want to know how to add frequencies to your capsule.
+[00:47:52.300 --> 00:47:54.900]   Okay, anything to add to that?
+[00:47:54.900 --> 00:47:56.180]   Cool?
+[00:47:56.180 --> 00:47:58.660]   - Well, the only thing I think in the video itself,
+[00:47:58.660 --> 00:48:03.140]   I forgot to mention that we should use our intention
+[00:48:03.140 --> 00:48:05.300]   to do that, but at the same time,
+[00:48:05.300 --> 00:48:08.740]   it's almost not relevant because as we're doing it,
+[00:48:08.740 --> 00:48:11.620]   we're kind of having that intention to do it anyway.
+[00:48:11.620 --> 00:48:14.460]   So, but you know, I felt like after I did the video
+[00:48:14.460 --> 00:48:16.780]   that I could have mentioned that because it's,
+[00:48:16.780 --> 00:48:20.740]   we have this strong intention to copy this into that,
+[00:48:20.740 --> 00:48:24.180]   then, you know, that's the proper way to do it.
+[00:48:24.180 --> 00:48:26.260]   - Okay, all right, so let me just jump through
+[00:48:26.260 --> 00:48:28.980]   the questions now from the group.
+[00:48:28.980 --> 00:48:31.940]   The first thing was, is can you use a sphere packet,
+[00:48:31.940 --> 00:48:36.460]   sphere packet to copy a frequency to a blank capsule?
+[00:48:36.460 --> 00:48:38.980]   Yes or no?
+[00:48:38.980 --> 00:48:41.020]   'Cause the capsule's kind of dense, right?
+[00:48:41.020 --> 00:48:42.940]   It's half an inch thick.
+[00:48:42.940 --> 00:48:44.260]   Could I use, you know, like if I had the,
+[00:48:44.260 --> 00:48:46.380]   if I wanted to just, instead of using foil,
+[00:48:46.380 --> 00:48:49.900]   could I just put a frequency into a capsule?
+[00:48:49.900 --> 00:48:55.260]   - It's a good question.
+[00:48:55.260 --> 00:48:56.180]   I don't know.
+[00:48:56.180 --> 00:48:58.340]   I would go for the foil.
+[00:48:58.340 --> 00:49:00.220]   - Yeah, I agree with that.
+[00:49:00.220 --> 00:49:01.660]   So that's, I'm just gonna go down the question.
+[00:49:01.660 --> 00:49:04.380]   So, probably not use the foil.
+[00:49:04.380 --> 00:49:08.620]   Can you copy the frequency in a capsule to a foil
+[00:49:08.620 --> 00:49:09.940]   using the sphere packet?
+[00:49:09.940 --> 00:49:11.100]   Okay, that we already answered that.
+[00:49:11.100 --> 00:49:12.020]   Yes, you can.
+[00:49:12.020 --> 00:49:13.420]   You can copy frequencies.
+[00:49:13.420 --> 00:49:14.500]   Oh, no, no, no.
+[00:49:14.500 --> 00:49:17.380]   This is using the capsule as a source.
+[00:49:17.380 --> 00:49:19.740]   Because the capsule's a half inch thick
+[00:49:19.740 --> 00:49:21.860]   and you put a sphere packet on it,
+[00:49:21.860 --> 00:49:24.100]   would you be able to take that,
+[00:49:24.100 --> 00:49:25.260]   let's say it's a heel capsule
+[00:49:25.260 --> 00:49:28.380]   and I want to copy heel to a piece of foil, right?
+[00:49:28.380 --> 00:49:29.740]   Could I use the sphere packets
+[00:49:29.740 --> 00:49:31.380]   and put it on top of the heel capsule
+[00:49:31.380 --> 00:49:33.100]   and then underneath it there's a foil,
+[00:49:33.100 --> 00:49:36.260]   even though the capsule's half an inch thick,
+[00:49:36.260 --> 00:49:38.380]   would the foil pick up from the spheres?
+[00:49:38.380 --> 00:49:42.300]   - So, if we have a heel capsule in our hands now
+[00:49:42.300 --> 00:49:45.740]   and then put the aluminum foil underneath it,
+[00:49:45.740 --> 00:49:46.940]   you could do it directly.
+[00:49:46.940 --> 00:49:50.460]   You don't have to use a sphere stamp or anything
+[00:49:50.460 --> 00:49:52.140]   as long as you use your intention,
+[00:49:52.140 --> 00:49:54.060]   but you have to use your intention for that
+[00:49:54.060 --> 00:49:58.380]   and leave it there for just a few minutes just in case.
+[00:49:58.380 --> 00:49:59.220]   - All right, good.
+[00:49:59.220 --> 00:50:00.380]   There you go.
+[00:50:00.380 --> 00:50:01.220]   Next question.
+[00:50:01.220 --> 00:50:04.460]   If I put my heel capsule on something metal,
+[00:50:04.460 --> 00:50:06.380]   when it is full of the spheres,
+[00:50:06.380 --> 00:50:09.340]   would it copy the frequency into the metal?
+[00:50:09.340 --> 00:50:11.540]   And then we've already answered that.
+[00:50:11.540 --> 00:50:15.820]   The answer is no, because it's too dense, right?
+[00:50:15.820 --> 00:50:17.860]   And so the second question is,
+[00:50:17.860 --> 00:50:21.980]   do the spheres need to be in the four on bottom
+[00:50:21.980 --> 00:50:26.140]   and one on top configuration wrapped in foil
+[00:50:26.140 --> 00:50:28.900]   to for it to copy?
+[00:50:28.900 --> 00:50:30.180]   And you just answered that question.
+[00:50:30.180 --> 00:50:33.220]   So, it doesn't have to be in that configuration.
+[00:50:33.220 --> 00:50:34.820]   You could just have, you know,
+[00:50:34.820 --> 00:50:37.060]   basically be holding the whole capsule
+[00:50:37.060 --> 00:50:39.020]   for all five spheres, right?
+[00:50:39.020 --> 00:50:40.780]   In other words, you don't have to make an exact sphere.
+[00:50:40.780 --> 00:50:43.500]   Okay, so, all right, I think we answered that question.
+[00:50:43.500 --> 00:50:46.500]   Yeah, it definitely won't,
+[00:50:46.500 --> 00:50:50.240]   you can't use spheres to copy frequency into metal.
+[00:50:51.260 --> 00:50:53.700]   And then when you do want to use spheres to copy,
+[00:50:53.700 --> 00:50:56.180]   if you want to copy the heel frequency on the foil,
+[00:50:56.180 --> 00:50:57.500]   just hold it in your hand.
+[00:50:57.500 --> 00:51:00.260]   If you want to copy the essential oil on the foil,
+[00:51:00.260 --> 00:51:02.100]   make a sphere packet and you have four
+[00:51:02.100 --> 00:51:03.940]   on the bottom one on top, correct?
+[00:51:03.940 --> 00:51:09.180]   Okay, now for people who have multiple heel capsules
+[00:51:09.180 --> 00:51:11.180]   and there are other configurations,
+[00:51:11.180 --> 00:51:12.180]   okay, I guess are there,
+[00:51:12.180 --> 00:51:15.860]   but are there other configurations using more spheres
+[00:51:15.860 --> 00:51:18.620]   wrapped in foil that would have an additional benefit
+[00:51:18.620 --> 00:51:20.460]   when copying frequencies?
+[00:51:20.460 --> 00:51:23.340]   So, quicker copying, okay, so I'm thinking like I got,
+[00:51:23.340 --> 00:51:26.340]   I got four, I got to buy the four pack, right?
+[00:51:26.340 --> 00:51:28.500]   I got 20 spheres.
+[00:51:28.500 --> 00:51:30.380]   Could I shove them all in a piece of foil
+[00:51:30.380 --> 00:51:32.620]   and would it work better than five?
+[00:51:32.620 --> 00:51:34.660]   Probably, yeah, we haven't tested it,
+[00:51:34.660 --> 00:51:36.420]   but I would say yes.
+[00:51:36.420 --> 00:51:38.260]   Yeah, wait for energy.
+[00:51:38.260 --> 00:51:41.980]   Okay, and then, yeah, okay, so it hasn't been tested,
+[00:51:41.980 --> 00:51:45.740]   so the answer is probably, but we don't know for sure.
+[00:51:45.740 --> 00:51:48.940]   And that's something that we'll probably have to figure out
+[00:51:48.940 --> 00:51:51.380]   one day, but good question.
+[00:51:51.380 --> 00:51:54.940]   Next one is, can you copy a frequency using a card
+[00:51:54.940 --> 00:51:56.900]   versus a sphere packet?
+[00:51:56.900 --> 00:51:59.700]   All right, so can I take the frequency of a card
+[00:51:59.700 --> 00:52:01.020]   and put it on a piece of foil,
+[00:52:01.020 --> 00:52:02.500]   leave it there for a day?
+[00:52:02.500 --> 00:52:05.540]   Would that foil pick up the frequency off of just a card?
+[00:52:05.540 --> 00:52:11.540]   I would say no, so you would have to stick with water
+[00:52:11.540 --> 00:52:16.540]   if you wanted to use the card and some less dense substances.
+[00:52:17.940 --> 00:52:19.620]   All right, there you go, thank you for that.
+[00:52:19.620 --> 00:52:22.460]   Okay, next question, what's the best,
+[00:52:22.460 --> 00:52:24.420]   what can we answer that, best way to figure out?
+[00:52:24.420 --> 00:52:26.260]   Okay, that was a great answer, brother.
+[00:52:26.260 --> 00:52:28.460]   Now, the next one is, oh, this comes up a lot, right?
+[00:52:28.460 --> 00:52:32.980]   Can children and pregnant women use capsules and cards?
+[00:52:32.980 --> 00:52:39.140]   So obviously, as a company,
+[00:52:39.140 --> 00:52:44.140]   we can't talk about pregnancy and give official recommendations,
+[00:52:44.140 --> 00:52:46.700]   but we can point to obviously the fact
+[00:52:46.700 --> 00:52:49.660]   that there hasn't been anything negative or harmful,
+[00:52:49.660 --> 00:52:53.380]   whatsoever reported, nor is it even possible
+[00:52:53.380 --> 00:52:58.380]   with the quantum field and a lot of pregnant women
+[00:52:58.380 --> 00:53:01.180]   have reported just amazing benefits.
+[00:53:01.180 --> 00:53:03.540]   So if you look at the study results and everything,
+[00:53:03.540 --> 00:53:07.620]   what it does, I think you can draw your own conclusion,
+[00:53:07.620 --> 00:53:09.340]   but I have to say it this way
+[00:53:09.340 --> 00:53:11.980]   because I'm not gonna make an official recommendation.
+[00:53:11.980 --> 00:53:13.660]   Okay, yeah, that makes sense.
+[00:53:13.660 --> 00:53:17.580]   You know, just my testimony, I have a 12-pound dog
+[00:53:17.580 --> 00:53:22.580]   and that dog wears a necklace that was burned in an IB9,
+[00:53:22.580 --> 00:53:27.220]   very, very, very high strength, and she's just fine.
+[00:53:27.220 --> 00:53:30.660]   I mean, there's nothing, I mean, no harm at all.
+[00:53:30.660 --> 00:53:32.900]   So that's just to give you an idea.
+[00:53:32.900 --> 00:53:34.580]   You have a 12-pound something.
+[00:53:34.580 --> 00:53:38.220]   Okay, so if someone uses a card at night,
+[00:53:38.220 --> 00:53:41.540]   has it been determined that under the pillow head region
+[00:53:41.540 --> 00:53:43.780]   is the best location for this?
+[00:53:43.780 --> 00:53:48.580]   - So before we get into that,
+[00:53:48.580 --> 00:53:50.420]   really quick, I wanna mention again,
+[00:53:50.420 --> 00:53:52.740]   also the whole pregnancy thing, right?
+[00:53:52.740 --> 00:53:55.420]   Because people are like, oh my God.
+[00:53:55.420 --> 00:53:59.180]   But in the end of the day, it's life what's there.
+[00:53:59.180 --> 00:54:02.700]   And we're talking about pure quantum energy,
+[00:54:02.700 --> 00:54:07.060]   which is the most natural thing of our cells
+[00:54:07.060 --> 00:54:11.420]   that helps to put cells and, you know,
+[00:54:11.420 --> 00:54:14.620]   anything related or energy system into more balance,
+[00:54:14.620 --> 00:54:16.660]   just on its own, just by being there.
+[00:54:16.660 --> 00:54:20.260]   So really think about it.
+[00:54:20.260 --> 00:54:24.500]   If that sounds beneficial.
+[00:54:24.500 --> 00:54:28.140]   So just, and then coming to the cards now,
+[00:54:28.140 --> 00:54:29.780]   I think we talked about that earlier.
+[00:54:29.780 --> 00:54:33.140]   So there are three ways that I've heard
+[00:54:33.140 --> 00:54:35.300]   and tried, one is underneath the pillow,
+[00:54:35.300 --> 00:54:38.780]   which is great, another one is underneath the sheets.
+[00:54:38.780 --> 00:54:41.180]   And the other one is just to have it, you know,
+[00:54:41.180 --> 00:54:44.300]   just with you, you know, maybe starting even off
+[00:54:44.300 --> 00:54:46.420]   with holding it in your hand.
+[00:54:46.420 --> 00:54:51.180]   - Okay, all right, you're cutting in and out,
+[00:54:51.180 --> 00:54:52.580]   but I'm gonna go ahead and answer that question.
+[00:54:52.580 --> 00:54:53.420]   So there you go.
+[00:54:53.420 --> 00:54:54.660]   That's the answer to that one,
+[00:54:54.660 --> 00:54:57.020]   which is under the pillow, under the sheets
+[00:54:57.020 --> 00:55:00.180]   or in your pocket if you wear shorts or pajamas,
+[00:55:00.180 --> 00:55:04.500]   but have it close to you within that 10-inch window
+[00:55:04.500 --> 00:55:06.780]   or field length?
+[00:55:06.780 --> 00:55:08.260]   So Philip, are you back yet?
+[00:55:08.260 --> 00:55:10.980]   Okay, we're gonna give this.
+[00:55:10.980 --> 00:55:11.900]   Okay, so there we go.
+[00:55:11.900 --> 00:55:13.340]   We're on to the next question.
+[00:55:13.340 --> 00:55:16.540]   So is it better to sleep with a card under the,
+[00:55:16.540 --> 00:55:17.780]   okay, we talked about that.
+[00:55:17.780 --> 00:55:19.300]   Oh, wait, this is a different question.
+[00:55:19.300 --> 00:55:21.500]   Is it better to sleep with a card under the pillow
+[00:55:21.500 --> 00:55:25.540]   or in a cue block with photo and intention?
+[00:55:25.540 --> 00:55:31.700]   So, which is like, if I wanna get the best optimal results
+[00:55:32.180 --> 00:55:34.900]   from the calm and rest card,
+[00:55:34.900 --> 00:55:36.740]   which used to be called sleep,
+[00:55:36.740 --> 00:55:41.780]   is it better to put it in the cue block with my photo
+[00:55:41.780 --> 00:55:44.420]   or is it better to put it under my pillow?
+[00:55:44.420 --> 00:55:45.260]   Does it matter?
+[00:55:45.260 --> 00:55:46.420]   - Definitely underneath the pillow
+[00:55:46.420 --> 00:55:49.660]   or close to your body in regards to the calm and rest
+[00:55:49.660 --> 00:55:51.940]   as well as for the inner peace
+[00:55:51.940 --> 00:55:53.940]   because if you're in the block,
+[00:55:53.940 --> 00:55:58.740]   you're a much higher energy stimulation in general
+[00:55:58.740 --> 00:56:00.860]   and that can be amazing.
+[00:56:00.860 --> 00:56:04.540]   But if you're looking at difficult sleep
+[00:56:04.540 --> 00:56:06.340]   that you have in all of that,
+[00:56:06.340 --> 00:56:10.380]   then having the card there is the best way to go.
+[00:56:10.380 --> 00:56:12.300]   - Okay, no, okay.
+[00:56:12.300 --> 00:56:14.380]   We answered this question, skipped that one.
+[00:56:14.380 --> 00:56:15.860]   So the next question is,
+[00:56:15.860 --> 00:56:18.460]   if I carry a card or capsule in my pocket,
+[00:56:18.460 --> 00:56:20.580]   should I switch pockets every now and then?
+[00:56:20.580 --> 00:56:22.820]   Does it matter?
+[00:56:22.820 --> 00:56:25.380]   - Good questions and yeah, every now and then
+[00:56:25.380 --> 00:56:27.220]   I would actually recommend to do that.
+[00:56:27.220 --> 00:56:31.380]   It's not that, if you wear a capsule in the pocket
+[00:56:31.380 --> 00:56:32.780]   and not around your neck,
+[00:56:32.780 --> 00:56:35.580]   then with a capsule, it's definitely more important
+[00:56:35.580 --> 00:56:37.500]   to change the sides every now and then
+[00:56:37.500 --> 00:56:41.300]   because you can get more energy heavy on one side
+[00:56:41.300 --> 00:56:44.620]   and then you also wanna give that energy
+[00:56:44.620 --> 00:56:45.940]   to the other side.
+[00:56:45.940 --> 00:56:47.660]   We've noticed that with the cards,
+[00:56:47.660 --> 00:56:49.660]   it's really not that big of a deal.
+[00:56:49.660 --> 00:56:53.820]   But hey, you can still do it every now and then every now
+[00:56:53.820 --> 00:56:56.860]   and then it doesn't mean like a few times a day.
+[00:56:56.860 --> 00:57:00.660]   It means rather a few words in the left pocket on a Monday,
+[00:57:00.660 --> 00:57:03.220]   maybe on a Tuesday, you put it in the right pocket.
+[00:57:03.220 --> 00:57:05.540]   - Okay, no, okay, great.
+[00:57:05.540 --> 00:57:08.740]   Now, this next one is a member that says,
+[00:57:08.740 --> 00:57:10.580]   this is what I wanna do.
+[00:57:10.580 --> 00:57:12.540]   Put my stainless steel water bottle
+[00:57:12.540 --> 00:57:14.020]   that I had charged in the cube block.
+[00:57:14.020 --> 00:57:17.100]   So the bottle is charged full of water,
+[00:57:17.100 --> 00:57:19.540]   puts it on top of a frequency card.
+[00:57:19.540 --> 00:57:21.980]   Do I get structured frequency water?
+[00:57:21.980 --> 00:57:23.660]   So I'm gonna answer that.
+[00:57:23.660 --> 00:57:26.580]   If you've charged the bottle and the water's in the bottle,
+[00:57:26.580 --> 00:57:29.100]   then the bottle is charging the water.
+[00:57:29.100 --> 00:57:32.020]   So the water's being structured by the bottle.
+[00:57:32.020 --> 00:57:34.060]   Okay, so the answer's no,
+[00:57:34.060 --> 00:57:36.580]   because the bottle's doing it, not the card.
+[00:57:36.580 --> 00:57:38.060]   So the second question is,
+[00:57:38.060 --> 00:57:40.300]   does the frequency also end up in the...
+[00:57:40.300 --> 00:57:41.940]   So here's the next question.
+[00:57:41.940 --> 00:57:43.580]   Does the frequency of the...
+[00:57:43.580 --> 00:57:45.780]   Okay, all right, because the bottle's charged, right?
+[00:57:45.780 --> 00:57:49.180]   - Yeah, the card can't do anything anymore
+[00:57:49.180 --> 00:57:52.620]   because the bottle is already fully charged.
+[00:57:52.620 --> 00:57:56.220]   The frequency can't even get through the bottle anymore.
+[00:57:56.220 --> 00:57:57.060]   - There you go.
+[00:57:57.060 --> 00:57:58.820]   Okay, that answers the last question here.
+[00:57:58.820 --> 00:58:00.540]   Okay, all right, so everybody understand, right?
+[00:58:00.540 --> 00:58:02.100]   If something's fully charged,
+[00:58:02.100 --> 00:58:04.340]   the card's not gonna have any effect on it.
+[00:58:04.340 --> 00:58:05.660]   Okay, so now, the next one is,
+[00:58:05.660 --> 00:58:09.860]   if you make a foil in the infinity block first generation
+[00:58:09.860 --> 00:58:12.700]   from a card, do you need further time
+[00:58:12.700 --> 00:58:14.340]   in the block to seal the foil?
+[00:58:14.340 --> 00:58:17.940]   No, right, 'cause it's already got...
+[00:58:17.940 --> 00:58:18.780]   - Can you repeat that, please?
+[00:58:18.780 --> 00:58:20.540]   Okay, if you already know the answer, yeah.
+[00:58:20.540 --> 00:58:22.300]   - Well, no, if I take the foil
+[00:58:22.300 --> 00:58:26.060]   and I charge the frequency from card
+[00:58:26.060 --> 00:58:31.060]   onto foil, right, in the infinity block,
+[00:58:31.060 --> 00:58:36.300]   do I need more time in the block to seal the foil?
+[00:58:36.300 --> 00:58:37.940]   And the answer to me would be no,
+[00:58:37.940 --> 00:58:41.140]   because the frequency's in the foil, you're done, right?
+[00:58:41.140 --> 00:58:43.900]   - Yeah, pretty much, yeah.
+[00:58:43.900 --> 00:58:46.660]   - I think the only other thing would be is, quote,
+[00:58:46.660 --> 00:58:50.220]   the use of the word seal means that it's full.
+[00:58:50.220 --> 00:58:52.540]   So if you worried about full,
+[00:58:52.540 --> 00:58:54.740]   then just go to full three minutes
+[00:58:54.740 --> 00:58:56.620]   and then there's nothing that's ever gonna copy
+[00:58:56.620 --> 00:58:59.220]   onto that foil again, unless you get a higher
+[00:58:59.220 --> 00:59:00.620]   infinity block.
+[00:59:00.620 --> 00:59:02.260]   Okay, what are the...
+[00:59:02.260 --> 00:59:03.620]   Oh, go ahead.
+[00:59:03.620 --> 00:59:07.180]   - Yeah, no, no, no, I mean, it's good like this.
+[00:59:07.180 --> 00:59:09.100]   Yeah, but you don't need to go three minutes
+[00:59:09.100 --> 00:59:12.220]   with a foil, literally, so, you know, a minute
+[00:59:12.220 --> 00:59:15.460]   and you're not gonna get more in.
+[00:59:15.460 --> 00:59:17.780]   - Okay, one minute's good.
+[00:59:17.780 --> 00:59:20.460]   Next one is, what are the thoughts on doubling
+[00:59:20.460 --> 00:59:23.700]   or tripling up on wearing heel capsules?
+[00:59:25.420 --> 00:59:29.740]   - Yeah, so, I don't necessarily recommend it.
+[00:59:29.740 --> 00:59:34.420]   I think you're good with one heel capsule, I don't think.
+[00:59:34.420 --> 00:59:36.380]   I mean, if you really feel there's like a day
+[00:59:36.380 --> 00:59:38.980]   where you need such an energy boost
+[00:59:38.980 --> 00:59:40.220]   and you need a whole lot more in you,
+[00:59:40.220 --> 00:59:41.700]   if you feel like it really,
+[00:59:41.700 --> 00:59:44.220]   and you feel that's super beneficial to you,
+[00:59:44.220 --> 00:59:45.580]   then go ahead and do it.
+[00:59:45.580 --> 00:59:49.860]   In general, I don't think it's necessary to wear two or three.
+[00:59:49.860 --> 00:59:51.860]   - Okay.
+[00:59:51.860 --> 00:59:52.700]   - But again, everyone is different.
+[00:59:52.700 --> 00:59:54.860]   - Yeah, man, hey, if you have that feeling
+[00:59:54.860 --> 00:59:58.100]   for a certain Monday, go for it.
+[00:59:58.100 --> 01:00:00.580]   - Okay, yep, yep, there are some days
+[01:00:00.580 --> 01:00:02.940]   where you need more energy than others.
+[01:00:02.940 --> 01:00:03.780]   - Okay.
+[01:00:03.780 --> 01:00:05.620]   - Okay, so next one, and we're just gonna jam
+[01:00:05.620 --> 01:00:08.140]   through this, Phillips gotta take off in eight minutes,
+[01:00:08.140 --> 01:00:12.180]   so I wanna try to get as much out of his brain as I can get.
+[01:00:12.180 --> 01:00:15.620]   Now, next question is, can the foil and the card
+[01:00:15.620 --> 01:00:17.840]   go in the same purple bag?
+[01:00:17.840 --> 01:00:21.260]   Is any time-- - The foil and the card.
+[01:00:21.260 --> 01:00:23.860]   - You would not place, I guess the better question is,
+[01:00:23.860 --> 01:00:27.340]   is there any time you would not place a card
+[01:00:27.340 --> 01:00:31.940]   and the foil that you, you know, in the same bag together?
+[01:00:31.940 --> 01:00:34.060]   So like, let's say I have the inner piece card
+[01:00:34.060 --> 01:00:37.500]   and I go make some inner piece foils, right?
+[01:00:37.500 --> 01:00:38.860]   Okay, so the answer to that is,
+[01:00:38.860 --> 01:00:41.380]   if you made it in the cube block, no problem.
+[01:00:41.380 --> 01:00:43.140]   But if I made the foil in the eye block,
+[01:00:43.140 --> 01:00:45.180]   should I keep the foil away from the card?
+[01:00:45.180 --> 01:00:49.220]   - No, so as long as it's the same frequency,
+[01:00:49.220 --> 01:00:51.700]   you can have it all in there together.
+[01:00:51.700 --> 01:00:55.100]   - Okay, all right, all right, so then the question is,
+[01:00:55.100 --> 01:00:59.100]   is at what level are in, when you make these cards,
+[01:00:59.100 --> 01:01:03.340]   what level are they topped off at, at the IB level?
+[01:01:03.340 --> 01:01:05.220]   'Cause I know that in the past,
+[01:01:05.220 --> 01:01:07.980]   if you wanted to add something to a later product,
+[01:01:07.980 --> 01:01:11.540]   you needed an IB4 or higher, right?
+[01:01:11.540 --> 01:01:13.780]   So is that applied to the card so that it's
+[01:01:13.780 --> 01:01:15.300]   like topped off at three?
+[01:01:15.300 --> 01:01:17.780]   And if I wanted to add something to a card,
+[01:01:17.780 --> 01:01:20.860]   I'd need a four higher, is that about right?
+[01:01:20.860 --> 01:01:25.140]   - Yeah, so, you know, we've had the philosophy here
+[01:01:25.140 --> 01:01:30.140]   that we always use our best fitting
+[01:01:30.140 --> 01:01:35.660]   and highest blog as long as fits for charging the cards.
+[01:01:35.660 --> 01:01:37.620]   Where it makes sense, right?
+[01:01:37.620 --> 01:01:39.660]   For example, for inner piece and comment rest,
+[01:01:39.660 --> 01:01:41.100]   it actually wouldn't make sense
+[01:01:41.100 --> 01:01:44.780]   to use all these higher ones that it really wouldn't.
+[01:01:44.780 --> 01:01:49.780]   But we never anticipated that people would then ask
+[01:01:49.780 --> 01:01:53.980]   in which was this charge that we didn't keep track of it.
+[01:01:53.980 --> 01:01:57.460]   So I actually can't tell you the answer, it just varies.
+[01:01:57.460 --> 01:02:00.460]   And we always give you the best product.
+[01:02:00.460 --> 01:02:04.260]   And, you know, if we come up with an even better way
+[01:02:04.260 --> 01:02:06.580]   in six months, we'll do it the even better way
+[01:02:06.580 --> 01:02:09.980]   in six months, so that's what we keep doing.
+[01:02:09.980 --> 01:02:12.820]   And I don't think you need to top off any card,
+[01:02:12.820 --> 01:02:13.780]   to be honest.
+[01:02:13.780 --> 01:02:14.620]   - Yeah.
+[01:02:14.620 --> 01:02:17.060]   - Oh, I don't think it's really necessary.
+[01:02:17.060 --> 01:02:18.740]   - Okay, thank you.
+[01:02:18.740 --> 01:02:23.140]   What is the max time a card should be in the IB?
+[01:02:23.140 --> 01:02:24.660]   I think that we've covered that.
+[01:02:24.660 --> 01:02:28.100]   It's like, if I wanted to make a foil with an IB,
+[01:02:28.100 --> 01:02:30.900]   with using a card as the source frequency,
+[01:02:30.900 --> 01:02:32.500]   it was like 15 seconds, right?
+[01:02:32.500 --> 01:02:33.340]   I'm just trying to remember.
+[01:02:33.340 --> 01:02:36.140]   - Yeah, it's pretty much done in 15 seconds.
+[01:02:36.140 --> 01:02:38.220]   Sorry, you can leave it in there for 20 seconds.
+[01:02:38.220 --> 01:02:40.980]   That's really fine, then I would remove the card
+[01:02:40.980 --> 01:02:42.900]   because, again, you know, the cards
+[01:02:42.900 --> 01:02:44.700]   you don't want to have in there for too long,
+[01:02:44.700 --> 01:02:47.300]   not for three minutes, cumulative.
+[01:02:47.300 --> 01:02:48.340]   So, yeah.
+[01:02:48.340 --> 01:02:50.620]   - Okay, 15, 20 seconds, tops.
+[01:02:50.620 --> 01:02:53.180]   Okay, now next one, regarding the neutral capsules
+[01:02:53.180 --> 01:02:55.180]   and spheres coming out,
+[01:02:55.180 --> 01:02:59.420]   charged in that 2,000 Hawkins scale IB,
+[01:02:59.420 --> 01:03:04.200]   why would it not overload our nervous system wearing it?
+[01:03:04.200 --> 01:03:10.340]   If you're using it 2,000 Hawkins--
+[01:03:10.340 --> 01:03:12.140]   - Yeah, first of all,
+[01:03:12.140 --> 01:03:16.660]   it's completely different if you put your head
+[01:03:16.660 --> 01:03:21.660]   in this 2,200 Hawkins scale infinity block
+[01:03:21.660 --> 01:03:26.340]   or if you wear an object that was charged in it, right?
+[01:03:26.340 --> 01:03:28.420]   It's a completely different thing.
+[01:03:28.420 --> 01:03:31.380]   And there's, in addition though,
+[01:03:31.380 --> 01:03:33.620]   even if you put your head in there,
+[01:03:33.620 --> 01:03:35.900]   it wouldn't overwhelm you
+[01:03:35.900 --> 01:03:38.260]   unless you would do it for too long
+[01:03:38.260 --> 01:03:40.900]   because there's a specific feature
+[01:03:40.900 --> 01:03:45.620]   that pretty much gives you what you need
+[01:03:45.620 --> 01:03:48.620]   and picks you up where you are, if that makes sense.
+[01:03:48.620 --> 01:03:50.180]   It's a little bit hard to understand,
+[01:03:50.180 --> 01:03:53.580]   but it's really an additional,
+[01:03:53.580 --> 01:03:56.820]   it's like a harmony buffer, if that makes sense.
+[01:03:56.820 --> 01:03:59.540]   Something like that, I would call it.
+[01:03:59.540 --> 01:04:00.860]   - Okay, all right, thank you.
+[01:04:00.860 --> 01:04:02.380]   All right, so we're about to run out of time,
+[01:04:02.380 --> 01:04:05.900]   so I want to just jump into two quick questions
+[01:04:05.900 --> 01:04:08.900]   that I think are the most important out of the last five.
+[01:04:08.900 --> 01:04:12.100]   So we've got people that have been losing spheres.
+[01:04:12.100 --> 01:04:14.580]   How do they get in, they don't own a block?
+[01:04:14.580 --> 01:04:17.140]   Is Layla gonna start selling replacement spheres?
+[01:04:17.140 --> 01:04:21.460]   - I don't think so, to be honest,
+[01:04:21.460 --> 01:04:26.460]   but if you lost spheres, then just reach out to Emma
+[01:04:26.460 --> 01:04:30.820]   on Telegram or at support@lilaq.com
+[01:04:30.820 --> 01:04:34.580]   and we'll help somehow.
+[01:04:34.580 --> 01:04:36.820]   - Okay.
+[01:04:36.820 --> 01:04:38.420]   - Maybe we'll have to do it at some point
+[01:04:38.420 --> 01:04:41.180]   with replacement spheres, but we haven't really,
+[01:04:41.180 --> 01:04:43.180]   we haven't set it up yet.
+[01:04:43.180 --> 01:04:44.020]   - Okay.
+[01:04:44.020 --> 01:04:44.860]   - I'd say it that way.
+[01:04:44.860 --> 01:04:46.180]   - All right, and then the last thing that I wanted,
+[01:04:46.180 --> 01:04:47.860]   the last question I think of,
+[01:04:47.860 --> 01:04:49.940]   if I'm cherry picking questions here,
+[01:04:49.940 --> 01:04:52.220]   is you mentioned earlier, using intention.
+[01:04:52.220 --> 01:04:57.220]   And so there's a way to add an intention to a capsule.
+[01:04:57.220 --> 01:05:00.380]   And even like with the Agni,
+[01:05:00.380 --> 01:05:02.740]   you've been sharing these wonderful posts from Agni
+[01:05:02.740 --> 01:05:04.900]   with different mantras that he's been sharing,
+[01:05:04.900 --> 01:05:06.500]   which thank you so much for that.
+[01:05:06.500 --> 01:05:08.900]   I tried one and it was wonderful.
+[01:05:08.900 --> 01:05:11.180]   So if I wanted to add a mantra
+[01:05:11.180 --> 01:05:13.540]   or an intention to my capsule,
+[01:05:13.540 --> 01:05:16.660]   I'm just gonna say it if you correct me from wrong,
+[01:05:16.660 --> 01:05:19.140]   then all I need to do is just write down my intention.
+[01:05:19.140 --> 01:05:21.820]   Like I, you know, whatever your intention might be,
+[01:05:21.820 --> 01:05:22.980]   like let it go, you know,
+[01:05:22.980 --> 01:05:24.820]   you're having a problem breaking up with someone
+[01:05:24.820 --> 01:05:26.380]   or you know, whatever it might be,
+[01:05:26.380 --> 01:05:28.900]   you know, help me lose weight or I will not eat as much.
+[01:05:28.900 --> 01:05:30.180]   Whatever your thing is,
+[01:05:30.180 --> 01:05:31.580]   I just write it on a piece of paper
+[01:05:31.580 --> 01:05:33.740]   and I put it inside my capsule,
+[01:05:33.740 --> 01:05:35.900]   or I can write down the numbers of the mantra,
+[01:05:35.900 --> 01:05:38.500]   write the mantra out and put it inside the capsule.
+[01:05:38.500 --> 01:05:42.020]   And that's how you add an intention to a capsule.
+[01:05:42.020 --> 01:05:43.500]   Is that correct?
+[01:05:43.500 --> 01:05:47.140]   - Yes, that's definitely one and an easy way to do it.
+[01:05:47.140 --> 01:05:50.660]   If someone also has a block, for example,
+[01:05:50.660 --> 01:05:55.660]   then you could take a little piece of an aluminum foil
+[01:05:55.660 --> 01:06:00.300]   and take a bigger piece of paper
+[01:06:00.300 --> 01:06:02.740]   and write down the full intention
+[01:06:02.740 --> 01:06:06.460]   and charge this intention onto this aluminum foil
+[01:06:06.460 --> 01:06:09.060]   and then put the aluminum foil into the capsule,
+[01:06:09.060 --> 01:06:11.580]   which may be a little bit easier if you have a block
+[01:06:11.580 --> 01:06:15.460]   because fitting a full piece of paper in there
+[01:06:15.460 --> 01:06:17.940]   in the capsule may be a little bit tricky.
+[01:06:17.940 --> 01:06:19.860]   You can still make it work though.
+[01:06:19.860 --> 01:06:22.100]   And yeah, but those are the two ways
+[01:06:22.100 --> 01:06:25.180]   that I see that are available to us.
+[01:06:25.180 --> 01:06:27.260]   - So yeah, one more thing you can do with your capsule.
+[01:06:27.260 --> 01:06:29.060]   All right, so we're gonna wrap up,
+[01:06:29.060 --> 01:06:31.820]   Phillips got stuff to do, he's always got appointments.
+[01:06:31.820 --> 01:06:34.060]   So I just wanna say to everybody else
+[01:06:34.060 --> 01:06:36.220]   that if you check the video description is below,
+[01:06:36.220 --> 01:06:39.300]   we've have other tutorials.
+[01:06:39.300 --> 01:06:41.780]   So we've got a three part tutorial on the blocks.
+[01:06:41.780 --> 01:06:44.020]   And then, well, the, by the way,
+[01:06:44.020 --> 01:06:46.580]   the pink and purple colored slides
+[01:06:46.580 --> 01:06:48.380]   are when I have Phillip on the line
+[01:06:48.380 --> 01:06:50.420]   and the blue ones are just me.
+[01:06:50.420 --> 01:06:53.060]   And so I've made some tutorials as well
+[01:06:53.060 --> 01:06:54.700]   on how to make a quantum capsule,
+[01:06:54.700 --> 01:06:57.340]   how to have capsule, how to upgrade frequency cards
+[01:06:57.340 --> 01:06:58.180]   or capsules.
+[01:06:58.180 --> 01:07:00.300]   And then of course, go on to the Quantum Power channel,
+[01:07:00.300 --> 01:07:03.060]   YouTube, all the links will be in the below,
+[01:07:03.060 --> 01:07:04.340]   in the video description,
+[01:07:04.340 --> 01:07:07.380]   to help you learn more about getting the most you can
+[01:07:07.380 --> 01:07:10.620]   out of your investment in the Layla Q Quantum Tech products.
+[01:07:10.620 --> 01:07:12.220]   And they're wonderful products.
+[01:07:12.220 --> 01:07:15.060]   And I highly encourage everyone to learn more about them
+[01:07:15.060 --> 01:07:18.140]   so that you can get the best experience you can from them.
+[01:07:18.140 --> 01:07:20.860]   So they'll all be the links below and, you know,
+[01:07:20.860 --> 01:07:24.060]   by all means go and check out some of these other tutorials
+[01:07:24.060 --> 01:07:25.180]   that we've created.
+[01:07:25.180 --> 01:07:27.620]   And again, with that, I have to let Phillip go.
+[01:07:27.620 --> 01:07:30.220]   And I just wanna say thank you so much for your time.
+[01:07:30.220 --> 01:07:31.420]   Thank you for participating
+[01:07:31.420 --> 01:07:33.380]   to all the members that threw questions at me.
+[01:07:33.380 --> 01:07:35.700]   I'm hoping that we got to the majority of them.
+[01:07:35.700 --> 01:07:36.740]   I think we did.
+[01:07:36.740 --> 01:07:38.420]   So, you know, hey, thanks a lot, everyone.
+[01:07:38.420 --> 01:07:40.660]   Thank you, Phillip, for this morning.
+[01:07:40.660 --> 01:07:43.380]   And so just wanted to let everybody know
+[01:07:43.380 --> 01:07:46.140]   if you wanted to get ahold of myself or Phillip.
+[01:07:46.140 --> 01:07:48.340]   We have, and I'll, this'll be a link below as well,
+[01:07:48.340 --> 01:07:51.060]   but to the Quantum Power Group on Telegram.
+[01:07:51.060 --> 01:07:55.420]   We're up to 94984 members as of this morning.
+[01:07:55.420 --> 01:07:57.660]   And then you can always reach me at the Tiggers Academy,
+[01:07:57.660 --> 01:07:59.540]   the links will be in the description below.
+[01:07:59.540 --> 01:08:02.260]   So anyway, thank you so much, Phillip.
+[01:08:02.260 --> 01:08:04.020]   I really appreciate your time today.
+[01:08:04.020 --> 01:08:06.420]   - Thank you, Kay.
+[01:08:06.420 --> 01:08:09.260]   I find this amazing that you're doing this.
+[01:08:09.260 --> 01:08:12.140]   Really, that's so awesome.
+[01:08:12.140 --> 01:08:14.900]   I couldn't think of a better one to ask all these questions.
+[01:08:14.900 --> 01:08:17.700]   And thanks for constantly, you know,
+[01:08:17.700 --> 01:08:20.500]   also really thinking about this and doing that.
+[01:08:20.500 --> 01:08:24.340]   And thank you very much to all the members in the group.
+[01:08:24.340 --> 01:08:25.580]   You're really awesome.
+[01:08:25.580 --> 01:08:27.820]   And thanks for your questions and your interest
+[01:08:27.820 --> 01:08:31.380]   and all of that and helping discover these things.
+[01:08:31.380 --> 01:08:36.380]   You know, again, I was just so happy to get all your answers
+[01:08:36.380 --> 01:08:39.420]   in regards to the food allergy things, right?
+[01:08:39.420 --> 01:08:41.940]   And I don't know if you saw that, Kay, but there was this--
+[01:08:41.940 --> 01:08:42.860]   - Yeah, the guy with the lemon.
+[01:08:42.860 --> 01:08:45.740]   - Member, with the lemon that just posted about it.
+[01:08:45.740 --> 01:08:49.020]   And it's just so helpful to hear these things
+[01:08:49.020 --> 01:08:51.900]   because that's something where we haven't done a study yet, right?
+[01:08:51.900 --> 01:08:53.900]   And we all want to know more about it.
+[01:08:53.900 --> 01:08:57.100]   And ideally, well, we'll figure it out, right?
+[01:08:57.100 --> 01:08:59.100]   And can tell at some point,
+[01:08:59.100 --> 01:09:02.780]   yet it really helps us with this all the time.
+[01:09:02.780 --> 01:09:04.100]   And this is how you do it.
+[01:09:04.100 --> 01:09:05.220]   And these are the guidelines.
+[01:09:05.220 --> 01:09:07.500]   So this is a big step.
+[01:09:07.500 --> 01:09:10.500]   You know, what we've learned through you guys.
+[01:09:10.500 --> 01:09:13.540]   And we'll set up studies in that regard.
+[01:09:13.540 --> 01:09:16.500]   And then hopefully that will be helpful to everyone.
+[01:09:16.500 --> 01:09:17.340]   - All right.
+[01:09:17.340 --> 01:09:18.540]   Well, thank you so much.
+[01:09:18.540 --> 01:09:20.660]   Appreciate your time today.
+[01:09:20.660 --> 01:09:21.500]   Aloha.
+[01:09:21.500 --> 01:09:22.340]   - Thank you, Kay.
+

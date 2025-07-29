@@ -1,0 +1,714 @@
+
+[00:00:00.000 --> 00:00:03.440]   Aloha everyone and welcome to another Tinkers Academy video.
+[00:00:03.440 --> 00:00:06.000]   I'm your host, Kay Elmer, and in this video,
+[00:00:06.000 --> 00:00:07.160]   I'd like to share with you
+[00:00:07.160 --> 00:00:10.640]   a Brown's Gas Generator for Health Product Review.
+[00:00:10.640 --> 00:00:13.400]   Now, what I've done is for the last month, this whole week,
+[00:00:13.400 --> 00:00:15.520]   I've basically been scouring the internet,
+[00:00:15.520 --> 00:00:17.640]   trying to find every possible generator out there,
+[00:00:17.640 --> 00:00:20.320]   H.H.O. / Brown's Gas, generators
+[00:00:20.320 --> 00:00:23.000]   that have been specifically designed for health purposes.
+[00:00:23.000 --> 00:00:25.600]   I did come up with 15 different generators,
+[00:00:25.600 --> 00:00:28.400]   put together a product comparison matrix,
+[00:00:28.400 --> 00:00:29.920]   and I thought you'd be interested in it.
+[00:00:29.920 --> 00:00:31.000]   So let's jump in.
+[00:00:31.000 --> 00:00:32.240]   First things first, disclaimers,
+[00:00:32.240 --> 00:00:34.920]   and I want to be 100% transparent
+[00:00:34.920 --> 00:00:37.360]   that I am an affiliate of one of the 15 generators
+[00:00:37.360 --> 00:00:38.520]   that's on the list here.
+[00:00:38.520 --> 00:00:41.680]   I'm not trying to hock it right now or sell it or anything,
+[00:00:41.680 --> 00:00:43.720]   but I just wanted you to know I am an affiliate
+[00:00:43.720 --> 00:00:45.840]   of one of them and that is the H2 Genesis
+[00:00:45.840 --> 00:00:47.240]   from H2 Biohacker, all right?
+[00:00:47.240 --> 00:00:49.640]   So I just, you know, want to put that out there.
+[00:00:49.640 --> 00:00:51.880]   The next thing I also want to put out is that this
+[00:00:51.880 --> 00:00:56.800]   generator review is about off the shelf products, okay?
+[00:00:56.800 --> 00:00:59.560]   Nothing that you would buy and then put together yourself
+[00:00:59.560 --> 00:01:03.000]   because my whole concept about dealing with hydrogen
+[00:01:03.000 --> 00:01:05.560]   and dealing with browns gas is safety first.
+[00:01:05.560 --> 00:01:07.120]   So one of the things I do want to point out
+[00:01:07.120 --> 00:01:08.040]   for anyone who's interested,
+[00:01:08.040 --> 00:01:10.400]   'cause, you know, so many people have inquired about,
+[00:01:10.400 --> 00:01:12.760]   hey, why couldn't I just go, you know, buy the parts,
+[00:01:12.760 --> 00:01:14.160]   off of eBay and build my own?
+[00:01:14.160 --> 00:01:15.440]   Yeah, certainly you could do that,
+[00:01:15.440 --> 00:01:16.760]   but I want to point out something
+[00:01:16.760 --> 00:01:18.960]   that's so important about this whole concept.
+[00:01:18.960 --> 00:01:21.640]   And that's an article, well, not really an article.
+[00:01:21.640 --> 00:01:24.600]   It's an email, canned email response from George Wiseman
+[00:01:24.600 --> 00:01:28.000]   who's like the grandfather of browns gas in the United States.
+[00:01:28.000 --> 00:01:30.080]   And it's, whenever you talked to him about this,
+[00:01:30.080 --> 00:01:32.200]   he's got this canned thing that he emails you, right?
+[00:01:32.200 --> 00:01:34.680]   And so I made a copy of it, put it in a PDF
+[00:01:34.680 --> 00:01:36.640]   and put it on my blog and link below.
+[00:01:36.640 --> 00:01:39.040]   Everything's links, links, links to everything below.
+[00:01:39.040 --> 00:01:44.040]   And in his seven page article, he makes a very good point
+[00:01:44.040 --> 00:01:47.640]   over and over and over again of all the different safety
+[00:01:47.640 --> 00:01:51.360]   features that really define the difference
+[00:01:51.360 --> 00:01:55.920]   between a generator, a browns gas slash H-H-O generator,
+[00:01:55.920 --> 00:01:58.960]   built for human use versus one that's built
+[00:01:58.960 --> 00:02:00.640]   for other industrial uses.
+[00:02:00.640 --> 00:02:03.300]   And, you know, there's a huge safety issue.
+[00:02:03.300 --> 00:02:04.560]   And so I just want to point out there
+[00:02:04.560 --> 00:02:06.440]   that my mantra is safety first.
+[00:02:06.440 --> 00:02:09.440]   And I'm more of your buy versus build kind of guy.
+[00:02:09.440 --> 00:02:12.840]   If something that I'm playing with, you know, tinker, right,
+[00:02:12.840 --> 00:02:14.040]   it could blow up on me.
+[00:02:14.040 --> 00:02:17.040]   So I'd rather just buy it and let the engineers figure out
+[00:02:17.040 --> 00:02:19.520]   what to do for safety, but that's the other disclaimers
+[00:02:19.520 --> 00:02:21.440]   that this is not a build your own,
+[00:02:21.440 --> 00:02:22.760]   any kind of that kind of generator.
+[00:02:22.760 --> 00:02:25.040]   This is purely products off the show.
+[00:02:25.040 --> 00:02:27.080]   Now I also want to point out that I did it.
+[00:02:27.080 --> 00:02:29.840]   I did this product review from a buyer standpoint
+[00:02:29.840 --> 00:02:31.920]   versus a technical standpoint.
+[00:02:31.920 --> 00:02:35.120]   Now I read the web pages and the product brochures
+[00:02:35.120 --> 00:02:36.640]   and the technical specifications.
+[00:02:36.640 --> 00:02:38.720]   We're all 15 of these generators.
+[00:02:38.720 --> 00:02:43.320]   And there is a ton of technical variants, all right,
+[00:02:43.320 --> 00:02:46.480]   whether it's the type of metals used, so forth.
+[00:02:46.480 --> 00:02:48.960]   And so I'm not gonna get deep into the weeds on that
+[00:02:48.960 --> 00:02:50.880]   because I don't really think that that appeals
+[00:02:50.880 --> 00:02:53.200]   to the majority of people that are watching my videos.
+[00:02:53.200 --> 00:02:56.640]   But I approached this from a buyer standpoint like me
+[00:02:56.640 --> 00:02:58.480]   who just wants to say, hey, what's out there
+[00:02:58.480 --> 00:03:01.800]   that I could acquire and then used to improve my health.
+[00:03:01.800 --> 00:03:04.640]   So it's purely a buyer's guide generator review.
+[00:03:04.640 --> 00:03:06.520]   All right, now the other thing I do want to point out,
+[00:03:06.520 --> 00:03:08.640]   which I just said, I want to make it really clear
+[00:03:08.640 --> 00:03:11.600]   that all the information I put into this video
+[00:03:11.600 --> 00:03:13.120]   is straight off the website.
+[00:03:13.120 --> 00:03:17.200]   And so the thing about that is I had to make some guesses
+[00:03:17.200 --> 00:03:20.240]   for the comparison matrix based on just like looking
+[00:03:20.240 --> 00:03:22.400]   at the machine trying to guess, you know,
+[00:03:22.400 --> 00:03:24.600]   is it wet or dry sell, that sort of thing.
+[00:03:24.600 --> 00:03:27.440]   So I did make some guesses and if there's anything
+[00:03:27.440 --> 00:03:30.560]   that I guessed incorrectly, you know, please, you know,
+[00:03:30.560 --> 00:03:31.800]   please let me know and I'll correct it
+[00:03:31.800 --> 00:03:33.280]   in the comments going forward.
+[00:03:33.280 --> 00:03:38.160]   Also too, that I basically took information
+[00:03:38.160 --> 00:03:41.080]   that was available and like when I was trying to figure out
+[00:03:41.080 --> 00:03:43.120]   like what's the refund policy or the warranty,
+[00:03:43.120 --> 00:03:44.280]   you know, that sort of thing.
+[00:03:44.280 --> 00:03:46.080]   I had to dig through people's websites
+[00:03:46.080 --> 00:03:48.360]   and if I couldn't find it, I just couldn't find it.
+[00:03:48.360 --> 00:03:51.120]   And so if I'm wrong there and it's on your website,
+[00:03:51.120 --> 00:03:53.440]   you know, hey, let me know and I'll update this thing.
+[00:03:53.440 --> 00:03:54.920]   All right, otherwise, I just want you to know
+[00:03:54.920 --> 00:03:58.320]   that I basically approached it as if I was shopping.
+[00:03:58.320 --> 00:04:00.920]   And so, and you know, how easy is it
+[00:04:00.920 --> 00:04:02.520]   to find the information I'm looking for
+[00:04:02.520 --> 00:04:04.120]   when it comes to your generator, right?
+[00:04:04.120 --> 00:04:06.200]   'Cause I know the people who make these generators
+[00:04:06.200 --> 00:04:07.440]   are gonna be watching this video.
+[00:04:07.440 --> 00:04:10.040]   Okay, so let's get into the rest of the details.
+[00:04:10.040 --> 00:04:11.400]   Those are my disclaimers.
+[00:04:11.400 --> 00:04:12.400]   All right, first things first.
+[00:04:12.400 --> 00:04:14.800]   I just want to do a little bit of overview background.
+[00:04:14.800 --> 00:04:16.920]   So they're all gonna be on the same page
+[00:04:16.920 --> 00:04:18.080]   going into this matrix.
+[00:04:18.080 --> 00:04:19.360]   And the first thing I want to point out,
+[00:04:19.360 --> 00:04:21.080]   which I did allude to earlier,
+[00:04:21.080 --> 00:04:23.720]   is that there's a huge difference
+[00:04:23.720 --> 00:04:27.440]   between an H-H-O generator built for welding,
+[00:04:27.440 --> 00:04:29.840]   H-H-O fuel saver kits that you buy on eBay
+[00:04:29.840 --> 00:04:32.040]   and slap together, and there's some really good ones,
+[00:04:32.040 --> 00:04:33.120]   by the way, and you know,
+[00:04:33.120 --> 00:04:36.200]   and then acrylic polishing H-H-O generators.
+[00:04:36.200 --> 00:04:38.480]   And so, you know, there's a huge difference between them
+[00:04:38.480 --> 00:04:41.480]   and then one over here that's actually been built for health.
+[00:04:41.480 --> 00:04:44.520]   And so, that's the huge deal that I mentioned
+[00:04:44.520 --> 00:04:46.400]   a little bit earlier, but the whole idea here
+[00:04:46.400 --> 00:04:48.560]   is that there are different generators
+[00:04:48.560 --> 00:04:50.720]   that are built for different purposes.
+[00:04:50.720 --> 00:04:54.040]   And then the whole thing that I'm doing here in this video
+[00:04:54.040 --> 00:04:57.280]   are only generators that are built for health.
+[00:04:57.280 --> 00:04:58.600]   Okay, built and designed for health.
+[00:04:58.600 --> 00:04:59.640]   And that's a huge difference,
+[00:04:59.640 --> 00:05:03.360]   'cause I personally would not use any of these other ones
+[00:05:03.360 --> 00:05:04.840]   ever for my own, like, you know,
+[00:05:04.840 --> 00:05:06.160]   try to inhale and stuff like that.
+[00:05:06.160 --> 00:05:07.160]   They're not built for it.
+[00:05:07.160 --> 00:05:08.840]   They don't have the safety features in it.
+[00:05:08.840 --> 00:05:10.160]   But the ones for health do.
+[00:05:10.160 --> 00:05:11.880]   And that's the key difference, right?
+[00:05:11.880 --> 00:05:13.560]   So now, the other thing I want to point out
+[00:05:13.560 --> 00:05:16.120]   is that there's a little bit of a difference here.
+[00:05:16.120 --> 00:05:17.960]   And this is probably the deepest I'm gonna get
+[00:05:17.960 --> 00:05:21.080]   into the technical, and this in the next slide,
+[00:05:21.080 --> 00:05:24.280]   is dry versus wet cell.
+[00:05:24.280 --> 00:05:25.920]   Okay, and so why the, and then, you know,
+[00:05:25.920 --> 00:05:27.920]   and here's the thing, this, okay, let me explain what it is.
+[00:05:27.920 --> 00:05:30.480]   A dry cell is where the electrolysis process
+[00:05:30.480 --> 00:05:34.000]   is not immersed in water and water is inside
+[00:05:34.000 --> 00:05:36.520]   of the, you know, of the electrolysis plate.
+[00:05:36.520 --> 00:05:38.760]   So the water comes in here and it kind of goes
+[00:05:38.760 --> 00:05:40.480]   through these plates and then it goes off
+[00:05:40.480 --> 00:05:41.720]   into the bubbler back here, right?
+[00:05:41.720 --> 00:05:43.800]   This is just like the ugliest examples,
+[00:05:43.800 --> 00:05:45.440]   but the only ones I could find.
+[00:05:45.440 --> 00:05:49.200]   I didn't feel like opening up my generators
+[00:05:49.200 --> 00:05:50.400]   and doing it that way.
+[00:05:50.400 --> 00:05:52.440]   Now, the other one is called a wet cell
+[00:05:52.440 --> 00:05:54.760]   where the entire thing is just dunked into a vat of water
+[00:05:54.760 --> 00:05:56.520]   or, you know, a bath of water.
+[00:05:56.520 --> 00:05:58.680]   And then it's gonna be in the water.
+[00:05:58.680 --> 00:06:00.440]   So it's either gonna be outside the water
+[00:06:00.440 --> 00:06:02.480]   where the water's inside this, you know,
+[00:06:02.480 --> 00:06:05.480]   electrolysis cells or the entire electrolysis cells
+[00:06:05.480 --> 00:06:06.480]   is inside the water.
+[00:06:06.480 --> 00:06:07.720]   So it's wet versus dry.
+[00:06:07.720 --> 00:06:08.880]   That's the difference there.
+[00:06:08.880 --> 00:06:10.240]   Now, why is it important?
+[00:06:10.240 --> 00:06:14.000]   Well, if it's a wet cell, the thing can run like 24 hours
+[00:06:14.000 --> 00:06:16.160]   in a straight without stopping and it doesn't overheat
+[00:06:16.160 --> 00:06:17.880]   because it's in water, right?
+[00:06:17.880 --> 00:06:20.360]   This one over here, dry cell, they can overheat.
+[00:06:20.360 --> 00:06:23.200]   And so they usually can only be run straight, like,
+[00:06:23.200 --> 00:06:24.960]   you know, like four hours, six hours, you know,
+[00:06:24.960 --> 00:06:25.800]   that sort of thing.
+[00:06:25.800 --> 00:06:28.440]   So if you're interested in buying a generator
+[00:06:28.440 --> 00:06:30.320]   that you're planning on using overnight,
+[00:06:30.320 --> 00:06:32.240]   you're probably gonna wanna lean towards a wet cell.
+[00:06:32.240 --> 00:06:34.240]   That's why that's important.
+[00:06:34.240 --> 00:06:36.080]   Okay, and so the next thing I wanna point out
+[00:06:36.080 --> 00:06:38.200]   and this is a huge deal.
+[00:06:38.200 --> 00:06:39.680]   Maybe this should have been the first slide
+[00:06:39.680 --> 00:06:44.480]   is that there is a difference between H.H.O. and Brown's Gas.
+[00:06:44.480 --> 00:06:47.400]   And if you go into my blog on the Brown's Gas page,
+[00:06:47.400 --> 00:06:51.040]   I've actually got links to the professor at Yule Brown.
+[00:06:51.040 --> 00:06:54.480]   This is what this is named after a guy in Australia,
+[00:06:54.480 --> 00:06:57.640]   a professor who basically wrote the patents
+[00:06:57.640 --> 00:07:01.480]   and did all their research and he developed Brown's Gas
+[00:07:01.480 --> 00:07:04.680]   welding, you know, generators, right?
+[00:07:04.680 --> 00:07:08.680]   And so, and what's the difference between H.H.O. and Brown's Gas?
+[00:07:08.680 --> 00:07:10.840]   And this is my opinion, by the way.
+[00:07:10.840 --> 00:07:12.840]   I have never read anybody like, you know,
+[00:07:12.840 --> 00:07:15.320]   get into this like I have or that I'm about to,
+[00:07:15.320 --> 00:07:16.840]   but the bottom line is this.
+[00:07:16.840 --> 00:07:18.360]   If you look on the left side here,
+[00:07:18.360 --> 00:07:22.880]   this is your traditional hydrogen generator electrolysis.
+[00:07:22.880 --> 00:07:25.080]   Okay, you've got the anode and the cathode.
+[00:07:25.080 --> 00:07:28.000]   Now you put the metal inside the water
+[00:07:28.000 --> 00:07:30.120]   and then you put, give it some current.
+[00:07:30.120 --> 00:07:33.000]   Okay, and then off of the anode comes oxygen
+[00:07:33.000 --> 00:07:36.360]   and off of the cathode comes hydrogen.
+[00:07:36.360 --> 00:07:38.520]   So you've got hydrogen going out one side,
+[00:07:38.520 --> 00:07:42.000]   oxygen's going out the other and you've got this pem membrane,
+[00:07:42.000 --> 00:07:45.200]   which is called a proton exchange membrane.
+[00:07:45.200 --> 00:07:49.120]   And what that does is it basically keeps the two separated
+[00:07:49.120 --> 00:07:52.120]   so that you get pure oxygen on one side, pure hydrogen.
+[00:07:52.120 --> 00:07:54.920]   You know, it takes the H.H.O. and breaks it, right?
+[00:07:54.920 --> 00:07:56.600]   Between H.H.O. and then O.
+[00:07:56.600 --> 00:07:58.760]   And so you're only getting and then the O is combined
+[00:07:58.760 --> 00:08:01.480]   and create O2 and then you've got oxygen and hydrogen.
+[00:08:01.480 --> 00:08:02.760]   And that's what these two do.
+[00:08:02.760 --> 00:08:07.760]   Now, people are selling hydrogen generators.
+[00:08:07.760 --> 00:08:12.440]   With the, there's two highways you can get a hydrogen generator,
+[00:08:12.440 --> 00:08:15.800]   you can get a hydrogen generator that just produces H.H.O.
+[00:08:15.800 --> 00:08:16.960]   There's got a port.
+[00:08:16.960 --> 00:08:20.120]   You can hook a conic cannula, kind of start cannula,
+[00:08:20.120 --> 00:08:22.080]   up to the hydrogen and inhale the hydrogen
+[00:08:22.080 --> 00:08:23.200]   or make bubbled water.
+[00:08:23.200 --> 00:08:26.160]   And then the oxygen just gets pumped out the back to exhaust
+[00:08:26.160 --> 00:08:29.440]   or the smarter ones are the ones where they've got two ports
+[00:08:29.440 --> 00:08:31.240]   where they're giving you the oxygen
+[00:08:31.240 --> 00:08:32.680]   and they're giving you the hydrogen.
+[00:08:32.680 --> 00:08:35.000]   And so here's the thing, when you have one of those,
+[00:08:35.000 --> 00:08:38.640]   like that, you can get a, you can get like a splitter
+[00:08:38.640 --> 00:08:42.400]   or a little, you know, I guess a T split, a T thing.
+[00:08:42.400 --> 00:08:43.880]   (laughs)
+[00:08:43.880 --> 00:08:45.440]   Lots of words for one of those.
+[00:08:45.440 --> 00:08:46.800]   But you can get a connector.
+[00:08:46.800 --> 00:08:49.000]   Okay, let's call that a connector, put the two together
+[00:08:49.000 --> 00:08:52.960]   and then you could be inhaling the hydrogen
+[00:08:52.960 --> 00:08:54.720]   and the oxygen mixed together
+[00:08:54.720 --> 00:08:56.400]   and you could be inhaling it together.
+[00:08:56.400 --> 00:08:58.960]   And then that's what they would call oxyhydrogen
+[00:08:58.960 --> 00:09:01.680]   because you're taking in 66% hydrogen
+[00:09:01.680 --> 00:09:04.600]   and 33% oxygen mixed together
+[00:09:04.600 --> 00:09:08.080]   and you're getting oxyhydrogen all the so-known as HHL.
+[00:09:08.080 --> 00:09:09.080]   (laughs)
+[00:09:09.080 --> 00:09:10.560]   Okay, there's that side.
+[00:09:10.560 --> 00:09:13.280]   Now the right side of the diagram here over here
+[00:09:13.280 --> 00:09:14.640]   is way different.
+[00:09:14.640 --> 00:09:17.920]   This is Yule Brown's patent, okay?
+[00:09:17.920 --> 00:09:20.960]   So personally, to me, there is a huge difference
+[00:09:20.960 --> 00:09:25.160]   between an HHL generator and a hydrogen generator
+[00:09:25.160 --> 00:09:28.600]   versus an actual patent, you know, per the patent,
+[00:09:28.600 --> 00:09:30.800]   per Brown, you know, Professor Brown,
+[00:09:30.800 --> 00:09:33.200]   what he came up with and what he did
+[00:09:33.200 --> 00:09:35.040]   was, it's kind of simple, right?
+[00:09:35.040 --> 00:09:36.760]   He just built one without a membrane
+[00:09:36.760 --> 00:09:38.960]   and he only had one poured out.
+[00:09:38.960 --> 00:09:41.120]   So what does that do?
+[00:09:41.120 --> 00:09:43.000]   Well, you still have the anode in the cathode,
+[00:09:43.000 --> 00:09:45.240]   you put current in the water.
+[00:09:45.240 --> 00:09:48.080]   And of course, you still got oxygen coming off the anode,
+[00:09:48.080 --> 00:09:50.880]   you still got hydrogen coming off of the cathode,
+[00:09:50.880 --> 00:09:55.080]   but now though, and this is theoretical, all right?
+[00:09:55.080 --> 00:09:56.680]   And there's only like, you know,
+[00:09:56.680 --> 00:09:58.680]   there's only one person that's really kind of like
+[00:09:58.680 --> 00:10:01.720]   put forth this theory and he's done all the studies.
+[00:10:01.720 --> 00:10:03.520]   And, you know, if you take him at his word,
+[00:10:03.520 --> 00:10:05.760]   this is what is happening.
+[00:10:05.760 --> 00:10:08.680]   Well, in between the cathode and the anode,
+[00:10:08.680 --> 00:10:10.680]   when you're got current going through this,
+[00:10:10.680 --> 00:10:14.880]   and basically it creates an extra set of bubbles.
+[00:10:14.880 --> 00:10:16.520]   You know, if it's big enough and wide enough away
+[00:10:16.520 --> 00:10:18.640]   from each other, and you can, apparently,
+[00:10:18.640 --> 00:10:20.720]   this is per George Weisman of Eagle Research.
+[00:10:20.720 --> 00:10:24.200]   He's the inventor there, owner operator slash inventor.
+[00:10:24.200 --> 00:10:25.920]   And he's basically stated that,
+[00:10:25.920 --> 00:10:30.920]   hey, you know what, you will see a third type of gas form
+[00:10:30.920 --> 00:10:34.880]   in between these two cathode and anodes.
+[00:10:34.880 --> 00:10:36.960]   That's not hydrogen and not oxygen,
+[00:10:36.960 --> 00:10:40.360]   but it's a third kind called electrically expanded water
+[00:10:40.360 --> 00:10:41.560]   and there'll be bubbles there.
+[00:10:41.560 --> 00:10:45.360]   And in those bubbles will be what he calls like
+[00:10:45.360 --> 00:10:47.560]   EXW, electrically expanded water,
+[00:10:47.560 --> 00:10:52.400]   plus there'll be atoms of oxygen and atoms,
+[00:10:52.400 --> 00:10:56.000]   just like O1 and atoms of hydrogen H1, okay?
+[00:10:56.000 --> 00:11:00.680]   And so you get this third mixture of gases and electrons
+[00:11:00.680 --> 00:11:04.280]   coming off of, out of this configuration,
+[00:11:04.280 --> 00:11:07.080]   and it all comes out one port together.
+[00:11:07.080 --> 00:11:08.480]   And so that's Brown's gas.
+[00:11:08.480 --> 00:11:09.920]   So you can see the difference here.
+[00:11:09.920 --> 00:11:13.360]   You can either get oxygen and hydrogen created separately
+[00:11:13.360 --> 00:11:15.480]   then mixed together while you're breathing it,
+[00:11:15.480 --> 00:11:17.920]   or you get it all together at one shot
+[00:11:17.920 --> 00:11:19.800]   and you're getting not only hydrogen,
+[00:11:19.800 --> 00:11:21.440]   not only oxygen, but you're also getting
+[00:11:21.440 --> 00:11:23.680]   electrically expanded water, plus you're getting O1
+[00:11:23.680 --> 00:11:27.200]   and H1 atoms all in the gas
+[00:11:27.200 --> 00:11:28.520]   that's coming out of the generator.
+[00:11:28.520 --> 00:11:29.720]   That's the difference here.
+[00:11:29.720 --> 00:11:31.400]   So I kind of wanted to just stipulate that
+[00:11:31.400 --> 00:11:33.480]   so that everyone, 'cause it makes a difference
+[00:11:33.480 --> 00:11:35.440]   'cause these generators are different.
+[00:11:35.440 --> 00:11:37.840]   All 15 of them that I found.
+[00:11:37.840 --> 00:11:39.680]   Next thing I want to point out
+[00:11:39.680 --> 00:11:43.480]   is that, you know, trying to compare these things.
+[00:11:43.480 --> 00:11:45.280]   It's like a little bit like, you know,
+[00:11:45.280 --> 00:11:48.120]   it's kind of apples to apples, but, you know, not,
+[00:11:48.120 --> 00:11:50.680]   you know, there's a lot of discrepancy
+[00:11:50.680 --> 00:11:53.800]   in trying to kind of like find that balance of like,
+[00:11:53.800 --> 00:11:55.600]   okay, how do you compare these two
+[00:11:55.600 --> 00:11:59.360]   to get as close to apples to apples as you can
+[00:11:59.360 --> 00:12:00.920]   because they're so different?
+[00:12:00.920 --> 00:12:02.760]   And so the thing that I want to point out
+[00:12:02.760 --> 00:12:06.760]   when it comes to gas output, 'cause generators,
+[00:12:06.760 --> 00:12:09.320]   you know, it's gonna put out a volume of gas
+[00:12:09.320 --> 00:12:10.880]   and that volume of gas is important
+[00:12:10.880 --> 00:12:13.840]   because it's gonna map to what you want to use it for.
+[00:12:13.840 --> 00:12:16.520]   So the thing about volume of gas
+[00:12:16.520 --> 00:12:19.040]   and when you're trying to compare generators
+[00:12:19.040 --> 00:12:24.040]   is that every single generator by itself has a range, okay?
+[00:12:24.040 --> 00:12:29.640]   And the ranges will vary based on the output, okay?
+[00:12:29.640 --> 00:12:31.720]   We'll vary the based on the temperature.
+[00:12:31.720 --> 00:12:35.080]   Like if the unit starts out cold, it puts out so much,
+[00:12:35.080 --> 00:12:38.680]   but if it gets warmer, it puts out its maximum.
+[00:12:38.680 --> 00:12:40.680]   Or current, if you give it low current,
+[00:12:40.680 --> 00:12:43.120]   little, you know, it'll go minimal output.
+[00:12:43.120 --> 00:12:45.080]   And then you give it its maximum current,
+[00:12:45.080 --> 00:12:47.200]   which is, you know, 100% on,
+[00:12:47.200 --> 00:12:48.840]   if you have one of those that have a meter.
+[00:12:48.840 --> 00:12:51.600]   And then it's gonna put out its maximum output.
+[00:12:51.600 --> 00:12:54.360]   So what I did to kind of do an apples-to-apples comparison
+[00:12:54.360 --> 00:12:56.240]   in the matrix, I'm gonna show you in a second,
+[00:12:56.240 --> 00:12:58.920]   is I went by the maximum.
+[00:12:58.920 --> 00:13:01.800]   So that would be like, it'd be at its peak temperature
+[00:13:01.800 --> 00:13:03.360]   and peak current.
+[00:13:03.360 --> 00:13:04.840]   And that's, well, like, that's,
+[00:13:04.840 --> 00:13:06.720]   and that's, you're gonna see those numbers there.
+[00:13:06.720 --> 00:13:08.560]   But that just kind of gives you an idea
+[00:13:08.560 --> 00:13:10.480]   that, you know, there's a variance
+[00:13:10.480 --> 00:13:12.960]   where you could have is really super low
+[00:13:12.960 --> 00:13:15.800]   or you could have the machine putting out its maximum.
+[00:13:15.800 --> 00:13:17.120]   So like a volume knob, okay?
+[00:13:17.120 --> 00:13:19.800]   So that really determines what the output is.
+[00:13:19.800 --> 00:13:23.120]   Now, almost none of them actually told,
+[00:13:23.120 --> 00:13:24.880]   that actually, you know, put in their website
+[00:13:24.880 --> 00:13:26.760]   what the minimum and maximums were.
+[00:13:26.760 --> 00:13:29.680]   Some did, not all of them, you know?
+[00:13:29.680 --> 00:13:31.240]   But if they gave me a number,
+[00:13:31.240 --> 00:13:33.360]   if they put out a number on their website,
+[00:13:33.360 --> 00:13:35.320]   boom, that's the number I used in the matrix, okay?
+[00:13:35.320 --> 00:13:37.360]   Now the other thing I wanna point out too,
+[00:13:37.360 --> 00:13:39.800]   when it regards to output, gas output,
+[00:13:39.800 --> 00:13:42.600]   is that gas output goes down.
+[00:13:42.600 --> 00:13:45.480]   If the water level in the tank goes down
+[00:13:45.480 --> 00:13:48.960]   and, or the, especially in brownscast generators
+[00:13:48.960 --> 00:13:50.800]   that use electrolytes, right?
+[00:13:50.800 --> 00:13:53.840]   Either sodium hydroxide or,
+[00:13:53.840 --> 00:13:56.600]   there's this other one that other folks use.
+[00:13:56.600 --> 00:14:00.640]   And so, if you're using electrolytes
+[00:14:00.640 --> 00:14:02.880]   and after a while, you start to put in more
+[00:14:02.880 --> 00:14:04.280]   and more and more fresh water,
+[00:14:04.280 --> 00:14:07.760]   you dilute the amount of electrolyte in the solution,
+[00:14:07.760 --> 00:14:11.280]   which then decreases the conductivity of the solution
+[00:14:11.280 --> 00:14:12.680]   and your output goes down, all right?
+[00:14:12.680 --> 00:14:15.240]   So, those also affect output.
+[00:14:15.240 --> 00:14:17.800]   So, you know, if you ever tried to test these machines
+[00:14:17.800 --> 00:14:19.480]   or compare them to each other,
+[00:14:19.480 --> 00:14:20.760]   you know, these are a lot of variables
+[00:14:20.760 --> 00:14:21.680]   you need to keep in mind.
+[00:14:21.680 --> 00:14:22.840]   So, anyway, I just wanna point that out
+[00:14:22.840 --> 00:14:25.280]   because you weren't gonna do some comparisons, okay?
+[00:14:25.280 --> 00:14:26.680]   So, here we go.
+[00:14:26.680 --> 00:14:29.520]   Now, these are the machines that I basically,
+[00:14:29.520 --> 00:14:31.120]   you know, these are the standard machines
+[00:14:31.120 --> 00:14:33.040]   I've done a product review in the past,
+[00:14:33.040 --> 00:14:35.640]   it's been a couple years, this is an update.
+[00:14:35.640 --> 00:14:37.680]   This time, although I'm not gonna play with my machines,
+[00:14:37.680 --> 00:14:39.400]   I have these three here on the right,
+[00:14:39.400 --> 00:14:42.000]   personally, and I, I mean, use them all the time.
+[00:14:42.000 --> 00:14:44.160]   But these are the four main ones
+[00:14:44.160 --> 00:14:45.440]   that are made in the United States,
+[00:14:45.440 --> 00:14:47.440]   the hydro genie, the H2 life,
+[00:14:47.440 --> 00:14:49.480]   the aqua cure and the H2 genesis, all right?
+[00:14:49.480 --> 00:14:51.720]   And then I went scouring the internet
+[00:14:51.720 --> 00:14:54.760]   and I found other folks that are making
+[00:14:54.760 --> 00:14:57.880]   brown-scast generators, H.H.O. generators for health.
+[00:14:57.880 --> 00:14:59.280]   And that's pretty fascinating.
+[00:14:59.280 --> 00:15:03.120]   So, there's companies in Australia and in India
+[00:15:03.120 --> 00:15:04.840]   and making all sorts of different models.
+[00:15:04.840 --> 00:15:06.800]   And then one of the models right here, this,
+[00:15:06.800 --> 00:15:09.200]   and you know, this company needs to talk
+[00:15:09.200 --> 00:15:12.400]   to their marketing people, you know,
+[00:15:12.400 --> 00:15:15.040]   is like, you're gonna try to sell a product,
+[00:15:15.040 --> 00:15:16.960]   don't call it the bi-wheat, you know,
+[00:15:16.960 --> 00:15:21.960]   BYT-EU-H03, you know, I mean, you know, come on,
+[00:15:21.960 --> 00:15:23.440]   get a marketing guy.
+[00:15:23.440 --> 00:15:27.280]   But anyway, so this model here, the BYT-EU-H03,
+[00:15:27.280 --> 00:15:29.800]   is also the same model that was used
+[00:15:29.800 --> 00:15:34.600]   in a clinical trial that completed, I believe a year ago,
+[00:15:34.600 --> 00:15:38.000]   in China for the use of brown-scast for,
+[00:15:38.000 --> 00:15:40.280]   or H-H-O, I should say.
+[00:15:40.280 --> 00:15:41.480]   When I say H-H-O, by the way,
+[00:15:41.480 --> 00:15:43.360]   I mean the ones that mixed the two together
+[00:15:43.360 --> 00:15:46.120]   versus brown-scast that, you know, generates EXW.
+[00:15:46.120 --> 00:15:49.560]   But anyway, this machine right here on the far right
+[00:15:49.560 --> 00:15:51.480]   was actually used in a clinical trial.
+[00:15:51.480 --> 00:15:54.640]   I just finished clinical trial week on Telegram.
+[00:15:54.640 --> 00:15:58.920]   And, you know, it was a very good trial for COVID.
+[00:15:58.920 --> 00:16:00.360]   And so it's an actual medical device,
+[00:16:00.360 --> 00:16:02.640]   class three medical device.
+[00:16:02.640 --> 00:16:03.960]   And, you know, and it's pretty cool
+[00:16:03.960 --> 00:16:05.200]   because they're actually using these
+[00:16:05.200 --> 00:16:06.760]   in hospitals in China now.
+[00:16:06.760 --> 00:16:09.000]   Okay, so let's get into the matrix.
+[00:16:09.000 --> 00:16:11.920]   So here we go, this is really exciting, I know.
+[00:16:11.920 --> 00:16:13.680]   But if you're out there and you're shopping
+[00:16:13.680 --> 00:16:16.760]   or wondering about getting one, you know,
+[00:16:16.760 --> 00:16:17.760]   I'm hopefully that, you know,
+[00:16:17.760 --> 00:16:19.840]   this is kind of gonna give you a little bit of education
+[00:16:19.840 --> 00:16:21.160]   as to what the differences are,
+[00:16:21.160 --> 00:16:22.920]   what the things you need to worry about.
+[00:16:22.920 --> 00:16:24.480]   And there's all, you know, and I just,
+[00:16:24.480 --> 00:16:26.280]   and then it comes to features too.
+[00:16:26.280 --> 00:16:29.160]   And, you know, every one of them has tons of little features,
+[00:16:29.160 --> 00:16:31.640]   whether it's timers or, you know,
+[00:16:31.640 --> 00:16:34.520]   usage meters or frequency thingies.
+[00:16:34.520 --> 00:16:36.040]   And, but you know what, bottom line,
+[00:16:36.040 --> 00:16:37.240]   they're all built for health.
+[00:16:37.240 --> 00:16:38.920]   And so they've all got the safety features
+[00:16:38.920 --> 00:16:39.920]   and let's just leave it that.
+[00:16:39.920 --> 00:16:42.640]   And these are the key features that I focused in on that,
+[00:16:42.640 --> 00:16:45.080]   you know, that I thought would be more pertinent
+[00:16:45.080 --> 00:16:46.760]   for the average person who is looking
+[00:16:46.760 --> 00:16:47.960]   to buy one of these things, okay?
+[00:16:47.960 --> 00:16:50.320]   So one of the first things obviously is price.
+[00:16:50.320 --> 00:16:52.840]   Price is a real kicker for all of us
+[00:16:52.840 --> 00:16:55.920]   because, you know, we're human beings and we, you know,
+[00:16:55.920 --> 00:16:58.800]   money's not just, you know, free.
+[00:16:58.800 --> 00:17:00.240]   So the thing is it's interesting
+[00:17:00.240 --> 00:17:03.200]   as prices since 2019 have gone quite up,
+[00:17:03.200 --> 00:17:06.080]   quite a bit, a few hundred across the board.
+[00:17:06.080 --> 00:17:09.240]   And so now that you've got the hydrogen now is running,
+[00:17:09.240 --> 00:17:10.960]   I think, well, it's not, I think,
+[00:17:10.960 --> 00:17:13.200]   but these are the prices they're running at today.
+[00:17:13.200 --> 00:17:16.000]   Today is March 12th, 2022.
+[00:17:16.000 --> 00:17:18.920]   So you've got the prices and the price range is right now
+[00:17:18.920 --> 00:17:21.160]   for a machine that's fairly, you know,
+[00:17:21.160 --> 00:17:23.240]   I mean, these are all kind of comparable.
+[00:17:23.240 --> 00:17:25.920]   I mean, right here, basically all of these are strong enough
+[00:17:25.920 --> 00:17:27.480]   or they put out enough gas
+[00:17:27.480 --> 00:17:29.480]   for two people to connect to them, all right?
+[00:17:29.480 --> 00:17:30.360]   And that's really what, you know,
+[00:17:30.360 --> 00:17:32.000]   let's just use that as a benchmark.
+[00:17:32.000 --> 00:17:35.320]   So for two people to connect to a brown-scast generator,
+[00:17:35.320 --> 00:17:41.440]   then basically you've got a price range from 1997 to 2499.
+[00:17:41.440 --> 00:17:43.680]   Again, that's what you've got right now.
+[00:17:43.680 --> 00:17:46.120]   And these are the four that are on that one slide.
+[00:17:46.120 --> 00:17:47.080]   Let me jump back, right here.
+[00:17:47.080 --> 00:17:48.320]   So these are the four right here.
+[00:17:48.320 --> 00:17:51.640]   And these are brown-scast generators, okay?
+[00:17:51.640 --> 00:17:53.520]   And the key here is why.
+[00:17:53.520 --> 00:17:56.000]   There's no membrane, okay?
+[00:17:56.000 --> 00:17:58.440]   Now everything left of this line,
+[00:17:58.440 --> 00:18:00.720]   or I'm sorry, right of this red line,
+[00:18:00.720 --> 00:18:02.160]   they all have a membrane.
+[00:18:02.160 --> 00:18:03.440]   And what does that mean?
+[00:18:03.440 --> 00:18:05.920]   Well, if they all have a membrane, then what?
+[00:18:05.920 --> 00:18:07.720]   They're an H-H-O generator.
+[00:18:07.720 --> 00:18:11.320]   And you're combining the gases, you know,
+[00:18:11.320 --> 00:18:12.440]   before you breathe them, okay?
+[00:18:12.440 --> 00:18:15.000]   It's the machine's not putting it out.
+[00:18:15.000 --> 00:18:16.120]   You know, they're putting them out separate.
+[00:18:16.120 --> 00:18:17.000]   That's what I mean.
+[00:18:17.000 --> 00:18:18.640]   Okay, so that's the key difference here.
+[00:18:18.640 --> 00:18:20.600]   That there are, these are H-H-Os
+[00:18:20.600 --> 00:18:22.560]   and these are actual true to the, you know,
+[00:18:22.560 --> 00:18:25.440]   to the patent, true to yield brown, you know,
+[00:18:25.440 --> 00:18:26.640]   actual brown-scast.
+[00:18:26.640 --> 00:18:28.080]   And so that's the difference here.
+[00:18:28.080 --> 00:18:30.800]   And you know, I just really wanna quickly just state
+[00:18:30.800 --> 00:18:35.800]   that I, you know, I think that either way,
+[00:18:35.800 --> 00:18:39.600]   I think that the combination of getting the benefits
+[00:18:39.600 --> 00:18:43.800]   of molecular hydrogen, which is extremely well documented,
+[00:18:43.800 --> 00:18:46.440]   just hundreds and hundreds of studies
+[00:18:46.440 --> 00:18:48.960]   on how good molecular hydrogen is.
+[00:18:48.960 --> 00:18:51.600]   You can find that at the Molecular Hydrogen Institute,
+[00:18:51.600 --> 00:18:53.480]   Tyler LeBaron runs that.
+[00:18:53.480 --> 00:18:55.280]   Now that's, and it's just a well documented.
+[00:18:55.280 --> 00:18:57.080]   So there's no question about how incredible
+[00:18:57.080 --> 00:18:59.040]   molecular hydrogen is for your body.
+[00:18:59.040 --> 00:19:01.680]   Now, and what is H-H-O and brown-scast?
+[00:19:01.680 --> 00:19:03.920]   Well, it's that good stuff,
+[00:19:03.920 --> 00:19:06.920]   molecular hydrogen mixed with oxygen.
+[00:19:06.920 --> 00:19:08.520]   Okay, and you're getting more oxygen
+[00:19:08.520 --> 00:19:10.120]   than you could get from the air.
+[00:19:10.120 --> 00:19:12.440]   Okay, so in, you know, using off of a generator.
+[00:19:12.440 --> 00:19:14.680]   So you're getting oxygen generated by, you know,
+[00:19:14.680 --> 00:19:16.160]   and combining with hydrogen.
+[00:19:16.160 --> 00:19:20.120]   And that is to me, you know, it's basically like, you know,
+[00:19:20.120 --> 00:19:20.960]   a plus, right?
+[00:19:20.960 --> 00:19:22.560]   You've got, you've got the benefits of hydrogen.
+[00:19:22.560 --> 00:19:24.080]   You've got the benefits of oxygen.
+[00:19:24.080 --> 00:19:27.360]   Oxygen itself is extremely well documented
+[00:19:27.360 --> 00:19:29.360]   in terms of being beneficial for your health.
+[00:19:29.360 --> 00:19:31.240]   You know, more, you know, getting oxygen
+[00:19:31.240 --> 00:19:33.000]   that's more than the oxygen you get in your air.
+[00:19:33.000 --> 00:19:36.200]   And so combining those two together is a positive thing.
+[00:19:36.200 --> 00:19:38.640]   So I don't think that there's, personally,
+[00:19:38.640 --> 00:19:40.480]   I don't think that there's a detriment
+[00:19:40.480 --> 00:19:42.680]   to getting an H-H-O generator for health
+[00:19:42.680 --> 00:19:45.240]   over getting a brown-scast generator for health.
+[00:19:45.240 --> 00:19:46.880]   That's my personal opinion.
+[00:19:46.880 --> 00:19:49.640]   However, for those of you that are truly,
+[00:19:49.640 --> 00:19:52.440]   really into the science, you know, or the, you know,
+[00:19:52.440 --> 00:19:55.160]   the, I guess it's the biohacking aspect of it.
+[00:19:55.160 --> 00:19:58.440]   Going with brown-scast, you get a little bit more than that.
+[00:19:58.440 --> 00:20:01.720]   You get this incredibly bizarre thing
+[00:20:01.720 --> 00:20:05.680]   with the monatomic elements coming out of the EXW.
+[00:20:05.680 --> 00:20:07.880]   And I think that that is something that, you know,
+[00:20:07.880 --> 00:20:10.320]   that does, you know, does that tip the scale?
+[00:20:10.320 --> 00:20:13.280]   Right off the bat, an H-H-O generator has oxygen,
+[00:20:13.280 --> 00:20:15.640]   including with, you know, with the hydrogen.
+[00:20:15.640 --> 00:20:19.080]   But a brown-scast has the oxygen, plus it's got EXW,
+[00:20:19.080 --> 00:20:20.840]   and you're getting even more benefit.
+[00:20:20.840 --> 00:20:23.040]   And so that's kind of like the difference to me.
+[00:20:23.040 --> 00:20:27.320]   So that's why I included these H-H-O generators for health.
+[00:20:27.320 --> 00:20:31.480]   And in this brown-scast generator, you know, review,
+[00:20:31.480 --> 00:20:34.640]   because I think that they bring their own benefits
+[00:20:34.640 --> 00:20:36.880]   on top of, you know, on top of, you know, on top of,
+[00:20:36.880 --> 00:20:39.240]   Michael and Michael, I'm sorry, I'm like a hydrogen to buy itself.
+[00:20:39.240 --> 00:20:40.800]   So, wanted to make that statement,
+[00:20:40.800 --> 00:20:42.480]   but that's why they're included here.
+[00:20:42.480 --> 00:20:45.080]   So now, that's the difference here,
+[00:20:45.080 --> 00:20:46.440]   is whether or not it has a membrane.
+[00:20:46.440 --> 00:20:48.120]   And then I tried, and then basically,
+[00:20:48.120 --> 00:20:52.320]   whether they're, sorry, whether they use an electrolyte or not.
+[00:20:52.320 --> 00:20:54.200]   And so you can see the hydrogen generators,
+[00:20:54.200 --> 00:20:56.680]   which are hydrogen generators, H-H-O generators.
+[00:20:56.680 --> 00:20:58.280]   They just don't use electrolytes,
+[00:20:58.280 --> 00:21:01.200]   but all of the ones that create brown-scast do,
+[00:21:01.200 --> 00:21:04.080]   some of them are, most of them are wet cells,
+[00:21:04.080 --> 00:21:06.960]   ones dry, and then the rest of the hydrogen out here,
+[00:21:06.960 --> 00:21:10.440]   hydrogen, I'm sorry, H-H-O generators are dry cell.
+[00:21:10.440 --> 00:21:12.440]   Okay, and that's the difference there.
+[00:21:12.440 --> 00:21:14.480]   Now, the gas production, as I pointed out, you know,
+[00:21:14.480 --> 00:21:18.960]   all of them are adequate for two people at a time,
+[00:21:18.960 --> 00:21:21.000]   which is really good, and because, you know,
+[00:21:21.000 --> 00:21:22.840]   you want two people, or you can bubble water
+[00:21:22.840 --> 00:21:24.480]   while you're breathing and so forth.
+[00:21:24.480 --> 00:21:25.920]   And so, you know, that's pretty much,
+[00:21:25.920 --> 00:21:29.400]   they're all kind of on an even level playing field,
+[00:21:29.400 --> 00:21:34.040]   at or about, you know, the size that you would want.
+[00:21:34.040 --> 00:21:36.320]   The other thing about, like, these two right here,
+[00:21:36.320 --> 00:21:39.040]   they have four different sizes of this model,
+[00:21:39.040 --> 00:21:41.920]   and this one has three different sizes of that model.
+[00:21:41.920 --> 00:21:44.800]   So, you know, the range is, you kind of like,
+[00:21:44.800 --> 00:21:47.360]   you just choose how big a one you want.
+[00:21:47.360 --> 00:21:48.920]   Now, the other thing about, I think,
+[00:21:48.920 --> 00:21:52.760]   that's important to buyers, is that, you know,
+[00:21:52.760 --> 00:21:55.760]   does the company provide a money-back guarantee?
+[00:21:55.760 --> 00:21:57.760]   You know, like, if, like, for whatever reason.
+[00:21:57.760 --> 00:22:00.480]   And so, there's a couple of out there that, you know,
+[00:22:00.480 --> 00:22:02.120]   there's just, there's nothing on their site
+[00:22:02.120 --> 00:22:04.200]   about anything about a refund.
+[00:22:04.200 --> 00:22:06.800]   These guys, you know, they'll only go 14 days.
+[00:22:06.800 --> 00:22:09.400]   These two companies here will go up to 60 days,
+[00:22:09.400 --> 00:22:12.040]   and then, you know, this one will go up to one year.
+[00:22:12.040 --> 00:22:13.600]   So, it's kind of important, you know,
+[00:22:13.600 --> 00:22:14.520]   when you're buying something,
+[00:22:14.520 --> 00:22:17.240]   and you're spending this much money, you know, you know,
+[00:22:17.240 --> 00:22:18.560]   hey, can you get your money back
+[00:22:18.560 --> 00:22:21.520]   if you decide that this is not for you, right?
+[00:22:21.520 --> 00:22:24.440]   So, now, the warranty is probably the most important thing.
+[00:22:24.440 --> 00:22:26.720]   These things are heavy maintenance,
+[00:22:26.720 --> 00:22:29.600]   as you, you probably, if you've seen my other videos.
+[00:22:29.600 --> 00:22:31.760]   And so, warranty, I think, is one of the critical things
+[00:22:31.760 --> 00:22:34.400]   about any product that you're buying,
+[00:22:34.400 --> 00:22:36.360]   is how, you know, how well does the company
+[00:22:36.360 --> 00:22:37.720]   stand behind their product.
+[00:22:37.720 --> 00:22:40.160]   So, I year on the Hydrogeny, you know,
+[00:22:40.160 --> 00:22:41.480]   they do a three year on the generator,
+[00:22:41.480 --> 00:22:43.720]   one year on electrical components.
+[00:22:43.720 --> 00:22:45.960]   You've got H2 Life is one year,
+[00:22:45.960 --> 00:22:49.000]   Parts and Labor, CC Day, Reach Front Policy.
+[00:22:49.000 --> 00:22:53.000]   AquaCare is still out there offering a lifetime.
+[00:22:53.000 --> 00:22:55.400]   So, but the only, the only thing is,
+[00:22:55.400 --> 00:22:58.440]   is it your lifetime or a lifetime of legal research, you know?
+[00:22:58.440 --> 00:23:00.200]   So, you know, it's kind of like the old days, right,
+[00:23:00.200 --> 00:23:03.120]   with, you know, I have video rentals, right?
+[00:23:03.120 --> 00:23:04.680]   Remember the video rentals or the,
+[00:23:04.680 --> 00:23:06.120]   or the, you know, workout at a gym,
+[00:23:06.120 --> 00:23:07.320]   they give you a lifetime membership,
+[00:23:07.320 --> 00:23:09.000]   and then they close a year later.
+[00:23:09.000 --> 00:23:10.520]   So, you know, whose lifetime is it, right?
+[00:23:10.520 --> 00:23:12.840]   But it is lifetime, and I'm just joking around,
+[00:23:12.840 --> 00:23:14.200]   around about that.
+[00:23:14.200 --> 00:23:17.480]   Now, the H2 Genesis does do two years parts in labor,
+[00:23:17.480 --> 00:23:18.320]   as a warranty.
+[00:23:18.320 --> 00:23:21.680]   So, some of the warranties now, in 2019,
+[00:23:21.680 --> 00:23:24.160]   most, a lot of companies were offering lifetime,
+[00:23:24.160 --> 00:23:25.240]   but you can see where, you know,
+[00:23:25.240 --> 00:23:27.000]   they're starting to just scale back a little bit,
+[00:23:27.000 --> 00:23:29.520]   but they're still standing up and standing up
+[00:23:29.520 --> 00:23:31.360]   behind their product, which is still good.
+[00:23:31.360 --> 00:23:32.640]   These guys, they don't even,
+[00:23:32.640 --> 00:23:36.840]   there's nothing on the website that says anything about it.
+[00:23:36.840 --> 00:23:38.680]   This one, same thing, it's just, there's none.
+[00:23:38.680 --> 00:23:41.240]   There's just, this one actually says, in their terms,
+[00:23:41.240 --> 00:23:43.000]   they don't warrant nothing.
+[00:23:43.000 --> 00:23:45.040]   So, if you, you know, you buy from this company,
+[00:23:45.040 --> 00:23:47.320]   which is called the Brown's Guys Company in India,
+[00:23:47.320 --> 00:23:49.720]   you buy one of these models, you got 14 days,
+[00:23:49.720 --> 00:23:51.120]   and then there's no warranty.
+[00:23:51.120 --> 00:23:55.240]   And so, but these other models at the same company sells,
+[00:23:55.240 --> 00:23:58.320]   you've got either 5,000 hours or two years,
+[00:23:58.320 --> 00:24:01.280]   or, you know, 5,000 hours, two years on this model.
+[00:24:01.280 --> 00:24:04.440]   And I just wanna point out something, too, on a price range.
+[00:24:04.440 --> 00:24:05.960]   When you look at the US models,
+[00:24:05.960 --> 00:24:08.400]   I mean, you know, the highest it's gonna go is about 2,500.
+[00:24:08.400 --> 00:24:10.560]   And then you look at outside the US,
+[00:24:10.560 --> 00:24:12.040]   I mean, you know, this is so expensive,
+[00:24:12.040 --> 00:24:13.760]   you have to inquire. (laughs)
+[00:24:13.760 --> 00:24:15.440]   It's always a red flag when they say, you know,
+[00:24:15.440 --> 00:24:16.600]   when you ask how much is it, and you go,
+[00:24:16.600 --> 00:24:17.960]   oh, you have to ask about it,
+[00:24:17.960 --> 00:24:19.840]   as opposed to it's printed on the website.
+[00:24:19.840 --> 00:24:21.520]   So, but you could see where, you know,
+[00:24:21.520 --> 00:24:23.080]   you've got these two models that come from
+[00:24:23.080 --> 00:24:24.920]   this one company in Australia, you know,
+[00:24:24.920 --> 00:24:28.000]   like 5,000, 90, you know, 9,000 dollars,
+[00:24:28.000 --> 00:24:30.320]   zero converted to US dollars.
+[00:24:30.320 --> 00:24:32.160]   You know, it's, it's, you know,
+[00:24:32.160 --> 00:24:35.920]   when you look at what, you can get a Brown's guest generator.
+[00:24:35.920 --> 00:24:38.840]   2,500 in US, but you go outside the US,
+[00:24:38.840 --> 00:24:40.560]   you go to Australia, you're paying over five,
+[00:24:40.560 --> 00:24:43.160]   five to 10,000 dollars to get a, you know,
+[00:24:43.160 --> 00:24:45.000]   H.H.O. generator, you're not even getting
+[00:24:45.000 --> 00:24:47.080]   an actual Brown's guest generator.
+[00:24:47.080 --> 00:24:49.120]   But, you know, same thing here, but this is that company.
+[00:24:49.120 --> 00:24:52.320]   Rural low price, but no warranty.
+[00:24:52.320 --> 00:24:56.360]   This one's 10,000 dollars, which is pretty amazing.
+[00:24:56.360 --> 00:24:58.920]   I mean, it is, these are, look how much they put out.
+[00:24:58.920 --> 00:25:01.240]   These guys are all putting out milliliters per minute.
+[00:25:01.240 --> 00:25:02.400]   These guys are putting out liters.
+[00:25:02.400 --> 00:25:04.400]   One puts out 1.5 liters per minute,
+[00:25:04.400 --> 00:25:06.720]   one puts out three liters a minute.
+[00:25:06.720 --> 00:25:07.720]   That's what they're stating.
+[00:25:07.720 --> 00:25:09.160]   And so, you know, they got, you know,
+[00:25:09.160 --> 00:25:11.000]   they got a price tag on this puppy.
+[00:25:11.000 --> 00:25:13.880]   Nine or, sorry, 10,000 dollars, essentially.
+[00:25:13.880 --> 00:25:16.840]   And the other one that this was the clinical trial one,
+[00:25:16.840 --> 00:25:20.000]   you know, they're selling for 24,000 dollars.
+[00:25:20.000 --> 00:25:22.520]   So let me just put that, just kind of to show you which ones.
+[00:25:22.520 --> 00:25:27.280]   This guy right here, the BYTEUTA01,
+[00:25:27.280 --> 00:25:29.640]   that's $10,000.
+[00:25:29.640 --> 00:25:34.520]   This puppy right here to the right is $24,000.
+[00:25:34.520 --> 00:25:37.720]   So you can see where, yeah, it's pretty wild.
+[00:25:37.720 --> 00:25:39.320]   I mean, you know, you know, I used to think
+[00:25:39.320 --> 00:25:41.720]   when I bought my first Brown's gas generator,
+[00:25:41.720 --> 00:25:43.280]   I got an AquaCare.
+[00:25:43.280 --> 00:25:45.480]   You know, I was, you know, it was like pucker time,
+[00:25:45.480 --> 00:25:49.080]   you know, putting out 2,500 bucks on something experimental.
+[00:25:49.080 --> 00:25:50.720]   But, you know, when you look at these numbers now
+[00:25:50.720 --> 00:25:52.920]   and you compare that to what's outside
+[00:25:52.920 --> 00:25:57.440]   of a United States, it's, yeah, it's like, it's like bargain.
+[00:25:57.440 --> 00:25:59.920]   So that's kind of what that is in terms of price
+[00:25:59.920 --> 00:26:01.600]   and then the warranties and stuff like that.
+[00:26:01.600 --> 00:26:03.600]   Now, here's right here are the companies
+[00:26:03.600 --> 00:26:05.840]   that are selling them, what countries that they're in.
+[00:26:05.840 --> 00:26:08.240]   So basically it's just Australia and India at this point
+[00:26:08.240 --> 00:26:09.480]   and the United States.
+[00:26:09.480 --> 00:26:11.280]   A couple of other things I want to add
+[00:26:11.280 --> 00:26:12.840]   is that there are affinity brands.
+[00:26:12.840 --> 00:26:17.200]   So if you find, you know, basically a Brown's gas generator,
+[00:26:17.200 --> 00:26:19.960]   there's an H2 promo life, which is the Hydro Genie,
+[00:26:19.960 --> 00:26:21.400]   but just, you know, it's been, you know,
+[00:26:21.400 --> 00:26:24.720]   it's been rebranded for H2 promo life.
+[00:26:24.720 --> 00:26:28.280]   And then also to the AquaCure AC50 has been rebranded.
+[00:26:28.280 --> 00:26:29.960]   And this one actually sells in Europe.
+[00:26:29.960 --> 00:26:33.560]   It's Osmo's a European company reselling the AquaCure.
+[00:26:33.560 --> 00:26:35.680]   They're called the Osmo Infinities
+[00:26:35.680 --> 00:26:39.160]   and they sell for 27, 19 in Europe, you know.
+[00:26:39.160 --> 00:26:41.720]   And so for those of you guys in the US that may not know this,
+[00:26:41.720 --> 00:26:43.680]   if you buy something from Europe,
+[00:26:43.680 --> 00:26:47.400]   there's a 21% tax and the shipping is incredible.
+[00:26:47.400 --> 00:26:49.160]   So, you know, so if you're in the US,
+[00:26:49.160 --> 00:26:51.720]   I kind of recommend that you stick with the US companies.
+[00:26:51.720 --> 00:26:53.280]   But if you're outside the US and, you know,
+[00:26:53.280 --> 00:26:55.480]   you got some choices you can either buy from the US companies
+[00:26:55.480 --> 00:26:57.880]   or buy from Australia or India.
+[00:26:57.880 --> 00:26:59.440]   So that's it.
+[00:26:59.440 --> 00:27:00.800]   That was, that's the review.
+[00:27:00.800 --> 00:27:03.120]   I just kind of wanted to share with you that A,
+[00:27:03.120 --> 00:27:05.520]   these products exist, what the differences are with them,
+[00:27:05.520 --> 00:27:07.840]   what the prices are and what I think about it,
+[00:27:07.840 --> 00:27:10.680]   in case you care what I think and I hope this has been
+[00:27:10.680 --> 00:27:11.840]   beneficial to you.
+[00:27:11.840 --> 00:27:13.720]   Thank you so much for spending some time with me
+[00:27:13.720 --> 00:27:14.640]   and listening to this.
+[00:27:14.640 --> 00:27:16.280]   I hope you learned something today
+[00:27:16.280 --> 00:27:18.040]   and I hope the information's helpful.
+[00:27:18.040 --> 00:27:20.080]   Now, if you want to learn more about what I do,
+[00:27:20.080 --> 00:27:23.080]   I'm the guy that runs the Tinkers Academy.
+[00:27:23.080 --> 00:27:26.960]   You can type tinkers.academy in your URL browser window
+[00:27:26.960 --> 00:27:28.360]   and it'll come right to my blog.
+[00:27:28.360 --> 00:27:31.200]   Now, I've got a full page dedicated to Brown's gas
+[00:27:31.200 --> 00:27:33.800]   for health and I've been really working hard on it lately
+[00:27:33.800 --> 00:27:38.800]   and really focusing on providing more of the research
+[00:27:38.800 --> 00:27:42.080]   that, you know, that I could find about Brown's gas,
+[00:27:42.080 --> 00:27:44.200]   specific to Brown's gas, you know,
+[00:27:44.200 --> 00:27:47.800]   not so much H.H.O., you know, but specific to Brown's gas,
+[00:27:47.800 --> 00:27:49.400]   well, and I guess so H.H.O.,
+[00:27:49.400 --> 00:27:51.040]   but, you know, I'm including all the studies
+[00:27:51.040 --> 00:27:52.000]   that I could find.
+[00:27:52.000 --> 00:27:54.760]   I just did a full week of clinical trials
+[00:27:54.760 --> 00:27:58.800]   that I found where I was sharing the clinical trial data
+[00:27:58.800 --> 00:28:00.920]   on Telegram and that sort of thing.
+[00:28:00.920 --> 00:28:03.640]   So if you're interested in learning more about Brown's gas,
+[00:28:03.640 --> 00:28:05.800]   I've got articles, books, links to books,
+[00:28:05.800 --> 00:28:07.440]   links to articles, links to studies,
+[00:28:07.440 --> 00:28:10.320]   links to trials, links to videos about it
+[00:28:10.320 --> 00:28:11.880]   and links to testimonies and you name it,
+[00:28:11.880 --> 00:28:15.720]   so there's a plethora of information about Brown's gas
+[00:28:15.720 --> 00:28:17.720]   on my blog at the Tinkers Academy.
+[00:28:17.720 --> 00:28:19.120]   Thank you again for watching.
+[00:28:19.120 --> 00:28:21.280]   I do hope that this was helpful for you
+[00:28:21.280 --> 00:28:26.900]   interesting and I just want to say hey thanks a lot for watching have a great day.
+

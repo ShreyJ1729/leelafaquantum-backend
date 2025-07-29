@@ -1,0 +1,367 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.480",
+        "text": " Hello everyone and welcome to another Carbon 60 video by me K Elmer and in this video I would like to share with you what I wish I knew before I ever started making C60 oil about vacuum filters and you might think that it's kind of a simple thing but it's actually way more complicated than I ever realized and it's taken me this long to figure it all out and decide you know what I like the best. So I learned a lot and I wanted to share what I learned with you."
+    },
+    {
+        "start": "00:00:27.480",
+        "end": "00:00:53.840",
+        "text": "First off though that we got to do the disclosures. This material is for research purposes only. C60 oil is not approved for consumption by the FDA. You understand that making and consuming C60 oil is experimental and you do so at your own risk. I do not endorse any products, I do not have a stake in any C60 company or product. I do not get paid in any way to make videos. This material is purely my own research that I willingly share with others. All right let's jump"
+    },
+    {
+        "start": "00:00:53.840",
+        "end": "00:01:22.040",
+        "text": "in. Now it's basically very simple. If you're making your own C60 oil it's four steps. It's you add the C60 to whatever oil of your choice. You stir for a couple of weeks and you let it settle for 10 days or a couple of weeks. You can change up the duration of these two steps any which way you like. You don't want to skimp on settling though so you can go longer. That's my tip there and you'll have you know you'll have C60 oil. Now the last step is filtering. So now why"
+    },
+    {
+        "start": "00:01:22.040",
+        "end": "00:01:49.820",
+        "text": "would you filter? That's you know obviously a really good question. Well here's the deal. If you don't filter it okay you are going to ingest either this this is this here's an example of this picture here. This is a picture of filtering C60 oil after the two weeks without letting it settle. So here you got all of this residual C60 and whatever else is going to be in there stuck in the filter. Now if you don't filter that you are the filter and that's"
+    },
+    {
+        "start": "00:01:49.820",
+        "end": "00:02:17.740",
+        "text": "going to go in your body. Now the next thing is if you do let it sit for 10 days this is what the filter looks like. So you can see that settling gets rid of you know basically you save the residual C60 and you don't get it caught in the filter but if you let it sit and you still filter it you will still come out with this brown stuff. And you know this brown stuff is most likely in a lot of people speculate. Clearly it's residual C60. It's the very fine"
+    },
+    {
+        "start": "00:02:17.740",
+        "end": "00:02:46.720",
+        "text": "particulates of C60 whatever impurities that the C60 pulled out of the oil and it's this brown stuff and it always is it's always there. Okay so here's my point. If you don't filter and it's your prerogative because you know you're taking this stuff. The bottom line is that your body your filter your filter your kidneys will have to filter this for you and for some of you maybe it's not a problem. For someone like me where I actually have kidney stones in my"
+    },
+    {
+        "start": "00:02:46.720",
+        "end": "00:03:14.540",
+        "text": "body when this stuff gets you know it's kind of think of it like this it's like river rocks and all of a sudden you throw a bunch of pebbles into the river rocks and the water still has to pass through. Those little pebbles are gonna fill in all the gaps between the river rocks and it's gonna clog you up like a beaver dam. Okay and that's what happens to me and it causes me a lot of pain if if I drink anything that doesn't hasn't been filtered yet. I mean the C60 oil and so that's why I steadfastly filter because I have kidney stones and I've"
+    },
+    {
+        "start": "00:03:14.540",
+        "end": "00:03:42.120",
+        "text": "had them in the past obviously. Now for those of you who don't have any issues with kidney stones it's your call but I'm just letting you know if that's your issue then you definitely need to filter or you will you will feel it okay and that's why I filter. So anyways let's jump right in here. Now these are the types of vacuum filters. You've got two basic types you've got the single use plastic ones that use a PES membrane and I'm not even gonna try to pronounce"
+    },
+    {
+        "start": "00:03:42.120",
+        "end": "00:04:11.280",
+        "text": "this and that's the type of membrane that they use right in this little line right there and this middle part of this bottom of the funnel is a membrane and that is what they're using as the filter. This is the funnel this is the reservoir bottle and basically that's it's a plastic one-time use and it's it's kind of unfortunate that people or some people don't realize that at first you know and it is not very clear that's why I'm doing this video because I didn't you know I mean I didn't really know either I bought one of these in the"
+    },
+    {
+        "start": "00:04:11.280",
+        "end": "00:04:37.320",
+        "text": "very, very beginning and I tried to clean the thing and it just didn't clean and couldn't figure out why until I did more research but you know it's kind of sad though because people are commenting on Amazon that these things aren't that great because they couldn't clean them and it's like well you're not supposed to clean them you cannot clean them and when you're done with it you throw the top part away and keep the bottle you know so they're single use and that's the first thing you should know about these plastic guys. Oh and they also"
+    },
+    {
+        "start": "00:04:37.320",
+        "end": "00:05:06.240",
+        "text": "break if you have a too strong a vacuum pump which I learn the hard way. Now the other kind of vacuum filter are these multi-use ones are made out of Pyrex or made out of borsilic glass they're really sturdy they can take a lot of heat they can take a lot of cold they're really solid type of glass and they're used they're they come in two different ways they either have a sinker disk or poor plate and I'll let you explain what that is but this is what they look like so you can get a glass one or you can get plastic one so you throw the tops away"
+    },
+    {
+        "start": "00:05:06.240",
+        "end": "00:05:35.840",
+        "text": "on this one and buy a new one or you can just use these over and over and over with with filter paper. Now instead of having the membrane or the filter right here that comes with the filter you have to buy a filter paper that you put at the bottom of these funnels all right. So let's go through the actual parts of these things and and believe me that you don't think about this stuff until you start having to use them all. So now here again I'm just gonna go over it one more time this is the simplest model okay it is so simple it's"
+    },
+    {
+        "start": "00:05:35.840",
+        "end": "00:06:05.680",
+        "text": "only two parts it's the top part which is the funnel and it's the bottom part which is the glass flask okay and that's it at the bottom of the funnel is a permanent filter plate and it can come in either just a glass with holes in it or it can come as a like basically when they say coarse cinctered glass it's basically crushed up glass compressed like particle board right and it's it's just it's just it's kind of glued into the bottom of this thing and that's it you've got just the two pieces. One thing that's real important about buying"
+    },
+    {
+        "start": "00:06:05.680",
+        "end": "00:06:35.640",
+        "text": "these things is is if you're buying the top separate from the bottom you want to make sure that you get the right joint size and that's the 24/40 so you see that number right there you'll see it in the advertisements make sure because that's you're gonna know if this thing's gonna fit into this you gotta get the appropriate joint size all right and then of course there's this little part right here which is for the vacuum hose and it's the two pieces. Now this other guy right here which is you know what's really hard about this is all the people that sell these things call these two things the same thing they call them"
+    },
+    {
+        "start": "00:06:35.640",
+        "end": "00:07:03.800",
+        "text": "glass butchner vacuum filters right and so you don't know really which one they're talking about unless you really look at the picture. Now this guy right here is way more complicated it comes in four parts there's the top part right here which is the glass funnel that's a separate piece of glass then this little mid piece glass called the glass support base and in between the funnel and the support base is the filter plate that you put the paper between and then you"
+    },
+    {
+        "start": "00:07:03.800",
+        "end": "00:07:31.160",
+        "text": "would use this clamp to hold the top and the bottom together okay so there's four parts right there's three parts right there and the fourth part right down here is the glass flash so these three things connect with the clamp and then you stick it on top of this flask and so the difference between these two really is that this funnel fits inside the flask this funnel when all when assembled fits over the flask it's semantics and that's really what the"
+    },
+    {
+        "start": "00:07:31.160",
+        "end": "00:07:58.460",
+        "text": "different pieces are so and then of course you've got your vacuum nozzle as well this will all come in really makes it'll make more sense why going over the parts here now the thing about the filter plates okay so you've got two different models right you got one that clamps together and you put the filter in between and then you get one that just has it stuck in you know it's it's permanently in the funnel all right now the thing about the filter plates"
+    },
+    {
+        "start": "00:07:58.460",
+        "end": "00:08:28.320",
+        "text": "that you put the filter on top of okay so this one you put the filter on top of this guy this when you put it in the between the two pieces here now the thing about this filter plates when you're looking at models like this is you can buy them either a cinctard which is the glass like the compressed glass or you can buy them as poor plates I just wanted to show you the picture so you can see that there's a difference between the two so when you see the word poor plate it's it's just glass with holes in it and you see the word cincter it means"
+    },
+    {
+        "start": "00:08:28.320",
+        "end": "00:08:55.460",
+        "text": "compressed glass you know crushed glass and that's the two differences and you'll see in a demo here at the end what the difference is when you use those okay now the thing about the course now and the course comes in two different ways as well you can get this can come in course and this always comes in course okay so right in here there's like a little course filter plate on top of the glass support base I know it gets a little crazy but anyway this is what it"
+    },
+    {
+        "start": "00:08:55.460",
+        "end": "00:09:23.540",
+        "text": "looks like okay if you take that top part off you get this bottom part and that thing fits over the flask okay well right in the middle is that compressed glass the what they call a course filter and in this guy here that just fits on top that's a course filter as well so you've got this environment where you know they use the same words for a lot of different things so that's why it was it's so so confusing in the beginning for me because you know you'd read something and it'd say the exact same words two times but there were two"
+    },
+    {
+        "start": "00:09:23.540",
+        "end": "00:09:50.500",
+        "text": "different things so it's it's kind of nutty and so when you're buying course filters the thing to know is that the you know it's it's basically meant to be porous right so they crush the glass and compress it but they want to compress it at a certain PSI and the more you compress it the tighter the holes get between the glass and so you've got these different sizes the one all the way through six and then it basically translates to this table it seems that"
+    },
+    {
+        "start": "00:09:50.500",
+        "end": "00:10:17.320",
+        "text": "when all the ones I've you know I've just I didn't know any of this too I just started I just bought one and it just happened to be 15 to 40 micron and really what that means is you're gonna put a piece of filter paper on top of this guy right and then whatever the filter doesn't catch it's gonna get caught in here and so it's kind of acts as a double filter but you could if you really really really really wanted to make sure that nothing like if you're dealing with viruses and things like that in the lab you're gonna want to make"
+    },
+    {
+        "start": "00:10:17.320",
+        "end": "00:10:43.340",
+        "text": "sure that nothing gets through so you're gonna have like the paper and you're gonna want that course filter right in here to be the same size that you would want to use right but for the purposes of making C 60 oil the idea about C 60s you want to get at less than 0.2 micron you know the paper and then using the course filter you know there's obviously you'd really kind of technically want to get it get it down this low but it seems like these are the only ones the"
+    },
+    {
+        "start": "00:10:43.340",
+        "end": "00:11:08.100",
+        "text": "most common ones you can buy so this is what I use and it works just fine and I'll show you what it looks like you know stuff does get by the filter and get stuck in this course filter okay the filter paper and then it will get stuck in into this let's just call it a filter stone or something but the idea though is that it goes through paper and then it goes through this and then it goes into the flask and this acts as a second filter so if you really want to"
+    },
+    {
+        "start": "00:11:08.100",
+        "end": "00:11:34.640",
+        "text": "get into it you can buy a very very very coarse filter to go with your vacuum filter okay see I'll get it it gets confusing alright hopefully I haven't been confusing now when you're looking at the types of filter paper that you want to use always remember the diameter of your funnel okay so you've got the funnel right here and this thing has a particular diameter all of mine"
+    },
+    {
+        "start": "00:11:34.640",
+        "end": "00:12:03.980",
+        "text": "have a 70 millimeter they can be bigger they can be smaller and so when you buy the paper it needs to fit and so the first thing you want to make sure is that it's the right diameter because I have screwed up and bought the wrong size now also to if you're using powdered C60 you only need to filter it once after you let it settle and it's recommended at the point two two now that's based off the rat study and the UM means micron so 0.22 microns we're going off of what they"
+    },
+    {
+        "start": "00:12:03.980",
+        "end": "00:12:33.280",
+        "text": "use in the rat study and the type of filter now I'm they got a guide a filter guide of all the different materials that filters are made out of paper filters in the link below in the link in the video description okay if you want to read up about them but if you read the original rat study the type of filter they use with a cellulose acetate okay so so basically everybody sticks with the rat study formula they just use a 0.22 micron cellulose acetate filter"
+    },
+    {
+        "start": "00:12:33.280",
+        "end": "00:13:02.040",
+        "text": "that they put in their vacuum filter see how this works use the word filter like 3000 times for different things anyway so if using pulver I see 60 the recommendation from red line is that you filter it first with a 20 micron filter usually it's cellulose paper rate and then a 10 and then over the time that I've been doing it I've discovered that when I use pulverized I just skip the 20 I just"
+    },
+    {
+        "start": "00:13:02.040",
+        "end": "00:13:31.160",
+        "text": "use a 10 micron filter and then I filter again with 0.22 so that's kind of how I do it with pulverized but if you just follow the the pure instructions right off the website then you just use a 10 micron and this is what it looks like just little disks of paper okay now the next thing you need to know is the tubing now tubing connections they vary by filter so if you when you look at whoop when you look at these different funnels right they've got like this little"
+    },
+    {
+        "start": "00:13:31.160",
+        "end": "00:13:59.200",
+        "text": "vacuum nozzles they vary in size and so I took a look at all three and they measured from 8 millimeters to 15 millimeters so what happens is that if you guys have a filter 8 vacuum pump that you can get off Amazon the hose adapter will fit most vacuum filters that's what this hose adapter is for the filter 8 but now most recently Swift started selling now they ship with the"
+    },
+    {
+        "start": "00:13:59.200",
+        "end": "00:14:28.360",
+        "text": "with their new models they ship the filters with a filter adapter on the hose the very first ones that I bought did not have a filter adapter which is just a basically a rubber hose attached to the tubing okay and so now the swift hose that comes with the with the pump today does not is not going to fit the the filters okay the nozzles and this is the difference here this is the filter 8 and that's the swift tubing and there is no way I try there's no way"
+    },
+    {
+        "start": "00:14:28.360",
+        "end": "00:14:55.720",
+        "text": "you can get this this adapter to fit on any of the glass ones so if you just have a swift and yours and you got this tube you can't use the glass ones okay so the reason I can is because I originally bought a filter 8 which came with this tube and I and then of course the filter 8 after about a year kind of just pitters out and then I bought a swift so I actually used my filter 8 hose with my swift pump and it works perfectly but you need this bigger you"
+    },
+    {
+        "start": "00:14:55.720",
+        "end": "00:15:24.080",
+        "text": "see how much bigger it is you need this guide in order to fit onto the onto the onto the nozzle of the filter and then lastly you know just as I when using a stronger pump stronger than filter 8 or swift which is these two little pumps are less than one cubic feet per minute but if you use anything greater than that then I highly recommend that you use tubing with a minimum of five millimeter thickness and the reason is if it's not thick enough it's going to"
+    },
+    {
+        "start": "00:15:24.080",
+        "end": "00:15:49.920",
+        "text": "collapse in on itself and you won't be able to get a good vacuum on on the flask okay so you want to get something that's pretty thick and what I use for this is I actually use aquarium filter the filter for aquariums it comes with this this really thick hose that thing works perfectly and so I use that and that works great now from a standpoint of costs this is what is going to cost"
+    },
+    {
+        "start": "00:15:49.920",
+        "end": "00:16:17.200",
+        "text": "you to filter your C60 and and the idea here is the different ways you could do it so just as just off the top if you're going to buy a single use that's going to cost you about 1092 if you buy 12 it you know if you buy a case at a time now that ones that have the clamp are $49.99 the ones that are just the the regular suction filter that doesn't have the clamp is $38.13 the one that's got the"
+    },
+    {
+        "start": "00:16:17.200",
+        "end": "00:16:45.320",
+        "text": "glass pore plate $42.86 and then the filters themselves now they're 0.22 the smaller the porosity of the filter paper that more it costs and so I get them right now for $21.99 you get 50 at a time and if you're getting the 10 milli 10 micron filters right now I can't find any on Amazon you can only find the 11 micron filters it's cellulose which means it's paper you get a hundred at a time for $13.48 so these are the various costs that you're going to have to"
+    },
+    {
+        "start": "00:16:45.320",
+        "end": "00:17:13.360",
+        "text": "incur to put together your filter device if you choose to filter the other thing too is obviously you're going to need a pump I did a separate video on pumps so you can go watch that video about the different kinds of pumps and kind of give you an idea how they work and stuff but like I said I use the I use the tubing that comes with the filter rate vacuum pump so if you don't have a pump just buy the filter rates you'll have the tube and you'll have the pump and that comes for $39.99 so overall you know you can make a combination of these types"
+    },
+    {
+        "start": "00:17:13.360",
+        "end": "00:17:38.800",
+        "text": "of these different things so that you can have a filter rig and the price range is going to be about a hundred bucks to 120 bucks okay and that 120 bucks is if you decide to go with a much stronger pump and better hoses and so as you know from the video from the video I made about pumps I use a cozy vacuum at 3.5 cubic feet for a minute and it cost me $58.99 so the ideal you know like the"
+    },
+    {
+        "start": "00:17:38.800",
+        "end": "00:18:08.200",
+        "text": "most you'd spend is 121 bucks to have like this really fast strong pump glass you know filter or you could just go and get the the least expensive one for 100 so the delta between the cheaper versus the better is so low that you know it's something to think about that it's it's it's so you know it's not a lot of difference between getting the best you can get versus just going you know good enough all right so that's something important about the price now"
+    },
+    {
+        "start": "00:18:08.200",
+        "end": "00:18:38.040",
+        "text": "let's talk about which is better and so when you talk about which is better I look at it from a standpoint of quality of output how fast that thing works how easy is it to clean and can I get the replacement parts for it so why don't we just take a look at my this little video I created about you know this was my demo and what I initially thought I was going to do was I got all three I got brand new funnels for my my glass sink dirt one this is what I'd been using"
+    },
+    {
+        "start": "00:18:38.040",
+        "end": "00:19:05.400",
+        "text": "for over a year now I've been using this model here and so I got a brand new one for the test and I'd hoped that you know I bought some extra swift pumps and I thought it'd be a really great idea you know to hook up a swift pump to all three of these guys and then do this you know like a race right but then two things happen one there there's no way I could get the the tube on a swift pump the tube that comes with this guy to fit onto the nozzles that was my first"
+    },
+    {
+        "start": "00:19:05.400",
+        "end": "00:19:34.920",
+        "text": "lesson learned and the second lesson learned was one of these two didn't even work so I bought three swifts now and only two of them have worked I'm sending the other one back for a refund so that nicks that idea so instead what I had to do was do a combination of using a swift pump with a you know with that filter hate tube and I connected it to one of them and then I had to pull out my cozy vacuum and I use that with the other one so I didn't get the run the race to see which one was faster but I do have anecdotal you know observations"
+    },
+    {
+        "start": "00:19:34.920",
+        "end": "00:20:02.840",
+        "text": "that that indicate that you know which one was faster and which one slower so now this was my the three I bought and so right here you can see right here is the course filter inside the glass base for this type of filter and then right here is the one I've been using for a while and this is what I used to call the stone but it's basically the sinctered filter that's in that it's funnel and then that"
+    },
+    {
+        "start": "00:20:02.840",
+        "end": "00:20:32.040",
+        "text": "one right there is the poor the glass pour plate and this is just it's just a plate of glass with holes drilled in it okay and that's how that filter works okay so I got all three I took the I took identical I just had to happen I've been working on this other experiment and so I have some C60 oil that has been setting for about two weeks so what I did was I filled up each one of these with approximately 300 milliliters and then because I'd used pulver I C60 I had"
+    },
+    {
+        "start": "00:20:32.040",
+        "end": "00:20:59.280",
+        "text": "to run them twice I first ran them through an 11 micron filter paper I put a paper here I put a paper on top of that put a paper on top of that and so I ran them through the 11 once and then I redid it again at 0.22 and you'll see kind of the experiment oh and this right here now that's the one that I've been using for a year and this is what happens and you can see you know earlier you can know that this was pure white and then this is what happens over a"
+    },
+    {
+        "start": "00:20:59.280",
+        "end": "00:21:28.480",
+        "text": "year and what this implies clearly is that even if you have paper on top of this thing the paper filter that you know you're still gonna get C60 that's gonna seep into your into your cincter the glass and so over time it's just gonna turn black brown and then I'm sure it's gonna turn black and it's just gonna get so thick that it just won't work one day but after one year that's what it's gonna look like and this is kind of this other one here that I've got this is one that I used in the vacuum pump video and what was real"
+    },
+    {
+        "start": "00:21:28.480",
+        "end": "00:21:57.200",
+        "text": "interesting about that is I put paper in here but you can see by the pattern of accumulation that you can see with that the the oil went around the paper and just this whole ring ended up being the filter you know and so the so this one every one of them you buy by the way is a little different so this one you know it just it was it just it didn't I don't for whatever reason it just didn't it didn't wasn't able to seal around the edges and so the edges took in a lot of"
+    },
+    {
+        "start": "00:21:57.200",
+        "end": "00:22:25.080",
+        "text": "the C60 oil and act acted as the filter itself okay that was my other one not just from that one use so now this is what I was using for pumps this is the Swift pump I've got my filter 8 tubing you know that from the other video and it fits just well now this is the thing that you this is the adapter when you're using the plastic ones and so this fits just as well on the plastic one and the point that I want to make about tubing is that it's it's impossible to put it"
+    },
+    {
+        "start": "00:22:25.080",
+        "end": "00:22:52.720",
+        "text": "on if you don't have that little black adapter so now what happens now is swift now sells pumps they sell tubing with this and as you can see that the size is just and totally different and so there's no way you can get this little guy that's that comes with the swift on these hoses so this is when I pulled out my cozy vacuum which is another vacuum pump a much bigger one a much stronger one and I started connecting him up so I've got basically if you can see in the background I've got a swift pump plugged up into this guy pulling it through and"
+    },
+    {
+        "start": "00:22:52.720",
+        "end": "00:23:22.400",
+        "text": "I've got my cozy vacuum plugged into this guy and I'm pulling it through and I'm filtering all of the oil this right here is at the 11 micron paper filter stage and so everything is starting to come through now when I was finished doing one full run of 11 micron and remember now the reason I'm doing it twice is because I'm using pulverized C60 you have to filter it twice if you want to get a really high quality product okay if you're just using powdered C60 just running"
+    },
+    {
+        "start": "00:23:22.400",
+        "end": "00:23:51.400",
+        "text": "it once should be fine okay so now at the end of the of the of the run and I used all three of the different filters this is how it came out basically first of all this is the poor plate now you can see the poor plate is perfectly clean because it's just plain glass and this is what this was the quality of the end product after filtering it through 11 and 0.22 now this other one you can see it's kind of a if you see it through the light I"
+    },
+    {
+        "start": "00:23:51.400",
+        "end": "00:24:18.160",
+        "text": "didn't pick it up but if you see through light it's kind of a dusty dusty rose does you know dusty purple color and so then this other one here this is the cinctered glass filter and this one also produced the same level of quality in terms it was kind of like this you know like kind of a muddy purple I guess muddies probably the better word and so this was the muddy purple and then this guy here you can see it's no longer pure white but it's also not brown so that"
+    },
+    {
+        "start": "00:24:18.160",
+        "end": "00:24:43.400",
+        "text": "this time this particular filter right there happen to really hold the filter paper quite well and not as much got around it okay now this guy right here is the one that you clamp on and one of the things I wanted to show is that this also the you know this was white before and then this also basically you know had c60 seeping through the 2-2 paper or at the point 2-2 paper and into this"
+    },
+    {
+        "start": "00:24:43.400",
+        "end": "00:25:09.680",
+        "text": "coarse thing so this is not immune either to absorbing some of the c60 and then it also then needs to be cleaned out to make sure that this doesn't get stuck in the course the cinctered right the glass cincter anyway and so but here's the thing look at that what's really interesting was the quality of the output the final product was so much better I mean this is is is is perfect"
+    },
+    {
+        "start": "00:25:09.680",
+        "end": "00:25:39.000",
+        "text": "this is a dark rich purple the darker the color you know the more c60s in that purple because you got to realize this is 80% MCT and 20% coconut oil when I started this was perfectly clear so to end up with a dark purple means I've got a very high saturation rate of c60 in the oil and it's it's essentially pristine c60 oil at that point but then these two guys you know they're purple if you show it shine the light but I'm just they're just kind of muddy and so"
+    },
+    {
+        "start": "00:25:39.000",
+        "end": "00:26:03.040",
+        "text": "there you go from an output standpoint there's a huge difference between those three filters now this is the filter paper well when I ran it through the 11 micron filter this is the glass cincter this is the poor plate obviously and then this is the clamp model and so you can see that there's really you know when you look at the filters the only thing that's kind of funky is this guy doesn't look as dark as these two so the poor plate didn't"
+    },
+    {
+        "start": "00:26:03.040",
+        "end": "00:26:29.920",
+        "text": "seem you know 10 11 micron paper didn't seem to pick up as much because if there's this much in the oil because remember this all came from the same batch and this is all that that filter held and you can tell you know there's a clear reason why it's so muddy but what's really weird is that even though this picked up so much more it's still muddy and then this guy you know they all actually at this stage at 11 they all came out muddy but this one was by"
+    },
+    {
+        "start": "00:26:29.920",
+        "end": "00:26:56.720",
+        "text": "far the most muddy and when I did it the second time with 0.22 micron we'll take a look at those filters you'll see that at this stage you can see where the poor plate really picks it up because this is a much thinner porosity filter paper and so you can see it took out a lot of impurities and a lot of residual particulates and so it really did do a good a much better job and this one of course is like literally a solid thing I mean this was the cinctered glass the"
+    },
+    {
+        "start": "00:26:56.720",
+        "end": "00:27:20.920",
+        "text": "one in the middle and this clearly it just filtered out everything and then this guy right here was the the clamp and it as well as this one you can tell it's so jet brown you know that it did take out a lot of the impurities but you know the proofs in the pudding when you actually look at the color of the oil and so let's just go back here when I look at the color when you compare that"
+    },
+    {
+        "start": "00:27:20.920",
+        "end": "00:27:50.560",
+        "text": "color to those colors there's just its hands down that this one well not that one but this guy right here collected and filtered out the most amount of impurities of the you know compared to the other two so clearly you know it is it is definitely a much higher quality of output you know when you use the one with the clamp now when it comes to speed the the poor plate was the fastest by"
+    },
+    {
+        "start": "00:27:50.560",
+        "end": "00:28:17.760",
+        "text": "far that thing just zipped right through it because for obvious reasons you can just imagine why you know that would work so much faster but then in but overall I found that you know the the poor plate and the cinctered one those two which you know really really were were much faster were twice as fast as the one with the clamp because you can imagine the clamps got a much smaller aperture right and and then it's because of the way it's designed nothing is"
+    },
+    {
+        "start": "00:28:17.760",
+        "end": "00:28:47.240",
+        "text": "going to get around it or not as much is going to get around it so the speed was was quite remarkable the clamp was two to three times slower than the other two the clamp was okay now in terms of cleaning I think what's really important about the cleaning is you know that's that's that's got to be something you have to consider and so easily the poor plate wins that one it's so much easier to clean and I'm going to tell you the other two are hard but you know you just run some hot soapy water through that with the vacuum on and you"
+    },
+    {
+        "start": "00:28:47.240",
+        "end": "00:29:16.120",
+        "text": "should be able to be okay but clearly you know cleaning that thing is going to be is is not it's it takes some effort okay the course wins and then in terms of replacement parts you know the thing about replacement parts when you look at these three I went looking for replacement parts and so now these little glass flasks right here these two guys they cost about 13 bucks on eBay and then you look at these two filters the funnels this guy costs about and about 30"
+    },
+    {
+        "start": "00:29:16.120",
+        "end": "00:29:42.880",
+        "text": "something dollars and this one costs like 28 dollars and so they're not that expensive once you own these guys and this guy will never get plugged up so this is like a permanent filter you'll never have to do anything else this guy and this guy because of that cinctered filter plate right there it's gonna get plugged up one day and you're gonna need to replace it and so I buy the you know actually like you saw I have three of them and they're like 23 bucks each so you can just buy another one if this gets you know full and you're good to go"
+    },
+    {
+        "start": "00:29:42.880",
+        "end": "00:30:11.720",
+        "text": "and these flasks probably will last forever unless you drop one this guy the clamp one I looked all over and there are no replacement parts and I'm sure I didn't find it and there are but I couldn't find them and I gave it a good you know 15 minutes of hardcore searching and I'm good at searching so you know I if in with a lack of easily to find replacement parts meaning when this cinctered plate gets so cluttered or so clogged that you got to replace it"
+    },
+    {
+        "start": "00:30:11.720",
+        "end": "00:30:40.640",
+        "text": "you're gonna have to buy the whole rig and the whole rig is gonna be it's gonna be a little bit pricier so you know in conclusion when you look at the quality of the output and you look at having to replace the speed and so forth and how easy it is to clean you know I'm kind of I'm on the fence but I'm I am heavily leaning towards the fact that I really like this model because up till now this is what I have been doing I've been using the cinctered glass filter"
+    },
+    {
+        "start": "00:30:40.640",
+        "end": "00:31:09.680",
+        "text": "plate on a funnel and so I paid for like 38 bucks for this thing and then and then but you saw it comes out cloudy right it comes out muddy and so then I would just run it through here like with a 10 or 22 and then depending on the type of C60 and then I would toss it in one of these and I'd run it at 0.22 and it come out that beautiful purple and so every time I run a batch you know I bought this thing it's a kind of a permanent thing but I have to use papers here right so I'm I'm always burning up money to using papers which you will"
+    },
+    {
+        "start": "00:31:09.680",
+        "end": "00:31:38.640",
+        "text": "on this one right but pretty much I paid for that thing and it's running but I had to keep buying one of these I buy well a case at a time but I burn one of these every time I run a batch so over time it's gonna be very expensive right because it's 11 bucks a batch but this guy I'm figuring that for 49 or 49 bucks right I can buy this thing and all I gotta do is put in papers like I would over here but it's gonna probably last a good long time as long as I keep it really clean and overall it's gonna be the cheaper alternative cheaper and"
+    },
+    {
+        "start": "00:31:38.640",
+        "end": "00:32:08.040",
+        "text": "better quality and so I am so impressed with the output from this guy that you know from now on this is gonna be my go-to once I burn up all of these now lastly I want to just kind of tell you because right now these the I took the muddy the muddy output from the other two funnels and I poured it into this clamp one and I hooked it up to the swift so while I'm making this video this thing's running and I just ran over and took a quick picture of it and look at how beautiful the purple is so you know it's it's I proved it you know those"
+    },
+    {
+        "start": "00:32:08.040",
+        "end": "00:32:35.240",
+        "text": "other two filters they're not as good from an output standpoint and so it this one is clearly the better filter using the same paper now it's the better filter so this is really my recommendation if you're looking for a filter and you haven't bought one yet then this is the way to go and you will literally have the highest quality output you can get without having to kind of like keep burning these now these these these these plastic ones because these plastic ones are they're really good I mean they work really"
+    },
+    {
+        "start": "00:32:35.240",
+        "end": "00:33:00.520",
+        "text": "well you get that beautiful purple every time but if you can get that beautiful purple with this guy you're good to go well that's it thank you so much for watching this video I know it's kind of this you know nerdy kind of topic but you know thank you thank you for you know stopping by and and listening to me ramble about vacuum filters I hope I didn't ramble too badly and I do appreciate all your kind comments from my last video it was very very very"
+    },
+    {
+        "start": "00:33:00.520",
+        "end": "00:33:27.920",
+        "text": "touching I did find something new about that as well and basically you know C6 he's really good for a lot of different things but C60 will not mend a broken heart so anyway that is something that we all learn so thank you again for stopping by and and spending some time with me and watching my video if you have any questions again there's we have a telegram C60 chat group for people who"
+    },
+    {
+        "start": "00:33:27.920",
+        "end": "00:33:41.880",
+        "text": "like to make C60 so if you have any questions that you're trying to do your own project just jump on in and there'll be a whole bunch of people be really happy to answer your questions alrighty so thanks again have a great day aloha"
+    }
+]

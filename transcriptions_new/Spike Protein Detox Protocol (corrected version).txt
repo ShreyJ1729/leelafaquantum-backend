@@ -1,0 +1,247 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.080",
+        "text": " Hey everybody, this is a repost of the Spike Protein Detox Protocol video. I made a mistake in the actual quantities of the different supplements for the protocol that I do apologize for that. I've been tinkering around using AI tools and apparently the first thing out of the gate is you can't trust them to summarize anything correctly. The first lesson learned was you really need to do your own homework and those tools are"
+    },
+    {
+        "start": "00:00:28.080",
+        "end": "00:00:55.400",
+        "text": "helpful, but don't rely on them. Boy, that was stupid and I'm sorry. I apologize for the error and so this is a corrected version so that I replaced the section in this video where I talk about the actual protocol itself and also corrected all the show notes. So, again, I apologize for the incorrect information in the first video and so here you go for the original. Aloha everyone and welcome to another Takers Academy video. I'm your host, Kay Elmer."
+    },
+    {
+        "start": "00:00:55.400",
+        "end": "00:01:24.240",
+        "text": "And in this video, I'd like to share with you some pretty interesting news in the health front. There's now been a Spike Protein Detox protocol. That's the first time it's ever been published in a United States medical journal and so now this is somewhat big news because this is obviously one of the issues of our decade if you've been following the entire story of the vaccinations and COVID as in terms of long haul COVID."
+    },
+    {
+        "start": "00:01:24.240",
+        "end": "00:01:51.480",
+        "text": "So there's a lot of people suffering from this and this is the very first protocol that's actually made it through all the channels that need to be gone through in order to actually publish in a medical journal in the United States. So it's a big deal for this story that's been developing since 2020. So I wanted to share with you that first article that just came out, the research behind it and the protocol itself. So come along, let's start and jump right in."
+    },
+    {
+        "start": "00:01:51.480",
+        "end": "00:02:20.360",
+        "text": "So the very first thing I want to do obviously is I do, I'm sorry, I have to do a disclaimer that this video content is not intended to be substitute for professional medical advice diagnosis or treatment, always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or seen in this video or on the Tinkers Academy website. The Tinkers Academy hereby disclaims any and all liability to any party for any direct"
+    },
+    {
+        "start": "00:02:20.360",
+        "end": "00:02:47.840",
+        "text": "indirect implied punitive, special, incidental or other consequential damages arising directly or indirectly for many use of this video content and associated blog posts, which is provided as is and without warranties. So there you go. Thank you for putting it with that. Now, I just want to also say that all of the information shared in this video is available. Links to all of the original material and information collected in this video is all in the video description."
+    },
+    {
+        "start": "00:02:47.840",
+        "end": "00:03:15.720",
+        "text": "If you're interested in reading the report yourself and or the associate research behind it, feel free. It's all in the links. So there you go. Now let me jump right into the actual article that came out. Now this was published just a couple of weeks ago today is September 7th, 2023. So within the last couple of weeks in the journal of American physicians and surgeons, the fall edition of 2023, an article was published called clinical rationale for SARS COVID-2"
+    },
+    {
+        "start": "00:03:15.720",
+        "end": "00:03:42.280",
+        "text": "based spike protein detoxification in post COVID-19 and vaccine injury syndromes. Now this was published. The doctors involved with this were Dr. Peter McCollough and Dr. Brian Proctor. And I believe another doctor, Kate Nguyen, but there's no little initials after this person's name. So I'm not quite sure. However, this article was published in a medical journal, a big deal here and specifically"
+    },
+    {
+        "start": "00:03:42.280",
+        "end": "00:04:09.400",
+        "text": "on how to detox from this spike protein, which as many of you who follow this news, you may realize that the whole thing behind that is all the M R N A stuff. And now that's been put in all sorts of different vaccines. So this is not going to go away, even if COVID goes away. So I just, you know, wanted to point that out. So this paper simply puts together and of course, you know, if you want to read it, there's"
+    },
+    {
+        "start": "00:04:09.400",
+        "end": "00:04:36.880",
+        "text": "a link, but I just want to do a quick summary as quick as I can, basically, you know, highlighting the, you know, the big points of the paper and bottom line was, you know, the paper covers the idea of what's been going on that most people who have contracted COVID-19 or taken one of the many COVID-19 vaccines have been exposed to the injurious cars, SARS COVID-2 spike protein, which is what they designed that whole vaccine around."
+    },
+    {
+        "start": "00:04:36.880",
+        "end": "00:05:04.640",
+        "text": "And so the immunity handles the infection, defends the body against systemic illness. That's the whole point behind, you know, this is what our bodies do. However, they created this vaccine, you know, and certain people are having issues with it. So that's kind of what they cover in their paper that the vaccines deliver the genetic code for the spike protein, which is how they want, you know, they wanted to fight fire with fire, right? And the spike protein is associated with post COVID-19 syndrome, from symptoms."
+    },
+    {
+        "start": "00:05:04.640",
+        "end": "00:05:29.880",
+        "text": "Sorry, particularly myocarditis in children and young adults. So some side effects, surprise, surprise. So you know, it's just how this is going, right? So now you've not, you've got not only you have problems with people with COVID and there's a lot of people out there with long COVID because of the spike protein issue, but then when they went to go fight it, you know, they created new issues right with this vaccine."
+    },
+    {
+        "start": "00:05:29.880",
+        "end": "00:05:59.120",
+        "text": "And as the spike protein is responsible for the pathogenicity of the SARS COVID-2 infection and drives the development of adverse events, injuries, disabilities and death after vaccination through immunologic and thrombotic mechanisms. So that's the fancy way of saying, Hey, you know what, there are people that are vaccine injured. There are people who are along COVID injured. And this is really just kind of the bad, a bad situation for humanity in general."
+    },
+    {
+        "start": "00:05:59.120",
+        "end": "00:06:27.220",
+        "text": "And it's not going away anytime soon. So what these doctors did, you know, with this understanding, basically they put together a protocol. Now the protocol is supported with research done by other scientists and I want to walk you through it. And it breaks down into simply three natural substances. You can go and buy it any, any place that cell supplements. You can buy these substances and they put together the protocol based on the research"
+    },
+    {
+        "start": "00:06:27.220",
+        "end": "00:06:56.320",
+        "text": "of the supplement effect on the SARS COVID-2 virus. And so they put all of this research together and put together this protocol. And that's what this paper basically is. It's the protocol of these different research projects that had gone on with regard specifically to what types of natural substances in our environment, you know, can help your body mitigate the effect of these spike proteins that are really hurting people."
+    },
+    {
+        "start": "00:06:56.320",
+        "end": "00:07:22.960",
+        "text": "And so one of the first ones, the papers, that support, okay, see these are studies that support the paper that Dr. McAuliffe and Dr. Proctor wrote, okay, in the journal. And so I just want to point out that there are some, you know, this is actual hard science that supports the article. It's not just a couple of doctors came up with an idea that it's all tied together. There's research papers published in the medical literature."
+    },
+    {
+        "start": "00:07:22.960",
+        "end": "00:07:49.700",
+        "text": "And then of course these guys wrote an article that got approved for the journal. So now that one of the first things that I want to point out is if there's three main components and substances that these guys, these two doctors put together as their protocol and one of them is called Nara Tenasi. And basically what that is, it's a derivative of soybeans. But here's the study here in the National Center for Biological Information, the NCBI"
+    },
+    {
+        "start": "00:07:49.700",
+        "end": "00:08:19.020",
+        "text": "directory, and the study for this particular substance is called the Degradative Effect of Nara Tenasi on Spike Protein of SARS-COVID-2, version two. And so bottom line, if you read the abstract, you read this study, okay, the studies, I'll just, I just plucked a little bit out of the abstract. Basically it says the immunofluorescence analysis showed that the spike protein on the cell surface was degraded when Nara Tenasi was added to the culture medium, okay, thus our"
+    },
+    {
+        "start": "00:08:19.020",
+        "end": "00:08:44.780",
+        "text": "finding suggests that Nara Tenasi exhibits potential for the inhibition of SARS-COVID-2 infection via spike protein degradation. So there's definitely been a study that says, hey, you know what, Nara Tenasi works against this stuff. Okay, now the other study that was what was supporting the journal paper was a study that's also been published in the National Center for Biological Information, Biotechnology Information."
+    },
+    {
+        "start": "00:08:44.780",
+        "end": "00:09:13.700",
+        "text": "And this paper is called the Bromelane Inhibits SARS-COVID-2 infection in Vero-E6 cells, okay. And so from that abstract, this discovery for these scientists had found out, these are all independent scientists out there in the world, so they're not all working together. These are all different scientists and different doctors and so forth. So but this, these scientists discovered that Bromelane, so they, this is right out of their abstract, basically a summary of the results, it says, we demonstrate that Bromelane isolated"
+    },
+    {
+        "start": "00:09:13.700",
+        "end": "00:09:41.740",
+        "text": "for the pineapple stem uses a dietary supplement. Treatment diminishes the expression of ACE2 and TMPR-SS2 in Vero-E6 cells and dramatically lowers the expression of S ectodomane domain, importantly, okay, Bromelane treatment reduced the interaction between S ectodomane and Vero-E6 cells. That's scientists were saying it affected the spike protein's ability to infect the cell,"
+    },
+    {
+        "start": "00:09:41.740",
+        "end": "00:10:09.940",
+        "text": "most importantly though, in Bromelane treatment significantly diminished the SARS-COVID-2 infection in these Vero-E6 cells altogether, our results suggest that Bromelane or Bromelane rich pineapple stem may be used in an antiviral against COVID-19. So you know, this is also again, this is a study that supports Bromelane. Now the third substance in the journal paper that the two doctors put together for a detox is curcumin."
+    },
+    {
+        "start": "00:10:09.940",
+        "end": "00:10:38.460",
+        "text": "Now for those of you know, curcumin is an extract of turmeric. And so this paper is published in Science Direct, and it's titled, \"Curcumin inhibits spike protein of New SARS-COVID-2 variant of concern, omicron, and in silico study.\" Okay, it's an in silico study. So the results were that these scientists discovered that curcumin among seven phytochemicals was found to have the most substantial inhibitory potential with omicron spike protein."
+    },
+    {
+        "start": "00:10:38.460",
+        "end": "00:11:04.580",
+        "text": "Further, it was found that curcumin could disrupt the omicron as ACE2 complex. The molecular dynamic stimulation or simulation, sorry, demonstrated that curcumin could form a stable structure with omicron spike in the physiological environment. So the conclusion of these scientists was to conclude that curcumin can be considered as a potential therapeutic agent against the highly infectious omicron variant of SARS-COVID-2."
+    },
+    {
+        "start": "00:11:04.580",
+        "end": "00:11:34.540",
+        "text": "All right, so there you go, you've got scientific studies that support three separate substances that are all really, really, really helpful as a treatment for spike protein issues, which is both COVID and vaccine injury. So now going back to the paper, I kind of want to highlight some of the things that the paper said that a lot of folks don't read the whole thing. So I just want to highlight a couple of things that you should be aware of. Now if you know someone or you yourself have long haul COVID or you've got COVID or just"
+    },
+    {
+        "start": "00:11:34.540",
+        "end": "00:12:03.940",
+        "text": "regular COVID or, you know, you've had some issues with the vaccine after receiving them, after receiving the boosters and so forth, going back to the paper by Dr. McAuliffe and Dr. Proctor, I just want to stipulate there's some things that I think are very important here to share. Now their conclusion in their paper that was published in the journal, it says, you know, conclusion, no therapeutic claims can be made until a large prospective randomized double blind plus, double controlled trials are completed."
+    },
+    {
+        "start": "00:12:03.940",
+        "end": "00:12:31.360",
+        "text": "However, a triad of Nino Canassie, Bromelain and Nino Kirkman is a reasonable empiric strategy for those suffering with post COVID-19 or vaccine associated symptoms. Chronic disabling from long COVID and following mRNA injections are an increasingly prevalent problem and Nino Canassie, Bromelain and Kirkman should be considered as treatment."
+    },
+    {
+        "start": "00:12:31.360",
+        "end": "00:13:00.380",
+        "text": "So again, you know, this is in a very important point is that all of those studies were all done in a lab and there have been no long-term human studies as much as there's been any long-term human studies of the vaccines, right? So the whole idea here though is that, you know, hey, where they found these things at work, they, you know, and everything about them is, you know, should be considered as the treatment. However, be aware, you know, all of this is just coming up, small, brand new, paper just"
+    },
+    {
+        "start": "00:13:00.380",
+        "end": "00:13:29.900",
+        "text": "came out a couple of weeks ago, all of this is new, so there has been no long-term human's trials but it's being highly recommended by Dr. McAuliffe and Dr. Proctor as a protocol when you combine these three things, you know, that it will most likely help, okay. Now the other thing in the paper that I really want to point out to about some of these things that you should be aware of is Nino Canassie, you know, you know, it bottom line, it comes"
+    },
+    {
+        "start": "00:13:29.900",
+        "end": "00:13:59.020",
+        "text": "from, you know, soy, soybeans, it's fermented soybean thing. But the thing about it though is even though it effectively stops SARS-CoV-2 and bovine herpes, virus type 1 infections in human cells in culture, right, and the protolift effect of Nino Canassie was heat sensitive. So a couple of things here and the paper also stipulates that however, the risk of bleeding must be considered when using Nino Canassie with concurrent anti-palate platelet and anti-quagulant drugs, okay."
+    },
+    {
+        "start": "00:13:59.020",
+        "end": "00:14:25.400",
+        "text": "So there's like these little sentences in the journal paper that people might not pick up on but you need to be aware. If you're on blood thinners, don't take this, period, okay. Just or consult with your doctor but, you know, bottom line is that you don't want to be taking Nino Canassie if you're on blood thinners and that's what this one sentence translates to, okay. It might work really well with SARS but you don't want to compound your problems, all right. So just heads up on that one."
+    },
+    {
+        "start": "00:14:25.400",
+        "end": "00:14:51.420",
+        "text": "The other one that I want to give everybody heads up on that bromelane as noted is, you know, it's basically it's been, it's isolated from a pineapple stem. It's been used as an anti-inflammatory and healing effects causing arthritis and injury has been approved in Europe for, you know, and even for burn wounds, you know, and it's used for that. It's actually enough, it's actually used as a drug too, you know, and so, but the idea about bromelane though that I wanted to point out something from the paper that you may"
+    },
+    {
+        "start": "00:14:51.420",
+        "end": "00:15:16.460",
+        "text": "not have caught is that bromelane can increase bleeding risk, cause gastrointestinal upset and increase the absorptions and increase the absorptions of medications including antibiotics, chemotherapy, butic agents, ACE inhibitors, benzodiazepines, certain antidepressants, opioids and barbiturates, okay. So when it says it can increase the absorption of that, then, you know, the caution here"
+    },
+    {
+        "start": "00:15:16.460",
+        "end": "00:15:41.220",
+        "text": "is taking bromelane, again, if you're on blood dinners, and then also too, if you're on other one of these, any types of these types of medications, it's a caution that you would be taking bromelane, obviously talk to your physician if you're on these drugs. So b, just a heads up, wanted to make sure when it's real clear on some of the cautions here that are in the paper that you may not have caught. The other thing about now is the third one is curcumin."
+    },
+    {
+        "start": "00:15:41.220",
+        "end": "00:16:10.580",
+        "text": "Carcumin, again, is a polyphenol that's derived from turmeric, okay, and of course, you know, the papers show that it's, it prevents the entry of the SARS-2 into cells by blocking the spike protein sites, binding sites on your cells. So it's been found to do that in the lab. However, one of the other things about curcumin, though, is it's a spice. It's also been shown to reduce inflammatory marking markers in the settings of COVID spike protein, mediated infection and injury."
+    },
+    {
+        "start": "00:16:10.580",
+        "end": "00:16:36.140",
+        "text": "It can be taken as an oral supplement, and this is the key, but may decrease the effectiveness of prescription hormones, thyroid, and estradiol, okay. So there, again, there's another caution, wanted to make sure that you caught that in the paper. So for those of you who are looking at, you know, any kind of relief from whatever you're going through or your loved ones, and you want to go ahead and do this, please be aware"
+    },
+    {
+        "start": "00:16:36.140",
+        "end": "00:16:59.500",
+        "text": "of the cautions, please be aware of the conclusions, and just, you know, and walk into this, you know, with, you know, just awareness of the things that may not work out if you have any of these kinds of situations. So I just want to be real clear about that. And so that's the summary of the protocol is to say, hey, you know what, we got three, we found three things that work really well. Let's put them together. Okay."
+    },
+    {
+        "start": "00:16:59.500",
+        "end": "00:17:28.420",
+        "text": "So now I went through the paper and I accurately, this time, sorry, this is reposting here, about the actual protocol itself. And so I just wanted to kind of stipulate this is exactly what you would need to do according to Dr. McAuliffe and Proctor, in terms of how to detox those spike proteins out of your body. And again, you know, this is for both COVID, long haul COVID, and also the vaccine injury type of symptoms."
+    },
+    {
+        "start": "00:17:28.420",
+        "end": "00:17:56.340",
+        "text": "So the whole thing comes down to the three different substances, so nato kenase. You would want to take 2,000 FU and that FU stands for fibrin units twice a day. You would want to take bromolane along with this, you'd take bromolane, 500 milligrams per day, and curcumin, 500 milligrams twice per day. Okay. Now you do that for a whole 90 days, and that's the protocol the doctors are recommending in the journal article."
+    },
+    {
+        "start": "00:17:56.340",
+        "end": "00:18:24.180",
+        "text": "So now I did some Amazon math for everybody, which is kind of make it simple for you guys. I go through Amazon and just like you, you know, pick the highest rated number of stars, four and a half or above, and with the lowest price. And so I kind of like decided, hey, if I was going to do this for myself, then let me go ahead and show you guys what I would do. And then, you know, what the cost is really to do the protocol. So now if I picked out these three different products for that reason, right, high, high"
+    },
+    {
+        "start": "00:18:24.180",
+        "end": "00:18:53.860",
+        "text": "review count, low price, lowest price for the highest stars. And so now they all come in different quantities in terms of, you know, the amount of, you know, the substance within the each capsule and the number of tablets within each bottle. So the whole idea here though is if you buy this one particular brand, links in the video description. You know, they don't want bottle at two times a day, will last you 60 days, right, so 120 in there. Same with the Kirkham in itself."
+    },
+    {
+        "start": "00:18:53.860",
+        "end": "00:19:21.940",
+        "text": "So you would want to go ahead and you need, you know, for 90 days, you'd need at least two of these. So you'd want to buy two of those for, you know, for it last you longer than the 90 days, but you'd have enough for the whole 90 day protocol. Okay. And then that thing about not a connoisseur, you want to point out that a little unique is that this type of substance is measured in these fibrin units in terms of its potency. Not to be confused with milligrams. Okay. And that's kind of what screwed me up the first time around."
+    },
+    {
+        "start": "00:19:21.940",
+        "end": "00:19:51.140",
+        "text": "And so you would want to get the not a connoisseur 2000 FU and that's what's going to be the correct type of not a connoisseur, the Tef, correct potency for the protocol. So bromelain is pretty straightforward, it's just, you know, buy a bottle and you know if you just buy one bottle, it's super cheap, 120 in one, you just take 500 milligrams per day, right, along with the other two substances. So one bottle last 120 days, perfect for the protocol."
+    },
+    {
+        "start": "00:19:51.140",
+        "end": "00:20:21.060",
+        "text": "Now with Kirkham and I do want to point out, you know, I buy this, I've been buying this and taking this daily for over a while over a decade. And so the thing about Kirkham and that you should be aware of when you're out shopping for it is that it's a derivative or it's an extract of turmeric. Okay. So it takes a bunch of turmeric to make a little bit of Kirkham and so what you'll find that if you go on Amazon, you'll find a bunch of when you like Google or search for Kirkham and you're going to find products that are called turmeric Kirkham and I just want to"
+    },
+    {
+        "start": "00:20:21.060",
+        "end": "00:20:49.940",
+        "text": "point out that that is not the same as actual Kirkham and so you need to look at the ingredients and if it says turmeric and they're calling their product turmeric Kirkham and it basically means that it's got a whole bunch of cheap turmeric in it and a little bit of the expensive Kirkham in it and so, you know, it's not going to be what you need for the protocol. So for the protocol itself, it is a product that I recommend and I take myself which is Kirkham and 95 from Jarl Formulas and it's all Kirkham and you look at the ingredients"
+    },
+    {
+        "start": "00:20:49.940",
+        "end": "00:21:19.860",
+        "text": "it says Kirkham and right or it says turmeric extract, it doesn't say turmeric. So you got to be real careful about the, you know, the kind of the monkey around the words on you and they will sell you a turmeric making you think that it's Kirkham and it's not. This is all Kirkham and from Jarl Formulas, one bottle, 120 days, you take it twice a day, it's going to be 60 days for one bottle so you need to buy two to get through the protocol and so make sure you buy two of those and make sure you buy actual Kirkham. All right."
+    },
+    {
+        "start": "00:21:19.860",
+        "end": "00:21:47.580",
+        "text": "So now if you go on Amazon today and you buy these three products just to make it simple for you and save you some time, if you buy two and one and two of these, it's going to come out to about $102. So for $102, you know, that's a pretty inexpensive way to detox, you know, these things out of your body, help people that you know are injured and stuff like that. So way lower than my first, you know, analysis and I'm, again, I'm sorry for the incorrect information in the first video."
+    },
+    {
+        "start": "00:21:47.580",
+        "end": "00:22:13.500",
+        "text": "That's why this is coming out and I want to make sure it's accurate and that I do correct my mistakes. So hey, this is what you would do, $102, do the protocol and help yourself feel better according to Dr. Proctor and Dr. McCollum and all the research that stands behind it. So there you go. Now I also want to just say thanks for watching the video, I really appreciate your patronage. You can find me and all the other stuff that I do at Tinkers.academy, you just type that"
+    },
+    {
+        "start": "00:22:13.500",
+        "end": "00:22:36.580",
+        "text": "in your URL window and that takes you to my blog and also to, you know, if you found this information helpful, educational and so forth, that's the type of content that I do put out. So I'd appreciate if you'd like and subscribe to the videos and to my channel and that helps me promote this information to others and hopefully help them as well. So otherwise, you know, other than that, I really appreciate your time. Thanks for watching the video and have a great day. Aloha."
+    }
+]

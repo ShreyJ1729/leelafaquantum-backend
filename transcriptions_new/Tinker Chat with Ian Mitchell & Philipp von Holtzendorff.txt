@@ -1,0 +1,742 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.120",
+        "text": " a lot of everyone and welcome to a new Tinkers Academy video. This is a Tinkers chat. I've got Ian Mitchell and Philip Von Holzendorf on the line and we've got a great lineup of discussion topics for you today. You know, I just want to introduce these two gentlemen for anyone who doesn't or hasn't heard of them before. Ian Mitchell is with Wizard Sciences."
+    },
+    {
+        "start": "00:00:26.120",
+        "end": "00:00:53.800",
+        "text": "He is a one of the more profound C60 scientists out there. He's got three, I believe, right three different patents to your name regarding C60. And you're also the father of the first P53 knockout rat study to validate the body study that actually launched the C60 supplement phenomena. Plus, you're also done multiple dog studies on C60. And it's just, this guy"
+    },
+    {
+        "start": "00:00:53.800",
+        "end": "00:01:23.400",
+        "text": "knows C60. And he's also an incredible biohacker wizard. Yeah. And so, and then all of us, we've got Philip Von Holzendorf on the line. And he is with the Layla Labs, the Layla C60 Labs and Layla Quantum Tech. He's an interesting thing about Philip is he's a former cell phone industry executive, national tennis player, and turn entrepreneur. So there's some guys"
+    },
+    {
+        "start": "00:01:23.400",
+        "end": "00:01:50.000",
+        "text": "got some great background. But he's also a C60 entrepreneur and has multiple products out there that are C60 related as well as in the quantum space as well. So hey, guys, welcome. Good morning. Thanks for having us, Kay. Philip, how are you doing today? Hey, Kay. Thanks so much. Okay. Yeah. Thanks so much. That's I'm looking forward to the discussion. Yeah, you know, I do want to point out one thing. And it's the beauty of Google."
+    },
+    {
+        "start": "00:01:50.000",
+        "end": "00:02:17.240",
+        "text": "And I want to go pull your pictures for this slide just to show what you two look like. I kind of want to, I found a real interesting picture I wanted to share. And this is a picture of young Philip that is out on Google. That is fantastic, man. That is great. Isn't Google wonderful? Okay. So kids, I just want to say, you know, it's a warning. So this is if you"
+    },
+    {
+        "start": "00:02:17.240",
+        "end": "00:02:42.160",
+        "text": "look like this now, and you start investing in crypto, this is you're going to get scruffy looking. You know, so this is what crypto does to you. It's either that or teenagers. I think we all have a teenager actually minds off the college now. But look what teenagers does to you, but we're all still looking pretty young because we all do see 60. But yeah,"
+    },
+    {
+        "start": "00:02:42.160",
+        "end": "00:03:03.720",
+        "text": "that was pretty funny. This has got to be when you were working in telecom. Is that you're like your LinkedIn photo? Yeah, probably. I don't even know if you wish here that was, but it's quite some time ago. Yeah. Anyway, that's Google for you. So so anyway, I couldn't"
+    },
+    {
+        "start": "00:03:03.720",
+        "end": "00:03:33.680",
+        "text": "find one of you. I and I looked all over. Thank God, reach out to my mom. Okay. That's all right. You know, I love Google. Sometimes you find the wildest stuff out there. Okay. So hey, so the discussion topics today is we're going to talk about the latest research. These two incredible minds are doing. There's some of the new products that are coming out. Some"
+    },
+    {
+        "start": "00:03:33.680",
+        "end": "00:03:59.360",
+        "text": "of the new projects are working on. And you know, any C60 stuff that comes up for anybody that's still interested in C60, although it's kind of waned down last couple of years and we've kind of like moved off to different subjects. But because I'm actually really looking into all sorts of other things as well as C60 now. But so these the last time we kind of chatted, you know, you know, I and you'd launched the resistor product. It"
+    },
+    {
+        "start": "00:03:59.360",
+        "end": "00:04:24.400",
+        "text": "was an ozone based product. And then there was the Layla Quantum jacket that was launched out there. But so what I'd like to do is just kind of open it up and just say, Hey, guys, you know, like, what are you working on now? And then, you know, start with either one of you and let's just go from there. What do you want to talk about? Well, if you want to take this one first? Sure, why not? So there are different fronts. Obviously, one"
+    },
+    {
+        "start": "00:04:24.400",
+        "end": "00:04:50.360",
+        "text": "is the C60 side. And you know, we're very happy with the product portfolio we have currently. So we're we're just optimizing. And one thing we don't have to dive into really much. But I want to mention it at least today is that we're optimizing further our C60 in black seat all capsules. So very unique product that some of you may already know of. It's"
+    },
+    {
+        "start": "00:04:50.360",
+        "end": "00:05:19.160",
+        "text": "the only one that contains Aztec santin, which we found to be extremely competitive, compatible and helpful in this mix. And we're actually working with iron right now to improve this. So I think give it another four or five weeks and we'll, we'll be ready to announce it. So there's not a whole lot of change, but it's just going to be even better quality."
+    },
+    {
+        "start": "00:05:19.160",
+        "end": "00:05:43.160",
+        "text": "And I'm really looking forward to that. And also, you know, for everybody, you know, watching this from the US, Canada, you know, the production will be here. So that's a that's a nice thing. Yeah, and then we're having actually a lot of things in the pipeline right now on the quantum side for Lila quantum tech. I think probably some people are wondering"
+    },
+    {
+        "start": "00:05:43.160",
+        "end": "00:06:11.520",
+        "text": "about the jackets and the jackets will be available should be available within the next 30 to 45 days. They're pretty much almost ready with with production. But we we still have some some scheduling to do to roll it out. That's a that's a bigger, bigger issue. And I think definitely within the next 45 days, this will be live on the website and people can then"
+    },
+    {
+        "start": "00:06:11.520",
+        "end": "00:06:37.920",
+        "text": "get it. And yeah, so that's exciting. And then we're working on new frequencies that we will launch. Actually, we have worked on them over the last six months. And there is the forever young frequency, which will release probably in the next 30 days. That one was developed by Zunya Fisher. It's one of the healers in our network. And I'll"
+    },
+    {
+        "start": "00:06:37.920",
+        "end": "00:07:07.880",
+        "text": "actually also post a video with her very soon. And then there's a very exciting one that Kay Elmer came up with. So that that's that's your thing. Okay, so you jump in with whatever I may be missing. But it's it's so Kay actually did a lot of different things. And this one was got me very excited because I may have a perspective on that too. It seems that testosterone"
+    },
+    {
+        "start": "00:07:07.880",
+        "end": "00:07:33.240",
+        "text": "levels in man nowadays are actually relatively low. And you know, wherever you look at in terms of food, diet, and other behaviors here on earth right now, it doesn't really support testosterone levels. And you want testosterone levels to get those up again. It's quite tricky actually. There are certain ways, basically, on what you can do other than sunning your"
+    },
+    {
+        "start": "00:07:33.240",
+        "end": "00:08:02.440",
+        "text": "balls and to quote Cliff high here. But you can take certain things, but then you run into the risk of possibly overdosing that or having other effects that you may not want. And so this idea of Kay, I thought was amazing to create a frequency card that contains the best possible nutrients and supplements you can take to actually boost your test testosterone"
+    },
+    {
+        "start": "00:08:02.440",
+        "end": "00:08:24.280",
+        "text": "levels. And we got it then actually tested by by Roman. And yeah, he is very excited about that. And he doesn't get so excited very fast. And he said this should have absolutely measurable effects. So this one will be live, I think later today. That's exciting. And"
+    },
+    {
+        "start": "00:08:24.280",
+        "end": "00:08:47.200",
+        "text": "then we have another, another one, which we call the DNA and cell protector, which basically, I mean, does what the title says really, right? You know, it is intended to protect your DNA and your cells. And from, you know, various influences, whether it's external substances"
+    },
+    {
+        "start": "00:08:47.200",
+        "end": "00:09:16.480",
+        "text": "that are potentially harmful or other outside forces, you know, people are thinking about the VACs currently. So that's definitely consideration. We don't want to go much into that since this is a public video here. But, you know, people that got the VACs, they're asking themselves, well, you know, am I safe now? And they're hearing some bad things. So they're worried and a lot of people that don't get the VACs, they're very worried because"
+    },
+    {
+        "start": "00:09:16.480",
+        "end": "00:09:40.000",
+        "text": "now they have heard that actually mRNA and all of that spike proteins, etc. can jump over to you. And we actually got some evidence in regards to that as well. So, and then there's certainly lots of other considerations in general where you want to protect your cells and your DNA. And that card will also be available later today. And yeah, we're very excited"
+    },
+    {
+        "start": "00:09:40.000",
+        "end": "00:10:08.800",
+        "text": "about this one. We actually tested extensively over the last five months with a lot of test persons and actually around the globe, not just in the US. And yeah, we're very excited about this one. Yeah, it sounds amazing. Yeah, the testosterone booster, it originally started as one of the five components of the men's booster overall, except the men's boosters really for men that"
+    },
+    {
+        "start": "00:10:08.800",
+        "end": "00:10:37.520",
+        "text": "are like in there over 40. So, but I know that, you know, people younger than that are having specific issues with testosterone. And then one of my friends was like, he's in his same age as I am in the late 50s. And he started getting shots. And so when he did that, I started researching like what he was doing to himself. And then it just wasn't, it wasn't a good idea because, you know, once you have your body relying on a, on a, on a different substance and actual injection of hormones, your body stops producing the hormones, right?"
+    },
+    {
+        "start": "00:10:37.520",
+        "end": "00:11:07.040",
+        "text": "And starts relying on the injections. And so I just thought that was a really bad idea. So I, I just took out the old original testosterone booster and then they had to tip off to Jack Knoll, who he traded me. We did some frequency trainings. I got some more other substances. And I kind of upgraded it and made this and I was pretty stoked that Roman really, really picked up on it. So I'm actually testing it now, everybody. So we'll let you know how it works on. I've actually got testosterone test kits and testing the frequency out of"
+    },
+    {
+        "start": "00:11:07.040",
+        "end": "00:11:30.720",
+        "text": "myself. And we'll see what the results are. So I'm looking forward to that. So awesome. Yeah. That's actually one word. One thing I'll jump in on that is, and I, I wasn't planning on talking about testosterone, but having seen a couple of very aberrant jumps and people's testosterone levels when I was reviewing their blood work from a couple of the trials that I've"
+    },
+    {
+        "start": "00:11:30.720",
+        "end": "00:11:55.600",
+        "text": "been doing over the past two and a half years, I, I started looking at testosterone because their levels had been increasing, which was for a guy, obviously a good thing, because Philip, what you would have alluded to is completely spot on just due to the, the preponderance of xenoestrogens and phytoestrogens, you know, whether it's chemical compounds that mimic estrogen or, you know, plant compounds like soy and things like the isoflavones and stuff like that, that"
+    },
+    {
+        "start": "00:11:55.600",
+        "end": "00:12:25.520",
+        "text": "mimic estrogens. There can be some, some issues with that. But I, I did notice one of the stats that was really bizarre was that the, there was a big study done by the clinical endocrinology guys in like 2006 or 2007. And they had shown that since the 1980s, the average testosterone in males was dropping 1% per year. So at this point, you know, a guy would have on average 40% lower"
+    },
+    {
+        "start": "00:12:25.520",
+        "end": "00:12:51.200",
+        "text": "testosterone than a guy would in 1980. And I, you know, it's, that's a pretty profound decrease. Yeah, it's, yeah, it's all that's, that's everything that I'm reading as well. So I'm hoping this helps, because I know that it's, I mean, everybody, every man I know, it's, yeah, it's an issue. And we've been, what just, you know, all that plastic packaging and all of"
+    },
+    {
+        "start": "00:12:51.200",
+        "end": "00:13:18.560",
+        "text": "that stuff is, has been, has a very bad toll on us. So yeah, I'm hoping this helps. And so from a, so I am from a, from a, you know, from a science wizard standpoint, I mean, what would be your solution other than injections for, if for someone that wants to boost her testosterone? Because I take the supplements right now, you know, of course, I created this frequency set to kind of boost the actual physical supplements that I'm taking"
+    },
+    {
+        "start": "00:13:18.560",
+        "end": "00:13:45.840",
+        "text": "and trying to see, you know, if it goes up, but what would you recommend for up there? Anyone? Ah, I would take, um, you're a come along to folia, or we also known as Tomcataly, sometimes it's called long jack. And there, and it's a root, right? Basically, it's a dried powdered root, but it's an aromatase inhibitor. So it doesn't actually trigger your body to produce more testosterone, because most people don't have an absence of testosterone. Their"
+    },
+    {
+        "start": "00:13:45.840",
+        "end": "00:14:14.880",
+        "text": "endocrine system's still producing some, you know, or normally they're not completely dysregulated. They're just, you know, out of kilter, not turned off. Um, so it, if you take an aromatase inhibitor, what happens is effectively it builds a dam in your system so that your body doesn't break down the testosterone is rapidly. So you end up with your own endogenous testosterone levels going higher, just because you've dammed them up and the breakdown isn't happening with"
+    },
+    {
+        "start": "00:14:14.880",
+        "end": "00:14:40.240",
+        "text": "the rapidity, which it would have naturally, if you just let the aromatase break it down and cycle it on. So the, the result of that is you end up with, you know, higher free testosterone levels. Oh, okay. Yeah. Actually, I captured the frequency of that in the booster, um, and, uh, along with, a bunch of other stuff. So yeah, that's, that's great. So, okay, so you've got the new frequencies,"
+    },
+    {
+        "start": "00:14:40.240",
+        "end": "00:15:07.120",
+        "text": "and we're, we're trying to test the testosterone now. Um, are you, you know, uh, Philip, I know that you go with, you know, the BESA Institute and iGAF, are you going to have these other frequencies tested with those guys? And, uh, just like we did the other ones, or you did the other ones? So the DNL and cell protection, this one we've already tested. So we're, we're done with this one and the testosterone booster. All right. That is something, you know, you're doing your"
+    },
+    {
+        "start": "00:15:07.120",
+        "end": "00:15:31.600",
+        "text": "test and then we want it to expand on that. So I think we'll, we'll do one because I find this topic extremely fascinating, actually. And it's, it seems to be something that can be measured relatively easily. So let's see what we can find out there. We do have more research planned indeed because that's really very close to my heart because that's, that's what we want to do, right? You know,"
+    },
+    {
+        "start": "00:15:31.600",
+        "end": "00:15:57.200",
+        "text": "people, we've always said these energy products is amazing for people that can see energies and feel and sense them. And then you have so many people out there that can't do that and they, they just want to see some signs. So we want to continue to produce that and there's actually study in India planned. Okay. Uh, with two doctors that have come across our products and they've"
+    },
+    {
+        "start": "00:15:57.200",
+        "end": "00:16:24.160",
+        "text": "found out that they're apparently beneficial results to kids and other people with that are autistic. And now these two doctors, they have about 35 new autistic kids that enroll into their, their program each month. And they're just really interested in setting up a real"
+    },
+    {
+        "start": "00:16:24.160",
+        "end": "00:16:52.400",
+        "text": "clinical study that would run, I think, three to six months. It's, it's, it's quite an undertaking actually. And they're, they want to work with official boards there in India. But for India, the positive thing is that India is very open and general as a country towards, you know, things that may not be mainstream, right? So they already have support for that. And we'll"
+    },
+    {
+        "start": "00:16:52.400",
+        "end": "00:17:22.720",
+        "text": "start that study probably over the next 60 days. So that's exciting. Another study that we're, that we're actually in the planning stages of right now, there are actually two and those will be in the US. One will be another dark field microscopy study. So we've, we've done a lot of dark field microscopy already. But what we want to do now is take it a step further and really make it a very, well, you know, make it an even better study. Let's say it that way."
+    },
+    {
+        "start": "00:17:22.720",
+        "end": "00:17:45.520",
+        "text": "I just believe it at that. And then the last one that we are currently in the planning phases of is actually in regards to Lyme disease. That's also with a bunch of doctors of the functional medicine here in the US. And we found a way on how we can actually measure that really,"
+    },
+    {
+        "start": "00:17:45.520",
+        "end": "00:18:11.680",
+        "text": "really nicely in a visual way. And yeah, we're currently in the planning stages. So I think maybe in the next, yeah, 45 to 60 days, that study can also begin. And it's the first phase of that is probably going to be three month, three month timeframe. And we'll certainly report out of those. But that's very exciting. It's a lot of work. But I think that's, yeah, that's what we need to do."
+    },
+    {
+        "start": "00:18:11.680",
+        "end": "00:18:37.680",
+        "text": "That's awesome. Yeah, I mean, one, one quick shout out guys. This is regarding the quantum block. I, you know, since we're all obviously tinkering with it these days and playing with frequencies. Phillip, I wanted to let you know, a friend of mine that I had turned onto it got one of the blocks. And he's been able to eat things that normally give him histamine reactions where he'd break"
+    },
+    {
+        "start": "00:18:37.680",
+        "end": "00:19:07.440",
+        "text": "up hives without breaking out, which I got to say, man, hats off. Yeah, I read that. That is indeed fascinating. Yeah, somebody reported that in the chat as well, that they had food allergies and that they put the food in their eye block and it nullified it or neutralized it. It's, yeah, it's amazing. You know, it's, that's the thing about this, this, this, I don't know what, you know, I don't have a better word for it, but this phenomenon that just, it, it does a lot"
+    },
+    {
+        "start": "00:19:07.440",
+        "end": "00:19:36.560",
+        "text": "of different things that you don't expect it to do. And that was definitely a really interesting one. And in fact, in my piloting, as I was mentioning earlier, you know, and before we started the recording, which I also worked with a, with a young man that had autism and primarily working with his father. And the thing that was very unique about this test was I was using the infinity block. But what was most interesting was that this young gentleman goes to a facility"
+    },
+    {
+        "start": "00:19:36.560",
+        "end": "00:19:58.960",
+        "text": "every day in which they, you know, work with him and they rate him. So there's, he's been under clinical observation for years. And so, and then every day he gets, he gets, they fill out this questionnaire on his behavior and they score him. And so there's been this long track record for this young gentleman on how he's doing. And so what was fascinating was, is that I started"
+    },
+    {
+        "start": "00:19:58.960",
+        "end": "00:20:26.000",
+        "text": "putting him in the infinity block on Mondays. For the first time, he had positive scores. He'd always had negative scores on Mondays up until this moment. And soon as he started going into the eye block, he started having positive scores. And the his two caretakers were reporting that his demeanor was, was much more positive on Mondays. And you know, because you could see that,"
+    },
+    {
+        "start": "00:20:26.000",
+        "end": "00:20:50.480",
+        "text": "you could see the history. And so that's what made that one very unique because you don't really get that kind of feedback, you know, from some of these trials. But here's someone who'd been, you know, observed for quite a long time and scored. And all of a sudden, now all the new scores going forward are very different and they're positive. And then he also started really coming out of his shell and things like that, that he hadn't done since for a year or so. So yeah,"
+    },
+    {
+        "start": "00:20:50.480",
+        "end": "00:21:15.600",
+        "text": "I think this whole issue about autism and all of these other issues, food and everything, it's, it's pretty amazing. So I mean, Philip, you know, you were mentioning something about the like Romans take on autism, is that something you could share in terms of just like the uniqueness of that condition. I think it's fascinating. I don't know if you could you if you recall that"
+    },
+    {
+        "start": "00:21:15.600",
+        "end": "00:21:38.320",
+        "text": "yes, earlier discussion by just yes, that was real interesting. And why possibly that this works so well for autistic folks? Yes. So so the way he described it is that, you know, someone that's autistic basically can't focus on this reality here. They're they're constantly pulled into these"
+    },
+    {
+        "start": "00:21:38.320",
+        "end": "00:22:05.040",
+        "text": "other realities that they're that they're in. And the quantum energy, the pure quantum energy of the infinity block, certainly also of the quantum book. But even more so he says of the infinity book was almost counterintuitive because it's the infinity block is way stronger. He said that pulls them in here and that gives them something to hold on to, if you will, and makes"
+    },
+    {
+        "start": "00:22:05.040",
+        "end": "00:22:31.840",
+        "text": "them be more in this reality and and and feel themselves more and and this reality. And so for him, that wasn't that wasn't a surprise at all that that it worked so well what you did, which is kind of funny, right? For all of us, we're like, wow, this is amazing. For Romans, like, yeah, I mean, this is exactly what I would have expected. So it's easy from that perspective."
+    },
+    {
+        "start": "00:22:31.840",
+        "end": "00:22:55.520",
+        "text": "And yeah, it's and then, you know, those things together also made me then think, okay, so now we're finding out these things. Now we really need to do a study. So when these Indians came along, I was just like, hey, this is just amazing. Let's let's do this study. So I yeah, there may be really something to it. And it's it's something we again, we we struggle with to explain what is the actual"
+    },
+    {
+        "start": "00:22:55.520",
+        "end": "00:23:22.080",
+        "text": "mechanism, you know, Roman can define that for us from his energetic viewpoint. But you know, if we talk to a mainstream scientist, now they would be like, okay, so just tell me how this works, right? And then we would start to to struggle to explain exactly how it functions, right, what it does. Yeah, no, that is the difficulty. You know, you can see downstream effects. Oh, sorry, go ahead,"
+    },
+    {
+        "start": "00:23:22.080",
+        "end": "00:23:50.560",
+        "text": "okay? I was just gonna say I just I just don't think there's a language yet. That's that's, you know, because it's all about words and languages. It's like a foreign language where the guy tries to explain something to you. And this is I can't think of a word in your language for X, right? That's what I see this as. I just don't think there's a language yet that can explain this. And we don't have words yet that we could use. But yeah, it's there's something definitely happening. But I'm sorry. And what we're gonna say? No, it's exactly that. I think it's it's akin to and"
+    },
+    {
+        "start": "00:23:50.560",
+        "end": "00:24:17.600",
+        "text": "Phillip and I have talked about this before. It's akin to people in, you know, the 14 or 1500s trying to describe what we're doing with cell transmissions, you know, they simply lack the vernacular there, there isn't an adequate capacity to linguistically convey the concept. And, you know, and part of that is, you know, a lot of times the people who name things and come up with different concepts, they're either in the arts or in the sciences, which are, you know, at their peak sort"
+    },
+    {
+        "start": "00:24:17.600",
+        "end": "00:24:44.240",
+        "text": "of blended. Because, you know, anybody who's reached a certain degree of technical proficiency when you push past that it becomes more of an art than than an actual science. And, you know, you're striving for elegance in what you do. And I think with regard to the quantum, since I've been working on it a lot for the past year with the bio charge projects and a couple of other projects, it's difficult because I wasn't able to test things directly. And it's it's the first time"
+    },
+    {
+        "start": "00:24:44.240",
+        "end": "00:25:11.600",
+        "text": "I've actually played with something where you can't run a standard analysis and get the standard responses. You actually have to look for downstream effects, you know, you're dealing with a force that you haven't completely identified. And, and frankly, in a spectrum that we haven't actually identified, which is, you know, something that I think is a little different because, you know, typically you think quantum and you're thinking, well, there's going to be some sort of EMF wave"
+    },
+    {
+        "start": "00:25:11.600",
+        "end": "00:25:37.360",
+        "text": "that I can, you know, I can calibrate or some sort of gamma emission that I can look at. And in my lab, we've actually just started finding some some gamma frequencies that we're noticing in that spectrum. But, but it's difficult because you start to look for it and go, well, okay, what are what are the precepts here? Well, people have done this before, you know, where they tried to identify things that were happening, but they had no terminology for it. They didn't"
+    },
+    {
+        "start": "00:25:37.360",
+        "end": "00:26:05.920",
+        "text": "exactly know where they were. So you're relegated to doing exactly what we're doing collectively, all of us, you know, looking for the tangible physical effects, doing dark field microscopy, saying, how does this affect the blood in real time? What are the actual results in your case, you know, looking at the testosterone levels? So we're looking for physical correlates, and then we're slowly starting to pull on the gordian knot that is quantum, you know, because everybody wrinkles their nose when you say quantum anything. And myself included, honestly,"
+    },
+    {
+        "start": "00:26:05.920",
+        "end": "00:26:31.120",
+        "text": "because it sounds like such a woo-woo marketing thing. But there really isn't a more adequate way to describe it yet than to say, oh, it's some sort of little packeted, you know, variation in energy or fluxing of fields. I really think we're all kind of still groping around in the dark. The interesting thing is we're all having our own personal tangible experiences. And in my case,"
+    },
+    {
+        "start": "00:26:31.120",
+        "end": "00:26:58.000",
+        "text": "I'm having quantifiable lab data. And, you know, the same thing with some of the products for Lila, it, you know, there's quantifiable lab data. I've looked at it, I've shown it to a lot of people, because it's impressive. You know, when you actually see that there is a physical manifestation over them, over a matter of minutes, and it's statistically quantifiable. So that means it is happening. But, you know, it gets back to that whole being a true scientist, you have to approach"
+    },
+    {
+        "start": "00:26:58.000",
+        "end": "00:27:25.040",
+        "text": "it with the understanding that I'm not going to understand everything. If I do, I'm not really pushing the boundaries one Iota, you know, because we're trying to grow, right? I mean, that's the whole goal, at least for me, that's the whole goal of this sort of... Oh, yeah, whoop, do we lose some species and just see what we can do? I totally agree. You know, I get some comments sometimes on some of my quantum videos of, you know,"
+    },
+    {
+        "start": "00:27:25.040",
+        "end": "00:27:49.600",
+        "text": "people just... Obviously, they just rejected before they try to understand it. And my common always is that, you know, the first step of science is observation. You know, that's how everything ever started. I mean, the first caveman that saw lightning strike a tree and some kind of yellow thing shooting out of the branch walked over to it. You know, that was an observation that led to the discovery of fire. It's science starts with observation. So that's what I'm trying"
+    },
+    {
+        "start": "00:27:49.600",
+        "end": "00:28:14.720",
+        "text": "to do. It's just tinker and observe and then, then, you know, it kind of drilled down from there. But yeah, it's pretty amazing. You know, and just since you're talking about that, I want to segue over to a comment that you made when you were talking to Luke's story about this, your product called BioCharge Resistor and how you were using lasers to kind of quantumly charge"
+    },
+    {
+        "start": "00:28:14.720",
+        "end": "00:28:44.400",
+        "text": "this product. So that's kind of a segue between what, you know, Leila Q is doing because it's quantum energy, but you were doing quote quantum charging. I mean, and then you were talking to Dave Asprey, who was kind of giving you a hard time about using the word quantum. Yeah, well, but you were saying, yeah, I'm using lasers. So, I mean, what do you mean when you were using lasers and things to charge the product? Could you... Well, okay, I don't understand that."
+    },
+    {
+        "start": "00:28:44.400",
+        "end": "00:29:11.040",
+        "text": "Yeah. The first thing is to say that there's... And, you know, obviously, I'm doing my job and trying to push the balance. So my understanding is different now than it was, you know, nine months ago when I was talking to Dave Asprey and even a little bit more thorough than it was when I was talking to a Luke's story. And the issue there is we're both calling something quantum because it's"
+    },
+    {
+        "start": "00:29:11.040",
+        "end": "00:29:35.040",
+        "text": "in a spectra that hasn't really been identified. In the case of mine, it's more identifiable because it's something tangible. And I can actually tell you what the frequency is numerically that I'm pulsing things at and what I'm trying to do. With the quantum from, say, Leila Q, it's different. It's actually the quantum that I've been focusing on more lately because I think it's... Honestly,"
+    },
+    {
+        "start": "00:29:35.040",
+        "end": "00:30:01.520",
+        "text": "I think it's more impactful and profound. But it, as of yet, is still different than what I was doing using the lasers and the pulse frequencies. So the whole scoop with the lasers was really... Are you familiar with holographic plates? Slightly. Okay. So basically, if you look at a holographic plate, you shine a light through it and everybody's probably seen one. You know, it contains an image"
+    },
+    {
+        "start": "00:30:01.520",
+        "end": "00:30:26.320",
+        "text": "inside the plate. And the interesting thing about a hologram is that if you crack that glass plate, every small component of it contains all of the information for the entire image that was stored down to a molecular level. And now, if you just shine a light through it, like most people do, you get the imagery created with a pretty fair degree of resolution. But if you shine coherent"
+    },
+    {
+        "start": "00:30:26.320",
+        "end": "00:30:55.680",
+        "text": "light through it from another laser, you actually get a perfect representation of what was captured in that glass sheet down to photonic scale. So you get actual subatomic resolution when you shine co-current light back through it. So when I was working on developing resistor, my goal there was to come up with a way to replace autohemotherapy, which is where you pull your blood and then you inject ozone into it. And then ozone is about the third most reactive molecular"
+    },
+    {
+        "start": "00:30:55.680",
+        "end": "00:31:23.600",
+        "text": "species. So what happens is, in a matter of seconds, literally, because there are 100 million molecular interactions with the ozone a second, it's basically just stripping electrons as rapidly as you can. And since electrons was around at the speed of light, it's a pretty quick interaction. So after a few seconds, the ozone is all gone. It has interacted with the lipids and membranes and has formed these things called stabilized ozonides. And the ozonides are signaling"
+    },
+    {
+        "start": "00:31:23.600",
+        "end": "00:31:49.360",
+        "text": "molecules that go in and they have an unstable oxygen kicked off on the side. So it's more stable than ozone by a great degree, but it's less stable than your standard molecule. And so it goes in and it sets up signaling cascades. And that has a whole bunch of downstream effects, like upregulating your mitochondrial function. And you can actually feel it because it flushes you out in terms of temperature. So that was my goal with that whole project. But I didn't know"
+    },
+    {
+        "start": "00:31:49.360",
+        "end": "00:32:14.560",
+        "text": "that it would actually be doable in the normal sense, because I had tried lots of ozonated oils and it didn't work. They had an effect, but they didn't have nearly as pronounced an effect as I was looking for. So then I went back and started looking at the original research and Tesla had done the original ozonated oil. And he, in lieu of how everyone has done it for the past 100 years,"
+    },
+    {
+        "start": "00:32:14.560",
+        "end": "00:32:40.720",
+        "text": "since he came up with the concept 120 years ago, he had this whole thing set up with magnetic field beds and he would fill it with oil. And then he would slowly bubble ozone through the oil while they were under the influence of these magnetic field beds. And nowadays, everyone who produces it takes two and a half weeks or so to produce their ozonated oil, just by bubbling ozone through through the oil and running it through with a venturi over and over and told that it's"
+    },
+    {
+        "start": "00:32:40.720",
+        "end": "00:33:06.000",
+        "text": "done a full three triple-triple redox reaction. Basically, you keep reducing it until you can't reduce it anymore. And so that's actually why people question me about using a polyunsaturated fatty acid. It will get no longer is that at the end of the process, so it ceases to be a poofa. But regardless, so his process, Tesla's process, took eight weeks. And when I first looked at that,"
+    },
+    {
+        "start": "00:33:06.000",
+        "end": "00:33:35.040",
+        "text": "I thought, Tesla was a smart guy. There is no way in the world he was trying to waste money and time. What was he doing? So it dawned on me after just kind of using on it for a little bit that in his infinite wisdom, he had realized that he was creating polar molecules. And you could orient the polar molecules, basically make everybody pack up single file and get something that was much, much, much stronger than everyone else's oil, because theirs was still viscous and rolling"
+    },
+    {
+        "start": "00:33:35.040",
+        "end": "00:34:02.080",
+        "text": "around. And as his increased and its solidity, because it almost turns to a gel, it starts to solidify and doesn't move around. But it's already ordered in such a way that you have minimized the amount of molecular interactions where the ozonites clink together and then the oxygens that are unstable move off in the form of a stabilized O2. So I thought, Jesus, this guy's"
+    },
+    {
+        "start": "00:34:02.080",
+        "end": "00:34:31.440",
+        "text": "sharp. He must have felt somewhat lonely back in the early 1900s, because I'm sure he was probably the only guy that got it. So anyway, so I thought, well, okay, I can do that. So that was an easy thing to mimic. But then I thought, you know, I've got about a hundred years of tech that Tesla didn't have, some of which he actually theorized. But you know, I actually have it in my lab. So I started looking at ways to amp amp things up. And so I amped up the process of how it was functioning."
+    },
+    {
+        "start": "00:34:32.240",
+        "end": "00:35:01.280",
+        "text": "And then I thought, well, the spin states are going to drop. Basically, I was trying to lock in the energy. And this is how it relates to the holographic plates. So what I did was I used lasers to basically turn the gel after I had stabilized the gel. I used lasers to lock in the enhanced spin state that they were in so that they wouldn't drop out as readily. And so it's,"
+    },
+    {
+        "start": "00:35:01.280",
+        "end": "00:35:26.640",
+        "text": "you basically, you set up a reference beam and an incidence beam. And when they splash together, they hit everything and it binds that reference pattern in. So you've got an interactive waveform that's encoded into the media. So you're using the gel as a sort of storage medium, just like they do with glass, because neither of them is actually a solid. You know, glass is an amorphous solid."
+    },
+    {
+        "start": "00:35:26.640",
+        "end": "00:35:55.360",
+        "text": "It's not crystal. And so if you look at a different time scale, it's actually falling towards the bottom of, say, a window as if it were just a sheet of soap bubbles. It actually drops down with the expression of gravity on it over time, which is why in churches that are 1,000 years old, you have stained glass windows where the bottom of the stained glass is substantially thicker than the top, because it is literally falling down like a soap bubble. So I just looked"
+    },
+    {
+        "start": "00:35:55.360",
+        "end": "00:36:22.880",
+        "text": "at the speed of the lasers in comparison to the speed of glass becoming completely amorphous and dropping down versus a gel doing the same thing and realized that the disparity between the lasers and the other two was far greater. So I should be able to mimic that. So I used the gel as a holographic media and entrained it and locked it in just the same way you would with a holographic plate."
+    },
+    {
+        "start": "00:36:24.240",
+        "end": "00:36:50.160",
+        "text": "Wow. I totally got what you just said, but I had to think really hard while you were talking. You know, it's amazing. I mean, to be fair, it took me a bit, man. I mean, it really did. It took me a couple of months. I mean, just think about 120 years ago, Tesla was messing around with molecular bond angles and not even knowing that he was doing that. He was just thinking magnetic charging probably are. Did you? Man, you know, here's the thing. I that there"
+    },
+    {
+        "start": "00:36:50.160",
+        "end": "00:37:18.880",
+        "text": "were I understand it really. Yeah, I do. Wow. I really do. You know, when I'm sure you've seen this quote, you know, someone asked Einstein, what's it like to be the most intelligent man in the world? And he said, Oh, you know, you'll have to ask Nikola Tesla. Yeah. You know, it's amazing, right? Phillip, you got to yet agree with me on this one. But I can't, you know, the way that irons brain works, right? I mean, just listening to you, I just blows my head. I mean, but this is"
+    },
+    {
+        "start": "00:37:18.880",
+        "end": "00:37:47.280",
+        "text": "the same guy who goes home and his wife yells at him to take out the trash. You know, 100% true. Or to the point chides me for not having done it before I left for the lab. So that's in genius. So, so is there any chance that that the the the Leila quantum energy can can substitute for this, this type of imprinting that you're doing? I mean, is there"
+    },
+    {
+        "start": "00:37:47.280",
+        "end": "00:38:11.600",
+        "text": "or is it completely separate energy? There, there are different, there are different parts of the spectrum. You know, and I always prattle on it. And I know I've told both of you guys this, I'm always trying to do that Henry David throw thing of, you know, being the one hacking at the branches of evil or not. Rather, you know, his quote was, for every 1000 hacking at the branches of evil, there's one hacking at the root. And so I always wanted to be the guy, you know, hitting hitting"
+    },
+    {
+        "start": "00:38:11.600",
+        "end": "00:38:38.960",
+        "text": "the real issue. And the reason I think the the the quantum in terms of what, you know, Philip is doing and Roman is working on and you're working on as well. Okay. I think that is more impactful because when I assess the different space that it's coming from, that's a more fundamental issue. So you're able to send out a cascade through a larger, a larger area. With with more minimal effort, it's just we're just still groping around in the dark. I mean,"
+    },
+    {
+        "start": "00:38:38.960",
+        "end": "00:39:08.720",
+        "text": "mine is quantifiable. And I can repeat it. And which is great, you know, for production. But it's different, you know, it's it's a lower energy state. I'm looking at quantizing electrons band, you know, and that's that's something that hasn't been done before. And it required me to kind of rejigger the de Broglie equation from 1924 in order to do it. Because at the time, those guys looked at energy states as, you know, all the energy contained within the system. And in the"
+    },
+    {
+        "start": "00:39:08.720",
+        "end": "00:39:37.440",
+        "text": "way, they were basically saying it to break it down was, you know, everything in between the outer most shell of the electron has a certain energy and wavelength, right, which makes sense. But they were also looking at it as all of the energy is coming from the revolution of the electrons around the nucleus of the atom or, you know, in an aggregate sense, the molecule. What's funny about that is it's not right. It's it's mostly right, but it's not completely right because what"
+    },
+    {
+        "start": "00:39:37.440",
+        "end": "00:40:02.160",
+        "text": "you what you really need to look at is they're like everything in nature. We didn't realize it in 1924. You know, so this isn't any skin off Roy's back is everything has rotation, right, fermionic and bosonic spin. So everything in nature is not only moving, it's rotating. And they didn't realize that back in the day. So really what's going on is you can actually"
+    },
+    {
+        "start": "00:40:02.160",
+        "end": "00:40:29.120",
+        "text": "change the inherent energy in a system, not just by having things jump orbital shells when you pump energy into them. You can actually keep them in their own orbital shells so that there's no bump out and then drop down an emission of a photon. You simply have to get the spin harmonized. Because if you look at the solar system, that would be akin to saying all the power in the solar system is from the planets rotating or revolving around the sun. But it's really not. There's"
+    },
+    {
+        "start": "00:40:29.120",
+        "end": "00:40:56.080",
+        "text": "a tremendous amount of confined energy in the axial rotation of the planets on their own axis, you know, because they're big fat spinning bodies with a lot of energy, a lot of mass. And yeah, and exactly. And that's the thing. So there's a tremendous amount of confined energy in that system. And the same thing applies to, you know, electrons running around a nucleus. So I was manipulating that and just came up with different ways to approach that issue. So I"
+    },
+    {
+        "start": "00:40:56.720",
+        "end": "00:41:21.200",
+        "text": "could enhance the potential for interaction without changing the molecular configuration. But that's still, that's an outward effect. If you really get more to the issue, you're looking at the quantum and the true quantum, which is what I'm beginning to hypothesize, you know, going back to my handy dandy scientific method, you know, I had a question. Now I'm hypothesizing."
+    },
+    {
+        "start": "00:41:21.200",
+        "end": "00:41:46.640",
+        "text": "And my initial test date is actually starting to suss out a bit, that there is something that is more fundamental than all matter and energy through which those things emerge. And if you can start creating effects at that level, then they propagate up. And that's my hypothesis right now as to what's happening with what we're determining, you know, on the Leela front, quantum energy is"
+    },
+    {
+        "start": "00:41:46.640",
+        "end": "00:42:15.200",
+        "text": "it's something that's happening in a level that is below manifest energy and physicality, it's something that's just in a vibratory field that then cascades through. So the longest answer ever. Yeah, because you know, yeah, because I've tried to quantify that the, you know, just trying to explain it to people and it's so hard to explain, you know, people that understand source and source energy or consciousness, or the, you know, the power of consciousness,"
+    },
+    {
+        "start": "00:42:15.200",
+        "end": "00:42:41.440",
+        "text": "they get it. And I'd, so I kind of put it in those terms that, you know, it's like source energy or consciousness. But you know, I'd love to hear if you ever kind of like really theorize, because one of the most fascinating aspects of this, you know, the Leela Q block is that it can transfer a molecular frequency of a substance onto another object. And that other object gets, gets imprinted"
+    },
+    {
+        "start": "00:42:41.440",
+        "end": "00:43:11.120",
+        "text": "on it, just like you were describing, using lasers, you know, this, this quantum block has that same ability, where then the second object now has a copy of the molecular frequency. That's what these boosters are, you know, it's kind of, you know, the frequency sets at Leela. I try to explain it to people where, you know, they're really, there's only really three types of these sets and one's etheric, right, which is created from consciousness, or, you know, but it's, it's,"
+    },
+    {
+        "start": "00:43:11.120",
+        "end": "00:43:39.920",
+        "text": "you've got some very talented gifted healers that are able to formulate these etheric frequencies like the weight loss frequency. And I'm guessing that you're new for every young frequency, right? Phillip is also one of those, and as well as your DNA and cell protection. And so those are quite healers with their consciousness. And then the stuff that I tinker with, because I'm a mere mortal, is I just deal with 3D substances, but that have molecular"
+    },
+    {
+        "start": "00:43:39.920",
+        "end": "00:44:04.880",
+        "text": "frequencies, because you're right, everything vibrates and rotates and spins. And so these molecular frequencies, but what I don't have my, I can't grasp them. And maybe you can explain it, and it is, I can't wrap my head around is like, how can how in the world doesn't work, right? Because I know it works, because I've made these boosters and the people that, that try them out, you know, if you just read the chat, people are just, it's amazing that it helps people, and it"
+    },
+    {
+        "start": "00:44:04.880",
+        "end": "00:44:31.360",
+        "text": "blows me away that like, okay, it works, but how, you know, but you know, I'm just capturing these substances. It's like this new one, the testosterone booster, and I put it into a metal card. And now all of a sudden you carry that card. It's like you have this substance with you, or in you, you know, and it or you're exposing yourself to it. But I mean, how would you familiar? Yeah, I mean, how do you familiar with happy? With what? Happy, H-A-P-B-E-E."
+    },
+    {
+        "start": "00:44:31.360",
+        "end": "00:44:58.640",
+        "text": "No. Okay, so happy is kind of an interesting company. They have a device that you wear around your neck that does exactly what we're doing. And they've got a lot of documented clinical science for the past 20 years. And it just went public actually a couple months ago, and Scott, the CEO is a friend of mine, and they are doing really neat stuff. He's a real sharp guy. And"
+    },
+    {
+        "start": "00:44:58.640",
+        "end": "00:45:28.240",
+        "text": "they've got some interesting tech, and they're taking frequencies and locking it in and recreating those frequencies and getting the same effects, you know, like you can lock in nicotine and produce the effect of nicotine or lock in CPD. The same thing. I think a lot of people are tending in that direction right now. And what you were asking, Kay, and you know, in terms of can I explain it, yeah, at this point, I actually can. Quick, quick digression, or perhaps not so quick,"
+    },
+    {
+        "start": "00:45:28.240",
+        "end": "00:45:53.920",
+        "text": "you're coming about source energy and consciousness. So there's a fellow that I've worked with for a couple of years named Barry Morgan. He's a surgeon trained at UCLA, endoscopic surgeon used to go all of the world training people for endoscopic surgery. And he's a really interesting guy, very sharp, good MD. But his real gig these days is he runs a thing called energy for success."
+    },
+    {
+        "start": "00:45:53.920",
+        "end": "00:46:22.560",
+        "text": "And they work on source energy. So he's the only the only westerner who's ever become a grandmaster of this, you know, ancient energy tradition that he learned in China over the span of 25 years when he was traveling there to teach people in Chinese hospitals how to do endoscopic surgery, he would go there and teach, and then go into the mountains and train to the monastery in the mountains for 25 years. And he's kind of an interesting guy. But he's, you know, a grandmaster"
+    },
+    {
+        "start": "00:46:22.560",
+        "end": "00:46:53.120",
+        "text": "of this stuff. And right after we first met, the thing that actually enabled me to reframe my appreciation of what was happening with the molecular structure in terms of its energy density was he put his hand over. He had had a guy, we were at paleo effects, like I ripped open a packet of protein powder and scootched it into two separate piles. And Dr. B walked over and just put his hand over one of the piles for just a couple of seconds and then said, I had faced him. And I was"
+    },
+    {
+        "start": "00:46:53.120",
+        "end": "00:47:19.600",
+        "text": "standing right there, you know, no slight of hand or anything. It was just, you know, he just held his hand above it, no close contact. And I tasted the two piles, one tasted like normal protein powder. And then the one that he put his hand over tasted incredibly different, you know, no bitter taste, no weird chemical aftertaste, it was good. And it kind of flummoxed me, I said, what did you do? And he said, well, I charged it with source energy, you know, and his society went, what does that"
+    },
+    {
+        "start": "00:47:19.600",
+        "end": "00:47:45.600",
+        "text": "mean? And he said, well, you don't actually think all of the receptors you have to discern whether something is beneficial for you are just visible to you. And you know, kind of going back to the whole lock and key mechanism of sensory input, which actually is as we speak, kind of being debunked, because people are realizing that it's that it's actually a quantum biology function where it has to do with vibration. And there's a there's a book called Life on the Edge by Jim"
+    },
+    {
+        "start": "00:47:45.600",
+        "end": "00:48:12.160",
+        "text": "Al-Kaliel, that's really kind of goes in depth on the quantum biology front right now. And it's very well researched. And if you follow the thought progression behind how they've done some of the experiments to suss out that, you know, it's not a lock and key mechanism for say, old factory input, it's actually a vibratory mechanism of sensory, then it starts to make more sense. But when he did that, it really it kind of threw me because I looked at it, there was no change in temperature,"
+    },
+    {
+        "start": "00:48:12.160",
+        "end": "00:48:39.520",
+        "text": "there was no change in color. So that rules out a whole host of different types of molecular interactions. And and so it just it's stuck in the back of my head, you know, like, what the heptus that means? Source energy charged source energy. And what I came to figure out is initially my first blush at it was, it's a, you know, it's a quant, it's a quantization of the electron spin. That's what I thought. Actually, as I as I've moved through it farther over the past nine months,"
+    },
+    {
+        "start": "00:48:39.520",
+        "end": "00:49:07.040",
+        "text": "continuing to try and, you know, better my understanding of it, I've realized that that's actually more align aligning with what Roman and Philip are doing, in that it's actually an even more subtle vibration than I was thinking of. So it's not necessarily such a such a gross thing, gross meaning in the material plane. It's more of a vibratory function. And so that's that's kind of the setup for the quick answer. The quick answer is nothing solid. Matter isn't actually matter,"
+    },
+    {
+        "start": "00:49:07.040",
+        "end": "00:49:34.560",
+        "text": "it's almost entirely space like 99.999% space. And if you put a pin in the yard and you walked out 30 feet and put another pin down and then drew that in circles, he had a 60 foot diameter, that's generally speaking, the distance between the nucleus of an atom and the first orbital shell. And that's a lot of space, you know, and that's, and that's literally that's, that's the relative"
+    },
+    {
+        "start": "00:49:34.560",
+        "end": "00:50:01.600",
+        "text": "scale. So we're not actually solid in the way we think we are. So what does that really mean? If you've got little things that are running around in a circle at the speed of light that are there part of the time and not there part of the time, what it really means is something else is holding it together, right? It's some sort of electron interaction. And to my my conception now, it's an electron interaction with an overarching field, sort of mental or consciousness field that"
+    },
+    {
+        "start": "00:50:01.600",
+        "end": "00:50:28.640",
+        "text": "actually holds it together. Now, I haven't completely proven that out yet, but that's, that's my hypothesis. And that's what the data seems to be showing so far. So you know, just being completely honest, but like, I can't say it definitively yet. I can tell you intuitively it sure feels right. But that's what I'm trying to prove out is that it's a wave function. So whether you have something that operates at a, like a level like happy where it's creating an EMF pulse"
+    },
+    {
+        "start": "00:50:28.640",
+        "end": "00:50:57.840",
+        "text": "at a certain frequency, that's a copy of a molecular pulse from saying nicotine or caffeine, or whether you're doing something at the quantum level, you know, like charging a card with the quantum frequencies, you know, as is arrived at by somebody who can tap in intuitively to that field, and then do that all a Roman, you're, you're getting the same effect because you're acting on something that's not actually static. It's vibratory and nature and"
+    },
+    {
+        "start": "00:50:57.840",
+        "end": "00:51:22.160",
+        "text": "everything is just interacting patterns and waves and varying levels of complexity. And we're still, we're still nudging it to ripple at a level that's below what we have looked at before. So, and that's why I say, you know, I'm nudging it at one level. But when you go a little bit farther, you hit that source energy quantum field level. So, yeah, that's, yeah. So Philip, you agree?"
+    },
+    {
+        "start": "00:51:22.160",
+        "end": "00:51:51.360",
+        "text": "Well, I think it's fascinating. And that's what, you know, what I'm very interested in and hearing more about in general is, you know, this, this science take and other people's takes that can phrase it in a similar way, have the scientific understanding that that ion has, and then looking at this and trying to break it down from that perspective, because that's surely something I"
+    },
+    {
+        "start": "00:51:51.360",
+        "end": "00:52:18.560",
+        "text": "cannot do because I'm just not a scientist. I can look at it from an energetic perspective and often that that's really what we're trying to do, right? Science is trying to play catch up. And all of what I just said intuitively to me also feels exactly how I see it. And yeah, I'm curious when you can go even a little deeper or to the next level and then say,"
+    },
+    {
+        "start": "00:52:18.560",
+        "end": "00:52:46.320",
+        "text": "okay, now I got it. And this is exactly how it works. Yeah, you know, the one thing about this guys, and this is kind of an odd thing is sometimes I feel like the 1000 part machine trying to grasp an awareness of the billion part machine. I am actually beginning to think that I'll be able to take pot shots at it and do secondary effect studies. But I don't know that we're actually going to arrive at being able to verbally or mathematically demonstrate something"
+    },
+    {
+        "start": "00:52:46.320",
+        "end": "00:53:11.840",
+        "text": "that is far below the level of, you know, manifest creation, which really, you know, in truth is kind of what I'm looking at. It's you have to, I think, be on a certain point, your intellect has to just get put on a shelf and you have to realize there's a certain degree of, you know, universality or divinity that's really coming into play here. And I can do a pretty good shot at,"
+    },
+    {
+        "start": "00:53:11.840",
+        "end": "00:53:38.640",
+        "text": "you know, quantifying this stuff and making it understandable. But, you know, it's like looking at a miracle. You know, I can break down a lot of things that would be considered miraculous. And they're not really miraculous. They're just how this place works, right? The universe that we're in, it's just how it was built. We just haven't gotten far enough down the berry path to read that far into the rule book. And, you know, and that's as a scientist, that's what I'm"
+    },
+    {
+        "start": "00:53:38.640",
+        "end": "00:54:07.680",
+        "text": "trying to do is push it forward. The other thing of note, with reference to the hologram, that's kind of an intriguing thing. And that I think is worthy of being aware is like any other thing that's holographic in nature, if you're dealing with things that are interactive wave forms all the time, then there's a permanent record of every interaction. So that being said, mind your peas and cubes, be kind, you know, because it's all going down there. And, you know,"
+    },
+    {
+        "start": "00:54:07.680",
+        "end": "00:54:37.360",
+        "text": "it is in a sense, it's a perfect journal of everything that's ever happened is definitively stored out in a vibratory interaction. And that, that I can demonstrably say. Yeah, karma. Hey, I know you have a hard stop because you've got you both got meetings here in about 15 minutes. So I do want to hit on a couple of high notes before we drop. One of the things, and thank you for that explanation. And I'm just, I wish we had so much more time."
+    },
+    {
+        "start": "00:54:37.360",
+        "end": "00:55:01.760",
+        "text": "I've got so many questions, but I want to hit on these things. So now this new product that you've got, I am called the bio charge resistor. You and I chatted on SMS text about my reaction. It seems like I had a detox reaction to it. And so I just wanted to put that out there. And if you could explain what you told me, which was, you know, how to dilute it, because, you know, this stuff, I thought that one tiny little capsule was nothing. And, you know, you were kind of like"
+    },
+    {
+        "start": "00:55:01.760",
+        "end": "00:55:27.920",
+        "text": "joking with, with, you know, with, I think, Dave, Ashley about, or Luke, about don't take three, you know, or just take one. And so I just, I just took one, and like it affected my sleeve. I broke out an eczema, but then you were telling me that, you know, it's been, there's so much positive feedback. And then I probably had a Herx. And so, yeah, if anyone else that tries it, if you pull a"
+    },
+    {
+        "start": "00:55:27.920",
+        "end": "00:55:56.240",
+        "text": "Herx dilute it, right? So you want to go ahead and just make sure, yeah, it's, well, it is, it's, you know, what I was shooting for was to replace autohemotherapy. And I, you know, which is a pretty intense therapeutic regime, you know, when you have your blood, bolt and mix it, and then re-inject it. And yeah, sometimes people do have a reaction where, if, if there are some toxins in their system, and there are two that I've noticed at this point that,"
+    },
+    {
+        "start": "00:55:56.240",
+        "end": "00:56:21.680",
+        "text": "that seemingly come about, is you can get the capsules to go all the way down the GI tract, because they're in a delayed release capsule, and end up in the small intestine where it gets kind of systemically dropped in the ozone. I'd move more throughout your body, or it, if taken with food, can occasionally open up in, in your stomach, and in the area, you know, where it's exposed to a lot"
+    },
+    {
+        "start": "00:56:21.680",
+        "end": "00:56:49.280",
+        "text": "of, say, candida or something like that. And it will eviscerate that stuff very rapidly. And the problem there is when you have a massive die-off of something like that, it will trigger a detox sort of reaction where you start to have a herb timer, because there are too many toxins going into your system for you to process. So, you know, what I tell people if they're having that, or, or they're concerned that they might have something like that, is take it with activated charcoal,"
+    },
+    {
+        "start": "00:56:49.280",
+        "end": "00:57:17.040",
+        "text": "binders, binders, binders. And if need be, you know, break it down and dilute it, you know, you can, you can crack open the capsule and just take half of it with a little bit of extra oil or something like that. You know, for those of you who are thinkers, or just take a load of activated charcoal and, you know, there's some really good binders, you know, quicksilver makes a really good binder. It's crocheted stuff, works really well. And, you know, just, just search out some really"
+    },
+    {
+        "start": "00:57:17.040",
+        "end": "00:57:42.880",
+        "text": "good binder so you don't have those kind of reactions. It's not hard to work around, but what it does tell you is that there's definitively something that, you know, is in your body that's not really aces and not so beneficial for you. Because when you're balanced and you take that stuff, really all you feel is kind of a flooding of a little bit of heat. And that's just from the upregulation of the mitochondria. And so you feel that extra pop of mitochondrial upregulation"
+    },
+    {
+        "start": "00:57:42.880",
+        "end": "00:58:12.480",
+        "text": "as a little flooding of heat. Oh, yeah, I must be more messed up than I think. So, you know, this little, this little word here on the label, when it says advanced detox, I mean it. You know, it's a funny thing because, you know, you're trying to make something, I really was trying to make something that would have a definitive impact. Because I had taken a lot of little, you know, 300 milligram capsules from other companies that were doing oils and they"
+    },
+    {
+        "start": "00:58:12.480",
+        "end": "00:58:41.280",
+        "text": "just didn't, they didn't pack a punch. You know, the problem is sometimes packing a punch is great if your systems in a good area. But if you're really far from equilibrium, sometimes not so cool. Yeah, no, I just, you know, that's the thing. I take a lot of different, I'm tinkering and trying supplements all the time. And so, yeah, I had no idea. I just, yeah, this one was like"
+    },
+    {
+        "start": "00:58:41.280",
+        "end": "00:59:06.800",
+        "text": "one of those ones that was really through me. So yeah, so word to the wise, take it slow, take it dilute it on this one, but it works. And yeah, you'll see the results. So now, before we drop off, I definitely want to touch on, and I want to thank you. I got mine last night. So there's this brand new product also by IAN that I just received it last night. I just tried it this morning"
+    },
+    {
+        "start": "00:59:06.800",
+        "end": "00:59:36.160",
+        "text": "called the neural RX, right? And so, I just want, I want to make sure you mention this and like, when is it going to go for on sale? And then, could you talk a little bit about it? Because I'd actually done a video on C60 with MCT oil. So I'm very familiar with the, you know, you using caprylic acid, but then you've actually added additional supplements. So, you know, can you talk about this new product? And especially like, because it looks awesome. I mean, I just, I got it the minute I read the label, I'm like, okay, this is going to be so good. You know,"
+    },
+    {
+        "start": "00:59:36.160",
+        "end": "01:00:03.600",
+        "text": "because this is going to be a really good one. Yeah, it's your brain, you know. So yeah, what's this all about? And when is it going to be available? It'll probably be available in, you know, a month or so, maybe, maybe sooner. But it's, yeah, it's just a new tropic and it's literally, it's what I take personally. It was the, the best thing that I could come up with that elicited the strongest response. And so,"
+    },
+    {
+        "start": "01:00:03.600",
+        "end": "01:00:32.480",
+        "text": "I wanted to do a couple of things and, and upregulate the pace of which I was, you know, pumping out new neurons. And, and it does that. So it's actually, it's kind of interesting because the product is cool. But what you really have to do when you take it is you have to find new things to stimulate your brain in directions that you haven't been stimulated before. Because neurons are incredibly consumptive in terms of oxygen and just general resources for energy."
+    },
+    {
+        "start": "01:00:32.480",
+        "end": "01:01:01.520",
+        "text": "So your body prunes them synaptically. And it won't, won't keep them because they, they really are a drain. You know, your brain accounts for between two and three percent of your body mass and sucks up 20 percent of your oxygen. And so it's, it's kind of a difficult situation. But this, it kicks out new neurons, but you want to cement them in place. So I do a ridiculous number of things after I go through a course of taking it on about the third week when I'm really"
+    },
+    {
+        "start": "01:01:01.520",
+        "end": "01:01:25.920",
+        "text": "at the apex of when new neurons start getting pumped out. I will start doing some sort of brain training that I haven't done before. Like the most recent and Philipp, you'll appreciate this was trying to learn wraps in German. Because I had never done anything remotely like that. Wait, wait, wait, wait. Wait, did you just say you're trying to learn how to wrap in German?"
+    },
+    {
+        "start": "01:01:25.920",
+        "end": "01:01:56.560",
+        "text": "That's exactly right. I started learning how to wrap in German. Yeah, because I don't speak German. And it was something that was entirely different, you know, and truly entirely different. Yeah. And, you know, and I do mental puzzles every day and things like that just to keep my acuity on the uptick. Because if you, you know, it's like anything else, you don't use it, you lose it, your body's incredibly efficient. And it's always trying to optimize homeostasis. And the way it does that is by dropping off things that are inefficient. And, you know,"
+    },
+    {
+        "start": "01:01:56.560",
+        "end": "01:02:21.760",
+        "text": "generally speaking, neurons are painfully inefficient because they suck up so much oxygen. So unless you have a need for them, it proves them. So what I do is I find oddball things that can cement them into place so that I'm just getting smarter and smarter and smarter and smarter by having a larger engine to push through things with. And, you know, and it really does make a difference. I mean, the rapidity with which I can learn things now is fundamentally different than"
+    },
+    {
+        "start": "01:02:21.760",
+        "end": "01:02:48.880",
+        "text": "it used to be a decade ago. I'm just, I'm a better organism, at least in that capacity. I don't, I don't know that that is a capacity in terms of going for a sprint. I run out of oxygen a lot more rapidly. But in terms of just cognitive function, yeah, I'm aces compared to where I was a decade ago. And a lot of it has to do with, you know, stuff like this, taking things that stimulate neuronal growth and, you know, also up-regulate"
+    },
+    {
+        "start": "01:02:48.880",
+        "end": "01:03:14.720",
+        "text": "ATP production, just all of the sorts of things that you'd want to be hitting on to just really boost your mental function. No, right on, I'm, I'm so on top of this. I mean, I'm a massive biohacker and I love this stuff. So everyone in about a month, this is going to go on sale. It's iron secret brain juice. And in three weeks, I got to learn how to wrap in German. So, yeah, there you go. That's what"
+    },
+    {
+        "start": "01:03:14.720",
+        "end": "01:03:41.920",
+        "text": "this really is all about. I wonder reporting, please. It's, yeah, just FYI, Philip. It was a CEDO builder Ryan Colff was the, the first one. Oh, okay. Wow, okay. So, yeah, I'm gonna definitely give it a try. Not the German wrap, but I'm gonna do this and come up with something. But awesome. This is, so this is iron secret brain juice, everybody. Yeah, this is cool. I was"
+    },
+    {
+        "start": "01:03:41.920",
+        "end": "01:04:09.600",
+        "text": "actually working on my own, but we don't have time to get into that. Hey, we are hitting that dead stop. I know you guys got other meetings, so I just kind of want to, oh, hate wrapping it up. There's so many things I want to ask, but, you know, I just want to say thank you. Thank you for everyone listening in and just, you know, participating in our conversation. This is fascinating. I mean, these two guys are just amazing. And eventually, next time we talk, I really want to hear more about like what the two of you are doing together because that just,"
+    },
+    {
+        "start": "01:04:09.600",
+        "end": "01:04:35.760",
+        "text": "like, just is just amazing to me. So just before we wrap up, though, I want to just, for anyone who's interested in getting hold of iron and following him. So I do know that wizard scientists, you have a URL right now called Mitchell Sciences, but you're actually going to come up with a new one, right? Are you going to come up with a new website called Wizard Sciences? Because the URL now is Mitchell. That's the one. Yeah. Okay. And so this is the,"
+    },
+    {
+        "start": "01:04:35.760",
+        "end": "01:05:01.600",
+        "text": "and it's coming soon. And then, of course, you've got Layla C60 from Philip. If you want to get hold of them there, all the links will be in the video description below. The Layla Quantum Tech website link will be in the description below. And then, of course, I didn't get a chance to even mention this, but there's a third thing that Philip does because does it's called The Path of Love. And that is an awesome business venture as well. And so in order to get a hold of Philip,"
+    },
+    {
+        "start": "01:05:01.600",
+        "end": "01:05:26.000",
+        "text": "just any one of these websites, all the links below. We've also got the Tinkers Academy. That's how you get a hold of me at Tinkers.academy and your URL window. And that comes to my blog, and all of this stuff will be on the blog. And just want to say, thanks, guys. This has been a great discussion. I love the way your guys' brains work. And I think all these new products are going to be really, really cool. So, wow. Thanks. Any part of the word, Zion?"
+    },
+    {
+        "start": "01:05:26.000",
+        "end": "01:05:53.680",
+        "text": "No, be kind. Much love. Thanks for having us. Yeah. The consciousness is everything, right? So, yeah, it is. I would agree. Thanks so much for having us, Kay. That was amazing. It's a pleasure to speak with the two of you. It's fun, and it sparks even new ideas. And it feels like, you know, we're all like trying to do great things. And in between, there's like a little touch base"
+    },
+    {
+        "start": "01:05:53.680",
+        "end": "01:06:23.440",
+        "text": "when we talk about it. And yeah, it's just great to share. And yeah, thank you also to everybody listening. And yeah, just to hope that everybody, you know, gets through these times in a phenomenal way, because it truly carries some opportunities that may be still hidden a little bit. But yeah, the time definitely carries that. All right. So, thank you very much, and have a great day. Aloha, everyone."
+    }
+]

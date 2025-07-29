@@ -1,0 +1,757 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:23.440",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video and this video is special. We're going to talk about the science of quantum energy and this is a Tinker chat with I and Mitchell and Philip Von Holtzendorf. So I just wanted to let you guys know if you don't know who these gentlemen are, I and Mitchell is the owner/operator wizard scientist."
+    },
+    {
+        "start": "00:00:23.440",
+        "end": "00:00:52.040",
+        "text": "He's an acclaimed scientist, most recently and currently in the C60 world, multiple patents to his name and he's just absolutely brilliant. We've also got Philip Von Holtzendorf, who's the owner/operator of Leila Quantum Tech. And so, and he is really an expert in the area of energy work, clairvoyance, and he's actually an actual shaman. So what's really cool about this discussion today is we're going to be talking about"
+    },
+    {
+        "start": "00:00:52.040",
+        "end": "00:01:20.600",
+        "text": "the science of quantum energy. We have a scientist, we have a shaman, and then I'll be facilitating the discussion with my perspectives as well. So hey gentlemen, good morning and thanks for joining. Are you okay? Hey Kay, happy to be here. All right. Hey Kay, thanks for the invite. I think the next time we speak, guys, Philip, I'm going to take the role of shaman and you can go for scientists."
+    },
+    {
+        "start": "00:01:20.600",
+        "end": "00:01:49.800",
+        "text": "I think it might be interesting to see what each of us comes up with from the perspective of a different domain. Oh, I'll be the physicist that just criticizes everything you both say. I got him. You know, it's really funny. Actually, I was going through all these different videos to pull content for just talking points. And I ran across one where I think it was Deepak Chopra was talking at a convention and"
+    },
+    {
+        "start": "00:01:49.800",
+        "end": "00:02:18.240",
+        "text": "a physicist came on, you know, they stand up and get the mic. And so the physicists and Deepak are trying to, you know, are talking to each other. And so the guy goes, you know, I don't understand, you know, he goes, I understand, well, this is his quote when Deepak was trying to explain quantum or basically bio field and quantum. And the guy looks at him, this PhD guy's goes, looks right at Deepak and goes, you know, I know what all those words mean individually, but I don't get what you're saying the way"
+    },
+    {
+        "start": "00:02:18.240",
+        "end": "00:02:44.600",
+        "text": "you're putting together is really funny. And then so Deepak goes and actually says, you know, well, let's, you know, goes, well, lots of people will call this woo woo, but that's a cop out. You know, just, it's like, you know, you just, you're just basically labeling it and throwing it off to the side. But, you know, it's not woo woo. And I think that's the first thing I want to say is that the idea of quantum energy as we are going to define it today is not woo woo. So hey, let's jump in."
+    },
+    {
+        "start": "00:02:44.600",
+        "end": "00:03:13.680",
+        "text": "But yeah, definitely I definitely would love to hear you defend shamanism and then Philip defend science. That would, that would be great. Okay, so the first point of the discussion that I want, I guess, you know, get you guys to kind of comment on is the idea here and this is the first thing anybody should understand about this topic is that there's no definition with the words that we're using."
+    },
+    {
+        "start": "00:03:13.680",
+        "end": "00:03:43.640",
+        "text": "In other words, there's no language. I cannot find a language that encapsulates the concepts of what we're, what we're talking about and what anyone is talking about in this subject matter. And so here's like, here's a little of the definition of quantum is, is this where you see on the screen? I won't read it. But the concept is that, hey, the definition of quantum and the actual definition by, you know, websters or whomever of energy, none of these things apply to the concepts that we're describing."
+    },
+    {
+        "start": "00:03:43.640",
+        "end": "00:04:08.600",
+        "text": "And it's only the fact that we're, you know, we're using these words for the lack of words to use. I mean, would you guys agree with that? 100%. That's, that's the problem with this is in terms of conveying it to someone, you're dealing with things that are subtle and the degree of subtlety is something by virtue of the kind of topics that we're looking at for the purposes of saying like, we look quantum tech."
+    },
+    {
+        "start": "00:04:08.600",
+        "end": "00:04:37.040",
+        "text": "When I look at that, it is, it's daunting because the vernacular doesn't exist. You're trying to, I mean, obviously the vernacular exists for quanta and descriptions of what that is, but it's really not appropriate because when you're trying to look at something from the standpoint of, okay, that's great. What's the level of abstraction beyond that? Well, then you get to a place where things really do, you know, and I agree, woo, woo, woo is a cop out because as a scientist, you're supposed to go where there is a lack of understanding"
+    },
+    {
+        "start": "00:04:37.040",
+        "end": "00:05:03.960",
+        "text": "and trying to shine a light on it. But it is. Yeah, I have no words for a lot of the things. And that's why I do a lot of these things via analogy is we can, we can understand in principle, but there, there are just simply some things that are beyond the component of doing it as a very definable test, like there's literally not a human alive probably that doesn't understand the concept of love in some form or fashion."
+    },
+    {
+        "start": "00:05:03.960",
+        "end": "00:05:31.240",
+        "text": "But, you know, show me the meter that's going to gauge that. Yeah, yeah, I hear you yes. So you know, and if you guys actually have a wine on the lavometer, let me know where I can buy one. You know, okay, I'll work on that one. So Philip, you know, I was thinking about when it comes to language, and I, yeah, I totally agree. And, but you know, this whole thing about language and one of the thoughts that popped in my head last night when I was putting this deck together was, all right, here's"
+    },
+    {
+        "start": "00:05:31.240",
+        "end": "00:05:57.160",
+        "text": "the definitions, none of it applies, there's no words for this. But then I also know for a fact, right, that when Europeans dominated or spread out across the planet and dominated all the indigenous cultures, they wiped out their cultures and language and religious practices and would dominate in all of that with their own. And I'm wondering because of your shamanic background, if there exists words prior to"
+    },
+    {
+        "start": "00:05:57.160",
+        "end": "00:06:26.960",
+        "text": "the domination of the European culture, right, but for the first nations, people in the indigenous populations, are there words in that realm that really kind of define what this is? Is there like, is there a better language that we could be using instead of English? Well, I mean, I think, I think in Sanskrit, for example, an ancient language, there's, there's a lot of wisdom and understanding in it."
+    },
+    {
+        "start": "00:06:26.960",
+        "end": "00:06:55.160",
+        "text": "So I think that's a pretty good language to look at. And there's also some, you know, scriptures in that language that are, you know, interesting to look at from that standpoint, but I would 100% agree also with what Ayan said, the deep truth of creation just cannot be described with words. The infinite, basically, is what we cannot describe, we can, we can try and we can get"
+    },
+    {
+        "start": "00:06:55.160",
+        "end": "00:07:20.880",
+        "text": "near that, but it's not a concept that you, or it's, that truth cannot be explained with words in a way that everybody understands it, right? If it was so easy, then you could just write a few sentences and everybody would immediately get it, but it's something you actually need to experience. So we're always in this stretch position in a way between, okay, what do we experience"
+    },
+    {
+        "start": "00:07:20.880",
+        "end": "00:07:49.440",
+        "text": "and how do we describe it, and that's kind of the trick here also, because, I mean, I think so many people now understand that that exists, that there's more than just this physical, material world that we're seeing with our own eyes, right, living in these extra dimensions of space and time, moving from spot A to spot B, and then, you know, time moves"
+    },
+    {
+        "start": "00:07:49.440",
+        "end": "00:08:18.560",
+        "text": "as we move along. That is something that doesn't exist in the truth behind it, if you will, but how do you explain it? So it is very difficult, and I think what we're doing today is we're going to try to get closer to it, and hopefully people can relate to that as we're trying to do that from a few different angles. No, that, yeah, yeah, good, all right."
+    },
+    {
+        "start": "00:08:18.560",
+        "end": "00:08:44.120",
+        "text": "Well I was going to say, even if you pull back, I mean, because a lot of people approach this topic with trepidation, because, you know, it's the idea of spirituality or something larger than ourselves, and that, I think, just inherently makes people proceed with caution. If you say the same thing about something that we've all done, you can understand how it's very difficult to convey even the most simple things, linguistically without the"
+    },
+    {
+        "start": "00:08:44.120",
+        "end": "00:09:12.440",
+        "text": "actual first-hand experience, you know, eating chocolate cake, you can write and read about eating chocolate cake all day long, but it's kind of a, it's an abstraction without actually really an experiential component, you're left dry, it doesn't mean much. You know, you can say, oh, then you move your jaws, and your tongue moves through a semi-viscous, you know, solid at this percentage. Yeah, those are all just descriptive terms, but really, when you eat the chocolate cake,"
+    },
+    {
+        "start": "00:09:12.440",
+        "end": "00:09:42.280",
+        "text": "you understand it firsthand, and that's something that we take for granted every day, a little simple item, when you start talking about something like this, like, what is the substrate of reality? What transpires to actually make things manifest in a physical level? That's when I think you get met with a lot of fear about it, but the same thing applies just across all domains, really. It's about the experience. You have to experience it, you know, I mean, truly with quantum, the experience is one"
+    },
+    {
+        "start": "00:09:42.280",
+        "end": "00:10:12.240",
+        "text": "of the most critical components, because it actually changes the output of the entire thing. Yeah, yep, yep, yep. I think a side note for all you folks out there, they, you know, if you really are having a hard time wrapping your head around it, just know that we're going to use the words quantum energy in a capacity that's not in the Western, you know, society's definitions. And it's going to be kind of what we're going to try to do today is actually define that"
+    },
+    {
+        "start": "00:10:12.240",
+        "end": "00:10:41.600",
+        "text": "for everyone, what we mean by when we use the term quantum energy and not, and not in a woo-woo sense, but actual in a real sense, but just keep in mind that the current definitions don't apply. So, yeah, thanks, gentlemen. And so now the second concept that I want to throw at you is that, you know, for the last, I don't know, forever, I've been trying to explain stuff like this to people because I've been involved in biological magnetics. And so when I talk like the work of Wilhelm Reich and, you know, his, his discovery, well,"
+    },
+    {
+        "start": "00:10:41.600",
+        "end": "00:11:08.680",
+        "text": "he would not discovery, but, you know, of Orgon and then, of course, being a Chikung guy, you know, I've been really involved with she and, you know, martial arts and, and then, of course, Prana and Mana. But, you know, these are all the words that you hear come up when people talk about, you know, this etheric energy. But even in these terminologies, it doesn't, I mean, is there is no one word? I mean, have you guys even come close to finding any one of these kinds of concepts, even being"
+    },
+    {
+        "start": "00:11:08.680",
+        "end": "00:11:35.560",
+        "text": "remotely close to it? Yeah, actually on the list here, but, but again, looking at these, yeah, some of these things are good approximations, but they're, they're only approximations within one segment. They don't, each of these things means something differently and having had experiences and, and done, you know, experiments with some of them. I mean, you're like zero point energy, that's pretty easy."
+    },
+    {
+        "start": "00:11:35.560",
+        "end": "00:12:05.520",
+        "text": "You can just look at something when it's at absolute zero or, or an approximation thereof, and you note that things are still moving. Well, there, there you go. That's, that's a legit and testable phenomenon, um, scalar energy, less so, organ, less so, she and key, anybody who's ever done a bit of martial arts or been around somebody who's, um, you know, a, a practitioner, Chikung, unless you're absolutely living in a bubble, you can feel the actual impact of that on your physiology."
+    },
+    {
+        "start": "00:12:05.520",
+        "end": "00:12:35.480",
+        "text": "Uh, same thing with, with Prana. Um, personally, I really haven't dealt with mana, but you know, those things are, again, the reason they have validity to me is because they're experiential. And once you do it, unless you want to stick your head in the sand and be kind of the, the ostrich scientist, you have to realize that there are things that you're going to experience that we just don't have clinically descriptive words or academically descriptive words for. Um, you know, zero point energy is a good one because you can verify that, you know, we"
+    },
+    {
+        "start": "00:12:35.480",
+        "end": "00:13:03.840",
+        "text": "know it exists, uh, spooky action into distance. We know that happens because we were able to test things, uh, three years ago, a Japanese research team tested quantum entanglement and was able to verify that the, the effects were happening at, uh, 10,000 times faster than the speed of light. And that's, that's pretty profound. You know, that's, uh, by common thought in the sciences, that wasn't supposed to happen, but it, but it obviously did. Um, so, you know, the doorway is there."
+    },
+    {
+        "start": "00:13:03.840",
+        "end": "00:13:29.760",
+        "text": "It's just a matter of can you look through it. So yeah, these terms, they're impactful, but to me, they're all subtle flavors of it because, you know, my interpretation of scalar is differently than organ because, uh, they just are. And you know, my experience with key is different than my experience with Prana. Yeah. Yeah. Yeah. Totally. So everybody is to like, you know, like dabbling, like you just said, you had a really good point. These are all flavors."
+    },
+    {
+        "start": "00:13:29.760",
+        "end": "00:13:55.920",
+        "text": "And I think to understand what we mean by quantum energy is to understand that these words all touch it. They're all different flavors of it, but they're not, they're not exactly what it is, but they all are very close. And then so fill up from like, from your background, you know, I mean, you are actually, I think you, you teach Kundalini, a yoga and all these different kinds of things. And so you're super close to this, is anything along those lines, like what would you say"
+    },
+    {
+        "start": "00:13:55.920",
+        "end": "00:14:23.440",
+        "text": "is the closest to quantum, the word quantum energy as we're trying to use it in, in that row for you? I mean, what would you say is the closest thing to it? It's a great question. And one thing I tell people is that, you know, we breathe air here on earth to, to be alive. We drink water so that we can function and then, you know, while for some people on earth"
+    },
+    {
+        "start": "00:14:23.440",
+        "end": "00:14:52.560",
+        "text": "is actually not needed to eat food, you know, most people eat food and also need to eat food in order to be alive. But that's what most people talk about. And people forget that we actually also need the source of energy to actually function because without that energy, we wouldn't exist either. So it is absolutely vital. And one could argue that's more important than food."
+    },
+    {
+        "start": "00:14:52.560",
+        "end": "00:15:21.640",
+        "text": "And so you can do martial arts, yoga, various practices of yoga, Tai Chi, et cetera, in order to increase your life force energy within you. The same actually with Prana does the very same thing. So Kundalini actually includes a lot of breath work and it's absolutely fantastic. And you can increase the life force energy within you knowingly and you can feel it while"
+    },
+    {
+        "start": "00:15:21.640",
+        "end": "00:15:47.920",
+        "text": "you're doing it already, that you're pumping yourself up basically with that energy. You have more energy available. Now the technology that we've created together with Roman actually provides that energy as well without you having to do these things doesn't mean it's not beneficial to also do yoga."
+    },
+    {
+        "start": "00:15:47.920",
+        "end": "00:16:17.440",
+        "text": "Actually, it's amazing if you do it in addition and you get way further, but there's a source of that energy that you can leverage to increase your life force energy. So it's sort of a source energy that we need to exist and that helps us to be physically in good shape and also helps our energetic system. That's what I would say to this. Yeah, no, I agree."
+    },
+    {
+        "start": "00:16:17.440",
+        "end": "00:16:42.400",
+        "text": "I agree with both of you. I think my own personal experience is practicing Chikong and feeling something that's outside of me and also inside. Just you feel it. You're right, I mean, I think that's the thing we should make it like mandatory classes for college students to have to explore these realms because that way they could balance their academia with, I would say, reality."
+    },
+    {
+        "start": "00:16:42.400",
+        "end": "00:17:11.600",
+        "text": "This is the true reality of our existence because if you feel it, there's no denying it anymore. I mean, to sit there and move very slowly and then break out into a sweat and just be wiped out or charged up actually physically challenged. But I mean, that Chikong is an amazing practice because there's this energy that comes into you, right? And then the thing about scale, I don't know if you know Dr. Jerry Tenet, but he's coming"
+    },
+    {
+        "start": "00:17:11.600",
+        "end": "00:17:40.480",
+        "text": "out a new book where he's kind of basically going to be talking about how scalar energy is the energy of our DNA and the inner cellular energy that kind of pulls it all together in addition to his healing with voltage work, he's doing research on the idea of scalar and that's his theory, so his new book is coming out all about scalar as it relates to biochemical and healing with voltage kind of work. So I'm looking forward to reading that book."
+    },
+    {
+        "start": "00:17:40.480",
+        "end": "00:18:09.600",
+        "text": "So all of these different energies, obviously, they all tie together to help on the definition of what quantum energy is. So next talking point I want to throw out you guys and this is to everybody out there. And a lot of folks that maybe didn't pay attention to science in school, but another talking point that we want to throw out in our definition or discussing of the science of quantum energy is the idea that there is this energy."
+    },
+    {
+        "start": "00:18:09.600",
+        "end": "00:18:38.560",
+        "text": "And for folks that deny that there's an energy, this is my talking point that I would like to or maybe they don't understand it, but the point I want to make and gentlemen, if you could chime in, is that from a very, very down to the atomic level, we know scientists know that, you know, that we have basic electrons, neutrons, protons, and there's a nucleus of an atom, there's electrons that are flying around as a diagram to fix. And there's this movement and in order to have movement, you have to have energy."
+    },
+    {
+        "start": "00:18:38.560",
+        "end": "00:19:07.640",
+        "text": "And so there's the concept that here, first of all, there's a space between all of these different particles and so there's a concept here like, okay, is anything truly solid if even down to our atomic structure of our bodies, there's space in between, so there's space between everything. So, you know, there's a whole concept there about being solid, but the point I'm trying to make is about energy. There's energy that's moving all of these particles around and with movement comes frequency down to the very, and this is where we talk about quantum, quantum is this, you know,"
+    },
+    {
+        "start": "00:19:07.640",
+        "end": "00:19:34.120",
+        "text": "the smallest particle you could find and even within this nucleus, they're smaller and smaller and smaller particles. And then when you look at the galactic, you know, you look at the universe, you see that same idea of not only movement, but you can see where it's everything's still spinning. But there's also movement and where is that movement and how is that movement, you know, people can call it gravity, but that's not, you know, that gravity doesn't truly play if you get into the deep end of the pool here."
+    },
+    {
+        "start": "00:19:34.120",
+        "end": "00:19:57.760",
+        "text": "But the idea though is that the galaxy, everything's moving, every single thing down to the tiniest atomic, subatomic particle is moving all the way up to entire galaxies and everything floating around in the universe is moving and what causes movement, that energy. So gentlemen, would you think that quote, that energy kind of falls into the definition of quantum energy?"
+    },
+    {
+        "start": "00:19:57.760",
+        "end": "00:20:26.720",
+        "text": "Yes, I will, I will go on record is saying yes, it does. And I think that's part of the reason that even when, by calculations, molecular motion should cease and subatomic motion should cease at absolute zero, it doesn't. Because it has the appearance, at least in my studies, it has the appearance that all motion in the universe is spiral in nature."
+    },
+    {
+        "start": "00:20:26.720",
+        "end": "00:20:54.200",
+        "text": "Both on the subatomic and the, you know, the cosmic scales and intergalactic scales, everything seems to be moving in a sort of spiral motion. And personally, my money is on the concept that the inherent power that keeps all of these things moving is that it's something that's, you know, a little indefinable that's beyond beyond the level of where we're at technologically."
+    },
+    {
+        "start": "00:20:54.200",
+        "end": "00:21:19.720",
+        "text": "I would also say that I think in time will probably approximate it more closely. But I, I really, again, I really don't know that we'll ever actually be able to look at it perfectly. I don't know if you guys are familiar with the, the story flat landers. Have you guys ever heard that? It's a little short story, but it's basically it's a sphere, a three dimensional sphere finds its way into a two dimensional land."
+    },
+    {
+        "start": "00:21:19.720",
+        "end": "00:21:46.720",
+        "text": "And it's trying to explain to the two dimensional creatures what it is. And they can't experience it in its own nature of three dimensions. So they can only understand it by abstractions based on their perception of reality. So in, in similarly, when we are a subset of something, I think we can come up with terminology and try and get a good grasp of it based on, you know, looking at things and coming up"
+    },
+    {
+        "start": "00:21:46.720",
+        "end": "00:22:08.800",
+        "text": "with analogies to, to understand conceptually. But I don't think shy of having a direct interaction and a direct experience of something like that, I don't think you'll ever peg it down. Yeah. I think that's an amazing example, actually, because that's, that's exactly the situation that we're as humans in, right?"
+    },
+    {
+        "start": "00:22:08.800",
+        "end": "00:22:33.400",
+        "text": "Because we, we can observe easily, you know, the, the dimensions that we witnessed here in the physical world, right? That's three dimensional for us and that's, that's very easy and everybody gets to observe that. But we're way more than just that. And that goes really into higher dimensions."
+    },
+    {
+        "start": "00:22:33.400",
+        "end": "00:22:58.680",
+        "text": "And it's, if you're, if you, if you don't have a conscious view or a conscious experience of those dimensions beyond, you're, you're going to have a very hard time in understanding that no matter how it is explained. Now if your intention is to understand that and maybe you're working on becoming more"
+    },
+    {
+        "start": "00:22:58.680",
+        "end": "00:23:25.000",
+        "text": "transparent and getting there through meditation, other practices, through, you know, accumulating knowledge, et cetera, then you will start to understand that concept, but you will never fully understand until you are actually consciously experiencing some of these things. So one, one thing I might interject there, Phillip, with regard to your particular technology"
+    },
+    {
+        "start": "00:23:25.000",
+        "end": "00:23:51.720",
+        "text": "that you and Roman have, you know, this is certainly not a, not a plug for it, but it's just, it's my own unabridged experience with this. And you know, just I'll tell you what I've experienced. One of the guys that works for me in, in playing with this, you know, I have a Geiger counters and we've tested, tested the block for radiation, can't find any gamma emissions or anything, you know, no beta or anything like that, magnetically it doesn't seem to"
+    },
+    {
+        "start": "00:23:51.720",
+        "end": "00:24:19.600",
+        "text": "do anything electrically, it's static, other than just maybe the spattering of things that would come about from interaction with ions in the air. But I can tell you matter of fact, Lee, the one fell in the lab who has a very pronounced histamine reaction, he doesn't have a histamine reaction to foods that he normally does if we put them in the block, which I got to tell you from the standpoint of just seeing something"
+    },
+    {
+        "start": "00:24:19.600",
+        "end": "00:24:48.000",
+        "text": "that's repeatable over and over without really being able to put the terminology around it, it does flummox me a little bit because I can see it, I can repeat it, I can get the same data over and over, but I genuinely have no terminology that I can wrap around it and say it is this. And that's part of the reason I'm so open to doing these sorts of things is because when you're able to repeat the experiment and get the same result every single time, there's"
+    },
+    {
+        "start": "00:24:48.000",
+        "end": "00:25:14.520",
+        "text": "something of note there, we just haven't figured out what it is and unfortunately, I do really believe that we may never be able to peg an it down on this, we might just be able to say, oh, it's this thing that exists outside of our particular confines of, you know, three dimensions and the arrow of time moving in one direction. Oh, yeah, that's amazing. But you know, you're right, you're right, there's that causality, right?"
+    },
+    {
+        "start": "00:25:14.520",
+        "end": "00:25:41.440",
+        "text": "But you know, so the definition of quantum energy as we are trying to define as multiple flavors and this molecular and galactic energy is just one of the flavors, but it's not the energy we're talking about, it's just, it's part of it. I think it's kind of like this framework, I guess is the best word for it. I'd like to throw another talking point at you guys, it's a four-minute video by Bruce"
+    },
+    {
+        "start": "00:25:41.440",
+        "end": "00:26:10.800",
+        "text": "Limpton and in all of my like, you know, just kind of like my background search for content for our discussion, I found this video to be just an amazing because he brings up a metaphor of a television that truly defines what, you know, like that, that first of all, that the energy, it's another definition of energy, but it's like a definition that I'll let him explain. I'd to interpret it as consciousness, but let's go ahead and if you don't mind, let"
+    },
+    {
+        "start": "00:26:10.800",
+        "end": "00:26:40.640",
+        "text": "me go ahead and play that for you guys and then I'd love to hear your, your, your interpretation and your feedback on that. So here we go. He's ever wondered if there's anything more to human than this physical body that we have. Well, it's really interesting because when we go back in history, they talk about something called spirit and energy and a new visible force that seems to be controlling who and what we really are. Quantum physics emphasized that the universe is not really split into two realms, a material realm and an energetic realm."
+    },
+    {
+        "start": "00:26:40.640",
+        "end": "00:27:07.840",
+        "text": "Quantum physics reveals that everything is made out of energy. What we perceive as matter is actually an illusion of energy and light that there is nothing physical. You know, what do you mean? I say, well, first of all, very simple fact. When physicists started to take the atom apart and find there were things inside such as protons, neutrons and electrons, then they say, yeah, but what are those things made out of? Then they got down to smaller things like parks and I say, yeah, but what were they"
+    },
+    {
+        "start": "00:27:07.840",
+        "end": "00:27:34.400",
+        "text": "made out of and ultimately what physicists recognized was at the fundamental pour of an atom, there was nothing material at all. It's an energy vortex. It's a powerful energy field and that all atoms are these energy fields and the significance about that is, well, atoms make up humans, so by definition, we perceive ourselves as physical structures but according to quantum physics, we're energy fortices."
+    },
+    {
+        "start": "00:27:34.400",
+        "end": "00:27:59.440",
+        "text": "Imagine a cell as a television set and that the environmental signal like a broadcast is being picked up by the antennas on that television set and therefore, the cell responds to that broadcast. Well, guess what? Everyone has a different set of antennas, so by definition, everyone is receiving a different broadcast field, yeah, that's what physicists refer to as the energy in which we live."
+    },
+    {
+        "start": "00:27:59.440",
+        "end": "00:28:29.160",
+        "text": "So all of us are in a field, but each one of us actually receives a very precise and specific part of that field different than everybody else. No two people share the same self-receptors. That's why we just can't exchange cells, organs and tissues with each other. Now comes an interesting part. If the cell is like a television receiving a broadcast, then consider this, what happens if you're watching your TV and it breaks? We say the TV is dead. I go, yeah."
+    },
+    {
+        "start": "00:28:29.160",
+        "end": "00:28:56.100",
+        "text": "But now the question is, yes, the TV just died, but is the broadcast still there that I was watching? The answer, of course, is still there. The television's gone. The broadcast is present. I said, would you know, one way of knowing, get another TV set, plug it in, turn it on, and tune it to the right station and the show was back on air? Well this would apply directly to humans as well. I have an identity due to a set of receptors receiving an environmental signal."
+    },
+    {
+        "start": "00:28:56.100",
+        "end": "00:29:25.600",
+        "text": "If I die, I have no more reception and therefore my broadcast exists, but there's no TV to express it. If an embryo shows up in the future with the same set of self-receptors that I have, well then guess what, I'm back online in a different TV, does it have to be a male or female TV? Nope, that's the TV. Well, how about, is it black, white, brown, red, yellow, that's the TV, that's not who you are?"
+    },
+    {
+        "start": "00:29:25.600",
+        "end": "00:29:53.740",
+        "text": "You are the broadcast. Lastly, it's important to know that the character that you express in this life is actually sent back to your source because your brain is not keeping your consciousness in your head because magnetoencephalographs, unlike electroencephalographs, magnetoencephalographs read your brain function, but the probes don't even touch your head, they're very important concept right here."
+    },
+    {
+        "start": "00:29:53.740",
+        "end": "00:30:20.460",
+        "text": "Your thoughts are not containing your head, they're broadcast into the field, and as Einstein emphasized, the field is the sole governing agency of the particle matter, and then we put all of this together and says, your biology is an expression of this matter, but it's actually shaped by the field, a field that exists whether you're here or not, and then"
+    },
+    {
+        "start": "00:30:20.460",
+        "end": "00:30:48.900",
+        "text": "all of a sudden the ancient story of spirituality now conforms to the modern day science of quantum physics. You're a field, you're a spirit, you're more than this, I'm going to understand that. It is the first step towards your personal empowerment. What do you guys think of that one? I'm inclined to clap. That was fantastic."
+    },
+    {
+        "start": "00:30:48.900",
+        "end": "00:31:16.860",
+        "text": "Isn't that very well said? Best explanations of energy, or in my mind, the quantum energy, the way we're using those words, I still hate the words because they don't mean what they mean, but just the way we're using it, I think that's a perfect example. Everything is energy, right? But yeah, it's just so what do you think? I mean, Philip... Well, I'll jump in with something that comes to mind."
+    },
+    {
+        "start": "00:31:16.860",
+        "end": "00:31:44.500",
+        "text": "One thing is, I'm sure both of you guys are familiar with dimethyl-triptamine DMT, and we produce DMT in our brain via pineal excretion and a transformation from melatonin, but we produce DMT, but when you take pure DMT, most people have an experience that's similar. People see the same sorts of things routinely, and the interesting thing about DMT is that"
+    },
+    {
+        "start": "00:31:44.500",
+        "end": "00:32:10.380",
+        "text": "intercalates into your DNA, right? And as we know from De Broglie's Handy-Dandy equations in 1924, anytime you change the mass of something like you change its wavelength, right, or it's tuning. And so you adjust to follow Lipton's analogy there, you adjust the tuning on the TV, so you're able to tune in to things that you wouldn't normally be able to see."
+    },
+    {
+        "start": "00:32:10.380",
+        "end": "00:32:37.740",
+        "text": "And I really think that the reason for that is, if I were designing a universe, I would want to be very efficient, and I certainly wouldn't waste anything, and seemingly the easiest way to do that is to overlap a whole host of realities in a planar fashion and just separate them by very small nudges and frequency, the same way that you would do with three-phase electricity, right, and you have the phases running counter to one another, and so they don't impact one another."
+    },
+    {
+        "start": "00:32:37.740",
+        "end": "00:33:03.340",
+        "text": "They all exist, but they don't interact in the same way because they're slightly out of phase, and I think that the same thing happens with consciousness, right? Our consciousness is phased in and tuned in for a particular reality, and some things like shamanic experiences and feel free to correct me if I'm speaking out of turn, but from my own experience and my own research, when people are experiencing altered states,"
+    },
+    {
+        "start": "00:33:03.340",
+        "end": "00:33:30.700",
+        "text": "I think they're subtly adjusting their tuning so that they're able to perceive from a source that's far larger than they normally can, and the other thing that's probably the one point of this that I personally would like to drive home is, if you think there's any validity to that and I personally do, the idea that your thoughts don't occur in your head doesn't shock me because nature is very efficient, it's certainly going to figure out how to"
+    },
+    {
+        "start": "00:33:30.700",
+        "end": "00:33:59.940",
+        "text": "store things on the cloud in lieu of storing things on a body, because it's not subject to the same processes that can degrade the signal. That being said, if we're all connected, I would just like to point out be nice, be kind, because those ways propagate throughout the whole of reality, so whatever interaction you have on a small scale, that'll impact everybody everywhere. So, just as a quick aside, no."
+    },
+    {
+        "start": "00:33:59.940",
+        "end": "00:34:28.020",
+        "text": "Philip? Absolutely, yeah, fantastic, and that's also a great explanation, and so I can just second that in terms of the tuning, and that's what you find, for example, if we look at someone like Roman who can tune into a lot more breadth and frequencies than the normal human being,"
+    },
+    {
+        "start": "00:34:28.020",
+        "end": "00:34:55.060",
+        "text": "where that spectrum may be very, very narrow, his is extremely broad on multiple levels, and yeah, so there are things that some people just can't observe because they're just not there yet, and other people can. So yeah, I can absolutely 100% agree with everything that I'm just said. Cool."
+    },
+    {
+        "start": "00:34:55.060",
+        "end": "00:35:24.740",
+        "text": "So I want to add one more talking point, and I kind of just do a general summary, just trying to define the phrase quantum energy, and then that is a quote by Einstein, and it's in German, so Philip, let me know if, or actually, since you've been practicing German rap, maybe, and you could kind of correct me if I pronounced it correctly, so I've been practicing. So spool cough, fun work on, is that close?"
+    },
+    {
+        "start": "00:35:24.740",
+        "end": "00:35:53.580",
+        "text": "Spool cough, fan vocal, fan work, that's fan vocal. Okay, but the whole idea, though, and for you guys at home, is that Einstein, once wrote a letter to a friend of his, and he just basically said, I cannot seriously believe in it, and he was talking about the statistical approach to quantum mechanics, okay? And he said, I cannot seriously believe in it, because the theory cannot be reconciled with the idea that physics should represent a reality in time and space free from, free"
+    },
+    {
+        "start": "00:35:53.580",
+        "end": "00:36:19.800",
+        "text": "from spooky action at a difference, which actually translated with this spool cough and free work on, which at the time meant spooky or ghostly. So there's really, there's no, you know, the, so the spooky, the term spooky didn't really apply back then. It was this other word that was used again here, we're talking about language, right? But what this point makes is that Einstein said that the energy of our reality is independent"
+    },
+    {
+        "start": "00:36:19.800",
+        "end": "00:36:44.860",
+        "text": "of space and time, that there's something else there, but it's independent of space and time. We know that it's broadcasted. So if it's broadcasted and it exists because we wouldn't exist without it, and it's free from space and time, then the whole point of my trying to make a definition of our use of quantum energy. And if you've noticed by now, is that I'm trying to define it or help people understand"
+    },
+    {
+        "start": "00:36:44.860",
+        "end": "00:37:14.400",
+        "text": "it by explaining what it is not, and also explaining what it might be. But to actually give you words for it is not possible. But I just wanted to share all the different concepts of the word. So I mean, you know, I, and you'd mentioned spooky at a distance before, and that scientists have actually mentioned it, right? So yeah, they have. They clocked it a few years ago, and it was, you know, happening at, if memory serves, and I'm pretty sure it does here, 10,000 times the speed of light."
+    },
+    {
+        "start": "00:37:14.400",
+        "end": "00:37:44.000",
+        "text": "And that's, that's pretty quick for all of you playing along on the home version of the game. Yeah. Yeah, 10,000 times the speed of light is rather rapid. And I think, and it was actually, I think in the paper, and I'd have to look, I think it was actually greater than 10,000 times the speed of light. So you know, you can look at that and say, yeah, that's kind of quick. You know, you shouldn't be able to materially move anything like that. So it's obvious that some things are just free of the connection."
+    },
+    {
+        "start": "00:37:44.000",
+        "end": "00:38:13.760",
+        "text": "And part of that is, you know, in Einstein, I think it was probably very difficult for him to try and believe in something that you can't really reconcile with numbers. I mean, hats off to I mean, kudos for, for, for acquiescing to the idea that some things are just beyond, beyond what you can discern and drill down with numbers, because I just don't think it's possible. I mean, we are effectively locked in the confines of this reality, and it's hard to get out of that."
+    },
+    {
+        "start": "00:38:13.760",
+        "end": "00:38:39.360",
+        "text": "Yeah. So I mean, yeah, I totally agree. I mean, and then so Phillips, so here's the idea, right? Or quantum energy in our definition is like, is like somewhat of a conscious slash life force energy that brings forth life and consciousness. Right. I mean, I think we can all agree on that one. And then the, the, the attributes of this energy is that it is independent of space and time."
+    },
+    {
+        "start": "00:38:39.360",
+        "end": "00:39:08.000",
+        "text": "And so that then brings forces idea here of quantum entanglement, which has been proven in a scientific academic world. So could you touch on the idea of this idea, you know, of the energy being free of space and time in, in the clairvoyant world, which especially like with the way that, you know, some of your devices are working now, where you could literally use a device, right? Or use an, or actually someone like Roman, I mean, Roman did something really wild in a webinar."
+    },
+    {
+        "start": "00:39:08.000",
+        "end": "00:39:37.720",
+        "text": "I was in a few months ago with the EMF thing, you know, where he basically put a frequency onto a piece of metal in my hands, you know, 5,000 miles away. It was just amazing. But you know, that whole idea of space and time, not being relevant, but the ability to, to move that energy anywhere, anytime. So I mean, in your world, I mean, well, how would, you know, I mean, what do you see, I mean, as, as, as this happening and what are your thoughts on that?"
+    },
+    {
+        "start": "00:39:37.720",
+        "end": "00:40:03.280",
+        "text": "Yes. Absolutely. Definitely must agree with that from multiple angles, because first of all, through just energy work that Roman does, or that crew, or I do, it indeed doesn't matter at all whether someone sits in Europe right now and the other person is in South America. Distance does not matter, and we can see instant changes, instant effects."
+    },
+    {
+        "start": "00:40:03.280",
+        "end": "00:40:32.060",
+        "text": "And that is also what, what happened there with, with, with that card. Now it also happens with the quantum block and the infinity block, for example, because that is not just a quantum energy field, it's an actual multi dimensional quantum energy space. And there's, there's quite a difference in that because you can charge an object with quantum energy and then it transmits that, but it's, it's just solely a quantum energy field."
+    },
+    {
+        "start": "00:40:32.060",
+        "end": "00:40:55.460",
+        "text": "You know, it has a whole lot less intelligence or conscious quantum consciousness levels. So it's a, that's a very hard topic to discuss scientifically, but that's the way it is. And I'm sure we'll at some point arrive, maybe in the year when we talk about that, we can also expand on that."
+    },
+    {
+        "start": "00:40:55.460",
+        "end": "00:41:21.820",
+        "text": "But if I put a picture in the quantum block or an infinity block of someone that's 10,000 miles away, it, it has a measurable effect on the bio system of that person. And it doesn't matter if that person is just a mile away here as a neighbor or five or"
+    },
+    {
+        "start": "00:41:21.820",
+        "end": "00:41:43.300",
+        "text": "10,000 miles away, there's zero difference in that regard. And time is something, it's a little bit harder to explain and wrap our minds around. I think in this standpoint, and I don't even know how to explain that well, but I can share"
+    },
+    {
+        "start": "00:41:43.300",
+        "end": "00:42:13.060",
+        "text": "something that I've just heard about a week ago from a customer actually, and she has a daughter that has since her very young age as a little child has been in quite deep depression already as a pretty young girl, she was sometimes for a whole year, would just always just go back in her room and just cry, like for hours, it's like almost unimaginable anyway."
+    },
+    {
+        "start": "00:42:13.060",
+        "end": "00:42:40.700",
+        "text": "So then there's nothing that they could ever do, and that mother is actually also an alternative health practitioner. So they tried lots of different things, but they had to end up really with a hotter medication and all of that just because that was the only way that would just help that daughter. And that daughter is now, I don't know, in the 40s, and nothing ever helped."
+    },
+    {
+        "start": "00:42:40.700",
+        "end": "00:43:06.880",
+        "text": "Then that mother started to have that impulse, and I actually wanted to react to that because I had said that he wouldn't be surprised if thoughts are not coming from the brain. I would say I'm actually differentiating because yeah, we can have thoughts in our brain, but you know where we get our impulses from, our ideas or all of that, which is way broader"
+    },
+    {
+        "start": "00:43:06.880",
+        "end": "00:43:35.780",
+        "text": "than just like a specific thought, like I'm going to think about how I'm going to cut that lemon, that is brain work for me. But if I get a real impulse on something that's so much deeper, that's coming from a completely different level. Anyway, going to that woman, that mother, she had that impulse to actually, when that her girl started to have all these issues that was at a very, very young age, she thought"
+    },
+    {
+        "start": "00:43:35.780",
+        "end": "00:44:02.180",
+        "text": "okay, so what if I take pictures off my daughter from that time where all this started to happen and occur, because there were instances that started to occur and then she reacted in a very depressive way. So she took those pictures and put those into the infinity blog, not altogether, she started"
+    },
+    {
+        "start": "00:44:02.180",
+        "end": "00:44:27.500",
+        "text": "to work with the youngest basically, and then noticed already after a week differences, her daughter did not know that she was doing that, and her daughter, they live in different continents actually. And then she moved on to the next, like I don't know, I don't know the details, but maybe it was a picture of that girl, how she was two or three months older."
+    },
+    {
+        "start": "00:44:27.500",
+        "end": "00:44:46.140",
+        "text": "And so she worked her way through that and things happen that have never happened in that girl's life before, things have healed that have never been healed before, and she's like a completely different person in a positive way, connected to herself, a lot of different"
+    },
+    {
+        "start": "00:44:46.140",
+        "end": "00:45:12.980",
+        "text": "issues and behavior issues, depressive behavior and all that have changed in a really, really dramatic and significant way. So I don't know, I think this is a great example of what's possible. I don't really know how that relates to time, because it's still from my perspective that"
+    },
+    {
+        "start": "00:45:12.980",
+        "end": "00:45:37.380",
+        "text": "healing still happened today, but it's taking like an energy of something that happened maybe 35, 38, 40 years ago, and it's fixing that. So yeah, I just felt like sharing this story because I was so touched by it, and I feel it explains a little bit of this concept."
+    },
+    {
+        "start": "00:45:37.380",
+        "end": "00:46:06.720",
+        "text": "Oh, that's an amazing, you know, that kind of ties to EFT or German new medicine, and even the tenant where they talk, all of these guys talk about how emotion and trauma gets trapped in the body. The science guys think it gets trapped in magnetic fields, the acupuncture folks or it gets trapped in your energy fields and so forth, but the concept of that emotion and"
+    },
+    {
+        "start": "00:46:06.720",
+        "end": "00:46:31.700",
+        "text": "all that baggage that we carry with us all through our lives are trapped and they actually cause physical maladies, that's German new medicine, right? And if you treat the emotion, you release, you release the problem and then you can finally heal the problem. So I think that's probably what's going on is that the healing and the wellness of the life force source energy that's coming from this block, right, is that it's actually going"
+    },
+    {
+        "start": "00:46:31.700",
+        "end": "00:46:59.160",
+        "text": "to her in this time, but then releasing that trauma that she's holding on to from the past, right, because it's directly tied to that because of the picture. And then of course, then allows her to heal it. So that's my theory. I mean, would you, would you, or Phillip, you guys think that's close? No, I actually, have you ever seen the research on the patients with sepsis, they had over"
+    },
+    {
+        "start": "00:46:59.160",
+        "end": "00:47:28.080",
+        "text": "3,000 patients with sepsis in a hospital, university hospital, and they, they separated them into two groups and one group was prayed, you know, they separated the files and then they prayed on one group and they found that there was a statistical, a very definitive and clear statistical correlation with benefits coming to the group that had received the, the prayer, which, you know, as a scientist, it sounds not so much to me because I've looked"
+    },
+    {
+        "start": "00:47:28.080",
+        "end": "00:47:56.360",
+        "text": "at this a lot, but at the outset, it would sound a little peculiar, but the thing that really was difficult for me to route my brain around was that, you know, the, the effects of their, you know, intercessory prayer were all retroactive. They did this on patients that had had their sepsis, I think a decade earlier, you know, and that's, that's kind of interesting because they got a very clear statistical analysis"
+    },
+    {
+        "start": "00:47:56.360",
+        "end": "00:48:21.520",
+        "text": "and, and it, it, it showed very clearly that there was an effect, but it was an effect that was devoid of temporality. It wasn't contingent on linear time and that's a, it is as just as a person who's trapped in linear time, it's very difficult to break the construct and say, oh, I can do something today in effect and outcome tomorrow because it, it seems to deviate from the concept of"
+    },
+    {
+        "start": "00:48:21.520",
+        "end": "00:48:50.400",
+        "text": "causality, which the more and more I, I get into things, the more and more I begin to think that the concept of causality is just that it's a concept, it's some sort of method that we use to try and define and determine reality and place meaning around something in such a way that we can interpret what's going on because we're not actually capable of interpreting the totality of the experience that, that really from my experience really"
+    },
+    {
+        "start": "00:48:50.400",
+        "end": "00:49:14.080",
+        "text": "looks like something that lacks causality, there is no cause and effect, I think it actually is more just the timeline is moving in both directions simultaneously in the experience for all I know, may already have been completely wrapped, which is sort of a Calvinist approach to it, you know, saying that the predestination of things I assume, but it kind of has, when"
+    },
+    {
+        "start": "00:49:14.080",
+        "end": "00:49:39.600",
+        "text": "you see statistical data like that that's very clear yielding an effect previously, it reminds me of what you were talking about Phillip, I just, I know that those things are possible, I don't exactly understand how they work yet, hopefully at some point I will, but it definitely, you have to look at it with an open mind and say, it is an effect that's happening, I don't"
+    },
+    {
+        "start": "00:49:39.600",
+        "end": "00:50:05.280",
+        "text": "understand how so I'm going to try and, you know, hopefully that's, I think that's what you're going to drive in that case, a lot of this stuff, we're just not there yet, you know, you know, yeah, yeah, that's, that's the whole point of, you know, of this, of this chat and of this ticker chat is, is to discuss the science of quantum and to really explain that we know, yeah, we're just not there yet, we don't have a vernacular for it, and we're"
+    },
+    {
+        "start": "00:50:05.280",
+        "end": "00:50:31.840",
+        "text": "only seeing now what it is, you know, we have flavors, right, and we have, we know what it's not, but we're seeing what it is through what it does, and that's kind of my last points that I wanted to kind of just bounce off you guys, I mean, we've only got about, we got 10 more minutes before Phillip's got to go, and I know you got to go to, so if we could, we could just kind of chat for the last 10 minutes, just to talk about, okay, well, if"
+    },
+    {
+        "start": "00:50:31.840",
+        "end": "00:50:59.600",
+        "text": "we can't define exactly what it is, because we don't have words, we know what it's not, we know what it's kind of like, we know that it's independent of space and time, so then the next thing we want to say is, well, then what is, what is the application of a daily life, like what does it do, and so Phillip, great story, you just shared that, I kind of, you know, have some bullets here where I just would like to just bounce off you, I'll just get your, you know, your feedback on, on what you can do with it, or what, you know, what"
+    },
+    {
+        "start": "00:50:59.600",
+        "end": "00:51:25.680",
+        "text": "does it do in your daily life, and then the methods of, if we can get to that, but really for me, I think like what you were just talking about, Phillip, was the concept of, of its ability to heal, and not just heal physical, right, but healing and then wellness, right, to bring someone into wellness, and then like in my background, biological magnetics, I mean, just as a quote from like, Georges Likovsky created a multi wave oscillator, and the whole"
+    },
+    {
+        "start": "00:51:25.680",
+        "end": "00:51:50.200",
+        "text": "purpose of the oscillator was to bring in tune your bio field and your whole biology into its optimum residence, right, and that, and by lifting you into that optimal residence, you become the optimal physical being, you know, of who you are, you're the opt, you know, and then so then, of course, you were healed, if you had a problem, and so this whole idea of wellness is all about bringing you up to your perfect state, and of course"
+    },
+    {
+        "start": "00:51:50.200",
+        "end": "00:52:15.200",
+        "text": "you know that there's an effect on mood and emotions, also cognitive function, but then also, too, I want to touch on, and I think this would be a good one for iron, you know, the scientist, but you want to be shaman for a second, but also the use of quantum energy for the concept of enlightenment. So gentlemen, I mean, what are your thoughts along the idea of, you know, so we define"
+    },
+    {
+        "start": "00:52:15.200",
+        "end": "00:52:41.920",
+        "text": "this by what it can do? And so what do you, what do you guys say? I would like to jump in. Yes, please. Yeah, so, so the, what's, what I always tell people if they ask me a key of this energy that's in the quantum block and then the infinity block, what does it do? And in essence, it, because it is multi dimensional, and there's,"
+    },
+    {
+        "start": "00:52:41.920",
+        "end": "00:53:06.760",
+        "text": "there's consciousness levels in there, significant consciousness levels, quantum consciousness levels, it actually supports and underlines everything that is life giving consciousness and life supporting, and it neutralizes everything that is harmful to consciousness and harmful"
+    },
+    {
+        "start": "00:53:06.760",
+        "end": "00:53:35.680",
+        "text": "to the physical body, whether that's human plan, animal doesn't matter. And in essence, what, what it, what it does is it invites you into your own completeness and supports you with that. What does healing really mean? It becomes, it means to, to become whole or to be whole. If I'm here, I'm whole. And that has multiple aspects, obviously."
+    },
+    {
+        "start": "00:53:35.680",
+        "end": "00:53:58.600",
+        "text": "It's, and, and if you have an energy that can support you on that path, then you can understand, okay, why, why does that now also help with the system in response, right, that that suddenly doesn't have histamine response anymore? Just because it's neutralizing something that is"
+    },
+    {
+        "start": "00:53:58.600",
+        "end": "00:54:28.560",
+        "text": "harmful for that particular person. That is hard to understand. Those are just two, three sentences, but once one grasps, what that really means, they understand what it, what it does. It also doesn't, because everybody's so different, everybody is at a different state of consciousness, and a different state with her physical body, and has different,"
+    },
+    {
+        "start": "00:54:28.560",
+        "end": "00:54:55.040",
+        "text": "you know, a different soul plan, different things to take care of and to learn and to experience, right? That's why that's actually the only reason, the main reason why it doesn't work the very same way for everybody all the time, even though you can replicate this one example, for example, that I gave over and over again, and yes, we have improvements,"
+    },
+    {
+        "start": "00:54:55.040",
+        "end": "00:55:23.600",
+        "text": "you can see in the blood and all of that, but the exact effect of something may be different from K to I and to myself, and it always helps us there where we are, and then helps us to take a step further. That's, that's how I can explain it, and that's how I see it relate to all these points that, that you listed here on this, on this slide."
+    },
+    {
+        "start": "00:55:23.600",
+        "end": "00:55:52.320",
+        "text": "Yeah, I mean, we're all different TVs, right? So we're all going to experience it different, but so what do you think in terms of like using quantum energy for enlightenment? I mean, do you think that's possible? Could that be the next step? Because we know it really helps wellness and healing, of course, the emotional states, moods, but then I'm thinking, you know, what about cognitive function, and then also as well as enlightenment? But more"
+    },
+    {
+        "start": "00:55:52.320",
+        "end": "00:56:21.800",
+        "text": "and so enlightenment, because it seems like that seems to be the one missing component in a lot of people's lives. Well, just, yeah, okay, objectively, how are you describing the enlightenment? Because that that too is one of those things that's a little, a little warm. So what would you say for the purpose of, you know, people who aren't, you know, a spiritual aspirant, who aren't helping on enlightenment? What do you think that is? I mean, how do you describe that?"
+    },
+    {
+        "start": "00:56:21.800",
+        "end": "00:56:47.840",
+        "text": "Oh, good question. You're right. You're right. I should have said, yeah. In my definition, enlightenment is the raising your vibration. And once you raise your vibration become, you become more like acutely aware, your senses become stronger. You can feel everything around you. You're thinking is more neutral. You're not, you're not reactive. It's kind of like you're able to distance yourself between stimulus and response. All of those"
+    },
+    {
+        "start": "00:56:47.840",
+        "end": "00:57:16.520",
+        "text": "things, you become an enlightened being by just chilling out and being able to just sense everything around you and being much more in control of yourself. And then being a higher vibratory being, you're able to kind of just expand your consciousness to understand more and you just become more of a just, you know, I mean, peaceful, wiser, gentler human, I guess is my best phrase. I'm not talking to Nirvana now. I'm just talking about, you know, being"
+    },
+    {
+        "start": "00:57:16.520",
+        "end": "00:57:38.840",
+        "text": "here on Earth. Wow. Well said. Okay. So are you familiar with David Hawkins power versus force? No, I haven't heard that one. It's a really good book. Hawkins was an MD PhD and very brilliant guy. And he spent most"
+    },
+    {
+        "start": "00:57:38.840",
+        "end": "00:58:03.800",
+        "text": "of his career as a psychologist and or psychiatrist, I suppose. But his real crux of his work was defining that his map of consciousness was kind of his seminal work. And he goes through and expresses different gradients of where people are. And he actually had a logarithmic scale that he put together to kind of gauge people. And it's really, it's"
+    },
+    {
+        "start": "00:58:03.800",
+        "end": "00:58:29.000",
+        "text": "a great read, especially for somebody like me who likes really clinical sorts of things where I can I can wrap my head around it. And and he did all of the statistical analysis of the whole thing. And it was actually his book power versus force was actually kind of the culmination of his doctoral thesis. And it's really brilliant. I would recommend anybody read it. But on that he has, and the reason it comes to mind is he has a breaking"
+    },
+    {
+        "start": "00:58:29.000",
+        "end": "00:58:56.200",
+        "text": "point where people hit enlightenment. And it was at on his scale of memory serves at the consciousness level was 600, I believe. But when I read the book, I remember thinking, ah, I know people at this point and I know people at this point. And it was interesting from the standpoint of a psychiatrist, how he broke it down with at this level of evolution, this will be your experience and at this level of evolution. And what you just said when you"
+    },
+    {
+        "start": "00:58:56.200",
+        "end": "00:59:22.480",
+        "text": "were explaining this really resonated with me, okay, because the idea that you become more capable of desensitizing yourself to the negativity in your environment while becoming more of a positive, positive source of motivation for those around you. And also mentally you become a stronger reference point where you're cognitively capable of doing things that"
+    },
+    {
+        "start": "00:59:22.480",
+        "end": "00:59:48.880",
+        "text": "other people perceive to be almost impossible. And I do remember one thing jumps out on in his book was in his discussion about, I think it was Einstein, since we were just talking about him, had capped out at the top end of human intellectual capacity, but wasn't able to go beyond that, because of his lack of acceptance of the concept that there was something"
+    },
+    {
+        "start": "00:59:48.880",
+        "end": "01:00:17.840",
+        "text": "far greater and more, and inherently divine in that, which I, you know, not really saying that that is or is not the case, I'm just saying it's kind of intriguing. But I would recommend everybody take a look at that, because for me, everything you listed here, you know, your healing and wellness, I know from decades of meditation that the more you do that, the more you're capable of getting your body in tune, the more capable you are"
+    },
+    {
+        "start": "01:00:17.840",
+        "end": "01:00:42.560",
+        "text": "of taking things that would normally be a sympathetic nervous system response and putting them into a parasympathetic state. I just did this last week with a thing called synanga, which is kind of effectively like putting capsaicin, you know, pepper spray in your eyes for the purpose of kind of retuning your ocular function. And it works very well, there's"
+    },
+    {
+        "start": "01:00:42.560",
+        "end": "01:01:09.760",
+        "text": "a lot of clinical data on it. The problem is it's excruciating, because you have effectively pepper spray yourself, you know, which is the least likely, the least popular flavor of breath spray, you know, pepper spray, you know, it's, it was interesting because you really do get to gauge a sense of how much in control of your own physiology are when you have somebody"
+    },
+    {
+        "start": "01:01:09.760",
+        "end": "01:01:33.280",
+        "text": "pop a bunch of pepper spray in your eyes, you know, if you're completely able to take care of your body and not allow it to go completely wackadoo crazy and your muscles tense and your respiration go off the charts, that to me would kind of be a marker of the idea that you're progressing in terms of your own evolution, because, you know, the physiology is no longer"
+    },
+    {
+        "start": "01:01:33.280",
+        "end": "01:01:59.240",
+        "text": "the governing factor, it's more your consciousness expressing itself through your physiology. Now, when you get on to the point of enlightenment through tools, and Phillip, I'm incredibly curious to hear your take on this, using something like one of the blocks to enhance your unconsciousness, I would say from my personal perception, that does seem to be the case. But to take"
+    },
+    {
+        "start": "01:01:59.240",
+        "end": "01:02:25.040",
+        "text": "you all the way to and, you know, the state that would normally be termed enlightenment or, you know, having probably read too much, you know, like samadhi or nirvi kalpa samadhi or one of those states, I don't know that that's actually something that you would do by, you know, putting a quantum block on your head and wearing it as a hat for many, many months. I think it's actually a process that is kind of an unfolding of your own consciousness"
+    },
+    {
+        "start": "01:02:25.040",
+        "end": "01:02:49.120",
+        "text": "that's going to happen through time. Yes, that's exactly right. It's a process. It's much less something that just happens to us, like tomorrow, you know, suddenly you hear these stories of, okay, that person just, you know, crossed the road and suddenly was enlightened, you know, that's really not the majority. Usually it's really a process and, yeah, the quantum and"
+    },
+    {
+        "start": "01:02:49.120",
+        "end": "01:03:17.680",
+        "text": "the infinity block absolutely support and help with that. So my analogy is always, I know we're running hard on time here, but my analogy is like we're all working, walking on a dirt road or having a bicycle, like an old bicycle and we're riding on this dirt road. And that is our life, right? That's how we progress. We're, you know, we're having these goals and we meet different people on the way and all of that. And then suddenly there's someone about 50"
+    },
+    {
+        "start": "01:03:17.680",
+        "end": "01:03:43.120",
+        "text": "yards to the right and is saying, hey, you know, just why don't you come over here? You know, there's an Autobahn built here. And I got a new Lamborghini. Why don't you just, you know, get in and just keep going here? And it's parallel to the dirt road, right? And so you walk over, you get into this new Lamborghini and you're suddenly driving on that Autobahn and"
+    },
+    {
+        "start": "01:03:43.120",
+        "end": "01:04:08.240",
+        "text": "you're super fast, you're getting everywhere, way quicker. And that still doesn't mean that you may not have a flat tire every now and then and all of that. But you get there quicker. And that's exactly the same here. You know, the unlocking of our consciousness is just happening way faster and way easier. It supports us. It does not at all mean it's going to happen tomorrow. If you"
+    },
+    {
+        "start": "01:04:08.240",
+        "end": "01:04:36.400",
+        "text": "were in the head for a day that actually may not be a good idea to do that. So it is really something that under that supports us on our path towards that. Now, my two cents, honestly, is that being around these energy devices and then also wearing one, a capsule all the time. I have noticed over the last six months that I've been playing around with all of these Lelecue devices. I have"
+    },
+    {
+        "start": "01:04:36.400",
+        "end": "01:05:05.920",
+        "text": "distinctly found myself changing on every one of these levels right here. And I can't attribute it to anything other than that because my diet, everything's the same. So that's just my two cents and I can talk more about that later. I know we're out of time. So guys, thank you so much. This has been a great conversation. As always, I love, I'm loving this, right? And I just want to say to everybody out there, if you want to find Ian, he's now at wizardsciences.com. He's"
+    },
+    {
+        "start": "01:05:05.920",
+        "end": "01:05:35.600",
+        "text": "got his website up and running and his new product out for sale. You've got Philip at Leila Quantum Tech and that's at Lelecue.com. And you can find me at the Tinkers Academy, Tinkers.academy and you're all window. And that's how you'll find us. I will put links to where you can find us in the video description and welcome all of the comments. And of course, join us on Telegram and we can chat more about this topic. And then probably we'll have another video down the road and we'll carry it forward. So gentlemen, any parting words in Mahalo?"
+    },
+    {
+        "start": "01:05:35.600",
+        "end": "01:06:01.920",
+        "text": "Well, I'm going to have to go back and adjust my day planner because I had full enlightenment scheduled for Saturday at three in the afternoon. So apparently it doesn't work that way. I'm going to have to adjust, but that leaves it open for me to go have some dip and dots. So I'll get that set. You're awesome. I know. Thank you. Yeah, thanks,"
+    },
+    {
+        "start": "01:06:01.920",
+        "end": "01:06:30.720",
+        "text": "Kay. Yeah, appreciate it as always. Thank you. And so I was a great conversation. Thank you, Ian. Thank you, Kay. And I have maybe just something for the audience. We sort of the way we live our lives and what's presented to us. Certainly, it's difficult anyway to progress in this, you know, path to enlightenment, right? But one thing is, is also something that we've been trained to in a way."
+    },
+    {
+        "start": "01:06:30.720",
+        "end": "01:06:54.800",
+        "text": "And that's, we're looking for the big things for the huge impacts for the enlightenment to tomorrow at three p.m., right? But we can tune our senses, reach in our senses to the little things. What are the little things? And life is so much about the little things. And if we start paying more attention to the little things,"
+    },
+    {
+        "start": "01:06:54.800",
+        "end": "01:07:20.080",
+        "text": "we'll suddenly notice also more miracles. And it really isn't always about this big thing. Let's, let's, yeah, try to find the little things, the little miracles in our lives. And we'll notice a lot more suddenly about all progressing. Wow, really well said. My last my last parting words, guys, is one of the things that I brought that I put that on the slide was"
+    },
+    {
+        "start": "01:07:20.080",
+        "end": "01:07:50.480",
+        "text": "was because of the concept of decalcifying my pineal gland or opening up my third eye by sticking my head in a cue block, right? And I'm experimenting with that. You know, I'm seeing how it affects my dreams and so forth. So I'm growing my infinity blocks to a very high number, just for that purpose to see what happens. So we'll let you know what goes on. But thank you. I'm very curious to see how that works. Yeah. Yeah, yeah, because think about it, right? I mean,"
+    },
+    {
+        "start": "01:07:50.480",
+        "end": "01:08:07.360",
+        "text": "that's one way to enlightenment is your pineal gland. So there you go. So hey, thanks, guys. I'm going to let you, I'm going to go ahead and turn off the recording now and mahalo everybody for watching and spending some time with us. And hey, thanks a lot and have a great day. All right, have a great weekend, guys. Okay."
+    }
+]

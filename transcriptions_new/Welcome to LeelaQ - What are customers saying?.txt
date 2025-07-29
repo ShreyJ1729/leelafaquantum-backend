@@ -1,0 +1,197 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.480",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and this video is a further installment in the video series. Welcome to Lele Q. Otherwise known as Lele Quantum Tech and Quantum Upgrade. This is a video FAQ series to answer numerous questions that pop up regularly in the Telegram chat groups. This specific video is to answer the question, you know, what are people experiencing? I mean, that question comes in many different forms and different flavors,"
+    },
+    {
+        "start": "00:00:28.480",
+        "end": "00:00:54.720",
+        "text": "but at the end of the day, people are just jumping in, they're new, they're welcome by the way, and they just want to know, like, what do people have to say? The problem, obviously, to answer that question is that the both chat groups go back years and the way the telegram works, it's just things just disappear, you know, as you scroll up. So one of the interesting things I thought I would do, trying to convey, you know, what, you know, kind of just, you know, how do I summarize and generalize what the customer, you know, what customers are saying is that here's the thing."
+    },
+    {
+        "start": "00:00:55.360",
+        "end": "00:01:22.720",
+        "text": "Every so often Lele Quantum Tech will have a contest and they'll have a contest. Well, they'll just say, hey, you know, guys, you know, just give us, just share with us what you're experiencing. Just tell us what's happening and how you, you know, how these things have helped you or whatever, just what's your testimonial and they'll do a contest and then they'll collect all these testimonials and then they'll start, you know, then what happens technically is that they, the moderators will collect all the testimonies, put them in a Google Doc,"
+    },
+    {
+        "start": "00:01:23.760",
+        "end": "00:01:52.000",
+        "text": "and then there's a total number like X, like, you know, what are normally it's like 80 or 100 or 150, right? And then the basically, then the winners are selected at random, you know, based on just the numerical sequence of the list. And then I'm the one that actually selects numbers. I don't know who's who. So I just, I just blindly selects numbers. Usually it's like, you know, I get a text and Phillips tells me, hey, pick 20 numbers out of between one and"
+    },
+    {
+        "start": "00:01:52.000",
+        "end": "00:02:21.040",
+        "text": "130 or whatever, right? So pick out the 20 numbers out of my head, tell them what the numbers are, and those are the winners, right? And then after all that's done, then Phillips sends me the Google Doc did so I can actually see who the winners are. But more importantly, I can see all the testimonies, right? So now I've been kind of just sitting on this information, not really sharing how to, how do I summarize that for you? And the idea came along where I'm been tinkering, you know, it's what I do. And I've been tinkering a lot with artificial intelligence or large language"
+    },
+    {
+        "start": "00:02:21.040",
+        "end": "00:02:44.640",
+        "text": "model software. And in terms of like how to summarize how to, you know, quantify large amounts of data, and so forth in my other life. And and so one of the things that I had a thought of the other night was, why don't I take all of these testimonies from the last contest that was back in June, and put it in the notebook, which is the notebook LM is the AI I'm using. It's by Google. And see"
+    },
+    {
+        "start": "00:02:44.640",
+        "end": "00:03:10.640",
+        "text": "what it can produce. And one of the outputs of this AI is it does a two person podcast. So it's a really great tool for researching for education for learning and all sorts of things. But essentially, you can put in anything you want into this thing, you could put in websites and PDFs and YouTube videos and whatever. And this using the power of Google data analytics, it'll go through all of"
+    },
+    {
+        "start": "00:03:10.640",
+        "end": "00:03:34.960",
+        "text": "that data, and it'll produce all sorts of things, it'll produce an FAQ, it'll put out a study guide, it'll put out all these different outputs from the analyze data. One of those outputs again is a two person podcast, where the AI to AI characters are going to discuss all of the information that they have been given right by what I've given the AI. And they're going to discuss that information."
+    },
+    {
+        "start": "00:03:34.960",
+        "end": "00:04:03.520",
+        "text": "So I tried it, came out pretty good. I thought it came out really great. So I want to share with you a podcast by Google notebook LM, the AI on the most recent contest testimonies, as an answer for anyone who wants to know what are customers of Leila Quantum Tech saying about their experiences. So without further ado, here is the summation of the 80 plus something"
+    },
+    {
+        "start": "00:04:03.520",
+        "end": "00:04:29.040",
+        "text": "testimonies that were collected in June 2024 for the contest. And this is the AI summary in discussion format of those testimonies. So without further ado, here's the podcast. Welcome back. Today, we're going to be taking a deep dive into user experiences with Leila Quantum products. Okay, our source material is a collection of testimonials from a recent"
+    },
+    {
+        "start": "00:04:29.040",
+        "end": "00:04:57.200",
+        "text": "giveaway entry. Interesting. And we're going to be focusing on categorizing and summarizing the experiences and the benefits that people reported, primarily for those who are unfamiliar with Leila Q products. Right. So to start, it looks like the quantum blocks are the most popular product. They are. There's the travel block, the infinity block and the gram block. So what are some of the common themes that you've seen in the testimonials about the blocks?"
+    },
+    {
+        "start": "00:04:58.080",
+        "end": "00:05:22.880",
+        "text": "Well, you know, across the board, people report positive experiences with them. A lot of people talk about pain relief. They're saying that they've had, you know, headaches, injuries, even chronic pain has been improved. Interesting. And people also mention benefits related to emotional and mental well-being. Like, you know, they've got reduced anxiety, they're sleeping better, and they just feel more at peace. That's really interesting."
+    },
+    {
+        "start": "00:05:22.880",
+        "end": "00:05:51.840",
+        "text": "Yeah. It seems like, from reading the testimonials, that a lot of people report feeling more energy and vitality. That's right. After using the blocks. That's right. Some people even talk about accelerated healing and recovery from conditions. Yeah. There are some really interesting stories, you know, for example, one person talked about their husband, you know, their husband was really skeptical. Okay. But he gradually, he gradually started to see the blocks energy working."
+    },
+    {
+        "start": "00:05:51.840",
+        "end": "00:06:19.200",
+        "text": "So he came around. He did, eventually. Yeah. Wow. That's really cool. Yeah. And another person said that their daughter would just intuitively place her crystal in the block. Oh, wow. Like she instinctively knew. Interesting. And there's a few testimonials where people talk about charging their food and water with the blocks. Yes. And noticing a difference in taste and effect. Yeah. And there's even one where a woman, she used the block to"
+    },
+    {
+        "start": "00:06:19.200",
+        "end": "00:06:48.400",
+        "text": "support her friend during a court case. What? And the case was dismissed. Wow. That's wild. It is wild. Okay. So moving on to product category two, capsules. Okay. So Leela Q offers a range of capsules, the heel capsule, the Olympic capsule, and the women's booster to name a few. Right. What can you tell us about the capsules? Well, people are reporting, you know, a variety of benefits from the capsules, just like they did with the blocks. People say they have more energy, less fatigue,"
+    },
+    {
+        "start": "00:06:48.400",
+        "end": "00:07:15.920",
+        "text": "pain relief, and they're recovering faster from illnesses. Okay. People also mentioned, you know, that they feel more mentally clear, they can focus better, they feel emotionally balanced. And some people even say that they are protected from EMF. Really? Yeah. Well, one of the testimonials that really stood out to me was a woman who said that she felt a stronger connection to her partner after she exchanged a capsule ball with"
+    },
+    {
+        "start": "00:07:15.920",
+        "end": "00:07:42.960",
+        "text": "him. Oh, wow. Yeah. That's interesting. And there's also a man who had a bone spur and nerve damage, and he said that his pain was reduced after using the heel capsule. And then there are a couple of athletes, a tennis player, said that he noticed his performance was improved when he was using a specific capsule and frequency setting. Interesting. And then a pickleball player said that it was like she was seeing the"
+    },
+    {
+        "start": "00:07:42.960",
+        "end": "00:08:12.000",
+        "text": "bowl in slow motion when she was wearing a particular capsule and frequency combination. It's fascinating. It really is. How these capsules seem to, you know, enhance performance and deepen connections. Yeah. That's, that's really neat. Yeah. Okay. So now let's move on to product category three, frequency cards and quantum upgrade. Okay. So what are people saying about those? So the frequency cards, they're designed to give"
+    },
+    {
+        "start": "00:08:12.000",
+        "end": "00:08:38.400",
+        "text": "you targeted support for specific things like focus, abundance, protection, and emotional well-being. Interesting. And people are, you know, they're experiencing these benefits when they use the cards. Yeah. And one person even talked about manifesting the exact amount of money that they needed for a travel block after using the abundance card. Yes. That's a, that's a good one. Yeah. And then others mentioned using specific frequencies for, you know, improving sleep"
+    },
+    {
+        "start": "00:08:38.400",
+        "end": "00:09:08.000",
+        "text": "and relieving anxiety. And there's even one parent who said that their daughter, who has ADHD, showed improvement in focus and willingness to put an effort and goal setting after using the focus frequency card. That's incredible. Yeah, it is. And then quantum upgrade or QU seems to be a more comprehensive approach. Right. It's, it's creating a field of quantum energy in a space. It is. So what are people saying about QU? So people say they feel more spiritually"
+    },
+    {
+        "start": "00:09:08.000",
+        "end": "00:09:34.000",
+        "text": "connected. They feel like the EMFs in their homes are being harmonized. Okay. And they just feel, they just feel better overall. Okay. And there's, there's one guy who said that he felt this like negative energy lift from his house after he activated the QU field. And he said that his mental clarity was enhanced. Interesting. Yeah. Okay. And lastly, product category four, other Leela Q products. Right. So we've got things like quantum underwear, bamboo water bottles,"
+    },
+    {
+        "start": "00:09:34.000",
+        "end": "00:10:03.760",
+        "text": "and dog collars. Yeah. Not a ton of these in the testimonials. But what are people saying about? Well, there aren't as many, you know, testimonials about these. But, but there are some positive experiences. One man said that he felt more grounded when he was wearing the quantum underwear. Oh, yeah. One woman said that her plans were growing exceptionally well after she watered them with water that had been charged in a Leela Q water bottle. Wow. And one person even said that"
+    },
+    {
+        "start": "00:10:03.760",
+        "end": "00:10:30.640",
+        "text": "their dog who had behavioral issues became calmer after wearing a Leela Q collar. Oh, wow. Yeah. So it's, it's limited, but there's, there's definitely some evidence that these products can have positive effects beyond the main product categories. That's really cool. Yeah. Wow. We've covered a lot of ground already. So let's, let's dive a little deeper into some of these experiences in part two. Sounds good. You know, as we, as we look more closely at these"
+    },
+    {
+        "start": "00:10:30.640",
+        "end": "00:10:56.480",
+        "text": "testimonials, you know, there are some themes that really stand out. And, and one of the biggest ones is this sense of personal transformation and growth that people are talking about. Okay. You know, it's not just about feeling better physically. Right. We're getting specific results. Right. But, but there's this shift in overall well-being and, and self-awareness that people describe. That's interesting. Yeah. They, they talk about feeling more connected to themselves,"
+    },
+    {
+        "start": "00:10:56.480",
+        "end": "00:11:20.800",
+        "text": "okay, more in tune with their intuition, and even a sense of, of purpose, you know, and, and it's almost like, um, the products are acting like, like catalysts. Okay. For, for deeper, self-discovery, yeah, personal evolution, you know. Yeah. And there was one, um, one testimonial that really stood out to me, where, where the person said that they felt like they were, like, peeling back"
+    },
+    {
+        "start": "00:11:20.800",
+        "end": "00:11:47.600",
+        "text": "layers of themselves. Oh, wow. You know? Yeah. And, and uncovering this hidden potential. Mm-hmm. And, and they were addressing these emotional wounds that they had had for a long time. That's powerful. It is really powerful. Yeah. And then, and then there's another person who said that, um, it was like they were becoming the person they were meant to be all along, you know. Yeah. Like they were, they were finally aligning with their true self. Exactly. Yeah. That's amazing. And then"
+    },
+    {
+        "start": "00:11:47.600",
+        "end": "00:12:13.760",
+        "text": "another big theme that I noticed was, um, the role of intention. Yes. Inshooping experiences with the products. Absolutely. A lot of people emphasized, um, you know, setting clear intentions. Right. Whether it was for healing or abundance, or enhanced performance, or deeper connections. Yeah. It seems like intention really is key here. It really does. Like it's, it's guiding the energy of the products. Okay."
+    },
+    {
+        "start": "00:12:13.760",
+        "end": "00:12:40.560",
+        "text": "Towards specific goals. Yeah. And the more intentional you are, the more, the more profound the results seem to be. That makes sense. Yeah. Um, and there was one, uh, one example where this person put a picture of a project that was stalled. Okay. And their block with the intention of peacefully resolving the situation. Mm. And, and they said that they started getting responses from people who had been ignoring them. Wow. So it, it really worked."
+    },
+    {
+        "start": "00:12:40.560",
+        "end": "00:13:10.080",
+        "text": "Yeah. It seemed to. Yeah. That's amazing. And then, um, there was another person who manifested the exact amount of money. They needed for a travel block. Wow. After using the abundance card with a very clear intention. That's incredible. It's really incredible. Yeah. Um, and then beyond, beyond individual experiences, there are several testimonials that talk about the impact of the products on relationships. Interesting. One other people. For example, one person said that they're"
+    },
+    {
+        "start": "00:13:10.080",
+        "end": "00:13:36.480",
+        "text": "home where they had an infinity block. Yeah. Became this space where, where even people who were normally negative became more positive and joyful. So it was like the, the energy of the block was, was affecting everyone in the house. Exactly. Yeah. That's fascinating. And then, and then we have the testimonial about the woman who felt a stronger connection to her partner. Right. After exchanging a capsule ball with him. Yeah. That one was really interesting. It seems like these"
+    },
+    {
+        "start": "00:13:36.480",
+        "end": "00:14:05.680",
+        "text": "products can really deepen connections. Yeah. And I also noticed that there were a few testimonials about animals benefiting from the products. Oh, really? Yeah. That's cool. There weren't a ton of them. Right. But, but it seems like the, the positive effects might extend to animals as well. That makes sense. Yeah. If it's, if it's working on an energetic level, right? Yeah. It could, it could affect, you know, all living things. Yeah. That's really interesting. Yeah."
+    },
+    {
+        "start": "00:14:05.680",
+        "end": "00:14:34.800",
+        "text": "It seems like we're only just beginning to understand the full potential of this technology. I think you're right. Yeah. These testimonials are really fascinating. They are. They're really insightful. As we wrap up our deep dive into these Leela quantum product testimonials, it's, it's really clear that people are having all sorts of experiences. Definitely. You know, from, from physical benefits, right, to, to these more subtle shifts and, and how they feel and, and how they see the world. Absolutely. And, and it's important"
+    },
+    {
+        "start": "00:14:34.800",
+        "end": "00:15:02.640",
+        "text": "to remember that this is, you know, this is still a new field. Right. And, and we need more research to really understand how it all works. Yeah. But it is fascinating to see these, these common themes. Yeah. You know, across so many different people. You know, it, it seems like these products could really help people grow. Yeah. I think so. And, and become more, more aware of themselves. Absolutely. And, and you know, that whole thing about intention. Oh, yeah. That's, that's really"
+    },
+    {
+        "start": "00:15:02.640",
+        "end": "00:15:30.720",
+        "text": "interesting to me. It is. It really seems like, like our thoughts and beliefs and, and our intentions, you know, they, they have a much bigger impact on our reality than, than we maybe realized before. Yeah, for sure. And, and the potential applications of this technology, I mean, it's huge. It's huge. It's, it could be, you know, yeah, way beyond just, you know, feeling better. It could be, you know, affecting our relationships. Yeah. Our environment, even, you know, how we understand consciousness"
+    },
+    {
+        "start": "00:15:30.720",
+        "end": "00:16:00.480",
+        "text": "itself. Yeah. That's, that's amazing. It is pretty mind-blowing. It really is. But, you know, we, we do need to be careful. Of course. And, and remember that, you know, everyone's experience is different. Right. And, and these products, they aren't meant to replace, you know, seeing a doctor or, or getting professional help. Exactly. And, and like with any new technology, we need to be smart. Absolutely. And, and responsible. We need to keep learning. Yes. And, and talking about it."
+    },
+    {
+        "start": "00:16:00.480",
+        "end": "00:16:28.080",
+        "text": "Yeah. So we can, we can figure out how to, how to use it in the best way possible. Exactly. Well, thanks for joining us on this deep dive into the world of Leela quantum products. Yeah. Thanks for having me. We hope you found it informative. I hope so. And maybe even a little inspiring. You too. And, and who knows? Maybe you'll even try out some of these products yourself. That would be great. Yeah. All right. That's it for this episode. We'll see you next time. See you then. So there you go. Thank you so much for listening. I hope you found"
+    },
+    {
+        "start": "00:16:28.080",
+        "end": "00:16:58.000",
+        "text": "that informational and interesting. I certainly did. I thought it was a great way to summarize the information to kind of share with people. You know, the just like, Hey, here's all this data, but, you know, not dumping pages of information on you or forcing you to scroll through the thing to kind of figure out, you know, what, you know, what people are experiencing. But there you go in a nice little condensed little fashion 15 minute, you know, podcast. I thought it was a really great way to approach the data. I hope you did too. It's interesting. Not only is it fascinating"
+    },
+    {
+        "start": "00:16:58.000",
+        "end": "00:17:24.080",
+        "text": "that so many people are experiencing such great benefits from their blocks and capsules and so forth. But it's also really amazing, honestly, where AI is going now. Because what you just heard was not humid. They were just two AI characters who read a bunch of data and then started talking about it. And that's fascinating. But you know, even more fascinating, though, is the incredible benefits of Leila quantum tech. So I just want to say, thank you for being a customer. Thank you"
+    },
+    {
+        "start": "00:17:24.080",
+        "end": "00:17:44.800",
+        "text": "for listening to this video and be, you know, supporting my channel. Of course, if you want to keep on top of the Leila quantum tech work that I do on YouTube and or my other stuff that I do, please like and subscribe. It really helps me by supporting my channel. Thank you again. Villendock to our German friends. And I hope you have a great day. Aloha."
+    }
+]

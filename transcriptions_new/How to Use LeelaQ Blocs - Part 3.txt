@@ -1,0 +1,752 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.000",
+        "text": " Hello everyone and welcome to another video by me Kay Elmer and this is a tinker's academy tutorial for Layla quantum tech This is part three in the video description will be part one and part two and the tutorial is on how to use Layla cube blocks I've got Philip some more of on Holtzendorf with me And we're gonna go through and answer the last set of questions on all of the things that came up in the telegram chat room as to"
+    },
+    {
+        "start": "00:00:25.080",
+        "end": "00:00:52.520",
+        "text": "How do I best use my block the either the quantum block or the infinity blocks? I want to thank everybody who submitted questions and especially want to thank you Philip. How are you this morning? Very good Yeah, that's part three and I I never when I first came up with this idea ever envisioned that we would do part like three parts I it is there was it's unbelievable. How much information when you start talking about the benefits and the opportunities"
+    },
+    {
+        "start": "00:00:52.960",
+        "end": "00:01:21.160",
+        "text": "Of how to use these blocks that come up. It's just amazing to me So yeah, we're on part three and before we jump into the content I do want to do a disclaimer here for make sure everyone's on the same page Neither lay the quantum tech nor the tinker's academy and recommend or endorse any specific tests physicians procedures Opinions or other information that may be mentioned in this video Reliance on any information appearing and discussing this video solely at everyone's own risk statements may have not been evaluated by the FSA"
+    },
+    {
+        "start": "00:01:21.160",
+        "end": "00:01:49.400",
+        "text": "Or FDA or any government derivative thereof Lele quantum tech products and products that Lele quantum tech may represent are not intended to diagnose treat cure or prevent any disease All right, thank you. So, you know, let's jump right in now the last two parts of this tutorial We're on how to charge stuff. So it's like people places pets Objects and then we got into food and water and all of that and so"
+    },
+    {
+        "start": "00:01:50.120",
+        "end": "00:02:15.720",
+        "text": "This part three we're gonna talk about the action on that's just purely charging stuff We're just quantum energy using the block to impart energy into stuff Okay, but part three now is where we're gonna get into How to use frequencies along with using the blocks and one of the biggest questions that came up And so I put this up here first Phillip is that there's a lot of questions about you know"
+    },
+    {
+        "start": "00:02:15.720",
+        "end": "00:02:41.840",
+        "text": "How to mitigate the effect of emf with blocks, you know, there's so many people. I am one of them That is very concerned about this 5g rollout and all of the stuff that's going on So, you know, it comes up almost daily where people are asking about emf stuff So I wanted to put this first and let's talk about that and I want to preface that though With I just posted this morning. I reposted Phillip the study by Dr. Beverly Rivec"
+    },
+    {
+        "start": "00:02:41.960",
+        "end": "00:03:10.880",
+        "text": "So I want everyone to know I'm gonna put a link in the description of this video below if you are Interested and want to know how these blocks Can help you mitigate the effects of emf now help you it doesn't shield like, you know, like clothing with shield But it actually affects you at a physical level and it helps your body a deal with the negative effects And actually I don't want to use the word reverses. I want to use the word mitigate"
+    },
+    {
+        "start": "00:03:11.200",
+        "end": "00:03:41.680",
+        "text": "But if you if you read that study, there's a link below That just absolutely proves. I mean literally proves it scientifically by a PhD from UC Berkeley That the Leila quantum block has a very Beneficial effect on people when exposed to emf So that's gonna be in the bottom and I just reposted it this morning and Phillip Did you want did you have any comments about that real quick and then we'll jump into the questions? Yes, there's actually something that I haven't shared anywhere yet"
+    },
+    {
+        "start": "00:03:41.680",
+        "end": "00:04:09.160",
+        "text": "I think and and that's something I learned myself just about three weeks ago from Dr. Beverly Rubeck and one of the things that always I thought was very interesting is that here in the US darkfield microscopy or you can call it life blood analysis Isn't that widespread so not too many people know about it Whereas in Europe and especially in Germany, it's it's very widely used by doctors because it's such an amazing"
+    },
+    {
+        "start": "00:04:09.160",
+        "end": "00:04:37.200",
+        "text": "Tool to analyze the overall health and why is that right because you literally look at the blood and you can see the blood cells You know, that's really what what what's the essence of our physical existence is if you will and you can see you know how you're doing you can Analyze certain health conditions actually because I found a study that was actually posted by the CDC like a long long time ago I never thought I would"
+    },
+    {
+        "start": "00:04:37.200",
+        "end": "00:05:05.040",
+        "text": "Reference that but they were able to identify syphilis from that But so that that is possible that you can have a certain diagnosis with that but it More so shows you the overall health and how you're doing and what you can do to improve it And it can immediately show if if you take certain actions what impact does it have? The reason why it's not so widespread in the US anymore is that about 20 years ago"
+    },
+    {
+        "start": "00:05:05.040",
+        "end": "00:05:31.760",
+        "text": "They started to ask for one hundred thousand dollar license per year For any practitioner in the US that wanted to continue to use a darkfield microscopy in the practice Yeah, it's quite ridiculous. So I think that's the answer and yeah You can still use it for research purposes and then not be having to pay the"
+    },
+    {
+        "start": "00:05:31.760",
+        "end": "00:05:56.400",
+        "text": "This license fee. So I thought I wanted to just mention that because it's and people should maybe read a little bit more about that because it's it's such an amazing tool and Yeah, so we have two studies now and I think on that link you probably find both of those studies and the latest study also is already on a preprint site"
+    },
+    {
+        "start": "00:05:56.400",
+        "end": "00:06:27.160",
+        "text": "Online published and it will also be published on a peer reviewed and journal that just takes some time Okay, so just to clarify I've got the one that you published on the telegram chat group called Well, this one right here on the screen. So there's a second one that we could read because I read this one No, this is actually the second one. Yeah, so that yeah, that was the one that that actually was the follow-up of her first study and with that second study"
+    },
+    {
+        "start": "00:06:27.160",
+        "end": "00:06:55.520",
+        "text": "she wanted to basically see How it is with statistical significance and everything of the first study was basically confirmed. Yes, okay So there's okay. Okay. No more very good. Thank you Let's get together or actually if you could send me the first one that way I'll put it in the video description and people will have access to the links to both of them And just in a nutshell everybody if you're not familiar I mean I read a lot of science studies because of the stuff I do"
+    },
+    {
+        "start": "00:06:55.520",
+        "end": "00:07:21.080",
+        "text": "But if you're not familiar with it, it's quite simple. They basically take a person Off the street and then they expose them to EMF measure their blood and go hey This is how they're actually they they check them before they you know are exposed They check them after they're exposed and then they check them again With with the being exposed to a quantum block while they're being exposed to EMF, right? So it's like yes, you know, how are you off the street?"
+    },
+    {
+        "start": "00:07:21.080",
+        "end": "00:07:46.640",
+        "text": "How are you when you get exposed to EMF and how are you when you're exposed to EMF with a quantum block? And in these studies they actually use because it's kind of like a double-blind placebo They actually used a quantum block that wasn't charged right Philip. They had like they got correct them So they created a quantum block that was not charged at all. It's just metal And and so they use that as a placebo just to see if that was, you know, so they did it they did it extremely"
+    },
+    {
+        "start": "00:07:46.640",
+        "end": "00:08:13.960",
+        "text": "Scientific and and that's really what it is and and the whole idea behind dark field microscopy is You know, you could take any person like someone's got, you know Cancer whatever problem they've got and look at their blood and at just by looking at their blood you get like a benchmark Well, what is what the blood looks like when someone's got this problem, right? And so then they can use that as a benchmark to get better. But all right, so studies really important because it validates"
+    },
+    {
+        "start": "00:08:13.960",
+        "end": "00:08:37.600",
+        "text": "Quantum energy. I mean, you know bottom line is it has a physical effect on your body And even though it's you look at it, and it's just two metal plates and four rods Which you would literally blows my mind every time Philip, but it's there's something there and it actually does something And then it's just amazing. So let's get into the questions now number one"
+    },
+    {
+        "start": "00:08:37.600",
+        "end": "00:09:04.120",
+        "text": "Question was was do the blocks neutralize harmful frequencies in the field like of the of the block or just between the plates of the block No, they neutralize example frequencies in the whole field that will happen inside the the plates, but also outside and I think we mentioned one of the first parts that the radius of the quantum block is about"
+    },
+    {
+        "start": "00:09:04.120",
+        "end": "00:09:33.640",
+        "text": "145 feet and of the basic infinite block One kilometer, you know that can go up, you know as you upgrade the infinity blocks But let's stick with that real quick in terms of emf emf is quite heavy and and fairly physical frequency There have no better way of explaining that and that is fully neutralized and harmonized in"
+    },
+    {
+        "start": "00:09:33.640",
+        "end": "00:10:02.560",
+        "text": "about You know 45 to 50 percent of that radius that I mentioned meaning let's say 70 feet 65 70 feet radios for the quantum block for neutralizing emf and about half of the kilometer 500 meters 400 meters For the infinity block. Okay, so that answers question number five. So you're saying like within like 40 So 40 percent of the field, right?"
+    },
+    {
+        "start": "00:10:02.560",
+        "end": "00:10:27.960",
+        "text": "Yeah, that's yeah, that's the most that's conservative. So I think that's fair to say that yes, okay all right, okay, so what that means is is if the Quantum block and the infinity block produces a bubble of energy right essentially quantum Sun is the best way to describe it So there's this big ball of energy and the closer you get towards the center. They're more concentrated"
+    },
+    {
+        "start": "00:10:27.960",
+        "end": "00:10:51.520",
+        "text": "It is so what you're saying Philip just to make sure we're really clear is that of that field and there's two different size fields because two different Size, you know, there's infinity and and their quantum block, right? But within that field with you're within 40 percent of that field closest to the block is where the emf mitigation is happening Is that correct? That is correct and that is true for at least"
+    },
+    {
+        "start": "00:10:51.520",
+        "end": "00:11:20.800",
+        "text": "Relatively normal emf environment, you know, it's like I must say we haven't tested it. What if you have? 4 or 5G cell towers right around your house, you know, you know, that that's something, you know We would have to look at that, you know, I don't know if it's then just 20 percent Sure to tell. Oh, yeah, so this is generalized. Okay, okay And then it just we just real want to caveat as you upgrade your infinity blocks the field does not get bigger, right?"
+    },
+    {
+        "start": "00:11:22.880",
+        "end": "00:11:52.440",
+        "text": "Actually, it does so the this but it's it's it's not linear so the second generation infinity block Has the denser fields? But the the total radius is still one kilometer, you know, the third generation already When we measured it had a radius of 1.3 kilometers so and then you know, it kind of continues like that word gets denser and then"
+    },
+    {
+        "start": "00:11:53.200",
+        "end": "00:12:17.720",
+        "text": "You know, so it's it's it's hard to tell where we're at six We haven't even measured the infinity blocks six, but it can be estimated that it goes way further than one point Three kilometers at that point and also has a way denser field Awesome, you know I'm beginning to really enjoy our bi-weekly chats because I'm learning stuff all the time because you guys are constantly learning yourself"
+    },
+    {
+        "start": "00:12:17.720",
+        "end": "00:12:47.480",
+        "text": "So this is amazing. Okay. So all right. So that was something that we all used to say that the size didn't, you know The field didn't get bigger, but apparently now we're learning that they are so that's pretty amazing So for you gardeners farmers out there treating fields and for us keep that in mind the higher the infinity block Go goes and upgrades the big the fields do get bigger So that's really amazing which then extends out the the size of the field within the field right that mitigates EMF So awesome. Okay, so"
+    },
+    {
+        "start": "00:12:47.480",
+        "end": "00:13:12.280",
+        "text": "second question This comes up all the time is now is charging the device that you're worried about let's say EMF router or cell phone Whatever, right? Do you need to is it better to put it inside the block and charge it or is it okay? That it's just in the field like I have an infinity block into my house And because it's in my house and the Wi-Fi routers like if you know at the other end of the room"
+    },
+    {
+        "start": "00:13:12.280",
+        "end": "00:13:39.400",
+        "text": "Is that good enough or should I take my Wi-Fi router and charge it inside the block, which is better? Yeah, it is even better if you also charge the router, but it's not necessary All right, that makes sense. Yeah. Yeah, I was just that's kind of I was thinking too because I haven't actually haven't charged My router because I have the infinity block right in the middle of the room. I figured you know that thing's so powerful that I would have to worry about it"
+    },
+    {
+        "start": "00:13:39.400",
+        "end": "00:14:09.240",
+        "text": "So it's not necessary, but if you want better, you know, if you I mean it's the bottom line. It's it's it doesn't hurt To do it that way, but not necessary, right? Exactly. We have not charged any of our routers or Wi-Fi points. Yeah, frankly, I do charge my phone on a regular basis though I do that and my laptops because I'm like very close to them and yeah I like to do that and I travel with them and I'm outside the field too"
+    },
+    {
+        "start": "00:14:09.560",
+        "end": "00:14:36.760",
+        "text": "Okay, yeah, let's talk about that. Um, now you've mentioned okay, so it's a cell phone and it's like any other object Um, like let's say, you know the capsules the cards and all that you know the the rule of thumb is like people ask how long does the charge last? Or you know, can I damage it in one way or another and the charge goes away and the answer has always been well It lasts pretty much your whole lifetime or longer. We don't know yet, right? We haven't lived that long, but it lasts For a long time"
+    },
+    {
+        "start": "00:14:36.760",
+        "end": "00:15:04.040",
+        "text": "Generation at least minimum, but you're saying but but the exception though is electronics, right? You're always saying You should recharge them every now and then as you just mentioned so what is the rule of thumb for recharging? Electronics and why don't they hold on to the charge like a capsule or a bottle? Yeah, good question. So it's it seems to To be the case that the constant"
+    },
+    {
+        "start": "00:15:05.320",
+        "end": "00:15:33.240",
+        "text": "Work of this electromagnetic field exchange and being connected to multiple networks and having all those download pulses that that Kind of starts to suck Um quantum energy out of this material here Which is pretty immediately connected to that right because once you charge your phone and then you have both of these forces kind of acting constantly and"
+    },
+    {
+        "start": "00:15:33.240",
+        "end": "00:16:03.480",
+        "text": "That seems to be the reason for it and we say about every three to four months I would encourage everybody to to feel right, you know Use your intuition use your sense like just look at your phone after a month or two And if you have the feeling well, you know, it's gotten less so I have a feeling now to do it Go ahead and do it. This is not a concept like you have to do it every three months That's just a guideline what we've noticed and that's about roughly the time that I'm doing it"
+    },
+    {
+        "start": "00:16:03.480",
+        "end": "00:16:32.280",
+        "text": "Okay, no, that's that's good to know Uh, and you know, I just want to throw this out there. What's just popped in my head while you're saying that but There may be a connection between quantum energy and scalar Energy right because if everything else like metal and all these things that don't have scalar energy Can hold on to a quantum energy charge permanently? And then the things that don't hold on to it permanently are people Living things electronics. They all have scalar fields. That's interesting"
+    },
+    {
+        "start": "00:16:32.280",
+        "end": "00:16:59.880",
+        "text": "All right, you tinkers out there. Let's chew on that and come up with some theories But that is the difference between these two objects. Okay, so recharge your cell phones your electronics Often or not often but as is your as your intuition tells you And so but you don't have to like this the whole Wi-Fi example. All right. No, that's great. Um, yeah, really learning a lot today Okay, now, what is the effect number three of using emf frequency with a block? You know how"
+    },
+    {
+        "start": "00:16:59.880",
+        "end": "00:17:28.600",
+        "text": "You have the emf frequency set that you sell on a card Right, you know, I got mine in that one webinar. Um, Okay, so so you know, let me just clarify because there's been questions about Uh, is like the men's booster capsule does that help with emf right as opposed to the heel and and as opposed to the card As opposed to a just a block with energy. So could you discuss? Um, first of all, I guess, you know is what's the effect of using that frequency?"
+    },
+    {
+        "start": "00:17:28.600",
+        "end": "00:17:54.920",
+        "text": "Do we even need to use that emf frequency because the quantum blocks just all by themselves mitigate emf? I mean, so how does that kind of like work together? Yeah, it's good question. So we've always said from the beginning that the emf harmonization and protection card is really From our perspective just for very sensitive people. Oh, okay Um For the majority of the people I don't think it's needed like I never use it frankly"
+    },
+    {
+        "start": "00:17:54.920",
+        "end": "00:18:23.880",
+        "text": "Um, it's an amazing frequency for sure because it it has a very positive effect on the body while it's really completely Um, sort of reversing the flow of the emf and and neutralizing it that way if you wear that card so it is very very powerful However, as you just mentioned all of the products have quite a significant level of emf protection and"
+    },
+    {
+        "start": "00:18:23.880",
+        "end": "00:18:53.160",
+        "text": "From our perspective are enough for the majority of the people But we do know that there are some people out there that that really struggled because they're so sensitive or there's just something Yeah, and and for those people that's what we recommend Um, you know to use it. Okay. No, that's very helpful in that. Okay. Um, that explains it I have a friend of mine who's extremely sensitive. He's a farmer. He lives out in the middle of nowhere and in Arizona"
+    },
+    {
+        "start": "00:18:53.160",
+        "end": "00:19:21.240",
+        "text": "But whenever he has to drive into phoenix he starts getting headaches and extreme fatigue I mean, it's like a completely different experience to be Away from the city and then then into the city for this poor guy and he has to go in frequently And so I made him a brass capsule and I put the freak emf frequency in it So he has the benefit of the quantum energy which mitigates emf, right? And then on top of that because he's extra sensitive Um, I put you know the frequency and you know what? Honestly, he wears it"
+    },
+    {
+        "start": "00:19:21.240",
+        "end": "00:19:51.560",
+        "text": "And he feels he doesn't have any problems now when he drives into phoenix So, so that's I saw that that explains why that works so well. Okay. No, that's good Okay, so that's the difference folks and why you went in and how and if you need to use the frequency or add the frequency On top of the energy for emf protection. All right number four Oh, I guess we answered that one was all okay. So all lila q Products have quantum energy so they automatically help mitigate emf, right?"
+    },
+    {
+        "start": "00:19:51.560",
+        "end": "00:20:21.800",
+        "text": "Yes, correct and then if you want to if you want to go one step higher you get the emf frequency All right So I think we kind of answered the majority of the you know the main questions about emf and obviously I just want to point out if you've got more questions about emf emf mitigation and how to use these tools for that Telegram chat group, okay link in the video description below. Okay, so now let's talk about Using frequencies with blocks and and as I pointed out in part one Um, you know, I just really want to just stress to people"
+    },
+    {
+        "start": "00:20:21.800",
+        "end": "00:20:50.840",
+        "text": "Uh, how you know where you can get more information. So this tutorial series is obviously Uh, one of the key things that will help everyone educate themselves and learn about how to use the blocks But also too, I want to point out with this little symbol here that there are videos on the lila quantum Uh power All right, there's the okay here. It's called the quantum power channel On on youtube so you know, I mean that's the whole thing. So there's a lot of videos on youtube"
+    },
+    {
+        "start": "00:20:50.840",
+        "end": "00:21:20.520",
+        "text": "Uh, where you know phillips been really working hard creating us whole a bunch of other tutorials Uh to basically help people learn more about how to use the tools and then there's a lot of product information on lila q Uh website itself. So there's lots of different sources. There's a you know, the youtube channel My youtube channel, uh, you know, and also the website itself So I just want to point out if you're trying to figure out how to charge objects and copy frequencies Uh, there is a video on how to use the quantum block for that"
+    },
+    {
+        "start": "00:21:20.520",
+        "end": "00:21:49.400",
+        "text": "on the on the on the lila q's YouTube channel and then there's also a telegram video that phillip that you made um And how do how do you copy a frequency in a keyblock or infinity block? And that was just on telegram. So what I did was I I made a copy and I put it on my youtube channel as a Um, I guess is a unlisted but the video The link to the video will be in the description below if you want to watch that telegram I know I just saw it on instagram as well last night"
+    },
+    {
+        "start": "00:21:49.400",
+        "end": "00:22:18.200",
+        "text": "So there's a second video on how to use a qblock to copy frequencies, uh, and it's on instagram It's also going to be a link below. All right. Okay, so now Before we jump into how to copy frequencies I want to just clarify something because this video you made number two that you put on telegram Uh raised a lot of questions. So if if you don't mind phillip can we talk about? There's two distinctly different things to keep in mind and i'm just this is how I'm praising it"
+    },
+    {
+        "start": "00:22:18.200",
+        "end": "00:22:48.520",
+        "text": "Right when it comes to copying a frequency And so for those of you who are new to frequencies Um, i'm going to keep it really simple. There's three basic kinds Uh, there's an etheric frequency which are energy workers have the ability to to put together Um, etheric frequencies like the weight loss program or emf things that are just amazingly special That very talented and gifted people are able to do Uh, not your normal mortal like me"
+    },
+    {
+        "start": "00:22:48.520",
+        "end": "00:23:13.560",
+        "text": "And then there's the types of frequencies that are called molecular that are frequencies that come from substances Um that in all substances have molecular frequencies. This is a known Uh part of physics and and you can look up on youtube molecular frequencies and you'll have tons and tons of Of videos that i'll show you how to calculate it if you want, but anyway every substance has a frequency"
+    },
+    {
+        "start": "00:23:13.560",
+        "end": "00:23:40.280",
+        "text": "Whether it's uh, you know, salt or or you know lavender and so they all have frequencies And then the third thing are resonant frequencies and resonant frequencies are electromagnetic waves So there's three types of frequencies Um, etherics are embedded in all of those cards that are sold on the site And then there are some molecular frequencies that are also embedded in those cards And then those are the ones that i kind of conjure up because i'm a mere mortal"
+    },
+    {
+        "start": "00:23:40.280",
+        "end": "00:24:09.160",
+        "text": "And then i call them boosters. So that's how you can do it yourself now for you at home It is challenging Unless you have the talent and the experience to be able to conjure Uh, etheric frequencies and then embed them into objects using the blocks Um, but for more so i think the majority of us are going to be probably doing and it's very difficult to do resident frequencies as well as you have the equipment But i think the most common thing are people with you know things like essential oils and things like that"
+    },
+    {
+        "start": "00:24:09.160",
+        "end": "00:24:40.120",
+        "text": "Okay, so what we're talking about here is then how to Transfer the molecular frequency of a substance Whether whatever you want like it's an essential oil onto a target object So philip, can you explain, you know, because when you did the video, uh on telegram You basically used a watch and i think used In essential oils, yeah, yeah or franket sense So the way you did it though was you put two in there at the same time"
+    },
+    {
+        "start": "00:24:40.120",
+        "end": "00:25:10.440",
+        "text": "Without charging the watch first, right? Which people were saying well wouldn't that then make the frequency of the watch Embed onto the frankincense because you're copying them in both ways Like this exactly and so i'm glad you're bringing it up because i wish i would have done Um, a second video to explain that or just explain it in that one video which i didn't Um, so you would if you wanted to not have the watch frequency in the frankincense"
+    },
+    {
+        "start": "00:25:10.440",
+        "end": "00:25:40.760",
+        "text": "You would charge the frankincense first on its own And, um, it's probably already enough if you just do it for 15 20 seconds And then you can add the the watch to it and uh, then you're pretty much good to go Okay, because yeah, that's right The question always comes up like doesn't the frequency copy both ways right now There's a whole nother layer to it because The frequency of a metal isn't"
+    },
+    {
+        "start": "00:25:40.920",
+        "end": "00:26:06.920",
+        "text": "Different from different things but it may be too difficult for some people to understand so it's You know, i wouldn't have a problem with having that in the frankincense to be honest not at all Because anyway, something that's Homeful or destructive would get neutralized regardless But to just be on the safe side and depending on what you're using just do it that way if you Um, if you want to keep using the frankincense"
+    },
+    {
+        "start": "00:26:07.800",
+        "end": "00:26:37.880",
+        "text": "You know or another substance just charge it first for a little bit Okay, so that's that's the thing that we i you know i wanted to clarify Was the idea that there's two ways you could do it and and the the two ways and is the Is that they do copy to each other? So if you don't want the frequency of one object of the source and the target to copy to each other Then you just need to charge the target object and for how long and a key well we we covered that I looked at looked at part one. Yes"
+    },
+    {
+        "start": "00:26:37.880",
+        "end": "00:27:05.960",
+        "text": "So when i go back that way, and so you would just go ahead and charge the target object So that it's fully charged because once an object is fully charged. It won't copy nothing will copy to it Which is this example here? So when you have like a frequency card from lay the cue And you let's say i want to take this this frequency whether it's like dna or whatever and you say hey I want to I want to charge my keys. I carry my keys all the time So I want to have this frequency with me and I don't want to lose my card Which is the best example"
+    },
+    {
+        "start": "00:27:05.960",
+        "end": "00:27:33.240",
+        "text": "So then I would just take the card and put the keys in the card in the cue block for the time allotted go check part one Right and then you're good You've got that frequency copied onto your keys using the cue block And you don't have to worry about doing anything with the lay the card because it's already fully charged Right correct correct. So that's so that's what that's so that's the difference That people need to know is that when you're having two things that neither one of them have been charged before They will copy to each other. So if you don't want let's say the"
+    },
+    {
+        "start": "00:27:33.240",
+        "end": "00:28:00.920",
+        "text": "Frequency of a copper bracelet to be in your frankincense when you plan to use it for something or an essential oil or whatever Then all you got to do is take the bracelet and put it in there first Let it get charged up just like it would be you know like a card would be fully charged and then put the two in together and then only Um, let's say you would need to charge the frankincense. I'm sorry. I'm sorry Charge the frankincense first. So it doesn't take on the frequency of the other object. Okay. Yes"
+    },
+    {
+        "start": "00:28:00.920",
+        "end": "00:28:28.920",
+        "text": "That's I'm sorry. I made a mistake there. So you want to charge your source first So it's fully charged and then you put the the bracelet in And the bracelet will not charge to the source because it's already fully charged. There you go Okay, so um now I just wanted to say that um it just has a good practice um, I use foil for everything And so um one of the things is I keep my cards like at like a master set"
+    },
+    {
+        "start": "00:28:28.920",
+        "end": "00:28:58.920",
+        "text": "And and whenever I'm doing any kind of this kind of stuff Um, I charge the frequency of my card It's a master and I put it onto a foil and I use that as the as like the carrier of the frequency to put onto stuff Uh that way there's never a mistake or or that sort of thing So just as an fy and and then in terms of volume two, I just I had to answer a question the other day where Someone was saying, you know, like well if I want to do like an essential oil or or like, you know, frickin sense, right? How much of the substance do I need?"
+    },
+    {
+        "start": "00:28:58.920",
+        "end": "00:29:27.000",
+        "text": "So could you comment on that because I was thinking like oh if it's an essential oil like two drops Right on a little piece of foil that you've already fully charged and you'll be good Or do you need correct? I mean how much of the source Like frickin sense would you just need a little tiny pile or would you need like a quarter of a gram? I mean how much do you need to capture that frequency? Pretty you only need so much that you have the full Frequency set of whichever substance"
+    },
+    {
+        "start": "00:29:27.000",
+        "end": "00:29:55.880",
+        "text": "available now what does that mean if you take It's literally a tiny little piece of of a piece of frankincense For example would would be enough of an essential oil one drop would be enough because you already have All of that in that drop which you would also have in two drops or three drops and the whole bottle So one drop is is actually totally fine Okay, and you know when"
+    },
+    {
+        "start": "00:29:55.880",
+        "end": "00:30:24.600",
+        "text": "But it also doesn't hurt if you put a second or third drop on it Right, you know that you know if that makes someone feel better go ahead and do that That's no problem, but you really just need a little bit of it Yeah, my answer to was the same was the idea that you know, hey if I just want to Let's say capture the frequency of vitamin C. Well, I only would need to put one one pill It's enough, you know, you don't need a lot and just you have enough to capture Right. So if you could do that with vitamin C and it's only one pill"
+    },
+    {
+        "start": "00:30:24.600",
+        "end": "00:30:54.520",
+        "text": "Then that gives you a kind of an idea like how much volume of a source That you need to use and then and I've heard of some really awesome stories of people out there People that are into you know homeopathy and then like the flower essences and people that are into TCM, you know Traditional Chinese medicine using all those herbs and just this entire, you know, pothic area of all these wonderful supplements and and herbs and stuff And it's just amazing while the different combinations people are coming up with as they're out there tinkering coming up with their own"
+    },
+    {
+        "start": "00:30:54.520",
+        "end": "00:31:23.240",
+        "text": "You know boosters and stuff. So it's great you guys out there keep it up Keep doing that keep inventing and and find what works for you and to help the world. All right, so I just love it I love hearing those stories. I really do okay. So that hopefully clears that issue up now And that was this video right here and it's in the link below now We talked about how to copy frequencies using a block and let's talk about the copy effect and so um, you want to describe what that is and then"
+    },
+    {
+        "start": "00:31:23.240",
+        "end": "00:31:47.400",
+        "text": "um, let's talk about how to avoid it So that's a good question. I don't even know what what what is the copy effect? Oh, what I mean Sorry That is is the I that's what I call it, right? Which is when you have a You know this typical right if I charge something in the IB"
+    },
+    {
+        "start": "00:31:47.400",
+        "end": "00:32:14.680",
+        "text": "I never want to put it in the QB because now it's charged at a higher level. It's higher. So if I were to like make Uh, let's say I put a card and I make a card in the QB And then I put it in the IB right and now it's charged at an IB level infinity block level Okay, so at that point I got to be careful. This is the thing I don't want if I got to be careful not to put that card that I had charged in the IB"
+    },
+    {
+        "start": "00:32:14.680",
+        "end": "00:32:41.160",
+        "text": "Next to anything that's been charged in a qblock all by itself Because one has a much higher energy level and so there's a copy effect that's going to occur if I put the two cards together And let's say the infinity block card the frequency on that card Will copy onto the one that's a QB because it's a higher energy, right? That is actually not the case that's only the case if you overcharge it"
+    },
+    {
+        "start": "00:32:41.160",
+        "end": "00:33:08.360",
+        "text": "That is why we say don't ever overcharge your metals or your course because And that's why we recommend if you if you do copying like you do that anyway every time was using foil, but especially with infinity block We we we suggest that now that's only when when it overcharges that that's the beauty about this that we Design it in a way without any brute force that there is no No copy effect"
+    },
+    {
+        "start": "00:33:08.360",
+        "end": "00:33:38.360",
+        "text": "So you could literally have five cards next to each other or laying on top of each other one was charged an IB three One an IB two one in the quantum block if they were just regularly charged. It's fine. They there is a the energy Extents it does extend but it doesn't intrude into that other object However, once you overcharge it in an infinity block and put it next to something else then it indeed Kind of gets into that"
+    },
+    {
+        "start": "00:33:38.360",
+        "end": "00:34:04.200",
+        "text": "Okay That's huge. Okay, and I you know, hey if I ever answered that question wrong in the chat, I apologize because I didn't realize that that was The whole issue behind overcharging versus charging correctly. So that's huge. That is really really big everyone Hopefully you understand the magnitude of what philip just said and that also answers another question that I've been given which is"
+    },
+    {
+        "start": "00:34:04.200",
+        "end": "00:34:33.080",
+        "text": "If you know because you guys at layla you top off right you'll the typical layla product as I understand is Copy the frequencies copied in a cue block and then Brought up to cue block charge and then you quote top it off or you put it in the eye block for a little bit And then that's boom you're done with the product, right? and so Right but because and so the question was as well Hey, if you know if layla is topping off products in an eye block"
+    },
+    {
+        "start": "00:34:33.080",
+        "end": "00:35:00.200",
+        "text": "Should I not be using these cards in my cue block because they've been in an eye block, right? And so you just answered the issue is no you don't have to worry about it because it was charged for the appropriate time Correct correct. Absolutely. That's no problem and the the only caveat though is obviously if you put any such cards frankly under a glass of water Then certainly the water takes on that frequency that that's the nature of the water because the water is very receptive"
+    },
+    {
+        "start": "00:35:00.200",
+        "end": "00:35:30.760",
+        "text": "Okay to to that. So okay, we just discussed was those metals basically if you have one card next to another card, you know So all layla products Are charged appropriately so you don't have to worry that just because they're in an infinity block that you can't use them You definitely can use layla products as sources In your cue blocks. Okay. So that's that's really important to know But I do want to send and then the issue of overcharging if anything gets overcharged"
+    },
+    {
+        "start": "00:35:30.760",
+        "end": "00:35:59.640",
+        "text": "Then you need to be concerned If it's overcharged in an infinity block, you need to then be concerned that that object could You know copy bleed over to a regular object and then impart that frequency on to it. Is that correct? Correct on an addition It could mess up the quantum block if you were to put it then into the quantum block All right, so it sets something that's really really important for those of you who are doing the the frequency tinkering"
+    },
+    {
+        "start": "00:35:59.640",
+        "end": "00:36:30.440",
+        "text": "So, you know keep that in mind very important. So hanau With that known I also want to put in another thing that I think we really because phillips mentioned to me many times And I want to make it clear to the in the tutorial that overcharging Is one concept right when I first put something in and I leave it in there for too long It'll overcharge and then you want to keep it away from your regular stuff. Okay. Now The second issue though phillip is you've mentioned to me that"
+    },
+    {
+        "start": "00:36:30.440",
+        "end": "00:36:56.120",
+        "text": "Not only is overcharging when you first put it in but if you put it back in later It's a cumulative, right? It's like it's like how many hours of has this item been in the in the eye block So correct so it's not just like okay Let's say I put an object in and I forgot about it and it's been in the eye block for an hour Right. So now I've got it. I got an overcharged item and I and I don't want to have it anywhere near my other"
+    },
+    {
+        "start": "00:36:56.120",
+        "end": "00:37:21.320",
+        "text": "Layla devices because it's going to bleed over the frequency to those things and so that's no no keep it separate But if I actually put that back in it's going to keep charging and even even get stronger correct Yes, absolutely. Okay, so yeah, so it's a cumulative and so this is so I just want to point that out and and it's because of that um Like when I'm doing like multi-day, um charging"
+    },
+    {
+        "start": "00:37:21.320",
+        "end": "00:37:51.000",
+        "text": "Um, you know like let's say I'm trying to like recently a friend approached me about a dog And so I put in the dog the heel for dog frequency, but like I said I use foils And so I just put the frequency onto a foil I put the picture of the dog and that that foil into my eye block and I left it in there for three days To help the dog, you know send that energy to the dog and then I throw that foil away because that thing has gotten super charged And I don't want it anywhere near any of my stuff. So"
+    },
+    {
+        "start": "00:37:51.000",
+        "end": "00:38:19.560",
+        "text": "Use foils everybody use pieces of foil So you and and then so that when you're done with whatever that one project is throw it a way so that you never risk Having like in that instance. I've got a piece of foil that's super charged like three days In the infinity block with the heel for dogs And I would not want to make a mistake and put that anywhere near them like my my lay like you bottle or any of that kind of stuff Right if I don't want that frequency in the bottle. So that's my best practice"
+    },
+    {
+        "start": "00:38:19.560",
+        "end": "00:38:41.880",
+        "text": "Any other best practice you could you could think of philip that you want to let people know about No, I think you covered it all. Okay. Great. Yeah, so By the way, so if you then throw that little piece of aluminum foil away people maybe oh, you know, that's a waste But you know, hey, you're at least adding a little bit of a positive energy to the trash. Yeah"
+    },
+    {
+        "start": "00:38:41.880",
+        "end": "00:39:09.080",
+        "text": "There you go. Okay. So now again, so now people are going to go. Oh wow. I I left my keys in the in the eye block there for an hour Um, what do I do? How do I you know how do I how do I how do I prevent the you know the copy effect? And I don't want mixing up my frequencies and having this hodgepodge right because I only want that frequency in that one object kind of thing Um, so I've always told them to use the purple bags or use distance So the purple bags"
+    },
+    {
+        "start": "00:39:09.080",
+        "end": "00:39:32.200",
+        "text": "Um are special right philip. So could you describe? What those do in terms of like keeping frequencies and quantum energies contained Yeah, so in general the quantum energy can go through any matter doesn't matter if it's brick wall or anything else so This is also not a Function of matter. So the the pouches"
+    },
+    {
+        "start": "00:39:32.200",
+        "end": "00:39:57.320",
+        "text": "You know have a good material, but that material by itself wouldn't wouldn't contain any of it. Frankly, it's just um Developed in a way where it by itself has a field that actually can contain Such energies and frequencies which is good for shipping purposes and storing purposes"
+    },
+    {
+        "start": "00:39:58.200",
+        "end": "00:40:24.760",
+        "text": "Okay, okay. So if I if I mistakenly had a card in the eye block for an hour Then I want to keep it in its own little pouch Just as a precaution, right? Um, so it opens up my bottle and my other stuff. Okay, so that's good to know. That's what you guys should do with these little pouches Um, and then if you don't have enough to go around Um, then there's a matter of just keeping them apart from each other and so what would be the the distance?"
+    },
+    {
+        "start": "00:40:24.760",
+        "end": "00:40:50.760",
+        "text": "You would want to make sure that these two opt I would not want my like one hour card in the i b Close to my other cards. How far apart should I keep these things? Good question. Uh, I would say you know 15 centimeters should be probably enough that would be like Five six seven inches. Okay. All right. That's good to know. So that's that's the answer to that question"
+    },
+    {
+        "start": "00:40:51.320",
+        "end": "00:41:18.360",
+        "text": "And everybody I just want you to know that um, you know before all of this was figured out before Uh, you know in in the old original days. I had lost an entire library because I didn't know this So before you go and start a big frequency library Make sure you've got your your procedures down on how to make sure that you don't have the copy effect destroying your work. Okay Now, uh, it's number three adding frequencies to previously charged objects had questions in the telegram group people"
+    },
+    {
+        "start": "00:41:18.920",
+        "end": "00:41:48.520",
+        "text": "Um, let's say I think it was like one person or several people actually they said oh, I bought Um, the the booster car or I bought the heel capsule now and I got the dna card and I want to put the dna frequency into um Into let's say, uh, you know, uh, the capsule. I tell them to use the spear packet foil thing Um, but then some people actually want to charge the capsule itself or a bottle like they have a bottle and they want to add dna to it, right? How would how would they approach that?"
+    },
+    {
+        "start": "00:41:48.520",
+        "end": "00:42:18.920",
+        "text": "Uh, this is a good question. So You mean if they have a bottle the lila quantum bottle Right if they have a lila quantum bottle and they you know and they carried around all the time Uh, and they want to add dna to it. How would you do that? Well, they would have to use a very strong infinity blog in order to be able to do that Um, so I would and I'm not sure if I actually would add anything to that frankly just because it already contains so many frequencies"
+    },
+    {
+        "start": "00:42:18.920",
+        "end": "00:42:48.760",
+        "text": "Um, it's it's quite a ideal Set, uh for the water. That's my personal perspective. Otherwise if you have blocks and you want to have a bottle with Different frequencies just create your own bottle. That's very easy to do. So that's what I would recommend Okay, and for for capsules indeed use the foil, you know, like like K said, you know create a Specific foil with your intention or your desired frequency"
+    },
+    {
+        "start": "00:42:48.760",
+        "end": "00:43:15.960",
+        "text": "Uh and take this little piece of a foil and put it inside the capsule next to the um To the titanium spheres or wrap it around one of those titanium spheres and then you have added that a frequency and you have done it Temporarily so that that makes a lot more sense than trying to get it into permanently into this capsule Which was already charged Um and usually topped up already in infinity blocks"
+    },
+    {
+        "start": "00:43:15.960",
+        "end": "00:43:45.480",
+        "text": "Okay. All right. So if you if you really really really really want to you're going to need a higher A generation infinity block. That's the only way to add something to something that's already been charged. Okay Um, now the thing about, you know, there's obviously a lot of people talking about how to charge their body putting their heads in they're they're, you know Even heard a story. I think I read a story this uh yesterday or today where one of the energy workers, uh healers Um"
+    },
+    {
+        "start": "00:43:45.480",
+        "end": "00:44:14.360",
+        "text": "Had a friend hurt their knee and they put their own knee into their cube lock or eye block with the intention that they act as a surrogate For the person who had a painful knee and it worked So, you know, there's a really amazing stuff that we're learning about how you know What happens when you put your own body into the into a block? But the one thing that I always caution people about is using frequencies when charging your body. So What's your stance on that?"
+    },
+    {
+        "start": "00:44:14.360",
+        "end": "00:44:41.160",
+        "text": "Yeah, I rarely ever do that uh to be honest, but it's it's certainly possible in In certain instances and if if someone feels okay, I really need the activation of the inner healer and I Want to put that frequency in then again do it like okay said Create a frequency foil with that heal a frequency and you can put it inside Together with your dna and or your picture"
+    },
+    {
+        "start": "00:44:41.160",
+        "end": "00:45:06.760",
+        "text": "As long as you want right as long as it feels good and then you can leverage that Um, it's it's absolutely possible to do that and we've we've tried it with Peace with the heal and with other frequencies Uh, but I must say that you know personally Probably in 95 percent of the cases I do not add a specific frequency If I put my picture in the blog and I do that very very often"
+    },
+    {
+        "start": "00:45:06.760",
+        "end": "00:45:33.800",
+        "text": "But I do have frequency cards with me if that makes sense. So yeah, that's how I do it Okay. Yeah, because um That's what I'm doing right now. I actually got my picture in my high block with a foil with frequency weight loss on it um But okay, so my my caution to people And you know, they're putting your picture in with a frequency is way different than putting your hand in with a frequency"
+    },
+    {
+        "start": "00:45:33.800",
+        "end": "00:46:02.760",
+        "text": "Um, and so but but you said that you you know, you just said right that it's it's sometimes beneficial Uh to actually embed a frequency into your physical body putting your physical body in between the plates But the one thing that I always caution people about is like If you have metal in your body, you might not want to do that because that metal is going to hold that frequency forever Well until you you're you're you're moving on to the next plane, right? Yes, that's for the physical charging though. So if you put your"
+    },
+    {
+        "start": "00:46:02.760",
+        "end": "00:46:32.920",
+        "text": "Picture in that man. You're okay with that and for the physical Also, if you put your hand in there and you do not have metal in your hand and you put a frequency and You're so okay, right because the body, um Is a living organism and it's your consciousness. So you you will Get rid of it if you don't need it anymore. So it's not that you're stuck with a specific frequency At all actually it just happens if you're charging metal"
+    },
+    {
+        "start": "00:46:32.920",
+        "end": "00:47:02.440",
+        "text": "So if you have metal in your teeth for example, then just yet just don't charge those with a specific frequency That'll be a little bit difficult to get out. Right. Okay. So yeah, that's the that's the precaution And it's not like a bad thing is just that you may not want that frequency for the rest of your life It's like a tattoo. You can't remember Quantum tattoo. Hey new new word, uh, okay, so Um, okay now number five is on the idea of using frequencies in a block"
+    },
+    {
+        "start": "00:47:02.440",
+        "end": "00:47:32.040",
+        "text": "When you put a like my example right now, and this is this is actually a good example I just put in this morning Like I said, I burnt the weight loss frequency to a piece of foil And I put the piece of foil and my picture in the eye block. I'm trying to lose some weight along with my dogs. Okay So, but here's the thing That weight loss frequencies now being In the eye block and that means it's in the field correct Yes"
+    },
+    {
+        "start": "00:47:32.040",
+        "end": "00:48:03.000",
+        "text": "Okay, so now my entire neighborhood Everybody in it, um, is now Experiencing the weight loss frequency. Is that correct? Notness. No, only if you set that intention because so you can you can put something inside Well, if it's inside with your picture, then you will have it available, but that's kind of like an internal thing It's not that it's If there's a picture or your dna together with a frequency in the block. That's internal. It's from within basically"
+    },
+    {
+        "start": "00:48:03.000",
+        "end": "00:48:30.120",
+        "text": "That's how that works, but But if uh, if you put just a frequency into a block It's also just in between the plates unless you set the intention that may be hard for some people to understand But that's really how it works that the whole field um and radios of that field Should be penetrated by that frequency and then that that's just what's going to happen"
+    },
+    {
+        "start": "00:48:30.120",
+        "end": "00:48:57.720",
+        "text": "Okay, okay. So it could it doesn't automatically unless you set the intention, right? In other words, just put that frequency into the field So like I kid like if i'm a farmer, I could put the eye block in the field and then put an intention Right to have all you know, like no pests, you know good growth great produce And that intention would spread out throughout the entire field But yes, I actually set the intention. Okay"
+    },
+    {
+        "start": "00:48:57.720",
+        "end": "00:49:22.920",
+        "text": "Exactly and intentions are extremely powerful and you know what? What a lot of listeners probably already know is you know that we create our world with our thoughts and You know intentions are extremely powerful, but in the material world, it's like you need to press a button In order to change the program on your tv or you know to I don't know, maybe Turn the streetlight to green or something like that"
+    },
+    {
+        "start": "00:49:22.920",
+        "end": "00:49:47.800",
+        "text": "An intention is energetically the way of pressing a button for something It's if you have that picture in mind, maybe that concept isn't that foreign anymore, okay? All right. No, that's really helpful. I mean, we've had several people I mean there's I got to tell you philipin the people that are in your chat group are just the most amazing people I've ever met they're so loving and so many people right have asked hey"
+    },
+    {
+        "start": "00:49:47.800",
+        "end": "00:50:17.080",
+        "text": "How can I heal the world and specifically like if I put a picture of the planet and the inner peace card, you know, the inner peace frequency uh, could I you know, could I uh, you know spread that throughout the world and I was kind of wondering like well Would that even work? I mean the world's kind of a big place and the quantum is only so big But but but so that's the whole idea if you had if you had like a giant quant infinity block like so the size of Whatever mountain and you put the inner peace frequency in that and said hey, let's spread this throughout the the field"
+    },
+    {
+        "start": "00:50:17.080",
+        "end": "00:50:42.280",
+        "text": "You could affect a big chunk of the planet, right? I mean, is that kind of yes No, you absolutely can and and and all of us are Having an impact and making an impact, uh and frankly every block that's somewhere is also impacting Uh the field in that positive sense and that's what you know the the opposite is happening too, right, you know where"
+    },
+    {
+        "start": "00:50:42.280",
+        "end": "00:51:11.240",
+        "text": "There are these certain forces that like to create fear and they want fear to be the dominant force in the field so They use various methods in order to have that be very present now with the work we're doing There's a neutralization aspect to these things and yeah, so it's wonderful that people uh think about that and you know"
+    },
+    {
+        "start": "00:51:11.240",
+        "end": "00:51:37.640",
+        "text": "The only thing is always that you know, let's not manipulate anything. Let's not you know do things like okay. We We set the intention that Biden steps down like in a week or so, you know, or you know gets hit by a car like all these things Those are not, you know That's not universal law That is manipulative and that's you know that may be out of our ego because we think that's how it needs to go about in the world that's not the case, but"
+    },
+    {
+        "start": "00:51:37.640",
+        "end": "00:52:04.920",
+        "text": "using pure quantum energy or something like inner peace or or wishing for A more peaceful world. Those are all things that are part of the current energy of the times Anyway, and by doing that we help amplify that and spread that and those are all wonderful things and we Never need to worry about something like that. You know, we can always ask for more love. We can always do things to uh to to help promote peace"
+    },
+    {
+        "start": "00:52:04.920",
+        "end": "00:52:35.560",
+        "text": "That's that's coming from a different perspective though then you know saying like okay You know this Trudeau guy needs to hit by bus next next week, right? You know that that's There's a very fundamental differences because the universal is tall things We can just help support these these waves that are happening anyway. Oh, yeah, that sounds awesome I mean, so yeah, um, so liberally use the happy frequency everybody the happy frequency spread throughout the world"
+    },
+    {
+        "start": "00:52:35.560",
+        "end": "00:53:05.400",
+        "text": "Um with a picture of the world and the frequency with the intention Uh, make the world a better place. So that's very cool. Thank you very much for that. All right So let's talk about uh, I will actually have the last questionnaire. It was number six How long do frequencies last we covered that whether the frequency is in a living being or in a metal? Uh, you know, it it'll go, you know, the living beings and things like that, right? The frequencies won't last Uh unless you set the intention, but then even then they they kind of do uh fade away"
+    },
+    {
+        "start": "00:53:05.880",
+        "end": "00:53:31.160",
+        "text": "But in objects they will last, uh, as long as the energy lasts. Is that correct? Yes, okay. All right. So let's talk about, uh, copy times um, and so Yeah between cube lock and eye block now if I wanted to Let's say i'm going to just just like let's say a blank card We'll just use that as an apple I want to take all of these sources and put the frequency onto a blank card One of the blank Layla cards"
+    },
+    {
+        "start": "00:53:31.160",
+        "end": "00:53:57.800",
+        "text": "In a cube lock if I just I'm the first one. I guess my first question really should be is doesn't matter if it's any one of these different things Is it like one rule for everything or is there a different rule for different types of of sources? Uh, no, it doesn't really matter frankly, uh, so and it's about 30 to 60 seconds in the uh quantum block Okay, whereas to be honest after 45 seconds, that's usually always done"
+    },
+    {
+        "start": "00:53:58.200",
+        "end": "00:54:27.640",
+        "text": "But you can you can do 60 seconds. That's really not a big deal with pharmaceuticals. I would actually not do 60 seconds I would um, I would really stop at 45 seconds Um, and the eye block is it's it's only 10 seconds really and you can say up to like 20 seconds um, and and we found by looking at it that our minds"
+    },
+    {
+        "start": "00:54:27.880",
+        "end": "00:54:59.000",
+        "text": "With 10 seconds our minds have has an issue that There's this skepticism like it. This is so fast. It can happen So do 15 seconds if that makes you feel better. You feel more comfortable definitely do 15 seconds Um, it's totally fine to do it 15 seconds But uh, usually it's it's already done after 10 Okay, so would you say that let's say 10 to 15 then for an eye block? No 10 to 20 seconds All right, so and that's going to be consistent whether it's a plant or an herb"
+    },
+    {
+        "start": "00:54:59.000",
+        "end": "00:55:25.240",
+        "text": "Uh, or a supplement, but then pharmaceuticals in the eye block. I think you've mentioned once that that wasn't like not a good idea What do you what was the if you clarify that? Yes, so I would not create quantum frequency medicine in the in the eye block and I would also not And try to neutralize, you know potentially harmful frequencies in these products with with an infinity block You know, there there may be exceptions, but"
+    },
+    {
+        "start": "00:55:25.240",
+        "end": "00:55:49.320",
+        "text": "You know certain, you know, like an ibuprofen or an aspirin Maybe some of those examples like I wouldn't hesitate to put That in for like 10 seconds But anything that's for a specific condition, I'd be I just never do that So something for a hard condition or blood pressure or any of these things"
+    },
+    {
+        "start": "00:55:49.400",
+        "end": "00:56:14.040",
+        "text": "Just don't do that because you're adding homeopathic levels to that and don't know in the end of the day How strong the substance is that you're then taking And that by frequency, right? We're not talking like about Okay, so let me clarify if I put the pill in Like I'm gonna do I'm right. This is the example right here in the cube lock. I have let's say a pharmaceutical"
+    },
+    {
+        "start": "00:56:14.840",
+        "end": "00:56:45.880",
+        "text": "Medicine that I'm prescribed and I want to put that onto a card to carry that frequency of it with me all the time I would put the pill and the blank card in the cube lock 45 seconds And then I'm done. I could I could then carry the card and I've got the frequency of the pill However, the then what happens to that pill that you used? Can you take it by the way? Excuse me. Well what happens to that pill? Yeah, so the pill that you used is it okay? Yes, that would be okay"
+    },
+    {
+        "start": "00:56:45.880",
+        "end": "00:57:13.960",
+        "text": "And it's it's it's then usually energetically a cleaner product if that makes sense. So that's a that's a nice thing and That's like the crab example, right? You kind of like just neutralize the negative Pretty pretty much. Yeah, so it's a it's certainly a difficult topic everything farmer related But yeah, so that's what people use it for But again, that is something that we don't really recommend to do with infinity block. Okay"
+    },
+    {
+        "start": "00:57:14.680",
+        "end": "00:57:42.520",
+        "text": "Yeah, okay, so that's that's the you know, there's going to be a lot of questions about this But I think I want to point out that You know in my mind all pharmaceuticals are chemicals With the five page list of stuff that could go wrong with you And all I could think of is if you put a pill if you put one of these things in a cube lock It's going to neutralize all the harmful chemicals and I would I would assume it would render that thing inert You know from a frequency level But definitely not using it in the eye block and definitely"
+    },
+    {
+        "start": "00:57:43.240",
+        "end": "00:58:13.160",
+        "text": "And the reason I just want to clarify the reason you don't want to put a pharmaceutical and or try to copy a frequency Of a pharmaceutical in the eye block is because you don't Know how strong that frequency is going to be um And it's just so you're not going to get the same your bait bait bottom line is you're not going to actually capture It's true molecular frequency right as you would in the right block because it's so strong Okay, so you mentioned homeopathy right so you've got folks that are doing let's say the"
+    },
+    {
+        "start": "00:58:13.160",
+        "end": "00:58:38.040",
+        "text": "The flower essence thing and they've got samples of that or they got homeopathy Uh, you know types of substances that they want to capture the frequency so they can wear it around on a necklace or whatever So how would they you know would there would there be any precautions about homeopathy because that itself has already been distilled down to a very Uh specific frequency right so would it be 30 to 60 seconds or because it's been so distilled down"
+    },
+    {
+        "start": "00:58:38.040",
+        "end": "00:59:04.440",
+        "text": "You know like, you know, essences are literally like one molecule in a little jar of water or alcohol usually, right? um Would you do that or I mean I would not I would not do it at all frankly, you know I would honestly not do it at all just because uh, there's a certain dilution level that you have Right, you know You have a c100 or a c 1000 or whatever it is it would be a very very high potency"
+    },
+    {
+        "start": "00:59:05.000",
+        "end": "00:59:33.400",
+        "text": "and uh, it's those things are pretty powerful now if you're putting it in then you're Adding a levels that you're not really aware of but You know, I mean The difference certainly is for some people that really know what what they're doing And if you're a homeopath and you're completely tuned in and you you know Something then this may be a good thing, but this is the exception to the rule Um for everyone else. I would just say just don't put your homeopathy in there"
+    },
+    {
+        "start": "00:59:34.440",
+        "end": "01:00:04.760",
+        "text": "Okay, I I agree. Um, just based on my limited knowledge of how it all works and I think uh folks that do homeopathy you understand That it's already it's like I call it dialed in that that thing has been dialed in to be a very specific amount Of that of that frequency In a very specific dose right and if you put it in a block you're going to charge that thing up You're going to change it and you're no longer going to get What you expect and that's the frequency of right of and also the physical substance. So"
+    },
+    {
+        "start": "01:00:04.760",
+        "end": "01:00:32.280",
+        "text": "Uh, good point. All right. So, you know, we you know because there are some things that are different and you know We've kind of pointed them out between, uh, you know using plants, earls supplements things like that versus pharmaceuticals Is there anything other? That you know when you know using using as a source frequency Is there anything that you would also want to kind of like talk about Uh in terms of like trying to capture the frequency of and that you maybe need to kind of share as as part of this tutorial"
+    },
+    {
+        "start": "01:00:32.280",
+        "end": "01:00:59.640",
+        "text": "You can think of I have one thought I'd throw out But I was wondering if you had any other things that you've run across that people should know about when trying to copy frequencies No, I think we've covered it all. I just want to say for the homeopathy You know now that it says do not use but just grade But you can create your quantum homeopathy now with that because with you know All these other things here plants and herbs essential oils supplements and all of that"
+    },
+    {
+        "start": "01:00:59.640",
+        "end": "01:01:27.640",
+        "text": "You can really create quantum frequency medicine or call it, you know quantum homeopathy So that's pretty cool and and for the homeopaths out there, you know, this adds another You know playing field really for for you to check out New ways and new dilution levels if you will on a completely different level Uh, and it's very easy to do because you don't need to spend You know all the difficult time"
+    },
+    {
+        "start": "01:01:27.640",
+        "end": "01:01:55.240",
+        "text": "To dilute things even though, you know most the homeopaths actually don't even do that They just buy you know the substances, but I've done that process myself. Actually, I've made real homeopathic Um To send by diluting stuff and it's it's cool to know how it works, but it is it takes time Yeah, I've studied it. It's very fascinating and there's actually like I and and I you know the three of us right We were talking about it one time in one of our videos and I was talking about"
+    },
+    {
+        "start": "01:01:55.480",
+        "end": "01:02:24.680",
+        "text": "Science behind it and how it was just unbelievable that the scientists that figured it out Proved, you know, it proved that hey, you know, you even if you dilute the The substance down to like almost nothing that it still carries the memory of it Um, yeah in the water, right? Okay. So so you're saying that on a whole if you're going to do homeopathy remedies Uh that you they're putting it in we're trying to copy the homeopathy Remedy remedy does not work. It does not capture it. You can't capture the actual"
+    },
+    {
+        "start": "01:02:24.680",
+        "end": "01:02:54.600",
+        "text": "uh original Uh remedy of itself because it changes once it's in the block, but you can create your own new quantum homeopathy remedies Um using a quantum block, right? Yeah, and so I mean it and it but it I mean certainly does capture the frequency, but then again, it uh Yeah, it it may it may dilute it again, you know, so but the the frequency is still the same because even if you have a c 10"
+    },
+    {
+        "start": "01:02:54.600",
+        "end": "01:03:24.600",
+        "text": "There's c 100 c 1000. It doesn't matter of gold. For example, it always is the frequency of gold The the difference is just you know, how? Transparent is it how diluted is it so the the frequency still gets captured? So that's not really the issue. It's just that it May not be a c 100 anymore Yeah, okay ag as as as original. I guess original, right? Yeah, she's want to be really clear here. Okay"
+    },
+    {
+        "start": "01:03:24.600",
+        "end": "01:03:52.440",
+        "text": "Okay, no, that's really good. That's that's Yeah, and then would you and then do not as are you okay with the do not use or do not try to tinker with homeopathy remedies in an eye block, right? Yeah, okay. All right. So the other that I was thinking of is and this goes back to the old old old days of playing around with this stuff was the idea of Trying to capture the molecular frequency of a radioactive substance because those substances"
+    },
+    {
+        "start": "01:03:52.440",
+        "end": "01:04:18.760",
+        "text": "Are you know, they're basically dangerous, right? So as opposed to almost everything in our world is You know, just by being next to it won't hurt you. These things will and so because they are Um radioactive is there any issue? I mean, you know, I haven't come up with a use case yet Why I'd want to do it myself, but to try to capture that frequency um Any thoughts on that because of how"
+    },
+    {
+        "start": "01:04:18.760",
+        "end": "01:04:48.360",
+        "text": "Quantum energy neutralizes radiation, you know, the whole original the water bottle and the cesium issue I wouldn't I would not suggest to do that frankly. Um, but I mean there there may be use cases I'm just not aware of those So I I'd rather not recommend anything. Yeah, okay So yeah, I'm thinking that from a standpoint of trying to capture a radioactive frequency A radioactive substance frequency. Don't don't do that"
+    },
+    {
+        "start": "01:04:48.360",
+        "end": "01:05:18.280",
+        "text": "Uh, it it yeah, I don't even know how that would even capture it because and this is the reason why Is because the blocks neutralize radiation So it's almost like the same idea of homeopathy you put the source in there and the source is going to change So you're not going to get a capture of the original and also it's dangerous But secondly too, it's going to neutralize your substance of your source, right Yes Because for those of you who don't know and this is I'm sorry, but this is the block tutorial, but I do want to mention that"
+    },
+    {
+        "start": "01:05:18.280",
+        "end": "01:05:45.240",
+        "text": "There's we've already done studies or the phillipas Where when you put water in the block in the bottle the lela bottle or a bottle you can make with your block Right It will neutralize the cesium in it The and the cesium is planet white right from all the atomic testing back in the day Uh, and so, you know, we live in a radioactive world And if you're worried about your water have it tested and then you should you know and then see what happens when you do a before and after"
+    },
+    {
+        "start": "01:05:45.240",
+        "end": "01:06:15.320",
+        "text": "It the water has been sitting in a lela block for 30 minutes and you will see and we've had it I think I know a three separate test now where the The second measurements show that cesium level had dropped. So that's amazing. So it we do know that the blocks do Lower the radioactive a radioactivity of a substance just from those studies themselves. Okay, so This has been great. I've learned so much, you know, it's like I just love talking with you phillip because"
+    },
+    {
+        "start": "01:06:15.320",
+        "end": "01:06:40.600",
+        "text": "I'm so inquisitive and curious about this subject And it's so great to hear you clarify some stuff and i'm really glad we did this tutorial So here you go. This is the end of part three Of how to use lela quantum blocks Infinity blocks and I want to just say a real big thank you phillip for your time On putting this series together. I think it's going to be Very beneficial for anyone who owns a block"
+    },
+    {
+        "start": "01:06:40.600",
+        "end": "01:07:05.960",
+        "text": "On how to get the most value from that block and how do you use your block and and you know hint hint to help the world if you can But thank you phillip and any parting thoughts and words Well, big thank you to uk because you were really the driving force behind putting this together and and I think this is super helpful and it also Yeah, it's just taking the time to sit down and talk about these"
+    },
+    {
+        "start": "01:07:05.960",
+        "end": "01:07:35.880",
+        "text": "Important questions that people have it's just amazing that we did it this way and you know We'll have to find a way to also include these videos on the website so that people have Also access there when you know when new people come Because I think this is indeed really helpful Thank you for all your great questions and insights and also your presence in the group and also to thanks to To everyone in the group and as you mentioned, it's a group of wonderful people and"
+    },
+    {
+        "start": "01:07:35.880",
+        "end": "01:08:03.000",
+        "text": "Yeah, we we really I think both of us really feel like we're so much part of this community and we feel Glad that there's such a good vibe and curiosity and and just wonderful people and it's it's it's just fun It's a it's a it's a great part of my life and Thank you everyone. Yeah, thanks phillip and I just want to shout out to emma You know god bless emma"
+    },
+    {
+        "start": "01:08:03.000",
+        "end": "01:08:32.840",
+        "text": "He is the rock that we stand on when it comes to that telegram chat group I mean, I don't know for you for all of you guys that you know, I haven't been around since the beginning We started the chat group with emma and phillip and I The three of us we're over 2,500 men to version now Amazing people and boy the questions just flood in daily and emma is just a Spectacular at helping all of the different folks with all the answers and and we're sorry if you ask a question"
+    },
+    {
+        "start": "01:08:32.840",
+        "end": "01:09:02.120",
+        "text": "We do apologize the way that telegram works, you know, it just keeps scrolling right and the more people that ask questions You're at your question might get missed so don't feel Don't ever hesitate to ask your question again if you didn't get an answer Okay, because we do kind of miss them Because emma works like I think we all kind of cover the the telegram chat group and try to answer as many questions as we can But we do miss a few every now and then so we do say sorry about that But we do try to get all the all the answers and all the questions"
+    },
+    {
+        "start": "01:09:02.120",
+        "end": "01:09:28.840",
+        "text": "Okay, so if you are we even wondering what i'm talking about we have the layla quantum power group You can join on telegram. I'll put the link in the video description below and again I'm cam or i'm part of the tinker's academy I am i'm actually am the tinker's academy and you can find me at the tinker's dot academy In your URL window and there is a i've created a section just on quantum energy and layla q With a ton of of resource materials and all of these tutorials and all that stuff"
+    },
+    {
+        "start": "01:09:28.840",
+        "end": "01:09:46.520",
+        "text": "It's all on the blog for those of you that want to learn more. So again, thank you philip. Thank you very much for your time and Everybody, I hope this was helpful for you And if you got questions toss them out there and we'll keep answering them as we go. Thank you very much Thank you already"
+    }
+]

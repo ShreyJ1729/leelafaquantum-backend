@@ -1,0 +1,967 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:18.000",
+        "text": " I love how everyone and welcome to another Tinkers Academy video and on this video, we're meeting with Philip on Holt and Dorff to talk about later quantum tech and on all of the new things that have been going on since the last video,"
+    },
+    {
+        "start": "00:00:18.000",
+        "end": "00:00:38.000",
+        "text": "I've got so much to share that we definitely wanted to get together again and kind of keep all of the Leleque followers and anyone else interested in the quantum energy space updated on what's all happening in Leleque. So I've got Philip with me. Hi, Philip. How are you doing today?"
+    },
+    {
+        "start": "00:00:38.000",
+        "end": "00:00:59.000",
+        "text": "Hey, K, glad to be here. Looking forward to this. Yeah, so yeah, we got some latest test results to share with everybody and you got announcements on a couple of new products. So definitely some really great stuff to talk about, especially the test results for those of you are just, you know, like wondering like what does this do and how does it help me and yeah you want to definitely this is a really interesting video."
+    },
+    {
+        "start": "00:00:59.000",
+        "end": "00:01:17.000",
+        "text": "But before I can jump in though I got to do this disclaimer, just want to make sure everyone's all aware of what what the disclaimers are. So let me just really read this quickly. So neither Leleque Quantum Tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions or other information that may be mentioned in this video."
+    },
+    {
+        "start": "00:01:17.000",
+        "end": "00:01:46.000",
+        "text": "Reliance on any information appearing and discussing this video solely at everyone's own risk statements made have not been evaluated by the FSA or the FDA or any government derivatives thereof. Leleque Quantum Tech products and products that Leleque Quantum Tech may represent are not intended to diagnose treat care or prevent any disease. Thank you. So for those of you who are not familiar with Philip, this is right off of the the website. So I just wanted to kind of touch on a couple of just, you know, I've been friends with Philip for years."
+    },
+    {
+        "start": "00:01:46.000",
+        "end": "00:02:02.000",
+        "text": "And so, but I want to share with you for if you're not familiar with Philip, he's just very well rounded, interesting human being. But so I wanted to share right off of the website that Philip is a coach, a conscious entrepreneur and alpha cheat teacher and an energy healer."
+    },
+    {
+        "start": "00:02:02.000",
+        "end": "00:02:26.000",
+        "text": "And also, for those of you who know, his original roots were in the telecom industry as an executive. And he's also an actual bonafide real shaman, which is one of the most wonderful things about him that I think is amazing. And I, you know, one day we got to have a video. I'd love to just do a video about you being a shaman. That's just incredibly interesting."
+    },
+    {
+        "start": "00:02:26.000",
+        "end": "00:02:53.000",
+        "text": "Yeah. And so, but anyways, so, but you know, Philip's core competency is to transform energetic blockages and to open the hidden treasures within oneself. So, Philip understands how it is, how it is to have forgotten who we are. Why we are here, how we are blocked in regard to remembering and accessing our true inner nature and our power and our consciousness. And, and what's amazing is Philip and I met years ago, when the C60 craze started."
+    },
+    {
+        "start": "00:02:53.000",
+        "end": "00:03:23.000",
+        "text": "And that's how we kind of became friends with first the C60. You've also run another consulting, you know, I guess a business called Path of Love. So, you've got Layla Labs, which is a C60 company. And then, of course, now you have Layla Quantum Tech, which is the quantum energy focus. And it's just all wonderful. It's all get, it's all centered around this idea of, of health and well-being. So, Philip, welcome to the show."
+    },
+    {
+        "start": "00:03:23.000",
+        "end": "00:03:50.000",
+        "text": "The other thing I want to jump into before we get too deep is I just want to mention to for all of you new folks that Philip is, you know, for the Layla Quantum Tech, it's, it's not a Philip show. It's a, it's, it's a healer network. And then what's really amazing is you, when you look at the different frequencies that are available, it's all from different individuals that have got an accumulated hundreds of years together of experience in, in wellness and healing."
+    },
+    {
+        "start": "00:03:50.000",
+        "end": "00:04:16.000",
+        "text": "And so, Philip is one of six different healers. Now, I think you're, you're actually adding a seventh, right? Yeah, so it should be live on the website by now that we are having two so-called guest healers. We call them guest healers because they're not involved as often and regularly, but they have help and also provided a frequency."
+    },
+    {
+        "start": "00:04:16.000",
+        "end": "00:04:35.000",
+        "text": "And those are two, one from Europe and one that's mainly in Russia, but also active in Europe. So, yeah, those probably can be looked up already on the website. I have to update my slide. But, you know, so, but that is the one thing I really wanted to point out to everyone was, you know, Philip is an amazing person."
+    },
+    {
+        "start": "00:04:35.000",
+        "end": "00:04:59.000",
+        "text": "And then on top of that, you know, he's one of a group of people who have just unbelievable gifts and talents. And they accumulate, you know, they're together, they bring all of that to the Leila Quantum Tech. So, so it's, you know, it's not just a, like a one man show. It is literally this incredible group of people with a wide range of experience all coming together."
+    },
+    {
+        "start": "00:04:59.000",
+        "end": "00:05:20.000",
+        "text": "And that's what makes Leila very special. So I just want to, I really want to point that out to people because it's not really readily apparent because Philip is the primary spokesman. So, anyway, so these are all the wonderful healers of the Leila Quantum Tech healer network. So, let's jump in with what's new in the news. You have been a very, very busy person."
+    },
+    {
+        "start": "00:05:20.000",
+        "end": "00:05:43.000",
+        "text": "That is very true. That is very true. It's been quite busy in the last several months. But, you know, it's, it's the time right now. And I always try to check, okay, can we still do this and do that? And if I get a yes, then we'll just do it. But I'm also looking forward to a little vacation at some point in between."
+    },
+    {
+        "start": "00:05:43.000",
+        "end": "00:06:10.000",
+        "text": "Well, you know, so, yeah, because for those of you who follow me on Telegram, you know, that I'm in the process of moving Tinkers Academy from Hawaii to the mainland. So I've been kind of out of it for several weeks. And it's just amazing where I just, I haven't had time to really do any kind of tinkering or researcher, you know, even listening to podcasts. But since, like, literally, in the last few weeks since we and I chatted last with iron, you know, you've been on all these different shows."
+    },
+    {
+        "start": "00:06:10.000",
+        "end": "00:06:27.000",
+        "text": "And so, I, so for those of you who are interested in learning more about Leila Quantratec and Leila, you know, and just, you know, quantum energy, you were on the hack life, you know, and with, I believe this gentleman's name is Joel."
+    },
+    {
+        "start": "00:06:27.000",
+        "end": "00:06:54.000",
+        "text": "Joel, Joel, that's right, Joel Evans, right? And so Joel Evans, and then, of course, you're, you're, I saw that you were in the limited edition, edition box for Dave Asprey, because he does this like every three months, he does like this biohacker box, right? And then so I, but he came out with a limited edition one and there's the heel capsule in it. And then, of course, on Instagram, you've got Dave out there promoting the, you know, quantum. So that's Dave Asprey of Bulletproof."
+    },
+    {
+        "start": "00:06:54.000",
+        "end": "00:07:19.000",
+        "text": "So did you do a podcast with him or was just the, was your product just in the box? So for that, it was really just the product in the box because they had, you know, started to hear about it and then they tested it and really, really liked it. And Dave, by the way, by now, he has also an infinity block, he has the capsule, he has the water bottle, because he likes this stuff."
+    },
+    {
+        "start": "00:07:19.000",
+        "end": "00:07:47.000",
+        "text": "And we were at the biohacking conference in, you know, Orlando, and I almost jumped into this allergy test, but I think we're going to talk about that a little later, so I'll pick that ball back up then. But yeah, there will be also a podcast with Dave, though, and I think it will be like in the beginning of January. Yeah, I'm looking for, I'm actually going to download all of these and listen to them on the plane when I head to the mainland next month."
+    },
+    {
+        "start": "00:07:47.000",
+        "end": "00:08:17.000",
+        "text": "So, but yeah, awesome. So, so yeah, if you want to, you know, if you want to hear what Phil has been up to, then definitely go to the Hack Life podcast. The coming up is going to be in the Bulletproof podcast. And then of last, then you're also on the Luke story, where you just recently did that one like last week, right? With the Lifestyle podcast with Luke Story and talked about how to charge your home food supplements and pets and that's obviously Luke. I love Luke, so that's going to be a great podcast. I'm looking forward to listening to that."
+    },
+    {
+        "start": "00:08:17.000",
+        "end": "00:08:39.000",
+        "text": "And I think the most interesting thing you've done recently though is to interview Wolfgang Albright, right, of the Best Institute. I think that's amazing. How'd that go? I haven't listened to it yet and I'm really looking forward to it. So, yeah, I even suggest you possibly wait a few days and then you can check it out or do it already now because there's this second part coming."
+    },
+    {
+        "start": "00:08:39.000",
+        "end": "00:09:08.000",
+        "text": "So, this was really just the intro to talk a little bit about him, his background and also a little bit about Basel, of course. And then with the part two that was recorded on a different day, we really go into a lot more details. And it's actually, you will love that interview because I think he nailed it. The explanation actually in how these products work, which is great. Right now, I got to ask someone the question."
+    },
+    {
+        "start": "00:09:08.000",
+        "end": "00:09:30.000",
+        "text": "So, can you explain to the listeners how the products work? Because that's always difficult. We can say what it all does. We can prove all these results and verify those and all that. So, what's the picture for people to understand how it works? And, yeah, people will love that interview, I think."
+    },
+    {
+        "start": "00:09:30.000",
+        "end": "00:09:55.000",
+        "text": "And, yeah, it was in German, so we had to translate it. But I think over the next week, this will be released and I'll post the link in the Telegram group. Okay, no, that's awesome. So, for anyone who's interested in any of this material and everything else we're going to talk about today, just go look in the show notes in the video description below the video here on YouTube."
+    },
+    {
+        "start": "00:09:55.000",
+        "end": "00:10:24.000",
+        "text": "And there's going to be links to all of these different things that you can go and check out and if you're interested in learning more about it. So, yeah, okay, great. I'll definitely be looking forward to that part two of the full interview. That's going to be awesome. So, that just want to just bring everybody up to speed as to where you can find out more and learn about Leila and Philip and what's been going on and all the news and Leila Q and the news. But what I want to jump into, though, is the, I think, the most recent test results."
+    },
+    {
+        "start": "00:10:24.000",
+        "end": "00:10:51.000",
+        "text": "So, for those of you who are just learning about Leila Q or have been using Leila Q products for a while now, you know that there's been quite a bit of testing done initially. But the thing about it is that the testing is continually being done. There's more and more and more tests. And like I was explaining to Philip in the pre-show discussion here was, you know, I just, I started out as probably the biggest skeptic."
+    },
+    {
+        "start": "00:10:51.000",
+        "end": "00:11:17.000",
+        "text": "Because my entire focus prior to getting into quantum energy was bioelectrical magnetics, which is the physical realm of frequencies and energy and what those actual physical energies and frequencies do. Everything from like ultrasound machines that you see in hospitals to MRIs and I mean actual physical scientific stuff that, you know, and then so here along comes quantum energy, right?"
+    },
+    {
+        "start": "00:11:17.000",
+        "end": "00:11:35.000",
+        "text": "And it's like you can't even really define it. We actually had a video like the last video. I think we tried to define it. But, you know, and I just really was a skeptic. And one of the most amazing things about Leila Q and specifically Philip is that, you know, he continually pushes to try to validate from a scientific, from an academic standpoint."
+    },
+    {
+        "start": "00:11:35.000",
+        "end": "00:12:04.000",
+        "text": "Exactly what's happening and what the results are. And I think that's one of the most amazing things. Because of anybody who's ever been interested in any of this kind of stuff, you realize that there's not a lot of meat behind the claims. When you start looking at things from crystals to stones to, you know, there's just, it's a lot of anecdotal. But here, here has been a lot of tests and results coming out for actual results, actual measurable results."
+    },
+    {
+        "start": "00:12:04.000",
+        "end": "00:12:22.000",
+        "text": "Which is the science, right? And so I just kind of wanted to just really, I'm just really excited about it. So I've, I've went from being probably one of the business get busy, you know, biggest skeptics in the beginning to a full convert because of just the scientific data that's coming out about quantum energy and Leila products."
+    },
+    {
+        "start": "00:12:22.000",
+        "end": "00:12:50.000",
+        "text": "So I just wanted to state that out front for people who don't know who I am and where I'm coming from. I've gone from complete left brain to complete right brain and on this, on this subject. And I'm just really excited about the most recent test results. So for those of you who have not, not ever saw the website, I do want to point out real quick, if you go to the website and you just click here on research, this is the Leila website, the Leila Quantum Tech Research, you know, you'll start seeing some of the research that's already been done."
+    },
+    {
+        "start": "00:12:50.000",
+        "end": "00:13:10.000",
+        "text": "And today we're going to talk about the new stuff. Okay. So, Philip, you were, you were chatting with me on Telegram about this food allergy test you did at the biohacker conference. And it's awesome. Can you just kind of share that with everybody? Because I just was, I was blown away by what you said happens."
+    },
+    {
+        "start": "00:13:10.000",
+        "end": "00:13:38.000",
+        "text": "Yes, that was also very exciting for me actually. So I was going to present at the biohacking conference. And I certainly was thinking about, okay, what I'm going to present. And we focused on not really much about the products themselves. We didn't want this to be at all, like a sales show or something like that, but really just dive into the science."
+    },
+    {
+        "start": "00:13:38.000",
+        "end": "00:14:01.000",
+        "text": "So that's what I did. And then I was talking to Ian Mitchell, I was like, Hey, Ian, you know what, it would be great if we could do a test life on stage. And just demonstrate something. And I was already thinking about the bio well possibly. It was just a week earlier we had gotten some amazing results back."
+    },
+    {
+        "start": "00:14:01.000",
+        "end": "00:14:29.000",
+        "text": "And then he said, Hey, you know, let's let's do an allergy test. Why don't you do an allergy test? Because there are some people that are crazy enough that have allergies. Like biohacker Todd, who's a well-known, well-connected biohacker. He has about 40,000 people in his biohacking Facebook group and just a couple other groups too."
+    },
+    {
+        "start": "00:14:29.000",
+        "end": "00:14:50.000",
+        "text": "And so he's allergic to honey, to avocado and to crab meat. And he's been testing, putting these products in the block, a quantum block energy block he tested both. And each time he does it, then he can tolerate these products. He can eat the honey, he can eat the crab meat, he can eat the avocado."
+    },
+    {
+        "start": "00:14:50.000",
+        "end": "00:15:18.000",
+        "text": "So, but each time he doesn't put it in, he can't eat the egg is like because he's severely allergic, not that he would die or something, but it's like very, very uncomfortable. So then I said, you know, if that's the case, then you should be able to do the regular allergy test as well, you know, where you take this needle and then you basically, you know, sting your arm with the substance, and then you can see the allergic reaction."
+    },
+    {
+        "start": "00:15:18.000",
+        "end": "00:15:45.000",
+        "text": "So that's actually what these two guys did on stage. And so they had this crab meat. Yeah, there was 90 people there, close to 100, and right in front of them, they put this crab meat here in his right arm. It started swelling, it started to get red, it started to get very itchy, and then the same crab meat, life on stage, they put in the infinity buck that was standing there."
+    },
+    {
+        "start": "00:15:45.000",
+        "end": "00:16:08.000",
+        "text": "They put it in, I guess it was for six to seven minutes, and then they took another needle, you know, same crab meat, put it in the other arm, no reaction. And yeah, I mean, that's just over and over again, and this result repeats each and every time with Todd and we've heard it from some other people."
+    },
+    {
+        "start": "00:16:08.000",
+        "end": "00:16:37.000",
+        "text": "So now we were able to show with a real allergy taste, and that was certainly fantastic. Since I had not seen that test before, and I had never witnessed Todd doing this, it was kind of crazy for me too, being on stage there and seeing what happens, because, hey, you see it for the first time. So this was really cool and it really worked, and people were blown away. Yeah, and so we still don't recommend to anybody, and we'll never in the future, you know, to go try this, right?"
+    },
+    {
+        "start": "00:16:37.000",
+        "end": "00:16:56.000",
+        "text": "You know, don't if you do it if you're like Todd, and all that, but certainly, you know, we don't want to take on any risk there, but it's, you know, there are people that do it and have some crazy. Yeah, it's just one of those don't try it at home, folks."
+    },
+    {
+        "start": "00:16:56.000",
+        "end": "00:17:19.000",
+        "text": "Officially, do not try this at home, but you know, you know what, I just came up, that's interesting because, you know, like I talked about this before in my C60 discussions, right, that I'm allergic to MSG. I mean, I cannot eat Japanese food and Chinese food. I mean, it's just really breaks me out in a rash until I started taking C60."
+    },
+    {
+        "start": "00:17:19.000",
+        "end": "00:17:44.000",
+        "text": "And then since I've been taking C60, I have no reaction to MSG. So now you got me thinking, okay, well, maybe I just, you know, I'm going to try this. Okay, so I'm going to try this at my home, guys, but officially do not try this at home, but I'm going to definitely try this. I got to wean off the C60, go get a reaction from MSG, and then I'm going to try this, but that's, yeah, that's amazing. I definitely want to give that a try."
+    },
+    {
+        "start": "00:17:44.000",
+        "end": "00:18:06.000",
+        "text": "But that, you know, just think about the impact of what that is. If that, if you know, obviously, if you can duplicate it and people can handle this, that's pretty wild. Wow, that's really, really, so are you going to actually kind of do like an official food allergy test then, or is this all kind of anecdotal and we're all just kind of like the bio hackers are going to play around with it."
+    },
+    {
+        "start": "00:18:06.000",
+        "end": "00:18:25.000",
+        "text": "So the way I think about it about these things is, okay, we hear things that they work, then there will be tests, you know, to validate that it really works. And then, you know, now we have this. For me, we need to take it a step further, right, because we still don't know. Okay."
+    },
+    {
+        "start": "00:18:25.000",
+        "end": "00:18:46.000",
+        "text": "Across what types of allergies does it work? What severeness level may not be covered or may be covered. It's just something we just don't know from those tests that have been done, right? So I think that's something to explore to get deeper into that."
+    },
+    {
+        "start": "00:18:46.000",
+        "end": "00:19:12.000",
+        "text": "And then I'd ideally try to find out, okay, it's it works all across the board, or it's just for these 10, 20, severeness levels and substances or whatever, so that we can at least report out. We probably at that point will still not tell people to do this, but we want to provide, of course, a lot more guidance and we will gain more knowledge. So definitely we will, we will try to do more tests and studies."
+    },
+    {
+        "start": "00:19:12.000",
+        "end": "00:19:37.000",
+        "text": "No, that's great, because you know, this kind of feels, this is awesome, because it fills up that void. When I remember when when we announced the allergy frequency that I came up with, right? And how it worked really well for your maid, but that allergy frequency appears to be more for like seasonal hay fever to eliminate the symptoms of that, not necessarily allergy from food and substances."
+    },
+    {
+        "start": "00:19:37.000",
+        "end": "00:20:07.000",
+        "text": "So I was, you know, so it's so we kind of, I feel confident that we've got a frequency set for seasonal allergies, like hay fever. And now we've got a solution for substance allergies, but we got to really do a lot more experimentation. So once I can get my lab set up in my new home, which will be a couple of months, I definitely want to start playing with this. So yeah, let me let's just keep working on this. And for those of you out there who are biohackers, you know, let us know and telegram what you find out about it."
+    },
+    {
+        "start": "00:20:07.000",
+        "end": "00:20:31.000",
+        "text": "But this is amazing. It's like, hey, you know, where the smoke is, there's definitely fire, right? Oh, that's really fascinating. Okay, so now let's talk about the other most recent analysis that you're doing right now with Dr. Beverly Rubik. And I just want to kind of share with you who this person is. Now, this, I found out about Dr. Rubik through electro sense."
+    },
+    {
+        "start": "00:20:31.000",
+        "end": "00:20:56.000",
+        "text": "I'm, you know, like I said, I'm kind of a bioelectric guy. And so electro sense is a podcast about EMF, EMF mitigation. And so he had done a podcast and had, and with Beverly Rubik about EMF, EMF mitigation. So that's how I heard about her. And that's how Philip and, you know, anyway, so, but so what I want to do is I just kind of want to explain to you who this person is."
+    },
+    {
+        "start": "00:20:56.000",
+        "end": "00:21:26.000",
+        "text": "She's just this really, really, really solid, you know, academic, but she's got a PhD in biophysics at the University of California, Berkeley. She's the president, founder of Institute of Frontier Science. She's internationally renowned for research on the bio field and the field of energy with the information of living systems. I mean, you know, so she's a faculty member at Sabrook and she's a professor at Energy Medicine University. So, you know, this individual, Dr. Rubik is just really, really, really, you know, well known in her field."
+    },
+    {
+        "start": "00:21:26.000",
+        "end": "00:21:46.000",
+        "text": "And so, Philip, you want to just kind of take it from here on like you contacting her and what are we doing now? What are you doing now with Dr. Rubik? Yes, happy to. So, based on that one podcast that actually you had sent me at the time, which was interesting."
+    },
+    {
+        "start": "00:21:46.000",
+        "end": "00:21:58.000",
+        "text": "It showed basically the effects, the detrimental negative effects on the blood by EMF. And she had performed this dark field microscopy study and was talking about it."
+    },
+    {
+        "start": "00:21:58.000",
+        "end": "00:22:17.000",
+        "text": "And then I contacted her and said, \"Hey, you know, we actually may have the solution for this.\" And then she was interested and looked at the products, asked a few questions, and remained quite a skeptic, actually."
+    },
+    {
+        "start": "00:22:17.000",
+        "end": "00:22:38.000",
+        "text": "And she's actually also one that has published multiple, multiple peer-reviewed studies. And I think since over 30 years, she's been designing double blind studies and so on and so on."
+    },
+    {
+        "start": "00:22:38.000",
+        "end": "00:22:55.000",
+        "text": "And then I was like, \"Okay, so why don't you tell me what study you would do to actually validate it and see it with your own eyes?\" And I was, because I was interested, actually, in doing more studies anyway."
+    },
+    {
+        "start": "00:22:55.000",
+        "end": "00:23:14.000",
+        "text": "So I was like, \"Okay, so why not do a study here in the US with Dr. Beverly Rubik?\" And then she said, \"Hey, I would do a double blind study, a dark field microscopy.\" And definitely with one device that is charged and one that is not charged."
+    },
+    {
+        "start": "00:23:14.000",
+        "end": "00:23:38.000",
+        "text": "And yeah, then go from there. And yeah, she didn't really think that much would come out of that, and then I received an email from her actions and two or three emails. It was about two weeks ago, and she was blown away. And she said, \"It's crazy, but this really works. This really works, each and every time.\""
+    },
+    {
+        "start": "00:23:38.000",
+        "end": "00:23:53.000",
+        "text": "And I think the protocol was that they tested the people with the EMF exposure, and then they put the hands in the quantum block for, I think it was six minutes."
+    },
+    {
+        "start": "00:23:53.000",
+        "end": "00:24:21.000",
+        "text": "I may be mistaken, it may have been seven minutes or five minutes, but I think it was six. And yeah, it was able to 100% neutralize in 100% of the cases, the effects of EMF. And in many cases, actually even beyond that, it would optimize it even further. And that was really just in those few minutes, which is very, very rapid again."
+    },
+    {
+        "start": "00:24:21.000",
+        "end": "00:24:46.000",
+        "text": "And yeah, she was blown away by that. And then she found something in addition to that. And I'll have to talk in more detail about that with her, but the production of white blood cells was also increased. And she found that extremely positive and noticeable. And yeah, she now, she's all over this and wanted to know a lot more about the products."
+    },
+    {
+        "start": "00:24:46.000",
+        "end": "00:25:04.000",
+        "text": "And yeah, we'll have another call, I think, in the next 10 days to talk more about the study. And then at some point, hopefully she'll also be ready to provide the actual summary of the study and documents so that we can publish them."
+    },
+    {
+        "start": "00:25:04.000",
+        "end": "00:25:22.000",
+        "text": "Which will be exciting. So yeah, that was great to have a real skeptic and someone that's so experienced with studies and study design and all that to look at these products and see that they work. And then yeah, that was fantastic."
+    },
+    {
+        "start": "00:25:22.000",
+        "end": "00:25:41.000",
+        "text": "No, that's just, it is amazing, especially coming from Dr. Rubik. And I do want to, you know, to her credit, I do want to point out something she did say in the email, which is the idea that micro photography is not quantitative. I think it's very important because what Philip and I are talking about is that this is very, very preliminary."
+    },
+    {
+        "start": "00:25:41.000",
+        "end": "00:26:04.000",
+        "text": "The report hasn't come out yet. There's a lot more to learn, but what's really critical here is that the initial results is that the effect of quantum energy on EMF, let's say the impact of EMF. So somebody walks up to or walks into an EMF field like Wi-Fi cell towers, and they have a physical reaction to that."
+    },
+    {
+        "start": "00:26:04.000",
+        "end": "00:26:32.000",
+        "text": "And so the effect of the quantum energy from Leylo Q block was that their physical effects from the Wi-Fi from the EMF improved, they got better from it. And then most importantly, I mean, which is, this is probably, and then actually what that says, it actually validates the findings from BESA, who also did that same year, your other, the BESA and the GMAP."
+    },
+    {
+        "start": "00:26:32.000",
+        "end": "00:26:59.000",
+        "text": "That also, these other institutes had tested as well against EMF, where they found that people bioenergetically were actually doing better. So we've got now, we've got multiple different testing methodologies validating that the quantum energy mitigates the physical effect of EMF on your physiology. I think that's very, very, first of all, it's amazing. And secondly, that's very profound."
+    },
+    {
+        "start": "00:26:59.000",
+        "end": "00:27:27.000",
+        "text": "So that's what is really the important thing here, but it is preliminary. So Dr. Rubik's work is very preliminary. There's a lot more to learn, but we're here to share with you what we're finding out as we're finding out. But here's the thing that Dr. Rubik discovered that the other institutes had not mentioned before, I not looked at, was that they're finding out that there's more white blood shells. Cells are showing up in the blood following treatment, treatment, meaning putting your hands, I believe, right, in the cue block just seven minutes."
+    },
+    {
+        "start": "00:27:27.000",
+        "end": "00:27:49.000",
+        "text": "So, I mean, the body is not only being able to increase blood flow and oxygenation of the blood, but the body's producing more white blood cells when exposed to this energy from what this work is showing. So that is amazing. I mean, it is literally amazing."
+    },
+    {
+        "start": "00:27:49.000",
+        "end": "00:28:12.000",
+        "text": "So, will you be doing like a video with Dr. Rubik, like you did with other folks in your healer network and so forth to kind of explain the study as when it comes out? That's a great idea, so I'll put it on my list. That'd be great. Yeah, I mean, it's just to me, there's an entire world and universe of people who are just focused on EMF, right?"
+    },
+    {
+        "start": "00:28:12.000",
+        "end": "00:28:36.000",
+        "text": "I mean, just Google EMF, you know, and you'll get like 100,000 hits on people selling everything from stickers to you, name it, right, about EMF. And so, here we go. We've got actual scientific, you know, evidence here that you've got something that actually really does help, and then wait until you see what the jacket does. So, yeah, yeah, so that's really amazing. So, wanted to definitely share that with everybody."
+    },
+    {
+        "start": "00:28:36.000",
+        "end": "00:29:00.000",
+        "text": "Now, this other report that just recently came out, which is called the BioWell GVD Camera Analysis. Once you go ahead, I'm going to go ahead. This is the report that came out. And so, can you explain this study that you just had done? Yeah, so this specific one was actually not a full study. It was actually a practitioner that works with the BioWell that was also skeptic."
+    },
+    {
+        "start": "00:29:00.000",
+        "end": "00:29:28.000",
+        "text": "So, he had heard about the quantum block, and he was interested in it, but he wanted to do a test on his own and reached out to me. And then I was like, \"Well, okay, what we'll do here is I will send you a quantum block. You'll test it.\" But then, please also share with me, obviously, the test so that, you know, we can know what actually happened there."
+    },
+    {
+        "start": "00:29:28.000",
+        "end": "00:29:56.000",
+        "text": "And he emailed me and said that the improvement that he has seen was three times more significant than anything else he had tested before. And, yeah, on top of that, there were the energy levels that significantly increased in each chakra, and there were other positive things that he mentioned."
+    },
+    {
+        "start": "00:29:56.000",
+        "end": "00:30:17.000",
+        "text": "And, yeah, so that was basically that. We haven't really shared that yet because I didn't want to put something on the website that's just like a one-person test. You know, the results were extraordinarily positive. But as always, when we get something like that, we'll follow up with that."
+    },
+    {
+        "start": "00:30:17.000",
+        "end": "00:30:46.000",
+        "text": "And we have done so far a whole lot more of BioWell testing or not us, but the most experienced BioWell practitioner in the U.S. who sort of also BioWell representative, he was actually at the biohacking conference, and for one day of those three days that we were there, he was actually testing people at our booth before."
+    },
+    {
+        "start": "00:30:46.000",
+        "end": "00:31:05.000",
+        "text": "And then they were able to put their hands in the infinity block or the quantum block, and then he tested them again. So he did a lot of before and after testing, and probably in the next two weeks, we will receive a full study and scientific report from him, and that's what we're also going to share on the website then."
+    },
+    {
+        "start": "00:31:05.000",
+        "end": "00:31:34.000",
+        "text": "Yeah, it's quite profound. This is the BioWell, by the way, in case anyone is not familiar with that, it's a registered medical device in Europe and in Russia, and it's also widely being used with alternative health practitioners. In the U.S. it's not registered here by the FDA, I don't think the company wants to go through the hoops of dealing with the FDA, that's what I kind of heard."
+    },
+    {
+        "start": "00:31:34.000",
+        "end": "00:31:50.000",
+        "text": "And it works with a gas discharge photography, basically. It's hard to explain, but you put each of your fingertips in there, and then there's a special picture that is taken with a reaction."
+    },
+    {
+        "start": "00:31:50.000",
+        "end": "00:32:05.000",
+        "text": "And it's very, very scientific actually, and then it can show you different energy levels, how they change, and how your organ function has been improved or not improved, etc."
+    },
+    {
+        "start": "00:32:05.000",
+        "end": "00:32:25.000",
+        "text": "Yeah, oh yeah, so I kind of like, I did a little research, I'm very unfamiliar with this myself, and so he's using this other individuals using a different tool called the GDB Camera, so I did find some references on the Internet, so the links are below for those of that want to understand this particular methodology."
+    },
+    {
+        "start": "00:32:25.000",
+        "end": "00:32:48.000",
+        "text": "Dr. Rubik is doing, I believe microscopy, looking at the blood under Darkfield Microscopy, but this other individual is using a GDB Camera, so on this link here that'll be in the description, there's some scientific basis here where you can actually understand what a GDB Diagnostics is, and it's a validity."
+    },
+    {
+        "start": "00:32:48.000",
+        "end": "00:33:07.000",
+        "text": "Now this is something, as Philip just mentioned, was developed by a Russian, I believe it was a Constantine Kortikoff, and he developed this, and what it really is just real quickly is the GDB method is based on the simulation of photon and electron emissions from the surface of the object while transmitting short electrical pulses."
+    },
+    {
+        "start": "00:33:07.000",
+        "end": "00:33:35.000",
+        "text": "So it's all about measuring bio photonics, and this is how this is what it looks like, it's a little box that works with software, and it's been around for quite a while, in fact, you know what was interesting, as I mentioned to Philip earlier that Dr. Rubik herself actually has bio well products on her website and uses them herself, so I thought that was pretty amazing, you know, because a lot of sometimes, you know, you've got, there's so many different little devices out in the world"
+    },
+    {
+        "start": "00:33:35.000",
+        "end": "00:33:51.000",
+        "text": "that claim that they can measure stuff and do things, but there's not a lot of validity or a lot of, you know, like, you know, substance behind them, but this one right here, there definitely is something there, so I want to learn more about this later, but I thought that was really fascinating"
+    },
+    {
+        "start": "00:33:51.000",
+        "end": "00:34:08.000",
+        "text": "that somebody had one of these devices used it and discovered, and I think, again, you know, I really don't know how to read this, but I think one of the things that really pops out though was right here when they're measuring the energy reserves of the subject, and that the energy reserves"
+    },
+    {
+        "start": "00:34:08.000",
+        "end": "00:34:37.000",
+        "text": "at least 60% after being exposed, which means you're exposed to the quantum energy, your energy goes up, but yeah, a lot more to learn here as well, so just, you know, we just wanted to share, you know, some of the stuff that's going on, and it is quite fascinating, so yeah, definitely, so we got the food allergy tests, the work that Dr. Rubik's doing, and the GVD camera analysis tests, and so there's a lot of new infrastructures, and so I think that's what we're going to do with it."
+    },
+    {
+        "start": "00:34:37.000",
+        "end": "00:35:06.000",
+        "text": "There's a lot of new information coming out, and all it does is continually stacks on top of each other in validating the benefits of quantum energy and Leila products, so it's really cool. Now, the last thing I definitely want to talk about is that this autism study that you've, that's being, that was commissioned by doctors in India, and you did mention to me that it's going well, so do we have any more information about"
+    },
+    {
+        "start": "00:35:06.000",
+        "end": "00:35:35.000",
+        "text": "how that study's moving along, because I know that there's other participants along with you who own eye blocks that are helping out with this study, so how's that coming? Or could you describe it in general, and then how's it coming? Yeah, so I want to start off with a big thank you to everybody that is actually helping with this study, that's a phenomenal group of people that is helping out, and it wouldn't be possible without them."
+    },
+    {
+        "start": "00:35:35.000",
+        "end": "00:35:55.000",
+        "text": "So, it's indeed, it's a clinic in India that has been focused on helping autistic kids, and they have multiple programs that they've developed over time on how to help these kids, and then they had discovered and heard that"
+    },
+    {
+        "start": "00:35:55.000",
+        "end": "00:36:19.000",
+        "text": "the quantum products, specifically the quantum block and infinity block, had positive impacts on people with autism. So, then they started doing some tests, and then they reached out and said they would be very interested in running a real clinical study."
+    },
+    {
+        "start": "00:36:19.000",
+        "end": "00:36:43.000",
+        "text": "I don't think in the US we would have done a real clinical study because we're not really interested in being a medical device for any of our products. As far as that goes, but India works a little bit differently, and India is also relatively open to, yeah, a holistic way to not just the usual, if that makes sense."
+    },
+    {
+        "start": "00:36:43.000",
+        "end": "00:36:53.000",
+        "text": "So, they went through an official review board and registered the study and everything, and it's indeed now a full-blown clinical study."
+    },
+    {
+        "start": "00:36:53.000",
+        "end": "00:37:14.000",
+        "text": "And now the study will continue for another, I think, three to six months, then we'll be happy to share the full-blown results of that, but I can certainly give some input already today."
+    },
+    {
+        "start": "00:37:14.000",
+        "end": "00:37:42.000",
+        "text": "So, what we're testing is actually the infinity block, and because of the logistical challenges, we know that in the perfect world, really it would be that infinity block would be in each of the homes of those families. But it's a quite large study, so it's not just like five or ten people, it's really a whole lot more, and it's multiple groups of kids."
+    },
+    {
+        "start": "00:37:42.000",
+        "end": "00:37:59.000",
+        "text": "And so we're working solely with a quantum entanglement in this first phase of the study, and we have seen results already, so it's something that takes time."
+    },
+    {
+        "start": "00:37:59.000",
+        "end": "00:38:18.000",
+        "text": "I think autism isn't something light, it's something pretty profound and something pretty deep, and one of the biggest challenges that these kids, in this case, have is that they're sort of constantly in a different reality, if you will."
+    },
+    {
+        "start": "00:38:18.000",
+        "end": "00:38:44.000",
+        "text": "So, in the here now, they're not really present, and they're constantly somewhere else, and so what we've learned through Roman and his way of looking at this is that, especially the energy of the infinity block supports and helps to be a lot more present here and gives them sort of this signal that"
+    },
+    {
+        "start": "00:38:44.000",
+        "end": "00:39:10.000",
+        "text": "this is where everything is going on, so that there's more focus here. And Roman noticed within the first two or three weeks already that significant shifts happen in the whole energetic and physical system with these autistic kids, and then over time, the clinic has been"
+    },
+    {
+        "start": "00:39:10.000",
+        "end": "00:39:37.000",
+        "text": "observing everything, and they've also been collecting regular feedback from the parents. And one thing that's standing out is that the speaking has improved. So overall, and on average, they can already say today that based on everything that has been done, speaking has been more easy now for the kids, they speak a little bit more."
+    },
+    {
+        "start": "00:39:37.000",
+        "end": "00:39:59.000",
+        "text": "It's more clearly, and I would not call this, like, there's like a significant huge difference, but some of these parents, for some of these parents, it is quite significant, even if it's just, you know, continuous, small improvements because they can see the direction and where that's going,"
+    },
+    {
+        "start": "00:39:59.000",
+        "end": "00:40:19.000",
+        "text": "and they can really notice that change, and speaking seems to be one of, I'm not too familiar, I don't have such a big background in this autism, but it seems to be one of the big concerns that they just don't speak. And if you're able to then communicate better, that's such suddenly a great thing."
+    },
+    {
+        "start": "00:40:19.000",
+        "end": "00:40:35.000",
+        "text": "So that is one thing that was noticed. In some other cases, not validated across all, but in other cases, it was reported that they've become more calm and less aggressive."
+    },
+    {
+        "start": "00:40:35.000",
+        "end": "00:40:57.000",
+        "text": "At the same time, very early on, that was interesting, there was more crying and more laughing, more sudden crying and more sudden laughing, and that was especially in the first three, four, why that was happening, but it was really reported across the board."
+    },
+    {
+        "start": "00:40:57.000",
+        "end": "00:41:10.000",
+        "text": "And we asked Roman about that and he said that that's actually because the shift is happening, and there's so much emotional release happening because of this shift."
+    },
+    {
+        "start": "00:41:10.000",
+        "end": "00:41:35.000",
+        "text": "And yeah, once that was actually reported back to the parents, they suddenly got a much better idea of what was happening there with the kids and were welcoming a lot more, which produced even more positive changes, because certainly it's important how parents also react to the kids, right?"
+    },
+    {
+        "start": "00:41:35.000",
+        "end": "00:41:51.000",
+        "text": "If you're in public and your kid suddenly starts laughing loud in the grocery store, you know, if you tell the kid, \"Hey, shut up and don't do this and all the vignettes,\" you know, and then the kid doesn't understand that, right?"
+    },
+    {
+        "start": "00:41:51.000",
+        "end": "00:42:09.000",
+        "text": "And then again, something negative against the kid and it can block other things again, but them actually providing the loving space that this is allowed and can happen, it's actually a positive thing that these emotions can come out further help."
+    },
+    {
+        "start": "00:42:09.000",
+        "end": "00:42:30.000",
+        "text": "We're learning a whole lot. It's also, again, it's preliminary. The study is by far not ended, but there's some really good indications. And yeah, the clinic in India actually wants to now really get into our products because they're really seeing those results."
+    },
+    {
+        "start": "00:42:30.000",
+        "end": "00:42:54.000",
+        "text": "They're very happy about it. They want this to be a regular part of their program moving forward. They say that already today. Wow, that's amazing. I mean, I think my heart goes out to any parent that has a child on the spectrum. And I read a lot about this, so I understand that just unbelievable challenges."
+    },
+    {
+        "start": "00:42:54.000",
+        "end": "00:43:12.000",
+        "text": "And yeah, vocalization, any improvement at all is huge. But it sounds like we're getting some really good early results. So are we looking at this study going for like a couple more months and then they're going to kind of wrap up with like, you know, what the changes were? Is that kind of how this is going to work out?"
+    },
+    {
+        "start": "00:43:12.000",
+        "end": "00:43:38.000",
+        "text": "Yeah. So I'm glad you're bringing it up. So it's probably going to be for another five, six month in total. But what is being added now is a specific frequency set that we've developed together with Roman. Oh, okay. For these kids, because so for something that they can have literally physically with them as well, and it's actually for for the kids."
+    },
+    {
+        "start": "00:43:38.000",
+        "end": "00:44:05.000",
+        "text": "We're going to test it for the kids that have been treated with the infinity block and are then done with the treatment. Basically, they just move into now having just this physical product so that they can keep this energy around. But not having to purchase an infinity block now. And we by the way, we provide all of this for free. And now they're going to get these pendants and we all certainly give that for free to all the parents."
+    },
+    {
+        "start": "00:44:05.000",
+        "end": "00:44:22.000",
+        "text": "So there's no one paying anything. It's just us providing that. And then that will be tested. And then with some batches, it will be tested how the infinity block works in conjunction with this pendant."
+    },
+    {
+        "start": "00:44:22.000",
+        "end": "00:44:50.000",
+        "text": "And then it's charged with this specific frequency set. And so the specific frequency set is actually the heel that you would have in the regular here capsule as well combined with a specific frequency for autism. Okay. Well, so it's something that specifically was created by Roman in order to help with that. And then in addition, go ahead."
+    },
+    {
+        "start": "00:44:50.000",
+        "end": "00:45:16.000",
+        "text": "No, just for this study, right? And we're not going to, are you going to put it on the website or you want to validate it first before we. Yes, I mean, it's not just for those kids, but it would help. And that's at least the intention and the thought everyone with with autism. But of course, now we're going to test it first in this whole setting before we put anything like that on the website."
+    },
+    {
+        "start": "00:45:16.000",
+        "end": "00:45:31.000",
+        "text": "And I don't know if we even will will go into these niche products, but we have it. And I'm pretty positive. I think it'll work usually Roman is not wrong with what you see."
+    },
+    {
+        "start": "00:45:31.000",
+        "end": "00:45:58.000",
+        "text": "And so that's that. And then we have an additional frequency that we created. And it's on a card. It's provided now to the clinic, which is Mr. Teen, which I didn't know. It seems to be some antifungal substance that it seems that most of the kids or a lot of those kids suffer from"
+    },
+    {
+        "start": "00:45:58.000",
+        "end": "00:46:25.000",
+        "text": "this type of that they have some fungus and what have you and they need to take this Mr. Teen physically in order to help with that. And what we did now is we created that as a frequency card only for the kids that obviously need it, but in order to see, Hey, you know, could this be a substitute or can at least, you know, make it a whole lot better that, you know, the physical substance works a whole lot more."
+    },
+    {
+        "start": "00:46:25.000",
+        "end": "00:46:52.000",
+        "text": "So that's where we're coming at it from a few different angles. And it's definitely an interesting study. It's a lot of fun. And it's very touching as well. But again, so for everybody listening, we at this point, I'm not out there saying, Hey, you know, this will fix those problems. It's, I don't think it's something. It's a condition that can easily be solved. It's just something where you add various pieces."
+    },
+    {
+        "start": "00:46:52.000",
+        "end": "00:47:14.000",
+        "text": "And, Hey, yeah, you know, if this helps and supports. Great. But but don't think right now you're going to get one of those blogs and then, you know, after three weeks, everything has changed. No, I think there's. You need to be constantly added and we'll we'll provide more guidance. Obviously, when we know a lot more."
+    },
+    {
+        "start": "00:47:14.000",
+        "end": "00:47:31.000",
+        "text": "No, that's awesome. Absolutely awesome. I mean, because I'm only asking because I know that the minute any parent of an autistic child hears this video. They're going to go, Oh, where can I try this? You know, because, but it's again, you know, so we want to clarify that it's preliminary."
+    },
+    {
+        "start": "00:47:31.000",
+        "end": "00:47:57.000",
+        "text": "I've actually was working earlier this year with with loan leap, you know, with his son. And so I was trying to figure out what combination of existing frequencies was was was most beneficial and loan leaps and working on it with biofeedback and, you know, helping his son. And we actually did see some really great improvements with the quantum entanglement using the I block as well. So I mean, so yeah, it's just really promising. It's very preliminary."
+    },
+    {
+        "start": "00:47:57.000",
+        "end": "00:48:25.000",
+        "text": "This is just an update video to let you know what's going on, what we're, you know, what we're finding out what's working, what's not working. But yeah, this looks so awesome. And it just sounds great because, yeah, I just know that this is such an area where people suffer that anything, any little tiny improvements, a huge deal. So that's awesome. And, you know, and you, and you funding the whole thing. You know, hey, you know, kudos to you and crew and, and you know, God bless you for that. Really."
+    },
+    {
+        "start": "00:48:25.000",
+        "end": "00:48:43.000",
+        "text": "So thank you. And by the way, so loan leap was a good keyword because if you're still in contact with them, free of free to let them know about this frequency and, you know, for him, we can certainly also make it available if he's interested."
+    },
+    {
+        "start": "00:48:43.000",
+        "end": "00:49:08.000",
+        "text": "Oh, absolutely. Yeah, we've ready. We ready between. There's a couple of us helping him and he's already got himself a block. And I was trying to figure out the exact same thing, right? Because I was using quantum entanglement, which improved his scores, right? Because he's got caregivers that score him every single day. And so by putting him in the block on a Monday, he improved on the Mondays, but the other days were the same kind of thing."
+    },
+    {
+        "start": "00:49:08.000",
+        "end": "00:49:32.000",
+        "text": "So that was really amazing. And then through a donation, you know, we got him a block. And so then not only is he doing it. So then I switched from quantum entanglement from Hawaii to where he lives, but now he actually has a block in his house. And then what I was thinking was exactly what you were thinking, which was, well, how about something he could carry? You know, like, let's let's give him a pendant, but then what frequencies would we, you know, charge the pendant with."
+    },
+    {
+        "start": "00:49:32.000",
+        "end": "00:49:57.000",
+        "text": "So we were going along the same lines. And so, and I last I heard from lonely was that the improvements are, you know, they come and go, but in the long run, like, you know, when you look at it from a long term basis, they're steadily increasing. So, you know, so it's not like every single day, there's no miracles. I mean, this is not, you know, not like kind of thing, but when you look at it over the course of months, it's better now than it was."
+    },
+    {
+        "start": "00:49:57.000",
+        "end": "00:50:24.000",
+        "text": "And so that's to me, the most amazing result was that it helps. And even if it helps a little, right? I mean, even if it helps a tiny bit, that's better than it was yesterday. And, and so, yeah, this is great. So. Awesome stuff, everybody. I mean, absolutely awesome stuff. So now let's talk about, and so we got, we talked about the latest testing and analysis and, and the study results. And I think they're just amazing."
+    },
+    {
+        "start": "00:50:24.000",
+        "end": "00:50:50.000",
+        "text": "But I definitely want to share with everybody, though, because, hey, you know, it's October, Halloween is a couple of weeks away, winter is on the way. So let's talk about some of the new products that you've got coming out, especially the Layla Quantum Jacket, which is now available because originally in early in the year, right, we were, you were going to try to do a Kickstarter. And then now you decided, hey, let's really sit as a regular product. So we kind of want to just announce that today that there are some new products on the website."
+    },
+    {
+        "start": "00:50:50.000",
+        "end": "00:51:14.000",
+        "text": "And today, as of today, the Quantum Jacket is now available for sale. And just like any of the other Layla products, it's also gone through testing. So we wanted to kind of just share with everybody today that, hey, the Quantum Jacket's now available. And by the way, my daughter got hers and she loves it. And it's just too hot now to still wear, though, but she wants to get colder. She's planning on wearing it and she likes it."
+    },
+    {
+        "start": "00:51:14.000",
+        "end": "00:51:36.000",
+        "text": "And so if anyone who is interested in the jacket, it's now for sale. It's been tested. Let's talk about those test results. And what do they mean? You know, how do you test a jacket? So some of the information about it is that, and I don't, maybe I'll just let you kind of talk like, what is the jacket made out of? And what did you do with it and why is it special? Once you go, you want to go ahead and just explain that?"
+    },
+    {
+        "start": "00:51:36.000",
+        "end": "00:52:01.000",
+        "text": "Yeah, absolutely. So it's, you know, in a way, it's a normal looking jacket. We think it looks good. It looks cool. It's comfortable. And it has a hood and it's black. So we only have it in one color for logistic purposes. And we found that black is just the color that most people like."
+    },
+    {
+        "start": "00:52:01.000",
+        "end": "00:52:29.000",
+        "text": "And where, and then in the inside, it'll, it's silver because the whole inside pretty much is filled with this high purity silver fabric. And this by itself blocks way over 99.9% of any EMF. So that is already a great thing. It's antimicrobial. It's antifungal antibacterial."
+    },
+    {
+        "start": "00:52:29.000",
+        "end": "00:52:58.000",
+        "text": "And so that's already great. There's. So. Okay, I just lost you for about a minute. Go ahead, keep going. Oh, okay, sorry for that. So it's. Yeah, it has all these benefits already and there's no other jacket like that. But then on top of that, this high purity silver fabrics."
+    },
+    {
+        "start": "00:52:58.000",
+        "end": "00:53:18.000",
+        "text": "Contains the pure quantum energy. So the whole jacket is charged with the quantum energy and the silver fabric specifically can hold and transmit the quantum energy very, very well. So as you're wearing it, you're not only getting the positive effects from the."
+    },
+    {
+        "start": "00:53:18.000",
+        "end": "00:53:33.000",
+        "text": "From it being antimicrobial and that it blocks the EMF. No, it provides your whole body and especially all of your organs, you know, your lungs, your liver and everything with this positive quantum energy."
+    },
+    {
+        "start": "00:53:33.000",
+        "end": "00:53:52.000",
+        "text": "And it has a measurable effect. So we had that you give institutes you certainly do the EMF testing, and we got certified with this jacket, but then a base I went in and tested it as well. And we had incredible results across the board."
+    },
+    {
+        "start": "00:53:52.000",
+        "end": "00:54:09.000",
+        "text": "And on top of that, a doctor's practice also did the dark field microscopy pictures before and after with the jacket. And yeah, has shown fantastic results. It's again something where you're like, okay, you're wearing a jacket."
+    },
+    {
+        "start": "00:54:09.000",
+        "end": "00:54:23.000",
+        "text": "I can understand that it blocks EMF, but that it transmits this quantum energy. That's that's again elite. But hey, again, we're able to prove it each and every time that this works and that it does that. And people feel it."
+    },
+    {
+        "start": "00:54:23.000",
+        "end": "00:54:40.000",
+        "text": "Literally people feel that I know crew like she wears it each time she flies on an airplane. It's just, it's so comfortable. And it's just such a nice energy to be with."
+    },
+    {
+        "start": "00:54:40.000",
+        "end": "00:54:59.000",
+        "text": "And yeah, so that's the nice thing. People can feel it that they'll they'll feel, you know, in a good vibe, basically, when they were this jacket, and it has an impact on the well being. And I don't know if you have those dark field microscopy pictures or if I was too early to talk about those."
+    },
+    {
+        "start": "00:54:59.000",
+        "end": "00:55:28.000",
+        "text": "Oh yeah, let's jump into that. So bottom line, though, that what makes this jacket special is that it's an EMF shielded fabric that's been charged with quantum energy. So it's got a, it's got a, it's an enhancement. It's the only one out there. I went around and googled all I could find, you know, and there's nothing on the market like this. You can find EMF shielded fabrics and clothing, but you cannot find, you know, that charged with quantum energy."
+    },
+    {
+        "start": "00:55:28.000",
+        "end": "00:55:56.000",
+        "text": "And you get this double benefit. So it's very unique. And that's what kind of makes it special. But I kind of want to point out something about why, in my personal opinion, why, why ran out and as soon as Philip said, Hey, I'm selling jackets, I got one for my daughter. I'm going to get one for myself. I'm just kind of a larger person. I need a bigger size. But, but the idea though is that, you know, one of the things that I want to point out real quickly is that, you know, the evolution of technology, and this is the problem that we all face right now with EMF for those of you."
+    },
+    {
+        "start": "00:55:56.000",
+        "end": "00:56:17.000",
+        "text": "We're not quite familiar with what EMF is. It's electromagnetic frequencies. And what has been going on is that the evolution of technology has caused us to become smothered in an electro smog, where, you know, like, let's say 80 years ago, you know, it wasn't that, you know, it wasn't that detrimental to our health."
+    },
+    {
+        "start": "00:56:17.000",
+        "end": "00:56:40.000",
+        "text": "And then as time goes on, you no longer can avoid it. Like, you know, when I originally like 20 years ago, I'm a little sensitive to EMF, you know, and I could block myself from it. I could put up shielding from it. I could, you know, and I could, I could easily wear protective clothing and like I've got one of Philip's beanies and I wear that when I'm outside so I don't get headaches and things like that."
+    },
+    {
+        "start": "00:56:40.000",
+        "end": "00:57:02.000",
+        "text": "The building I live in has a metal roof and I put shielding on the walls and I was able to measure the EMF. I was able to block the EMF. But what's happening now in this, you know, in this timeframe is that now the satellites are now beaming Wi-Fi directly to the planet. There's over 20,000 satellites now beaming Wi-Fi directly into the planet."
+    },
+    {
+        "start": "00:57:02.000",
+        "end": "00:57:31.000",
+        "text": "You can no longer physically shield yourself from your Wi-Fi router or from a cell tower or whatever or in your car because you are now in the electro smog 24 hours a day. So there are no safe spaces where they're used to be, but there aren't anymore. So because of this spectrum right here, you're looking at the cost of all the different electromagnetic frequencies ranges. You know, there's only a very healthy span right here under 10 hertz."
+    },
+    {
+        "start": "00:57:31.000",
+        "end": "00:58:01.000",
+        "text": "10 hertz and unler or actually 50 hertz and under is considered safe and then the visible sunlight is considered healthy and safe, but everything else is just not conducive towards our health. And as you move farther to the right, which is where technology is going, then it just gets worse and worse and worse like this medical x-ray. You go through the TSA thing at the airport and you get on an airplane, you're going to be subjected to some serious microwave and cosmic radiation sources up in the sky and so forth."
+    },
+    {
+        "start": "00:58:01.000",
+        "end": "00:58:29.000",
+        "text": "So everywhere we go now, you just can't get away from it, which is why I'm actually, I'm promoting shielded clothing. I'm promoting charged shielded clothing. I think this product that you're launching is exceptionally what we need today. Now, you know, in this timeframe, because of this, what's happening with this electro smog and us being smothered with it because the more the technology advances, the more worse subjected to electro smog, the worse it's going to get."
+    },
+    {
+        "start": "00:58:29.000",
+        "end": "00:58:54.000",
+        "text": "And everyone needs to start really honestly taking it seriously. You need to shield and then what's even more amazing is this quantum energy is coming along and the benefits from that. So let me just kind of point out, we're going to talk about the test results on the quantum jacket itself. And let me explain why it's important. Now, all of that negative EMF, the radiation, it's basically radiation, it causes some really negative symptoms."
+    },
+    {
+        "start": "00:58:54.000",
+        "end": "00:59:16.000",
+        "text": "So you can Google the symptoms of exposure to EMF and you will come up with a bunch of material that will basically, you know, run down this bullet list of things that could go wrong with you and do go wrong with you when exposed to EMF. And one of those things that happens to you is that it induces what they call a Rolex formation in red blood cells."
+    },
+    {
+        "start": "00:59:16.000",
+        "end": "00:59:41.000",
+        "text": "Okay, and what that does is it causes your blood cells to clump up and then it deprives your body of oxygen. So you become oxygen deprived and it also causes, and what a lot of people don't realize, it causes dehydration as well. So lack of oxygen and lack of hydration, you know, right off the bat, you are going to get very messed up if you let that go for a long period of time."
+    },
+    {
+        "start": "00:59:41.000",
+        "end": "01:00:10.000",
+        "text": "So then you've got this problem of what happens when your body has less oxygen than it really needs and you have all of these different symptoms that come up. So if you are suffering from a bunch of different symptoms and you don't know why, you might want to consider that EMF is probably a problem. Again, no matter where you live, you're being exposed. So right off the bat, I mean, but the whole idea was, you know, in terms of fatigue, cognitive impairment, depression, digestive problems, you know, easily get tired, irritability, lung problems,"
+    },
+    {
+        "start": "01:00:10.000",
+        "end": "01:00:37.000",
+        "text": "all of these things are symptoms of oxygen deprivation and oxygen deprivation is one of the key effects of EMF and that's because of the formation of the red blood cells. And they call it like little Rolex is just a French word for a roll of coins. Okay. So that's kind of what was discovered in the testing that was done by BESA in Austria, right, when they tested the jacket for Leila Quantum Tech."
+    },
+    {
+        "start": "01:00:37.000",
+        "end": "01:01:01.000",
+        "text": "So what they basically did, and I just kind of explained the testing because I read the study, was they just would take test subjects and they would expose them to Wi-Fi, either Wi-Fi router, they'd hold on to a cell phone. But either way, they would expose them to Wi-Fi and then they would then have them wear the jacket and then they would measure them again. And what they were measuring them with was they did it in several different ways."
+    },
+    {
+        "start": "01:01:01.000",
+        "end": "01:01:25.000",
+        "text": "And one of the ways, I believe, was they were using a decavole in one case and they were also measuring the blood. The decavole, again, just like the GVD camera is backed by actual real science, Dr. Ron Hyde-Vole, you know, and so forth. So you can read about that, links below. But they also really were doing a lot of testing using dark field microscopy where they looked at the people's blood."
+    },
+    {
+        "start": "01:01:25.000",
+        "end": "01:01:54.000",
+        "text": "So there's two different ways that they measured the impact of this EMF and radiation on a person before and after they were exposed to Leila Quantum Tech energy. And so that's kind of what we wanted to share with you, which is so right off the bat, let me just point out two specific individuals that were in the study. So this was what they refer to the first person as ProBAN-5. And so, Philip, I'll let you explain what we're seeing, but right off the bat, this is right from the study."
+    },
+    {
+        "start": "01:01:54.000",
+        "end": "01:02:19.000",
+        "text": "So ProBAN-5, the test subject was 68 years old, or young, and according to conventional medicine, suffers from lung carcinoma that is already, you know, that is already which is in the process of healing. So this individual has carcinoma. And so then what they did was they took a microscope picture of his blood before and after."
+    },
+    {
+        "start": "01:02:19.000",
+        "end": "01:02:43.000",
+        "text": "So this was the first picture of before putting on the Leila Quantum jacket. So can we describe like what we're looking at here? This is the individual's blood coming in from the street. Yes. Yes. So this is a terrible picture of blood. I mean, the picture is good, but the blood looks just terrible."
+    },
+    {
+        "start": "01:02:43.000",
+        "end": "01:03:06.000",
+        "text": "You know, you usually see many roles with people that are unhealthy. In this case, it's just the blood is just clogged all over the place. There's a lot more to it that specific doctors would be able to point out. It's unhealthy blood. It obviously shows that there's something really wrong with the body with the blood."
+    },
+    {
+        "start": "01:03:06.000",
+        "end": "01:03:27.000",
+        "text": "There's a higher risk of heart attack and heart disease also and stroke. So yeah, that's pretty much what you see. And then once we see the second picture, I think that's..."
+    },
+    {
+        "start": "01:03:27.000",
+        "end": "01:03:57.000",
+        "text": "Okay. So the report says that basically this is the before. I mean, they're just like all the blood cells of the form. There's lots of extra material in the blood. They're all clumped up. There's very little oxygenation going on right here. So now the individual then put the jacket on and wore the quantum jacket for 15 minutes. And they took another blood sample. And this is the same person 15 minutes later."
+    },
+    {
+        "start": "01:03:57.000",
+        "end": "01:04:12.000",
+        "text": "Exactly. This was absolutely incredible also for the doctor and for the patient himself actually to see this because that's something you wouldn't even think you can achieve in a few months."
+    },
+    {
+        "start": "01:04:12.000",
+        "end": "01:04:30.000",
+        "text": "This is a very, very rapid change. And it's extremely significant. You can now see the blood cells being set nicely separated. And even someone that doesn't know much about dark field microscopy, I think, can see the absolutely significant improvement."
+    },
+    {
+        "start": "01:04:30.000",
+        "end": "01:04:59.000",
+        "text": "Yeah, this is definitely there. Yeah, I mean, it goes from really nasty clumpy mess to now it's free flowing here. All the cells are looking really plump and very healthy and they're absorbing oxygen and carrying it around. There's still quite a bit of garbage in the blood cell and the bloodstream right there, but nothing compared to the original picture. So really an amazing response, a physical response in the body, a physiological response from just wearing the jacket for 15 minutes."
+    },
+    {
+        "start": "01:04:59.000",
+        "end": "01:05:20.000",
+        "text": "So the second subject now, they took someone, well, the first one was Pro Band 5 and this was individual with carcinoma. So very sickly he put on the jacket and he got better. Now subject number six, Pro Band 6 was 60 years old, athletic and suffers from no physical stress. So here's a healthy person walking in the door. And this is what the healthy person's blood looked like."
+    },
+    {
+        "start": "01:05:20.000",
+        "end": "01:05:49.000",
+        "text": "So there were still some free flowing red blood cells, not as much, you know, garbage in the bloodstream, but you can see now this is where you can not, you know, it's, you can see the coin formations, the Rolex formations. The other one was so bad. It was just a flat out clump. But here you can see these little rolls of red blood cells where they're all stacked together. And when the red blood cells stack together, you have less surface area, which means less oxidation, right? So that's why that's why that's not a good thing."
+    },
+    {
+        "start": "01:05:49.000",
+        "end": "01:06:16.000",
+        "text": "But even with a healthy person, you can see these formations and it's not, and they're, while they're free flowing, there's lots of different clumpings of red blood cells and that's before. So this is what's amazing. 20 minutes after he puts on the jacket, look at what we see. And so, again, just a completely different picture, you see the blood cells now free flowing, you don't see the money rolls anymore."
+    },
+    {
+        "start": "01:06:16.000",
+        "end": "01:06:44.000",
+        "text": "And I mean, I think I see just two being on top of each other there on the upper left, but other than that, there's really nothing left in terms of this clumping. And yeah, it's, so that's what we wanted to do. We wanted to look at both sides of what does it do with a healthy person. What does it do with someone that really has a disease and is considered very sick. So yeah, that was great."
+    },
+    {
+        "start": "01:06:44.000",
+        "end": "01:07:12.000",
+        "text": "You know, it's amazing. I just, I hope that one day we can figure out exactly how quantum energy does this to the blood. All we know so far is if you, if you subject yourself to the quantum energy, right, put on the jacket, this also happens when they put on a heel capsule, or they put their hand in a cube block by the way everybody. We have the same exact pictures right from a different subjects, but, but the idea that it's just amazing like this is what you do and this is the result."
+    },
+    {
+        "start": "01:07:12.000",
+        "end": "01:07:37.000",
+        "text": "We don't know yet how that happens, but this is what's being the results. This is, you know, this is what happens and it's quite amazing. So the ability for your body to get enough oxygen is greatly enhanced. Plus, you know, the whole idea about, you know, like just everything from hydration to all that other list of bullets that are just amazing. So, so this are, this is the test results from the Leila quantum jacket."
+    },
+    {
+        "start": "01:07:37.000",
+        "end": "01:08:07.000",
+        "text": "So for those of you who are concerned about EMF or want to try something different or something new, the further protect you and further just enhance your well being, you know, you know, hey, give it, give it a thought, you know, and it's definitely, and it's winter. Winter's coming and Christmas. So just kind of want to promote the jacket. So I mean, I think it's an awesome product. It really is. So now the other last thing I do want to share before we close off is that there's another new product out there in addition to the jacket."
+    },
+    {
+        "start": "01:08:07.000",
+        "end": "01:08:32.000",
+        "text": "And you've created a new frequency set that you just released on your website. So it's called the happiness and for every young. So could you describe what that one is because that's a brand new frequency that you just put out. Yes, absolutely. And by the way, for everyone listening, the jacket is being launched. It's already launched now, as we just saw, but it's also launched with a discount."
+    },
+    {
+        "start": "01:08:32.000",
+        "end": "01:08:55.000",
+        "text": "So just so you know, and then these two cards as well, they're currently also available at a launch discount, which, oh yeah, if you ever want to check our discount, go ahead. Yeah, so go ahead. If you go to the Layla Q website and you just scroll to the bottom of the homepage, you get the special deals section right here."
+    },
+    {
+        "start": "01:08:55.000",
+        "end": "01:09:20.000",
+        "text": "And so that's where you can see where you can get this offer on the Layla Quantum Jacket. And then there's also this brand new happiness and forever heal or forever young. And then of course you've got the DNA cell protection card. So there's four specials going on right now. This is the launch special on the jacket. And then of course this new frequency set. So how would you describe this new frequency, this happiness and forever young?"
+    },
+    {
+        "start": "01:09:20.000",
+        "end": "01:09:49.000",
+        "text": "So with forever young specifically, I would refer to the one video that you and I made at some point where I think we talked about it a little bit. And in a nutshell, it basically has an energetic rejuvenating effect that is felt in a very energetic way, but also noticed by the cells."
+    },
+    {
+        "start": "01:09:49.000",
+        "end": "01:10:07.000",
+        "text": "So that's kind of the best way to explain it. I encourage everybody to also go into this special description that we have. So if you were the shop, you would go to frequency cards and then they should drop down menu and you can select any and all frequency cards that we have to select"
+    },
+    {
+        "start": "01:10:07.000",
+        "end": "01:10:36.000",
+        "text": "the forever young card, then you can read more about it. And then the happiness card, that is one that is focused to one of the most important things actually in life, right? You know, to be happy, to be truly happy. It's not about trying to fill a desire or just drink a bunch of alcohol and then feel good. That's not the real happiness, but the true happiness that comes from deep within."
+    },
+    {
+        "start": "01:10:36.000",
+        "end": "01:11:01.000",
+        "text": "And, you know, most people, we have some blockages in regards to that, because there have been so many things that have happened that impacted our ability to really be happy. Just, you know, there's, there doesn't need to be something that happens in order to be happy, you know, it can be a constant flow of happiness within us."
+    },
+    {
+        "start": "01:11:01.000",
+        "end": "01:11:21.000",
+        "text": "And that specific frequency is designed to help through such blockages and have that come out more and more. While we have heard from people that it works instantly in some cases where they instantly feel like an uplifting, if you will."
+    },
+    {
+        "start": "01:11:21.000",
+        "end": "01:11:48.000",
+        "text": "This is more a frequency that I at least think is for like a mid and long term use really because a lot of those things are things that can't be easily solved in just like one second. So that frequency is, again, a great example of this here for your pocket, where you can leverage that to work with the frequency."
+    },
+    {
+        "start": "01:11:48.000",
+        "end": "01:12:16.000",
+        "text": "And it's not a frequency that you always need to have in order to then, you know, stimulate this state of happiness. It's something that helps your system to recreate that and to get there more easily. So that's how I would best describe it. Oh, that's awesome. I got to get that one. I haven't got that one yet. But yeah, no, that's, that's great."
+    },
+    {
+        "start": "01:12:16.000",
+        "end": "01:12:41.000",
+        "text": "So, you know, everyone, we just want to wrap up the video and just say, Hey, you know, thank you so much and just wanted to let you know about the new products, the most recent test results that are coming out of some of the exciting things that we're learning. So, yeah, go to the website and the jacket. The new frequencies are now available. And they're on sale for a limited time. So I did want to point that out. Links are all in the video description below the video."
+    },
+    {
+        "start": "01:12:41.000",
+        "end": "01:13:09.000",
+        "text": "But do keep in mind that, you know, that there are timeframes at the bottom of the website. We'll tell you how long the sale is going to last, right? So, yeah, thank you so much, Phillip. You know, we've kind of gone over our hour again. Typical. But, you know, I just want to say thank you for spending some time with me to kind of share with me and everyone else. You know, what's, what's all going on? There's so much going on. There's so much information. And it's all so very positive."
+    },
+    {
+        "start": "01:13:09.000",
+        "end": "01:13:39.000",
+        "text": "So, you know, thank you for sharing an awesome look forward to the new products. And so I just want to say thanks. Any, any, any last words? Well, one thing maybe for everyone in the Telegram group, you know, obviously keep asking your questions. You know, don't, don't hesitate at all. But we're also working heavily on the real FAQ. And this is some massive document already. And it's currently going through multiple reviews."
+    },
+    {
+        "start": "01:13:39.000",
+        "end": "01:14:09.000",
+        "text": "And we probably need another, you know, two, three weeks probably until we have that finished. But it is coming. And we will, we plan to release it in the Telegram group and then also put it on the website eventually. It's always so much going on. But we wanted to let you know, yes, we're working on it. And, okay, thank you so much for your time for having me on. And, yes, I really appreciate it. And certainly wish you good luck with all your car and things that are going on in this move."
+    },
+    {
+        "start": "01:14:09.000",
+        "end": "01:14:37.000",
+        "text": "Oh, thanks. So everybody out there, if you want to, you know, if you want to reach out and just chat with Philip, you know, you can find him at the Quantum Power Group, the link below in the video description is the link to join that one. It's a private telegram chat group. So you need to click on the join link to find it. We're over 1,200 members strong now. So it's just, it's awesome. So go in there and just any question you've got, just that's where you're going to find the answers on quantum stuff."
+    },
+    {
+        "start": "01:14:37.000",
+        "end": "01:15:06.000",
+        "text": "Now, for me, I run the Tinkers Academy. It's just my own little blog and my own little thing where I just, I just tinker with all sorts of stuff. So I'm on hiatus right now while I'm in my move, but I'm looking forward to picking up where I left off here in a couple of months. And if you're interested in all the things that I do, you can find me at Tinkers.academy, type that in your URL window, and that pops over to my blog and links to my channel and so forth. So, but everybody, thank you so much, Philip. Thank you for spending some time with me this morning."
+    },
+    {
+        "start": "01:15:06.000",
+        "end": "01:15:32.000",
+        "text": "You know, the results are just fascinating. And just, you know, just when I, when I stop and think about how many people that you're helping, not just autistic children and autistic people, but just how many people you're helping from a wellness standpoint and health standpoint. And, you know, and this thing only grows and it's just amazing. It really is a take a deep breath and just think about moment, you know, for me."
+    },
+    {
+        "start": "01:15:32.000",
+        "end": "01:15:48.000",
+        "text": "And I'm just so happy to be a part of this. So thank you for letting me be a part of this. I'm just, I just find it to be so fascinating. Thank you so much. Thank you. Okay. All right, everyone. Y'all have a good day and we will talk to you later. Aloha."
+    }
+]

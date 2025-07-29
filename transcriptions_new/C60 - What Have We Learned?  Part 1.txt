@@ -1,0 +1,517 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.100",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me, Kay Elmer and in this video I'd like to share with you some research on what we have learned about carbon 60 since it became popular as a health supplement three years ago. If anyone who's taking C60 today I hope you still remember that you're part of a human trial and there have been no published human studies. So come along with me and let's go through some of the research. Obviously before we can jump in we need to talk about some disclaimers. This material is for research purposes"
+    },
+    {
+        "start": "00:00:29.100",
+        "end": "00:00:56.800",
+        "text": "only. C60 is not approved for consumption by the FDA. You understand that consuming C60 is still experimental and you do so at your own risk. I don't have any steak in any C60 company or C60 product and I do not get paid for making C60 videos. Now I do want to make a note on source materials for this video. Normally if you look at the video description you'll see all of the links. I try to be very thorough, extremely transparent, share everything that I'm reading so that you"
+    },
+    {
+        "start": "00:00:56.800",
+        "end": "00:01:22.460",
+        "text": "can judge for yourself. However there's so many studies in this video. What I've done is I basically have put them all in a Google directory and I've given you a link to the directories so you can just go ahead and look for them yourself. So it's I'm not gonna list them all out. They're just right there in the directory. So you know knock yourselves out. Oh I also did find a find a way to obtain the full study and not just the abstract so all of the material is there and it's"
+    },
+    {
+        "start": "00:01:22.460",
+        "end": "00:01:51.160",
+        "text": "all in that directory for you. So let's get started. Before you can talk about what we have learned I just want to do a brief history of C60. So they're all on the same pages as to where we're at. So for those of you who don't know and this is kind of an interesting history C60 was discovered in 1985 by a research team headed by a gentleman by the name of Harold Croto James Heath and Richard Smalley. They discovered it. They were working in Rice University and then 10"
+    },
+    {
+        "start": "00:01:51.160",
+        "end": "00:02:18.940",
+        "text": "years later much to everyone's surprise and this is a very short time period for a Nobel Peace Prize in chemistry they were awarded the prize because it was such a monumental find to actually discover this unique molecule C60. Now in that time period I want to point out here something that was really important is that just shortly after the discovery there was the SES research was founded by Chris Burris and Robert Wong in which they started to you know produce C60 on"
+    },
+    {
+        "start": "00:02:18.940",
+        "end": "00:02:44.400",
+        "text": "mass. In the original days back in these days C60 was produced in the lab at extremely high cost it was selling for like six thousand dollars a gram. So when SES was founded they decided to make it in you know mass produce it and then it became and then they started feeding it to all the academia for studies as well as for commercial use. So the actual production commercial production of C60"
+    },
+    {
+        "start": "00:02:44.400",
+        "end": "00:03:12.040",
+        "text": "started with the founding of SES in 1991 a US company so that's when C60 actually started getting used it purely for commercial use as a industrial lubricant. So then in 2003 a company in Japan called vitamin C60 had started to look at some of the research that had been done since the discovery and they discovered that the ROS sponge activity of C60 was was valuable for"
+    },
+    {
+        "start": "00:03:12.040",
+        "end": "00:03:40.560",
+        "text": "cosmetic use and what ROS stands for is reactive oxygen species or free radicals so because C60 has that very unique property in which it can basically sponge up free radicals they decided and to create a firm called vitamin C60 and in 2003 launched and started selling C60 their own product that you could that cosmetic companies were putting in as an ingredient to their"
+    },
+    {
+        "start": "00:03:40.560",
+        "end": "00:04:06.600",
+        "text": "products a lot of you who use makeup and and that sort of product in a beauty products cosmetics you may not know but you've probably been using products we C60 in it for a very long time and so that's kind of what started there was the cosmetic use of C60 started in 2003 and then came 2012. 2012 was a very remarkable year in the history of C60 because that was when the famous quote"
+    },
+    {
+        "start": "00:04:06.600",
+        "end": "00:04:33.000",
+        "text": "rat study was was published now it had actually started about three to five years earlier and it was commissioned in the University of Paris and the actual study itself was a LD50 study and LD is lethal dose 50 meaning that it's a study to find out because there was people using it commercially people using it cosmetically so there was lots of workers processing it and so you know"
+    },
+    {
+        "start": "00:04:33.000",
+        "end": "00:05:01.520",
+        "text": "from an OSHA standpoint you know they wanted to know hey you know how much of this stuff is toxic or and you know in terms of people working with it and using it in industry so they did an LD50 study in Paris and they published the results in 2012 and this is what really started the interest in C60 from a health supplement use because this study was about trying to you know find out how many rats die if you give them too much C60 and what happened was as you might"
+    },
+    {
+        "start": "00:05:01.520",
+        "end": "00:05:30.680",
+        "text": "know is the rats didn't die they flourished and they lived 92% longer than the control group of rats not given it which means basically their life was extended by by two times and then additionally to that you know when they actually dissected these rats after the many years of the study they discovered that they had absolutely no tumors whereas the control group had lots of different health problems and so forth you know dying of old age but when they dissected these rats when they finally passed away and they actually had to"
+    },
+    {
+        "start": "00:05:30.680",
+        "end": "00:05:58.600",
+        "text": "eliminate a few at the end just to wrap up the study these rats their organs were in pristine condition so that was a pretty amazing study so when that study came out then down here three months literally three months later carbon 60 olive oil company was founded by Tom Martin and he was the first individual to actually put C60 as a health supplement onto the market and so in this time period right here was quite an amazing boom in terms of just the"
+    },
+    {
+        "start": "00:05:58.600",
+        "end": "00:06:28.600",
+        "text": "discovery it was it was quite controversial at at its time it still is and so what Tom Martin founded this company and within three months he was producing C60 in olive oil to the exact specifications that the scientists had done it in Paris and so then he started producing it and then from there has been a huge small army of people who have decided to create C60 in oil products for the health supplement use now right after that in the same time period in"
+    },
+    {
+        "start": "00:06:28.600",
+        "end": "00:06:55.240",
+        "text": "the 2012 there was a longevity forum and there's it's kind of like a biohacker forum and then and the people in this forum jumped on to the idea of C60 in oil because of this study and started making their own they started buying from Tom and and several others you know several meaning like a handful of other folks that were really one of the you know the groundbreakers in creating this product for health use and the longevity biohackers were the first"
+    },
+    {
+        "start": "00:06:55.240",
+        "end": "00:07:25.140",
+        "text": "group of people to actually the early early adopters of C60 olive oil and they were at it for like several years before the forum kind of just has you know it's still out there but it's very dead I mean you go check it and you know there's like a post every couple of weeks or something so you know it you know it was at its peak there they did a lot of different you know personal you know testimonies and everyone is trying it that's where I got the idea for you know using a jar to make C60 oil so in this forum it's kind of like the original"
+    },
+    {
+        "start": "00:07:25.140",
+        "end": "00:07:50.640",
+        "text": "archive of the original group of people that started taking C60 oil for their health and so it this is where it started and then in 2017 that's when it really took off but I want to point out one thing in between was that in 2015 scientists had discovered C60 in outer space they discovered that C60 is essentially a very common component of stellar dust or what you would call"
+    },
+    {
+        "start": "00:07:50.640",
+        "end": "00:08:19.680",
+        "text": "you know cosmic dust and and it's really remarkable that in this same little time period here not only did they discover that there was incredible health benefits of C60 but also at the same time it discovered that it was not just a you know just off you know it's an odd or very rare come you know substance or carbon alatrophe on planet earth but it was actually found throughout the universe so this is a very very important step in the history of"
+    },
+    {
+        "start": "00:08:19.680",
+        "end": "00:08:46.400",
+        "text": "C60 was in 2015 and it was discovered and proven that it existed in space and it was actually spaces full of C60 so now going back to 2017 I call it the old guy old guy goes on to Sarah Westall YouTube and he basically shares this study of the rat study this individual had about a 60,000 person following and a lot of those people were really really perked interest when they heard the"
+    },
+    {
+        "start": "00:08:46.400",
+        "end": "00:09:15.120",
+        "text": "story of the rat study and so that's when it started that group of people following the old guy on the Sarah Westall show really started you know they basically and if you if for those of you who are there at that moment I was listening to that video right when it came out within 24 hours the followers of this person basically bought out the entire market every single producer of C60 oil was bought out that's how small the market was within a couple of days"
+    },
+    {
+        "start": "00:09:15.120",
+        "end": "00:09:41.560",
+        "text": "and so that started the basically the bull run on C60 as health supplement so now what happened since then it's 2020 and it's three years later so that's what this video is for let's talk about some of the research and so down here of course that's the rest of us joined in so you're here now it's 2020 C60 is still used commercially as an industrial lubricant it's still using cosmetics and it's been three years since it really got popular way in the"
+    },
+    {
+        "start": "00:09:41.560",
+        "end": "00:10:08.360",
+        "text": "help supplement industry so let's talk about the very first thing that's so important about all of this is that the reason they did this the C60 study in Paris was to find out again how many you know how much C60 doesn't take to kill you and they discovered it doesn't kill you they couldn't kill the rats with it and that was the study called the prolongation of lifespan of rats by repeated oral administration of C60 fullerene this is the pivotal study that"
+    },
+    {
+        "start": "00:10:08.360",
+        "end": "00:10:38.000",
+        "text": "started at all and what's so important about the idea of C60 being toxic is that one study does not define anything one study is like you know it's basically like a scout ant it just it finds something out there in the in the universe that you want to take a harder look at and if you cannot duplicate a study in it then the results are inconclusive and you can't you can't validate them and so forth so what's really important about the last three years is has the idea or"
+    },
+    {
+        "start": "00:10:38.000",
+        "end": "00:11:05.960",
+        "text": "the discovery or and the results of that original 2012 study has it been validated is C60 truly toxic or not and so I want to point out that there's been several other studies that have been done that have proven it is not toxic and I think that's the most important thing that I could share with you today in terms of what have we learned in the last three years is that C60 is not toxic now a Japanese scientist team actually did a another study they used"
+    },
+    {
+        "start": "00:11:05.960",
+        "end": "00:11:31.560",
+        "text": "mice and they put C60 in corn oil and that study is called the subacute oral toxicity study with fullerene C60 in rats I'm sorry these rats and they found there was no toxicity as well and that's happened in the last three years and then again you then you've got the live pet which is a spearheaded commercial team by a gentleman called Ian Mitchell and they sell a product called companion C60 for pets and they started their market for with a pet product and"
+    },
+    {
+        "start": "00:11:31.560",
+        "end": "00:11:56.800",
+        "text": "they went looking at C60 from a and they have a full-on commercial lab these are not entrepreneurial these guys are you know laboratory folks and they work with the universities and so Ian Mitchell and his team decided they wanted to produce a product for pets using C60 and and the you know the products called live pet and so what they did was they actually did a study as they called it it's the general they call it the general properties of C60 and their"
+    },
+    {
+        "start": "00:11:56.800",
+        "end": "00:12:23.640",
+        "text": "safety assessment in animals and what they did in that study was they administered C60 in oil to 15 dogs over a long period of time so not you know they took it from rats to know they're using dogs and they did this study and then they had the dogs assessed not you know not dissected or anything like that but they had the dogs fully assessed they tested the urine they tested all these blood samples and everything and discovered that there was absolutely no detriments"
+    },
+    {
+        "start": "00:12:23.640",
+        "end": "00:12:52.040",
+        "text": "to any of their bodily functions or anything about the dogs and all 15 dogs thrived and so this was another study showing that he C60 did not have any toxic results in mammals and then lastly what's really kind of the most important I think when you talk about you know validation of the body study which is what the rat studies called is that live pet under Ian Mitchell he actually also did an LD50 study in using p53 knockout rats instead of"
+    },
+    {
+        "start": "00:12:52.040",
+        "end": "00:13:21.520",
+        "text": "wester wester rats and so the French use a certain kind of lab rat and the only difference that Ian had done when he did his study on rats was he just used a different type of lab rat a certified lab rat and and the lab rats you know are basically genetically disposed to die in two years and and develop cancer and die off okay that's what the rats he used and so he did a full-on laboratory study of these p53 knockout rats giving them C60 exactly like the body study the"
+    },
+    {
+        "start": "00:13:21.520",
+        "end": "00:13:49.000",
+        "text": "rat study and they all flourished as well and so his study and he's come out and this is the only problem he's he didn't publish his studies because he's a commercial guy he's not an academic and so he didn't publish his study but he talks a lot about his study and I and Mitchell's by far one of the foremost experts and and and and just professionals in the industry when it comes to C60 everyone I know really respects iron and so he talks about his study in"
+    },
+    {
+        "start": "00:13:49.000",
+        "end": "00:14:18.040",
+        "text": "several of his interviews in which he basically comes out and says that his results were within a 97% variance or a match okay to the body results I mean in other words the his study came out with the same exact conclusion with an error rate of 3% so he proved it to himself and then he launched his product in terms of is C60 toxic can see 60 help in terms of radical oxygen species scavenger"
+    },
+    {
+        "start": "00:14:18.040",
+        "end": "00:14:45.040",
+        "text": "slash sponge so this is what's really important here is the idea that C60 is not toxic and there's been other studies since then that have shown and proven that okay so what's also interesting in the last three years is that there's been other individuals and here's one of the videos that just came out in July 23rd this year of you know there's it what this is what I really like about 60 and I'm very tuck you know I'm very tied into the C60 you know I look at all the"
+    },
+    {
+        "start": "00:14:45.040",
+        "end": "00:15:14.920",
+        "text": "you know studies I watch every video that comes out about it it's just one of my interests and so there's more and more third-party folks that have nothing to do with C60 and they just review it because it's just something they look at as part of their YouTube channel and so this dr. Brad Stanfield recently came out with a video where he evaluated C60 independently and he came and he basically came out and said hey yeah that's got some positive benefits but he identified some potential risk and I really welcome third-party other other third parties taking a look at C60 because they look at it with a different"
+    },
+    {
+        "start": "00:15:14.920",
+        "end": "00:15:40.280",
+        "text": "set of eyes because they're not involved in C60 at all and so but I want to point out that there are potential risks and he did find potential risks and so let's talk about those potential risks because it's part of what we have learned in the last three years so that one of the things that he pointed out and this is what's very specific in his video you know we'll get into the benefits later but talk about the potential risk because you know we are the human trial if you're taking it you're part of the human trial there's been no human study"
+    },
+    {
+        "start": "00:15:40.280",
+        "end": "00:16:06.080",
+        "text": "done there's supposedly some studies being done now but it takes a long time because humans don't live like two years right and so the idea is that it's so important to take a look at at what other people are doing in terms of you know how they view things and so here's his thoughts on the potential risks and so this is what he pointed out in his assessment words that you know he basically said hey there's a potential for DNA damage and and that was a study"
+    },
+    {
+        "start": "00:16:06.080",
+        "end": "00:16:31.200",
+        "text": "based on water it was water-soluble C60 that they tested on flies and he also said that I was I was C60 can turn into an oxidant versus an antioxidant now antioxidants are good for you some oxidants are also good for you but mostly not good for you okay and when it's exposed to light now on that point alone C60 we've known since beginning that C60 you know we everybody that uses"
+    },
+    {
+        "start": "00:16:31.200",
+        "end": "00:17:00.000",
+        "text": "C60 or cell C60 they tell you keep it dark that's why C60 and it always is sold in a bottle that's dark and and if you make your own C60 you're always told you know stir in the dark keep the thing dark keep it out of keep it away from air but so I'm not really gonna go into the whole oxidant issue when exposed to light because that's been so proven that I just doesn't need to be repeated more than a bunch of times right it's already been it's so proven that it's not even"
+    },
+    {
+        "start": "00:17:00.000",
+        "end": "00:17:27.160",
+        "text": "an issue yeah don't expose it to light and you're fine but the whole issue about the DNA damage well we'll chat that about that in a second and then he also mentions that there's solvents and in fact to quote dr. Stanfield in his video he says that hey you've got no idea these are the potential risk no idea that carbon 60 has actually you know how actually you know how the carbon 60 has actually been produced you don't know what form it's in and whether or not there's any leftover solvents and that's true so let's talk about that because"
+    },
+    {
+        "start": "00:17:27.160",
+        "end": "00:17:53.240",
+        "text": "you know he brings out a very important point of what we have learned so you know one of the things about solvents and I want to point this out and I did a full video on this if you want to go look at it in terms of solvents I did a full video on this where I pointed out two separate studies and went through the the manufacturing process of 60 so people could understand you know how this could possibly happen but in these two studies here with the first study solvent molecules in C60 they discovered that the evolution of from the"
+    },
+    {
+        "start": "00:17:53.240",
+        "end": "00:18:18.200",
+        "text": "material of species produced by solvents can be seen at temperature definitely higher than the one used in the usual removal and kneeling showing that this is not enough to produce solvent free fullerenes and what that study means is that most C60 is there's a you know there's multi-step process in the very last process before they'll sell it to you or put it into oil is that they vacuum bake it for 24 hours and around 400 degrees C60 actually will"
+    },
+    {
+        "start": "00:18:18.200",
+        "end": "00:18:44.680",
+        "text": "sublimator or turn into you know a gas it's 600 degrees Celsius but at 400 degrees Celsius you know that's what they bake it at and they basically will bake it for so long that supposedly you know the the solvents that they use to process it to separate it out from other fullerenes is supposedly going to be removed okay but this study found that it doesn't it doesn't get removed that"
+    },
+    {
+        "start": "00:18:44.680",
+        "end": "00:19:13.480",
+        "text": "they're still going to be solvents left in the C60 trapped in the C60 crystals okay this other study called evolution of species during thermal sublimation of C60 found that the solvent molecules were found to be absorbed at interfaces of the micro crystals of C60 which is what I just said and centering of the micro crystals on heating is assumed to be responsible for entrapping some of the solvent molecules in the sample this may explain the difficulty removal of the solvents from fullerenes samples so what they found was that when you"
+    },
+    {
+        "start": "00:19:13.480",
+        "end": "00:19:42.200",
+        "text": "actually put it in the oven to get rid of the solvents right you create the little you trap the the molecules of solvents within the molecule crystals or clumps of C60 crystals and so that in other words these two studies said hey no matter if you bake it or not or I'm sorry if you bake it it will still have solvents remaining and so now you'll you'll notice that there are some C60 companies out there there's a very few of them but they're actually taking because"
+    },
+    {
+        "start": "00:19:42.200",
+        "end": "00:20:11.080",
+        "text": "of this discovery they're taking the C60 oven baking it multiple times and then testing it to make sure and pulverizing it to break up those crystals then testing it and baking it you know I'm not sure exactly what they're doing because no one will share their you know share their secrets but they have to be multiply baking it pulverizing it and then of course they test it before they use it and they test to make sure that it is free of solvents down to a acceptable"
+    },
+    {
+        "start": "00:20:11.080",
+        "end": "00:20:37.000",
+        "text": "level of parts per billion so and then they call that so you know solvent free which is I you know it will get that's another subject but whether or not it's truly solvent free and so forth but there are companies out there that are actually taking multiple extra steps which does drive up their price because it's a lot of extra work but they're going out of their way now to go far beyond what the you know what's the C60 production methodology is prior to"
+    },
+    {
+        "start": "00:20:37.000",
+        "end": "00:21:06.120",
+        "text": "this other folks if you know are not unless they're you know and it's something that if you if you can tell if they're bragging about it okay this is simple as that but the bottom line about solvents is that C60 is not solvent free unless you go through all of that extra process or you buy a version of the C60 that never touched solvents to begin with called sublimated C60 all right enough about that the whole video I made two whole videos about this and I'll just you know jump on to the next subject so let's talk about the DNA damage claimed"
+    },
+    {
+        "start": "00:21:06.120",
+        "end": "00:21:33.640",
+        "text": "by Dr. Branfield okay two studies on that I went looking first of all I looked at the study that he claimed you know that he mentioned and his study basically is reconciling the controversial data on the effects of C60 fullerene at the orgasimal organismal sorry and molecular levels using as a model of durosphelium lango-gaster okay it's a fly all right and they've discovered that the water soluble pristine C60 C60 fullerene at the"
+    },
+    {
+        "start": "00:21:33.640",
+        "end": "00:22:00.960",
+        "text": "concentration of 20 you know I forgot what that one and 40 millimeter per liters leads to the activation of the gene in D the fly larva is salivate celebratory a salivatory glands in which can indicate higher levels of DNA damage so what they put C60 in water and they gave it to some fly larva and the fly larva developed DNA damage okay now another one that I went out looking for"
+    },
+    {
+        "start": "00:22:00.960",
+        "end": "00:22:30.200",
+        "text": "anatina a study called genotoxicility of colloidal fullerene C60 this other study also basically backed up this one that C60 will cause DNA damage and they discovered that our data suggests that aqua C60 has DNA damage potential and that DNA damage is not due to covalent DNA had junked formation by C60 itself so what's really important about this is it's C60 in water C60 is not water"
+    },
+    {
+        "start": "00:22:30.200",
+        "end": "00:22:56.080",
+        "text": "soluble are you taking water soluble C60 no you're taking C60 lipollerene C60 IE dissolved in oil so when anyone's talking about DNA damage there has I have not found and I went looking for hours to find any study that was C60 in oil slash DNA damage I could not find them it the damage of DNA claims for C60"
+    },
+    {
+        "start": "00:22:56.080",
+        "end": "00:23:21.600",
+        "text": "are aqua or water soluble C60 and that is not what we are doing in terms of the health supplement of C60 so this claim doesn't hold up against you know but it's what we learned right but it does not hold up you know as something that the health supplement industry should be worried about because we're not doing it that way it's very important that everyone understand you know how they"
+    },
+    {
+        "start": "00:23:21.600",
+        "end": "00:23:49.600",
+        "text": "were doing it versus how we are doing it IE taking C60 so the other thing that's so important and I want to make this point really strong and I just you know I want to reiterate what I just said I went looking for you know it's funny right scientists do studies and produce studies right and then there's other scientists who do reviews of other scientists studies you know it's kind of like this big circle right and so there's studies out there about C60 studies"
+    },
+    {
+        "start": "00:23:49.600",
+        "end": "00:24:17.080",
+        "text": "right and so I went and looked for those and said hey you know what do you guys think about you know all of these discrepancies where you know I got DNA damage by water soluble and you know blah blah blah and so here you go here's two different studies I found one's called the comparative toxicity of C60 aggregates towards mammalian cell roles of the and I'm not trying to pronounce this word decomposition so what they've discovered was that thus the role of NC60 in the cellular responses is likely not due to the direct effect of the C60"
+    },
+    {
+        "start": "00:24:17.080",
+        "end": "00:24:43.800",
+        "text": "material surface on the cells but related to the conversion of the THF into a toxic by-product during the preparation of suspension all right the other study that I found a study of studies called the biological effects of C60 fullerene revealed with bacterial biosensor toxic or rather anti-toxin that study discovered that their their exact action on cells strongly depends"
+    },
+    {
+        "start": "00:24:43.800",
+        "end": "00:25:13.000",
+        "text": "on many factors including experimental conditions preparations the solvents used which have contributed to the confusion regarding their safety and possible health benefits and that's my point and here are studies that back up my point it all comes down to what what was you know is what if you read a study there's a section called materials and methods and it's basically you know the details the devil is in the details so what did you do how did you do it what"
+    },
+    {
+        "start": "00:25:13.000",
+        "end": "00:25:41.400",
+        "text": "did you use right what did you do now you know everything every aspect of the study and so when we say what have we learned about C60 I want to know because I take copious amounts of C60 in oil and also I take it topically I want to know you know what is it doing to me in the form that I'm doing it in and so what we've learned right is that you know any claim that it does is DNA damage well it's C60 is not water soluble you know and so and there's all so basically"
+    },
+    {
+        "start": "00:25:41.400",
+        "end": "00:26:10.520",
+        "text": "don't ever take C60 put it in water and drink it okay bad and then there's a heavy use of solvents you read some of these studies and it's unbelievable that they'll just have all of these solvents that they're using and different like you know different types of food additives that are used as you know every water's a solvent so there's tons of different solvents and so if there's one that's like in food that people use in food in the food industry you know they'll use that as a as a medium for putting in C60 and then they'll then there's studies where they'll take it and they'll just basically they've I've seen"
+    },
+    {
+        "start": "00:26:10.520",
+        "end": "00:26:40.280",
+        "text": "studies or red studies where they'll have the you know the the lab animals you know inhale C60 like dust I've seen them where they inject it into their into their abdominal cavity I've seen 666 studies where they'll just inject it into embryos fish embryos and bacteria you know it's like okay so what do we learn well we learn that you do all that stuff and has nothing to do with us humans taking lipo-foolering 616 oil it just doesn't you can't compare apples"
+    },
+    {
+        "start": "00:26:40.280",
+        "end": "00:27:09.920",
+        "text": "to oranges so what are the weighted factors that are the most important thing when we're doing a research study on what have we learned about C60 in oil lipo-foolerines well I want to just say that based on the studies of studies and based on just just the common sense that there are weighted factors and then what's really important about what we have learned are studies that that basically are going to look at how we are processing C60 taking C60 and so"
+    },
+    {
+        "start": "00:27:09.920",
+        "end": "00:27:37.880",
+        "text": "what it really comes down to is I kind of just have gotten to the point where if it's not a study that they have lipo-foolerine C60 in oil and not just any kind of oil preferably olive oil okay there's a few other oils but you know there's like even like that Japanese study they did it in corn oil or corn most of corn is GMO and so you know you've got all these different factors so if you just stick with olive oil but not just any olive oil it's organic cold"
+    },
+    {
+        "start": "00:27:37.880",
+        "end": "00:28:07.400",
+        "text": "pressed you know E-O-V or E whatever you know Rachel Ray right E-E-V so if not something anyway but the whole idea though is that's the best highest quality some of the best producers of C60 oil on the market they have contracts with farms directly and they cold shipped the olive oil to you I have a friend of mine that you know was in the shipping business for several years and we talked about it one time and he said yeah and those containers you know those big mats in you know containers that the temperature can get up"
+    },
+    {
+        "start": "00:28:07.400",
+        "end": "00:28:37.360",
+        "text": "to 150 125 sorry not 150 but about 125 degrees in the summer you know being shipped around or in trucks so you know a lot of times that and this is true if you study the oil in olive oil industry like 99% of olive oil in on the markets not real olive oil it's just you know it's fake olive oil also that a majority of that are a large portion of the olive oil that you'll see on the store shelves are already partially rancid because they've been on they've been in transport subjected to heat subjected to light sitting on the shelf so it"
+    },
+    {
+        "start": "00:28:37.360",
+        "end": "00:29:06.640",
+        "text": "really made it really matters that it's the highest absolute quality of oil and then also olive oil has been found to be the absolute best oil to use for C60 saturation so it's so important that when you look at studies to understand what we have learned that we we focus in on the fact that it's a lipofluorine in a very healthy oil lipofluorine means that it's been completely dissolved into the oil it's been formed into what they call liposomes and each separate"
+    },
+    {
+        "start": "00:29:06.640",
+        "end": "00:29:34.480",
+        "text": "molecule at a one molecule level okay not closely you know crystalline clusters of C60 but one molecule is so important it's wrapped around it's wrapped around by fatty lipids and it creates what they call a liposome you can see them under a microscope and that you when you filter your oil after you're done making it and I have made I don't know three years at this point I've made gallons and gallons and gallons of this stuff but you filter it through a very"
+    },
+    {
+        "start": "00:29:34.480",
+        "end": "00:30:03.280",
+        "text": "fine filter and you filter out anything larger than 0.22 microns and you get oil you get nothing else in the oil it's just oil is darker now because it's got all those lipofluorines in it but it's just the smallest particulate size which is the next point here some of the studies I've read they've got particulate sizes 130 nanometers all the way up to like five 600 nanometers and that's really important because think about it a C60 molecule is one nanometer you can"
+    },
+    {
+        "start": "00:30:03.280",
+        "end": "00:30:33.240",
+        "text": "line up 100,000 C60 molecules side by side and it would equal the width of the common human hair okay that's how small it is so if you're taking C60 in chunks crystalline chunks as noted before those crystalline chunks contain solvent molecules then it's not healthy for you so when you're looking at studies that say hey you know what I look at studies I want to know it's lipofluorine in a healthy oil the particulate size was hey you made it you filtered it 0.22"
+    },
+    {
+        "start": "00:30:33.240",
+        "end": "00:30:59.080",
+        "text": "microns like just like the rat study did and also the way that the the C60 oil was given to the animals okay very important because you know they there's all these different ways like I said through shots through inhalation but it's all it's got to just be through oral administration not forced feeding using gavages okay and then you also think you also the other part which is common sense which is we're not flies we're not bacteria we have a lot of it in us"
+    },
+    {
+        "start": "00:30:59.080",
+        "end": "00:31:25.120",
+        "text": "but we're mammals and so it's got to be a million study and so when you look at these weighted factors and say yeah based on these criteria okay and the results from when you look at a study using this criteria and the methodology of the body study then we can really really really get down to what is the results what is really happening now with C60 as a health supplement so let's"
+    },
+    {
+        "start": "00:31:25.120",
+        "end": "00:31:51.880",
+        "text": "talk about what happens when you look at that in that way so what I did was and this took a lot of time this this is this research was a month in the making I had to go through dozens and dozens of studies and weed out all these different ways that people did C60 studies because the results to me are not relevant to what's important to us which is hey well you know you know like I just did and so"
+    },
+    {
+        "start": "00:31:51.880",
+        "end": "00:32:21.120",
+        "text": "after going through dozens of studies for the brevity I just pulled I found five out of a couple dozen and it took a long time because you have to read these things okay and so this is I want to share with you what I found I found five studies and you know for sake of brevity I'm not going to go through them like the other ones but they're in that directory okay and I just summarize it here well when you go exactly to these weighted factors so that you know you want to know exactly what you know what the results are studies using this then"
+    },
+    {
+        "start": "00:32:21.120",
+        "end": "00:32:50.280",
+        "text": "this is what's pretty interesting I've out of two dozen studies roughly okay I only found five that actually did it that way that actually use lipofolourines blah blah blah okay and so now one of them had bad results in terms of negative negative results and in terms of it negatively affected the microbiome biota and it also had an effect on glucose and which raised insulin resistance and I think that there's one there's the one study now and I think that there's a lot more research needs to be happening here because they did"
+    },
+    {
+        "start": "00:32:50.280",
+        "end": "00:33:19.720",
+        "text": "fine that it does have some negative effects and so it's a great study and so I think there's a lot more research has to be done remember this is all about science and there's it's not good or bad results or you know okay in context okay but the idea is that hey you know what some of the somebody's found something that it doesn't do great you know and there's all these people out there selling 60 always saying you know it's the greatest thing to slice bread well you know let's let's you know let's level set that it's not there's you know we still have a lot to learn and here's one study I think it came out in"
+    },
+    {
+        "start": "00:33:19.720",
+        "end": "00:33:47.680",
+        "text": "2019 and you know in this time period what we have learned is that hey it's not you know it's not all you know you know corn's and Raybose there are some there are some discoveries here that are finding out that it does cause some problems so we need to look a lot more into that is this the end all thing and everybody that you know should stop taking it of course not because when you look at some of the other studies you know four out of five that I found and this all completely random unbiased okay was I found a study using the same weighted criteria whereas very positive for the liver and brain very positive"
+    },
+    {
+        "start": "00:33:47.680",
+        "end": "00:34:12.880",
+        "text": "another study that was very positive for died you know people with diabetes and their effect and its effect on the liver very positive results on a apoptosis apoptosis and autophagy flux and another one that was very good for kidneys and so the point that I'm trying to make here is when you you weed out all the stuff that has just really kind of not it's not relevant and you look at just the weighted factors four to five results of studies just in that area"
+    },
+    {
+        "start": "00:34:12.880",
+        "end": "00:34:40.600",
+        "text": "were very positive and one that wasn't and so you know more research needs to be done but so far looking pretty good when you take a look at the research of all of this then I kind of did a pros and cons the so I just want to summarize it the pro in what we have learned what have we learned hey well you know what C60 is not toxic you know C60 is and these studies by the way we read these studies they all confirm all of this information that it is a very exceptional"
+    },
+    {
+        "start": "00:34:40.600",
+        "end": "00:35:09.440",
+        "text": "reactive oxygen species sponge slash scavenger it does mop it basically and I'll get into that in the video but how it does that but it's just it's it's exceptional as an antioxidant in fact the body study claim that C60 was a hundred seventy two times more potent as an antioxidant than vitamin C and what's interesting is that ion Mitchell study on dogs discovered that's that he discovered it was actually 250 times more potent as an antioxidant than"
+    },
+    {
+        "start": "00:35:09.440",
+        "end": "00:35:34.520",
+        "text": "vitamin C so you know it's it's well you know like I just said it's very good at being an antioxidant and also you know like I just said it's it supports liver and brain function it supports autopsis and ophthalmology supports kidneys and then there's other information out here and you know you can go I can go on and on and on but there's been more videos more testimonies more studies where there's a macular you know it supports macular degeneration in"
+    },
+    {
+        "start": "00:35:34.520",
+        "end": "00:36:01.280",
+        "text": "other words it it relieves it if not hears it it's extremely good at any inflammatory and more and you know I'm trying to keep this video as short as possible because yeah I could go on for an hour or more and I don't want to do that but there's so much more on the pro side in the last three years from just the testimonials and also some of the people doing experiments you know people people not scientist people okay so there's a lot more about the pros of"
+    },
+    {
+        "start": "00:36:01.280",
+        "end": "00:36:29.520",
+        "text": "C60 as a health supplement it's the only reason that after three years I still take it daily okay and and I read all of these things I am not I'm not put off by the fact that there's one study that says is not that great I think there needs to be more research and that's that and so now the cons right well that's that's well we know it's a pro-oxidant we're supposed to like bottom line keep you stuff dark there are solvents in there okay and then you know I get into that I got two of videos on that parts per billion you know are people really"
+    },
+    {
+        "start": "00:36:29.520",
+        "end": "00:36:59.200",
+        "text": "worried about solvents well you if you really are worried then you really need to buy a C60's quote solvent free and only buy it if it's been made with sublimated C60 personally you know I don't worry this much about it because you know there's so much pollution and chemicals and blah blah blah in our environment that you know it's it's to me it's it's a minor thing but there are people who are very sensitive to solvents and when they take a non solvent free C60 oil product there have been lots of reports of people getting ill from it"
+    },
+    {
+        "start": "00:36:59.200",
+        "end": "00:37:28.800",
+        "text": "because they're sensitive to solvents I'm not one of those people so I don't have a problem with it but I do make sure that I buy from a very reputable company in terms of the Rossi 60 that I use I don't buy commercial products okay now and also of course that you know that study about microbiota and glucose and then the dosages are questionable okay now so you know talking about dosages are questionable I want to point out one more study they have found and then lastly of course there's more to be discovered and then you know let's talk about that too let's talk about this let's talk about dosages and"
+    },
+    {
+        "start": "00:37:28.800",
+        "end": "00:37:57.280",
+        "text": "extended life spent one of the things that I thought was so interesting and I just before I was about to make this video right in the process like I said it took me a month to put this together right in the middle of this month November 3rd this girl who runs the Sheaky Science Show put out a video covering this one study and it was pretty interesting it's a very interesting study it came out in 2020 it came out the last week of October and you know"
+    },
+    {
+        "start": "00:37:57.280",
+        "end": "00:38:24.840",
+        "text": "right now it's like November the 14th so only like a couple of weeks ago the study got published the study is called C60 and olive oil causes light dependent toxicity and does not extend life span in mice read that does not extend life span in mice I thought wow that's interesting so the point that this study was made in this this lady girl made a video about the study was that her you know basically well it's using the weighted factors it's exactly the way"
+    },
+    {
+        "start": "00:38:24.840",
+        "end": "00:38:52.000",
+        "text": "they did it exactly and that's the rat study they used mice instead and their conclusions in this study was that it had a light dependent toxicity well you know as I mentioned earlier yeah keep it dark we know that so that's not surprised but it also found out that it does not extend the life span in mice so they basically did the same thing as the rats except the mice didn't live longer that's kind of interesting right but you know what in when you're reading this study there's a little gem in this study that I think is so"
+    },
+    {
+        "start": "00:38:52.000",
+        "end": "00:39:20.920",
+        "text": "important for dimension to all of you so one of the things that this study discovered is they went and they bought different C60 commercial products and they evaluated them and in this study and I want to quote this and it's they came out with their conclusion this is in the study and it says commercial C60 olive oil has unpredictable concentrations and activity we performed an HPLC that's a high-performance liquid chroma chromatography study on the samples and"
+    },
+    {
+        "start": "00:39:20.920",
+        "end": "00:39:49.120",
+        "text": "found a notable increase in impurity peaks in the commercial samples again with HPLC we measured the concentration of C60 in each sample and compared it to the claimed concentration on the label we again found remarkable variability in C60 concentration and in deviation from the stated concentration I think that's this you know what this is a gem it's the first study that I've seen an"
+    },
+    {
+        "start": "00:39:49.120",
+        "end": "00:40:14.920",
+        "text": "official study that I've seen where somebody went out and bought some commercial products and actually said hey is the label accurate right because none of this is regulated by the FDA so you can whatever you got on the label you know it's not you're not regulated to have to prove it right or have or it for it to be accurate okay and so this study actually points out that they discovered and they only did four so let's be honest okay they only did four"
+    },
+    {
+        "start": "00:40:14.920",
+        "end": "00:40:44.520",
+        "text": "products but here's the study that they found that one of the lowest concentration of C60 in one commercial product was 0.57 milligrams per milliliter and they found another one that was 1.4 milligrams per milliliter now the rat study which is the benchmark for everybody that sells this stuff the rat study if you follow exactly the way they did it is the benchmark is 0.8 milligrams per milliliter of C60 in oil it's specifically olive oil in this case"
+    },
+    {
+        "start": "00:40:44.520",
+        "end": "00:41:12.280",
+        "text": "all right and so why is this so important well if you look at if you look at this range between four separate products the variance is 145 percent it's huge it is huge that means the standards from for producing C60 oil in the commercial and you know for commercial sale is all over the map 145% variance between low and high is unbelievably high that's a huge variance okay and the second thing"
+    },
+    {
+        "start": "00:41:12.280",
+        "end": "00:41:41.160",
+        "text": "is is that well you know you guys and myself you know where I'm not out to supplement on olive oil I'm out to supplement on C60 so try to imagine that if you bought one product and you thought you're taking the regular dose of C60 and you bought this other product and it's literally three times as much you know almost three times as much C60s in it so when it comes to dosages the con here on the C60 and what we have learned because of this incredible"
+    },
+    {
+        "start": "00:41:41.160",
+        "end": "00:42:09.160",
+        "text": "study and again one study does not you know make everything but I'll get into that a second but it's it's definitely a con because the dosages are questionable are you really getting the amount of C60 you think you are right because you're not paying to buy oil if you wanted to drink oil you just go to your grocery store and buy oil and drink it it's very expensive it is really expensive so how much are you taking and that's what and this what the study comes out it says well it's pretty questionable at this point now has there been any has there"
+    },
+    {
+        "start": "00:42:09.160",
+        "end": "00:42:37.280",
+        "text": "been any other studies that that kind of even looked at this little point here this old dosages are questionable well yes I want to point out that there are two on the longevity forum those guys back in the day they all kind of got it they did a they did a crowdsourcing thing where they they all found a lab that would test it for them and then a whole bunch of them started sending them you know products that they had bought from different places and they only ended up with three different products at the time because that was like back in the"
+    },
+    {
+        "start": "00:42:37.280",
+        "end": "00:43:06.720",
+        "text": "ancient ancient days of C60 right and they did actually evaluate three separate different products and it's on the forum somewhere in the longevity forum and they found that they had a huge range of difference between you know the bottom number and the top number as well and then also if you're familiar with SES research as I just mentioned Chris Burris one of the founders he actually did a study himself where he bought several commercial products he talked about it in one of his videos which I can't find yet but I"
+    },
+    {
+        "start": "00:43:06.720",
+        "end": "00:43:33.120",
+        "text": "remember him talking about it in a video where he said that SES went and took a look at a bunch of different commercial products and they also found a large variance in in saturation in terms of the amount of C60 in the oil so it is definitely a con you know in Chris Burris by the way is you know one of the founders SES and very reputable so just like I and Mitchell so when you talk about dosages are questionable it is definitely a con in the current world of"
+    },
+    {
+        "start": "00:43:33.120",
+        "end": "00:44:01.200",
+        "text": "C60 health supplements because you don't really know when people look at these products how much C60 is really in there does it map to the label and so you know how do you how do you counter that well you make your own I make my own I don't worry about it or you go with some of the very well established C60 companies that measure it test it and then when they put it on the label they know it's correct because they they wouldn't put it through an HPLC analysis and they know that their end product is actually what it says it is okay so"
+    },
+    {
+        "start": "00:44:01.200",
+        "end": "00:44:26.040",
+        "text": "that's what's really important but right now there's so many commercial products out there and it's it's been proven now you know I would say that it's been proven to a point that dosages are questionable and then of course there's more to be discovered so again you know just another reminder that we are the human trial okay there's there's never been a published trial like I said so if you're taking C60 oil you are participating in a human trial and right"
+    },
+    {
+        "start": "00:44:26.040",
+        "end": "00:44:52.920",
+        "text": "now the pros definitely outweigh the cons I I am very very much after doing this research for a month very convinced that it's the best thing for me and I continue to take a lot of it as I said and then lastly you know but does it extend lifespan in humans really does it extend lifespan in humans you've got all these studies up here you know you did you've got the you know the pair of study and you've got the live pet study that basically backed it up saying yeah"
+    },
+    {
+        "start": "00:44:52.920",
+        "end": "00:45:22.440",
+        "text": "it does it does extend lifespan in rats and then you've got this study that says it doesn't do that in mice so does it extend lifespan in humans question mark question mark it's gonna take a long time before we actually know it that is that a reason you should stop taking it or maybe for you guys marketing this stuff maybe you should like temper your little you know verbiage on your websites because in reality we don't know yet because it definitely didn't do that for mice so would that do it for humans what's the difference I don't know"
+    },
+    {
+        "start": "00:45:22.440",
+        "end": "00:45:48.560",
+        "text": "a lot more studies to be done but the point I want to make the pros outweigh the cons and that's what we have learned in C60 in the last three years so I want to say thank you for watching my video I hope that and I just you know I make these videos because I I'm really curious I want to learn and I learned three years ago when I started my channel that the other people like this they like to hear about what I'm learning so that's what I'm doing I'm"
+    },
+    {
+        "start": "00:45:48.560",
+        "end": "00:46:14.440",
+        "text": "researching and I'm studying and I'm sharing what I learn you know at no cost to you and and I don't make anything off of it I just want to say thank you for your time thank you for watching this video I hope it was educational for you now if you want to learn more about C60 I have a huge library of information about it over on my blog called the Tinkers Academy to get there you just type in Tinkers.academy in your URL window on your browser it'll take"
+    },
+    {
+        "start": "00:46:14.440",
+        "end": "00:46:42.920",
+        "text": "you right to my blog and go to the C60 page tons of information and I've categorized all of my different videos and you know I never thought three years ago that I could make over 30 videos about one molecule but I did and so there's a lot you know I categorized everything and organized it all nicely on my blog in there and it's called the Tinkers Academy also we have a C60 chat group on telegram that just talks about C60 making C60 the market and so forth and you can go ahead and click the link below in the video description and come"
+    },
+    {
+        "start": "00:46:42.920",
+        "end": "00:47:12.760",
+        "text": "join and if you got questions about C60 about how to make C60 you know come on over and join and join the group and and ask away so again you know thank you so much for your time I really appreciate your you know your interest and I really truly appreciate the positive comments and your kind words that you share with me so thank you so much lastly before I go this is part one there is gonna be a part two I didn't want to make you know again you know this is already almost 50 minutes but I had so much content and that I want to"
+    },
+    {
+        "start": "00:47:12.760",
+        "end": "00:47:42.760",
+        "text": "share with you a part two on more of what we have learned let's talk about the C60 hydrogen connection C60 oil production methods the product evolution and then I'm also where do we go from here and we you know because we've learned a lot so I have a what we have learned about C60 part two coming up I don't know when soon hopefully but that's what's coming up for part two and I hope you do have a chance to jump in and watch that when you do so again thank Thank you so much and Aloha. Have a great day. Bye."
+    }
+]

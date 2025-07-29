@@ -1,0 +1,265 @@
+
+[00:00:00.000 --> 00:00:04.060]   Aloha everyone and welcome to another Tinkers Academy video. I'm your host
+[00:00:04.060 --> 00:00:08.960]   Kay Elmer and in this video I'd like to address something that popped up in our
+[00:00:08.960 --> 00:00:14.040]   H2H HO telegram chat group recently where one of the members shared a pH
+[00:00:14.040 --> 00:00:18.240]   test that he had done on his I believe is an awkward cure AC50 brownscast generator
+[00:00:18.240 --> 00:00:22.980]   and it kind of raised quite a bit of questions from several members. I myself
+[00:00:22.980 --> 00:00:27.600]   included and of course it compelled me to want to go ahead and test myself so I
+[00:00:27.600 --> 00:00:32.280]   just finished the experiment my measurements and I just wanted to kind of
+[00:00:32.280 --> 00:00:37.600]   put this together and to share it with the community to let you guys know you
+[00:00:37.600 --> 00:00:41.560]   know what I found when I did my own test so let's just go ahead and jump into it
+[00:00:41.560 --> 00:00:48.320]   now what this is a test is I ran a TDS at a pH test of the brownscast generator
+[00:00:48.320 --> 00:00:53.720]   the fluids and so TDS stands for total dissolved solids it measures the amount
+[00:00:53.720 --> 00:00:59.840]   of total dissolved solids parts per million and then the pH test is is a
+[00:00:59.840 --> 00:01:05.000]   measure of what pH stands for potential hydrogen or and it also measures the
+[00:01:05.000 --> 00:01:08.760]   conductivity electrical conductivity within the water so that's what those two
+[00:01:08.760 --> 00:01:12.320]   tests are so one of the first things that I want to kind of convey for anyone
+[00:01:12.320 --> 00:01:16.840]   who's not as familiar with brownscast generators is that there's there's a lot
+[00:01:16.840 --> 00:01:21.040]   of different parts and so one of the things about timings and and about the
+[00:01:21.040 --> 00:01:25.480]   generator itself you know it's it's something that I just really want to
+[00:01:25.480 --> 00:01:28.960]   point out and that it's really important I think you know when you're talking
+[00:01:28.960 --> 00:01:32.640]   about measuring anything coming out of one of these generators is how long has
+[00:01:32.640 --> 00:01:37.120]   that generator been running just by itself you know and so one of the things
+[00:01:37.120 --> 00:01:40.440]   about generators and these are all the recommended time frames so if you own
+[00:01:40.440 --> 00:01:44.480]   one of these you need to I mean based on the experiment I just ran I highly
+[00:01:44.480 --> 00:01:48.080]   recommend you stick to the time frames that are recommended by the manufacturers
+[00:01:48.080 --> 00:01:52.440]   and so the whole idea behind a runtime on a generator is how long has that
+[00:01:52.440 --> 00:01:57.120]   generator been used you know running without having the tank flushed and you
+[00:01:57.120 --> 00:02:03.080]   know the recommendations kind of varies over time and by manufacturer but for
+[00:02:03.080 --> 00:02:08.360]   this model of a brownscast generator it's usually around 120 hours you're gonna
+[00:02:08.360 --> 00:02:15.760]   want to flush the tank and then the recommendation for like the AC50 is that
+[00:02:15.760 --> 00:02:20.480]   you would just go ahead and save the electrolyte and add more and then the
+[00:02:20.480 --> 00:02:24.760]   recommendation on the H2 Genesis is to dump the whole thing and start over and
+[00:02:24.760 --> 00:02:29.360]   both of these would take I believe about 50 grams of sodium hydroxide which is
+[00:02:29.360 --> 00:02:33.560]   also known as lie to be the electrolyte in the distilled water that you would
+[00:02:33.560 --> 00:02:38.360]   put inside the tank so what I mean is that I think there's gonna be a huge
+[00:02:38.360 --> 00:02:42.680]   difference if you're at if you just set this up brand new and you run it when
+[00:02:42.680 --> 00:02:47.000]   it's at maximum electrolyte right and just has you just put in 50 grams as
+[00:02:47.000 --> 00:02:52.600]   opposed to 119 hours later how much of that electrolyte has then been filtered
+[00:02:52.600 --> 00:02:56.760]   into the filter bubblers and then thrown away so and then of course if you
+[00:02:56.760 --> 00:03:00.680]   practice throwing it away and refilling which just fresh distilled versus you
+[00:03:00.680 --> 00:03:05.040]   fill it you put the filter water back into the tank you know it does me I
+[00:03:05.040 --> 00:03:09.080]   believe these are kind of variables of the measurement and I just wanted to
+[00:03:09.080 --> 00:03:14.720]   point them out now what I did for me is I just did the unboxing video for my H2
+[00:03:14.720 --> 00:03:19.080]   Genesis on February 8 so it's only been a few weeks so roughly three weeks later
+[00:03:19.080 --> 00:03:24.520]   I have literally taken the entire contents of my filter bubbler one and
+[00:03:24.520 --> 00:03:29.920]   poured it back into the tank once a week to fill the tank back up so I'm on I've
+[00:03:29.920 --> 00:03:34.160]   done it three times now so that's where my generator lives right now and so I
+[00:03:34.160 --> 00:03:38.160]   would say the total runtime on my generator based on what I had just
+[00:03:38.160 --> 00:03:44.200]   experienced which was to to run you know I run it about probably I would say
+[00:03:44.200 --> 00:03:48.360]   maybe six to seven hours a day but you know it varies every single day is a
+[00:03:48.360 --> 00:03:51.760]   little different for me right but that's kind of what so I'm kind of counting
+[00:03:51.760 --> 00:03:56.040]   the days based on that six to seven hours a day average and then when I hit
+[00:03:56.040 --> 00:04:00.200]   120 I'm gonna dump the tank and start over okay that's how I do it but it's
+[00:04:00.200 --> 00:04:04.560]   basically though this experiment was done with a brand new H2 Genesis set up
+[00:04:04.560 --> 00:04:09.520]   on February 8th today's March 1 three weeks later I've only filled up the tank
+[00:04:09.520 --> 00:04:13.680]   or refilled the tank three times with the entire contents of filter one all
+[00:04:13.680 --> 00:04:18.280]   right now the other time frame that you need to keep in mind is the refresh time
+[00:04:18.280 --> 00:04:22.320]   on what the on you on these filters the recommended time is you only even though
+[00:04:22.320 --> 00:04:25.560]   you can remember that running the generator separate when you're running
+[00:04:25.560 --> 00:04:29.440]   the generator you're bubbling through these filters which are meant to be
+[00:04:29.440 --> 00:04:34.040]   filters they filter out any possible electric light that escapes through the
+[00:04:34.040 --> 00:04:38.400]   gas but so that you don't end up drinking it and so in filter one and
+[00:04:38.400 --> 00:04:43.840]   filter two the recommendation is that you own that every ten hours of run time
+[00:04:43.840 --> 00:04:47.200]   right so you're running the you're running your generator but every ten
+[00:04:47.200 --> 00:04:51.800]   hours you go that's the maximum and then you empty these two out all right and
+[00:04:51.800 --> 00:04:55.800]   like I said I would pour mine in there but either if and if it's already full
+[00:04:55.800 --> 00:05:00.840]   I just dump it okay I just would dump it and refill with clean distilled water so
+[00:05:00.840 --> 00:05:05.360]   that I always have clean water in my filters every ten hours that is the
+[00:05:05.360 --> 00:05:08.680]   guideline that's what you should be doing okay so you've got your refresh
+[00:05:08.680 --> 00:05:13.320]   time so that you want to refill your filters you've got your refl you know
+[00:05:13.320 --> 00:05:16.960]   your flush time that you want to flush your tank and then the other third thing
+[00:05:16.960 --> 00:05:20.080]   that you need to keep in mind is that you know you got your drinking container
+[00:05:20.080 --> 00:05:26.160]   now you you're gonna want and this is the standard you know browns gas you know
+[00:05:26.160 --> 00:05:30.480]   saturation of water and in your drinking water it can be any kind of water you
+[00:05:30.480 --> 00:05:34.400]   like you know it could be anything from avian or tap but you can just basically
+[00:05:34.400 --> 00:05:38.200]   put your whatever you drink and then you're gonna bubble it and then the
+[00:05:38.200 --> 00:05:41.840]   bubbling time is ten minutes per liter right so that's your timings you're
+[00:05:41.840 --> 00:05:45.240]   gonna go and then bubble it for ten minutes and they're good to go and you're
+[00:05:45.240 --> 00:05:50.000]   ready to drink it now just keep in mind that h2 you know does you know escape
+[00:05:50.000 --> 00:05:53.720]   where it's a small molecule and it's gonna seep right out of that water really
+[00:05:53.720 --> 00:05:57.440]   quickly so you know the recommendation is that if you bubble water you should be
+[00:05:57.440 --> 00:06:00.440]   drinking within the hour you're gonna have to re-bubble it all right but the
+[00:06:00.440 --> 00:06:03.920]   whole idea though is it only takes ten minutes to saturate one liter of water
+[00:06:03.920 --> 00:06:10.080]   with with h2 or h2 so that's really the concepts here that I'm working with so
+[00:06:10.080 --> 00:06:14.740]   now for this experiment the materials and methods the materials that I use was I
+[00:06:14.740 --> 00:06:21.140]   use the h2 genesis from h2 biohacker as the generator TDS meter a digital one
+[00:06:21.140 --> 00:06:24.400]   that I acquired from Amazon a pH meter digital one that I acquired from Amazon
+[00:06:24.400 --> 00:06:30.040]   very inexpensive so caveat I'm working with cheap Chinese stuff okay the really
+[00:06:30.040 --> 00:06:33.760]   fancy expensive stuff there I just can't afford it but it's it's your and it's
+[00:06:33.760 --> 00:06:38.920]   your anybody's TDS and anybody's pH meter take it for what you will but you
+[00:06:38.920 --> 00:06:42.280]   know good enough right and then the water distiller because I wanted to kind
+[00:06:42.280 --> 00:06:46.120]   of share all of this stuff links below in the video description if you want to
+[00:06:46.120 --> 00:06:49.480]   check out the equipment that I use but I did want to share my water distiller
+[00:06:49.480 --> 00:06:52.920]   because one of the things that was surprising to me was that my water
+[00:06:52.920 --> 00:06:58.080]   distiller produces alkaline water which I did not know I mean which means that's
+[00:06:58.080 --> 00:07:03.960]   because I run my water out of the tap through a burky or another water filter
+[00:07:03.960 --> 00:07:07.560]   that I have that flora that takes out fluoride and so I have two separate like
+[00:07:07.560 --> 00:07:11.480]   a pitcher one and I've got my burky one either one right they filter out all
+[00:07:11.480 --> 00:07:16.840]   this the stuff in the tap plus the fluoride chlorine and whatever and then
+[00:07:16.840 --> 00:07:21.680]   I drink it right so that's the water I pour after I filtered I put it in the
+[00:07:21.680 --> 00:07:26.160]   distiller and then I distill it and it was very surprising that it's still a
+[00:07:26.160 --> 00:07:32.600]   little bit alkaline and you'll see that here in the video now the methods that I
+[00:07:32.600 --> 00:07:37.400]   basically followed is that I basically took my generator who that's been
+[00:07:37.400 --> 00:07:43.000]   running for three weeks you know daily off and on and I ran it for and then
+[00:07:43.000 --> 00:07:47.960]   basically I ran it for 10 hours on clean filter water so I basically take in
+[00:07:47.960 --> 00:07:53.200]   these guys and I refreshed my filters which I do every 10 hours so they're
+[00:07:53.200 --> 00:08:00.400]   very fresh fresh water in the filters and then I ran it for 10 hours okay after
+[00:08:00.400 --> 00:08:04.880]   I ran it for 10 hours I then bubbled some drinking water for the 10 minutes I
+[00:08:04.880 --> 00:08:09.360]   took I just did 750 milliliters because that's the the amount of water that my
+[00:08:09.360 --> 00:08:14.120]   water bottle holds so I just put 750 milliliters in a beaker and then I
+[00:08:14.120 --> 00:08:17.920]   basically bubbled it for 10 minutes as if it was a full leader and I measured
+[00:08:17.920 --> 00:08:22.880]   the before and after pH and TDS and then I also went back and I measured the
+[00:08:22.880 --> 00:08:27.520]   before and after of TDS and pH in the in the water filters that I'm sorry the
+[00:08:27.520 --> 00:08:32.240]   bub the filters the bubbler filters okay so I measured before and after
+[00:08:32.240 --> 00:08:38.360]   filters before and after drinking water okay so the filters was after 10 hours
+[00:08:38.360 --> 00:08:42.880]   and the drinking water was after 10 hours of filters plus 10 minutes of
+[00:08:42.880 --> 00:08:47.000]   drinking water so let's jump right in and kind of just show you what I did
+[00:08:47.000 --> 00:08:52.840]   so here we go I just kind of want to just caveat all of these little tiny
+[00:08:52.840 --> 00:08:56.320]   points because you know it's every little variable in an experiment does
+[00:08:56.320 --> 00:09:01.000]   make a difference so anyway like I said it's I had a third one on the right
+[00:09:01.000 --> 00:09:05.000]   there just ignore that one I had another thought in the beginning but anyway so
+[00:09:05.000 --> 00:09:09.280]   here we go I got a fresh distilled water in in bubbler 1 and bubbler 2 I put
+[00:09:09.280 --> 00:09:14.120]   little stickers on them and you can see that the PPS I'm sorry the PPM of total
+[00:09:14.120 --> 00:09:19.640]   dissolved solids is 4 which tells me that my distillers not the best one on the
+[00:09:19.640 --> 00:09:24.080]   market because it should be zero but you know 04 is not too bad for distilled
+[00:09:24.080 --> 00:09:27.280]   water off I think you know tap water would be like in the hundreds so then
+[00:09:27.280 --> 00:09:31.880]   here's the pH and the funny thing about the pH meter was it just wouldn't stop
+[00:09:31.880 --> 00:09:36.680]   I mean it's just kind of so you have to I this is what I did you guys and call
+[00:09:36.680 --> 00:09:40.080]   me out on if you want but I had to approximate based on what the numbers
+[00:09:40.080 --> 00:09:43.640]   were showing so I just basically would leave it in there for a few second and
+[00:09:43.640 --> 00:09:48.200]   approximate so if it was jumping up like 0.05 up and down point you know
+[00:09:48.200 --> 00:09:51.920]   whatever you could see right here where it's changing I just did my best
+[00:09:51.920 --> 00:09:55.320]   approximation so there's my disclaimer right there I tried to go with the
+[00:09:55.320 --> 00:09:59.080]   number that I that was like the last number after I let it sit there for a
+[00:09:59.080 --> 00:10:03.640]   few seconds so you can see right here you know the pH is like 7.6 fresh
+[00:10:03.640 --> 00:10:07.280]   distilled water okay and that's the bubblers now so now I ran the machine
+[00:10:07.280 --> 00:10:12.640]   for 10 hours okay and then so after 10 hours let's go see what happens to your
+[00:10:12.640 --> 00:10:16.360]   drinking water after your filters are fully saturated fully saturated means
+[00:10:16.360 --> 00:10:21.000]   you've you've used your filters for 10 hours okay so now here's the PPM this is
+[00:10:21.000 --> 00:10:24.880]   before now so I just start out with a brand new glass of water it's distilled
+[00:10:24.880 --> 00:10:28.760]   there you go it's the 0.04 PPM just like you know the other one right so
+[00:10:28.760 --> 00:10:31.880]   that's right out of the right out of the distiller and then let's measure the
+[00:10:31.880 --> 00:10:35.680]   PPH this is what I was talking about let's measure the PPH I'm sorry the PPH
+[00:10:35.680 --> 00:10:41.480]   sorry of fresh distilled water and so look you can see where like you know the
+[00:10:41.480 --> 00:10:45.120]   human body is at 7.5 and I was a little surprised here so I kind of had to jiggle
+[00:10:45.120 --> 00:10:48.840]   it around like making sure I got some kind of a reading that made sense but
+[00:10:48.840 --> 00:10:52.920]   it was really interesting to me that my tap water after filtering and after
+[00:10:52.920 --> 00:10:56.280]   distilling is a little alkaline you could see where it's you know anything over
+[00:10:56.280 --> 00:11:01.560]   seven and half is alkaline so it's like 77076 something you know so I kind of
+[00:11:01.560 --> 00:11:04.720]   approximated and I think I ended up with like seven point you can see it's
+[00:11:04.720 --> 00:11:08.280]   really getting close to 7.5 the longer it gets to read so I kind of
+[00:11:08.280 --> 00:11:12.400]   approximated around 7.5 so let's say you know so here I've got neutral water at
+[00:11:12.400 --> 00:11:18.480]   7.5 in 0.004 PPM and then let's go ahead and bubble it bubbling it again I
+[00:11:18.480 --> 00:11:23.040]   want to really want to emphasize this that my filters are fully saturated at
+[00:11:23.040 --> 00:11:27.120]   10 hours at this point so if you've gone the full 10 hours and you decide to
+[00:11:27.120 --> 00:11:31.200]   bubble yourself a glass of water this is that what's exactly what's going to
+[00:11:31.200 --> 00:11:34.800]   happen here so it takes a few seconds I kick on the machine it starts the
+[00:11:34.800 --> 00:11:40.280]   bubble and there you go I got the bubbler now I use the standard stone that comes
+[00:11:40.280 --> 00:11:44.040]   with the H2 Genesis I also have metal ones but I don't use them and so as you
+[00:11:44.040 --> 00:11:50.960]   can see right there I'm running it at 4 amps at 45% and so that's what I
+[00:11:50.960 --> 00:11:57.120]   usually run it at all the time I run it at 48 5% and at 45 it's 4 amps so now
+[00:11:57.120 --> 00:12:01.880]   it's been 10 minutes I turn off the generator take out the bubbler stone and
+[00:12:01.880 --> 00:12:05.880]   let's go ahead and measure it so this is it after you've run your generator 10
+[00:12:05.880 --> 00:12:10.600]   hours on fresh filters and bubble yourself a glass of water all right let's
+[00:12:10.600 --> 00:12:15.360]   measure what the PPM is and let's what measure what the pH is so here's the PPM
+[00:12:15.360 --> 00:12:21.920]   total dissolved solids after 10 minutes on 10 hour old filters and it's 0.04 it
+[00:12:21.920 --> 00:12:25.560]   has not changed a bit there's nothing there it doesn't pick up anything that
+[00:12:25.560 --> 00:12:29.840]   you know there's nothing else in there in terms of a total dissolved solids now
+[00:12:29.840 --> 00:12:34.540]   it's measuring parts per million because I cannot afford a machine that measures
+[00:12:34.540 --> 00:12:39.240]   parts per billion so let's keep that you know caveat all right so here's the pH
+[00:12:39.240 --> 00:12:45.320]   after 10 minutes on fully saturated filters I got my little little meter
+[00:12:45.320 --> 00:12:48.480]   there I got to shake it up a little bit maybe just get a good reading want to
+[00:12:48.480 --> 00:12:51.720]   make sure I take a little bit of time I don't just keeps going back to zero I
+[00:12:51.720 --> 00:12:55.120]   don't know why but there you go it's now it's starting to settle in and it's
+[00:12:55.120 --> 00:13:02.200]   again approximating so it's like 7.6 so 6 9 5 9 you know 5 6 and so forth so I
+[00:13:02.200 --> 00:13:07.800]   think I approximated this one around 7.56 just you know kind of approximate and
+[00:13:07.800 --> 00:13:11.880]   you know you got a plus or minus 0.04 or something all right so now after the
+[00:13:11.880 --> 00:13:15.760]   10 hours again so I finished my drinking water I got the measurements from that
+[00:13:15.760 --> 00:13:20.880]   let's go take a look at the filters now this is 10 hours plus 10 minutes of the
+[00:13:20.880 --> 00:13:25.180]   filters running so let's take a look at the PPM and definitely 34 parts per
+[00:13:25.180 --> 00:13:29.440]   million there's definitely dissolved solids inside the first bubbler okay the
+[00:13:29.440 --> 00:13:33.760]   filter let's take a look at the second one and let's see it's only 0.06 that's
+[00:13:33.760 --> 00:13:37.680]   a pretty good sign that the filters are doing their job because we just saw in
+[00:13:37.680 --> 00:13:41.800]   the water there's no change so definitely good thing the filters are
+[00:13:41.800 --> 00:13:46.640]   working but there's dissolved solids for sure in the first filter and a little
+[00:13:46.640 --> 00:13:50.840]   bit of dissolved solids in the second now let's take a look at the pH and the
+[00:13:50.840 --> 00:13:56.880]   first filter and it's popped up to 10.4 something and 10.5 around there we're
+[00:13:56.880 --> 00:14:02.000]   gonna approximate around 10.5 something and so the definite the pH as you know
+[00:14:02.000 --> 00:14:06.720]   went from 7.5 all the way up to 10.5 that's that's not you know it's not
+[00:14:06.720 --> 00:14:10.840]   gonna you know anyway it's it's that's the measurement can't really caveat no
+[00:14:10.840 --> 00:14:13.920]   one was gonna drink it anyway and then this one here the second one went up to
+[00:14:13.920 --> 00:14:19.840]   9.25 all right so that's that was the measurements as you just saw and so let's
+[00:14:19.840 --> 00:14:24.120]   take a look at the summary of results filter one started out about 8.26 and
+[00:14:24.120 --> 00:14:26.880]   you know yeah you know I can't figure out why it was higher than the second one
+[00:14:26.880 --> 00:14:32.600]   other than the fact that I didn't wash it I just I just I just you know
+[00:14:32.600 --> 00:14:35.960]   rinsed it so I could think that maybe there was some residual on the inside
+[00:14:35.960 --> 00:14:39.160]   after I resinsed and rinsed it and maybe I should have washed it with soap and
+[00:14:39.160 --> 00:14:43.120]   water but anyway because it's the same filter one right but anyway to the
+[00:14:43.120 --> 00:14:49.300]   starting point for filter one was 8.26 and at the after 10 hours okay and then
+[00:14:49.300 --> 00:14:54.200]   you would obviously refresh it but after 10 hours it went up to 10.54 and so
+[00:14:54.200 --> 00:15:01.160]   it definitely increased 2.28 points of of of pH so definitely went up and got
+[00:15:01.160 --> 00:15:05.000]   alkaline but keep in mind that's what the filter supposed to do it's supposed
+[00:15:05.000 --> 00:15:09.480]   to filter out the the gaseous line the sodium hydroxide so that it doesn't get
+[00:15:09.480 --> 00:15:13.480]   into your drinking water now there's a second filter so the second filter
+[00:15:13.480 --> 00:15:17.320]   started out at 7.62 remember these are approximations plus or minus 0.0
+[00:15:17.320 --> 00:15:21.880]   whatever and then it ended up it's 9.25 so there's definitely an increase in
+[00:15:21.880 --> 00:15:26.660]   alkalinity of 1.63 in the second filter and then what's important though
+[00:15:26.660 --> 00:15:29.460]   what's really important this is what really matters at the end of the day and
+[00:15:29.460 --> 00:15:34.460]   when you're talking about pH the pH from the drinking water now this is after 10
+[00:15:34.460 --> 00:15:38.140]   hours so you know you know is this is the point where you should be tossing out
+[00:15:38.140 --> 00:15:42.820]   your filter water replacing it but even at the maximum point of having your
+[00:15:42.820 --> 00:15:50.640]   filters saturated okay I went from a 7 or you saw I went from a 7.52 to 7.56
+[00:15:50.640 --> 00:15:56.060]   my approximation so it was an increase in alkalinity or pH of 0.04 that's four
+[00:15:56.060 --> 00:16:01.160]   one hundredths okay after you know of bubbling at 10 minutes on 10 hour
+[00:16:01.160 --> 00:16:05.920]   filters okay and so then we will look at PPM we look at dissolve solids and the
+[00:16:05.920 --> 00:16:09.920]   concept on dissolved solids where you know you know this is a measurement of
+[00:16:09.920 --> 00:16:13.100]   actually like you know hey what's coming out of that filter I'm sorry what's
+[00:16:13.100 --> 00:16:16.820]   coming out of that tank dissolved solids and you know and is the meter
+[00:16:16.820 --> 00:16:22.160]   picking it up and sure enough it went from a point 0.04 to 0.04 so there's a
+[00:16:22.160 --> 00:16:29.800]   30 parts per million increase of dissolved solids in the first filter
+[00:16:29.800 --> 00:16:34.740]   there was a two parts per million increase in dissolved solids in the
+[00:16:34.740 --> 00:16:39.620]   second filter but the drinking water showed a zero okay so there's absolutely
+[00:16:39.620 --> 00:16:43.460]   no increase and based on these measurements based on the equipment that
+[00:16:43.460 --> 00:16:49.220]   I'm using there was no increase in parts per million so my summation and this is
+[00:16:49.220 --> 00:16:53.680]   what I get from it and I welcome your comments in telegram chat group or on
+[00:16:53.680 --> 00:16:58.040]   this video so you know we can just all talk to each other but based on this
+[00:16:58.040 --> 00:17:04.280]   measurement there's absolutely no increase in any dissolved you know bottom
+[00:17:04.280 --> 00:17:08.480]   line the filters are working and you need to if you have an AC 50 and you only
+[00:17:08.480 --> 00:17:12.600]   and I believe the AC 50 only comes with one filter you really need to get a
+[00:17:12.600 --> 00:17:16.680]   second filter this proves you need to get a second filter because even though
+[00:17:16.680 --> 00:17:20.400]   the first filter does a damn good job the second filter catches whatever gets
+[00:17:20.400 --> 00:17:25.400]   by right you can see it's way different but you still you can still see stuff is
+[00:17:25.400 --> 00:17:29.720]   getting through that first filter okay stuff meaning sodium hydroxide so you
+[00:17:29.720 --> 00:17:33.340]   really really really if you don't have a second filter I think if anything this
+[00:17:33.340 --> 00:17:37.360]   experiment proves is you should get one because if you have one a second
+[00:17:37.360 --> 00:17:40.920]   filter right then you're drinking water even when you just you know at the
+[00:17:40.920 --> 00:17:45.040]   most you're going to have any risk of getting anything because you're following
+[00:17:45.040 --> 00:17:48.560]   your guidelines you know you've gone ten hours you're basically going to have a
+[00:17:48.560 --> 00:17:53.720]   four one hundred increase in alkalinity and absolutely no total dissolved solids
+[00:17:53.720 --> 00:17:58.800]   shown up in the measurements okay that's the that is the results of my
+[00:17:58.800 --> 00:18:04.080]   experiment and I'm just want to share with you okay and so the other thing I
+[00:18:04.080 --> 00:18:07.040]   want to say is thank you for watching this I wanted to keep it short and sweet
+[00:18:07.040 --> 00:18:10.280]   because it's just measuring stuff so thank you very much for your attention
+[00:18:10.280 --> 00:18:15.320]   and watching this video if you have any questions feel free to come to my my
+[00:18:15.320 --> 00:18:18.980]   blog it's that you just type in tinker.academy and your URL window on your
+[00:18:18.980 --> 00:18:24.040]   browser come straight to my blog or you can find me on telegram and also too I
+[00:18:24.040 --> 00:18:29.160]   do have a page on my blog dedicated to Browns gas for health so if you want to
+[00:18:29.160 --> 00:18:34.000]   learn more about Browns gas for health then whoops then what you could do is
+[00:18:34.000 --> 00:18:37.200]   just come to my page there'll be a link below in the video description and I
+[00:18:37.200 --> 00:18:40.160]   just want to point out that I've been doing and following and researching
+[00:18:40.160 --> 00:18:43.320]   Browns gas for several years I've got all the information about the different
+[00:18:43.320 --> 00:18:46.680]   generators that are out there I've collected I've you know basically
+[00:18:46.680 --> 00:18:50.560]   summarized the different areas or different web pages you can get
+[00:18:50.560 --> 00:18:55.160]   testimonials all the research that I can find as well as the clinical trials and
+[00:18:55.160 --> 00:18:58.120]   all the books and articles written about it and then of course all of the
+[00:18:58.120 --> 00:19:01.040]   specific generators that are out there and of course some videos that I've
+[00:19:01.040 --> 00:19:05.160]   done about Browns gas so if you want to learn more come on down to my blog if you
+[00:19:05.160 --> 00:19:09.320]   want to chat with me come on down to telegram and or my blog and I would be
+[00:19:09.320 --> 00:19:13.640]   happy to chat with you about Browns gas so there you go I'm going to state
+[00:19:13.640 --> 00:19:18.680]   right now that if you follow the guidelines right 10 hours on your
+[00:19:18.680 --> 00:19:23.960]   filters bubble for 10 minutes here you go there's absolutely no no nothing I
+[00:19:23.960 --> 00:19:26.420]   would worry about I mean there's nothing here to worry about so that's
+[00:19:26.420 --> 00:19:30.880]   kind of the results that I've I've got from my measurements and again thank you
+[00:19:30.880 --> 00:19:33.600]   very much and have a great day.
+

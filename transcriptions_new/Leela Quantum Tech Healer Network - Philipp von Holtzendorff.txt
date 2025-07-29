@@ -1,0 +1,282 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:26.760",
+        "text": " Hello everyone and welcome to another Layla quantum tech video. And in today's video, I've got the pleasure of speaking with Philip one Holtsendorf. How are you doing, Philip? Hi, K. I'm doing great. How are you? I'm doing awesome. Hey, you know, this video is the one where I've talked Philip into getting interviewed himself as one of the healers of the Layla healer network. And so for those of you who aren't familiar, if you go to the Layla quantum tech"
+    },
+    {
+        "start": "00:00:26.760",
+        "end": "00:00:55.560",
+        "text": "website, and you click on this little little word here called healers, the thing that I like to point out to people all the time is that Layla quantum tech is a is a collaboration of different gifted and talented healers all around the planet. And Philip's one of them. And so what Philip had done on his YouTube channel was he started interviewing each one of them kind of just introduced them to the to the Layla community. But you know, but who's going to interview him? Right? So I"
+    },
+    {
+        "start": "00:00:55.560",
+        "end": "00:01:21.960",
+        "text": "decided to take it upon myself to interview Philip as one of the healers of the healer network and just talk about him as a healer. So Philip, thanks for for encouraging my my idea here. Because I thought it'd be a really kind of a nice thing for people to, you know, meet you as well as as one of the healers in the network. So hey, well, thanks for that idea to to to bring that up. I never"
+    },
+    {
+        "start": "00:01:21.960",
+        "end": "00:01:50.400",
+        "text": "thought about that. And that on that level, I try to stay in the background. But you know, when you when you asked me, it felt right to do it. So Yeah, well, you know, as I was looking at the websites of the other healers, it was really interesting. I found that some of them were just born that way. Others had acquired it as a skill. You know, and then and you know, basically, everybody's different. But at one point in their life, they just kind of"
+    },
+    {
+        "start": "00:01:50.400",
+        "end": "00:02:17.320",
+        "text": "just like a light bulb goes off. And they switch from whatever they're doing. And they start really focusing on honing their skills as a healer. And then they just get better and better and better at it. And to which on all of these individuals here pictured on the website are all really well recognized healers in their own right with with their own followings and their own websites and everything. So and then of course, there's you right. So I yeah, I just really wanted to start off with the"
+    },
+    {
+        "start": "00:02:17.320",
+        "end": "00:02:46.960",
+        "text": "first question is you as a healer is and this is the same question you posed to your other healers when you were interviewing them, which is, you know, what what was that spark of light for you? I mean, I know that used to be like me right now, you know, white collar, you know, C suite, you know, person in a big industry, you know, telecom industry for you. But you know, but then now like years later, you know, completely 180 opposite from being a white collared suit in a high rise."
+    },
+    {
+        "start": "00:02:46.960",
+        "end": "00:03:11.360",
+        "text": "So, you know, what was that spark of light for you that said, Hey, you know, this is not this is not what I want. And I want to be a healer. Yeah. So I was not one of the ones that was born with this. And then probably I wouldn't have ended up in corporate anyway. But yeah, so that that was just my path though. And I think in"
+    },
+    {
+        "start": "00:03:11.360",
+        "end": "00:03:37.400",
+        "text": "early 2000s, really 2001 ish, I started to figure out that there's more and I started to become interested in this whole topic of energy work yoga and I started reading some books about it and I started to try meditation and try some yoga."
+    },
+    {
+        "start": "00:03:38.360",
+        "end": "00:04:05.680",
+        "text": "That's where it all started, if you will, and I was at a place at that time where I felt, okay, it's there's something missing, like, you know, I work all the time and I really don't feel that good. I wasn't a happy person, I must say, I was in a relationship and the relationship was pretty good and everything. But at core, I wasn't happy. So something was missing. And I think that was the driver to to figure out, okay,"
+    },
+    {
+        "start": "00:04:06.360",
+        "end": "00:04:34.040",
+        "text": "you know, how can I be more happy? And I didn't even consciously do that, I think it just happened. And then certain things happened that I found a flyer somewhere about an open door of, you know, one of those centers where they offered a chukra course. And I was like, Hey, yeah, you know, I didn't even really think about it. And I went there and then they offered a course to talk about what the chukras are and the"
+    },
+    {
+        "start": "00:04:34.040",
+        "end": "00:05:01.400",
+        "text": "different qualities of it. I was like, wow, I had no idea that this exists. And I even had doubts that you know, that's even true what they're talking about. But that was kind of where it really all started. But then I got more interested and I felt like, wow, you know, this is this stuff that is real and it's and it's working as I did a few works actually to work on some of the own blockages and difficulties that I had in my"
+    },
+    {
+        "start": "00:05:01.400",
+        "end": "00:05:31.160",
+        "text": "life. And I felt, okay, now I wanted to actually really do more of that work. And at the same time, really learn how I can do these things on my own. And never I did not at all have the desire to to learn that to really truly help other people with that. For me, it was like, I had my career, but I want to do heal myself. And I wanted to learn that so that I can apply"
+    },
+    {
+        "start": "00:05:31.160",
+        "end": "00:05:58.440",
+        "text": "it for myself. And while I'm learning it, I was figuring, well, then I'm releasing a lot of those blockages and transforming my own being in a way. And that's kind of what I did fast forward. I, you know, aside from my business career, I went through multiple of such trainings, like shamanic trainings, past life regression work, and all kinds of stuff"
+    },
+    {
+        "start": "00:05:58.440",
+        "end": "00:06:28.080",
+        "text": "like that. So yeah, and it really did that. It helped me to open up. However, it was a little bit of a struggle for a while, because it took some time to get through things. And it really isn't the easiest path either, because if you're suddenly starting to face your shadows, that's a great thing. Because I mean, that's the most wonderful thing we can do, I think I can recommend it to everyone. Because in the end of the day, you"
+    },
+    {
+        "start": "00:06:28.080",
+        "end": "00:06:57.600",
+        "text": "become more free, and you become more connected and you find out more who you are and why you're here for. But it isn't an easy path. Because that's one of the difficulties. And that's one of the reasons why people don't turn inwards is actually because they're scared of what's inside. Well, we don't need to be scared. And that's what I figured out also at some point. But yeah, so that was in a nutshell, you know, my path and"
+    },
+    {
+        "start": "00:06:57.600",
+        "end": "00:07:26.680",
+        "text": "at some point, things really turned where a lot of the things I did culminated in, okay, now when I actually worked with someone, I could see everything that I needed to see in order to help them. Now I'm talking not really about physical diseases or something like that. I'm talking rather about really deep energetic lockages, whether, you know, someone has just these"
+    },
+    {
+        "start": "00:07:26.680",
+        "end": "00:07:53.280",
+        "text": "repeating patterns that keep them totally unhappy or there's they're always freaking out about something, you know, there's lots, thousands of examples, but really releasing that finding the core of why that is going to that route and then transforming that energetic root course cause, if you will, that is something I became super, super easy to do actually."
+    },
+    {
+        "start": "00:07:54.160",
+        "end": "00:08:21.960",
+        "text": "Okay, so she kind of went on a journey of self discovery, and then all of a sudden you'd started to help others do the same, right? You know, sort of, yes, and, and, and, you know, I started to also work with clients, but it still never was what I really wanted to do. And even today, every now and then I do have a client and it's, it's actually fun. And I always feel great when"
+    },
+    {
+        "start": "00:08:21.960",
+        "end": "00:08:48.280",
+        "text": "I do that work, I really love to do it. But yeah, I think my, my path was really to, to use that knowledge that I've gained and myself discovery to now help create these products to help people and to, to bring in other healers as well. Yeah, no, that's, that makes a lot of sense. I mean, we all have"
+    },
+    {
+        "start": "00:08:48.280",
+        "end": "00:09:13.160",
+        "text": "our own various outlets for how to help other people. I didn't think of it that way. That's a really good way to think of it. You know, as part of your healing journey and we're all still learning, right? You once described yourself as a shaman. So is that something that's self taught? Or did you kind of like mentor under an actual shaman? And, and can you talk a little bit more about that? Because I think that's one of the very fascinating things about Philip."
+    },
+    {
+        "start": "00:09:14.440",
+        "end": "00:09:42.600",
+        "text": "Yeah, so it's not self taught, even though after I learned a lot of the mechanisms and how to use the drums and various other tools, etc, to change vibrational energy and then, you know, actually go very deep on journeys with people and, and help them. I'm not talking about plant medicine or anything right now, though, because I really work just energetically, and not"
+    },
+    {
+        "start": "00:09:42.600",
+        "end": "00:10:08.800",
+        "text": "with with any plant medicine. Unless maybe some smudging, you know, that there will be something. But I really learned that in courses, in various shamanic courses. So I've worked a lot with some shamans and people that trained other shamans. And yeah, what I learned there at some point, then I refined with my own energy, because in the end of the day,"
+    },
+    {
+        "start": "00:10:08.880",
+        "end": "00:10:35.120",
+        "text": "you can learn a lot of tools, a lot of how to do it and how to access the knowing, if you will, the spirit. But then it comes down to what is needed in a given moment, and that can look completely different. Like you, you may have the jump, but you may beat it in a completely different way. So that that is very important, that you have that flexibility and just do what is needed in the moment. And that then came through more"
+    },
+    {
+        "start": "00:10:35.120",
+        "end": "00:11:04.360",
+        "text": "practice. Okay, so you know, I know that you live in the Southwest USA. So is, is the shamanism more like centralized like, like American First Nations people? Or is there like more like South American? I mean, is there a difference? Do you feel and you know, because you're talking about, well, there's you know, the folks that use plants, but then the ones that are focused on frequency and energy, is that something as unique to, to like the the South, you know, the Southwest Indian"
+    },
+    {
+        "start": "00:11:04.360",
+        "end": "00:11:31.680",
+        "text": "tribes, when you talk about shamanism, or are you talking about oriental shamanism? So there are multiple different right, tribes and versions. And, and I think I've, I've tapped into multiple of those and learned the essence of it. But I wanted to make sure people understand that I'm not, you know, shaman working with you with plant medicine. So don't call"
+    },
+    {
+        "start": "00:11:31.680",
+        "end": "00:11:59.880",
+        "text": "me or text me and say, Hey, I want to do plan is like, I don't do these things. You have to go to someone else. Ideally, maybe to the South American jungle somewhere. And I'm not saying this cannot be great that, you know, there's some definitely some plant medicine out there that can be if used correctly. And, you know, rarely, very rarely, it can be very, very powerful. But that's really not what I've worked on. And I"
+    },
+    {
+        "start": "00:11:59.880",
+        "end": "00:12:28.000",
+        "text": "don't, I don't think it's, it's specific to the area here. I think there are several tribes that work with a lot of, you know, energy and frequency. And, you know, I think all of them work with drum drums, all of them work with feathers, ones that I've encountered. Yeah, it's definitely sound, or the sound slash frequency, right? mixed in with the energy work. That's, that's, that's what I've seen. So, I'm, you know, I'm curious to, to kind of"
+    },
+    {
+        "start": "00:12:28.000",
+        "end": "00:12:55.920",
+        "text": "hear when you were mentioning that you were actually doing hands-on healing work, was that at like a phase between, you know, in your learning journey and then starting Layla. Yeah, because I know that you also do this path of love, and you do webinars with people go to in use, and you don't know if you still do the retreats path of love retreats. But is that, you know, because I'm just, I guess, you know, you do so many different things. And so my question is, is like, you"
+    },
+    {
+        "start": "00:12:55.920",
+        "end": "00:13:25.480",
+        "text": "know, what was that journey like that ended up being where the focus of your time is frequency and energy, whereas, you know, there's so many different practices, right? You were talking about the yoga, the meditation, the, you know, you've got the the reiki folks that are doing right, right, the Reiki Reiki, you know, you're doing those kinds of works, you've got people that are doing sound healing with Tibetan bowls. I mean, there's so many amazing things that can tie into the concept of healing and all the different healers of the"
+    },
+    {
+        "start": "00:13:25.480",
+        "end": "00:13:54.840",
+        "text": "network do different things. I mean, here's a picture of, you have Insha, which is, you know, the drums, right? So, you know, how did you end up with focusing in on like quantum energy? And, you know, and and the frequency work, and as as a very specific, you know, thing to do. I mean, what was that like? And what what led to that? Yeah, so first of all, the work that I described that I do with others, that was always on the side that was never at any point"
+    },
+    {
+        "start": "00:13:54.840",
+        "end": "00:14:22.720",
+        "text": "in my life, my main focus. Okay. That was really on the side and even the seminars and retreats that crew Roman and I together gave, including webinars, that's that's always something that's kind of like on the side. We had right when COVID, the COVID stuff started, we had a big seminar here in our land, actually the three of us together. And then, you know,"
+    },
+    {
+        "start": "00:14:22.720",
+        "end": "00:14:50.680",
+        "text": "it was very, very difficult to travel, you know, for for people here, but then especially also for Roman to come over here from Europe. So that's why we haven't done since that time, a physical retreat. But we'll definitely do that again. But it hasn't been the time yet. So like that we don't we work when there's an impulse to do it, then we we talk about it and then we'll create it. But it hasn't been an impulse yet. In"
+    },
+    {
+        "start": "00:14:50.680",
+        "end": "00:15:20.240",
+        "text": "terms of webinars, we continue to do that. And yeah, when, you know, with a with a quantum healing and frequency, you know, in 2016, I got out of corporate completely and started doing really what I felt called to do. And what I felt is kind of like the next thing and working from these impulses, if you will, and not from, you know, someone telling me what I need to do"
+    },
+    {
+        "start": "00:15:20.240",
+        "end": "00:15:50.320",
+        "text": "today and next few days. And even if you're like a high level executive, you always have someone that has specific expectations and things that didn't really fit me anymore. And yeah, so we realized that there is a lot of healers out there that do amazing work. And yes, there's also Reiki and the Reiki is frankly, it's like really on the bottom of the scale"
+    },
+    {
+        "start": "00:15:50.320",
+        "end": "00:16:19.360",
+        "text": "for me, because it's really the easiest. It's the less least impactful, frankly, I don't want to offend anyone. But it really is like even like long 10 year Reiki masters that, you know, are actually awesome and what they do. I mean, they go to Agni and then they started zero and they're like, okay, well, now I really learn what's going on. So there's there's huge scale of, you know, yeah, healing modalities, but then up to"
+    },
+    {
+        "start": "00:16:19.360",
+        "end": "00:16:46.120",
+        "text": "level where you're like a really impactful healer that can move worlds literally. But the what fascinated me was when I bumped into obviously some different energy devices, energy tools, and there's a lot of this stuff out there, right? Even crystals, I had been really interested in crystals. And"
+    },
+    {
+        "start": "00:16:46.120",
+        "end": "00:17:15.880",
+        "text": "then the attempts to have quantum technology and working with frequencies and all of that. But all not well executed because if there's a disharmony created at the same time, while you're trying to solve something, that's by itself not a good execution of something. And it and it sounds great. And yes, they're it's already quite cool and nice if there's"
+    },
+    {
+        "start": "00:17:15.880",
+        "end": "00:17:41.480",
+        "text": "quantum energy in it. But if it's very little and it causes energetic distress, it's not great. So obviously, for for me at the time, it was then the moment to speak with Roman and also with crew and and we were looking into, okay, so shall we do something here that is really powerful and is fully"
+    },
+    {
+        "start": "00:17:41.480",
+        "end": "00:18:11.440",
+        "text": "harmonious with the human cells, etc. And the clear answer was always yes, because we didn't just do it. It was, you know, okay, so what are we going to do is this is the right thing to do. How are we going to do it? And then we started the creation of it. And yeah, all that that came out of it is now what we have available, what you can see on the website and you know, the products you can touch and check out and that"
+    },
+    {
+        "start": "00:18:11.440",
+        "end": "00:18:40.160",
+        "text": "have been tested. And yeah, it was very clear that it shouldn't be just us, we should involve some of the other healers because they have different qualities. And what I've learned also is that there isn't the one healer that can do it all. And there's also not the one healer that's the right one for everyone. And there's also not the healer that really sees it all on that level, because I, you know, from my perspective,"
+    },
+    {
+        "start": "00:18:40.160",
+        "end": "00:19:09.280",
+        "text": "there are there's so many different levels, right? We have this physical material, then we have the energetic and we have the big picture and all of that. But still, even on that big picture, one healer may look at this with a more focus on this and another one on that. And so even today, sometimes I'm being asked by other healers, you know, here I saw that you can help with the word for my client. And and and and that's an amazing"
+    },
+    {
+        "start": "00:19:09.280",
+        "end": "00:19:38.360",
+        "text": "healer because they see, well, okay, there's something that someone else is the right one to solve or to work with. You don't have to do it all yourself. And you shouldn't because sometimes you're just not the right one. And that's why we've included some other healers to to help with these other additional aspects. Oh, that's yeah, that makes a lot of sense. Yeah, there's so many different options, you know, and I guess it really depends on"
+    },
+    {
+        "start": "00:19:38.360",
+        "end": "00:20:06.280",
+        "text": "first diagnosing what the issues are. And then finding the right fit for you right in terms of modality and the individual to help you as a healer. So I think, you know, I mean, do you see right now as it stands, like, it really seems to me because I've been studying this for a couple of decades, that, you know, as the progression of the healing arts, you know, you know, grow and evolve, that we've kind of reached this whole new level"
+    },
+    {
+        "start": "00:20:06.280",
+        "end": "00:20:33.160",
+        "text": "now, you know, this this quantum space because prior to Leila, there really wasn't any, I mean, you know, there's little gizmos and things like that. And you got people tinkering around with scalar energy and all that. But nothing has for me personally, move the dial as much as quantum energy. You know, your devices are pretty amazing. So I mean, what do you see as the next gen, you know, like, like the next step, I mean, in terms of healing, you know, because right now there's so many people that are"
+    },
+    {
+        "start": "00:20:33.160",
+        "end": "00:20:58.880",
+        "text": "coming into our chat group, right? And they're asking all these different questions about their particular issue. But I mean, what do you see in the future? Just as our as my last question of where this is all going to go? I think that, you know, as a healer, what do you what do you think about that? So we have something coming, I think, which will also help define a little bit of that journey. I don't want to say too much right"
+    },
+    {
+        "start": "00:20:58.880",
+        "end": "00:21:25.400",
+        "text": "now, but we'll talk about it in May. But what I see coming is really that the consciousness of a lot of people, a lot more people than in the past will actually expand or they will sit differently and better, maybe a lot more people will unlock a lot more of their consciousness. And therefore, they with all of"
+    },
+    {
+        "start": "00:21:25.400",
+        "end": "00:21:52.200",
+        "text": "that together, they will raise or we will altogether raise the vibration here on earth. That sounds pretty big, but it's it's really actually happening. And I and I can't even foresee what all will be possible when in when we're in three years here and a lot a lot more of that will be unlocked. So we will see a lot more in regards to frequency medicine, quantum and distant healing,"
+    },
+    {
+        "start": "00:21:52.200",
+        "end": "00:22:20.560",
+        "text": "it'll become a lot more normal. People will naturally understand it a lot more just because they're open up more, give you one example, which is quite fascinating. So we've spoken about David Hawkins before, and his book power versus force, and where he set up the the Hawkins scale, which is basically consciousness levels that he set from zero 1000 like everything"
+    },
+    {
+        "start": "00:22:20.560",
+        "end": "00:22:48.960",
+        "text": "above, I think like 350 or 250 is getting into like unconditional love and things like that. And then at some point, you know, they're different states that you can have, or that even places can have, and then between seven and 1000 would be like the Buddha consciousness. So at the time where he set it up, he couldn't look any further than 1000 and it actually wasn't even"
+    },
+    {
+        "start": "00:22:48.960",
+        "end": "00:23:17.960",
+        "text": "possible here on earth for something physical to vibrate at a higher consciousness level. Yes, unseen in the non physical, obviously, but not in the physical, it's different now, and we actually just had our seventh generation infinity block tested. And I kid you not, it's at 1152 on the Hawkins scale."
+    },
+    {
+        "start": "00:23:17.960",
+        "end": "00:23:47.280",
+        "text": "I'm showing it on the screen right now, that's, that's over the top, that's past 12 dimension full consciousness. Yeah, or you could, yeah, it's higher than what was possible at the time at that time, it wouldn't even have been possible for us to create a seventh generation just because the circumstances were not there and the vibration here on earth was not there and not ready, but it shows it's really moving"
+    },
+    {
+        "start": "00:23:47.280",
+        "end": "00:24:15.880",
+        "text": "into that direction that now it is possible. And it's it's fascinating. And we had that, you know, tested multiple times to be really certain. And yeah, it is what it is, but it should should be a great message for people though, because it's moving. Yeah, no, it's it's fascinating. It is absolutely fascinating. So to wrap it up, you as a healer, so you mentioned"
+    },
+    {
+        "start": "00:24:15.880",
+        "end": "00:24:45.080",
+        "text": "you don't take clients as you know, as as a healer, is that kind of like where you're at right now, you don't actually take on clients. I do. I do. You do? Yeah, I do. But I don't I don't talk about it really. I don't offer it anywhere. It's you know, when people feel that I can help them, or they reach out to me and they're looking for a healer, usually I refer them always to someone else, because it's really not my focus. But"
+    },
+    {
+        "start": "00:24:45.080",
+        "end": "00:25:12.560",
+        "text": "you know, I still do that every now and then. Okay, and do you do that through the path of love? Is that kind of if people were to reach out to you as a healer? Because you know, right now, all the different healers have their own websites. So like, but I guess since you don't actually focus in on, you know, your heat your avenue of healing is Layla Quantum and providing the tools for people to expand their consciousness right. But so is that something that if people were to want to reach out to you as a healer, would that be kind of quote your"
+    },
+    {
+        "start": "00:25:12.560",
+        "end": "00:25:40.200",
+        "text": "website? The best would actually be through telegram, the quantum power will click on my icon, send me a private message. That will be great. You could also even send an email to support@lead.q.com. And then they connect you to me. That's definitely possible. Okay, well, thank you very much. I really appreciate the time. And you are a definite fantastic member of the Layla Quantum"
+    },
+    {
+        "start": "00:25:40.200",
+        "end": "00:25:51.520",
+        "text": "healer network. And I definitely look forward to talking to you more about about this in the future. But thank you for your time this this morning. Thank you, K. All right, have a good day. You too."
+    }
+]

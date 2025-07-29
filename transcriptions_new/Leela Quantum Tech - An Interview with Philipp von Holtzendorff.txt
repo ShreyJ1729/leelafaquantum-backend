@@ -1,0 +1,407 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.720",
+        "text": " Hello everyone, I'd just like to say a good morning, and I'd like to welcome Philip von Holtzendorf of Leila Labs, which is a C60 company. He's also one of the founders of Path of Love, another wonderful business opportunity that he's been pursuing for quite some time and helping people with all sorts of different, I guess, expanding their consciousness."
+    },
+    {
+        "start": "00:00:25.720",
+        "end": "00:00:51.120",
+        "text": "But what I want to kind of just talk with Philip about today, and I wanted to share this with everybody, is Philip's latest focus and his new venture, and I just wanted to kind of just talk to Philip about it and share that with everybody and kind of expand on what's on the new website. So, Philip, hey, welcome. Good morning. How are you doing today? Hi. I'm doing great. Thanks for having me."
+    },
+    {
+        "start": "00:00:51.120",
+        "end": "00:01:16.480",
+        "text": "And so, you launched your new venture/website this week, and there's been quite a buzz in Telegram about it. I mean, a lot of people are just really, I mean, this site is just beautiful. And, of course, obviously, there's going to be, I've got questions, everyone's got some questions, you've been peppered with questions, literally, for every single hour, since you started, and everyone's proofreading your website is pretty funny."
+    },
+    {
+        "start": "00:01:16.480",
+        "end": "00:01:45.640",
+        "text": "But I guess the thing is, you've been doing all of this stuff with this, these 60 and the path of love. I know that you've been in quantum energy, kind of that whole space for quite a long time, especially working with your wife, crew, and your partner, Roman. But, you know, I was wondering, could you share with us, what is the new focus of this new company or this new product, the Leila Quantum Tech? I mean, could you kind of just expand, like, what's the focus of this one now, of this"
+    },
+    {
+        "start": "00:01:45.640",
+        "end": "00:02:14.800",
+        "text": "adventure? Absolutely. Yeah, maybe one step back. So what really drives me, where my passion is, is to help providing bridges between science and consciousness, if you will, that may sound pretty abstract, but 60, for example, is one of those things. It can really, from our perspective, at least, bring humanity forward in a way that other"
+    },
+    {
+        "start": "00:02:14.800",
+        "end": "00:02:43.200",
+        "text": "substances and molecules haven't so far. And it actually also works on the quantum level, quite significantly. The 60 molecule, a lot of people don't know that. And you know, where I'm coming from, I used to be in a big corporate career and all of that a long time ago, and very early on, notice that that's really not what life is about, right? I mean, that's a nice game."
+    },
+    {
+        "start": "00:02:43.200",
+        "end": "00:03:11.280",
+        "text": "It's not here on Earth, but it's really not why we came here for and what I came here for. So I always, for a long, long time, worked on actually trying to remember why I'm here and working on removing blockages that prevent me from seeing energies and things like that. So fast forward, you know, that was fairly successful. And now I feel like, because I was not born like my wife, crew, or Roman, where you can"
+    },
+    {
+        "start": "00:03:11.280",
+        "end": "00:03:40.040",
+        "text": "see all the energies and frequencies, I pretty much had forgotten all of that. And now, you know, early on, I actually didn't think this even exists and thought, you know, that's kind of crazy, but it really isn't. And I kind of know how it is if you've forgotten these things, and if you're starting to understand that with your heart, there is more, right, there is more. And now what we're doing with path of love and with C60, but also with this quantum approach"
+    },
+    {
+        "start": "00:03:40.040",
+        "end": "00:04:04.120",
+        "text": "is really helping people bridge the gap. And this new focus with Lila Quantum Tech is on one hand on very special frequencies that can help with a lot of different situations and topics in life. And some of them are very, you know, use case focused, right?"
+    },
+    {
+        "start": "00:04:04.120",
+        "end": "00:04:33.240",
+        "text": "I mean, where, you know, like a sleep and rest card, for example, has a very specific purpose. And then there are some other cards, though, that we also will be introducing more cards over the next several weeks and months that are focused more on the spiritual path, if you will, inner peace or unity. Those would be frequencies that probably don't interest a lot of people that really have"
+    },
+    {
+        "start": "00:04:33.240",
+        "end": "00:04:56.520",
+        "text": "a very specific use case, hey, I want to sleep better or, you know, hey, I just want to heal my body with a heal frequency. So there's a big bandwidth of how to, you know, move forward on your very individual path. So some frequencies that we offer may really not be the right ones for some people. And then others are exactly the right ones."
+    },
+    {
+        "start": "00:04:56.520",
+        "end": "00:05:22.960",
+        "text": "So it's a bandwidth, and we want it to not just cater to one group of people and really try to provide the best frequencies and healing frequencies we can. And now, you know, you can see on the website, we may go into that, that we work with a network of healers together, and those are not just some healers, you know, that just say, hey,"
+    },
+    {
+        "start": "00:05:22.960",
+        "end": "00:05:48.800",
+        "text": "you know, I can heal, or, you know, I can do great things, yeah, we can all do great things, frankly, and I actually support that. There's a big difference between, you know, just getting started on something like that or being an absolute expert and professional, having done this for years and having trained thousands or hundreds of other healers. And those people, we connect it with better, I mean, they have been our network already,"
+    },
+    {
+        "start": "00:05:48.800",
+        "end": "00:06:13.880",
+        "text": "so we connected them specifically for this purpose, and they all were more than willing to, you know, help and to think about, okay, what are these frequencies that right now would be very helpful for people, and we're living in very special times, right, and everybody would agree probably with that, and we understand that all on a little bit different level."
+    },
+    {
+        "start": "00:06:13.880",
+        "end": "00:06:40.480",
+        "text": "So that is the one focus, really, and before I forget that, I must say that love is what really vibrates in everything that we do. It's kind of the overarching umbrella, and so this is not an industrial focus here. This is really a focus, you know, to help people, but also the environment, animals,"
+    },
+    {
+        "start": "00:06:40.480",
+        "end": "00:07:08.240",
+        "text": "and plants for that matter, and have love be part of everything that we do, but also every product that we deliver. And yeah, expanding beyond that, certainly the quantum energy is just a great way of, you know, working with frequencies and enhancing certain products, right, so quantum energy"
+    },
+    {
+        "start": "00:07:08.240",
+        "end": "00:07:30.560",
+        "text": "can be defined in various ways, it can be named in various ways, I want to make sure people understand that this is not just about technology here, yeah, it is about technology on one hand, but really what we keep forgetting is that we have this ability that we can all"
+    },
+    {
+        "start": "00:07:30.560",
+        "end": "00:07:58.360",
+        "text": "access if we just work on it, really, for maybe some time, to actually also create these quantum energy field, concentrate quantum energy field, so our consciousness is able to do a lot of things that most of the people have forgotten that we can do that, right? So I think that's an important fact, yes, it's easier than to leverage technology, but"
+    },
+    {
+        "start": "00:07:58.360",
+        "end": "00:08:22.320",
+        "text": "it's really consciousness meets science, right? That is what this is about, because quantum physics enlighten people and inventors like Tesla or Bosco Rich or others, they've all been talking about the same thing, right, and they've been describing the same thing, so none of this is here just scientific or"
+    },
+    {
+        "start": "00:08:22.320",
+        "end": "00:08:49.280",
+        "text": "spiritual, no, it's a merge, and yeah, we try to provide products that people can use that help them in their daily lives in multiple situations, whether at home, at work, if kids go to school, but also bringing a little bit of a new focus on animals and plants as well,"
+    },
+    {
+        "start": "00:08:49.280",
+        "end": "00:09:14.280",
+        "text": "because one thing we know is that obviously we're all frequency and quantum energy works and frequency works, and we can get a little bit later into that, but a lot of people, because we're so blocked and we're just in a way, often, we're programmed, or we just think, guys, this is not real, it doesn't exist, it still works then, but sometimes we"
+    },
+    {
+        "start": "00:09:14.280",
+        "end": "00:09:40.760",
+        "text": "have a hard time feeling it, and it's kind of like a process to feel a bit more of what these things do, but animals, for example, they don't have these concepts of this works or it doesn't work, it just is there, and they leverage it, and they enjoy it, and you can help animals, because if we talk about EMF, for example, certainly they're impacted"
+    },
+    {
+        "start": "00:09:40.760",
+        "end": "00:10:07.280",
+        "text": "as well, and what can they do about it, so we tend to think about, okay, well, can we do for ourselves, and there are lots of great ideas that people have, what you can do to protect against EMF, but what you can do with your dog or with your cat, and they live with us here on Earth, so why not think about ways, how we can help them as well, and what you"
+    },
+    {
+        "start": "00:10:07.280",
+        "end": "00:10:36.160",
+        "text": "just see here on the website in regards to animals is really just beginning. Right, so I get, you know, for the novice individual, how would you describe, I mean, the idea of, you've taken, and you've taken, like, everyday objects, right, and even more interesting is, let's talk about the EMF shielding clothing, which I think is by itself, it's beneficial, but then you've added this enhancement to it that makes it even more valuable in"
+    },
+    {
+        "start": "00:10:36.160",
+        "end": "00:11:04.600",
+        "text": "terms of protecting our physiology from the harmful effects of electro-smog, and I want to talk about that because you've done some testing on that, and there's some really interesting results from that, but in terms of, like, if for people who don't understand that, you know, everyday objects can be enhanced with an energy force, and it's very difficult because it's not electricity, it's not magnetism, it's not typical physics that you learn in"
+    },
+    {
+        "start": "00:11:04.600",
+        "end": "00:11:32.200",
+        "text": "academia, but it's something beyond that. So how would you describe that to someone who's never really, you know, ventured into the idea that there's an energy force that, you know, I guess the best way is, like, Einstein called this energy \"ether\", right, Wilhelm Reich, you know, created the term \"orgon\", of course, the Asians for, you know, forever have called it \"chi\" or \"ki\", and of course,"
+    },
+    {
+        "start": "00:11:32.200",
+        "end": "00:11:59.640",
+        "text": "the Indians' \"arvetics\" have called it \"prana\", but, you know, I mean, or even are those concepts of energy applicable to the idea of quantum, and how would you explain it, because, you know, because really, from a novice standpoint, you know, I look at your website or a novice would look at your website and go, \"Oh, coasters, bracelets, and mugs, you know, whoopee,\" right? I mean, honestly, but, you know, but truly, though, these are not just, but these have"
+    },
+    {
+        "start": "00:11:59.640",
+        "end": "00:12:23.240",
+        "text": "been confused with this energy so that all of the benefits that you're describing, you know, come through this enhancement, and so how would you describe that energy? Yeah, I think that's one of the hardest tasks, probably, to describe this energy. I think you've done a great job already of describing it the way you've done it, because"
+    },
+    {
+        "start": "00:12:23.240",
+        "end": "00:12:53.040",
+        "text": "often, you know, the general ways to describe something in the material world doesn't really apply for something very energetic, where, you know, you can't really, with your brain, it's hard to understand. So anyway, I think everybody would agree that there's consciousness, right? So otherwise, you wouldn't be able to notice things and just being a body, and then there's a certain energy, right?"
+    },
+    {
+        "start": "00:12:53.040",
+        "end": "00:13:15.880",
+        "text": "There's a certain energy that makes a plant grow, for example, and that drives you, that's just a life force that everybody can sense within themselves, right? It's, you know, I mean, I remember very early on when I started thinking about these things, and I hadn't met crew and all that, you know, it's like you have this concept, you're your"
+    },
+    {
+        "start": "00:13:15.880",
+        "end": "00:13:40.480",
+        "text": "body, and that's kind of it, and no, we basically just live in our body, and it may take some time for people to realize that and internalize that, but anyway, it's really this energy. And then it's just not, the energy's all over the place, yeah, quantum energy is everywhere, right?"
+    },
+    {
+        "start": "00:13:40.480",
+        "end": "00:14:10.080",
+        "text": "You know, it's, it really is everywhere, then the question is, you know, can you move it? Can you concentrate it? And then can you put it in objects, for example, and the answer is yes, you can, and you can even do that with consciousness. So, you know, if we had Roman here right now, he could just demonstrate that, you could just put a cup somewhere on your table, and then over the distance, he could put quantum energy in it, right?"
+    },
+    {
+        "start": "00:14:10.080",
+        "end": "00:14:33.260",
+        "text": "It's absolutely possible, and a lot of people may not believe that, but it's still possible. So now, do you want to ask something? No, I just, I, yeah, I just want to say that if people want to actually see the concept of an individual manipulating three-dimensional physics, there's a YouTube video out there"
+    },
+    {
+        "start": "00:14:33.260",
+        "end": "00:15:01.140",
+        "text": "of a, of a Chi master, and he, he, and this is a, this is a real video of, of this guy, and they're having lunch, and one of them says, \"Well, could you show us?\" And so this master takes a chopstick, and he concentrates on it, and he just pushes it through the top of the table, and then picks it up on underneath it. And it's like, okay, how did, you know, and so it's, it's, it's, it's examples of that."
+    },
+    {
+        "start": "00:15:01.140",
+        "end": "00:15:31.100",
+        "text": "It's like, how do, you know, shouting monks take, you know, your hand, which has gotten like whatever 28 bones in it, and push it through, you know, a log, and then none of the bones break? I mean, it's those kinds of amazing feats of, of individuals stretching their consciousness beyond the three-dimensional physics that we understand it to be that, that's, that's what, how I got into this, which was like, okay, how do you explain that? And then all the other, you know, the academics, they cannot explain that."
+    },
+    {
+        "start": "00:15:31.100",
+        "end": "00:16:00.740",
+        "text": "In fact, one of the most important aspects of actual academic science is the concept of the placebo effect. You know, academic science accepts the placebo effect, right, as part of every single study they have. But what is that? So you're, so, you know, I always like to challenge academics by saying, well, you know, you believe in the, you know, you accept the placebo effect. In fact, you would alter all of your studies to take it into account. Yes, we do. All right. Then what is it?"
+    },
+    {
+        "start": "00:16:00.740",
+        "end": "00:16:30.020",
+        "text": "People are just the convinced that they could do it. Oh, so you admit that somebody's mind can literally cure themselves by giving them like a sugar tablet and they're like, oh, no, no, that's not possible, but you just said there's a placebo effect and all of these people took a sugar pill and they were cured. And but, but you don't, but you don't want to say that the power of the mind or the consciousness has the ability to cure, right? It's just so funny, but it's, it's, to me, it's, it's the greatest example of, hey, this really does exist."
+    },
+    {
+        "start": "00:16:30.020",
+        "end": "00:16:57.980",
+        "text": "You guys accept that you just don't want to realize it. You don't want to admit it, right? But no, that's really cool. So, okay, so you're, you're using consciously this, this energy, this is, and you're embedding that consciousness and that energy into these objects. And so let's talk about, let's talk about your, your, I mean, I love the new focus on EMF clothing. I think, you know, is such a pronounced concern of the 5G electro smog and all of that stuff."
+    },
+    {
+        "start": "00:16:57.980",
+        "end": "00:17:23.740",
+        "text": "So can we talk about that right now? Because you've got this page on your website that's got all these certificates, but, you know, they're in a foreign language to all of us, English only folks. So I was wondering if maybe you could kind of talk about, okay, you took, so you took clothing material, right, that has got 99% silver in the fabric, right? So they've taken silver and embedded it into the fabric."
+    },
+    {
+        "start": "00:17:23.740",
+        "end": "00:17:53.700",
+        "text": "So it's what I would consider what we call like EMF shielded clothing. You could get at shielding companies that sell clothing materials, drapes, all that stuff, right? But you've taken this and you've, and you've kicked it up a notch by embedding energy into it. And then you had it tested. So my first question is, when you have, can you, did you have it tested with and without the energy or just with the energy? No, no, absolutely. You know, that otherwise wouldn't be, I mean, what would still be a good test?"
+    },
+    {
+        "start": "00:17:53.700",
+        "end": "00:18:23.700",
+        "text": "But it wouldn't be a perfect test, if you will, because we certainly, all those institutes that we work with, they're leading in their field. So just that, the eGIF Institute, for example, they've been around for decades actually doing research on electro-smog or how you call it in the US EMF. And, you know, from various aspects, they've done hundreds and thousands of studies and all of that."
+    },
+    {
+        "start": "00:18:23.700",
+        "end": "00:18:52.020",
+        "text": "And certainly they, they always look into, okay, so what is the impact first without, you know, using a divisor or in this case, a t-shirt, for example, or a hoodie, and then how is it, you know, without it, with it. And so they were very focused just on EMF. And but there are tools that they have in devices that they can very simply measure that."
+    },
+    {
+        "start": "00:18:52.020",
+        "end": "00:19:19.700",
+        "text": "So and they really, so on those clothings, they, it's very easy for them actually to measure because you could, you could basically see with the device that it doesn't get through, right? Whether it's, it's a 3G, 4G, 5G, 5G, 5G, 5G, whatever they've tested, it just doesn't get through. The more difficult part to test is then, okay, what is the impact on the human body when"
+    },
+    {
+        "start": "00:19:19.700",
+        "end": "00:19:49.140",
+        "text": "you wear a t-shirt, for example, that has all these benefits and is charged with quantum energy. And so the Basa Institute in Austria, they, they had, I guess we work with about 14 different test objects. So people basically, they call them test objects. I can't find that always funny, because they're really not objects, they're, they're living"
+    },
+    {
+        "start": "00:19:49.140",
+        "end": "00:20:16.420",
+        "text": "people. And yeah, and so then, you know, and they've tested EMF on one hand, actually in multiple ways. So EMF, just in general, then the total EMF blast in the car, like in an electric car where there's, there's a whole lot of EMF. And then they've tested a lot of other things, I don't know if we want to go into that right now, but focusing on the EMF for now to basically, you know, test the person and their organ"
+    },
+    {
+        "start": "00:20:16.420",
+        "end": "00:20:45.140",
+        "text": "functions and meridian flow and everything, when they get exposed to the EMF or the EMF in the car, for example, and you see how it, how it develops, you know, what, and within very short timeframe, very, very short timeframe, all of their measurements ended up being pretty bad. It's, must say it's, it's different from person to person, right?"
+    },
+    {
+        "start": "00:20:45.140",
+        "end": "00:21:08.940",
+        "text": "Not everybody has exactly the same effects. Everybody's very unique and, but it in all cases, all the people that they've tested it, you know, EMF had a significant impact and they did pretty bad, right? You know, everybody would have been said, okay, well, you're not, you're not doing great. Your organs don't work well, your blood is not, not ideal and all of that."
+    },
+    {
+        "start": "00:21:08.940",
+        "end": "00:21:37.660",
+        "text": "You know, then they would give these people the t-shirt, the people didn't know what, what this does, had no clue and didn't also know what was really being tested. Then they were tested again and in all cases and 100% of the cases in extremely short timeframe, all of the functions were in ideal condition again."
+    },
+    {
+        "start": "00:21:37.660",
+        "end": "00:22:02.540",
+        "text": "And I really mean that in ideal condition, which is very, very profound actually. And it demonstrates very clearly that on one hand, you're shielding, but it did a lot of other things. So, and it also proves, you know, the existence of the quantum energy in there because it improved"
+    },
+    {
+        "start": "00:22:02.540",
+        "end": "00:22:30.260",
+        "text": "really not just EMF and it went way beyond just the blocking effect because at the same time, this positive energy is being transmitted to your body. And certainly, you know, then the body absorbs it and it has the positive effects that it can benefit from. And it was demonstrated with a lot of other things, you know, herbicides, pesticides, you"
+    },
+    {
+        "start": "00:22:30.260",
+        "end": "00:22:54.180",
+        "text": "know, what if you're exposed to that and certainly just the shielding material wouldn't do anything for that. So it's actually pretty cool and we knew certainly that it's the great product and we could see energetically and feel from own testing what it does, but certainly it's a completely different situation if you provide your products to a third-party institute and then they work"
+    },
+    {
+        "start": "00:22:54.180",
+        "end": "00:23:20.140",
+        "text": "with lots of people to test them and they don't know anything about it and what comes out of it, right? We expected it to be positive, but we had no idea it would be that positive across the board. And I think for the whole space, that is actually very interesting. So the... Okay, thank you. That's... Okay, so I got some questions. So you're saying, so it's not just the T-shirts as well, but like your heel capsule as well,"
+    },
+    {
+        "start": "00:23:20.140",
+        "end": "00:23:42.220",
+        "text": "a positive physiology effect on people from EMF? Yes, absolutely. 100%. So every time it was tested... Yes, thank you. Yeah, I see the certificate for the... Okay. Sorry to interrupt. Okay. Yeah. And even the eGiv Institute... So the eGiv Institute tests T-shirts, for example, or our hats, caps, hoodies and so"
+    },
+    {
+        "start": "00:23:42.220",
+        "end": "00:24:08.380",
+        "text": "on in a different way than they test our Leelach quantum heel capsule, as an example, because... So the eGiv Institute goes very deep in all of these organ functions, as I just described, but the eGiv Institute's really typically just focuses on, okay, is there any EMF? No. And what does it do? And then you do that with these measurement devices, if you wear a capsule, it works in"
+    },
+    {
+        "start": "00:24:08.380",
+        "end": "00:24:29.060",
+        "text": "a different way, because it doesn't block the EMF. It harmonizes and neutralizes EMF, and then transmits positive and beneficial energy to the body. And the way that they measure that is with the heart rate, variability rate."
+    },
+    {
+        "start": "00:24:29.060",
+        "end": "00:24:57.060",
+        "text": "And so they basically check on that rate, as well as the autonomic nervous system. And so for that, they also, they had 12, I think, 12 people that they did this study with, and they've tested, actually, the effects not only after a few hours, but they even went beyond that and looked, okay, what does it do if you wear it during the day for a day"
+    },
+    {
+        "start": "00:24:57.060",
+        "end": "00:25:25.700",
+        "text": "or for two days and actually kept improving? Wow, okay. So that was great. It was actually from 12 people, 11 people had a very, very visible positive effect. So we got five stars. It was very significant. They were amazed, actually, by the results. And there was one person where there wasn't any significant bettering."
+    },
+    {
+        "start": "00:25:25.700",
+        "end": "00:25:54.500",
+        "text": "It was basically state the same. And it is interesting to note that that person didn't have any negative effects of the EMF to begin with. So that was kind of interesting, and I know that, because we can combat EMF ourselves if we know how, or if we're fully tuned in, it's absolutely possible, right? You wouldn't need a T-shirt or a capsule if you're like that."
+    },
+    {
+        "start": "00:25:54.500",
+        "end": "00:26:24.460",
+        "text": "Like, Roman, for example, wouldn't need this. It's just unnecessary. And there are other people like that. And so this one person wasn't impacted negatively by EMF, and there was also no bettering seen after that. So because in that case, just measured EMF, right? If they had measured other things, you know. That guy ought to have workshops. Hey. So my other question is, is for those of us who have never heard of this company, best"
+    },
+    {
+        "start": "00:26:24.460",
+        "end": "00:26:53.860",
+        "text": "S-N-I-G-E-F, could you just kind of explain, like, these are, it's not like a, you know, a couple of old guys in a shack, right? And these are actual folks that do full-on science testing, and I mean, that's kind of what these companies are, these, these, okay, these sort of, yeah. Yeah. So the EGF Institute is the largest EMF testing institute, independent testing institute and research institute in Europe. And maybe, well, why'd I have no clue? I don't know."
+    },
+    {
+        "start": "00:26:53.860",
+        "end": "00:27:21.980",
+        "text": "You know, I'm not, it's not really my space to figure out who are all those institutes, but they're at least in Europe, the largest, they're out of Dublin and work out of Spain as well, Dublin and in Ireland. And yeah, the Basa Institute in Europe is the most respected testing institute for everything around bio-residents and biofeedback, and they've developed a testing method also with"
+    },
+    {
+        "start": "00:27:21.980",
+        "end": "00:27:50.820",
+        "text": "a device that they work with, yeah, to basically check on your organ functions, blood level, meridian flow, et cetera, with pre and after. So it's, it's pretty profound, and they've been around for quite some time. They all have a medical background, actually, which is very interesting, but certainly they, you know, that's where they kind of started, like the kind of Western medicine approach,"
+    },
+    {
+        "start": "00:27:50.820",
+        "end": "00:28:18.860",
+        "text": "and then they've all, you know, expanded their knowledge and, you know, looked into alternative healing methods and opportunities, and, you know, for many, many years, they've been well aware of that, and they're, they're pretty well known in, you know, all of the German-speaking countries, at least they've been featured on TV and all of that. Okay. No, that's great. That's great to hear. I know you got to catch a plane, so we're going to have to stop in five minutes, unfortunately,"
+    },
+    {
+        "start": "00:28:18.860",
+        "end": "00:28:44.740",
+        "text": "because I have so many more questions, but so my main, you know, the main point I want to kind of emphasize, and if you could just, you know, correct me if I'm wrong, but based on your, the testing by two different, accredited institutions indicates that even if it's like one of these heel capsules, or just a t-shirt, that it offers full-body physiological, you know, I guess, helper or protection."
+    },
+    {
+        "start": "00:28:44.740",
+        "end": "00:29:14.700",
+        "text": "I don't know if protection is the best word, but from the, the, the negative effects of EMF. So it's like a whole body, right? It's not like you got it. Because, you know, like, because if you go to other places, it'll sell like EMF shorts and EMF aprons, and, you know, and so it's kind of like they're telling you you got to wrap yourself up in a bubble, but your product is just, any one of these devices offers full body of, you know, the full body effect, right? Is that correct? Exactly. Wow. And certainly to describe a t-shirt, for example, so with that, you cover it."
+    },
+    {
+        "start": "00:29:14.700",
+        "end": "00:29:39.460",
+        "text": "However, you know, all your main organs, right? So that is, that is just a good space to wear something like that. And it doesn't certainly block your knee and your ankle if you just wear that t-shirt, right? But because of the, the charging of, so first of all, the whole impact of EMF is being reduced, even if it wasn't charged, right, that would already be helpful."
+    },
+    {
+        "start": "00:29:39.460",
+        "end": "00:30:08.020",
+        "text": "But it's now charged with quantum energy, and because of these effects, you're absolutely right. That, that has a positive effect on the whole body. So that, that in that point, it doesn't really matter anymore that you don't cover your knee. You're still going to be doing a whole lot better in your knee and your ankles and all over the body. Right. No, that's great. Okay. We got three minutes and there's, okay, I, I got more questions, but I do want to talk"
+    },
+    {
+        "start": "00:30:08.020",
+        "end": "00:30:35.340",
+        "text": "about the one last thing is you, you are starting a new telegram group link in the video description below. So could you kind of talk about your new telegram group? And if anyone's interested in finding the website, it's just simply leilaq.com. And then you're also going to be on telegram. So I'll provide the link to the telegram group, but can you just kind of share in your last couple of minutes about the new group and, and what do you, you know, what, what do you"
+    },
+    {
+        "start": "00:30:35.340",
+        "end": "00:30:58.820",
+        "text": "want to do with it and, and what's it for and that sort of thing? Absolutely. Yeah. We got great plans with this group and I'm very much looking forward to that. We'll, we'll constantly grow in and we're very, very excited to have people there that want to share and learn. And it's going to be a collection of different topics and people that we actually want to have in this group."
+    },
+    {
+        "start": "00:30:58.820",
+        "end": "00:31:26.420",
+        "text": "And it's really one is the scientific aspect of research and testing and, and application of quantum physics and quantum energy and frequencies. But we want to take in also the world of consciousness and healing and these topics. And in terms of people, obviously everybody's welcome and invited that's interested in any"
+    },
+    {
+        "start": "00:31:26.420",
+        "end": "00:31:50.260",
+        "text": "of these topics, but, but certainly we, we want to involve also some of our healers that we work with every other healer and naturopathic practitioners welcome as well. And, and then certain scientists, so we'll, we'll get into interviews, we'll provide interviews, we'll provide some contests there and great topics."
+    },
+    {
+        "start": "00:31:50.260",
+        "end": "00:32:18.540",
+        "text": "I think there's so much to cover as I'm already said that we have to stop talking here in just a few minutes, but yeah, so that that group is really there to share and learn all about that. And we, we want to not have this be a very narrow focus, but a broader focus because it's really emerging of a few different aspects. All of this here. Okay. You know what? Thank you so much."
+    },
+    {
+        "start": "00:32:18.540",
+        "end": "00:32:42.820",
+        "text": "Something that I found to be pretty cool is that there is a, there are products for pets. You know, so not only are you introducing something new to the market in terms of quantum energy EMF shielded clothing, but you're also providing quantum energy devices for pets as well as heal frequency for dogs, right? So there's."
+    },
+    {
+        "start": "00:32:42.820",
+        "end": "00:33:11.660",
+        "text": "Okay, so there's way more, you know, opportunity to kind of, you know, spread the energy across your whole home to not just the people in it, but to your plants as well as your animals. So the only question I've got on, on the dog collars is it's leather and brass. So is the energy mostly in the brass? Is that kind of how that works? Yes, that's correct. I mean, so the way we use a two step process to charge these objects."
+    },
+    {
+        "start": "00:33:11.660",
+        "end": "00:33:40.420",
+        "text": "So there's already a positive vibration also in the lever, absolutely, but the, but the brass as you, you know, it holds a lot more of the quantum energy and transmits it in a pretty nice way. Okay. Yeah, I guess in our next chat we could talk about your different frequencies because that's not on the website yet, as well as the whole idea of using brass. But oh, last question. These water bottles."
+    },
+    {
+        "start": "00:33:40.420",
+        "end": "00:34:10.220",
+        "text": "When I looked at it last night, I didn't say how big they are like, it says what color, but are they like 500 milliliters or one liter? They're bigger. Yeah, they're about between like, they're almost 750 milliliters. Okay. All right, great. Sorry. I just said some gorgeous shopping. I was like, yeah. Okay. But yeah, we're at the top of the hour and thank you so much, Phillip. Is there anything you want to share before you leave? Because I know you got to catch that plane. So anything you need to share and then we'll drop off?"
+    },
+    {
+        "start": "00:34:10.220",
+        "end": "00:34:35.140",
+        "text": "Well, just a big thank you again for having me and your interest in this whole space. Thanks to everybody watching this and being interested in this and be curious, you know, because this is such an interesting field. And I think I want to let you know that there is going to be a lot more of this coming in the next month and years. And that goes way beyond what we do because there's so many people working on different"
+    },
+    {
+        "start": "00:34:35.140",
+        "end": "00:35:04.220",
+        "text": "stuff and one thing I can't really say yet, but there's someone that I really like and that I know very well, he's been also working on an interesting product that touches this field. And also in this group, probably in the next week or so, I will start talking about that a little bit and introduce that because, you know, we want to support this space. And we like when people open up, right?"
+    },
+    {
+        "start": "00:35:04.220",
+        "end": "00:35:34.140",
+        "text": "So scientists, you know, often we say, okay, scientists, you know, that their thinking is so narrow. But there's so many great scientists out there that know that they don't know everything, right? And that there's more out there. And I think this curiosity and in all of us, if we can activate that again and figure out, you know, what's there more beyond just the regular daily life of going to work and taking a shower in the morning and then going to bed again, there's so much more to explore."
+    },
+    {
+        "start": "00:35:34.140",
+        "end": "00:35:59.860",
+        "text": "And I think if more people do that and think about that, I think the world will become a better place. And in the end, ultimately, that's what we're here for. Yeah. You know, on that note, I just want to say Aloha Mahalo for spending some time with me this morning. I look forward to hearing you on Sarah Westall in a week. And thank you so much for your time. So have a great life. Thank you. I know you're doing the event tomorrow."
+    },
+    {
+        "start": "00:35:59.860",
+        "end": "00:36:08.180",
+        "text": "I hope that goes well and we'll catch up with you soon. Sounds great. Have a great weekend. Okay. Aloha."
+    }
+]

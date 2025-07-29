@@ -1,0 +1,852 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.480",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me, Kay Elmer, and in this video I'm covering part two of the what we have learned series about C60 in the last few years since C60 took off as a health supplement. And so let's jump right in. This obviously have got some disclaimers. This material is for research purposes only. C60 is not approved for consumption by the FDA. You"
+    },
+    {
+        "start": "00:00:28.480",
+        "end": "00:00:57.320",
+        "text": "understand that consuming C60 is experimental and you do so at your own risk. I do not have a stake in any C60 product or company and I do not get paid for making C60 videos. I'll be covering quite a few different products in this video. I just want to make sure that everyone realizes I don't get paid for for mentioning videos and me mentioning videos is certainly not an endorsement. And I also want to claim fair use on a few copyright materials"
+    },
+    {
+        "start": "00:00:57.320",
+        "end": "00:01:24.240",
+        "text": "I'd like to share with you today because you know some things are just so much better explained from the source. So I'll have a lot of copyright material or not a lot but I'll have some that I just want to just claim fair use. Just a little clips other folks videos just so that you can kind of hear it from the horse's mouth. I mean exactly how stuff works etc. A note on source materials. I do want to just again as just like I had in part one there's so many documents"
+    },
+    {
+        "start": "00:01:24.240",
+        "end": "00:01:50.680",
+        "text": "involved in this video that I had to review in the part of the research for making it that there's no way to link them all in the video description. So if it's a document which is includes studies, patents, clinical trials, they're all here in a directory on my Google Drive. Okay so when if you're interested in doing your own research I've provided copies of all of the documents that I'm"
+    },
+    {
+        "start": "00:01:50.680",
+        "end": "00:02:17.240",
+        "text": "mentioning. Any video that I mentioned or any website other the links for those will be in the video description so you're getting 100% of all of the sources that I'll be covering today in this video. So you can do your own research 100% transparency. I don't want to make a claim without letting you know what the source is all right. So that's kind of where we're gonna go and let's jump right in. First thing first is I want to do an addendum to part one because after"
+    },
+    {
+        "start": "00:02:17.240",
+        "end": "00:02:43.040",
+        "text": "that video you know I was able to locate the longevity study where Chris Burris from SES was talking about him doing a new study. So this is gonna be this is gonna be awesome. It's gonna take about five years. It's starting in 2020 but SES is gonna repeat the rat study. So this is gonna be one more so if you recall from part one you know it's so critical that we have validation that the original"
+    },
+    {
+        "start": "00:02:43.040",
+        "end": "00:03:10.480",
+        "text": "rat study was accurate and so I and Mitchell from Health C360 had done a test using P53 knockout rats and validated the study but did not publish and now SES with Chris Burris is gonna be doing the rat study again one more time and then this is the video. So all of the links again to any of these videos is in the video description below and so there's a video describing how SES is"
+    },
+    {
+        "start": "00:03:10.480",
+        "end": "00:03:39.960",
+        "text": "gonna be going and doing that you know rat study. So that's awesome. I mean that's just amazing that you know and kudos to you guys for doing that. Also C60 I'm sorry SES reached out to me and and said you know here's the video that I was talking about in part one and so this is their note is Chris Burris and SES research labs purchased 22 online C60 products in March 2020 to test their C60 concentrations as per their labels. The lab called the overall results"
+    },
+    {
+        "start": "00:03:39.960",
+        "end": "00:04:08.220",
+        "text": "woefully low because many of the companies only had 10 to 30% of the maximum concentrations promised. So you know bottom line and that's this whole consumer C60 study so now you've got that study I mentioned in part one you've got SES doing a separate study then you've got that old study on longevity but here's what's really important I mean this is as of March the other study was as of October published right and bottom line is the consumer C60 oil"
+    },
+    {
+        "start": "00:04:08.220",
+        "end": "00:04:35.340",
+        "text": "products have now been tested you know formally twice you know I really don't count the longevity but you know because it was so long ago but it's been formally and officially tested twice once by SES which is the largest C60 producer in the country United States highly reputable as well as a you know a science study and bottom line is what you think you're getting most often is"
+    },
+    {
+        "start": "00:04:35.340",
+        "end": "00:05:02.040",
+        "text": "probably not what you're getting in terms of the quantity of C60 in the oil and so here's a very important point from SES which they're also known as C60 EVO is you need an HPLC machine to measure the C60 concentration in the oil most of the online companies don't have so you know it's a good point that they're making and I want to just repeat it is if you're going to be"
+    },
+    {
+        "start": "00:05:02.040",
+        "end": "00:05:30.100",
+        "text": "spending a lot of money and this stuff is not cheap then one of the most important questions you should ask from the seller is have you tested your concentration to know for a fact and can I see the test results that what's on the label is true and that's it that's all you've got to do and so there's a few reputable companies that are actually using HPLC which is stands for high-performance liquid chromatography in which they measure that the final"
+    },
+    {
+        "start": "00:05:30.100",
+        "end": "00:05:57.180",
+        "text": "product so that they know for a fact hey you know that's what what we said it was it's 0.8 milligrams per milliliter because otherwise you're just buying oil and and and this kind of you know and when you really think about this the difference in in the amount of C60 in different I'm we're talking about 22 different products right the other one just measured four so this is a lot more significant but the idea though is that hey you know you're not buying oil you're"
+    },
+    {
+        "start": "00:05:57.180",
+        "end": "00:06:26.020",
+        "text": "buying C60 and this might explain why there's so many people out there that say oh I took it nothing happens you know and they have a bad they had a bad experience well or non-experience and it's like well what did you take you know I mean that's now I'm starting to really wonder where all of that feedback came from because you've got people that'll take 660 I mean lots of people really positive results and then you have lots of people if you look at all the comments and I've done videos about people's comments on 6 16 testimonials"
+    },
+    {
+        "start": "00:06:26.020",
+        "end": "00:06:52.580",
+        "text": "and they're like nothing happened well maybe you took one of those those products that have nothing in it or little you know or a little bit so it really does explain why there's such a variance in testimonies and then the other thing I do want to point out and there's a link in the video description Chris Burris was interviewed by Gwen Foster about it I don't know that within last year there's a link for the video and in that video and this is one of the"
+    },
+    {
+        "start": "00:06:52.580",
+        "end": "00:07:19.660",
+        "text": "reasons that may be causing this problem in the industry is that Chris said that SES has discovered or had discovered that the larger the batch right of oil that you're spinning or stirring the higher the risk of having basically dead zones in the VAT meaning that where C60 will settle in in little pockets where it's just not catching in the stirring process or the movement of the"
+    },
+    {
+        "start": "00:07:19.660",
+        "end": "00:07:46.100",
+        "text": "oil and so the larger your VAT the the longer this is what SES said in the video Chris said in the videos that the bigger your batch the longer you need to stir because of those dead zones and if any of you've ever made your own C60 and compared you doing it in a flask which is a conical flask versus a straight wall beaker you'll know as well if you just dump in the C60 in a flask it it'll just sink and then slide off to the side and if you want to get"
+    },
+    {
+        "start": "00:07:46.100",
+        "end": "00:08:14.340",
+        "text": "that into solution you're going to need to stir longer and so it you know that's it's it's I've seen it I've done it myself and so that's why you know I go to straight wall beakers and I'll talk about that in a little while but but bottom line though is the bigger the VAT the longer you need to stir and so actually SES announced in that video that they're stirring their C60 olive oil for three weeks now just catch all that those those dead zones and make sure that they get a full saturation so another really important thing because I"
+    },
+    {
+        "start": "00:08:14.340",
+        "end": "00:08:41.060",
+        "text": "know a lot of folks in the C60 industry watch these this series from the comments earlier and so head you know heads up to that if you want to hear what Chris said the link is in the description so consumer C60 oil study does not look good for the community and I highly recommend that you all start asking the people you're buying C60 oil from or make it yourself and if you're making it yourself and you want to know that you got all the saturation it's"
+    },
+    {
+        "start": "00:08:41.060",
+        "end": "00:09:07.780",
+        "text": "pretty simple you stir it up and then when you're done settling you look at the bottom of the of the beaker and there should be nothing there and then you filter it there should be nothing on the filter it gets where it all went it's all in solution and you're good to go so it's pretty simple at one liter at a time but you know when you're making gallons you know that's where you got issues right and of course here's the proof there's issues there you go enough about that now I want to get into the what we have learned part two very first"
+    },
+    {
+        "start": "00:09:07.780",
+        "end": "00:09:37.100",
+        "text": "thing I want to chat about is the C60 hydrogen connection you know one of the coolest things about C60 and and in the beginning you know I knew just generally how C60 worked and basically you know it's an antioxidants and electron donor but I never really got deep into the chemistry and so I kind of started looking at the studies and sure enough not only is has a theory of how C60 can capture hydrogen ions and here's an hydrogen molecule in within the"
+    },
+    {
+        "start": "00:09:37.100",
+        "end": "00:10:05.060",
+        "text": "cage structure of the fullerene this is your this this different diagram here is represents the the orbital of each of the 60 atoms of the carbon 60 but here's like right here this would be a representation of the C60 fullerene cage and then with trapped we're here would be a hydrogen ion and then here would be a hydrogen molecule and then you've got the studies over here that they're all in the you know they're all in the directory directory where they've been able to synthesize that in the lab in other words they've been able to"
+    },
+    {
+        "start": "00:10:05.060",
+        "end": "00:10:33.980",
+        "text": "verify and validate that though that the openings of the cage are large enough to encompass you know something going inside and so they've been able to validate that through scientific studies so they've proven it that hey that's how it does work it will work and it's size that way and then of course you've got this animation that kind of shows you what it would look like in under that concept so the very first thought is hey C60 will and can and does"
+    },
+    {
+        "start": "00:10:33.980",
+        "end": "00:10:58.660",
+        "text": "capture hydrogen ions and hydrogen molecules within its cage like structure and and why is that important so right here there's been two recent videos within the last couple of months one by Ken Schwartz which is the chemist and owner operator of C60 power and he does this C60 show great reference if you want to learn about C60 you should subscribe to the C60 show that Ken does"
+    },
+    {
+        "start": "00:10:58.660",
+        "end": "00:11:26.540",
+        "text": "and he's a chemist by trade and one of the original you know individuals in the C60 industry and he made a video and he basically described the process of how C60 and hydrogen work together and then if you want there's another video that just came out recently by Dr. Joe Neosima hope I pronounced that correctly he's a PhD and he's a professional toxicologist both of these gentlemen have worked 30 years working in their field and specifically over a decade working"
+    },
+    {
+        "start": "00:11:26.540",
+        "end": "00:11:53.980",
+        "text": "with C60 and they both in two different videos describe exactly how C60 and hydrogen work together and I just wanted to share a Ken's version primarily because it's a lot shorter than Joe's okay so here's how it works he has a very unique shape it's a spherical shape can you tell us about what the differences between a single molecule and then the nanopolic yeah a single molecule of C60 in between the the five hexes here all the chemical activity"
+    },
+    {
+        "start": "00:11:53.980",
+        "end": "00:12:20.380",
+        "text": "goes on right here on a crystal surface the chemical activity goes on the whole crystal surface so it's sort of like a a catalytic surface so it's these are very localized and specific a Kim a crystal has basically electrons move around and it acts completely differently when you have a singly dissolved molecule C60 it's it's very unique it has a slight positive to charge but most molecules achieve a positive charge by giving up an electron C60 is different"
+    },
+    {
+        "start": "00:12:20.380",
+        "end": "00:12:45.500",
+        "text": "it actually pulls a positively charged hydrogen ion out of the environment and stores it on the inside and then when a negatively charged oxidative radical sticks to the C60 it releases that positively charged ion and neutralizes it back the water or oxygen or some other neutral substance and it's a resets itself so it can keep doing this thousands of times before it exits the body because C60 makes really no permanent chemical bonds in the body it"
+    },
+    {
+        "start": "00:12:45.500",
+        "end": "00:13:13.500",
+        "text": "washes out on an average of 10 days so there you go so the concept here right is at C60 because it's like a little cage it's like the little uber driver for hydrogen and it transports hydrogen all throughout your body and because it can pass the blood brain barrier it goes everywhere and it just delivers the hydrogen and then so because of its charge it's got a negative charge and toxins and pathogens have a positive charge the one as soon as a pathogen"
+    },
+    {
+        "start": "00:13:13.500",
+        "end": "00:13:42.900",
+        "text": "sticks to the C60 the C60 will do an electron transfer right to the to the toxic substance or the pathogen neutralize it right and it just you know basically breaks down into its common elements and then then CCC goes and captures another little hydrogen ion and then does it again and that's what's the beauty of C60 it's just this incredibly you know little miracle of a of an atom or sorry molecule that will act as an incredible free radical"
+    },
+    {
+        "start": "00:13:42.900",
+        "end": "00:14:11.820",
+        "text": "scavenger in your body because of this C60 and hydrogen they work together and that's my point and the other point I want to make is what happens if you don't have enough hydrogen so you just you know if we look at the sources of hydrogen in our bodies alright obviously we'll get it through breathing and you know if you've ever done a martial arts or done any of the air Vedic arts like yoga you'll understand that there's multiple different ways to breathe and a lot of people don't breathe very well and it's kind of silly that we all"
+    },
+    {
+        "start": "00:14:11.820",
+        "end": "00:14:39.460",
+        "text": "breathe 24 hours a day but you know really taking a deep breath emptying out the bottom of your lungs so forth etc you don't know if you've taken that but so we all breathe right so we're all taking in hydrogen all the time but then hydrogen also comes from all the water we drink and especially hydrogen comes from the fiber we eat so between these three things and especially it's kind of like look at it like two-thirds of our hydrogen intake is based on do you drink a lot of water and you eat a lot of fiber and if you discuss the standard"
+    },
+    {
+        "start": "00:14:39.460",
+        "end": "00:15:05.940",
+        "text": "American diet and the standard American and I don't know if this is the true in the rest of the planet but you know people aren't that you know their proclivity is not towards water and fiber and so that's why you know there was this recommendation in the original days where it said hey whenever you take C60 eat an apple and so what was the reason behind that fiber and it's the reason behind fiber hydrogen but here's the thing if you're one if you're a standard American diet individual and you have a you can literally have a"
+    },
+    {
+        "start": "00:15:05.940",
+        "end": "00:15:33.180",
+        "text": "hydrogen deficiency and so the deficient body that's deficient on hydrogen basically cannot assimilate water fatty nutrients and blocks block and body lacks material which is vitamins to joints marrow marrow nerves brain this is a deficiency in hydrogen in addition it adds in additionally auditory structures and other body parts need lubrication for optimum movement but here's some signs of hydrogen deficiency so if this describes"
+    },
+    {
+        "start": "00:15:33.180",
+        "end": "00:16:01.380",
+        "text": "you I'm gonna I'm gonna make a point if you have amaciation crampy tendons appetite for salty foods irritability yeah dried wrinkled skin lack of perspiration gout arthritis excessive body heat and shrinkage of the liver you might have a deficiency in hydrogen and what's the point that I'm trying to make in what we have learned about C60 well the C60 needs hydrogen to work and"
+    },
+    {
+        "start": "00:16:01.380",
+        "end": "00:16:28.900",
+        "text": "if you don't have if you're deficient in hydrogen and you have some of these symptoms then in and you're taking C60 you're not getting the optimal benefit that C60 can give you that's my point so you know I just really want to stress how important C60 hydrogen they need to go together so if you're gonna be taking C60 by all means make sure you eat a high fiber diet and you drink a lot of water right and that will actually make the C60 do better for you"
+    },
+    {
+        "start": "00:16:28.900",
+        "end": "00:16:57.180",
+        "text": "or perform better for you okay point mate now the next point I want to talk about it what we have learned in the last few years is C60 oil production methods and this is something that really started again in 2012 when the rat study came out and this is right here this is how the rat study did it they basically took C60 that they bought from SES and they added it to extra virgin olive oil they stirred the on a magnetic stir they stirred the solution for two weeks in"
+    },
+    {
+        "start": "00:16:57.180",
+        "end": "00:17:25.080",
+        "text": "the dark we covered this the whole light issue so they knew to keep it dark then they put it in a centrifuge at 5g at five times gravity for one hour and then after that they filtered it through a 0.25 micron millipore filter and that was it and then that's what they gave to the rats and so now in the last three years you know and I'm sort of the guy on YouTube that's done more videos about this than anybody you know but you know a lot of us and you know the longevity"
+    },
+    {
+        "start": "00:17:25.080",
+        "end": "00:17:51.860",
+        "text": "guys and all of us do it at home guys you know we've been making your own C60 oil and I've been tinkering and testing and experimenting for three years now okay and and and basically I'm plugged into how everyone else is doing it what their results are and so here are the things that what we have learned about making your own C60 oil at home is in the last three years and so one of the first things is if you want an optimal output product at the end when you're"
+    },
+    {
+        "start": "00:17:51.860",
+        "end": "00:18:17.640",
+        "text": "done then what we've learned is obviously you want to you know you want to pulverize and this is so important and I haven't done a video about this yet sorry but you know if you pulverize your C60 before you add it to the oil then you'll get a how much you'll get not a much but I higher saturation rate than you would have if you didn't and you can decrease your stir time and of course we know we in the first part part one we talked about solvent free clearly you"
+    },
+    {
+        "start": "00:18:17.640",
+        "end": "00:18:44.300",
+        "text": "want to go with the solvent free option so if you're gonna be buying C60 get a solvent free and if you can get it pulverized or pulverize it yourself for better results now the thing about the olive oil as I talked about in the other video you know it's it's so important that the olive oil is authentic that it's real olive oil and there's actually a I just posted a Dr. Berg video I'll put that in the video description again about how to determine whether or not"
+    },
+    {
+        "start": "00:18:44.300",
+        "end": "00:19:13.740",
+        "text": "your olive oil is authentic it's super important because it's more the odds are it's not if you go to the grocery store most likely you won't find real olive oil there they'll mix it with some other kind of oil right but so it's got to be authentic it's got to be real and most importantly and well not secondly it's got to be fresh all right you know because if you've been sitting on that store shelf for too long you're getting partially rancid oil you're not going to get an optimum product when you're done and that's the whole point right you're gonna be ingesting this for your health got to do it right now the next"
+    },
+    {
+        "start": "00:19:13.740",
+        "end": "00:19:41.980",
+        "text": "thing about the stirring again if you're using pulverized C60 if you're just using regular powdered C60 and you just sprinkle it in well you know it's gonna take two weeks just like in the body study right that's the body was one of the scientists but if you pulverize it what I've learned in the last few years is that you really reduce it you can actually get it down to one week so you can you can save a lot of time by just pulverizing the C60 before you put it in and then again I want to point out again what SES discovered was if it's a"
+    },
+    {
+        "start": "00:19:41.980",
+        "end": "00:20:08.700",
+        "text": "large volume of C60 oil you're gonna go longer you're gonna go three weeks okay so you know if you're just doing a leader at a time big difference right and then you want to do you want to most importantly you want to minimize the exposure of your oil to air you know you know because oxygen will oxidize the oil it'll also oxidize the C60 so you want to keep it airtight now what the commercial producers do is they'll pump in nitrogen I know some folks do you"
+    },
+    {
+        "start": "00:20:08.700",
+        "end": "00:20:35.580",
+        "text": "are gone but they use different you know air gases or nitrogen and things like that where they'll just pump that into their into their vats so that there's no air at all and they need to keep the air so you minimize exposure to air and oxygen right slash oxygen during the stirring process another thing that's really pertinent that I've learned in the last or what we have learned as a community in the last you know few years is as you're stirring and this is"
+    },
+    {
+        "start": "00:20:35.580",
+        "end": "00:21:02.820",
+        "text": "something that I've been tinkering around with I got I upgraded my my magnetic stirs last year where I've got one that actually has a really really nice it's full on you know lab quality as opposed to the little inexpensive blue ones we all started with I got a lab quality one where I could add heat I could I could dial it into the precise you know amount of heat and precise rotations per hour all that you know permanent and so for the really nice stir and I've"
+    },
+    {
+        "start": "00:21:02.820",
+        "end": "00:21:30.100",
+        "text": "discovered by tinkering around and I've made four batches now and I'm going to record the fifth I wanted to make sure it was consistent my results were consistent it'll be a video coming out in the future but then I discovered that by adding heat to the stir process guess what I've got my stirs down to 24 hours I literally 24 hours if you pulverize it and you add heat and I'll do that video you can get your stir times down to 24 hours you know for one"
+    },
+    {
+        "start": "00:21:30.100",
+        "end": "00:21:57.940",
+        "text": "liter all right so it's pretty cool and I've actually been able to prove it you know I've done four batches already and it came out I did one with avocado oil one with udo's oil one with a mix of avocado and coconut and then I made one with olive oil and they all came out the same the oil came out as a quality finished product with only a 24 hour stir with heat okay so that was pretty amazing and so I think that's kind of a cool development most recently it has"
+    },
+    {
+        "start": "00:21:57.940",
+        "end": "00:22:27.780",
+        "text": "been doing that that was my summer project okay now the one thing to about stirring is used a beaker not a flask as I pointed out earlier flask will create dead zones where the CCC gets trapped in there and won't get into solution so use a straight wall beaker if I've learned anything that's number one okay is use a straight wall beaker I don't use flasks anymore at all except filtering okay so just use straight wall beakers make sure you know I just put you know cellophane on top and cover cover it and make sure it's dark and then"
+    },
+    {
+        "start": "00:22:27.780",
+        "end": "00:22:56.340",
+        "text": "again to one other thing about magnetic stirs is that you know I've learned a lot about magnetic stirs in the last three years and I'll tell you what you get one that's rated for three liters well yeah it's three liters of water so one that's rated for three liters of water it barely stirs 500 milliliters of oil okay because of the viscosity of the fluid so you know if you need to make sure that whatever you're using and the quantity you're putting on it like those little blue cheap ones right you can't put a liter of oil on top of that"
+    },
+    {
+        "start": "00:22:56.340",
+        "end": "00:23:25.300",
+        "text": "guy it's rated for three liters but you put a liter of oil it won't stir it you've got to do I only can stir 500 milliliters of oil on one of those little blue guys those little bluster because it that's the maximum it can happen and the key the key to knowing whether or not your stir can handle it is you need when it starts stirring you need to see a dimple on the surface you don't want a deep funnel like a tornado because that's going to be sucking air into solution you don't want that you just want to see this little dimple on the"
+    },
+    {
+        "start": "00:23:25.300",
+        "end": "00:23:53.900",
+        "text": "top of the oil while stirring and then you know that the whole beaker full of oil is moving around if you don't see that dimple then only the bottom parts mixing and you're not going to get C 60 into solution and you're gonna have a very poor quality finished product okay so that's really important now the other thing to you know about step three was you know if nobody owns us and we're humans right we know how many of you guys own a centrifuge I certainly don't want to buy one especially one that can process a leader at a time and I'd be"
+    },
+    {
+        "start": "00:23:53.900",
+        "end": "00:24:20.140",
+        "text": "really expensive and so you know the whole idea and then what we've discovered over time in the last three years that you could replicate this 5g for one hour just by letting it sit dark place right put covered up and just let it sit after you stir for 10 days and what that sort of does and that's kind of the optimum number of days it could be two weeks if you know whatever I usually just go to the next weekend or whatever but the idea though is that it simulates"
+    },
+    {
+        "start": "00:24:20.140",
+        "end": "00:24:48.860",
+        "text": "so so 5g for one hour versus like 1g for 10 days you know it's sort of the same thing you let that whatever's suspended in solution that's not been turned in the lipo full ring you let that settle to the bottom only if you added too much now if you add precisely 0.8 milligrams per milliliter or just 0.8 grams to a full liter right because then and you stir that up you really won't even if you settle it you won't find anything on the bottom so there's"
+    },
+    {
+        "start": "00:24:48.860",
+        "end": "00:25:15.460",
+        "text": "some question about whether or not you need to do that in my perspective but bottom line is I let everything settle just to be sure now the last part about step four on the body method in the rat study was that they filtered through a 0.25 micro millipore micron millipore filter all right and there's an interview out there with Fati Musa one of the scientists of the rat study where he tells the interviewer that it's not necessary to filter only if and they"
+    },
+    {
+        "start": "00:25:15.460",
+        "end": "00:25:43.540",
+        "text": "were filtering because they needed to have the exact you know they needed to know that every single batch of oil or C 60 oil that they were giving the rats was exactly the same right because of the whole stirring issue in the in the dead zones and you know all that stuff I just said so if you don't filter then you don't have a consistency in terms of you know exactly what's in the oil because what the filter will do it is real remove any large particulates in the"
+    },
+    {
+        "start": "00:25:43.540",
+        "end": "00:26:13.220",
+        "text": "in the oil okay and so that you know you have exactly the same product every single time and now for commercial sellers who you know have have their act together they're filtering because they need to know that hey you know this is we have to produce the same thing every time because you know it's standard equality okay and then for home people it's optional and what I found out and what I have learned in the last few years is that it really is optional because some people you know you don't you just let it settle pour off the top"
+    },
+    {
+        "start": "00:26:13.220",
+        "end": "00:26:41.820",
+        "text": "you're good to go all right and then for other people you know you got to remember that a 0.25 microns is you know it is is 250 nanometers and what does that mean that if you filter it through a 0.25 micron filter you still will have particulates under 250 nanometers but you could have up to 249 mil no I'm sorry nanometer particulate suspended in the oil even after you filter and that's it's"
+    },
+    {
+        "start": "00:26:41.820",
+        "end": "00:27:08.660",
+        "text": "kind of large I mean pulverized C60 is usually down to like 130 nanometers but you could literally have some pretty large particulates either some impurities in the oil or residual C60 or whatever floating around in there and it still would be there and what I have learned and this is and I've actually had a couple of people confirm they have the same issue is that if you're prone to kidney stones then it's kind of like think about kidney stones it's like a"
+    },
+    {
+        "start": "00:27:08.660",
+        "end": "00:27:37.220",
+        "text": "bucket full of pebbles right or or little rocks and then that's kind of how your kidneys look or basically right and so you know fluids flushing through the bucket because there's plenty of holes between the rocks and the pebbles but if you start taking something that's got smaller particulates so let's say you dump a bunch of sand in that same bucket you know how well is the flu or the water gonna flow through that bucket now that's full of sand pebbles and rocks so you don't want to you don't you basically bottom line my point is if you"
+    },
+    {
+        "start": "00:27:37.220",
+        "end": "00:28:03.620",
+        "text": "have kidney stone issues filter because personally I went like six or eight months where I wasn't filtering and it gave me a kidney stone because all of these particulates got jammed up in my kidneys and so I had a problem but you know and so that's that's only for folks and that's my what I have learned personally and a couple other people I know that have told me they had the same experience so otherwise it's just optional if you don't have any problems"
+    },
+    {
+        "start": "00:28:03.620",
+        "end": "00:28:31.900",
+        "text": "with that you don't need to filter and and there you go okay so now let's talk about sonication what do we have learned so if you know if you've been following my videos you know that you know I basically tinkered around it's one of the first things I theorized because when I read the rat study I theorize well you know I I make liposomal vitamin C all the time using a sonicator I wonder if you could make you know CCT oil using a sonicator and sure enough I went and bought a big one and I started making CCT oil with"
+    },
+    {
+        "start": "00:28:31.900",
+        "end": "00:28:58.500",
+        "text": "sonication and discovered that there were about three or four different C60 commercial producers using ultrasonic so it's like okay and so it did and it works I mean it worked fine and I made C60 oil with sonicators for quite a while and then so but you know as I look back over time and I start doing more of that you know like let's read the studies about this as opposed to let's just tinker and jump in with both feet what the studies tell us in in in when"
+    },
+    {
+        "start": "00:28:58.500",
+        "end": "00:29:26.420",
+        "text": "you put oil in an ultrasonic sonicator here's three different studies I just randomly pulled up when you when I went and did a research like okay you know oils and ultrasound you know do a search like that and and here's one called study of ultrasonic treatment and temperature and lipid modification and their conclusions you know therefore ultrasound could increase the tear deterioration of food lipids in another study was different edible oils all of sunflower soybeans show significant changes in their composition chemical"
+    },
+    {
+        "start": "00:29:26.420",
+        "end": "00:29:52.220",
+        "text": "and flavor due to ultrasonic treatment and here's another study that says the study shows an increase of formed radicals in sonicated oils as well as the modifications of physiochemical parameters evidencing and oxidation of treated oil so it doesn't you know the studies are not that favorable you know towards using a sonicator for C60 oil and maybe it works okay for liposomal"
+    },
+    {
+        "start": "00:29:52.220",
+        "end": "00:30:19.060",
+        "text": "vitamin C because you're using lethicin or lecithin and not oil okay and then there's one other thing you know that the video that I mentioned with Chris Burris of SES with Gwen Foster if you listen to that video he also talks about sonication and one other property of sonication is if it when you have ultrasonics and they encounter a micro air bubble and it bursts that bubble will it because it's so small and and the frequencies hit that thing and"
+    },
+    {
+        "start": "00:30:19.060",
+        "end": "00:30:46.100",
+        "text": "exploded it creates a really high temperature micro burst inside the oil and that and that part of the reasons that you have this oxidation is because of those little you know I mean it's it's a we're talking micro burst right but but it's extremely high heat and really really nanoparticle size and it's out throughout the oil and that that might be one of the reasons of oxidation but at the end of the day okay and you know Chris talks about if you want to listen"
+    },
+    {
+        "start": "00:30:46.100",
+        "end": "00:31:15.780",
+        "text": "to it at the end of the day the science studies do not support using ultrasonic you know sonicators to make C60 oil that's the what we have learned and then the other thing too personally I stopped using sonicators before I ever read the studies okay because it's sort of a hassle I mean you know I bought one well I bought a three liter one and you know got to remember now you're putting C60 oil in a flask in a bath of water so when you have a"
+    },
+    {
+        "start": "00:31:15.780",
+        "end": "00:31:42.980",
+        "text": "three liter ultrasonic machine it holds quote three liters of water in the bath and you put and so what happens is is with three liter ultrasonic you know it costs like a hundred and sixty dollars it only processes 500 milliliters of oil at a time because the bath is so small and if you want one that holds a leader at a time you're going to spend three or four hundred dollars on this machine and it just doesn't make any sense and so what happened when I was doing it"
+    },
+    {
+        "start": "00:31:42.980",
+        "end": "00:32:08.900",
+        "text": "was every time I went to sonicate oil I'd have to run it twice and first of all when that thing's running it just like jars your teeth but the whole idea is you got to pull out the machine fill it up full water get the temperature right put the oil in turn it on and then you got to make sure that it doesn't get too hot and then you got to do it twice to just get one liter of oil done and then then you got to you know empty it out and put it away you know it bottom line it just became a real hassle"
+    },
+    {
+        "start": "00:32:08.900",
+        "end": "00:32:35.860",
+        "text": "we're as opposed to pulver I see sixty added to oil put it on a stir and you're done let you know set it and forget it and I've got to tell you I'm lazy and so I just have gravitated towards only stirring and not using my sonicators because it's just too much of a hassle and then on top of this now that I've read the studies I'm not I'm probably not going to be using sonicators again and that's what we have learned about C60 oil and and using sonication so there"
+    },
+    {
+        "start": "00:32:35.860",
+        "end": "00:33:02.180",
+        "text": "there's that now let's talk about what we have learned about the C60 product evolution so if you've watched my series I did a three-part series called alt C60 which I covered the alternative C60 products on the market today and so what we have learned is that C60 is expanding beyond just the concept of a C60 oil you ingest and that there are other ways to benefit from C60 either through topical"
+    },
+    {
+        "start": "00:33:02.180",
+        "end": "00:33:28.820",
+        "text": "whether there's facial oils and body creams and face creams and so forth which are these are some exceptional products by the way I really like the the Akasha brand which is the Layla C60 Layla lab C60 I use these products daily I use the C60 labs makes a cream that that it's like I use that daily I mean I it's really awesome and actually helps with eczema it's pretty cool it's got C60"
+    },
+    {
+        "start": "00:33:28.820",
+        "end": "00:33:54.900",
+        "text": "in it so there's some C60 topical so not only can you take the oil through ingestion but you also can apply it as a topical and so we've seen this evolution and what we've learned is that it works and that there's a demand for it so there's the C60 topical environment that's out there right now and most recently this year sorry this year live longer labs came out with the concept of doing atomized C60"
+    },
+    {
+        "start": "00:33:54.900",
+        "end": "00:34:20.180",
+        "text": "oil so getting just this is just your typical atomizer and if you put C60 oil and this is specific specifically you have to filter the oil this you have to make sure you filter the oil but if you take filtered C60 oil and you put it in an atomizer and you inhale the atomized C60 it does wonderful things for people with asthma and and breathing issues and things like that I use this whenever I get"
+    },
+    {
+        "start": "00:34:20.180",
+        "end": "00:34:48.580",
+        "text": "congested it works awesome so you can breathe in C60 atomized C60 is something that we've learned that hey that works it's pretty cool and then there's this kind of like offshoot where there's a C60 frequency the molecular frequency of C60 and if you go to this site that sells the you know the audio is for it you know there's some testimonials on there about people who are literally experiencing benefits by listening to you know by basically exposing themselves to the frequency of"
+    },
+    {
+        "start": "00:34:48.580",
+        "end": "00:35:14.500",
+        "text": "C60 I'm on the fence about this because I'm just not you know not really sure I'm not really sure about you know putting on a set of headphones and I'm going to get a C60 effect I'm just I kind of have a I don't know about that but you know but hey you know what if it works for some people it works that's awesome but the idea though is that we've learned that there's different ways you can take C60 and it just gets you know there's just new ones all the time and it's it's"
+    },
+    {
+        "start": "00:35:14.500",
+        "end": "00:35:42.820",
+        "text": "pretty cool you know I think you know if you think back towards like you know when they discovered C60 did they you know did they ever even conceive the idea that it would become you know this this this expansive in terms of how C60 would be used you know in terms of health and and all of these different ways to take it I think it's really amazing the product evolution over time and that we've learned that it it works in all these different ways people are actually getting something from it now in terms of topicals I do want to chat about one thing that I thought was"
+    },
+    {
+        "start": "00:35:42.820",
+        "end": "00:36:11.220",
+        "text": "really interesting in the research was that in this one study it said the skin penetration of end kinetics of pristine fullerenes topically exposed in industrial organic solvent so what these guys did was they basically they they they they tested um the effect of of C60 topically when using different forms of solvents now some of the solvents are pretty nasty solvents and they use mineral oil which obviously is fine"
+    },
+    {
+        "start": "00:36:11.220",
+        "end": "00:36:36.900",
+        "text": "so but the idea was is they wanted to see how well does skin how well does C60 penetrate skin okay and so as I was reading this thing what was interesting to me was this is the quote that the dose sites were tape stripped and skin biopsies were taken after 26 tape strips for quantitative analysis when dose and toluene cyclohexane or chloroform pristine fullerenes penetrated okay this is important pristine pentate fullerenes penetrated"
+    },
+    {
+        "start": "00:36:36.900",
+        "end": "00:37:06.500",
+        "text": "deeply into the stratum corneum and the primary barrier of skin more CCC was detected in the stratum corneum when dosed in chloroform compared to toluene or cytohexane but this is where my point is fullerenes were not detected in skin when dosed in mineral oil okay so how are all these topicals made well these topicals are made with C60 in oil added to a bunch of other healthy"
+    },
+    {
+        "start": "00:37:06.500",
+        "end": "00:37:33.060",
+        "text": "you know other stuff that's good for your skin so I got the thinking that okay well you know what this is interesting because we know that from part one that C60 in cosmetics started like way back in 1995 or around there by a company called vitamin C60 it's a Japanese firm and they make a product called like I think they call it ROS sponge or something like that they also trademarked the word lipo fulleren"
+    },
+    {
+        "start": "00:37:33.060",
+        "end": "00:38:00.100",
+        "text": "anyway they sell this product so that it's an ingredient in cosmetics and so I was thinking that you know you know this is interesting because here's a study that says C60 doesn't penetrate if it's an oil and so but it doesn't mean it doesn't mean that it doesn't work it just doesn't go deep into your skin it doesn't get into where the where your capillaries are so that you can actually take a dose of C60 like you would ingesting where it gets into your bloodstream and travels around your body but that if you use a topical what this implies"
+    },
+    {
+        "start": "00:38:00.100",
+        "end": "00:38:27.620",
+        "text": "is that it primarily just does radical you know it just does ROS scavenging a radical oxygen species free radical and it just kind of just treats the oxidation on the surface of your skin right that's my point and so that's got me thinking that okay maybe all of the topicals sort of are just topicals where they only treat you know free radical damage on the surface of your skin and maybe just a little bit lower but it doesn't penetrate based on this study so I've done some experiments since that in the last"
+    },
+    {
+        "start": "00:38:27.620",
+        "end": "00:38:56.260",
+        "text": "couple of months and because it just kind of was you know this study was like really made me thinking and if you know I've done three videos already about C60 topicals I'm kind of a little OCD about C60 and topical ever since I had that lab accident so here's what I've learned okay what we have learned is that well first of all it might not go deep using oil and so how would you make it go deep so in other words how would I want if I wanted to do a targeted application of C60"
+    },
+    {
+        "start": "00:38:56.260",
+        "end": "00:39:26.180",
+        "text": "let's say to my knee which I have like kind of like a bum knee from an accident I had and so I was thinking well how do I you know I take C60 every day but how do I just you know saturate the heck out of my knee with C60 and I was using this and then I was thinking well if this is true then that doesn't work as well as if I maybe got used something called a penetrator which is an additional additive that you can add to the C60 that then that goes deep into the skin and then would carry the C60 with it"
+    },
+    {
+        "start": "00:39:26.180",
+        "end": "00:39:53.940",
+        "text": "as a carrier right so now when I you know when I did the lab accident and all you guys remember that video you know I was using pulverized C60 and it was suspended in 100% denatured alcohol I mean 100% 200 proof alcohol right and and so I spilled this on my hands and didn't sleep for two days and I went into full what we would now call Lucy mode from the movie Lucy just space I mean it was like really it's hard to explain but you go into this"
+    },
+    {
+        "start": "00:39:53.940",
+        "end": "00:40:23.460",
+        "text": "look zone and you're there for a long time and you can't sleep and you're basically on it you're like the you're the best view version of you you could be and so that's called mega dosing C60 I don't recommend it okay especially if you like to sleep at night but I did this to myself and I realized hey you know what alcohol works as a penetrator but it's pretty harsh okay I mean you don't want alcohol on your skin and that sort of thing so but it worked and that was the thing I was thinking well if it doesn't work with oil"
+    },
+    {
+        "start": "00:40:23.460",
+        "end": "00:40:50.820",
+        "text": "then why not use a penetrator so these are my experiments and I just want to share with you what I've learned is that I did learn that pulverized C60 and alcohol will penetrate the skin get into your blood stream and you will feel an effect in your brain now and so my most recent experiment now I've been doing two other experiments and I just want to share with you the results is that I decided that okay if what if I take just just you know instead of like mixing it with all these other beautiful creams and and yo yo bah and all this other stuff that's"
+    },
+    {
+        "start": "00:40:50.820",
+        "end": "00:41:19.620",
+        "text": "really great oils for your skin and I just take the C60 oil and I just add transcutal which is a skin penetrator just like DMSO and these are two additives that will then act as a carrier and draw C60 deep into your skin you know if you do the studies on these two and I by the way I did a video about that and if you want to learn more about penetrators I did a whole video on it okay so anyway so I just made this concoction the other day and this is what it came out to and one of the there's two things I wanted to"
+    },
+    {
+        "start": "00:41:19.620",
+        "end": "00:41:47.380",
+        "text": "know was how much you know if I did mix transcutal with C60 oil what would be the saturation rate of the transcutal in other words would it mix into solution and not just mix but hold into solution so I added 20 milliliters of transcutal to 40 milliliters of C60 oil that I'd made and what happened was I discovered that it does uh that you know here's when I was finished stirring and I was stirred for 24 hours and then I let it sit for five days to see if they would separate and they did it and so what came out from the study"
+    },
+    {
+        "start": "00:41:47.380",
+        "end": "00:42:17.380",
+        "text": "when I removed the transcutal is I determined that that if you did this the C60 oil will saturate transcutal or sorry the other way around transcutal will saturate into C60 oil 11.1 percent of the transcutal was gone it went into solution and I pulled out the weather the 89 88.9 percent of the transcutal I extracted from solution so there was an ability for when you do this you will actually be able to get transcutal into solution with C60"
+    },
+    {
+        "start": "00:42:17.380",
+        "end": "00:42:44.020",
+        "text": "in olive oil so that was my goal so this the second thing was is okay hey that worked cool so the second idea was okay well then obviously I'm going to use it so I put it on my knee and you know what with it with like I put it on my knee and prior to that I was using a scener and I wasn't getting the the benefits I was normally going to get from the scener because I'd really just screwed up my knee this time and so I did put it on and I would say and this is anecdotal that it did help with the pain that the pain went away after 24 hours and I"
+    },
+    {
+        "start": "00:42:44.020",
+        "end": "00:43:14.020",
+        "text": "put it on for a few days and then it really kept the pain at bay and so I think that that's a relationship if you study C60 then you will know that hey guess what C60 is good for inflammation so obviously the inflammation went down and the pain went down that's my theory okay so I felt that it did really well but you know what what it but it didn't but it didn't cure it that was the thing I mean you know so I still have the I've been treating my knee for quite a while now but I'm just saying that I believe it did anecdotally reduce inflammation and thus"
+    },
+    {
+        "start": "00:43:14.020",
+        "end": "00:43:40.660",
+        "text": "reduce pain so this concoction was kind of helpful and I got a little little bottle of it here on on on my desk and I use it every day okay now the other thing too is I've been doing this experiment using pulver I see 60 where I would just pulver I see 60 in different carriers but then at DMSO afterwards and that definitely works the DMSO works really well to carry the C60 into it but then"
+    },
+    {
+        "start": "00:43:40.660",
+        "end": "00:44:08.820",
+        "text": "we're doing that it gave me this really weird rash so I'm not really happy about about that experiment so right now I'm just what have I learned is that that seems to work better that's that's it I don't want to go too far I I really get kind of carried away on C60 topicals okay so now let's talk about what else have we learned about the product evolution of C60 so you know obviously it all started with C60 in olive oil due to the rat study but ever since then you know look at all the different oils that are currently"
+    },
+    {
+        "start": "00:44:08.820",
+        "end": "00:44:38.740",
+        "text": "on the market right now everything from almond down to sunflower hemp oil CBD black seed oil pumpkin seed oil and so these are all the oils and what does this mean is that hey C60 will basically enter into into these different these other oils are good with C60 people are buying them and that you're able to mix C60 with a lot more oils other than olive but the thing about it though if you look at the science behind it everyone has already confirmed olive oil is the most"
+    },
+    {
+        "start": "00:44:38.740",
+        "end": "00:45:05.220",
+        "text": "optimum oil for C60 there's something about the polyphenols and the and the long chain try just try glyceride combinations and olive oil that are make make it very unique okay so that it's like the best companion for C60 but that doesn't stop other folks from saying well I'll just mix C60 with this other oil and get the benefit of that particular oil along with the C60 and so that's some of the things that we're seeing in that you know it does work you can put it in these different oils"
+    },
+    {
+        "start": "00:45:05.220",
+        "end": "00:45:34.100",
+        "text": "it will saturate into into these oils and it will carry it just like it would if it was olive oil okay so you're seeing that that's the product evolution and we're learning that it you can do a lot more different oils we're also learning that the capsule market kind of works out really well but one of the things that we've learned about the capsule market is that if you know that taking C60 and olive oil in capsules it just doesn't make any sense at all because you won't you know you have to take five capsules just to get one teaspoon and it just doesn't make any sense at all and you don't get any"
+    },
+    {
+        "start": "00:45:34.100",
+        "end": "00:46:02.500",
+        "text": "additional benefit other than you're just going to be eating a lot of gelatin right but here's the thought though capsules of other specifically different oils right gives you the benefit of that oil in the doses that you would normally take it in like black seed right so you know like for this product right here I tried two bottles of it took three a day for two months and I got to tell you I had the most incredible digestive experience that I've ever had because this thing was"
+    },
+    {
+        "start": "00:46:02.500",
+        "end": "00:46:30.180",
+        "text": "awesome in regards to my digestive health and that was the black seed oil on top of the C60 so it's more so from the black seed oil than the C60 but I'll tell you what the combination was amazing and so you know I really think that I think encapsulation of C60 oils is going to be good we're seeing that it works but the whole thing was is from a practical standpoint it works better with let's say boutique oils than it would with olive because you're just"
+    },
+    {
+        "start": "00:46:30.180",
+        "end": "00:46:56.980",
+        "text": "not going to get a benefit taking capsules of olive oil C60 but you will if it's a specialty oil and that oil does something unique okay because no one's going to take a teaspoon of black seed oil by mouth unless you really really like torturing yourself okay so then we also seeing that what we learned is that people are now putting additives now this has been going on for a little while with the it originally started with hell you know at carbon 60 plus but oh I'm sorry live pet"
+    },
+    {
+        "start": "00:46:56.980",
+        "end": "00:47:26.740",
+        "text": "it's part of the whole iron Mitchell companies he's got three different brands right and so anyway so one of the things about additives and even with this one this one is C60 and black oil plus acethaaxin but this one right here and you'll see one on live longer labs does one with curcumin but this one is the health C360 product called Revive and there's a one for women called Rejuvenate and they've added a different ingredients in here and so in addition to the lipofluorine which is a C60 in oil"
+    },
+    {
+        "start": "00:47:26.740",
+        "end": "00:47:56.260",
+        "text": "you've got paptase el carnosine and coq10 and so these other different additives provide additional benefits in conjunction with lipofluorine produce basically an enhanced effect so it's like C60 with other stuff makes the C60 better right and so there's a video I highly encourage if you have not seen this two-hour interview with iron Mitchell on the Luke story show the video link below there's a link for it"
+    },
+    {
+        "start": "00:47:56.260",
+        "end": "00:48:25.380",
+        "text": "it's it's awesome and where he goes into great detail about how each one of these work biologically and how and and what's the reason that they did this and how it all works together in terms of basically helping you improve your health but also repair damage to your body and it's just pretty amazing and they did the science behind it you know like I mentioned earlier in part one they have a commercial lab they got two of them there's another professional scientist working with universities making commercial products and they did the research"
+    },
+    {
+        "start": "00:48:25.380",
+        "end": "00:48:52.900",
+        "text": "and he describes that research in which additives when you blend them in with C60 oil it just the overall effect is way more pronounced than just taking C60 that's what we have learned is additives are awesome with C60 now the last thing is that pets it's great for pets the original C60 oil for pets was actually iron Mitchell's company called live pet and now you're seeing more and more commercial producers start making products for pets"
+    },
+    {
+        "start": "00:48:52.900",
+        "end": "00:49:18.980",
+        "text": "and so here's the one from SES and I think that what we have learned above anything else and there are a lot of great testimonials about how well C60 works for horses and cats and dogs is that it is awesome for pets as well as humans and if if you have an older dog an older cat or or a horse you know it's awesome for these critters I'm sure for other critters as well and so you know it's something to think about and that's what we've learned is"
+    },
+    {
+        "start": "00:49:18.980",
+        "end": "00:49:47.860",
+        "text": "hey you know what it's great for pets now let's talk about where do we go from here and I just want to say we're at the 49-minute mark and I apologize this thing's gotten really long because there's so much content but I wanted to squeeze this in because it's part of the what we have learned because what we have learned now will determine the future of what will where we go from here and so I want to apologize for the extra long video right now because I really wanted to squeeze this in and not make a part three"
+    },
+    {
+        "start": "00:49:47.860",
+        "end": "00:50:13.860",
+        "text": "because where we go from here with C60 is probably one of the most amazing things from all the research that I've done and again you know it took a month to do part one it's taken equally as long to do part two and and so I want to cover this and this is so important where do we go from here where does the C60 industry go where's the science taking us and I think it's just a fascinating"
+    },
+    {
+        "start": "00:50:13.860",
+        "end": "00:50:42.900",
+        "text": "you know research that I did and I just I'm so excited to share it with you so here's my first thoughts right is right off the bat where do we go from here 2021 and beyond well when you look at the C60 oil market I think what we're going to see is we're going to continue to see new oils there's people in the chat rooms talking about hey you know using like pine nut oil and different things like that which just people keep coming up with which is better ideas and how they could mix C60 to oil and get the benefit of both"
+    },
+    {
+        "start": "00:50:42.900",
+        "end": "00:51:10.020",
+        "text": "and then also I think we're going to be looking at oil blends I mean there's one individual that posted on the other day on the telegram chat room about he made a two-thirds hemp one-third pumpkin seed oil blend and it just it I think it did something for him that he had a problem with that I forgot the exact post but he just was raving about this blend that he discovered that he made you know and then he said hey this is great you got to try this so we're obviously we're going to try it so you know I think we're going to see"
+    },
+    {
+        "start": "00:51:10.020",
+        "end": "00:51:37.220",
+        "text": "new oils I think will continue to come out in the future I think we're going to see more different olive oil blends now in terms of capsules like I mentioned earlier I think that the C60 olive oil capsule market's going to die off but I think we're going to start seeing more C60 oil in capsules from things that you don't want to take by mouth oils that taste really bad you're going to see that in capsules and I think that's going to keep going on"
+    },
+    {
+        "start": "00:51:37.220",
+        "end": "00:52:03.300",
+        "text": "I think in terms of additives I mean the sky's the limit I mean the sky's the limit I'm already trying to figure out oh well you know what could I add you know to my C60 oil and just as an example I was thinking well why don't I make a C60 oil right and then put in you know let's say niacin right nickelton of my micronuclei and add riz or as or as real tall right add those two components in there and I want to see"
+    },
+    {
+        "start": "00:52:03.300",
+        "end": "00:52:32.820",
+        "text": "how well it saturates and then you could create like this little anti-aging C60 oil that's got you know those two anti-aging components to it so that's kind of one of the things if you watch you know David Blair with with the I think for us Harvard I think you know talks a lot about you know the anti-aging properties of nickelton of mine micronuclei and as well as riz or at all and those two comp those two in combinations to improve your NAD and your body combined with C60 oil amazing right so there's a great idea right there"
+    },
+    {
+        "start": "00:52:32.820",
+        "end": "00:53:00.740",
+        "text": "you can take that wherever you want to go anybody but I think we're going to see a lot more with additives from the from the perspective of C60 topicals I think definitely there will be more new cosmetics coming out I think we're just at the I think you know I called it in in 19 sorry 2019 I called 2020 the year of topical C60 and sure enough a whole bunch of new products came out that year so I'm going to call 2021 where we're going to see more C60 cosmetics but I think you know if anyone takes me up on my whole idea"
+    },
+    {
+        "start": "00:53:00.740",
+        "end": "00:53:30.660",
+        "text": "about the therapeutic use of C60 topicals meaning C60s with penetrators that'll you can target an area of your body and just really mega dose a particular area of your body with C60 as a therapeutic I think you know maybe one of you you know brilliant minds out there will take my idea take my idea and run with it and start making therapeutic products that's just a that's just a prediction I'm hoping that that happens because you know I think it's a great idea now in terms of other things that are"
+    },
+    {
+        "start": "00:53:30.660",
+        "end": "00:53:58.180",
+        "text": "happening that are pretty amazing is when you look at the C60 derivatives okay and so the C60 derivatives out there you're you've got some things that are about to launch that are and they're and they're and they're just they're doing soft launches right now in terms of taking C60 and modifying it so that it's no longer a pristine C60 molecule meaning a pristine C60 molecule molecule is only 60 carbon atoms in a fullering cage period right"
+    },
+    {
+        "start": "00:53:58.180",
+        "end": "00:54:25.140",
+        "text": "but if you add any additional molecules and atoms to that C60 cage then it becomes a derivative and so some of the things about these derivatives is that they have incredible properties themselves so when you look at the animatostatic serum there's actually been a clinical trial this has been produced by the Health 360 I and Mitchell and he's actually done a clinical trial on that the clinical trials in the directory that's just amazing I mean it really really really was"
+    },
+    {
+        "start": "00:54:25.140",
+        "end": "00:54:53.620",
+        "text": "very beneficial in combination with a keto diet for dogs in terms of tumor suppression you know you want to you know definitely listen to the I and Mitchell interview he talks about his animatostatic serum it hasn't hit the market yet but I expected I'm guessing hopefully that you'll be able to buy it come 2021 and then there's also the idea of foreign oils and now foreign oils is another C60 derivatives I'll get more into that then there's the idea of a of a fullering it's not a C60 molecule but it's a fullering"
+    },
+    {
+        "start": "00:54:53.620",
+        "end": "00:55:23.460",
+        "text": "and I'm covering it in this video about the where do we go from here because some of the research coming out about carbon nano onions as it relates to a health supplement is pretty amazing so I wanted to share that with you too and then we look at C60 optics and so optics you know what do I mean by that well I guess what as I was doing my research I was going through all the patents right because if you want to know what's going to happen in the future you just look at where the patents are follow the patents if people are patenting stuff then they're going to launch their products"
+    },
+    {
+        "start": "00:55:23.460",
+        "end": "00:55:50.820",
+        "text": "and so what has been approved so far in the patent world are C60 patents and one of them is that animatostatic serum right so the animatostatic serum there's already a patent for that there's been a patent on just a creation of lipofluorines a patent on lipofluorine solubility and then I found this patent on optical light filters using C60 which I thought was amazing you know and so I'll get into that and then of course there's this new one these are all new ones right"
+    },
+    {
+        "start": "00:55:50.820",
+        "end": "00:56:17.940",
+        "text": "in the last few years on nursing gel you know adding C60 to nursing gel for new mothers and things like that just you know like I said more cosmetics but therapeutic products and here's an example of that so these are the patents that already been approved and then there's actually some patent applications that are pending approval and they're still they're still in the works and so now there's now a there's a patent application right now for adding Blackseed Oil MCT and Kirkman to C60 which goes all along the whole concept additives"
+    },
+    {
+        "start": "00:56:17.940",
+        "end": "00:56:45.140",
+        "text": "co-oxid inhibitors ketone esters and then there's one for CBD oil or kenobonoids right with C60 mixed with kenobonoids so you're seeing people and this is the thing we got to remember everybody it's only been three years since C60 took off as a health supplement so we're saying that hey within three years you've got people and it's like it's like the you know it's like a gold rush right people are nailing down these patents for some of the products that I've been talking about and if you're out there"
+    },
+    {
+        "start": "00:56:45.140",
+        "end": "00:57:12.980",
+        "text": "making C60 and you're seriously into it and you've got a lot invested you seriously need to a read some of these patents right and or file your own if you've got a unique idea and now I'm just telling you you need to check this out because if you read this solubility patent and I'm not a patent lawyer so this is not advice and I'm not a professional patent reader it by any means but as I read that patent it looks like that patent covers"
+    },
+    {
+        "start": "00:57:12.980",
+        "end": "00:57:40.500",
+        "text": "any C60 oil that's got greater than 0.8 milligrams per milliliters which means if you're making or you think you're going to launch a product that's got like one or two you know grams per liter in it and you want to call it the super saturated you know see then you might be infringing on this patent and then on this patent application if you decide to start doing a black seed oil C60 or MCT or Kirkman then here's a patent that someone's already filed and said"
+    },
+    {
+        "start": "00:57:40.500",
+        "end": "00:58:06.660",
+        "text": "no no you can't I I patent that right and CBD right so people are out there grabbing land uh and so you know grabbing you know stake in their flags in the ground on what they're going to claim is theirs so if you're out there developing you need to be checking these patents and you need to protect yourself otherwise you may be infringement and you're going to be talking to a lot of lawyers here in the future so keep an eye on the patents and let's talk about the next thing I want to talk about and let's talk about foreign oils"
+    },
+    {
+        "start": "00:58:06.660",
+        "end": "00:58:35.700",
+        "text": "Fuller Knowles okay is a C60 molecule with oxygen hydrogen atoms connected to it and there's like a multiple points on the C60 molecule that you can add different atoms okay so it is it you know so here's the list of different fullerenes that are that are out there right now you've got everything nano diamond diamonds to graphene fullerenes you know but then you've got carbon atoms we'll talk about that but here's the fullerene molecule and then this is what it looks like once you start"
+    },
+    {
+        "start": "00:58:35.700",
+        "end": "00:59:04.660",
+        "text": "adding different atoms to it and that when you start doing it and you have a chemical you know chemically modified C60 atom I'm sorry molecule that's got oxygen hydrogen molecules on it it's now it's called a fullerenol that's what it's called and the end stands for the number of pairs of oxygen hydrogen pairs that are attached to it and you can have anywhere from 2 to like 24 36 okay it all depends on how many different oxygen hydrogen atoms are attached to this"
+    },
+    {
+        "start": "00:59:04.660",
+        "end": "00:59:32.260",
+        "text": "and if once you start attaching it they do different things which is where I want to go over that so and when you look at the science literature on fullerenals it doesn't look that great and I want to make my point is is that you know it's it's out there and people are actually creating products or researching to create products for it and when you do your when you do your first dive into fullerenols you know which is a C60 derivative and you go well gee if I look at it I look at like cytotoxicity of water soluble fullerenes"
+    },
+    {
+        "start": "00:59:32.260",
+        "end": "01:00:01.380",
+        "text": "and vascular endothelial cells these are some studies that come up you know this one studies that we found that fullerene causes cytotoxic injury or cell death in vascular ECs you know and then and it goes on indicating that exposure to fullerene could represent a risk where arthyrosus arthyrosclerosis and is ischemic heart disease i think that's how you pronounce that all right so that doesn't sound good so why would anyone be making a product for you to take a fullerenal if it does that and then you've got another one here on this research"
+    },
+    {
+        "start": "01:00:01.380",
+        "end": "01:00:29.460",
+        "text": "study called binding fullerenal C60OH24 to DNA right and it says hey you know it's fullerenal binds to phosphate backpoints outside native DS NNA and to base pairs with major groove of sodium salts okay bottom line it it binds to your DNA don't know about you but I really don't want to be taking anything that's going to bind to my DNA so I mean it's like it so it doesn't look good on the surface until I ran across a study called review of synthesis and"
+    },
+    {
+        "start": "01:00:29.460",
+        "end": "01:00:56.980",
+        "text": "antioxidant potential of fullerenal nanoparticles and so what was so important in this study that that really kind of like oh I get it now why are fullerenal is a where do we go from here possible health supplement in the C60 world is because of this this data and they did this big giant study suggest that the antioxidant effects of fullerenal derivatives depends on their chemical structure so when we start taking a look"
+    },
+    {
+        "start": "01:00:56.980",
+        "end": "01:01:22.260",
+        "text": "okay about cease or about fullerenal uh structures what's really really critical here is that is that you can have like I said multiple different kinds of fullerenals depending on how many OH uh you know molecule pairs are attached to the C60 molecule but what's most important in there and there's a there's a there's a table in here I want to get to is in this study here you go"
+    },
+    {
+        "start": "01:01:22.260",
+        "end": "01:01:50.100",
+        "text": "here you go depending on the fullerenal okay because remember now it's CCOH N so depending on the OH pairs attached to the fullerenal and also uh it's you know how they deliver it okay and and this is oh by the way this is what people mean when they say water soluble fullerene or water soluble C60 okay I want to point out something that's really confusing the C60 is not water soluble"
+    },
+    {
+        "start": "01:01:50.100",
+        "end": "01:02:16.020",
+        "text": "you cannot take pristine C60 meaning it's just 60 carbon atoms and mix it with water and drink it then you'll just pass it'll just pass right through you but if you add OH atoms to it okay it becomes water soluble so whenever you hear the phrase water soluble C60 it's not C60 it's a fullerenal okay very important but here's my point in this study it actually shows"
+    },
+    {
+        "start": "01:02:16.020",
+        "end": "01:02:42.900",
+        "text": "what different combinations of C60 and OH can do in the studies that they've done and so um and this is like basically right here like if you look at some of these and you've got like I said uh you know you've got some microconial dysfunctions you've got some pretty nasty things happening depending on the formulation of this of the fullerenal but then you've got some incredible stuff happening when you have a specific you know"
+    },
+    {
+        "start": "01:02:42.900",
+        "end": "01:03:09.780",
+        "text": "formulation so that's the point I want to make is that fullerenal comes in a multiple of different flavors and depending on what flavor or color you get it's going to do a different thing so that's probably the most important takeaway is that as you see these products come on the market it's so important to go what kind of fullerenal do you use what's in that and and be very very cautious because you know yeah it'd be awesome it's be awesome to have neural protective antioxidant effects"
+    },
+    {
+        "start": "01:03:09.780",
+        "end": "01:03:37.060",
+        "text": "having uh like right here so uh you don't want cell death okay let's skip that one uh you know top of G and cell growth yeah I want that effect but how do I get it which C60 or which fullerenal do I need to have to do that and anti tumor any metastatic activities modulation of oxidative stress and tumor tissues that's C60 OH 20 so this table and this study is so helpful to kind of understand fullerenal to demonstrate to you that there are"
+    },
+    {
+        "start": "01:03:37.060",
+        "end": "01:04:03.780",
+        "text": "different kinds of fullerenal and it really depends on which one that you're uh you're messing around with uh you know so that you can understand hey this is either going to be a good one positive results or this is going to mess me up and so it I think that as the different companies that are looking at developing this focusing on the good ones and make sure that they don't mix in with any of the mess you up ones you're going to see a I think we're going to see"
+    },
+    {
+        "start": "01:04:03.780",
+        "end": "01:04:31.220",
+        "text": "fullerenals really take off the good ones okay and so one of the things I want to point out to you right now it's already done it's already taking off and that's why I see this as a where do you go from here because it's already taking off you can already buy fullerenals Solaris and MTR sell it and there are already products out there that have it out there so let me kind of show you like here's Solaris and Solaris is already selling a C60 fullerenal okay and then you've got MTR sells"
+    },
+    {
+        "start": "01:04:31.220",
+        "end": "01:04:58.660",
+        "text": "fullerenals as well so you can actually buy the raw materials to make products but you've got C60 18 through 22 22 to 26 and you've got four and so here's the 24 one that that was mentioned in a study so you can buy different fullerenals depending on what combination or formula you want and then of course you know for making your own by the way I don't intend to do any DIY stuff yet until I get a much better handle on exactly which full and all they use for"
+    },
+    {
+        "start": "01:04:58.660",
+        "end": "01:05:26.980",
+        "text": "what specific thing I want to create but it's something I'll be thinking with in the future but I'm really kind of cautious about because of what I read and then lastly there is actually a product out there there is a product right now called uh whatever they call this this water-soluble carbon 60 again again they're saying it's C60 it's not C60 it's fullerenal uh it is so important and so the thing about it though is that they've got the end here and nowhere in their literature did they say which full and all it is"
+    },
+    {
+        "start": "01:05:26.980",
+        "end": "01:05:56.260",
+        "text": "so you know if you're going to be going out there and trying some of this you really need to be talking to these guys and saying well what full and all did you put in there you know so that you have an understanding of okay what you could expect and or make sure you don't get messed up now also too in terms of products there's a video uh link in the description below uh where uh uh david wolf was on the alphabetic show recently and for about 20 minutes he's talking about C60 and in that video david wolf also says that his company is"
+    },
+    {
+        "start": "01:05:56.260",
+        "end": "01:06:23.540",
+        "text": "looking at fullerenals as a product and also looking at carbon nano onions as a product so not only do you already have one product on the market you've got another one for sure already looking at developing products uh based on fullerenals in terms of where do we go from here so i expect this to grow we're going to hear a lot more about fullerenals in the future now let's talk about carbon nano onions now carbon nano onions is not a C60 molecule it is a actually separate"
+    },
+    {
+        "start": "01:06:23.540",
+        "end": "01:06:52.740",
+        "text": "different fullerenal and it's called a carbon nano onion because you've got cages of fullerenes inside cages of fullerenes inside cages of fullerenes so it's like an onion that's why they call it that and so that's the thing you know this molecule is just extremely complicated there's hundreds of atoms but what's interesting about the carbon nano onion in terms of a fullerene for as a health supplement is that it's being led by a very specific science team and these are not these are not amateurs these are very professional"
+    },
+    {
+        "start": "01:06:52.740",
+        "end": "01:07:21.220",
+        "text": "scientists out there looking at how fullerenes can be utilized and this is what's unique about this is that it's it's the first fullerene outside of c70 like c70 there's only one c70 product that i'm even aware of is sold by red lion in terms of trying to see how other fullerenes can impact people's health and wellness and whether or not the product will take off it's been three years it's been for sale for three years and no one else has done a c70 product and you know so i don't think that one's"
+    },
+    {
+        "start": "01:07:21.220",
+        "end": "01:07:49.860",
+        "text": "really going to go anywhere in terms of it didn't you know it didn't take off as well as c60 did but then when you talk about fullerenals you know there's a very strong um in a propensity for it to take off and then when you talk about carbon nano onions here's again a different fullerene just like c70 that has the potential so now this entire product this entire concept stems on this three-part study that's quoted often in the literature about"
+    },
+    {
+        "start": "01:07:49.860",
+        "end": "01:08:19.300",
+        "text": "this product and this product that's a carbon nano onion product for health and it's this this study is called well nano carbon i'm sorry well nano carbon onion-like fullerenes play a decisive role in the future of molecular medicine and so the abstract simply just says mitochondria are central to the defense by our energetic well since this replication and other metabolic activities of the cell yes mitochondria uh perturbation triggers a cascade of cellular defenses that affect the entire organism unabated this"
+    },
+    {
+        "start": "01:08:19.300",
+        "end": "01:08:45.940",
+        "text": "permutation can cause impairment of whole body systems resulting in chronic data because this is all about um mitochondria but the idea though is due to their unique structure of carbon nano onions uh and properties fullerenes may have significant benefit beneficial effects in humans okay so this was their abstract and this was their theory or hypothesis that you know hey this could work and then they wrote a three-part study and what's interesting about this three-part study and they created a product by the way"
+    },
+    {
+        "start": "01:08:45.940",
+        "end": "01:09:13.700",
+        "text": "and they tested on rats but they tried it on humans and rats at the same time so what makes this really unique guys is that they tested it on humans and so on part three of this study okay they basically had some volunteers and they and it wasn't clinical right it was just volunteers and then they studied the reactions of the volunteers uh who took uh what this carbon nano on your product uh and and which they call graphics okay the product is called graphics"
+    },
+    {
+        "start": "01:09:13.700",
+        "end": "01:09:41.300",
+        "text": "and so here's a quote right out of here obviously it's if you want to read more about it it's on the website and or in my directory the study is but it basically i want to quote this one section of the of the study where it says all subjects reported favorable results associated with associated with their use of graphics subjective benefits varied with the individual and included feelings of increased energy and endurance improve mental clarity and cognition and noticeable reduction in previous joint pain and inflammation and overall"
+    },
+    {
+        "start": "01:09:41.300",
+        "end": "01:10:07.940",
+        "text": "good health now of course this study is about graphics uh you know promoted by the company that makes graphics so you know uh take it for what you will because this is what they found and of course they want to you know you want good results and it sounds great but it's from the person that's selling it but here's another thing i want to point out is if you go into the website they have a web page dedicated to the results of other research that they did"
+    },
+    {
+        "start": "01:10:07.940",
+        "end": "01:10:34.100",
+        "text": "and this is what really perked my interest about carbon nano onions this is right off the page of the research page and they basically tested it on rats so not only did they give some volunteers some graphics and they went ahead and tried it and they said hey it's good uh but they also had rats and this is this is the only thing about it it wasn't it was done at the University of New York okay and this is and i'm just going to quote this last little"
+    },
+    {
+        "start": "01:10:34.100",
+        "end": "01:11:00.740",
+        "text": "part of this thing it says the graphics material apparently not only stopped the growth of the prostate cancer on the i'm sorry they used mouse mouse mouse but also prolonged its life from a normal lifespan of 24 weeks to an an extended lifespan or extended life of 96 weeks okay five of the other eight mice that was"
+    },
+    {
+        "start": "01:11:00.740",
+        "end": "01:11:26.100",
+        "text": "uh microwave and graphics treated having the same expected lifespan as those mentioned above lived anywhere from 104 weeks 232 okay now if that doesn't make you go whoa really um i mean that was that was my first reaction i was like wow really i mean you know and so here's the thing there hasn't been"
+    },
+    {
+        "start": "01:11:26.100",
+        "end": "01:11:55.860",
+        "text": "independent third-party analysis of graphics slash carbon nano onions okay um inter in use uh you know for for biological responses so i'm i'm on the fence i think this is amazing i don't doubt its authenticity because the scientist behind it however i i'm gonna be waiting i'm one of those people i want to wait for the second and third study by like say the japanese or whomever you know somebody has studied this thing and and before i'll jump in the deep end of this pool"
+    },
+    {
+        "start": "01:11:55.860",
+        "end": "01:12:25.140",
+        "text": "but i think that work when we talk about where do we go from here and you look at the results of this study on this particular fullerene you know not only the you know the human study but the but the but the mouse study it's pretty amazing and it's kind of a big wow and i think that i think that there's something there i think where do we go from here are we going to be seeing carbon nano onions in the future along with fullerenols i i would guess that we are if this is what happened i think we're going to see it and i think it's going"
+    },
+    {
+        "start": "01:12:25.140",
+        "end": "01:12:52.340",
+        "text": "to be an amazing development uh in in the fullerene slash c60 industry okay now my last one i want to kind of share with you in the area of where do we go from here is that c60 optics you know it's so hard to wrap my head around this but the c60 optics is being provided by biaptron and it's called biaptron quantum hyperlight with fullerene filters okay now there's a patent on it"
+    },
+    {
+        "start": "01:12:52.340",
+        "end": "01:13:20.180",
+        "text": "it's an australian patent that they have on this technology and the claims of the patent is that it's if when you use this quantum hyperlight with through a fullerene filter that it aids in wound healing in pain relief and skin diseases and depression and anti-aging okay these are some incredible claims now we all all know it for anybody who studied light you know that biafotrons biafotrons are a critical aspect to our health and"
+    },
+    {
+        "start": "01:13:20.180",
+        "end": "01:13:46.500",
+        "text": "well-being we wouldn't even be alive without them light is important for those of you living in the northern hemisphere go get a red light please you know and then watch out for blue light all these different light spectrums truly affect us we are part and parcel beings of light okay as well as beings of energy so light is so critical and so these folks are saying that when you take a hyperlight a quantum hyperlight which is one of their medical devices"
+    },
+    {
+        "start": "01:13:46.500",
+        "end": "01:14:14.820",
+        "text": "and you put it through a fullerene filter you'll have some incredible benefits so i think this is one of those fair use claims i just took a snippet out of one of their videos and i wanted to share it with you so you have an understanding of what they're talking about zepter scientist a professor in nanophotonics dr jure karuga has discovered that c60 can change the structure of any light biafotron company created the revolutionary nanophotonic fullerene optics which acts as a nanophotonic generator to"
+    },
+    {
+        "start": "01:14:14.820",
+        "end": "01:14:41.380",
+        "text": "transform vertically linearly polarized light and a hyper polarized light by uptron quantum hyperlight that can heal humans and all living beings at the quantum level how is this possible hyper harmonized light possesses the same type of symmetry as 85 of our healthy bio structures such ideally permanently structured hyperlight through resonance imposes its ideal structured properties onto the disturbed biomolecules on the quantum"
+    },
+    {
+        "start": "01:14:41.380",
+        "end": "01:15:08.420",
+        "text": "level bringing them in the same status and the whole body into homeostasis biafotron quantum hyperlight can help you maintain regulate and revitalize physiological processes to maintain or attain optimal health so there you go i mean that's pretty amazing when i when i did my alt c60 series you know i stopped at frequency i never even thought about c60 as a light form and here you go someone's develop it patent it and these are serious"
+    },
+    {
+        "start": "01:15:08.420",
+        "end": "01:15:33.540",
+        "text": "scientists in australia developing the product in europe so this thing i mean the device itself runs about 1160 euro and the fullerene filters are an extra two or three hundred or uh you know euro so you know for about like 13 or vice a 14 1500 euro uh that's what this device costs so is it going to be widespread no uh but our different wellness centers are going to adopt it and"
+    },
+    {
+        "start": "01:15:33.540",
+        "end": "01:16:02.420",
+        "text": "here is another alternative way to expose yourself to c60 is through biafotonics and i think that is amazing and this was part of the research that i was doing uh for where do we go from here and i want to leave you with this thought is that you know the future of c60 is amazing i mean it's just like i said earlier it's like can you imagine back in 1986 when when the team at rice university discovered c60 that they had any idea where it was going to go"
+    },
+    {
+        "start": "01:16:02.420",
+        "end": "01:16:29.940",
+        "text": "you know 30 40 years later i mean people are doing c60 topically frequency inhalation and now through biafotonics it's just amazing to me and you know i kind of geek out on all this c60 stuff but i got to tell you between the floor knolls the carbon nano onions and this i think our future for the c60 environment and the c60 community is just gonna be amazing 2021 be pretty cool so anyway all of this all the foundations for all of the stuff i just"
+    },
+    {
+        "start": "01:16:29.940",
+        "end": "01:16:58.500",
+        "text": "mentioned it's all in place the products are out there you can go buy graphics you can buy full and all you can buy this biafotron device it's there it's already there so 2021 will be an interesting year to watch as these things start to blossom okay that's it i you know i went uh one hour 16 i'm sorry this is the longest video i ever made but i got really excited and i wanted to share all of my research and i think that uh you know it's just like again i see"
+    },
+    {
+        "start": "01:16:58.500",
+        "end": "01:17:28.420",
+        "text": "60 is just such an amazing molecule and we keep finding out what more it can do and it just gets even more amazing so but thank you so much for for watching thank you for staying all the way to the end i really appreciate your time and you know i really appreciate your interest and and i do uh appreciate and i'm very humbled to get by your your kind comments in the video section so thank you so much now if you want to learn more about c60 i do have a blog and i have a huge chunk of my blog is dedicated to c60"
+    },
+    {
+        "start": "01:17:28.420",
+        "end": "01:17:57.620",
+        "text": "as you can imagine and it's over at the tinker's academy so you just type tinker's dot academy and you're you're all your browser window and that'll take you right to my website also link below and then of course we have a c60 good vibes telegram chat group uh and that is just a open discussion about all things c60 come on over you know join the chat um and uh and if you have any questions about making yourself or just anything in general a lot of really super smart people that know a lot about c60 hang out there so again you know come join us"
+    },
+    {
+        "start": "01:17:57.620",
+        "end": "01:18:09.860",
+        "text": "if you want learn more if you want and thank you again i really really appreciate your time thank you for staying all the way to the end uh and you know like we say in hawaii mahalo and have a great day"
+    }
+]

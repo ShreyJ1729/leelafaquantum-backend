@@ -1,0 +1,1343 @@
+
+[00:00:00.000 --> 00:00:05.280]   Aloha everyone and welcome to another ElectroHealing video. By me I'm your host
+[00:00:05.280 --> 00:00:10.760]   Kay Elmer and in this video I've got a very special treat for anyone who's
+[00:00:10.760 --> 00:00:16.080]   interested in brownscasts. I had this great interview this morning with Ben
+[00:00:16.080 --> 00:00:22.520]   from H2 Biohacker. He's an electrical engineer who's been basically tinkering
+[00:00:22.520 --> 00:00:28.160]   around with brownscasts for years and years. Has it hooked up to his car and
+[00:00:28.160 --> 00:00:33.960]   then over the last year he's developed a brownscasts inhalation generator that
+[00:00:33.960 --> 00:00:38.880]   he's put on the market. The two of us have been chatting for about a year you
+[00:00:38.880 --> 00:00:44.160]   know about brownscasts in general. He's part of our C60 community and I finally
+[00:00:44.160 --> 00:00:47.280]   convinced him to just you know have a talk with me and then let's record it
+[00:00:47.280 --> 00:00:50.440]   for the rest of the community because there's so much that this this
+[00:00:50.440 --> 00:00:56.120]   gentleman has learned about brownscasts over time especially in the world of
+[00:00:56.120 --> 00:01:00.920]   health so I just really wanted to bring this interview to you and I really hope
+[00:01:00.920 --> 00:01:05.000]   you enjoy it and you know I just want to cover some of the things that we chatted
+[00:01:05.000 --> 00:01:09.080]   about as we talked a lot about brownscasts generators obviously you know
+[00:01:09.080 --> 00:01:13.840]   because I was I'm as a tinker terribly can you know interested in in the
+[00:01:13.840 --> 00:01:20.120]   technology and how to do DIY it but this is the new product that Ben has put on
+[00:01:20.120 --> 00:01:25.480]   the market he's a brownscast generator and you know we talked a lot about the
+[00:01:25.480 --> 00:01:30.000]   generator itself and more importantly we talked about how you know all of the
+[00:01:30.000 --> 00:01:34.660]   things that he's learned over the last year experimenting from making his own
+[00:01:34.660 --> 00:01:40.160]   trials and error and especially if you own a brownscast generator we talked a
+[00:01:40.160 --> 00:01:44.320]   lot about the maintenance if you use a brownscast generator we talked a lot
+[00:01:44.320 --> 00:01:49.400]   about usage or otherwise known as dosage you know is it good to run it
+[00:01:49.400 --> 00:01:52.880]   overnight is it good to you know do this or that I mean there's a lot in this
+[00:01:52.880 --> 00:01:57.400]   interview that does we covered in the area of maintaining your tech you know
+[00:01:57.400 --> 00:02:02.240]   maintaining your generator as well as how do you use it what's the best way to
+[00:02:02.240 --> 00:02:06.880]   you know take in brownscasts for your health of course obviously covered the
+[00:02:06.880 --> 00:02:10.720]   properties of brownscasts and then we talked a lot or not I'm not you know we
+[00:02:10.720 --> 00:02:14.640]   talked about the testimonies you know we didn't even have time when I say a lot
+[00:02:14.640 --> 00:02:19.040]   we didn't even have time he could have went on for hours talking about what
+[00:02:19.040 --> 00:02:23.960]   he's researched and learned as well as his own customers letting him know about
+[00:02:23.960 --> 00:02:28.160]   you know how it's been affecting their lives in fact if you go to his website
+[00:02:28.160 --> 00:02:33.120]   he's actually spent a year researching everything he could find and he's
+[00:02:33.120 --> 00:02:38.160]   probably compiled one of the best sources of information you know like a
+[00:02:38.160 --> 00:02:43.640]   portal of data and studies and so forth about how brownscasts can help people
+[00:02:43.640 --> 00:02:48.520]   and so you know in the area of brownscasts is also hydrogen and so for those of
+[00:02:48.520 --> 00:02:51.900]   you are familiar with molecular hydrogen you know there's a lot of information
+[00:02:51.900 --> 00:02:55.680]   about that and how good that is for your health because for those of you who
+[00:02:55.680 --> 00:03:01.400]   don't know brownscasts is a very unique gas that when you inhale it or you
+[00:03:01.400 --> 00:03:05.760]   bubble it into water it has incredible health benefits and it's a little bit
+[00:03:05.760 --> 00:03:11.200]   different than just pure hydrogen because brownscasts is comprised of two
+[00:03:11.200 --> 00:03:17.000]   thirds hydrogen one third oxygen and something very special called electrically
+[00:03:17.000 --> 00:03:21.560]   expanded water it's plasma water and and why that's so important there's a
+[00:03:21.560 --> 00:03:26.080]   there's a study in the video that I I touch on that kind of explains that so
+[00:03:26.080 --> 00:03:31.360]   I'm gonna jump right into the art the interview now for you I just want to say
+[00:03:31.360 --> 00:03:34.920]   thank you for your time I mean it's a little bit long you know we both kind of
+[00:03:34.920 --> 00:03:39.560]   got chatty but it was it was so informative it was just we had to stop
+[00:03:39.560 --> 00:03:43.920]   early because it was just so much information it was so interesting to hear
+[00:03:43.920 --> 00:03:48.040]   what he's learned I mean he's he's an engineer and he's been tinkering and if
+[00:03:48.040 --> 00:03:51.960]   there's anything I really get excited about is you know talking with fellow
+[00:03:51.960 --> 00:03:58.380]   tinkerers so so thank you so much I just want to say mahalo and I do have just
+[00:03:58.380 --> 00:04:03.520]   as FYI for those of you that want to learn more about brownscasts clearly go
+[00:04:03.520 --> 00:04:08.000]   to Ben's website links in the video description below you can find me at the
+[00:04:08.000 --> 00:04:12.440]   Tinkers Academy that's my blog just type in tinkers.academy and your URL
+[00:04:12.440 --> 00:04:16.920]   window takes your right to my blog I've got a section on brownscasts there also
+[00:04:16.920 --> 00:04:21.160]   too you know one of the things that Ben has done is he's created a telegram chat
+[00:04:21.160 --> 00:04:25.400]   group just to talk about brownscasts which is also known as H.H.O. and
+[00:04:25.400 --> 00:04:29.240]   molecular so over the last few weeks it's been getting a little bit more
+[00:04:29.240 --> 00:04:34.800]   popular and people are just chatting away about all sorts of different aspects
+[00:04:34.800 --> 00:04:39.000]   of using gas for health whether it's you know we're even getting into
+[00:04:39.000 --> 00:04:43.320]   conversations about you know oxygen you know hyperbaric chambers you know
+[00:04:43.320 --> 00:04:47.760]   obviously a lot about brownscasts a lot about molecular hydrogen and so forth so
+[00:04:47.760 --> 00:04:51.600]   for anyone that's interested in this topic please join the telegram chat group
+[00:04:51.600 --> 00:04:55.320]   link in the video description below you know read what other folks are saying
+[00:04:55.320 --> 00:05:00.200]   and learns from others about how they're using it and so forth so you know
+[00:05:00.200 --> 00:05:03.960]   definitely here's how you can learn more and how you can join if you have
+[00:05:03.960 --> 00:05:07.640]   questions about brownscasts this is right here the H.H.O. and H.H.O. and H.2
+[00:05:07.640 --> 00:05:12.200]   experiences telegram chat group is where you would want to go to learn more and
+[00:05:12.200 --> 00:05:16.560]   ask questions you know don't don't ever hesitate to ask questions these videos
+[00:05:16.560 --> 00:05:21.760]   are I make are connected to people behind them and and you just jump on the
+[00:05:21.760 --> 00:05:25.720]   telegram ask a question you'll find me you know find Ben and so forth so we're
+[00:05:25.720 --> 00:05:29.320]   there we're real and we're there to you know basically help you because we're
+[00:05:29.320 --> 00:05:35.160]   just thinkers and we want to we learn we experiment we tinker and we share and
+[00:05:35.160 --> 00:05:40.520]   we do it all over again so again I want to say thank you so much Ben for your
+[00:05:40.520 --> 00:05:45.360]   time this morning I know I kept you on the on the phone for a long time but yeah
+[00:05:45.360 --> 00:05:50.040]   I'm so happy that we had this opportunity to chat I was I just learned so much I
+[00:05:50.040 --> 00:05:54.000]   learned some new tinks that I want to try with my own generator and you know
+[00:05:54.000 --> 00:05:58.280]   thank you again and thank you folks for watching we really appreciate your time
+[00:05:58.280 --> 00:06:04.440]   so I hope you enjoy the interview and have a great day Aloha Aloha everyone and
+[00:06:04.440 --> 00:06:11.880]   welcome to another video and this one is a special one I have the wonderful
+[00:06:11.880 --> 00:06:18.280]   opportunity to interview Ben from H2 Biohacker and he's the owner operator
+[00:06:18.280 --> 00:06:24.080]   of this website and this company and he's generate created a brownscast generator
+[00:06:24.080 --> 00:06:28.600]   called the H2 Genesis and we're gonna hear we're gonna sit here and talk
+[00:06:28.600 --> 00:06:34.080]   about his new brownscast generator as well as the research he's done on brownscast
+[00:06:34.080 --> 00:06:39.400]   and all of the just the lessons learned about building one run-in-one and then
+[00:06:39.400 --> 00:06:43.640]   of course hearing from his customers about some amazing testimonies that
+[00:06:43.640 --> 00:06:48.980]   people have had about brownscast so you know this is a follow-on to brownscast
+[00:06:48.980 --> 00:06:53.000]   videos I did last year and and I hope that you'll stick around and and here
+[00:06:53.000 --> 00:06:58.560]   this incredible conversation so let me just introduce Ben he's the creator of
+[00:06:58.560 --> 00:07:02.640]   the H2 Genesis he's an electrical engineer by schooling and a Biohacker
+[00:07:02.640 --> 00:07:07.320]   out of a question for optimal health and longevity after spending a good bit of
+[00:07:07.320 --> 00:07:11.760]   time as a programmer entrepreneur and businessman Ben left the United States
+[00:07:11.760 --> 00:07:15.560]   moving close to Rika to create a sustainable farm where he continues to
+[00:07:15.560 --> 00:07:19.960]   research and experiment with technologies that encompass freedom system
+[00:07:19.960 --> 00:07:26.720]   and alternative health so good morning Aloha Ben how are you doing today
+[00:07:26.720 --> 00:07:32.080]   hello Mr. K. O. Lord great to be here with you yeah good also would I congratulate
+[00:07:32.080 --> 00:07:35.600]   you and there's some appreciation to everything you've done for the community
+[00:07:35.600 --> 00:07:39.360]   I mean you you're out there really exploring and researching and putting
+[00:07:39.360 --> 00:07:43.240]   your findings out there so you're a great asset to the rest of the community and
+[00:07:43.240 --> 00:07:47.640]   world interested in these technologies as well thank you for that yeah thank
+[00:07:47.640 --> 00:07:52.960]   you yeah I just I'm like I like a scout and I just love learning and man when I
+[00:07:52.960 --> 00:07:58.360]   first ran across Brown's gas I was so stoked about I mean the first thing
+[00:07:58.360 --> 00:08:02.680]   when I read the patent right and it mentioned atomic welding and that's just
+[00:08:02.680 --> 00:08:07.320]   like boom my brain I couldn't get enough I couldn't suck up enough
+[00:08:07.320 --> 00:08:12.040]   information about Brown's gas and then I saw the video or Professor Brown was
+[00:08:12.040 --> 00:08:16.400]   like waving the torch over his arm you know and then he'd hit it on tungsten
+[00:08:16.400 --> 00:08:20.400]   and melted tungsten and I was just trying to like you know we all had
+[00:08:20.400 --> 00:08:23.880]   physics right in class and I couldn't I couldn't figure out how that was
+[00:08:23.880 --> 00:08:27.560]   happening so I had to know more about it and then that's course you know I
+[00:08:27.560 --> 00:08:31.600]   made some videos and and there yeah it was just been it's been an interesting
+[00:08:31.600 --> 00:08:36.160]   journey it's been a year since those videos came out and I actually had people
+[00:08:36.160 --> 00:08:41.100]   in you know DM me about hey you know what what's new and what have you been
+[00:08:41.100 --> 00:08:45.760]   doing so people are very interested in learning about Brown's gas and what's
+[00:08:45.760 --> 00:08:50.360]   been happening in the last year and and honestly it's it's what you've been
+[00:08:50.360 --> 00:08:55.400]   doing is is a huge chunk of you know advancing from last year to this year
+[00:08:55.400 --> 00:09:01.160]   so you know thanks for taking some time and and let's talk about this stuff you
+[00:09:01.160 --> 00:09:07.720]   know yeah yeah yeah you know I'm sorry my first question really is just could
+[00:09:07.720 --> 00:09:11.760]   you kind of just explain like you know what was your motivation behind you
+[00:09:11.760 --> 00:09:17.040]   know developing the H2 Genesis from gas generator
+[00:09:17.040 --> 00:09:22.120]   under the good question but I think I'm a lot like yourself I'm just like I get
+[00:09:22.120 --> 00:09:27.360]   interested in something and especially health because I'm all about just just
+[00:09:27.360 --> 00:09:31.400]   oh life is all about just being healthy and feeling your body and making that
+[00:09:31.400 --> 00:09:36.320]   you know feeling of health last as long as possible and you know I'm getting
+[00:09:36.320 --> 00:09:40.960]   older nowadays and then you know just turned 50 so I'm like well this is the
+[00:09:40.960 --> 00:09:43.600]   time you get to make a decision you know your body's not going to get any
+[00:09:43.600 --> 00:09:46.560]   better you got to start looking at what's going to keep you healthy make you
+[00:09:46.560 --> 00:09:51.280]   healthy into the future and you were talking about brown gas just a minute ago
+[00:09:51.280 --> 00:09:57.400]   and how it kind of excited you and got your curiosity I remember I don't know
+[00:09:57.400 --> 00:10:03.160]   I was so long ago I started out my early science career like I said in just
+[00:10:03.160 --> 00:10:06.160]   experimenting with all kind of things and I actually went into electrical
+[00:10:06.160 --> 00:10:12.360]   engineering thinking I was gonna create some special device that may solve the
+[00:10:12.360 --> 00:10:15.960]   energy problems so I was always into like free energy type devices Tesla
+[00:10:15.960 --> 00:10:20.680]   technology and alternative you know both energy and health and so whenever
+[00:10:20.680 --> 00:10:24.200]   something like that comes up it kind of sparks my interest but I mean you've
+[00:10:24.200 --> 00:10:29.360]   got a it's the most difficult part in this whole you know feel this discernment
+[00:10:29.360 --> 00:10:34.800]   you've got it's hard to know what's true and what's not because there's a lot
+[00:10:34.800 --> 00:10:39.480]   of you know flaky stuff around out there - and people peddling stuff just to make
+[00:10:39.480 --> 00:10:44.060]   money and so a lot of the stuff I just toss out you know a bit reminder and
+[00:10:44.060 --> 00:10:47.720]   physics also I kind of can we through a lot of this stuff knowing what's real
+[00:10:47.720 --> 00:10:52.640]   and what's not but like you said I mean there's stuff about the brown gas that
+[00:10:52.640 --> 00:10:55.440]   you know really has captured people's attention like how does it do what it
+[00:10:55.440 --> 00:11:01.280]   does and what makes it special and so I first spent a lot of that a long time
+[00:11:01.280 --> 00:11:06.320]   ago and I was actually running my car on Brown's gas you know HH Joe over 10
+[00:11:06.320 --> 00:11:09.080]   years ago and seen a little bit you know experimenting with that and how it
+[00:11:09.080 --> 00:11:14.520]   affected gas mileage and then you know more recently I guess in the last several
+[00:11:14.520 --> 00:11:18.720]   years or few years when another person in community came out and started
+[00:11:18.720 --> 00:11:22.720]   touting on the C60 the carbon 60 which I know you've done videos on and you've
+[00:11:22.720 --> 00:11:28.640]   talked about and so once I got into the carbon 60 and I you start making that
+[00:11:28.640 --> 00:11:32.440]   myself as well because that's not cheap either and likes also living in
+[00:11:32.440 --> 00:11:37.320]   Costa Rica it's not easy to get some of these special supplements or strange
+[00:11:37.320 --> 00:11:42.080]   substances or devices you know getting things into customs sometimes and
+[00:11:42.080 --> 00:11:45.880]   explain what it is yeah to raise some red flags what is this brown color anything
+[00:11:45.880 --> 00:11:51.160]   that's kind of hot yeah yeah exactly you know black black powder what is this
+[00:11:51.160 --> 00:11:55.120]   you know pieces for the hugging generators like they think might make
+[00:11:55.120 --> 00:12:00.600]   things to bomb you know who knows yeah but um so when the carbon 60 came out
+[00:12:00.600 --> 00:12:04.200]   it's an interesting story you know background um you know I felt the
+[00:12:04.200 --> 00:12:08.560]   effects in reading all the studies and say well maybe this has something to do
+[00:12:08.560 --> 00:12:13.480]   with longevity and you know in how it interacts with the mitochondria and how
+[00:12:13.480 --> 00:12:16.160]   it works but I wouldn't I wanted to know how it worked I mean what's the
+[00:12:16.160 --> 00:12:19.920]   working mechanism that's why I was going as a scientist and engineer I'm like what
+[00:12:19.920 --> 00:12:23.880]   is the working mechanism what makes it do what it does right because if we can
+[00:12:23.880 --> 00:12:28.520]   understand that then we can either get to the bottom line you know what is going
+[00:12:28.520 --> 00:12:33.120]   on and then use those use those points in knowledge to either enhance and make
+[00:12:33.120 --> 00:12:39.000]   it better or refine it just to get more out of it so um so with the comment with
+[00:12:39.000 --> 00:12:43.960]   the carbon 60 you know we started making our own um like field effects and then
+[00:12:43.960 --> 00:12:49.760]   it came out that um using hydrogen well at first was like eating apples would
+[00:12:49.760 --> 00:12:53.520]   create more hydrogen um and that would enhance the effects of carbon 60 right
+[00:12:53.520 --> 00:12:59.280]   right do you remember that yep just did a video about it basically the it's okay
+[00:12:59.280 --> 00:13:05.120]   well it's the fiber fiber in your gut that the bacteria and probiotics in your
+[00:13:05.120 --> 00:13:09.840]   in your gut eats in the by as a byproduct of that they release hydrogen and so
+[00:13:09.840 --> 00:13:14.360]   they're saying well you eat apples but the carbon 60 that'll produce hydrogen
+[00:13:14.360 --> 00:13:19.240]   that'll enhance the effects you know and so my thinking was well how what is the
+[00:13:19.240 --> 00:13:22.840]   reaction between carbon 16 hydrogen and what there's a whole lot more we can go
+[00:13:22.840 --> 00:13:29.760]   into on the on the like the side of the the bio physical mechanics and and stuff
+[00:13:29.760 --> 00:13:34.000]   of how that body works but which is all really interesting but um and so that
+[00:13:34.000 --> 00:13:37.320]   let me tell hydrogen it's okay well apples and even lots of fibers and so
+[00:13:37.320 --> 00:13:40.000]   practical at times and they that's when they start coming up with hydrogen
+[00:13:40.000 --> 00:13:44.520]   generators because um you know Asia a lot of countries there where you know
+[00:13:44.520 --> 00:13:49.280]   have these hydrogen spots and hydrogens and in beauty situations and you know
+[00:13:49.280 --> 00:13:54.480]   some cosmetics and baths and foams and so in Asia and especially Japan their
+[00:13:54.480 --> 00:14:01.880]   culture is more ahead in this um particular field um you know there's some
+[00:14:01.880 --> 00:14:07.800]   uh with the molecular and molecular hydrogen Institute you know which had
+[00:14:07.800 --> 00:14:14.400]   the guide that was his name my mom Tyler LeBaron right exactly he studied over
+[00:14:14.400 --> 00:14:16.800]   there in Japan where they're developing a lot of this technology so they're
+[00:14:16.800 --> 00:14:21.680]   way ahead of the rest of the world and what they're coming out with um and so
+[00:14:21.680 --> 00:14:26.640]   I so I evolved out in my in my hydrogen journey I end up getting a little
+[00:14:26.640 --> 00:14:31.120]   desktop um bubbler you know sits on your desk that will rechargeable battery yet
+[00:14:31.120 --> 00:14:37.120]   under pressure it can make you know 1.6 um parts per million hydrogen
+[00:14:37.120 --> 00:14:41.880]   concentrated water but just hydrogen and I didn't notice really too much
+[00:14:41.880 --> 00:14:46.960]   significant effects from that and um as I was researching it was pretty
+[00:14:46.960 --> 00:14:50.880]   expensive too and so I do my carbon 16 I drink that you know thinking I was
+[00:14:50.880 --> 00:14:56.720]   gonna help it or enhance it and I didn't notice too much difference um but so
+[00:14:56.720 --> 00:15:01.520]   but I was so reading studies on hydrogen and in browns gas I was um you know
+[00:15:01.520 --> 00:15:05.280]   intrigued and and I wanted more than I ever let me to studies on breathing it
+[00:15:05.280 --> 00:15:10.080]   and inhaling it and doing drinking the water and higher concentrations or more
+[00:15:10.080 --> 00:15:14.840]   than actually what my little desktop bubbler can produce right yeah um and so
+[00:15:14.840 --> 00:15:18.480]   that led me to other machines that cost thousands of dollars I'm like I can't
+[00:15:18.480 --> 00:15:22.840]   justify spending thousands of dollars on that much less get it into the country
+[00:15:22.840 --> 00:15:27.280]   and through customs right yeah so I'm like put that on hope for now but then at
+[00:15:27.280 --> 00:15:30.440]   the time I thought well I've got a few of these devices I've been putting both
+[00:15:30.440 --> 00:15:35.960]   in my cars and friends cars around here the the H.H.O. you know dry cell system
+[00:15:35.960 --> 00:15:41.000]   took up to your car to make your car run more efficiently with hydrogen was I
+[00:15:41.000 --> 00:15:44.880]   could just hook up that and breathe it but I was questioning well I wasn't sure
+[00:15:44.880 --> 00:15:49.200]   if that was kosher as far as health is concerned you know all these machines
+[00:15:49.200 --> 00:15:52.640]   were producing pure hydrogen out there that were for sales like you know can
+[00:15:52.640 --> 00:15:57.760]   we be using or breathing this browns gas is it good or better but I wasn't at the
+[00:15:57.760 --> 00:16:02.600]   point where to really research and find it and I think um when I finally came
+[00:16:02.600 --> 00:16:07.920]   across other people breathing browns gas and making reports and then I saw your
+[00:16:07.920 --> 00:16:12.320]   video as well which is also I think as soon as I saw your son well I that was
+[00:16:12.320 --> 00:16:16.640]   like the clincher you know your first video in browns gas I said I know I've
+[00:16:16.640 --> 00:16:19.760]   been dealing with the stuff for so many years I know all about I know how to make
+[00:16:19.760 --> 00:16:25.840]   it I have made it got got it outside of my car so I research a little bit more
+[00:16:25.840 --> 00:16:30.280]   and then that led me to you know building my own machine for health
+[00:16:30.280 --> 00:16:36.560]   purposes and breathing it and drinking it so that was like kind of a machine
+[00:16:36.560 --> 00:16:42.840]   was I'm sorry I was so the first one that you made was I like this little
+[00:16:42.840 --> 00:16:46.880]   desktop but then the second one that you made was was this guy right here the
+[00:16:46.880 --> 00:16:55.240]   H2 Genesis right I'm looking around at other you know commercial retail kind of
+[00:16:55.240 --> 00:17:01.560]   browns gas generous using for welding just like others have done it's possible
+[00:17:01.560 --> 00:17:06.280]   to take parts and pieces of that and make something that's more geared or
+[00:17:06.280 --> 00:17:10.440]   tailored towards a personal use you know for help for one's health rather than
+[00:17:10.440 --> 00:17:17.920]   welding that ended up being kind of the easiest way to go to produce something
+[00:17:17.920 --> 00:17:25.120]   of I guess both value and affordable in terms of the idea so just it so did you
+[00:17:25.120 --> 00:17:30.800]   find that the output of this larger generator would really tip the scale in
+[00:17:30.800 --> 00:17:34.320]   terms of you could actually notice the differences from your original
+[00:17:34.320 --> 00:17:39.800]   attempt right yeah okay yeah because I don't notice too much from the water so
+[00:17:39.800 --> 00:17:44.120]   I was some I guess said I'm like oh I need to I'm seeing all these reports in
+[00:17:44.120 --> 00:17:47.960]   these research study done on hydrogen but I wasn't just I wasn't feeling it
+[00:17:47.960 --> 00:17:53.560]   just yet so once I got the machine and started breathing for the first time you
+[00:17:53.560 --> 00:17:58.160]   do you feel in effect it's really subtle some say it's a lightheadedness some
+[00:17:58.160 --> 00:18:01.320]   say it's energy some say it relaxes you it really depends on the person how you
+[00:18:01.320 --> 00:18:06.760]   what your initial reaction is so as I started doing it you know more and more
+[00:18:06.760 --> 00:18:13.920]   I did notice more and I kind of before I started with this I kind of laid off
+[00:18:13.920 --> 00:18:17.400]   of the carbon 60 I just kind of stopped because I didn't have any made at the
+[00:18:17.400 --> 00:18:20.680]   time and I'd run out and forgot to make some or it was going to be a few weeks
+[00:18:20.680 --> 00:18:27.040]   before I had a new batch ready so but what I noticed pretty quickly after doing
+[00:18:27.040 --> 00:18:31.840]   this hydrogen both on inhaling and drinking the hydrogen bubble water was
+[00:18:31.840 --> 00:18:35.680]   that I started experiencing the same effects I was getting from the carbon
+[00:18:35.680 --> 00:18:41.240]   60 I'm like oh wow it's one of the biggest things I noticed was dreams and
+[00:18:41.240 --> 00:18:46.320]   sleep I mean that's my my telltale sign to what's going on or that it's
+[00:18:46.320 --> 00:18:51.120]   affecting me because what once your energy is at a level and it's pretty
+[00:18:51.120 --> 00:18:56.640]   steady it takes a while for that to taper off but the immediate effects from
+[00:18:56.640 --> 00:19:04.240]   for me were very vivid very vivid dreams it seems like the the hydrogen it
+[00:19:04.240 --> 00:19:07.840]   works directly with mitochondria and that's what the going back to the carbon
+[00:19:07.840 --> 00:19:14.080]   60 and the hydrogen what I've come to conclude is that the carbon 60 acts as a
+[00:19:14.080 --> 00:19:18.640]   transport system or mechanism for getting the hydrogen into places where
+[00:19:18.640 --> 00:19:22.720]   say the hydrogen wouldn't necessarily go and even without the the doing the
+[00:19:22.720 --> 00:19:26.320]   extra hydrogen the carbon 60 still transports whatever hydrogen is
+[00:19:26.320 --> 00:19:29.880]   available to places inside the mitochondria and other parts of the
+[00:19:29.880 --> 00:19:35.960]   solar is really needed and used but without the carbon 60 the hydro if you
+[00:19:35.960 --> 00:19:39.520]   have an overabundance for someone with hydrogen that gets into those places
+[00:19:39.520 --> 00:19:43.920]   that the carbon 60 would be able to normally push it into but you've got an
+[00:19:43.920 --> 00:19:49.440]   overabundance of hydrogen in my experience you don't need as much or maybe the
+[00:19:49.440 --> 00:19:53.600]   carbon 60 at all I mean I stopped it out I'll do it again I'll start up again just
+[00:19:53.600 --> 00:19:58.720]   to use it what I've got into experiments more but I was seen in the effects just
+[00:19:58.720 --> 00:20:01.520]   from the hydrogen that I just kind of just started slacking off on the carbon
+[00:20:01.520 --> 00:20:07.840]   60 completely but my dreams were became so vivid more lucid dreams more colorful
+[00:20:07.840 --> 00:20:11.560]   more deep and I'd have dreams I go from when I go to sleep to when I wake up one
+[00:20:11.560 --> 00:20:16.480]   big long dream would be like an adventure I don't know they say with the carbon
+[00:20:16.480 --> 00:20:19.680]   60 don't take it before you go to sleep sometimes let me keep you awake but I
+[00:20:19.680 --> 00:20:23.440]   look forward to doing a dose before bed sometimes because it's like I'm getting
+[00:20:23.440 --> 00:20:29.080]   ready for adventure because I would be lucid in my dreams lots of hands and
+[00:20:29.080 --> 00:20:32.960]   everything so bright and colorful you know you raise you raise a really good
+[00:20:32.960 --> 00:20:39.280]   point because you know hydrogen is a super antioxidant along with C60 they
+[00:20:39.280 --> 00:20:43.960]   definitely complement each other they definitely both pass through the
+[00:20:43.960 --> 00:20:47.080]   blood-brain barrier and I'm just wondering you know from your research are
+[00:20:47.080 --> 00:20:50.880]   you if you're saying that you know you felt the same benefits with either and
+[00:20:50.880 --> 00:20:56.320]   so so that they literally can be exchanged into you know into from your
+[00:20:56.320 --> 00:21:00.520]   description but then you know the only question I would have is like well is
+[00:21:00.520 --> 00:21:04.960]   there anywhere that hydrogen can go that C60 can't and vice versa you know
+[00:21:04.960 --> 00:21:07.560]   because one of the things I just on site note there you know the stumps have
+[00:21:07.560 --> 00:21:12.760]   been studying fulenols and the water soluble of C60 and it's really
+[00:21:12.760 --> 00:21:17.400]   interesting with that one because you've got a C60 and a C60 derivative right
+[00:21:17.400 --> 00:21:23.120]   but the derivative because the derivative can be transported by water it the
+[00:21:23.120 --> 00:21:29.040]   studies show that it can go places where C60 cannot because this C60 is
+[00:21:29.040 --> 00:21:33.680]   usually a lipofluorine so it's encased in fatty you know fatty acids as or
+[00:21:33.680 --> 00:21:37.480]   lipids and then you've got the fulenol which is which is water soluble so
+[00:21:37.480 --> 00:21:42.280]   that these literally these two separate C60 and a derivative can go to different
+[00:21:42.280 --> 00:21:47.520]   places in the body which is really fascinating so side note aside right
+[00:21:47.520 --> 00:21:52.960]   that makes sense when you're you're right versus hydrogen you think that
+[00:21:52.960 --> 00:21:57.520]   maybe hydrogen can go to more places in the body and that's because it's so much
+[00:21:57.520 --> 00:22:02.680]   smaller I mean literally it's just one it's like what three atoms versus 60
+[00:22:02.680 --> 00:22:06.760]   atoms so it's way smaller than C60 is that what you think is that was something
+[00:22:06.760 --> 00:22:11.560]   you thought about it right it's well I mean hydrogen can easily diffuse through
+[00:22:11.560 --> 00:22:16.640]   your skin and every cell in your body so nothing really can hold it back I mean
+[00:22:16.640 --> 00:22:20.000]   even metal I can only hold it for a short period of time I mean when they
+[00:22:20.000 --> 00:22:23.760]   store hydrogen they storage you know in metal containers I think aluminum is
+[00:22:23.760 --> 00:22:28.680]   one of the better ones to store it in but even then it will eventually pass
+[00:22:28.680 --> 00:22:33.480]   through cracks or diffuse through the metal over time and your body is not
+[00:22:33.480 --> 00:22:39.720]   made of metal it's even more porous than yeah sure right right so it I don't see
+[00:22:39.720 --> 00:22:45.560]   how it would not be on to pass through every membrane cell okay barrier in
+[00:22:45.560 --> 00:22:51.440]   your body so we'll call it like h2 or hydrogen super super antioxidant we'll
+[00:22:51.440 --> 00:22:57.480]   just give it an extra super okay cool but but but I'm not discarding the carbon
+[00:22:57.480 --> 00:23:02.680]   60 I oh yeah yeah I still think the car and maybe I'm transported and maybe
+[00:23:02.680 --> 00:23:06.360]   keep it in a more stable form to get it to places that it may not be able to
+[00:23:06.360 --> 00:23:09.800]   get on its own maybe hydrogen would react to something else or just get
+[00:23:09.800 --> 00:23:15.160]   displaced more easily whereas if you're on like a you know a a car or we could
+[00:23:15.160 --> 00:23:18.320]   transport a transport system it may be able to get it in other places like
+[00:23:18.320 --> 00:23:21.960]   you're saying both the oil soluble and the water soluble carbon 60 it still may
+[00:23:21.960 --> 00:23:26.440]   have additional benefits right yeah no yeah you're right because well it's you
+[00:23:26.440 --> 00:23:29.600]   know because it gets caged right the hydrogen ions get caged inside the
+[00:23:29.600 --> 00:23:32.880]   fullerene and then yeah you're right if there was just this big flood of
+[00:23:32.880 --> 00:23:36.560]   hydrogen then it would just be getting absorbed by all the radical oxygens and
+[00:23:36.560 --> 00:23:40.720]   converted to water and it may never get to that the ninth the nth mile because
+[00:23:40.720 --> 00:23:44.000]   it just gets converted to water all the way there but then if it's encased in a
+[00:23:44.000 --> 00:23:47.600]   fullerene then the hydrogen ion can actually get there because it won't be
+[00:23:47.600 --> 00:23:53.160]   absorbed or won't be you know utilized all until it's delivered because the
+[00:23:53.160 --> 00:23:57.480]   the cage doesn't let go of the ion until it connects to whatever it's going to
+[00:23:57.480 --> 00:24:01.440]   connect to then there's that electron transport but yeah that's really
+[00:24:01.440 --> 00:24:05.400]   fascinating to think that really good island should look into that some more
+[00:24:05.400 --> 00:24:10.280]   so yeah so let's talk you know I'm so going to your generator you know I just
+[00:24:10.280 --> 00:24:15.040]   because I'm you know I'm sort of a gear head I'm kind of a clumsy you know
+[00:24:15.040 --> 00:24:19.960]   gear head I consider myself like the you know I'm like the the Homer in a new
+[00:24:19.960 --> 00:24:25.240]   plant kind of thing Homer Simpson in a plant you know I know not this with
+[00:24:25.240 --> 00:24:28.560]   hazardous chemicals because then I would definitely hurt myself but you know
+[00:24:28.560 --> 00:24:31.880]   but I'm assuming because you're an engineer you're way better at being you
+[00:24:31.880 --> 00:24:36.520]   know gearhead than me but I you know I'm just really interested in like what did
+[00:24:36.520 --> 00:24:39.400]   you you know like when you were like putting your idea together to build the
+[00:24:39.400 --> 00:24:44.520]   H2 Genesis you know like your approach because you know one of the biggest
+[00:24:44.520 --> 00:24:48.640]   things that I one of the biggest feedbacks that I got from that video was
+[00:24:48.640 --> 00:24:54.360]   everybody wanted to try gas but the price point was just so hot and so they
+[00:24:54.360 --> 00:24:59.280]   went on to eBay and started buying HHL torches and then of course you know
+[00:24:59.280 --> 00:25:04.560]   there's safety warning saying hey you know that's not that's not designed
+[00:25:04.560 --> 00:25:08.960]   for inhalation it's designed to be a torch so right you know like from us
+[00:25:08.960 --> 00:25:14.920]   aspect of like okay you know you went did you actually modify a torch or did
+[00:25:14.920 --> 00:25:19.560]   you build it from scratch I mean how what was your approach and then we'll
+[00:25:19.560 --> 00:25:25.800]   get back and well I started was just to playing torches and just playing with
+[00:25:25.800 --> 00:25:31.160]   those and seeing what came out and measuring the gases the quantity and see
+[00:25:31.160 --> 00:25:34.680]   if any of the electrolyte mixes were being pushed out and monitoring all
+[00:25:34.680 --> 00:25:40.560]   different aspects of it and because that's like the closest way the cheapest
+[00:25:40.560 --> 00:25:42.960]   fastest close the way I can start experimenting right just to get one of
+[00:25:42.960 --> 00:25:47.560]   the you know torches out there and seeing what they produce but what I
+[00:25:47.560 --> 00:25:51.480]   quickly found out is that within a short period of time running at full
+[00:25:51.480 --> 00:26:00.600]   power they heat up and start spitting out lots of well smells and gases and
+[00:26:00.600 --> 00:26:07.040]   potentially the electrolyte mix which is the sodium hydroxide so running just
+[00:26:07.040 --> 00:26:12.120]   without of something to control the power on it you can quickly get yourself
+[00:26:12.120 --> 00:26:18.600]   into trouble it's yeah definitely not recommended because I noticed that
+[00:26:18.600 --> 00:26:23.480]   right away that you can see different vapors coming out smell different you
+[00:26:23.480 --> 00:26:28.800]   know just everything about it and then the temperature was run running really
+[00:26:28.800 --> 00:26:32.400]   hot and when you when you've got the temperature really hot the water heats up
+[00:26:32.400 --> 00:26:38.280]   water more water vapor escapes I mean a lot I'd say five to ten times more than
+[00:26:38.280 --> 00:26:42.960]   if you run it on a lower sustainable power level that's really more optimal
+[00:26:42.960 --> 00:26:49.040]   for the body anyway with the hydrogen it would it would be producing but what
+[00:26:49.040 --> 00:26:56.560]   most of these generators run at 100% power it really heats up the water the
+[00:26:56.560 --> 00:27:00.120]   water vapor carries out of the sodium hydroxide and that'll just get into
+[00:27:00.120 --> 00:27:04.440]   your you know lines and air and you'll be breathing it in no time and bubble it
+[00:27:04.440 --> 00:27:07.960]   into your water and it'll be right back in your water that you'd be drinking I
+[00:27:07.960 --> 00:27:10.720]   mean little trace amounts probably won't hurt you but if you do that
+[00:27:10.720 --> 00:27:17.080]   consistently over time you know probably not the best thing yeah okay yeah so so
+[00:27:17.080 --> 00:27:22.000]   let's you know I don't know how deep we want to get into it for everybody but
+[00:27:22.000 --> 00:27:27.640]   let's say you know you go get a torch one of these like $200 eBay you know
+[00:27:27.640 --> 00:27:34.600]   H-H-O torches right how much I mean like what how many different things do you
+[00:27:34.600 --> 00:27:39.160]   have to do to it to make it safe you know because a lot of folks are actually
+[00:27:39.160 --> 00:27:44.360]   I've seen where people are using them and and literally just bubbling right off
+[00:27:44.360 --> 00:27:52.600]   the end of the porch outlet you know and I just keep thinking yeah it's like like
+[00:27:52.600 --> 00:27:56.120]   yeah I mean I guess you could do that like I said but like I said it's gonna be
+[00:27:56.120 --> 00:27:59.160]   thrown at a lot of the sodium hydroxide and you're gonna be breathing that at
+[00:27:59.160 --> 00:28:03.480]   one point in that time at all so the biggest modification you would have to
+[00:28:03.480 --> 00:28:08.760]   do is find a way to modulate the power and that's what you know we and other
+[00:28:08.760 --> 00:28:11.520]   people have done put a control panel in place but it's more than just a control
+[00:28:11.520 --> 00:28:18.040]   panel because the control panel is for controlling other power electronics
+[00:28:18.040 --> 00:28:21.400]   that need to be need to be installed too I know some people they just find a
+[00:28:21.400 --> 00:28:24.680]   power this power panel and put it in slap it in there thinking it'll work but
+[00:28:24.680 --> 00:28:27.800]   it doesn't there's a lot more power electronics involved because you're
+[00:28:27.800 --> 00:28:31.960]   dealing with much higher super high currents in higher voltages and you
+[00:28:31.960 --> 00:28:39.760]   need special electronics to do that okay so with I mean I guess my my electrical
+[00:28:39.760 --> 00:28:43.200]   engineering background and experience with that in tinkering and building
+[00:28:43.200 --> 00:28:46.960]   circuits and so I mean help I mean without that I probably would not have
+[00:28:46.960 --> 00:28:53.320]   been able to do it okay so inside yours is there just one tank or two tanks like
+[00:28:53.320 --> 00:28:58.800]   you have a reservoir tank that there's just one tank you know I've
+[00:28:58.800 --> 00:29:03.200]   experimented with miles where we can put an extra reservoir in there yeah and
+[00:29:03.200 --> 00:29:08.760]   also monitoring the low and high water levels in there but I mean it's a good
+[00:29:08.760 --> 00:29:15.040]   bit of extra work in most people it's not necessary I found okay yeah because
+[00:29:15.040 --> 00:29:19.080]   you know I just we're gonna we'll mention the link and everything later
+[00:29:19.080 --> 00:29:26.400]   folks about there's a Ben started a H HO and H2 or you know browns gas and
+[00:29:26.400 --> 00:29:30.960]   hydrogen chat group on telegram and a couple months ago and we've been kind
+[00:29:30.960 --> 00:29:35.640]   of talking to each other but I think you know in I was reading I'm one of the
+[00:29:35.640 --> 00:29:39.960]   admins and I was reading a section a discussion about the amp meter and and
+[00:29:39.960 --> 00:29:46.440]   what you discovered using the amp meter as a way to you know understand the
+[00:29:46.440 --> 00:29:51.280]   output right and so and so I noticed that you know obviously the H2 Genesis
+[00:29:51.280 --> 00:29:55.080]   has an amp meter here so could you kind of talk about that and kind of you know
+[00:29:55.080 --> 00:30:00.040]   like what's the significance of the power regulation in terms of H HO
+[00:30:00.040 --> 00:30:04.920]   output right and then one of my big concerns is like you know like I'll
+[00:30:04.920 --> 00:30:09.240]   fast you burn the water up in terms of having to keep it full because as you I
+[00:30:09.240 --> 00:30:13.680]   was just chatting in the the chat group of with Ben this last week about I'm
+[00:30:13.680 --> 00:30:18.200]   having a huge problem understanding how much water is in my tanks because I've
+[00:30:18.200 --> 00:30:21.400]   got a different model that's got a little ball in this section right here
+[00:30:21.400 --> 00:30:27.160]   and that ball is like permanently crushed in and it's stuck so I know what
+[00:30:27.160 --> 00:30:32.880]   my water level is and so it's a major pain because if I put in too much I go
+[00:30:32.880 --> 00:30:36.840]   into an overfill and then I've got to take this off you know and it's a pain
+[00:30:36.840 --> 00:30:40.640]   so I don't want to go over but I don't want to go under and I have no way to
+[00:30:40.640 --> 00:30:48.680]   tell. So I reached out to him. So anyway yeah so let's talk about the amp meter
+[00:30:48.680 --> 00:30:52.080]   because I think you had some really interesting comments in the chat group
+[00:30:52.080 --> 00:30:59.480]   about why you went with having you know just an amp meter there. Yeah I mean
+[00:30:59.480 --> 00:31:05.320]   that helps a lot in debugging because you can think the unit is producing gas
+[00:31:05.320 --> 00:31:12.760]   or it's making bubbles but it may not be working optimally so if you're seeing
+[00:31:12.760 --> 00:31:16.240]   how much power it's drawing which is you know directly correlate with the amount
+[00:31:16.240 --> 00:31:20.920]   of amps it's drawing it's a better reference as to what's really going on
+[00:31:20.920 --> 00:31:25.400]   is it really working. That analog amp meter that it that it comes with right
+[00:31:25.400 --> 00:31:30.600]   now they're not the most accurate you know they vary a little bit but it is
+[00:31:30.600 --> 00:31:39.320]   accurate in you know day to day. It's not let's say one may be slightly different
+[00:31:39.320 --> 00:31:42.320]   than the other one amp meter may be slightly different than another but
+[00:31:42.320 --> 00:31:45.800]   whatever they register if you see it working at one level it's going to work
+[00:31:45.800 --> 00:31:49.200]   it's going to register the same day in and day out unless something goes wrong
+[00:31:49.200 --> 00:31:53.880]   with your machine. But after it to electrolyze water to split up the hydrogen
+[00:31:53.880 --> 00:31:58.400]   and the oxygen atoms and water molecule you need to re-push a certain amount of
+[00:31:58.400 --> 00:32:05.280]   current through there. It won't anything over that current basically is directly
+[00:32:05.280 --> 00:32:12.560]   converted from electricity into you know splitting water into oxygen hydrogen
+[00:32:12.560 --> 00:32:16.760]   there's like almost a direct correlation so once you've got enough
+[00:32:16.760 --> 00:32:21.600]   electrolyte solution next year near the sodium hydroxide in this case once
+[00:32:21.600 --> 00:32:29.480]   you're in a certain like range of not too much not too little the amount of gas
+[00:32:29.480 --> 00:32:34.560]   you produce is linearly proportional to the amount of current you push through
+[00:32:34.560 --> 00:32:40.600]   it. Makes sense? Yeah. So the amp meter assuming you've put in you know so many
+[00:32:40.600 --> 00:32:46.680]   grams of the the lime mixture sodium hydroxide into the system is if you
+[00:32:46.680 --> 00:32:51.280]   put in inside that range that you know low and high range you push a certain
+[00:32:51.280 --> 00:32:57.440]   amount of current in there you're going to be and reduce or or raise your power
+[00:32:57.440 --> 00:33:04.440]   level the amount of gas is linearly proportionate so if you raise it you
+[00:33:04.440 --> 00:33:10.240]   know one two three you know micro amps or currents or percent your gas
+[00:33:10.240 --> 00:33:14.560]   production is going to go up linearly. So that's also interesting when you're
+[00:33:14.560 --> 00:33:18.000]   watching the amps it's directly correlated to the amount of gas being
+[00:33:18.000 --> 00:33:22.640]   produced. Okay so that kind of like that correlates to the duty cycle then
+[00:33:22.640 --> 00:33:29.480]   basically is that correct? Right. Okay. Because the duty cycle is
+[00:33:29.480 --> 00:33:33.560]   pulsing on and off and if there's voltage there this current being
+[00:33:33.560 --> 00:33:37.920]   generated. Okay. Right. Okay. The duty cycle is directly correlated with the
+[00:33:37.920 --> 00:33:41.880]   amount of voltage and the amps and the gas. So you know I'm looking at your
+[00:33:41.880 --> 00:33:46.720]   model and I haven't acquired one yet I'm planning to but this right here like
+[00:33:46.720 --> 00:33:53.520]   your your little dashboard is so there's I understand there's no timer but
+[00:33:53.520 --> 00:33:57.680]   it'll but there's the fixture there it does two things it allows you to up and
+[00:33:57.680 --> 00:34:02.760]   down the duty cycle which is the gas production right and then it also you
+[00:34:02.760 --> 00:34:08.080]   also have a frequency generator in there you're going to impart frequency
+[00:34:08.080 --> 00:34:13.800]   into the into the water. Is that right? The last side is the frequency
+[00:34:13.800 --> 00:34:18.800]   adjustment and which goes from one to 150,000 Hertz and the right side is the
+[00:34:18.800 --> 00:34:27.000]   duty cycle which is how the length of the pulse that generates the you know the
+[00:34:27.000 --> 00:34:32.560]   current. Okay all right so my next question since we're talking about the
+[00:34:32.560 --> 00:34:36.360]   Jenny is I just I just want to let everybody know like I've been like you
+[00:34:36.360 --> 00:34:40.560]   know like Ben in the last year because he's been doing nothing but tinkering
+[00:34:40.560 --> 00:34:44.800]   with how to build the ultimate Browns gas generator that's kind of discovered
+[00:34:44.800 --> 00:34:49.960]   and he's given me some tips about how to maintain it and and so I just kind of
+[00:34:49.960 --> 00:34:53.280]   wanted like like what like I guess you know what would be your best tips at
+[00:34:53.280 --> 00:34:57.720]   this point to maintain I think one of the lead off let me lead off with your
+[00:34:57.720 --> 00:35:04.360]   recommendation to dump the whole tank after I think it was like I guess like
+[00:35:04.360 --> 00:35:09.080]   120 hours or something if war or I don't know what how like what's your
+[00:35:09.080 --> 00:35:12.920]   flush cycle and then what's your maintenance because I tried it your way
+[00:35:12.920 --> 00:35:17.440]   this last flush on mine and it was amazing how much how much better it
+[00:35:17.440 --> 00:35:21.040]   performed following your advice so what would you know like what's your
+[00:35:21.040 --> 00:35:29.960]   recommendation I say between 100 and 200 hours use max you know flush out the
+[00:35:29.960 --> 00:35:35.360]   tank just dump out whatever water electrolyte mixes in there I like to
+[00:35:35.360 --> 00:35:41.480]   pour it into a glass jar where I can actually see the color and consistency of
+[00:35:41.480 --> 00:35:45.400]   it usually comes out the fur is this is the first time you're cleaning it it'll
+[00:35:45.400 --> 00:35:51.480]   come out gray dark and with a lot of like it seems like carbon in there and if
+[00:35:51.480 --> 00:35:55.880]   you let it sit or settle all the carbon will usually flow down to the bottom
+[00:35:55.880 --> 00:35:59.920]   right on the bottom and you'll usually be left with crystal clear water and it
+[00:35:59.920 --> 00:36:04.640]   should be crystal clear sometimes it's an off color you have foam your water you
+[00:36:04.640 --> 00:36:10.600]   were putting in there was not completely pure or you made a mistake and put in
+[00:36:10.600 --> 00:36:14.480]   not pure water one time I've had experiences before where the water is
+[00:36:14.480 --> 00:36:20.960]   slightly tinted it could be like a yellow or tan or very subtle yeah so if
+[00:36:20.960 --> 00:36:24.480]   you let it settle and it doesn't come at crystal clear I would definitely throw
+[00:36:24.480 --> 00:36:28.760]   it out because I mean some there's some impurities that water that cannot be
+[00:36:28.760 --> 00:36:34.120]   identified and it's you know not worth putting it back in there okay so on
+[00:36:34.120 --> 00:36:39.160]   unit that I've run for a long time the water you know and flushed out you know
+[00:36:39.160 --> 00:36:42.520]   once or twice or whatever maybe throw in the water out I mean the water comes
+[00:36:42.520 --> 00:36:46.040]   out crystal clear in the future so that's what you should be looking at so that's
+[00:36:46.040 --> 00:36:51.940]   a tough out sign whether you should be pointed out or using it okay so if you
+[00:36:51.940 --> 00:36:58.120]   put in distilled water with why sodium hydroxide you should get the first bat
+[00:36:58.120 --> 00:37:02.600]   the first flush you there's gonna be carbon I've seen that I just let it sit
+[00:37:02.600 --> 00:37:08.000]   and 24 hours later the bottom of the pyrex thing has just got this carbon so
+[00:37:08.000 --> 00:37:11.560]   but here's but that's the con that but that's coming from the plates right I
+[00:37:11.560 --> 00:37:15.920]   mean I mean like what's because I know that I was I had a shot with with Steve
+[00:37:15.920 --> 00:37:20.520]   over at H2 light and our hydrogen for health and he was talking about the
+[00:37:20.520 --> 00:37:24.800]   impurities you're gonna see coming out of your machine are coming from the plates
+[00:37:24.800 --> 00:37:30.720]   and it's the quality of the plates so like like you know can you describe that
+[00:37:30.720 --> 00:37:34.280]   I mean because that's not that's not anywhere else right it's just like it's
+[00:37:34.280 --> 00:37:40.480]   kind of the electrolysis process is just pulling off the outer layer of these
+[00:37:40.480 --> 00:37:46.400]   plates right that's what basically is happening right I mean I'm familiar I'm
+[00:37:46.400 --> 00:37:52.840]   familiar with this because I used an H2 system for my car you know like 10 50
+[00:37:52.840 --> 00:37:57.240]   years ago right and you're part of the instructions with that is like run a few
+[00:37:57.240 --> 00:38:02.160]   tanks of gas through it you know well gas meaning like run your car with a
+[00:38:02.160 --> 00:38:07.160]   few tanks of gas running electricity through the electrolyzer before you
+[00:38:07.160 --> 00:38:10.760]   really clean it out and flesh out all the impurities but what happens is even
+[00:38:10.760 --> 00:38:15.520]   though it's made a stainless steel there's still the oil from people's hands that
+[00:38:15.520 --> 00:38:19.440]   we're working with it to put it together carbon is usually used small
+[00:38:19.440 --> 00:38:23.040]   percentage of carbon is used in making the steel to harden it up but any of those
+[00:38:23.040 --> 00:38:26.960]   atoms of you say carbon and other molecules or oils that are on the plates
+[00:38:26.960 --> 00:38:30.560]   those are going to be pulled off in the process of electrolysis because you've
+[00:38:30.560 --> 00:38:35.040]   got a high potential electric field in there and you're sending that enough
+[00:38:35.040 --> 00:38:38.680]   electricity through it to rip apart water molecules right so you're going to be
+[00:38:38.680 --> 00:38:43.520]   ripping off atoms and different molecules off of these plates and in a way that
+[00:38:43.520 --> 00:38:50.520]   this running like electricity through this steel it cleans the plates to the
+[00:38:50.520 --> 00:38:56.560]   point where it will rip off anything it can and if it can't rip off anything
+[00:38:56.560 --> 00:39:00.320]   any longer nothing else will come off so anything that's loose or dislodge or
+[00:39:00.320 --> 00:39:04.600]   not really ingrained in the metal will dislodge itself and if it's heavy you're
+[00:39:04.600 --> 00:39:09.320]   heavier like metal or carbon it'll just flow down to the bottom so would you
+[00:39:09.320 --> 00:39:12.640]   recommend that like somebody who gets a brand new one they should do like a
+[00:39:12.640 --> 00:39:18.320]   couple of flushes like after 50 hours twice just to get all that impurities
+[00:39:18.320 --> 00:39:22.480]   out and then they then they can go up to running it a hundred hours at a time
+[00:39:22.480 --> 00:39:27.480]   because I if you do it at 50 hours I would do another flush at another you
+[00:39:27.480 --> 00:39:31.040]   know hundred or two hundred hours that's almost a little soon yeah yeah I say
+[00:39:31.040 --> 00:39:34.120]   wait at least a hundred and no more than 200 and then you can get away with you
+[00:39:34.120 --> 00:39:37.880]   it just doing one flush okay but I mean even before we we send the machines out
+[00:39:37.880 --> 00:39:42.680]   we we run them for a while we we rinse them and I would flush them out like
+[00:39:42.680 --> 00:39:46.840]   probably three or four times you know first with just regular water we do three
+[00:39:46.840 --> 00:39:50.080]   or four flushes with regular water run them a little bit and then finally with
+[00:39:50.080 --> 00:39:55.600]   the still water and flush that out okay cheers I know I know with other
+[00:39:55.600 --> 00:40:01.560]   generators people have bought from other manufacturer that make them they
+[00:40:01.560 --> 00:40:07.640]   don't pre wash or clean them and as a result I noticed this with some of the
+[00:40:07.640 --> 00:40:12.560]   ones I got just the just straight out you know torch you know I would just
+[00:40:12.560 --> 00:40:17.880]   find and experiment with them they will foam up so quick and right away I don't
+[00:40:17.880 --> 00:40:22.680]   know if you've experienced that before if they're impurities water yeah just
+[00:40:22.680 --> 00:40:25.840]   like you put soap and water to make bubbles they're dust those impurities
+[00:40:25.840 --> 00:40:29.280]   they're clomping together and they won't let the air completely escape they kind
+[00:40:29.280 --> 00:40:35.600]   of you know just stick together right just like soap would yeah actually there's
+[00:40:35.600 --> 00:40:40.840]   a lot of impurities in their oil right I had I've actually yeah that's another
+[00:40:40.840 --> 00:40:46.920]   I've had six different machine and one of them poured out purple Wow literally
+[00:40:46.920 --> 00:40:52.160]   purple mud what and I was like shot yeah that's not good at all I mean that
+[00:40:52.160 --> 00:40:59.880]   doubt but it was wild man I mean in our case flesh yeah because I mean some of
+[00:40:59.880 --> 00:41:03.520]   the machines and cells that come from China they may be sitting in warehouses
+[00:41:03.520 --> 00:41:07.560]   for you know years and years right and if they get a little bit of dampness and
+[00:41:07.560 --> 00:41:10.800]   humidity they'll start rusting and corroding into the parts that are not
+[00:41:10.800 --> 00:41:17.080]   completely you know stainless steel or even if you weld stainless steel the
+[00:41:17.080 --> 00:41:24.000]   new joints are still prone to rust in corrosion okay and so some of these
+[00:41:24.000 --> 00:41:29.340]   manufacturers that then convert some of the the torch generators to you know
+[00:41:29.340 --> 00:41:33.280]   hydrogen for house machines they may not thoroughly clean out run machines
+[00:41:33.280 --> 00:41:37.120]   started cleaning out wash them out to prevent prevent this for foaming I mean
+[00:41:37.120 --> 00:41:41.280]   none of our clients have experienced foaming up to this point I think because
+[00:41:41.280 --> 00:41:43.880]   we do spend so much time washing and cleaning them out that's part of our
+[00:41:43.880 --> 00:41:49.200]   process and getting ready because I don't want them foaming up yeah I've had
+[00:41:49.200 --> 00:41:53.000]   one that foamed up to that's another one of my six foamed up the other one yeah
+[00:41:53.000 --> 00:41:57.000]   it's been an experience so yeah it's been it's been a journey but I you know but
+[00:41:57.000 --> 00:41:59.160]   yeah that's interesting that you're you're hitting on everything I've ever
+[00:41:59.160 --> 00:42:04.360]   seen and you know let's talk about like the double bubbler here I mean because
+[00:42:04.360 --> 00:42:07.280]   one of the recommendations from another manufacturer is that only one
+[00:42:07.280 --> 00:42:12.320]   bubbler is necessary but I've discovered that you know over time like I'll see
+[00:42:12.320 --> 00:42:16.360]   discoloration in one of my bubblers and off the second bubbler start picking
+[00:42:16.360 --> 00:42:20.040]   it up I know you're technically supposed to empty these things out every four
+[00:42:20.040 --> 00:42:25.280]   hours but you know we're humans nobody follows the directions so I so just
+[00:42:25.280 --> 00:42:33.320]   I'm a man I don't follow directions I admit it and so and so what happened so
+[00:42:33.320 --> 00:42:37.760]   I all mean double bubbler this is what I actually figured mine with two and then
+[00:42:37.760 --> 00:42:40.960]   I drink out of the third you know which is like which is a you know
+[00:42:40.960 --> 00:42:45.560]   quantity bottle you know so is so you find that it's necessary to have two
+[00:42:45.560 --> 00:42:51.240]   it's best to have two or what what's your record most I mean if if you
+[00:42:51.240 --> 00:42:55.240]   wanted to dump it out every one if you have one when I dump it out after every
+[00:42:55.240 --> 00:42:59.680]   few hours you're probably fine but like you and me and most other man I guess
+[00:42:59.680 --> 00:43:08.120]   so I don't want to do that yeah cuz well the my thing is I have my
+[00:43:08.120 --> 00:43:12.280]   sitting next to my desk at work I work from home and I'm on it like literally
+[00:43:12.280 --> 00:43:15.920]   eight hours a day so I don't have time to be messing with my Jenny in the
+[00:43:15.920 --> 00:43:21.120]   middle of my work day so I do it I do it every couple of days but yeah I hear
+[00:43:21.120 --> 00:43:25.440]   you yeah exactly so so too so having to give you a much longer runtime with
+[00:43:25.440 --> 00:43:29.840]   having to without having to intervene in it and we've done experiments here
+[00:43:29.840 --> 00:43:36.160]   where we see how long we can let it run how many hours we can go before the
+[00:43:36.160 --> 00:43:42.000]   first bubbler starts showing signs of the alkalinity increasing and usually
+[00:43:42.000 --> 00:43:45.520]   up I mean it's it's very slight but it'll start going up after three or four days
+[00:43:45.520 --> 00:43:50.000]   and definitely after week you notice something slight but even after two
+[00:43:50.000 --> 00:43:55.720]   weeks it's hard to find any pH increase in the second bubbler so you've got a
+[00:43:55.720 --> 00:44:01.080]   lot of extra time built in if you've got two bubblers so I mean it's so easy and
+[00:44:01.080 --> 00:44:05.200]   expensive to add another one so it's like you know why not yeah it just it's
+[00:44:05.200 --> 00:44:09.000]   more practical you know you just hit on a really good point I think one of the
+[00:44:09.000 --> 00:44:14.400]   folks in our chat was talking about using a ppm meter to measure how much
+[00:44:14.400 --> 00:44:19.000]   lie was getting leached into her bubbler slash you know drinking container and
+[00:44:19.000 --> 00:44:23.800]   so but you're saying but you just mentioned using pH so it would be a good
+[00:44:23.800 --> 00:44:28.040]   advice for people using any kind of brownscast generator that if you're
+[00:44:28.040 --> 00:44:31.920]   worried about what's leaching out into your water that let's say this is your
+[00:44:31.920 --> 00:44:36.920]   drinking container here with the spigot that you could use a PPM for PPM to
+[00:44:36.920 --> 00:44:41.080]   measure right that if anything is bleaching through the bubblers right
+[00:44:41.080 --> 00:44:46.600]   which which would be better the P or the or the PPM or both what do you
+[00:44:46.600 --> 00:44:54.800]   recommend PPM is a parts per million with parts per million of what are you
+[00:44:54.800 --> 00:45:01.320]   measuring yeah I'm thinking if you start with distilled water and you run
+[00:45:01.320 --> 00:45:06.040]   your bubbler into you run the bubbler for like I don't know 10 minutes you
+[00:45:06.040 --> 00:45:10.840]   should be able to measure the PPM increase in the in the container but
+[00:45:10.840 --> 00:45:16.400]   then you'd have to have a right I don't know this you bring up another good
+[00:45:16.400 --> 00:45:21.920]   point to mention I don't use distilled water in either the bubblers yeah like
+[00:45:21.920 --> 00:45:25.920]   I think I've mentioned before and in chats to you that yeah impurities do
+[00:45:25.920 --> 00:45:29.760]   come out of the system just following up the water vapor and just cling to
+[00:45:29.760 --> 00:45:32.640]   water vapor whether it's the sodium hydroxide or other impurities who knows
+[00:45:32.640 --> 00:45:37.960]   what's in it right it may come out in the water vapor and immediately condense
+[00:45:37.960 --> 00:45:43.200]   into water into into the first bubbler so even if that's distilled water you're
+[00:45:43.200 --> 00:45:46.680]   still pouring back the impurities into the system if you want to do that yeah
+[00:45:46.680 --> 00:45:52.520]   distilled water is you know cheap and in so is the sodium hydroxide so I mean
+[00:45:52.520 --> 00:45:56.080]   why not throw that out there anything that comes out is impure in my in my
+[00:45:56.080 --> 00:45:59.780]   opinion you know anything that comes out with the gases yeah we should be
+[00:45:59.780 --> 00:46:05.100]   going away that's exactly what I just put normal good filtered water into these
+[00:46:05.100 --> 00:46:08.340]   two bubblers and just keep throwing it out that's like that's a filter right
+[00:46:08.340 --> 00:46:12.140]   right I don't want to pour what's been filtered out back into the machine I
+[00:46:12.140 --> 00:46:16.100]   thought that stuff out yeah yeah so I actually started taking your advice and
+[00:46:16.100 --> 00:46:20.260]   that's what I did my last flush I actually noticed that at 100% duty I
+[00:46:20.260 --> 00:46:25.340]   call that the bubblers the bubbles coming out are way faster and that
+[00:46:25.340 --> 00:46:29.980]   there's more gas production so now I just use tap water and the bubblers I only
+[00:46:29.980 --> 00:46:34.620]   use distilled water inside the generator and then right here that we're
+[00:46:34.620 --> 00:46:39.540]   careful with tap water tap water can you water may not be the best thing if it's
+[00:46:39.540 --> 00:46:42.500]   got fluoride and chlorine and other chemicals who knows what's in there I
+[00:46:42.500 --> 00:46:46.500]   would definitely use some kind of really good filter water reverse osmosis
+[00:46:46.500 --> 00:46:51.460]   water bottle water something yeah yeah yeah filter yeah it comes out of my
+[00:46:51.460 --> 00:46:55.420]   burky that's what I meant sorry you're a good point good right here yeah people
+[00:46:55.420 --> 00:47:00.100]   tap water is not good filter that no no don't put that in there yeah I just
+[00:47:00.100 --> 00:47:03.860]   you know here's an interesting yeah in the city County Honolulu we do not
+[00:47:03.860 --> 00:47:08.220]   fluoride our water we don't fluoridate so the only thing in it is chlorine and
+[00:47:08.220 --> 00:47:11.740]   whatever they use to clean the water we have even though that stuff is bad but
+[00:47:11.740 --> 00:47:15.540]   yeah it's pretty nice so we don't have fluoride filtered water in the
+[00:47:15.540 --> 00:47:22.660]   chlorine yeah filter water in the bubbler chlorine chlorine gas and that's
+[00:47:22.660 --> 00:47:27.940]   toxic right chlorine gas chlorine the water yeah I go to in there I don't know
+[00:47:27.940 --> 00:47:31.380]   that sounds dangerous yeah I use big burkeys they filter that out so that's
+[00:47:31.380 --> 00:47:34.820]   awesome okay cool all right so that works out yeah I did have a question about
+[00:47:34.820 --> 00:47:40.260]   stones you know the bubbler stones I can't I don't know if I don't seem to have
+[00:47:40.260 --> 00:47:44.700]   enough pressure to get the gas to go through a steel stone and you were
+[00:47:44.700 --> 00:47:47.780]   saying that maybe it's plugged up or anything but it's just you're what's
+[00:47:47.780 --> 00:47:51.980]   your recommendation on on steel stones versus stone stones you know
+[00:47:51.980 --> 00:47:56.700]   bubbler stones I like what do you recommend is best because don't the the
+[00:47:56.700 --> 00:48:01.140]   stones I mean up over time is that probably like that and that's why you
+[00:48:01.140 --> 00:48:06.980]   want a metal one or what's your opinion well I mean the whole idea of the
+[00:48:06.980 --> 00:48:11.220]   steel stone stainless steel I mean just mentally what you know that stainless
+[00:48:11.220 --> 00:48:14.680]   steel pots and stainless steel it's like okay well it's healthy it's clean it's
+[00:48:14.680 --> 00:48:18.740]   clear right it's metal it's you know so you would think that it's a good thing
+[00:48:18.740 --> 00:48:24.580]   but you know I've kept fishing aquariums all my life so I've gone through lots of
+[00:48:24.580 --> 00:48:28.980]   different air stones and experimenting with different air stones and they all
+[00:48:28.980 --> 00:48:33.460]   approach the same problem any little bitty impurities you know in bacteria
+[00:48:33.460 --> 00:48:37.120]   in the air touch your water get in the hose is even when you connect in the
+[00:48:37.120 --> 00:48:41.880]   hoses a little bitty bacteria in the air gets into the hose and it gets pushed
+[00:48:41.880 --> 00:48:48.300]   through into the airstone and they can start multiplying and so if not gunk or
+[00:48:48.300 --> 00:48:54.380]   gooey-ness just playing bacteria scum can build up in there and just simply
+[00:48:54.380 --> 00:48:59.700]   clog up the small pores on these air stones so a stainless steel doesn't buy
+[00:48:59.700 --> 00:49:03.300]   you anything they say you can produce micro bubbles or smaller bubbles but I
+[00:49:03.300 --> 00:49:08.060]   mean micro bubbles if you want to really see micro bubbles look at what
+[00:49:08.060 --> 00:49:14.120]   they call them on protein skimmers on the internet it's a pump uses like a
+[00:49:14.120 --> 00:49:17.760]   little Venturi system a suction system and it spins around in a vortex and
+[00:49:17.760 --> 00:49:21.680]   produces really micro bubbles micro bubbles or nano bubbles will stay
+[00:49:21.680 --> 00:49:25.800]   suspended in the water that's what you really want these air stones no matter
+[00:49:25.800 --> 00:49:31.400]   what size they say they produce if you don't see the water changing to a cloudy
+[00:49:31.400 --> 00:49:35.600]   white which would indicate there's lots of micro nano bubbles in there then
+[00:49:35.600 --> 00:49:40.360]   you're not producing small micro nano bubbles if the bubbles just float up to
+[00:49:40.360 --> 00:49:43.780]   the top and pop like normal bubbles in the water stays crystal clear other than
+[00:49:43.780 --> 00:49:50.220]   that it's just as good as any any normal air stone make sense okay yeah okay so
+[00:49:50.220 --> 00:49:55.040]   you're better off okay saving your money on like a I don't know how much
+[00:49:55.040 --> 00:49:59.160]   the stainless steel air stones cost but they're like 20 bucks you're better off
+[00:49:59.160 --> 00:50:03.420]   buying 10 or less that's ridiculous I think we get them for like 50 cents or
+[00:50:03.420 --> 00:50:06.920]   something like that you know 20 50 cents so you can buy maybe replace them every
+[00:50:06.920 --> 00:50:11.860]   week you know you're still a steel air stone doesn't does not that the claim is
+[00:50:11.860 --> 00:50:14.720]   it makes micro bubbles or smaller bubbles but that's not the case that's
+[00:50:14.720 --> 00:50:19.000]   not how you make smaller bubbles you know um so that that points out the window
+[00:50:19.000 --> 00:50:24.400]   oh the second point is it'll get caught it the second point is that it'll get
+[00:50:24.400 --> 00:50:28.980]   clogged up just as fast as a regular blue you know air stone would be we'll
+[00:50:28.980 --> 00:50:33.040]   get clogged up which um after a while you know just throw them out and replace
+[00:50:33.040 --> 00:50:37.020]   them if they start breaking down or getting scummy they'll get you can feel
+[00:50:37.020 --> 00:50:43.680]   they'll get slimy after a while just like in an aquarium even so yeah if you
+[00:50:43.680 --> 00:50:47.320]   bless your wash and scrubbing them off they still got bacteria you know grown
+[00:50:47.320 --> 00:50:50.440]   on they'll get slimy so I just throw them out after a while they'll do either
+[00:50:50.440 --> 00:50:54.300]   disintegrate or throw them out do you really even better off replacing them
+[00:50:54.300 --> 00:50:59.160]   or do you even really need a stone or could you just because in my bubblers
+[00:50:59.160 --> 00:51:04.740]   my filter the two on the side I don't have any stones I just bubble it right
+[00:51:04.740 --> 00:51:10.600]   out of the tube but do would you write in those cases stone in like in the
+[00:51:10.600 --> 00:51:15.960]   drinking container I mean it's going necessary throughout the system well
+[00:51:15.960 --> 00:51:22.080]   the stones do increase they create more bubbles you know smaller bubbles all right
+[00:51:22.080 --> 00:51:26.400]   um if you did not have the stone you would have larger bubbles just bubbling
+[00:51:26.400 --> 00:51:31.080]   up in there's less surface area there the idea is you went smaller lots of
+[00:51:31.080 --> 00:51:34.080]   smaller bubbles with more surface area and the more surface area you have on
+[00:51:34.080 --> 00:51:40.440]   of bubbles okay it's more likely for the hydrogen oxygen in good stuff electrons
+[00:51:40.440 --> 00:51:44.640]   to diffuse into water or stick to other water molecules so the more surface
+[00:51:44.640 --> 00:51:51.120]   contact you have with the air between the water and air the better for getting
+[00:51:51.120 --> 00:51:56.600]   the hydrogen dissolved faster into the water okay so the optimal infusion of
+[00:51:56.600 --> 00:52:02.160]   the browns gas into your bubble water is using you know like let's say using a
+[00:52:02.160 --> 00:52:07.640]   stone a regular old aquarium stone works fine replace it frequently they can be
+[00:52:07.640 --> 00:52:13.120]   they can get contaminated right but you definitely need to use it and then what
+[00:52:13.120 --> 00:52:16.680]   would say what would be your your process for that what's your what's
+[00:52:16.680 --> 00:52:22.840]   your formula for the optimal saturation of browns gas in a bubble or is it like
+[00:52:22.840 --> 00:52:28.960]   I think I've quoted some of the other manufacturers are saying 10 minutes per
+[00:52:28.960 --> 00:52:34.680]   liter at 100% duty cycle is that sort of your formula as well or what you've
+[00:52:34.680 --> 00:52:43.480]   discovered yeah would I kind of discover or not say discover but just just
+[00:52:43.480 --> 00:52:47.200]   paying attention and noticing and just experiment right it doesn't make that
+[00:52:47.200 --> 00:52:52.040]   much difference okay whether you have a 50% or 100% in 10 minutes or 20 minutes
+[00:52:52.040 --> 00:52:58.600]   usually after 10 minutes it's as good as it's gonna be in 50% or 100% duty cycle
+[00:52:58.600 --> 00:53:01.440]   it doesn't make too much of a difference I mean you can't it's hard to tell the
+[00:53:01.440 --> 00:53:04.960]   difference in in bubbles coming up and it's not gonna produce an overbundance to
+[00:53:04.960 --> 00:53:10.240]   make it that much better that much quicker how about okay go ahead sorry
+[00:53:10.240 --> 00:53:15.760]   so anywhere between me I wouldn't even do it at 100% unless the machine is you
+[00:53:15.760 --> 00:53:19.880]   know cold to start with because if it's hot you're gonna start throwing out it's
+[00:53:19.880 --> 00:53:23.520]   not that big a deal you know but um it may start overheating and throwing out
+[00:53:23.520 --> 00:53:28.120]   extra water vapors and other contaminants so the idea is to keep it you know run
+[00:53:28.120 --> 00:53:32.080]   at a lower temperature and cooler for the most okay that's good point that's
+[00:53:32.080 --> 00:53:39.640]   good tip okay so yeah okay and then how long how long do you be did you find
+[00:53:39.640 --> 00:53:46.480]   and when your research shows how long will the gas stay in the water before it
+[00:53:46.480 --> 00:53:55.000]   dissipate like what's its half-life that's something in my opinion you really
+[00:53:55.000 --> 00:53:57.880]   shouldn't pay attention to because you really should be just drinking it right
+[00:53:57.880 --> 00:54:03.360]   when it's when when you turn it off right don't don't carry it around yeah
+[00:54:03.360 --> 00:54:08.880]   yeah okay no no let me so that that should be like a point with a question to
+[00:54:08.880 --> 00:54:14.280]   ask or okay it's like okay you bubbling you turn it off and you drink it that's
+[00:54:14.280 --> 00:54:20.640]   it okay so that there's a fact it happened really short half-life yeah just
+[00:54:20.640 --> 00:54:25.240]   drink it you know forget about the half-life it has one yeah okay it doesn't
+[00:54:25.240 --> 00:54:28.960]   last too long yeah because I know that like I used to I used to do those hydrogen
+[00:54:28.960 --> 00:54:33.080]   tablets before I got a Jenny and and man you had to drink that thing within
+[00:54:33.080 --> 00:54:36.600]   like I think they recommend 20 minutes but I'll think in hydrogen you know
+[00:54:36.600 --> 00:54:45.040]   that's pretty long yeah no no I mean just bubble it and then drink it right so
+[00:54:45.040 --> 00:54:49.440]   bubble yeah I mean I wouldn't even do the tablets before it 100% default
+[00:54:49.440 --> 00:54:53.960]   dissolves if I think it's not gonna like you know you know make me belts or
+[00:54:53.960 --> 00:54:58.680]   burn home I feel like I'll drink it before it's dissolved finish dissolving
+[00:54:58.680 --> 00:55:05.640]   yeah I used to do yeah I used to do that and I get that little little bit of
+[00:55:05.640 --> 00:55:11.880]   undissolved you know tablet my mouth and it just right it exactly well hey you
+[00:55:11.880 --> 00:55:16.960]   know let's check balance you got okay yeah hey let's chat about your you know
+[00:55:16.960 --> 00:55:22.360]   like questions in the chat we had questions about dosage or usage you know
+[00:55:22.360 --> 00:55:27.560]   of browns gas and so let's chat about that I'm just gonna throw some some you
+[00:55:27.560 --> 00:55:31.480]   know some questions and issues that people had and and and just you know
+[00:55:31.480 --> 00:55:35.240]   what do you know what are your thoughts what do you recommend about about that
+[00:55:35.240 --> 00:55:40.720]   so basically it's quote best practices for inhalation and drinking browns gas
+[00:55:40.720 --> 00:55:44.960]   water we just said about the recommendations for drinking the water
+[00:55:44.960 --> 00:55:48.640]   drink it just drink it after it's made but how about
+[00:55:48.640 --> 00:55:53.480]   but you know we just recently had an interesting chat I think it was a week
+[00:55:53.480 --> 00:55:58.200]   or so ago about diminishing return right because we know that and that
+[00:55:58.200 --> 00:56:02.960]   conversation came up with how long should people like what is the optimal
+[00:56:02.960 --> 00:56:08.000]   length of time people should be doing inhalation because there was folks that
+[00:56:08.000 --> 00:56:12.920]   were doing it overnight but just inhalation in general you kind of
+[00:56:12.920 --> 00:56:15.680]   mentioned that you discovered that there's a there's kind of like a law
+[00:56:15.680 --> 00:56:20.280]   of diminishing returns kicks in at a certain point so can you comment on that
+[00:56:20.280 --> 00:56:26.600]   right right yeah I mean the exact numbers are to be debated and that's what
+[00:56:26.600 --> 00:56:29.600]   this is all about you know we know hydrogen is not gonna kill us right you
+[00:56:29.600 --> 00:56:34.680]   know we can do it night and day for 24 hours and it's not gonna hurt us but
+[00:56:34.680 --> 00:56:39.600]   myself and other clients and you know other people just talking about this in
+[00:56:39.600 --> 00:56:45.800]   the groups we've noticed that after a certain point so it may be like eight
+[00:56:45.800 --> 00:56:50.800]   hours 10 hours 16 hours a day or whatever it may be that you don't get any
+[00:56:50.800 --> 00:56:56.680]   additional effects and you may even actually get negative effects or it may
+[00:56:56.680 --> 00:57:04.120]   there if effects might start diminishing so in in general what people
+[00:57:04.120 --> 00:57:09.520]   recommend I think is between I mean this is what I say now too is maybe one
+[00:57:09.520 --> 00:57:16.400]   to three times a day I mean also variation is good to it's okay to be late or
+[00:57:16.400 --> 00:57:20.440]   do just do it once a day or three times a day or a longer period one day and
+[00:57:20.440 --> 00:57:26.600]   skip a day because the effects seem in general seem to last you know taper off
+[00:57:26.600 --> 00:57:33.600]   over three four days even so if you skip one day no big deal but in general I
+[00:57:33.600 --> 00:57:38.160]   say use it or do a session one to three times a day whether it'll be you know
+[00:57:38.160 --> 00:57:43.480]   it can vary a session to be breathing or could be drinking water and if you're
+[00:57:43.480 --> 00:57:49.400]   breathing it could be like 20 minutes to two or three hours and do that three
+[00:57:49.400 --> 00:57:54.000]   times a day every day and you're fine if you get out of the routine it's not
+[00:57:54.000 --> 00:58:01.720]   gonna hurt you because there's a delayed effect I mean it has a lasting effect
+[00:58:01.720 --> 00:58:07.600]   that goes at slowly diminishes over a few days but I can tell you I've got one
+[00:58:07.600 --> 00:58:12.840]   friend that does miss mix martial arts me older guy who's just 40 assuming he
+[00:58:12.840 --> 00:58:15.960]   doesn't just for fun and sparring with other people that much younger than him
+[00:58:15.960 --> 00:58:19.800]   and he was really excited about trying this and to see how it would affect his
+[00:58:19.800 --> 00:58:22.920]   performance recovery because oh man I'm so sore I can't keep up with these
+[00:58:22.920 --> 00:58:27.400]   younger you know younger kids and all that and so this first week using it he
+[00:58:27.400 --> 00:58:31.960]   noticed a huge increase in both energy stamina endurance and also recovery he
+[00:58:31.960 --> 00:58:35.240]   like wow this is great it's incredible so he started doing more of it I don't
+[00:58:35.240 --> 00:58:38.840]   know exactly I didn't get the details or numbers how much more he was doing but
+[00:58:38.840 --> 00:58:42.880]   he was doing a lot more than he had previously and then he noticed he was
+[00:58:42.880 --> 00:58:48.680]   more slower lethargic or he didn't have the same energy increase as he did
+[00:58:48.680 --> 00:58:56.440]   previously so when he cut back the you know the energy stamina endurance all
+[00:58:56.440 --> 00:59:01.440]   that increased again Wow yeah hey yeah you know why you're talking about your
+[00:59:01.440 --> 00:59:08.040]   customers you posted some really cool store like testimonial about what one
+[00:59:08.040 --> 00:59:13.960]   one individuals wife was had early onset or late stage dementia something I mean
+[00:59:13.960 --> 00:59:18.440]   what was with that one that was amazing what what you said your customer told
+[00:59:18.440 --> 00:59:23.480]   you yeah I mean I can tell so me I mean I don't have hundreds and hundreds of
+[00:59:23.480 --> 00:59:26.640]   customers just right right because we're kind of new and just more of the
+[00:59:26.640 --> 00:59:32.480]   amounts pretty yeah exactly but but I mean with the few customers we do have
+[00:59:32.480 --> 00:59:39.080]   you know I've got just so many just stories and testimonies I can talk for
+[00:59:39.080 --> 00:59:43.080]   hours on you know and we've got just I mean yeah it's unbelievable me every
+[00:59:43.080 --> 00:59:46.160]   every person I get back in touch with something oh they probably just like
+[00:59:46.160 --> 00:59:49.200]   the machines in the corner collecting dust and I'm like why I don't know what
+[00:59:49.200 --> 00:59:52.200]   I haven't they I've heard back from these people but when I call them up or
+[00:59:52.200 --> 00:59:55.320]   send a message like oh no what use the machinery day I can't do without it you
+[00:59:55.320 --> 01:00:00.760]   know you know it's doing great okay and they'll they'll tell me some story
+[01:00:00.760 --> 01:00:05.280]   about how you know arthritis pains gone away or they'll tell usually all have a
+[01:00:05.280 --> 01:00:09.360]   story for me you know so it's all it's super cool here that kind of stuff so
+[01:00:09.360 --> 01:00:13.080]   is there an age range where it's been like you know with C60 it seems like the
+[01:00:13.080 --> 01:00:18.120]   older folks or have a much more announced reaction or you know is do you
+[01:00:18.120 --> 01:00:22.600]   find that the same way with browns gas or is it across the plane like you know
+[01:00:22.600 --> 01:00:27.400]   young people working out faster recovery from muscle soreness I know that's one
+[01:00:27.400 --> 01:00:33.240]   of the effects and what do you what are you finding yeah I really am I what what
+[01:00:33.240 --> 01:00:41.800]   I say it every every age and can benefit I mean it's it's incredible and even I
+[01:00:41.800 --> 01:00:45.600]   mean I just I'm trying to tell you what story to tell you because there's so many
+[01:00:45.600 --> 01:00:52.000]   because um I mean I used it on my son a few times he's seven years old and he
+[01:00:52.000 --> 01:00:56.360]   he'll tell you you know he's like when someone comes over and we're talking and
+[01:00:56.360 --> 01:01:00.520]   the so it comes up about the the hydrogen they shoot Genesis machine he's
+[01:01:00.520 --> 01:01:04.720]   like he's like that machine saved my life three times you know that's what
+[01:01:04.720 --> 01:01:11.040]   will tell people what one one in a case where he was um dehydrated you know
+[01:01:11.040 --> 01:01:15.280]   playing that a party all day not drinking enough come home falls asleep
+[01:01:15.280 --> 01:01:19.040]   really fast wakes up the next morning stumbling out like my chest hurts I
+[01:01:19.040 --> 01:01:23.280]   can't breathe and his heart was pounding he just fainted in my arms and oh there's
+[01:01:23.280 --> 01:01:26.720]   in my part is like you know he's dehydrated you know we have him get
+[01:01:26.720 --> 01:01:30.880]   down and drink so instantly hooked him up and he came he came back within 30
+[01:01:30.880 --> 01:01:34.520]   seconds you know and he's like oh I feel better now the pain is gone and I took
+[01:01:34.520 --> 01:01:37.840]   it off the the cannula off of them because I was tangled up I put it on so
+[01:01:37.840 --> 01:01:41.600]   fast he's like oh the pain is back it hurts put it back on put it back on and
+[01:01:41.600 --> 01:01:45.520]   so we put it back on and just in seconds he's feeling better again and then you
+[01:01:45.520 --> 01:01:49.040]   know while that was going on we got we got him drink some got some electrolytes
+[01:01:49.040 --> 01:01:53.440]   back in him and it it worked but I mean he's like he's like he's like man daddy
+[01:01:53.440 --> 01:01:56.800]   that that really worked that helped yeah I'm like oh my god there you go that was
+[01:01:56.800 --> 01:02:02.160]   both scared scary and yeah at the same time like an unbelievable like first
+[01:02:02.160 --> 01:02:09.200]   world first-hand experience um of how it it's good for mercies yeah another
+[01:02:09.200 --> 01:02:16.720]   case um he burned his finger got a blister crying because he's got this big
+[01:02:16.720 --> 01:02:20.400]   burns pulling up blister on his finger didn't wouldn't let me put any cream
+[01:02:20.400 --> 01:02:24.480]   on it to help stop the burning um I said well let's put let's bag it and put
+[01:02:24.480 --> 01:02:27.440]   some hydrogen on that he's like okay there's nothing to be touching it right
+[01:02:27.440 --> 01:02:31.200]   within um he was remember he's complained about this for like an hour or
+[01:02:31.200 --> 01:02:34.240]   two before you know I said well could I let's put an
+[01:02:34.240 --> 01:02:38.320]   hydrogen on it so we bagged in some hydrogen turn it on and within 10
+[01:02:38.320 --> 01:02:43.040]   minutes it's gone and it hadn't hurt since wow that's amazing so it
+[01:02:43.040 --> 01:02:47.120]   the pain the pain of burns um it'll just take away
+[01:02:47.120 --> 01:02:50.800]   um not just that but a stink you got a really bad bug sting or it could be a
+[01:02:50.800 --> 01:02:54.800]   bee sting or something like that it's swelling up we bag it put hydrogen on it
+[01:02:54.800 --> 01:02:58.240]   it goes away within 10 minutes and doesn't come back I mean his burn did not
+[01:02:58.240 --> 01:03:04.640]   hurt again you had no other um I mean it's hard to say 100 sure but when you
+[01:03:04.640 --> 01:03:10.320]   see um something working again and again yeah it's like it's hard not to draw
+[01:03:10.320 --> 01:03:13.120]   the conclusion that hey it's having an effect yeah oh yeah
+[01:03:13.120 --> 01:03:20.000]   in my case I sprained my ankle um I twisted it as I was sitting down
+[01:03:20.000 --> 01:03:24.000]   my my desk um I said oh it hurts man I just I'll just wait I'll just go away
+[01:03:24.000 --> 01:03:27.040]   but when I finally went to get up I almost fell on the floor because
+[01:03:27.040 --> 01:03:30.720]   it hurt so bad and as soon as I try to walk on it I'm like almost collapsed
+[01:03:30.720 --> 01:03:34.480]   and I look down in like my whole ankle is swollen up my foot's red
+[01:03:34.480 --> 01:03:38.000]   um and I'm like oh man I can barely hop to the bed and even if someone touched
+[01:03:38.000 --> 01:03:40.240]   the bed I would almost scream in pain because
+[01:03:40.240 --> 01:03:43.680]   something with the nerves probably happened as well but it was painful
+[01:03:43.680 --> 01:03:48.480]   um I asked my son to bring me a bag so I can bag it up with the hydrogen I
+[01:03:48.480 --> 01:03:52.080]   did that I couldn't I couldn't move it for I mean it's swollen up I took
+[01:03:52.080 --> 01:03:55.280]   pictures as well um I couldn't move it for
+[01:03:55.280 --> 01:03:59.200]   I don't know for the longest time but I slept with it kind of raised up
+[01:03:59.200 --> 01:04:02.640]   with the bag and the hydrogen being pumped into it all night
+[01:04:02.640 --> 01:04:06.320]   and every couple hours I wake up I try to move my toes and it's a little bit
+[01:04:06.320 --> 01:04:09.760]   more movement um by the time morning came around
+[01:04:09.760 --> 01:04:14.000]   90 percent better I could walk on it with a small limp
+[01:04:14.000 --> 01:04:18.720]   and by the end of the day it was near gone I mean I was I thought I was not
+[01:04:18.720 --> 01:04:22.880]   gonna be able to walk for a week I mean it hurt that bad and was that swollen
+[01:04:22.880 --> 01:04:27.440]   Wow that's amazing yeah I actually had a I had an oil burn cooking once
+[01:04:27.440 --> 01:04:31.520]   and on my my hand and my wrist and it was you know it hurt like hell
+[01:04:31.520 --> 01:04:36.000]   and I did the same thing I bagged it up and plugged it into my jenny and
+[01:04:36.000 --> 01:04:40.000]   it uh it didn't help heal it but the pain went away
+[01:04:40.000 --> 01:04:43.920]   and the and it never hurt again yeah and all I had to do was just keep it clean
+[01:04:43.920 --> 01:04:47.280]   and stuff and it healed but it was weird where it just like
+[01:04:47.280 --> 01:04:50.400]   it was it was the pain I you know I wasn't sure what was gonna happen I
+[01:04:50.400 --> 01:04:54.160]   thought it like maybe you know because of the oxygen infusion that it helped
+[01:04:54.160 --> 01:04:58.560]   him he speed up healing but that didn't happen but the pain was gone
+[01:04:58.560 --> 01:05:02.480]   but um oh you know I did I do want to ask the
+[01:05:02.480 --> 01:05:06.080]   thing I'm sorry um the follow up question though is I just
+[01:05:06.080 --> 01:05:10.960]   realized when you said um if you're the dosage is three times a day it's
+[01:05:10.960 --> 01:05:16.080]   okay to skip a day but how long should a session be
+[01:05:16.080 --> 01:05:20.160]   when you say three times a day or twice a day you know like like what's total
+[01:05:20.160 --> 01:05:24.800]   number of hours that you feel is good and you're not like you know diminishing
+[01:05:24.800 --> 01:05:27.840]   return like like six hours a day three hours a day
+[01:05:27.840 --> 01:05:31.200]   well what do you mean I think you're probably good at
+[01:05:31.200 --> 01:05:34.880]   you're probably good with them you're probably near maxing out at three hours
+[01:05:34.880 --> 01:05:38.240]   a day okay well okay I get like six to eight
+[01:05:38.240 --> 01:05:40.400]   and any more than that or the more than that
+[01:05:40.400 --> 01:05:44.560]   for you same same here I mean like I said I'll I like breathing it all night
+[01:05:44.560 --> 01:05:47.920]   yeah I'm plugged in right now lay down for bed
+[01:05:47.920 --> 01:05:52.240]   yeah yeah and I'll go eight hours and I and be just because um I feel I sleep
+[01:05:52.240 --> 01:05:55.280]   better more relaxed in the dreams you know yeah
+[01:05:55.280 --> 01:05:59.760]   yeah I've got one I got one next to my desk I got one next to my couch I don't
+[01:05:59.760 --> 01:06:02.160]   sleep with it though but let's talk about that
+[01:06:02.160 --> 01:06:05.680]   um so okay so three hours a day is good do more
+[01:06:05.680 --> 01:06:09.360]   you know I guess is more better um and
+[01:06:09.360 --> 01:06:12.080]   is that a maybe or is that like it doesn't hurt
+[01:06:12.080 --> 01:06:15.600]   it doesn't hurt right that's clear right well it
+[01:06:15.600 --> 01:06:18.960]   wouldn't mean like like I mentioned with my MMA
+[01:06:18.960 --> 01:06:24.240]   fighter friend he noticed that his um energy strength endurance decreased
+[01:06:24.240 --> 01:06:29.760]   when he outdid it or overdid it okay okay so
+[01:06:29.760 --> 01:06:34.320]   so and that may be more than three hours I don't think he was doing it
+[01:06:34.320 --> 01:06:37.360]   more than three hours but it really depends what your goals are
+[01:06:37.360 --> 01:06:40.880]   right um so that could be maybe the first thing to go is
+[01:06:40.880 --> 01:06:43.840]   energy and you're more lethargic but yeah another friend of mine who's a
+[01:06:43.840 --> 01:06:46.720]   cyclist tennis player you know you should be a tennis pro
+[01:06:46.720 --> 01:06:50.480]   he's after if he does it in the morning too much in the morning
+[01:06:50.480 --> 01:06:54.560]   he wants to relax more he he loses some of his energy or oh
+[01:06:54.560 --> 01:06:59.120]   you know to get going um okay that might but it like
+[01:06:59.120 --> 01:07:01.680]   okay might
+[01:07:01.680 --> 01:07:05.200]   go in my case at night I mean I like sleeping with him because I liked
+[01:07:05.200 --> 01:07:09.360]   uh it helped me relax I find and I just go deeper into sleep
+[01:07:09.360 --> 01:07:12.320]   as well as um you know the dreams like I mentioned
+[01:07:12.320 --> 01:07:16.400]   oh another thing I noticed with the water if I drink the water I go
+[01:07:16.400 --> 01:07:20.480]   deeper into sleep um but if I just breathe it
+[01:07:20.480 --> 01:07:24.640]   my mind is more active in in dream world hmm
+[01:07:24.640 --> 01:07:27.600]   I'm gonna try that yeah that might explain myself
+[01:07:27.600 --> 01:07:31.440]   I definitely know if you're maybe I do too much
+[01:07:31.440 --> 01:07:37.280]   like yeah yeah I'm a desk jockey what can I say
+[01:07:37.280 --> 01:07:39.840]   oh no that's interesting okay so lots of different
+[01:07:39.840 --> 01:07:43.040]   ways to approach this that I didn't think about before but cool
+[01:07:43.040 --> 01:07:46.880]   cool okay so we talked about diminishing returns we talked about
+[01:07:46.880 --> 01:07:51.280]   duty cycles um let's talk about like you know I think it was um
+[01:07:51.280 --> 01:07:54.240]   somebody in the chat was talking or the several people in chat
+[01:07:54.240 --> 01:07:56.720]   said that they run it all night long and so
+[01:07:56.720 --> 01:08:00.640]   and then there and so we're doing that there's issues that came up with
+[01:08:00.640 --> 01:08:04.720]   uh the machine gets hot the machine runs out of water um
+[01:08:04.720 --> 01:08:08.400]   and you know that sort of thing and there's the diminishing return issue so
+[01:08:08.400 --> 01:08:12.880]   what's your what's your general thought on hooking up the generator
+[01:08:12.880 --> 01:08:16.560]   uh all night long either through and then one I think some other folks are
+[01:08:16.560 --> 01:08:19.600]   hooking it up to their CPAP machines which is a
+[01:08:19.600 --> 01:08:23.440]   totally cool idea I mean so let's talk about running it all night long
+[01:08:23.440 --> 01:08:27.680]   either through the cannula or running it through a CPAP and what's your
+[01:08:27.680 --> 01:08:32.640]   thoughts on on doing that with brown skies yeah I think doing that with the
+[01:08:32.640 --> 01:08:37.120]   CPAP is dangerous um I know one guy that I think with the CPAP they still
+[01:08:37.120 --> 01:08:40.320]   use like a humidifier bottle like little bubblers we
+[01:08:40.320 --> 01:08:45.360]   you know we use to to humidify the air that goes into the mask
+[01:08:45.360 --> 01:08:49.600]   but um if you're re-breathing that the h-h-o the hydrogen gas that just
+[01:08:49.600 --> 01:08:52.240]   concentrates it's more and I think you're just asking for trouble
+[01:08:52.240 --> 01:08:55.440]   you know upping the concentration to a flammable level
+[01:08:55.440 --> 01:08:59.360]   you know so if there is a static spark anywhere it could
+[01:08:59.360 --> 01:09:03.120]   you know make it explode I don't think that's the safe thing to do
+[01:09:03.120 --> 01:09:06.880]   um the the cannula is a much more safer way to
+[01:09:06.880 --> 01:09:10.000]   breathe it because it diffuses into the air in most cases
+[01:09:10.000 --> 01:09:14.320]   below four percent which is not flammable
+[01:09:14.320 --> 01:09:19.680]   um using the mask I yeah I would definitely never recommend doing such
+[01:09:19.680 --> 01:09:22.960]   and you can get most of the benefits by um
+[01:09:22.960 --> 01:09:27.680]   I mean in some like in the case where this person was using a CPAP machine
+[01:09:27.680 --> 01:09:32.000]   um taking the hydrogen water but when you know hydrogen bubbled water
+[01:09:32.000 --> 01:09:34.880]   putting that in your humidifier and just breathing it through that
+[01:09:34.880 --> 01:09:38.160]   do you notice your usual effects just doing it that way
+[01:09:38.160 --> 01:09:41.920]   oh okay all right and then running it all night long with the heat
+[01:09:41.920 --> 01:09:45.200]   and uh running out of water and it turns into water vapor
+[01:09:45.200 --> 01:09:48.800]   would you recommend running it all night long or maybe just sitting on a timer
+[01:09:48.800 --> 01:09:52.000]   and maybe like the first four hours of your sleep or something like that
+[01:09:52.000 --> 01:09:55.600]   but like all night long you know is that a good idea
+[01:09:55.600 --> 01:10:01.120]   you it's not it's not a bad idea okay um I won't say it's a good idea
+[01:10:01.120 --> 01:10:05.200]   but I mean I do it myself um but I definitely check
+[01:10:05.200 --> 01:10:08.400]   my water level before I go to bed I mean it's like just stand a routine like
+[01:10:08.400 --> 01:10:11.120]   you brush your teeth off check the water level before turning on making sure it's
+[01:10:11.120 --> 01:10:15.280]   not gonna you know run dry or in case like any automatic shut off
+[01:10:15.280 --> 01:10:18.800]   if you know some unassuming us have you know don't work all the time
+[01:10:18.800 --> 01:10:22.080]   um so just making sure there's enough water in there and
+[01:10:22.080 --> 01:10:25.280]   you know sometimes at night I may be have enough after an hour or two and just
+[01:10:25.280 --> 01:10:29.120]   reach over turn it off and pull the candle off all right because definitely
+[01:10:29.120 --> 01:10:32.640]   nothing bad I think about running it all night just you know check your water
+[01:10:32.640 --> 01:10:36.320]   level oh and I would I also found that um you
+[01:10:36.320 --> 01:10:39.440]   don't you do not want to run it on hundred percent right all night
+[01:10:39.440 --> 01:10:42.800]   that'll run down your water ten times faster
+[01:10:42.800 --> 01:10:45.840]   because it'll heat up and just start spitting out water vapor so rather than
+[01:10:45.840 --> 01:10:49.360]   electrolyzing the water into hydrogen and oxygen it'll be just spitting out water
+[01:10:49.360 --> 01:10:53.680]   vapor which it'll fill up your your cannula hose with lots of
+[01:10:53.680 --> 01:10:58.160]   water and you'll get water up the nose and it's just uh
+[01:10:58.160 --> 01:11:03.520]   not the best use of water you know and you kind of defeated the purpose
+[01:11:03.520 --> 01:11:10.560]   plus I find even just that 40 percent um power on most of these systems
+[01:11:10.560 --> 01:11:14.240]   it produces enough hydrogen to do everything you need
+[01:11:14.240 --> 01:11:18.000]   I mean you're you're kind of maxed out your body quickly saturates with hydrogen
+[01:11:18.000 --> 01:11:22.480]   okay so I'd say for the normal person no more than 40 percent
+[01:11:22.480 --> 01:11:25.120]   if you're going to sleep with it and even in most cases you can even go down
+[01:11:25.120 --> 01:11:28.320]   to 20 and it'll be fine but so but somewhere between 20 and 40 if you're
+[01:11:28.320 --> 01:11:31.120]   going to use it overnight you're getting okay more than enough
+[01:11:31.120 --> 01:11:35.040]   hydrogen if that's what your goal is without heating up the machine and
+[01:11:35.040 --> 01:11:38.480]   getting any extra water vapor okay thrown in
+[01:11:38.480 --> 01:11:43.040]   oh that's good good tip uh from Ben overnight uh 20 percent
+[01:11:43.040 --> 01:11:47.600]   oh uh and use your uh cannula and not CPAP there you go
+[01:11:47.600 --> 01:11:50.880]   uh okay so that's those how about frequencies i'll go ahead
+[01:11:50.880 --> 01:11:55.760]   I'll say one more thing with rest uh the quantity or
+[01:11:55.760 --> 01:11:59.280]   what power do you cycle to run per person i mean
+[01:11:59.280 --> 01:12:02.960]   you can ideally you want to be able to calculate okay what is your lung
+[01:12:02.960 --> 01:12:06.000]   capacity how many breaths you take a minute and you can breathe and
+[01:12:06.000 --> 01:12:08.400]   calculate okay how much gas is it putting out and
+[01:12:08.400 --> 01:12:12.560]   and calculate that okay your average breath or how you didn't take is going
+[01:12:12.560 --> 01:12:16.160]   to be below four percent right but um
+[01:12:16.160 --> 01:12:20.800]   that's that's good to start in in some people out there you can just make a
+[01:12:20.800 --> 01:12:25.040]   just give very general guidelines okay between 20 and 40 percent you're
+[01:12:25.040 --> 01:12:34.080]   good for most people um but i i also say monitor your own body
+[01:12:34.080 --> 01:12:38.480]   and you can tell what works you don't want to use it any you don't want to
+[01:12:38.480 --> 01:12:41.760]   put it on the hundred percent just because you can i mean like again
+[01:12:41.760 --> 01:12:45.920]   we talked about diminishing returns um heating up the machine and throwing
+[01:12:45.920 --> 01:12:51.200]   out water vapor you know if we you don't need to run it on 100 percent
+[01:12:51.200 --> 01:12:55.200]   power do you cycle to get uh 100 percent of the benefits
+[01:12:55.200 --> 01:13:01.040]   okay so if you usually after i'd say a month a few weeks or a month or so of
+[01:13:01.040 --> 01:13:05.760]   using the machines most of our clients get into a routine of what they feel is
+[01:13:05.760 --> 01:13:10.720]   most beneficial for themselves oh okay i mean also keep in
+[01:13:10.720 --> 01:13:14.480]   mind yeah yeah but also keep in mind what is a
+[01:13:14.480 --> 01:13:19.680]   um a flammable dose right right yeah i mean i can tell you
+[01:13:19.680 --> 01:13:23.280]   key point i've i've breathed lots of flammable doses
+[01:13:23.280 --> 01:13:27.200]   yeah every lots of flammable doses i just push it you know and i know
+[01:13:27.200 --> 01:13:31.120]   i got other friends i was help don't do this and they do it you know yeah yeah
+[01:13:31.120 --> 01:13:37.040]   yeah we're guys what can we say uh cool no that's great okay great advice um
+[01:13:37.040 --> 01:13:40.720]   all right so uh do you know the thing about anything before
+[01:13:40.720 --> 01:13:44.320]   yeah i want to just when i think we'll go back to the machine and some of the
+[01:13:44.320 --> 01:13:46.800]   one of the features of the machine that i kind of really like which um i also
+[01:13:46.800 --> 01:13:50.320]   have reduced the cost and um i think makes it safer
+[01:13:50.320 --> 01:13:54.240]   um it's not apparent but you know it's on the website written on there
+[01:13:54.240 --> 01:13:58.480]   is that um other machines out there they're very sealed and they're
+[01:13:58.480 --> 01:14:02.400]   relied sealed so that if a hose gets crimped or
+[01:14:02.400 --> 01:14:05.680]   pressure builds up if your electronic pressure sensor does not
+[01:14:05.680 --> 01:14:10.240]   trigger and cut off the the generator you're in trouble you know you're
+[01:14:10.240 --> 01:14:13.520]   you're looking at a bomb you know explosion there okay that's all under
+[01:14:13.520 --> 01:14:18.560]   super high pressure um so the the tower the expansion tower
+[01:14:18.560 --> 01:14:22.080]   scrubber um whatever you want to call it i call it i call it like a condensing
+[01:14:22.080 --> 01:14:26.880]   condensing chamber because um because if your water does come out water vapor
+[01:14:26.880 --> 01:14:29.520]   does come out you know hotter um it gives it a
+[01:14:29.520 --> 01:14:32.720]   chance to cool and condense on to the sides and drip back down so you're not
+[01:14:32.720 --> 01:14:36.000]   losing any um that makes the machine run more efficient
+[01:14:36.000 --> 01:14:40.960]   less needs to top it off with any um sodium hydroxide if any ever does
+[01:14:40.960 --> 01:14:44.560]   escape but um that white cap on the top of the clear
+[01:14:44.560 --> 01:14:49.440]   cylinder if you look at the picture um it's only held on by teflon tape that
+[01:14:49.440 --> 01:14:54.720]   whole unit is held on by teflon tape no glue whatsoever no pvc glue i mean first
+[01:14:54.720 --> 01:14:57.920]   of all pvc glue is like toxic and dangerous and doesn't smell good and it
+[01:14:57.920 --> 01:14:59.680]   would take forever for the smell to go away
+[01:14:59.680 --> 01:15:04.160]   but just um with between five and ten wraps of um
+[01:15:04.160 --> 01:15:09.120]   teflon tape that's all held together so if a seal is ever bad or needs to be
+[01:15:09.120 --> 01:15:13.200]   redone or it does get loose or you need to take it apart and clean it
+[01:15:13.200 --> 01:15:18.080]   you could just by hand um undo it but the biggest advantage of just using
+[01:15:18.080 --> 01:15:21.360]   teflon tape to secure the the joints there
+[01:15:21.360 --> 01:15:25.520]   is that um in any kind of over pressure event and i had a lot of these
+[01:15:25.520 --> 01:15:30.480]   fairly on with my first experiment um the the top will just pop off
+[01:15:30.480 --> 01:15:33.440]   pops off right if you can and that's how we felt
+[01:15:33.440 --> 01:15:38.400]   yeah okay so what happened to me once is um
+[01:15:38.400 --> 01:15:42.800]   my my my maid took my distill because i got lots of
+[01:15:42.800 --> 01:15:47.840]   distill water jugs everywhere and sometimes i guess my maid would use them
+[01:15:47.840 --> 01:15:51.600]   to fill them up with like soap or ever washing detergent right
+[01:15:51.600 --> 01:15:56.160]   so they all look the same all these gallon containers so she puts soap into
+[01:15:56.160 --> 01:15:59.120]   she made up some soap mix and i thought it was oh here's what
+[01:15:59.120 --> 01:16:02.080]   i don't know why i left this um distill water container out here i'll
+[01:16:02.080 --> 01:16:06.080]   bring it back and just use it up so i i put that into my
+[01:16:06.080 --> 01:16:12.320]   oh man i generated here i go to yeah i go to turn off the lights
+[01:16:12.320 --> 01:16:16.320]   and i'll tell you i pop you know i go i can't make this sound but it's like a
+[01:16:16.320 --> 01:16:20.800]   low like stud pop yeah and then i was like oh no what happens like
+[01:16:20.800 --> 01:16:25.840]   i turn on the light and my bubbles are all over the place
+[01:16:25.840 --> 01:16:30.560]   but but um but it was that machine but it
+[01:16:30.560 --> 01:16:34.880]   well i mean i i i i i rinsed it out and washed it out good a few times and you
+[01:16:34.880 --> 01:16:38.000]   with real water then distill water then it's fine after that
+[01:16:38.000 --> 01:16:42.640]   but um the point is that if if you do make a mistake to put any kind of
+[01:16:42.640 --> 01:16:47.600]   input some stuff i might get in there an electronic you know shut off
+[01:16:47.600 --> 01:16:51.760]   would not have time i don't think to react um
+[01:16:51.760 --> 01:16:57.920]   because it it was so fast and i mean i've also had instance where like the
+[01:16:57.920 --> 01:17:02.320]   the chair was on on top of the the hose the cannula and you can build that
+[01:17:02.320 --> 01:17:06.160]   pressure like that um and the top just pops up
+[01:17:06.160 --> 01:17:11.040]   so it also when it foams up early on the foam will create a pressure and block
+[01:17:11.040 --> 01:17:13.680]   the little passageways and then the top will pop off
+[01:17:13.680 --> 01:17:17.440]   and then if the foam does happen you can just you know pop off the top with your
+[01:17:17.440 --> 01:17:20.400]   hand and scoop it out with a spoon and just throw out to the side it won't
+[01:17:20.400 --> 01:17:24.800]   contaminate your bubbles so much either but um and that's how we fill it up
+[01:17:24.800 --> 01:17:27.600]   also we um and that's what also helps you know
+[01:17:27.600 --> 01:17:33.600]   that the tight the top um top white cap is that a good um
+[01:17:33.600 --> 01:17:38.720]   we call it um um pressure or tightness is if you can easily
+[01:17:38.720 --> 01:17:42.160]   take it on and put it back off you know it's just snug snug enough where you can
+[01:17:42.160 --> 01:17:45.520]   easily take it off and put it back on and so we
+[01:17:45.520 --> 01:17:49.920]   just pop the cap off with our hand pour in the water and push the cap back on
+[01:17:49.920 --> 01:17:53.760]   and she's like pushed just tighten up you can put it on with your hand
+[01:17:53.760 --> 01:17:57.760]   um so that in my opinion it's like you don't need any electronic gizmos
+[01:17:57.760 --> 01:18:02.080]   sensors or all that extra electronics that goes into there that could also
+[01:18:02.080 --> 01:18:06.800]   potentially fail i mean there's this is like a fail proof safety system where
+[01:18:06.800 --> 01:18:11.440]   the top just pops off you're not going to have any of this exploding
+[01:18:11.440 --> 01:18:15.120]   yeah okay no that's a good feature then so that's how you get water in there okay
+[01:18:15.120 --> 01:18:18.480]   all right so uh you know we're all we're over the hour marks i kind of wanted
+[01:18:18.480 --> 01:18:21.200]   just to touch on a couple of real important points
+[01:18:21.200 --> 01:18:24.560]   and then maybe that other stuff we can talk about it in a in a follow-up or
+[01:18:24.560 --> 01:18:28.000]   something um because i'm just worried about time you know
+[01:18:28.000 --> 01:18:31.200]   um but i did want to talk about the right right right because some of the
+[01:18:31.200 --> 01:18:33.600]   question because you know that's the thing nobody really knows like what you
+[01:18:33.600 --> 01:18:37.520]   know like what what do you set the frequency to what are the options what's
+[01:18:37.520 --> 01:18:40.400]   good what's bad i mean what are your thoughts about like
+[01:18:40.400 --> 01:18:44.160]   how do you use the frequency generator on these machines because it seems kind
+[01:18:44.160 --> 01:18:47.520]   of out of place right it's a machine that generates gas and a
+[01:18:47.520 --> 01:18:53.280]   really extremely healthy beneficial gas but so what's up with the frequency
+[01:18:53.280 --> 01:18:57.040]   thing and how do you use it what do you what are your thoughts
+[01:18:57.040 --> 01:19:01.200]   i mean the the frequency generator i mean the little control panel that controls
+[01:19:01.200 --> 01:19:06.080]   the duty cycle um i mean it comes it's hard to find them
+[01:19:06.080 --> 01:19:09.120]   without a frequency generator you know on the
+[01:19:09.120 --> 01:19:12.400]   you know include on the panel so it's kind of like a bonus that you don't need
+[01:19:12.400 --> 01:19:16.160]   so it doesn't hurt to include it but some people that believe that their
+[01:19:16.160 --> 01:19:19.120]   frequencies do impart extra healing effects or
+[01:19:19.120 --> 01:19:22.160]   any additional benefits i mean it's there to be used
+[01:19:22.160 --> 01:19:25.280]   um i do i do believe in frequency medicine
+[01:19:25.280 --> 01:19:29.520]   um in the benefits of using frequencies but not necessarily
+[01:19:29.520 --> 01:19:33.120]   in the form of the this generator because i think
+[01:19:33.120 --> 01:19:36.480]   the frequencies where they're used and generated to
+[01:19:36.480 --> 01:19:43.760]   help electrolyze the water um it's so far removed from the body i'm not sure
+[01:19:43.760 --> 01:19:48.240]   if those frequencies are imparted into the molecules
+[01:19:48.240 --> 01:19:52.880]   or electrons or hydrogen oxygen in a way that can be passed from
+[01:19:52.880 --> 01:19:56.960]   them into the body um in most frequency medicine
+[01:19:56.960 --> 01:20:02.160]   the frequencies are used more directly um you know on the body
+[01:20:02.160 --> 01:20:05.520]   or in the body not just not so far removed from the body
+[01:20:05.520 --> 01:20:07.680]   so i'm not sure they really have an effect
+[01:20:07.680 --> 01:20:10.640]   yeah because i i was i actually asked that question
+[01:20:10.640 --> 01:20:13.360]   uh to one of the other manufacturers and it was like
+[01:20:13.360 --> 01:20:17.040]   uh well you know what do you do with it and it's because i was thinking if i
+[01:20:17.040 --> 01:20:20.720]   play you know because when i i tinker with a bunch of things and
+[01:20:20.720 --> 01:20:24.240]   one of the things is you play the frequency to water and the water holds
+[01:20:24.240 --> 01:20:29.040]   memory right but if you're playing frequency to water that converts to a
+[01:20:29.040 --> 01:20:33.440]   gas you know you you you sublimated it turns into
+[01:20:33.440 --> 01:20:38.320]   a gas does the gas carry the same frequency as the water it's right
+[01:20:38.320 --> 01:20:42.000]   exactly rearrange the you rearrange the molecules right and
+[01:20:42.000 --> 01:20:45.040]   and would that would that change the memory and
+[01:20:45.040 --> 01:20:50.080]   whoa that's a huge woo woo you know right thing there so i'm more impartial
+[01:20:50.080 --> 01:20:53.440]   to put us yeah that's nothing to the container
+[01:20:53.440 --> 01:20:56.880]   and actually you know play frequency to the container
+[01:20:56.880 --> 01:20:59.840]   that's of water being bought right i think that would
+[01:20:59.840 --> 01:21:03.440]   right that's what i was thinking yeah i i agree with that i would think
+[01:21:03.440 --> 01:21:06.880]   that would have a more direct impact or
+[01:21:06.880 --> 01:21:10.800]   effect than choosing a frequency that the water
+[01:21:10.800 --> 01:21:16.480]   electrolytes that um so i'm not saying that it does not have an effect it may
+[01:21:16.480 --> 01:21:20.480]   have an effect but in my you know knowing physics
+[01:21:20.480 --> 01:21:25.200]   and frequencies and and just in general my opinion is that i don't think it
+[01:21:25.200 --> 01:21:28.400]   imparts too much of effect in where the water
+[01:21:28.400 --> 01:21:32.800]   water is electrolytes at a certain frequency right okay but um yeah we
+[01:21:32.800 --> 01:21:36.080]   mentioned briefly before what i do think would
+[01:21:36.080 --> 01:21:40.000]   enhance the effect of um but we didn't get it into the negative ions
+[01:21:40.000 --> 01:21:43.520]   so much in the what makes the browns gas special
+[01:21:43.520 --> 01:21:46.800]   um the extra electrons and ions that it creates you know
+[01:21:46.800 --> 01:21:51.440]   the negative ions um and those negative ions
+[01:21:51.440 --> 01:21:55.920]   you know or electrically electrically expanded water or plasma whatever you
+[01:21:55.920 --> 01:22:00.000]   want to call it um that's breathed into the body
+[01:22:00.000 --> 01:22:04.400]   or you know with water drink into the body through water
+[01:22:04.400 --> 01:22:10.800]   but those electrical charged particles ions electrons in the body
+[01:22:10.800 --> 01:22:14.880]   um would react more with um the pulse of electrical magnetic fields the
+[01:22:14.880 --> 01:22:18.480]   pmf type of devices to help move those around
+[01:22:18.480 --> 01:22:21.520]   so in some of my latest experiments what i've been doing is
+[01:22:21.520 --> 01:22:25.600]   breathing the gas drink in the water and using the pmf device at the same time
+[01:22:25.600 --> 01:22:31.840]   and i i'm thinking that they enhance uh through each other's effects
+[01:22:31.840 --> 01:22:36.480]   yeah because okay so that was one of my uh one of my uh like wrap-up questions
+[01:22:36.480 --> 01:22:40.080]   is like what are you working on next and i know that you're working on a pmf
+[01:22:40.080 --> 01:22:44.320]   and so we had a really interesting free interview chat about
+[01:22:44.320 --> 01:22:47.760]   about this so you could if you i'm sorry to make you repeat yourself but
+[01:22:47.760 --> 01:22:51.600]   let's talk about that because the idea of
+[01:22:51.600 --> 01:22:56.320]   you know of of in hydrogen plus frequency
+[01:22:56.320 --> 01:23:00.000]   and then you were mentioning that you're finding that the the pmf with
+[01:23:00.000 --> 01:23:03.920]   frequency like you know frequency specific pmf
+[01:23:03.920 --> 01:23:08.960]   as opposed to just pmf right um enhances the distribution of
+[01:23:08.960 --> 01:23:14.160]   of the electrically-spanded water one of the by the way for folks that are not
+[01:23:14.160 --> 01:23:18.000]   not up to date on what browns gas is as opposed to hydrogen
+[01:23:18.000 --> 01:23:21.840]   just real quick is that hydrogen generators uh have a you know a
+[01:23:21.840 --> 01:23:26.240]   basically a positive and negative uh bar in water and as the electricity
+[01:23:26.240 --> 01:23:30.000]   passes between it hydrogen pops off one side and
+[01:23:30.000 --> 01:23:33.520]   oxygen pops off the other however with browns gas
+[01:23:33.520 --> 01:23:38.080]   there's no filter in between the two uh
+[01:23:38.080 --> 01:23:45.840]   and it produces a third uh gas uh that's basically free electrons
+[01:23:45.840 --> 01:23:48.560]   create something called electrically expanded water
+[01:23:48.560 --> 01:23:52.800]   or those of you that want to learn more about it um there's a actually a pretty
+[01:23:52.800 --> 01:23:55.680]   interesting paper called plasma orbital expansion of
+[01:23:55.680 --> 01:23:58.960]   electrons in water that was written about this effect
+[01:23:58.960 --> 01:24:01.760]   but that's what makes browns gas very unique
+[01:24:01.760 --> 01:24:05.440]   and so you know Ben can you kind of explain what you're finding
+[01:24:05.440 --> 01:24:09.120]   because i know you're working on a pmf device of your own right here
+[01:24:09.120 --> 01:24:12.480]   your your entrepreneurial spirit on board
+[01:24:12.480 --> 01:24:15.760]   so how how are you you know what you're thinking
+[01:24:15.760 --> 01:24:23.600]   in terms of use pmf to enhance the intake of browns gas
+[01:24:23.600 --> 01:24:29.520]   what's your thoughts um i mean going back to like just my
+[01:24:29.520 --> 01:24:33.120]   training just uh engineering electrical engineering and physics
+[01:24:33.120 --> 01:24:36.640]   i mean it's it's pretty basic type of um
+[01:24:36.640 --> 01:24:40.160]   science i mean generators and motors they all use
+[01:24:40.160 --> 01:24:45.040]   electromagnetic fields created by you know electricity and wires
+[01:24:45.040 --> 01:24:48.000]   wound up in coils to produce magnetic fields
+[01:24:48.000 --> 01:24:54.000]   and if you know what's happening in the creation of browns gas
+[01:24:54.000 --> 01:24:57.680]   it energizes the water it pumps these electrons into water and
+[01:24:57.680 --> 01:25:00.240]   as you can see in that picture you're showing up there that that little diagram
+[01:25:00.240 --> 01:25:03.360]   that you're showing right now um i couldn't find anything like that
+[01:25:03.360 --> 01:25:05.440]   out there so i actually made that myself
+[01:25:05.440 --> 01:25:09.200]   um but it it kind of demonstrates that what makes
+[01:25:09.200 --> 01:25:14.480]   browns gas unique is right before the it seems like right before the water
+[01:25:14.480 --> 01:25:18.240]   atom is or a molecule is split into oxygen and hydrogen
+[01:25:18.240 --> 01:25:22.720]   it it's got to pump more electrons into there and there's a point where
+[01:25:22.720 --> 01:25:27.360]   it it seems to become a gas and if it doesn't completely
+[01:25:27.360 --> 01:25:31.600]   get charged up or enough energy electrical energy pumped into there
+[01:25:31.600 --> 01:25:37.200]   it kind of um is a pre-state which is this plasma state and it'll
+[01:25:37.200 --> 01:25:41.040]   escape as a gas before it gets filled with enough electricity
+[01:25:41.040 --> 01:25:45.440]   to rip apart the hydrogen and oxygen so you've got this electrically charged
+[01:25:45.440 --> 01:25:51.280]   water molecule with two extra electrons also leaving the water solution
+[01:25:51.280 --> 01:25:55.760]   as a gas and so this carries an additional two electrons which is
+[01:25:55.760 --> 01:26:00.720]   stable but semi semi stable it easily gives up these electrons
+[01:26:00.720 --> 01:26:06.080]   um in it in the process gives up energy um you know like i said in this document
+[01:26:06.080 --> 01:26:11.040]   right here it shows that up to five percent of the gas that comes out
+[01:26:11.040 --> 01:26:14.960]   of browns gas generators could be in the form of this
+[01:26:14.960 --> 01:26:19.440]   special ionized electrically charged water state
+[01:26:19.440 --> 01:26:24.080]   um so there's we can get many lots of good
+[01:26:24.080 --> 01:26:27.440]   information videos and papers out there just on the study of
+[01:26:27.440 --> 01:26:33.360]   uh negative ions and how they positively affect people's health
+[01:26:33.360 --> 01:26:38.000]   um well-being in so many ways i mean that's the study all of itself
+[01:26:38.000 --> 01:26:42.400]   tons of papers written on the subject so just for the of the fact that
+[01:26:42.400 --> 01:26:49.440]   browns gas does produce negative ions that alone is enough to create a lot of
+[01:26:49.440 --> 01:26:52.240]   the healing effects that we were seeing experiencing
+[01:26:52.240 --> 01:26:56.320]   um in some of the effects we're experiencing
+[01:26:56.320 --> 01:27:00.720]   um there's the same effects are noted in studies on
+[01:27:00.720 --> 01:27:06.240]   negative ions in in the experiments they've used on people in studies
+[01:27:06.240 --> 01:27:08.800]   report a lot of the same effects so that's all interesting
+[01:27:08.800 --> 01:27:13.120]   but i'm getting back to the the PMF and
+[01:27:13.120 --> 01:27:18.240]   the way the PMF devices work the post-electromagnetic frequencies
+[01:27:18.240 --> 01:27:22.400]   you've got a coil you you send pulses of electricity through there
+[01:27:22.400 --> 01:27:28.720]   and so the pulses of electricity uh just the the fact of electricity moving
+[01:27:28.720 --> 01:27:32.080]   it creates a magnetic field so when you wind a wire in a form of a
+[01:27:32.080 --> 01:27:34.960]   a circle or a coil it kind of concentrates the magnetic
+[01:27:34.960 --> 01:27:38.640]   field into the center of the coil and when you pulse that
+[01:27:38.640 --> 01:27:43.360]   um for example in a in a in a motor or generator
+[01:27:43.360 --> 01:27:49.680]   is those pulses of magnetic fields that move the electrons in the copper wires
+[01:27:49.680 --> 01:27:53.360]   so the whole idea is that those magnetic fields are moving electrons they're
+[01:27:53.360 --> 01:27:55.840]   moving that's the key they're moving electrons so if they're
+[01:27:55.840 --> 01:28:00.400]   if you're putting more electrons into the body more negative ions in the body
+[01:28:00.400 --> 01:28:07.120]   you've got more um say ions or substances or molecules to be
+[01:28:07.120 --> 01:28:11.920]   interacting with the pulse magnetics that are being pushed into you through
+[01:28:11.920 --> 01:28:17.360]   these AMF coils and devices which i mean it's
+[01:28:17.360 --> 01:28:22.960]   really a simple and basic principle and it's hard to find fault in
+[01:28:22.960 --> 01:28:27.440]   this not being beneficial to have these both synergistically working
+[01:28:27.440 --> 01:28:30.880]   together i mean magnetic fields they move electrons
+[01:28:30.880 --> 01:28:33.360]   put more electrons into your system you're going to get more movement
+[01:28:33.360 --> 01:28:37.920]   more movement you've got more nutrients to be moved around and um
+[01:28:37.920 --> 01:28:41.040]   things happening and more energy in there
+[01:28:41.040 --> 01:28:45.520]   more and that in in general just means your system is working more
+[01:28:45.520 --> 01:28:47.680]   efficiently and better oh that's really and that's
+[01:28:47.680 --> 01:28:49.840]   i mean that is some you know because i'm really in the
+[01:28:49.840 --> 01:28:54.240]   bioelectrical magnetic so that's really fascinating because i'd never thought
+[01:28:54.240 --> 01:28:57.520]   about that but you're right you're literally with browns gas
+[01:28:57.520 --> 01:29:01.920]   bubbled water or inhalation you are taking in electric
+[01:29:01.920 --> 01:29:07.120]   with the water especially right you've got electrically expanded water
+[01:29:07.120 --> 01:29:10.720]   water ionized to a different state you know different configuration of
+[01:29:10.720 --> 01:29:15.040]   water molecule and so if you pulse yourself right when you do this
+[01:29:15.040 --> 01:29:18.560]   are you essentially enabling a greater infusion
+[01:29:18.560 --> 01:29:23.040]   of those ions into your tissues then what would normally have happened just
+[01:29:23.040 --> 01:29:26.960]   through chemical processes and electron transfer you know like in molecules
+[01:29:26.960 --> 01:29:28.640]   and things like that is that what you're thinking
+[01:29:28.640 --> 01:29:31.920]   or is it just moving them around like you know getting
+[01:29:31.920 --> 01:29:34.320]   just greater saturation moving them around i mean that
+[01:29:34.320 --> 01:29:38.080]   yeah yeah okay yeah well all that all that i mean you're creating
+[01:29:38.080 --> 01:29:40.560]   greater side you have to be creating more movement
+[01:29:40.560 --> 01:29:43.040]   i mean that's the whole idea you create more movement with the
+[01:29:43.040 --> 01:29:46.560]   the magnetics right um more saturation it's
+[01:29:46.560 --> 01:29:49.520]   it's kind of it's impossible for it to not happen right
+[01:29:49.520 --> 01:29:52.000]   yeah i mean that's what generates electricity
+[01:29:52.000 --> 01:29:56.080]   you've got electrons in a copper wire you move a magnetic field across this
+[01:29:56.080 --> 01:29:59.600]   copper wire and the electrons move right i mean
+[01:29:59.600 --> 01:30:03.120]   in everything your body is about your whole nervous system is
+[01:30:03.120 --> 01:30:07.440]   based on electrons and sending electrical signals back and forth
+[01:30:07.440 --> 01:30:11.920]   in your cells i mean you can measure a voltage on the outside
+[01:30:11.920 --> 01:30:14.880]   you know between the outside potential difference between outside inside of
+[01:30:14.880 --> 01:30:18.720]   the cell so your your body is an electrical machine
+[01:30:18.720 --> 01:30:22.720]   yeah yeah absolutely so hey you know um we
+[01:30:22.720 --> 01:30:25.680]   we're getting uh to the point where i you know i don't i don't want to rush off
+[01:30:25.680 --> 01:30:29.360]   but uh forget the interviews get long and i know
+[01:30:29.360 --> 01:30:33.200]   people people's general you know that tolerance is
+[01:30:33.200 --> 01:30:36.800]   like around an hour max and we've gone over it but it's so
+[01:30:36.800 --> 01:30:40.160]   my mind is 10 minutes yeah yeah but you know i do what here's
+[01:30:40.160 --> 01:30:43.520]   the thing this is what i was thinking that would be really cool to share with
+[01:30:43.520 --> 01:30:47.040]   everybody is i went back and a year ago
+[01:30:47.040 --> 01:30:51.360]   i guess i did this browns gas product review comparison thing
+[01:30:51.360 --> 01:30:55.600]   and this is the spreadsheet and so now i just want the audience to know i
+[01:30:55.600 --> 01:30:58.800]   you know i haven't had a chance to sit down with Ben and get the
+[01:30:58.800 --> 01:31:03.520]   answers to all of these different features of the different machines but
+[01:31:03.520 --> 01:31:08.720]   back back a year ago i compared the uh h2 life browns gas generator to the
+[01:31:08.720 --> 01:31:12.480]   hydro genie and to the aqua cure ac 50
+[01:31:12.480 --> 01:31:15.680]   but i'd like to you know compare the h2 genesis
+[01:31:15.680 --> 01:31:19.280]   and put it on the spreadsheet so uh and you know and then shouldn't share that
+[01:31:19.280 --> 01:31:21.680]   with everybody so everybody can kind of get an idea
+[01:31:21.680 --> 01:31:25.200]   for those of you that are interested in getting a browns gas generator
+[01:31:25.200 --> 01:31:28.080]   i just wanted to share with you you know the different features so
+[01:31:28.080 --> 01:31:32.080]   Ben's uh Ben are you cool with you like like we'll fill this thing out and then
+[01:31:32.080 --> 01:31:35.440]   put it as a link in the video yeah we can definitely get that
+[01:31:35.440 --> 01:31:39.440]   so we can definitely get that filled in that we're interested to do
+[01:31:39.440 --> 01:31:42.480]   and then you know so i guess one of the most important things i just want to
+[01:31:42.480 --> 01:31:46.320]   point out is affordability is in the very beginning it was it was you know
+[01:31:46.320 --> 01:31:50.240]   you ran into the same problem i did which was i was really on the fence
+[01:31:50.240 --> 01:31:54.800]   until i did the research because it was not a not a cheap price to entry point
+[01:31:54.800 --> 01:31:58.480]   you know to get into browns gas but i just want to point out to everybody
+[01:31:58.480 --> 01:32:03.040]   that you know the retail on an h2 genesis
+[01:32:03.040 --> 01:32:07.520]   is 1495 and so the only and in terms of volume
+[01:32:07.520 --> 01:32:11.600]   um and production capabilities it's only really comparable
+[01:32:11.600 --> 01:32:15.040]   uh to the ocrac 50 and you can see where
+[01:32:15.040 --> 01:32:18.080]   the price point is literally a thousand dollars less
+[01:32:18.080 --> 01:32:23.920]   uh for roughly and i'm not picking sides but roughly the same machine so
+[01:32:23.920 --> 01:32:28.800]   you know it's a huge huge uh you know incredible thing that you know Ben has
+[01:32:28.800 --> 01:32:32.160]   brought to market for consumers out there who don't have
+[01:32:32.160 --> 01:32:35.840]   where with all you know to a $400, $500 machine
+[01:32:35.840 --> 01:32:38.720]   you know now that now there's nothing for you and i just really want to
+[01:32:38.720 --> 01:32:41.600]   provide what Ben and i will do is we'll we'll
+[01:32:41.600 --> 01:32:48.000]   come down to what the differences are um and uh and then we can kind of that
+[01:32:48.000 --> 01:32:51.280]   way you can if you're shopping for one you can kind of see that
+[01:32:51.280 --> 01:32:54.880]   you know it's it's quite a remarkable opportunity to
+[01:32:54.880 --> 01:32:59.520]   to experience brown gas does you have any comments that you wanted to
+[01:32:59.520 --> 01:33:03.920]   um you know regarding the price um you know it was challenging but i think we
+[01:33:03.920 --> 01:33:06.720]   found a way it was it took a lot of you know thinking experimenting but i think
+[01:33:06.720 --> 01:33:11.280]   we found a way to definitely um either maintain safety increase
+[01:33:11.280 --> 01:33:14.560]   safety but in decreased costs at the same time
+[01:33:14.560 --> 01:33:17.760]   because like i said the idea is to make it affordable i know so many people that
+[01:33:17.760 --> 01:33:19.840]   need this and want this and can't afford it even this
+[01:33:19.840 --> 01:33:23.520]   price is a lot for some right but um i mean it's
+[01:33:23.520 --> 01:33:28.480]   great here in so many good stories back from clients and people's like you know
+[01:33:28.480 --> 01:33:30.720]   in my client say everyone needs one of these that's where they come back and
+[01:33:30.720 --> 01:33:33.360]   tell me you know what we can do to get cheaper but
+[01:33:33.360 --> 01:33:37.280]   also mentioned to you as well that um maybe by the time you get this posted
+[01:33:37.280 --> 01:33:41.360]   and if you put this on youtube we'll um i can get you a coupon so that anyone
+[01:33:41.360 --> 01:33:44.720]   looking at this video or watching it that you can pull it on to your
+[01:33:44.720 --> 01:33:48.320]   um followers you know we'll provide a additional discount
+[01:33:48.320 --> 01:33:52.320]   okay no that's great even better for everybody that's gonna get one uh
+[01:33:52.320 --> 01:33:56.720]   thank you for that for uh from that but yeah that's no this is great so uh
+[01:33:56.720 --> 01:33:59.280]   definitely want to make sure now there's a couple of things we didn't really
+[01:33:59.280 --> 01:34:03.920]   get to dive into and i'm sorry to you know try to talk is we got so many
+[01:34:03.920 --> 01:34:07.600]   things to talk about but i think that oh yeah we went for hours now but this
+[01:34:07.600 --> 01:34:10.720]   is oh and i know you and i could go because we didn't even get it
+[01:34:10.720 --> 01:34:15.520]   i mean we could really go for it um but okay so for brevity's sake
+[01:34:15.520 --> 01:34:20.480]   okay what we'll do is we'll complete the vendor comparison matrix
+[01:34:20.480 --> 01:34:24.080]   for those out there shopping uh Ben's going to give us a coupon code
+[01:34:24.080 --> 01:34:28.800]   to get a h2 genesis this is his store um and then the other thing is you know
+[01:34:28.800 --> 01:34:32.880]   where can people find you so the website will there'll be a link in the video
+[01:34:32.880 --> 01:34:36.880]   description it's basically h2biohacker.com
+[01:34:36.880 --> 01:34:39.760]   that's how you find the website that's how you find is there any other way to
+[01:34:39.760 --> 01:34:42.720]   reach out oh yeah there's the the telegram so
+[01:34:42.720 --> 01:34:50.240]   there's the hho hho so here's the here's the telegram um
+[01:34:50.240 --> 01:34:57.280]   whoop just missed it go ahead this is the um the group that Ben started
+[01:34:57.360 --> 01:35:01.280]   and so we're in here chatting away so you know come on the telegram
+[01:35:01.280 --> 01:35:05.840]   and join us right uh and if you and then ask away i mean if i can answer your
+[01:35:05.840 --> 01:35:09.920]   question or Ben that's where you can get answers is that kind of where you
+[01:35:09.920 --> 01:35:13.120]   or do you do customer service through there or you do it kind of through
+[01:35:13.120 --> 01:35:17.120]   this chat thingy whatever this this thing um if you go to
+[01:35:17.120 --> 01:35:20.960]   the contact us or about okay the top menu on
+[01:35:20.960 --> 01:35:25.920]   about well that that chat is kind of iffy on the bottom there but um
+[01:35:25.920 --> 01:35:30.000]   the best way is yeah contact us and there's a link
+[01:35:30.000 --> 01:35:34.240]   to telegram me directly you know until we're overwhelmed with clients and i
+[01:35:34.240 --> 01:35:36.800]   need to hire the support i'm handling all the
+[01:35:36.800 --> 01:35:40.720]   support and um questions through both telegram chat or through email and
+[01:35:40.720 --> 01:35:45.280]   there's a phone that people can even call you know available to talk by voice
+[01:35:45.280 --> 01:35:48.800]   so i'll probably move that at one day once we get you know bombarded with
+[01:35:48.800 --> 01:35:51.920]   you know calls and clients but for now i've got time right
+[01:35:51.920 --> 01:35:55.840]   yeah cool um another thing to note is that um we've got a USA
+[01:35:55.840 --> 01:36:00.080]   location and a Costa Rica location i'm currently located in Costa Rica so i'm
+[01:36:00.080 --> 01:36:03.280]   got a lot of clients locally that have been buying and loving the machine and
+[01:36:03.280 --> 01:36:06.160]   i've got friends and family back in the u.s. that i've you know
+[01:36:06.160 --> 01:36:10.960]   trained and um been uh making these and we build them and ship them
+[01:36:10.960 --> 01:36:13.600]   from the u.s. to Canada and the rest of the world
+[01:36:13.600 --> 01:36:18.400]   in the u.s. and i mainly do the Costa Rica building and servicing the market
+[01:36:18.400 --> 01:36:21.520]   you know where i am but we can ship anywhere really
+[01:36:21.520 --> 01:36:28.160]   wait do we all right so uh where to find Ben is at h2 biohacker.com
+[01:36:28.160 --> 01:36:33.120]   you can call him you can email him you could maybe if he chat with him
+[01:36:33.120 --> 01:36:37.600]   and you can go on to telegram and join us yeah i mean if you know if you want to
+[01:36:37.600 --> 01:36:40.000]   ask other people who use browns gas
+[01:36:40.000 --> 01:36:44.880]   generators that's telegram if you want to know more about the h2 genesis
+[01:36:44.880 --> 01:36:48.240]   that's Ben either way that's how you find out more about it
+[01:36:48.240 --> 01:36:52.560]   and um we'll we'll put it all together put the links in there put the links over
+[01:36:52.560 --> 01:36:55.920]   in the telegram chat group and and do it there
+[01:36:55.920 --> 01:36:59.440]   uh there are there's so many other topics i want to chat about but we're just
+[01:36:59.440 --> 01:37:03.600]   kind of little short on time but that's it so uh Ben any parting
+[01:37:03.600 --> 01:37:09.760]   parting words of wisdom um no that's it um yeah sorry it went
+[01:37:09.760 --> 01:37:12.880]   so long but there's so much we can get into but i think we've got a
+[01:37:12.880 --> 01:37:15.760]   some some good information out there and hopefully other people would
+[01:37:15.760 --> 01:37:19.760]   yeah you know we'll inspire other people to take advantage of it because
+[01:37:19.760 --> 01:37:23.120]   like i say all my clients they ban everyone needs this i mean
+[01:37:23.120 --> 01:37:26.240]   you know see so many people benefiting from it i mean so many more stories i
+[01:37:26.240 --> 01:37:28.240]   want to share with you with that but yeah a later day
+[01:37:28.240 --> 01:37:32.000]   yeah so we'll do that because i as you were talking i found your testimonial
+[01:37:32.000 --> 01:37:36.080]   page so people can go here and actually hear the testimonials read the
+[01:37:36.080 --> 01:37:39.760]   testimonials and then you know i didn't even get into this one i
+[01:37:39.760 --> 01:37:43.360]   really want to talk about this but for another day but there's here's all the
+[01:37:43.360 --> 01:37:48.080]   scientific studies about the you know the the condition in our world
+[01:37:48.080 --> 01:37:51.200]   right now that you cannot name unless you're gonna get your youtube video
+[01:37:51.200 --> 01:37:54.160]   flagged but you know what i'm talking about
+[01:37:54.160 --> 01:37:58.800]   but here's the scientific studies uh about the different types of conditions
+[01:37:58.800 --> 01:38:01.600]   how hydrogen can help which is part of brownscast
+[01:38:01.600 --> 01:38:04.640]   but even this other thing here i'm not going to say out loud
+[01:38:04.640 --> 01:38:11.440]   is is also as an effort i posted a video uh in the in the h h o chat
+[01:38:11.440 --> 01:38:16.240]   about a scientist saying that they're now using brownscast for
+[01:38:16.240 --> 01:38:20.960]   the it that cannot be named okay so really really amazing stuff about
+[01:38:20.960 --> 01:38:25.280]   brownscast great product of the market then thank you
+[01:38:25.280 --> 01:38:28.560]   thank you so much for your time today i really appreciate it and i i think
+[01:38:28.560 --> 01:38:32.160]   everyone's going to get a roll uh a good kick out
+[01:38:32.160 --> 01:38:34.960]   obviously nothing generally about the website and close it up but um
+[01:38:34.960 --> 01:38:37.520]   the website i mean i've spent a long time just
+[01:38:37.520 --> 01:38:41.600]   reading everything i can find out there on brownscast and hydrogen out there on
+[01:38:41.600 --> 01:38:44.880]   internet and i've done my best job to condense
+[01:38:44.880 --> 01:38:48.080]   in assembly everything down to what we've got on this website
+[01:38:48.080 --> 01:38:53.120]   so i think almost you can get uh the best overall information
+[01:38:53.120 --> 01:38:57.200]   all condensed down onto this website yeah i was kind of looking at this uh
+[01:38:57.200 --> 01:39:00.080]   and it's pretty amazing so if you want to learn more about
+[01:39:00.080 --> 01:39:04.960]   brownscast in general uh this is a incredible reference so
+[01:39:04.960 --> 01:39:08.720]   thank you very much and uh really appreciate it
+[01:39:08.720 --> 01:39:12.720]   thank you and uh you know really just want to say appreciate your time
+[01:39:12.720 --> 01:39:18.720]   appreciate everybody uh dialing in so aloha
+

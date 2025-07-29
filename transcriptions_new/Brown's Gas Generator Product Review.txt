@@ -1,0 +1,302 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.920",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and in this video, I'd like to share with you a Brown's Gas Generator for Health Product Review. Now, what I've done is for the last month, this whole week, I've basically been scouring the internet, trying to find every possible generator out there, H.H.O. / Brown's Gas, generators that have been specifically designed for health purposes. I did come up with 15 different generators, put together a product comparison matrix, and I thought you'd be interested in it."
+    },
+    {
+        "start": "00:00:29.920",
+        "end": "00:00:59.560",
+        "text": "So let's jump in. First things first, disclaimers, and I want to be 100% transparent that I am an affiliate of one of the 15 generators that's on the list here. I'm not trying to hock it right now or sell it or anything, but I just wanted you to know I am an affiliate of one of them and that is the H2 Genesis from H2 Biohacker, all right? So I just, you know, want to put that out there. The next thing I also want to put out is that this generator review is about off the shelf products, okay? Nothing that you would buy and then put together yourself"
+    },
+    {
+        "start": "00:00:59.560",
+        "end": "00:01:28.000",
+        "text": "because my whole concept about dealing with hydrogen and dealing with browns gas is safety first. So one of the things I do want to point out for anyone who's interested, 'cause, you know, so many people have inquired about, hey, why couldn't I just go, you know, buy the parts, off of eBay and build my own? Yeah, certainly you could do that, but I want to point out something that's so important about this whole concept. And that's an article, well, not really an article. It's an email, canned email response from George Wiseman who's like the grandfather of browns gas in the United States."
+    },
+    {
+        "start": "00:01:28.000",
+        "end": "00:01:55.920",
+        "text": "And it's, whenever you talked to him about this, he's got this canned thing that he emails you, right? And so I made a copy of it, put it in a PDF and put it on my blog and link below. Everything's links, links, links to everything below. And in his seven page article, he makes a very good point over and over and over again of all the different safety features that really define the difference between a generator, a browns gas slash H-H-O generator,"
+    },
+    {
+        "start": "00:01:55.920",
+        "end": "00:02:25.040",
+        "text": "built for human use versus one that's built for other industrial uses. And, you know, there's a huge safety issue. And so I just want to point out there that my mantra is safety first. And I'm more of your buy versus build kind of guy. If something that I'm playing with, you know, tinker, right, it could blow up on me. So I'd rather just buy it and let the engineers figure out what to do for safety, but that's the other disclaimers that this is not a build your own, any kind of that kind of generator. This is purely products off the show."
+    },
+    {
+        "start": "00:02:25.040",
+        "end": "00:02:53.200",
+        "text": "Now I also want to point out that I did it. I did this product review from a buyer standpoint versus a technical standpoint. Now I read the web pages and the product brochures and the technical specifications. We're all 15 of these generators. And there is a ton of technical variants, all right, whether it's the type of metals used, so forth. And so I'm not gonna get deep into the weeds on that because I don't really think that that appeals to the majority of people that are watching my videos."
+    },
+    {
+        "start": "00:02:53.200",
+        "end": "00:03:22.400",
+        "text": "But I approached this from a buyer standpoint like me who just wants to say, hey, what's out there that I could acquire and then used to improve my health. So it's purely a buyer's guide generator review. All right, now the other thing I do want to point out, which I just said, I want to make it really clear that all the information I put into this video is straight off the website. And so the thing about that is I had to make some guesses for the comparison matrix based on just like looking at the machine trying to guess, you know,"
+    },
+    {
+        "start": "00:03:22.400",
+        "end": "00:03:51.120",
+        "text": "is it wet or dry sell, that sort of thing. So I did make some guesses and if there's anything that I guessed incorrectly, you know, please, you know, please let me know and I'll correct it in the comments going forward. Also too, that I basically took information that was available and like when I was trying to figure out like what's the refund policy or the warranty, you know, that sort of thing. I had to dig through people's websites and if I couldn't find it, I just couldn't find it. And so if I'm wrong there and it's on your website,"
+    },
+    {
+        "start": "00:03:51.120",
+        "end": "00:04:21.080",
+        "text": "you know, hey, let me know and I'll update this thing. All right, otherwise, I just want you to know that I basically approached it as if I was shopping. And so, and you know, how easy is it to find the information I'm looking for when it comes to your generator, right? 'Cause I know the people who make these generators are gonna be watching this video. Okay, so let's get into the rest of the details. Those are my disclaimers. All right, first things first. I just want to do a little bit of overview background. So they're all gonna be on the same page going into this matrix. And the first thing I want to point out, which I did allude to earlier,"
+    },
+    {
+        "start": "00:04:21.080",
+        "end": "00:04:50.720",
+        "text": "is that there's a huge difference between an H-H-O generator built for welding, H-H-O fuel saver kits that you buy on eBay and slap together, and there's some really good ones, by the way, and you know, and then acrylic polishing H-H-O generators. And so, you know, there's a huge difference between them and then one over here that's actually been built for health. And so, that's the huge deal that I mentioned a little bit earlier, but the whole idea here is that there are different generators that are built for different purposes."
+    },
+    {
+        "start": "00:04:50.720",
+        "end": "00:05:17.960",
+        "text": "And then the whole thing that I'm doing here in this video are only generators that are built for health. Okay, built and designed for health. And that's a huge difference, 'cause I personally would not use any of these other ones ever for my own, like, you know, try to inhale and stuff like that. They're not built for it. They don't have the safety features in it. But the ones for health do. And that's the key difference, right? So now, the other thing I want to point out is that there's a little bit of a difference here. And this is probably the deepest I'm gonna get"
+    },
+    {
+        "start": "00:05:17.960",
+        "end": "00:05:45.440",
+        "text": "into the technical, and this in the next slide, is dry versus wet cell. Okay, and so why the, and then, you know, and here's the thing, this, okay, let me explain what it is. A dry cell is where the electrolysis process is not immersed in water and water is inside of the, you know, of the electrolysis plate. So the water comes in here and it kind of goes through these plates and then it goes off into the bubbler back here, right? This is just like the ugliest examples, but the only ones I could find."
+    },
+    {
+        "start": "00:05:45.440",
+        "end": "00:06:14.000",
+        "text": "I didn't feel like opening up my generators and doing it that way. Now, the other one is called a wet cell where the entire thing is just dunked into a vat of water or, you know, a bath of water. And then it's gonna be in the water. So it's either gonna be outside the water where the water's inside this, you know, electrolysis cells or the entire electrolysis cells is inside the water. So it's wet versus dry. That's the difference there. Now, why is it important? Well, if it's a wet cell, the thing can run like 24 hours"
+    },
+    {
+        "start": "00:06:14.000",
+        "end": "00:06:39.680",
+        "text": "in a straight without stopping and it doesn't overheat because it's in water, right? This one over here, dry cell, they can overheat. And so they usually can only be run straight, like, you know, like four hours, six hours, you know, that sort of thing. So if you're interested in buying a generator that you're planning on using overnight, you're probably gonna wanna lean towards a wet cell. That's why that's important. Okay, and so the next thing I wanna point out and this is a huge deal. Maybe this should have been the first slide"
+    },
+    {
+        "start": "00:06:39.680",
+        "end": "00:07:08.680",
+        "text": "is that there is a difference between H.H.O. and Brown's Gas. And if you go into my blog on the Brown's Gas page, I've actually got links to the professor at Yule Brown. This is what this is named after a guy in Australia, a professor who basically wrote the patents and did all their research and he developed Brown's Gas welding, you know, generators, right? And so, and what's the difference between H.H.O. and Brown's Gas?"
+    },
+    {
+        "start": "00:07:08.680",
+        "end": "00:07:38.520",
+        "text": "And this is my opinion, by the way. I have never read anybody like, you know, get into this like I have or that I'm about to, but the bottom line is this. If you look on the left side here, this is your traditional hydrogen generator electrolysis. Okay, you've got the anode and the cathode. Now you put the metal inside the water and then you put, give it some current. Okay, and then off of the anode comes oxygen and off of the cathode comes hydrogen. So you've got hydrogen going out one side,"
+    },
+    {
+        "start": "00:07:38.520",
+        "end": "00:08:07.760",
+        "text": "oxygen's going out the other and you've got this pem membrane, which is called a proton exchange membrane. And what that does is it basically keeps the two separated so that you get pure oxygen on one side, pure hydrogen. You know, it takes the H.H.O. and breaks it, right? Between H.H.O. and then O. And so you're only getting and then the O is combined and create O2 and then you've got oxygen and hydrogen. And that's what these two do. Now, people are selling hydrogen generators."
+    },
+    {
+        "start": "00:08:07.760",
+        "end": "00:08:35.000",
+        "text": "With the, there's two highways you can get a hydrogen generator, you can get a hydrogen generator that just produces H.H.O. There's got a port. You can hook a conic cannula, kind of start cannula, up to the hydrogen and inhale the hydrogen or make bubbled water. And then the oxygen just gets pumped out the back to exhaust or the smarter ones are the ones where they've got two ports where they're giving you the oxygen and they're giving you the hydrogen. And so here's the thing, when you have one of those,"
+    },
+    {
+        "start": "00:08:35.000",
+        "end": "00:09:04.600",
+        "text": "like that, you can get a, you can get like a splitter or a little, you know, I guess a T split, a T thing. (laughs) Lots of words for one of those. But you can get a connector. Okay, let's call that a connector, put the two together and then you could be inhaling the hydrogen and the oxygen mixed together and you could be inhaling it together. And then that's what they would call oxyhydrogen because you're taking in 66% hydrogen and 33% oxygen mixed together"
+    },
+    {
+        "start": "00:09:04.600",
+        "end": "00:09:33.200",
+        "text": "and you're getting oxyhydrogen all the so-known as HHL. (laughs) Okay, there's that side. Now the right side of the diagram here over here is way different. This is Yule Brown's patent, okay? So personally, to me, there is a huge difference between an HHL generator and a hydrogen generator versus an actual patent, you know, per the patent, per Brown, you know, Professor Brown, what he came up with and what he did"
+    },
+    {
+        "start": "00:09:33.200",
+        "end": "00:10:01.720",
+        "text": "was, it's kind of simple, right? He just built one without a membrane and he only had one poured out. So what does that do? Well, you still have the anode in the cathode, you put current in the water. And of course, you still got oxygen coming off the anode, you still got hydrogen coming off of the cathode, but now though, and this is theoretical, all right? And there's only like, you know, there's only one person that's really kind of like put forth this theory and he's done all the studies."
+    },
+    {
+        "start": "00:10:01.720",
+        "end": "00:10:30.920",
+        "text": "And, you know, if you take him at his word, this is what is happening. Well, in between the cathode and the anode, when you're got current going through this, and basically it creates an extra set of bubbles. You know, if it's big enough and wide enough away from each other, and you can, apparently, this is per George Weisman of Eagle Research. He's the inventor there, owner operator slash inventor. And he's basically stated that, hey, you know what, you will see a third type of gas form"
+    },
+    {
+        "start": "00:10:30.920",
+        "end": "00:11:00.680",
+        "text": "in between these two cathode and anodes. That's not hydrogen and not oxygen, but it's a third kind called electrically expanded water and there'll be bubbles there. And in those bubbles will be what he calls like EXW, electrically expanded water, plus there'll be atoms of oxygen and atoms, just like O1 and atoms of hydrogen H1, okay? And so you get this third mixture of gases and electrons"
+    },
+    {
+        "start": "00:11:00.680",
+        "end": "00:11:29.720",
+        "text": "coming off of, out of this configuration, and it all comes out one port together. And so that's Brown's gas. So you can see the difference here. You can either get oxygen and hydrogen created separately then mixed together while you're breathing it, or you get it all together at one shot and you're getting not only hydrogen, not only oxygen, but you're also getting electrically expanded water, plus you're getting O1 and H1 atoms all in the gas that's coming out of the generator. That's the difference here."
+    },
+    {
+        "start": "00:11:29.720",
+        "end": "00:11:59.360",
+        "text": "So I kind of wanted to just stipulate that so that everyone, 'cause it makes a difference 'cause these generators are different. All 15 of them that I found. Next thing I want to point out is that, you know, trying to compare these things. It's like a little bit like, you know, it's kind of apples to apples, but, you know, not, you know, there's a lot of discrepancy in trying to kind of like find that balance of like, okay, how do you compare these two to get as close to apples to apples as you can"
+    },
+    {
+        "start": "00:11:59.360",
+        "end": "00:12:24.040",
+        "text": "because they're so different? And so the thing that I want to point out when it comes to gas output, 'cause generators, you know, it's gonna put out a volume of gas and that volume of gas is important because it's gonna map to what you want to use it for. So the thing about volume of gas and when you're trying to compare generators is that every single generator by itself has a range, okay?"
+    },
+    {
+        "start": "00:12:24.040",
+        "end": "00:12:51.600",
+        "text": "And the ranges will vary based on the output, okay? We'll vary the based on the temperature. Like if the unit starts out cold, it puts out so much, but if it gets warmer, it puts out its maximum. Or current, if you give it low current, little, you know, it'll go minimal output. And then you give it its maximum current, which is, you know, 100% on, if you have one of those that have a meter. And then it's gonna put out its maximum output."
+    },
+    {
+        "start": "00:12:51.600",
+        "end": "00:13:19.800",
+        "text": "So what I did to kind of do an apples-to-apples comparison in the matrix, I'm gonna show you in a second, is I went by the maximum. So that would be like, it'd be at its peak temperature and peak current. And that's, well, like, that's, and that's, you're gonna see those numbers there. But that just kind of gives you an idea that, you know, there's a variance where you could have is really super low or you could have the machine putting out its maximum. So like a volume knob, okay? So that really determines what the output is."
+    },
+    {
+        "start": "00:13:19.800",
+        "end": "00:13:48.960",
+        "text": "Now, almost none of them actually told, that actually, you know, put in their website what the minimum and maximums were. Some did, not all of them, you know? But if they gave me a number, if they put out a number on their website, boom, that's the number I used in the matrix, okay? Now the other thing I wanna point out too, when it regards to output, gas output, is that gas output goes down. If the water level in the tank goes down and, or the, especially in brownscast generators"
+    },
+    {
+        "start": "00:13:48.960",
+        "end": "00:14:17.800",
+        "text": "that use electrolytes, right? Either sodium hydroxide or, there's this other one that other folks use. And so, if you're using electrolytes and after a while, you start to put in more and more and more fresh water, you dilute the amount of electrolyte in the solution, which then decreases the conductivity of the solution and your output goes down, all right? So, those also affect output. So, you know, if you ever tried to test these machines"
+    },
+    {
+        "start": "00:14:17.800",
+        "end": "00:14:47.440",
+        "text": "or compare them to each other, you know, these are a lot of variables you need to keep in mind. So, anyway, I just wanna point that out because you weren't gonna do some comparisons, okay? So, here we go. Now, these are the machines that I basically, you know, these are the standard machines I've done a product review in the past, it's been a couple years, this is an update. This time, although I'm not gonna play with my machines, I have these three here on the right, personally, and I, I mean, use them all the time. But these are the four main ones that are made in the United States, the hydro genie, the H2 life,"
+    },
+    {
+        "start": "00:14:47.440",
+        "end": "00:15:16.960",
+        "text": "the aqua cure and the H2 genesis, all right? And then I went scouring the internet and I found other folks that are making brown-scast generators, H.H.O. generators for health. And that's pretty fascinating. So, there's companies in Australia and in India and making all sorts of different models. And then one of the models right here, this, and you know, this company needs to talk to their marketing people, you know, is like, you're gonna try to sell a product, don't call it the bi-wheat, you know,"
+    },
+    {
+        "start": "00:15:16.960",
+        "end": "00:15:46.120",
+        "text": "BYT-EU-H03, you know, I mean, you know, come on, get a marketing guy. But anyway, so this model here, the BYT-EU-H03, is also the same model that was used in a clinical trial that completed, I believe a year ago, in China for the use of brown-scast for, or H-H-O, I should say. When I say H-H-O, by the way, I mean the ones that mixed the two together versus brown-scast that, you know, generates EXW."
+    },
+    {
+        "start": "00:15:46.120",
+        "end": "00:16:13.680",
+        "text": "But anyway, this machine right here on the far right was actually used in a clinical trial. I just finished clinical trial week on Telegram. And, you know, it was a very good trial for COVID. And so it's an actual medical device, class three medical device. And, you know, and it's pretty cool because they're actually using these in hospitals in China now. Okay, so let's get into the matrix. So here we go, this is really exciting, I know. But if you're out there and you're shopping"
+    },
+    {
+        "start": "00:16:13.680",
+        "end": "00:16:42.640",
+        "text": "or wondering about getting one, you know, I'm hopefully that, you know, this is kind of gonna give you a little bit of education as to what the differences are, what the things you need to worry about. And there's all, you know, and I just, and then it comes to features too. And, you know, every one of them has tons of little features, whether it's timers or, you know, usage meters or frequency thingies. And, but you know what, bottom line, they're all built for health. And so they've all got the safety features and let's just leave it that. And these are the key features that I focused in on that,"
+    },
+    {
+        "start": "00:16:42.640",
+        "end": "00:17:10.960",
+        "text": "you know, that I thought would be more pertinent for the average person who is looking to buy one of these things, okay? So one of the first things obviously is price. Price is a real kicker for all of us because, you know, we're human beings and we, you know, money's not just, you know, free. So the thing is it's interesting as prices since 2019 have gone quite up, quite a bit, a few hundred across the board. And so now that you've got the hydrogen now is running, I think, well, it's not, I think,"
+    },
+    {
+        "start": "00:17:10.960",
+        "end": "00:17:35.320",
+        "text": "but these are the prices they're running at today. Today is March 12th, 2022. So you've got the prices and the price range is right now for a machine that's fairly, you know, I mean, these are all kind of comparable. I mean, right here, basically all of these are strong enough or they put out enough gas for two people to connect to them, all right? And that's really what, you know, let's just use that as a benchmark. So for two people to connect to a brown-scast generator,"
+    },
+    {
+        "start": "00:17:35.320",
+        "end": "00:18:03.440",
+        "text": "then basically you've got a price range from 1997 to 2499. Again, that's what you've got right now. And these are the four that are on that one slide. Let me jump back, right here. So these are the four right here. And these are brown-scast generators, okay? And the key here is why. There's no membrane, okay? Now everything left of this line, or I'm sorry, right of this red line, they all have a membrane. And what does that mean?"
+    },
+    {
+        "start": "00:18:03.440",
+        "end": "00:18:30.800",
+        "text": "Well, if they all have a membrane, then what? They're an H-H-O generator. And you're combining the gases, you know, before you breathe them, okay? It's the machine's not putting it out. You know, they're putting them out separate. That's what I mean. Okay, so that's the key difference here. That there are, these are H-H-Os and these are actual true to the, you know, to the patent, true to yield brown, you know, actual brown-scast. And so that's the difference here. And you know, I just really wanna quickly just state"
+    },
+    {
+        "start": "00:18:30.800",
+        "end": "00:18:59.040",
+        "text": "that I, you know, I think that either way, I think that the combination of getting the benefits of molecular hydrogen, which is extremely well documented, just hundreds and hundreds of studies on how good molecular hydrogen is. You can find that at the Molecular Hydrogen Institute, Tyler LeBaron runs that. Now that's, and it's just a well documented. So there's no question about how incredible molecular hydrogen is for your body."
+    },
+    {
+        "start": "00:18:59.040",
+        "end": "00:19:27.360",
+        "text": "Now, and what is H-H-O and brown-scast? Well, it's that good stuff, molecular hydrogen mixed with oxygen. Okay, and you're getting more oxygen than you could get from the air. Okay, so in, you know, using off of a generator. So you're getting oxygen generated by, you know, and combining with hydrogen. And that is to me, you know, it's basically like, you know, a plus, right? You've got, you've got the benefits of hydrogen. You've got the benefits of oxygen. Oxygen itself is extremely well documented"
+    },
+    {
+        "start": "00:19:27.360",
+        "end": "00:19:55.160",
+        "text": "in terms of being beneficial for your health. You know, more, you know, getting oxygen that's more than the oxygen you get in your air. And so combining those two together is a positive thing. So I don't think that there's, personally, I don't think that there's a detriment to getting an H-H-O generator for health over getting a brown-scast generator for health. That's my personal opinion. However, for those of you that are truly, really into the science, you know, or the, you know, the, I guess it's the biohacking aspect of it."
+    },
+    {
+        "start": "00:19:55.160",
+        "end": "00:20:23.040",
+        "text": "Going with brown-scast, you get a little bit more than that. You get this incredibly bizarre thing with the monatomic elements coming out of the EXW. And I think that that is something that, you know, that does, you know, does that tip the scale? Right off the bat, an H-H-O generator has oxygen, including with, you know, with the hydrogen. But a brown-scast has the oxygen, plus it's got EXW, and you're getting even more benefit. And so that's kind of like the difference to me."
+    },
+    {
+        "start": "00:20:23.040",
+        "end": "00:20:52.320",
+        "text": "So that's why I included these H-H-O generators for health. And in this brown-scast generator, you know, review, because I think that they bring their own benefits on top of, you know, on top of, you know, on top of, Michael and Michael, I'm sorry, I'm like a hydrogen to buy itself. So, wanted to make that statement, but that's why they're included here. So now, that's the difference here, is whether or not it has a membrane. And then I tried, and then basically, whether they're, sorry, whether they use an electrolyte or not."
+    },
+    {
+        "start": "00:20:52.320",
+        "end": "00:21:21.000",
+        "text": "And so you can see the hydrogen generators, which are hydrogen generators, H-H-O generators. They just don't use electrolytes, but all of the ones that create brown-scast do, some of them are, most of them are wet cells, ones dry, and then the rest of the hydrogen out here, hydrogen, I'm sorry, H-H-O generators are dry cell. Okay, and that's the difference there. Now, the gas production, as I pointed out, you know, all of them are adequate for two people at a time, which is really good, and because, you know,"
+    },
+    {
+        "start": "00:21:21.000",
+        "end": "00:21:48.920",
+        "text": "you want two people, or you can bubble water while you're breathing and so forth. And so, you know, that's pretty much, they're all kind of on an even level playing field, at or about, you know, the size that you would want. The other thing about, like, these two right here, they have four different sizes of this model, and this one has three different sizes of that model. So, you know, the range is, you kind of like, you just choose how big a one you want. Now, the other thing about, I think,"
+    },
+    {
+        "start": "00:21:48.920",
+        "end": "00:22:18.560",
+        "text": "that's important to buyers, is that, you know, does the company provide a money-back guarantee? You know, like, if, like, for whatever reason. And so, there's a couple of out there that, you know, there's just, there's nothing on their site about anything about a refund. These guys, you know, they'll only go 14 days. These two companies here will go up to 60 days, and then, you know, this one will go up to one year. So, it's kind of important, you know, when you're buying something, and you're spending this much money, you know, you know, hey, can you get your money back"
+    },
+    {
+        "start": "00:22:18.560",
+        "end": "00:22:45.960",
+        "text": "if you decide that this is not for you, right? So, now, the warranty is probably the most important thing. These things are heavy maintenance, as you, you probably, if you've seen my other videos. And so, warranty, I think, is one of the critical things about any product that you're buying, is how, you know, how well does the company stand behind their product. So, I year on the Hydrogeny, you know, they do a three year on the generator, one year on electrical components. You've got H2 Life is one year,"
+    },
+    {
+        "start": "00:22:45.960",
+        "end": "00:23:14.200",
+        "text": "Parts and Labor, CC Day, Reach Front Policy. AquaCare is still out there offering a lifetime. So, but the only, the only thing is, is it your lifetime or a lifetime of legal research, you know? So, you know, it's kind of like the old days, right, with, you know, I have video rentals, right? Remember the video rentals or the, or the, you know, workout at a gym, they give you a lifetime membership, and then they close a year later. So, you know, whose lifetime is it, right? But it is lifetime, and I'm just joking around, around about that."
+    },
+    {
+        "start": "00:23:14.200",
+        "end": "00:23:43.000",
+        "text": "Now, the H2 Genesis does do two years parts in labor, as a warranty. So, some of the warranties now, in 2019, most, a lot of companies were offering lifetime, but you can see where, you know, they're starting to just scale back a little bit, but they're still standing up and standing up behind their product, which is still good. These guys, they don't even, there's nothing on the website that says anything about it. This one, same thing, it's just, there's none. There's just, this one actually says, in their terms, they don't warrant nothing."
+    },
+    {
+        "start": "00:23:43.000",
+        "end": "00:24:12.040",
+        "text": "So, if you, you know, you buy from this company, which is called the Brown's Guys Company in India, you buy one of these models, you got 14 days, and then there's no warranty. And so, but these other models at the same company sells, you've got either 5,000 hours or two years, or, you know, 5,000 hours, two years on this model. And I just wanna point out something, too, on a price range. When you look at the US models, I mean, you know, the highest it's gonna go is about 2,500. And then you look at outside the US, I mean, you know, this is so expensive,"
+    },
+    {
+        "start": "00:24:12.040",
+        "end": "00:24:40.560",
+        "text": "you have to inquire. (laughs) It's always a red flag when they say, you know, when you ask how much is it, and you go, oh, you have to ask about it, as opposed to it's printed on the website. So, but you could see where, you know, you've got these two models that come from this one company in Australia, you know, like 5,000, 90, you know, 9,000 dollars, zero converted to US dollars. You know, it's, it's, you know, when you look at what, you can get a Brown's guest generator. 2,500 in US, but you go outside the US, you go to Australia, you're paying over five,"
+    },
+    {
+        "start": "00:24:40.560",
+        "end": "00:25:09.160",
+        "text": "five to 10,000 dollars to get a, you know, H.H.O. generator, you're not even getting an actual Brown's guest generator. But, you know, same thing here, but this is that company. Rural low price, but no warranty. This one's 10,000 dollars, which is pretty amazing. I mean, it is, these are, look how much they put out. These guys are all putting out milliliters per minute. These guys are putting out liters. One puts out 1.5 liters per minute, one puts out three liters a minute. That's what they're stating. And so, you know, they got, you know,"
+    },
+    {
+        "start": "00:25:09.160",
+        "end": "00:25:37.720",
+        "text": "they got a price tag on this puppy. Nine or, sorry, 10,000 dollars, essentially. And the other one that this was the clinical trial one, you know, they're selling for 24,000 dollars. So let me just put that, just kind of to show you which ones. This guy right here, the BYTEUTA01, that's $10,000. This puppy right here to the right is $24,000. So you can see where, yeah, it's pretty wild."
+    },
+    {
+        "start": "00:25:37.720",
+        "end": "00:26:05.840",
+        "text": "I mean, you know, you know, I used to think when I bought my first Brown's gas generator, I got an AquaCare. You know, I was, you know, it was like pucker time, you know, putting out 2,500 bucks on something experimental. But, you know, when you look at these numbers now and you compare that to what's outside of a United States, it's, yeah, it's like, it's like bargain. So that's kind of what that is in terms of price and then the warranties and stuff like that. Now, here's right here are the companies that are selling them, what countries that they're in."
+    },
+    {
+        "start": "00:26:05.840",
+        "end": "00:26:35.680",
+        "text": "So basically it's just Australia and India at this point and the United States. A couple of other things I want to add is that there are affinity brands. So if you find, you know, basically a Brown's gas generator, there's an H2 promo life, which is the Hydro Genie, but just, you know, it's been, you know, it's been rebranded for H2 promo life. And then also to the AquaCure AC50 has been rebranded. And this one actually sells in Europe. It's Osmo's a European company reselling the AquaCure. They're called the Osmo Infinities"
+    },
+    {
+        "start": "00:26:35.680",
+        "end": "00:27:05.520",
+        "text": "and they sell for 27, 19 in Europe, you know. And so for those of you guys in the US that may not know this, if you buy something from Europe, there's a 21% tax and the shipping is incredible. So, you know, so if you're in the US, I kind of recommend that you stick with the US companies. But if you're outside the US and, you know, you got some choices you can either buy from the US companies or buy from Australia or India. So that's it. That was, that's the review. I just kind of wanted to share with you that A, these products exist, what the differences are with them,"
+    },
+    {
+        "start": "00:27:05.520",
+        "end": "00:27:33.800",
+        "text": "what the prices are and what I think about it, in case you care what I think and I hope this has been beneficial to you. Thank you so much for spending some time with me and listening to this. I hope you learned something today and I hope the information's helpful. Now, if you want to learn more about what I do, I'm the guy that runs the Tinkers Academy. You can type tinkers.academy in your URL browser window and it'll come right to my blog. Now, I've got a full page dedicated to Brown's gas for health and I've been really working hard on it lately"
+    },
+    {
+        "start": "00:27:33.800",
+        "end": "00:28:03.640",
+        "text": "and really focusing on providing more of the research that, you know, that I could find about Brown's gas, specific to Brown's gas, you know, not so much H.H.O., you know, but specific to Brown's gas, well, and I guess so H.H.O., but, you know, I'm including all the studies that I could find. I just did a full week of clinical trials that I found where I was sharing the clinical trial data on Telegram and that sort of thing. So if you're interested in learning more about Brown's gas,"
+    },
+    {
+        "start": "00:28:03.640",
+        "end": "00:28:26.900",
+        "text": "I've got articles, books, links to books, links to articles, links to studies, links to trials, links to videos about it and links to testimonies and you name it, so there's a plethora of information about Brown's gas on my blog at the Tinkers Academy. Thank you again for watching. I do hope that this was helpful for you interesting and I just want to say hey thanks a lot for watching have a great day."
+    }
+]

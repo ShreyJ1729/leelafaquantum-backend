@@ -1,0 +1,177 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.160",
+        "text": " Hello everyone and welcome to another Carbon 60 video by me, Kay Elmer and in this video I'd like to talk about the vacuum pumps that we use when we're filtering out our C60 oil. What kind of came up in the chat room a while ago was a discussion about pumps which ones were better and so forth and then it seems like several folks have been kind of migrating to stronger pumps to kind of"
+    },
+    {
+        "start": "00:00:28.160",
+        "end": "00:00:54.520",
+        "text": "shorten the time frame it takes to to filter the oil and so I kind of decided that I would go ahead and do a test and kind of figure it out and then you know I told everybody I'd do a video on it so here you go this is the video of me dinking around with some pumps to see what would happen and and and how difficult it was to set them up and things so I'd been using like most of you I've been using the filter 8 vacuum pump I got about a year ago and that"
+    },
+    {
+        "start": "00:00:54.520",
+        "end": "00:01:21.400",
+        "text": "that guy is you know is doing doing fine and then this there's a new one now that it looks just like it but it's black it's called the Swift vacuum pump and then this is the Kazi vacuum you know industrial vacuum pump that I bought that a lot of folks are considering buying or have already bought and so this is the one that I got so just trying to compare the three different ones I did a little video so let me kind of walk you through it now the very first thing now"
+    },
+    {
+        "start": "00:01:21.400",
+        "end": "00:01:49.600",
+        "text": "with the Kazi vacuum is so different than the other two because it's like this little industrial motor it requires oil it so comes with a bottle of oil that you have to put into the into the pump and so kind of walk you through that this is the exit they're actually the exhaust port and also when you unscrew it it's where you pour the pump oil in so you have to take this this cap off pour the whole bottle oil in it comes out where the oil line is going to be"
+    },
+    {
+        "start": "00:01:49.600",
+        "end": "00:02:13.360",
+        "text": "between min and max so that's how you that's the very first thing you do is put the oil in and then this little brass thing right here is the intake nozzles now the intake nozzles on this much on this specific pump are there's two of them there's this side on the right which is one quarter inch and then the one the top is a half inch and so now the thing about this model and I because I haven't you know bought the other models but this specific model it"
+    },
+    {
+        "start": "00:02:13.360",
+        "end": "00:02:39.600",
+        "text": "doesn't come with any tubing and so it and it doesn't have any type of nozzle that you can put on that intake so that you could fit a tube on it right and so now I've known that other people have actually you know used different tubing to just kind of cover the whole thing and so forth but you know thank you to whoever posted on the chat room but they said that there's a nozzle you could stick on that thing as a half inch nozzle so you could actually use this"
+    },
+    {
+        "start": "00:02:39.600",
+        "end": "00:03:07.480",
+        "text": "little adapter and it's just screws right onto the top of of the intake valve and so there you go so that makes it so much easier to deal with as you need this little nozzle it's an extra little piece everything I'm talking about today the links are in the video description so once you get this nozzle it's so much easier to connect the tubing so now the other thing was that there's a huge issue with which is exhaust this thing's a motor it exhausts vapors and so when"
+    },
+    {
+        "start": "00:03:07.480",
+        "end": "00:03:35.280",
+        "text": "I when I first turned it on it was just spewing this oil vapor and it was difficult to breathe and so I was kind of choking on it and so I decided I would do a makeshift exhaust filter so I went to my local PetSmart and I bought some aquarium stuff I bought some activated charcoal bags and I got this gravel vacuum and in order to makeshift an exhaust filter so this is what I did everybody does something different obviously the only reason by the way the"
+    },
+    {
+        "start": "00:03:35.280",
+        "end": "00:04:04.200",
+        "text": "only reason I had to do this was I don't have a counter near a window so if I could I would have just stuck the tube out the window you know the other end of the exhaust tube but I can I'm stuck inside so I basically took the end of the tube covered it up with activated charcoal wrapped it up in cheese cloth and made an exhaust filter there's it so now this is the setup that I did and and the little this is what I want to point out about this little pyrex cup of water that's boiling water and I mean I really needed to use that to get the"
+    },
+    {
+        "start": "00:04:04.200",
+        "end": "00:04:33.480",
+        "text": "tubes to fit on but once I could put that in there for 30 seconds and make it pliable then I could start fitting the the different tubes up to the different filters and it went really well but highly recommend you know the old trick of just you know putting your end of the tube and boiling water so now that's the tube from the the gravel filter it fits perfectly if you notice right there it fits perfectly on the inside of the exhaust port and so it comes out it goes around the corner and then it's that little makeshift exhaust filter so this"
+    },
+    {
+        "start": "00:04:33.480",
+        "end": "00:05:01.320",
+        "text": "is the test that I ran I hooked up the filter 8 this is a 500 milliliter 500 milliliter and a thousand milliliter disposable filters there's a olive oil C60 olive oil that had been using pulver IC60 it basically went through the one-week stirrings on occasion 10-day settle 10 micron filter 10-day settle and now this is the stage it's at this is avocado in the exact same state this"
+    },
+    {
+        "start": "00:05:01.320",
+        "end": "00:05:28.640",
+        "text": "is MCT oil MCT oil stir for two weeks settle for 10 days ready to filter okay you don't have to do a pre-filter these have been pre-filtered but with a 10 micron so now it's all ready to go everything's ready to go at 0.22 which is each one of these three filters and so I've got 500 milliliters of olive oil ready to go with the filter 8 I've got 500 milliliters of avocado to go with the Swift and then I've got 1000 milliliters of MCT oil ready to go with the"
+    },
+    {
+        "start": "00:05:28.640",
+        "end": "00:05:58.280",
+        "text": "Kazi vacu and that's the test it's kind of like a little race to see which one goes first and so this is the setup and like I said you know really helped to use the the boiling water trick to get the hoses to all fit and in that it did work so everything worked really well the hose size is the I believe it's the 5/16 inch just regular aquarium air tubing you can just get that anywhere it's super cheap and so I did have to use quite a bit of it so because this"
+    },
+    {
+        "start": "00:05:58.280",
+        "end": "00:06:26.840",
+        "text": "doesn't come with tubing and the tubing that came with the Swift was all bent up so I just threw that away and I just used my own so this was the setup now as you could see right immediately the MCT oil just starts pouring and so it worked really really well and the other thing about the exhaust fumes coming out of the other end of the of the Kazi vacu was interesting because I'll show you in a second see that they said all this mist right here yeah all that mist it's still coming out you know but just like you know like a filter on a car or"
+    },
+    {
+        "start": "00:06:26.840",
+        "end": "00:06:53.840",
+        "text": "something that mist was breathable it wasn't so hard to breathe and so it just would still mist out like this but it wasn't as bad as the first time when I didn't have anything to kind of just suck up the oil or whatever's coming out of that thing so you know so it kind of worked but it wasn't perfect now the next thing I want to kind of share with you is this at about the 300 milliliter mark when this thing had filled up about 300 milliliters I just heard this huge"
+    },
+    {
+        "start": "00:06:53.840",
+        "end": "00:07:20.720",
+        "text": "crack I was filming the exhaust filter and it was just big crack you know and then I ran I turned around the corner and just this whole thing the whole bottom of it just imploded due to the pressure of the vacuum that this little motor had created so it was it was my first instinct was throw to you know throw the paper towels down pour out the funnel into a jar and then you know then of course pick up the camera and keep rolling so so let me show what"
+    },
+    {
+        "start": "00:07:20.720",
+        "end": "00:07:49.840",
+        "text": "happened and and you know in hindsight I should have I shouldn't know I should have figured this I should have known that this was gonna happen I didn't even occur to me that I would blow the filter but look at the giant crack in the bottom the thing just imploded right and and you know in hindsight yeah that makes sense but I'll tell you know oh so anyway I wasted 300 milliliters of a very expensive brain octane C60 and so first lesson learned you can't use a"
+    },
+    {
+        "start": "00:07:49.840",
+        "end": "00:08:15.800",
+        "text": "Kazi Rev or Kazi Kazi Vacue motor with a plastic filter okay so this is where I stand at 15 minutes these two are still going on the side I'm just I had to clean the whole thing up and then I had to set up my my glass rig and plug that into the Kazi Vacue and so it worked but here's here's to show you we're at 15 minutes the the Swift is just it's just just cranking away and there's"
+    },
+    {
+        "start": "00:08:15.800",
+        "end": "00:08:44.440",
+        "text": "almost nothing coming out of the the filter 8 but so this is what I I did this is take two on the on the MCT oil I only had about 700 milliliters left and then so I poured it in and started filtering away by this is like the the residue from the letting it settle and so it just cranking away I mean it's still 0.22 right and so this is at 30 minutes the the other the other filter fell out of the race but the two these two are still going at it with each"
+    },
+    {
+        "start": "00:08:44.440",
+        "end": "00:09:12.760",
+        "text": "other and as you can see the Swift is cranking and then here you go on this side it's like my 700 milliliters of MCT oil and it's done 14 minutes boom so you know clearly the bigger motor is stronger and it's going to run faster and do better and so I highly recommend this guy for the fact that you know boy it makes it so much faster and that's really a big deal when you're filtering you know leaders worth so totally totally dig that now if you don't have"
+    },
+    {
+        "start": "00:09:12.760",
+        "end": "00:09:38.320",
+        "text": "that you know patient or the the rush to have to get it done you know you go back to these two guys and here you go at 60 minutes the Swift is almost finished and look at that it's you're not even just just like nothing for the filter eight so it's clear that the Swift was you know really really really much much much stronger it's like one hour 20 minutes and boom it was done so the whole"
+    },
+    {
+        "start": "00:09:38.320",
+        "end": "00:10:06.880",
+        "text": "500 milliliters so what I did was I just unplug the olive oil from the filter eight I plugged in the Swift and soon as I turned it on watch I just turned it on and it's starting to come out this was the olive oil connected to the filter eight so that just kind of shows that that you know clearly whoops that's not right okay clearly you know there the Swift was was doing a lot better so these are the three pumps let's talk about prices now and stuff so the"
+    },
+    {
+        "start": "00:10:06.880",
+        "end": "00:10:33.080",
+        "text": "thing that's real interesting was that in the product specs to filter eight in the Swift are pretty much the same strength in terms of the ability to create a vacuum in cubic feet per minute so one was like 3.0 liters per minute this was 3.3 liters per minute if you read the product descriptions of the intakes nozzles are the same size and the prices are almost close the Swift is a little bit more expensive which is interesting because it doesn't have the"
+    },
+    {
+        "start": "00:10:33.080",
+        "end": "00:11:02.960",
+        "text": "case it doesn't have the the better tubing so the tubing quality is not that great there's no case and there's no rubber connector that helps you fit onto the the glass funnel and so that was that was interesting and then but the filter eight does come as a complete kit now the Kazi vacuum as you as I noted it was it was really strong it's 4.5 cubic feet per minute you know honestly I have never bought vacuum pumps until a year ago I don't know anything about"
+    },
+    {
+        "start": "00:11:02.960",
+        "end": "00:11:31.680",
+        "text": "vacuum pumps but I know a lot more now and you do too that you have to really take a look at how strong that thing can suck I guess is the best way to put it and so there's a 4.5 I bought the middle of the road for 79.99 it has you know the intake quarter inch and a half inch but you know there's a 3.01 which I probably should have bought the cheaper one which was 54 bucks and started out small I didn't really think about it this is the one that popped up on Amazon I just bought it right so so you know it's a little bit too strong but you know"
+    },
+    {
+        "start": "00:11:31.680",
+        "end": "00:11:59.400",
+        "text": "it works really great with the glass so you know it really depends now it doesn't come with any tubing doesn't come with nozzles and it requires oil so just keep in mind that you need to buy the nozzle for it you need to buy the tubing for it and and you know in order to get it to you know to use it and so by the way all of the these three filters are the links to them are in the video description below the video and so now the overall test results it's kind of walk you through it at the end of the day I thought about this for a"
+    },
+    {
+        "start": "00:11:59.400",
+        "end": "00:12:27.000",
+        "text": "while before making this video and you know I honestly think that the filter rate being the same strength and it's a year old I really believe that I I suspect that usage affects performance I think that because I have used it for a lot of hours I mean geez I've done over a couple dozen batches and I've left that thing running for like days before so I think I put a lot of hours on it"
+    },
+    {
+        "start": "00:12:27.000",
+        "end": "00:12:56.280",
+        "text": "and I think because it's like like a little tiny pump and it I think I just really beat the crap out of it and and because it's got a lot of usage that it really affected the performance I think in hindsight I should have bought a brand new filter rate and compared a brand new filter 8 to a brand new Swift so for you so you know so I don't want to disparage the fact that the filter 8 was so slow in this test it was a year old so in hindsight you know we're all so much smarter in hindsight so but you know but I so I definitely think"
+    },
+    {
+        "start": "00:12:56.280",
+        "end": "00:13:22.760",
+        "text": "that these little guys they're not going to last for more than a year before you see how slow it got right there's the way to look at it and so clearly you know for 40 bucks go get a new one after a year but the Swift is going to get a new one you know obviously the Swift works just as well but you know the thing was was that if I were to buy another little one again I probably buy another filter rate because it comes with really good tubing and it comes with the case so but because I have both I kind of just threw the filter rate away and put the"
+    },
+    {
+        "start": "00:13:22.760",
+        "end": "00:13:49.680",
+        "text": "Swift in the case and with the tubing so I have a I have a nice little set now that's so I'm good to go for batches I don't have to worry about and I'm not rushing to finish now the Causey Vacuio as I said this the smallest model is a 3.0 this one I bought was a 4.5 and yeah it will blow your plastic filter stuff and so that was a really learning experience because I didn't think that was gonna happen but again in hindsight I should have expected that so you know"
+    },
+    {
+        "start": "00:13:49.680",
+        "end": "00:14:16.920",
+        "text": "but anyway the exhaust as you saw was a huge issue and if I could stick it out the window I would have but I couldn't so I did the best I could and you know when I ran it for 14 minutes I did have the the kitchen fan on and it was bearable but my house got really cloudy and so I had to open the doors and air out everything and so I don't recommend using that pump in a in an unventilated area where you have the windows closed and stuff so so yeah"
+    },
+    {
+        "start": "00:14:16.920",
+        "end": "00:14:43.320",
+        "text": "exhaust is clearly an issue you do need to buy an intake nozzle I think that's another like 11 bucks or so and you need to buy your own tubing so it doesn't come with anything except the oil itself so you know it has issues it's great it works fantastic but you have to deal with its issues right so that's life right anyway so I'm glad I'm glad you joined me thank you so much for paying attention and I hope you'll learn something I did and I'm just really happy to be able to share it with you thank you so much for taking the time"
+    },
+    {
+        "start": "00:14:43.320",
+        "end": "00:15:10.000",
+        "text": "to watch this video I do appreciate everything you guys do and say I really I've learned so much from the people in the chat room that you guys don't realize that I learned from you as much as you learned from me and that's the whole point of this is that we know we're all doing this for our to betterment of our health and our families health and the ones we love so you know let's help each other right it's a positive thing so anyway so if you haven't already done so join our C60 telegram chat group this is a group of folks that"
+    },
+    {
+        "start": "00:15:10.000",
+        "end": "00:15:39.040",
+        "text": "make C60 oil some of them are re our sellers and some of them are just you know like me that I just make it for myself and my loved ones and then there's also different other groups there's a a group of just there's you know just one chat room just full of testimonials there's another chat room of a bunch of guys that had decided to build an arc reactor and start making C60 so that's real interesting those guys are just cranking away building reactors and stuff and they're talking about it so you can go talk with them and if you want"
+    },
+    {
+        "start": "00:15:39.040",
+        "end": "00:16:00.840",
+        "text": "to do that and then of course the rest of us are making C60 oil so I just want to say thank you you're more than welcome to join our C60 telegram chat group if you have any questions you're new to this you want to learn you know come on down and ask away and and we're all a bunch of friendly folks and we'll be happy to help you otherwise thank you so much and have a great day Aloha"
+    }
+]

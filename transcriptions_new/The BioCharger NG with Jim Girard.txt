@@ -1,0 +1,1392 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.120",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and today I have got a great pleasure to be doing an interview with Jim Gerard on the bio-charger and G. It is just going to be a fascinating discussion if you haven't known who you know you don't know who Jim Gerard is. Let me go ahead and I'll just do a quick intro and then Jim will bring you in. Well Jim is the original developer of what I would coin the phrase as"
+    },
+    {
+        "start": "00:00:27.120",
+        "end": "00:00:54.640",
+        "text": "a biophotonic multi-wave oscillator and so he's got over 30 years of research into energy and energy devices and so forth and he was the original person who decided that he would modernize the original Likovsky multi-wave oscillator. Way back I guess you started to come up with the idea in the 80s right and then released it in '93 and I think one of the most amazing things is just you know just you've been working on this thing for decades"
+    },
+    {
+        "start": "00:00:54.640",
+        "end": "00:01:20.440",
+        "text": "and there's this evolution of these devices but one of the most interesting things about your background Jim is I guess in 1988 you know you worked under Dr. Orville Fritz who was a prodigy of Nicholas Tesla and so I guess you know yeah I mean that would be just such an amazing opportunity but to be able to study under one of Tesla's prodigies is amazing to even just hear and I've got so many questions about that but but anyway so you worked with"
+    },
+    {
+        "start": "00:01:20.440",
+        "end": "00:01:48.080",
+        "text": "him and for a while and then that's and then after that you came up with the idea for the first version of the upgraded you know Likovsky multi-wave oscillator so we'll get into that in a second here so now currently though as of 2013 Jim is now the lead research and developer for the Biocharger NG product that's now formed into a bigger company not just Jim by yourself right and and so you're the lead developer there and just doing some"
+    },
+    {
+        "start": "00:01:48.080",
+        "end": "00:02:17.800",
+        "text": "amazing work so that's what we're going to be talking about everybody today we're going to be talking about the Biocharger about how it became into being and really just really looking at the Biocharger from the standpoint of not so much you know you know like you know how it's being used but like really how does it compare to all of the other devices out there in the bio electrical magnetic space whether you're a biohacker and you collect different devices and always are trying new things or you're a wellness center or you run"
+    },
+    {
+        "start": "00:02:17.800",
+        "end": "00:02:45.920",
+        "text": "a clinician your clinician and you're running a center and you're looking for new ways to generate revenue for your for your business you know it that's what this conversation is going to be about it's like how does the Biocharger fit into all of that and how does it compare to all of the different devices that so many of us have and you know I'm as an avid biohacker for a couple of decades now I have a ton of devices I make videos on them so we're going to be talking about that from that aspect but before I jump in I do want to just do a"
+    },
+    {
+        "start": "00:02:45.920",
+        "end": "00:03:13.760",
+        "text": "quick disclaimer here and the Biocharger NG is not a medical device that is not intended for use in the diagnosis of treatment or of disease or other conditions or in the cure mitigation treatment or prevention of disease or other conditions in man or other animals so there you go so anyway welcome Jim welcome to to the interview I really appreciate your time today yeah thank you for having me looking forward to it yeah you know so I guess the first thing I really kind of wanted to share with people is you know this is what you brought"
+    },
+    {
+        "start": "00:03:13.760",
+        "end": "00:03:42.000",
+        "text": "to the table I mean in so many of your other interviews you make a comment about hey what would look off ski and Tesla and Rife right what would those gentlemen do if they had access to today's technology and then that's where you you know I guess you just really that's that's the perspective in which you've developed you know the Biocharger so could you kind of just share with us like you know like the evolution of it you know because in a prior video I kind of talked about like you're the you're the guy that came along literally"
+    },
+    {
+        "start": "00:03:42.000",
+        "end": "00:04:05.600",
+        "text": "50-60 years later right after lacoskey created the first multi-wave oscillator which really introduced you know just electro therapy I mean it's one of the many devices of that era but it's one of the ones that survived right I guess would be the best way to say it but you know you've developed so many different versions and let's just talk about it let's start off with like you know how did you get the inspiration to actually modify the lacoskey"
+    },
+    {
+        "start": "00:04:05.600",
+        "end": "00:04:32.800",
+        "text": "and start creating your own version yeah so in the mid 80s I came across the work of Nikola Tesla was very fascinated with you know that world of possibility it really opened up my eyes so at the time I had a I was in college and in high school and college had a landscaping company was my feeling was I was exposed to a bunch of the pesticides herbicides"
+    },
+    {
+        "start": "00:04:32.800",
+        "end": "00:05:00.000",
+        "text": "started to come down with alopecia so I went to an all organic farm convention and believe it or not that's where I first learned about Nikola Tesla and that started my journey down this road and you know throughout that that journey I'd had many early mentors that helped me along that path and so I began experimenting with Nikola Tesla's work in the you know like"
+    },
+    {
+        "start": "00:05:00.000",
+        "end": "00:05:22.560",
+        "text": "I said in mid 80s and was building all-site sorts of Tesla coils I was building you know conical coils pancake coils double-ended open coils large ones that were shooting ten footers and then about a year later I came across the the Secret of Life by George Zohofsky"
+    },
+    {
+        "start": "00:05:22.560",
+        "end": "00:05:48.800",
+        "text": "and that got me curious about you know just that whole electro medicine and so I built some base off of the earlier designs using the concentric rings and you know I had one setup that I was using with concentric ring it was more of a weed-out coil not so much the lahoskey where it was a double-ended open coil where I had two antennas and then you"
+    },
+    {
+        "start": "00:05:48.800",
+        "end": "00:06:16.920",
+        "text": "would sit in between that and it was really really inspired me got me curious about it so as I started to read more about this and you know discovered it wasn't just lahoskeys work but there was a bunch of other research that was out there I'm sure many of you are familiar with Royal Rife but as well as you know the Violet Ray machine and as I started"
+    },
+    {
+        "start": "00:06:16.920",
+        "end": "00:06:46.560",
+        "text": "digging deeper I was at Purdue University and I found an electrical therapy handbook of 1901 1902 it was almost 2000 pages of different devices and so I took a lot of that research and saw that you know there was a light component you know so lahoskeys basic design was producing multiple wavelengths so I wanted to introduce the visible light spectrum so really my first"
+    },
+    {
+        "start": "00:06:46.560",
+        "end": "00:07:14.480",
+        "text": "claim to fame was the multi-gas tubes that was added to a test of coil that I was using now I dropped one of the antennas but sort of made it more like a campfire type of thing where multiple people could sit around and started selling that version in 1993 it was bells at the time so I sold quite a few of them actually had an interest of a venture"
+    },
+    {
+        "start": "00:07:14.480",
+        "end": "00:07:42.400",
+        "text": "capitalist so we ended up reading a spectrum analyzer it analyzed all these different devices I was experimenting with and he was also working with the PMF system with the Panos Papis so we were just really curious to understand what were the waveforms that were being generated so you know began measuring these different devices that were out there and found that"
+    },
+    {
+        "start": "00:07:42.400",
+        "end": "00:08:08.320",
+        "text": "you know especially with that spark gap design it was really that spark gap that was creating the multiple wavelengths so by adding that visible light spectrum really expanded the whole field of it all and you know I had a few ups and downs with it don't really want to get into too much of the story behind it but got a few patents that were on it ended"
+    },
+    {
+        "start": "00:08:08.320",
+        "end": "00:08:32.160",
+        "text": "up you know given it given that to you know to the business you know we ended up going our separate ways so I wanted to continue to evolve the system and about that time also 1994 1995 was the first right machine that I had built so I took a short wave 1920s back"
+    },
+    {
+        "start": "00:08:32.160",
+        "end": "00:08:57.320",
+        "text": "into crystal radio 100 watt it I modified it so I could do the pulse with my modulation I was using a function generator to you know mimic a similar to what Rife was doing I really didn't see that as a viable market but I was really very interested in the design part of the problem with what I saw that earlier version of the Rife was it was totally analog"
+    },
+    {
+        "start": "00:08:57.320",
+        "end": "00:09:25.800",
+        "text": "so it was it took a little while to set each frequency and it would be very cumbersome to operate so I really liked the you know that that design that we had you know with the spark gap and but I wanted to continue to evolve it and then I think it was about 2003 2004 I came out with the advanced biocharger that added a way of pulsing it a little bit"
+    },
+    {
+        "start": "00:09:25.800",
+        "end": "00:09:52.640",
+        "text": "so I liked that that idea of being able to vary the the output with it so you can pulse it off and on like a Rife machine and then in 2012 I sort of made it automated where I could you know I had pulsed at three different frequencies I could use four hertz I could do 7.8 three hertz I could do 20 hertz but I really saw that there was a big limitation"
+    },
+    {
+        "start": "00:09:52.640",
+        "end": "00:10:16.540",
+        "text": "on really creating like a Rife machine and that was mainly because with the spark gap design you have you know high voltage neon type transformer and as you pulsed at higher frequencies you have these hysteresis losses in the transformers and they would either burn up or wouldn't function properly across the spark gap wouldn't give you the right"
+    },
+    {
+        "start": "00:10:16.540",
+        "end": "00:10:36.940",
+        "text": "voltage so in about 2013 I decided to do a vacuum tube so I ended up doing a vacuum tube test the coil at that point and that allowed me to do modulation with it and I sort of made it like a Rife machine so I actually had an analog function generator attached"
+    },
+    {
+        "start": "00:10:36.940",
+        "end": "00:11:05.220",
+        "text": "to it and was about ready to release that and I drew some interest of a couple of people wanted to invest into this and so we formed a company they invested a couple million dollars into the company they surrounded me a bunch of engineers and took my basic design and as you alluded to earlier we looked at it as you know what would Rife or Lahoski or these"
+    },
+    {
+        "start": "00:11:05.220",
+        "end": "00:11:34.820",
+        "text": "guys do in the 21st century with this would they be using spark gap or vacuum tube which is really 1890s 1920s technology and so we decided to make it solid state and then you know we wanted to be able to you know control it and be able to program it but not like an analog programming but actually be able to create you know digitally these recipes"
+    },
+    {
+        "start": "00:11:34.820",
+        "end": "00:12:03.980",
+        "text": "of programs that would sequence through this and then so with that concept in mind we created the biocharger and gene so you know one of the first things we ended up doing is again writing a or getting a spectrum analyzer we had a third party spectral analysis to just really understand what we were doing with it you know we wanted to make sure we were producing those variable frequencies and harmonics and we were very excited when we saw the"
+    },
+    {
+        "start": "00:12:03.980",
+        "end": "00:12:29.940",
+        "text": "spectral analysis that we received at variable frequencies and harmonics even even more exciting was you know we theoretically predicted what those harmonics would be produced and they actually you know we confirmed that with 30 third party spectral analysis so now we had this platform called biocharger and gene and in 2015 we started selling our first version"
+    },
+    {
+        "start": "00:12:29.940",
+        "end": "00:12:57.620",
+        "text": "and I mean the first one and you know since then I think we've sold almost 3,000 systems worldwide in 48 countries now so that's remarkable and sort of the evolution behind you know the thought process but we really wanted to combine a lot of these different works you know and as I started to understand exactly what we were doing and I saw all these different fields that we were also producing with it so we had this electric field we have"
+    },
+    {
+        "start": "00:12:57.620",
+        "end": "00:13:23.580",
+        "text": "a magnetic field we have this variable frequencies and harmonics and we have light you know so we're sort of bringing together many of these different technologies that are out there are some of that PMF systems and you know that's one of the beauties of a tuss of coils you have this PMF component you know similar to some of those high energy PMF systems that are out there but we also had that high voltage electric field that you know you don't really"
+    },
+    {
+        "start": "00:13:23.580",
+        "end": "00:13:51.500",
+        "text": "get with the right machine right yeah that's kind of that's that's what really drew my interest to the biocharger when I first heard about it was because you know you were are literally the first person I've seen and I've been doing been following this stuff for you know wow that's actually was successfully able to combine some of these different modalities and some of these different technologies because I know for a fact you can't play Rife through a multi wave oscillator you know Likovsky because the spark gap is throwing off right"
+    },
+    {
+        "start": "00:13:51.500",
+        "end": "00:14:20.420",
+        "text": "as you mentioned all these different frequencies and how do you isolate a specific frequency you're trying to target when you've got just this shotgun blast of other frequencies coming through which has its own merit right but you know they're so separate in terms of how they approach you know the effect that you want to get out of them that you know but you were able to you know figure that out which is just amazing so I got so many questions about each one of these individual things but let's get into just an overall picture"
+    },
+    {
+        "start": "00:14:20.420",
+        "end": "00:14:46.700",
+        "text": "of it so like well what's your elevator pitch right now for like what is the biochart you know when people meet you and like what is the biochart you do they see this big thing sitting on a table and and the and it just it looks amazing and super high tech and so how do you explain like well what does that do you know in terms of you know like it's what is its key features yeah so one of the neat things is you have this electric field it also has this high voltage component to it so unlike a Rife machine you don't really"
+    },
+    {
+        "start": "00:14:46.700",
+        "end": "00:15:15.700",
+        "text": "have that high voltage component and we have that PEMF or the magnetic field around the base you know which is really inherent with you know a typical Likovsky machine and variable frequencies in harmonics now you know Rife wasn't really just producing one specific frequency he did have that shotgun as far as a wide spectrum of frequencies but what what was neat about that is as you modulated it different frequencies you would generate unique sets"
+    },
+    {
+        "start": "00:15:15.700",
+        "end": "00:15:43.640",
+        "text": "of hundreds of thousands of harmonics so in my opinion I think that Rife machines were really more of a multi-wave oscillator than a multi-wave oscillator is oh okay typically with a multi-wave oscillator you want to get those one sets of harmonics so and then we have that light component and what's neat is each one has its own unique benefit to it you know that high voltage electric field so what are the things that you know there's"
+    },
+    {
+        "start": "00:15:43.640",
+        "end": "00:16:12.700",
+        "text": "quite a bit of research in this whole field of electroporation they call so the idea of the electric field you could actually stress the cell membrane like a die electric so the principle behind it is you know in healthy cellular function you have these positive negative charges surrounding the cell membrane these positive negative charges when there's sufficient enough they'll trigger eye on channels it could be the sodium potassium pump ATP"
+    },
+    {
+        "start": "00:16:12.700",
+        "end": "00:16:40.920",
+        "text": "mitochondrial function could be they'll take a hormones proteins nutrients and there's also this detoxification effect so you deal with that fermentation of the cell in the nucleus of the cell all that chemistry that's going on you have to deal some of that waste product now as we age that resting membrane potential drops its ability to trigger these healthy cellular functions diminished so the significant amount of research it points that when you"
+    },
+    {
+        "start": "00:16:40.920",
+        "end": "00:17:06.180",
+        "text": "create a high voltage electric field you could stress that cell membrane like a die electric to trigger that healthy cellular function to trigger you know the uptake of nutrients and detoxification now there's another side of it which is the PEEMF side of it or what I consider more the magnetic field so you know magnetic fields work a little differently"
+    },
+    {
+        "start": "00:17:06.180",
+        "end": "00:17:34.340",
+        "text": "than the electric fields by affecting the IOD charges so the magnetic field can't really stress the cell membrane like an insulator or dielectric but what it does is it affects the positive and negative charges so as they're moving around in our body in the presence of a magnetic field it picks up those that electric charge to increase the charge potential to again that trigger healthy cellular function and so they both sort of do the same thing"
+    },
+    {
+        "start": "00:17:34.340",
+        "end": "00:18:03.060",
+        "text": "but in different ways one does it by the the voltage by affecting the cell membrane itself to make it more porous and then the magnetic field works with those IOD charges as they're moving around but the net effect is still both the uptake of nutrients and detoxification okay thirdly we have these radio frequencies and harmonics so whether it's a right machine"
+    },
+    {
+        "start": "00:18:03.060",
+        "end": "00:18:26.260",
+        "text": "or lahoskeys system you know the idea in lahoskeys theories is that you know cells are like these one band radio receivers they're tuned to a specific frequency and it isn't just like this hippie-dippy concept that cells are vibrating but there's a lot of science behind it so if you ever had a say for instance MRI the MRI is based off of a principle called"
+    },
+    {
+        "start": "00:18:26.260",
+        "end": "00:18:51.140",
+        "text": "magnetic resonance so the principle behind magnetic resonance is each cell each molecule atoms absorb and emit specific frequencies unique to itself you can actually identify that type of cell or molecule based off of that waveform so what Rife actually discovered"
+    },
+    {
+        "start": "00:18:51.140",
+        "end": "00:19:20.460",
+        "text": "and what we see subsequently with MRIs is you know they absorb and emit specific frequencies unique to itself so when you generate that right radio station you can actually stimulate specific molecules or cells or even atoms so part of what we do with the recipes or programs is we're producing these variable frequencies and harmonics so in the field of what they"
+    },
+    {
+        "start": "00:19:20.460",
+        "end": "00:19:49.620",
+        "text": "call magnetic resonance spectrum as well as the molecular spectrum that covers the entirety from zero to visible light so by varying these frequencies and harmonics that's how you can become resonated molecules as well as even cells so we wanted you know with what we created we're able to create those variable frequencies and harmonics and how we do that is very similar"
+    },
+    {
+        "start": "00:19:49.620",
+        "end": "00:20:13.140",
+        "text": "to what Rife had discovered so what Rife had discovered was as you take a carrier wave and you modulate it you generate these side band harmonics and as you change those you generate different sets of harmonies or harmonics and I like to compare it to like in music so if you have two different notes you can generate a harmony or harmonic if you change one of"
+    },
+    {
+        "start": "00:20:13.140",
+        "end": "00:20:38.900",
+        "text": "those notes you can generate different harmonies or harmonics so by creating these different pulse frequencies and we can pulse the biocharger up to 50,000 Hertz which is that range that Rife was working with you can now target for particular outcomes and if you understand how you know where you want to target a specific frequency now I can you know pulse it is specific"
+    },
+    {
+        "start": "00:20:38.900",
+        "end": "00:21:04.220",
+        "text": "frequencies it could generate a particular harmonic that could generate a specific cell molecule that we want to target with it which is really the essence of what Rife was working with so you know as part of the biocharger we have these recipes of programs and I think we're up to about 1,500 of them we can generate these different recipes of programs to target"
+    },
+    {
+        "start": "00:21:04.220",
+        "end": "00:21:31.380",
+        "text": "for particular outcomes so then finally we have that visible light component and our light's a little bit different than you know some of the more specific wavelengths that they target but we wanted to be more of that broader spectrum so the broader spectrum we have various noble and inert gases that were producing about a thousand different wavelengths in the infrared far infrared near for ad visible light spectrum so what we're really trying"
+    },
+    {
+        "start": "00:21:31.380",
+        "end": "00:21:58.020",
+        "text": "to do in essence is mimic nature that's really what I think Tesla was all about was mimicking nature and what I mean by that is the lightning discharge so you know most people may not realize it but we have 8 million lightning strikes approximately every day it's about 100 every second and each one's generating unique sets of hundreds of thousands of harmonics"
+    },
+    {
+        "start": "00:21:58.020",
+        "end": "00:22:26.540",
+        "text": "now every other plants doing the same thing the sun what we call solar flares solar storms are really nothing but this atmospheric discharge that contributes to what we call cosmic rays so what we're trying to do is mimic what's going on in nature by you know generating these variable frequencies and harmonics through plasma discharge but we're actually not quite as nature because we could be very specific on the harmonics that we want to generate"
+    },
+    {
+        "start": "00:22:26.540",
+        "end": "00:22:55.260",
+        "text": "with by the way in which we modulate it okay yeah yeah and finally we have a you know that visible light component and you know there's just was so much research in the field of even light therapy infrared far infrared visible light spectrum so that was really the essence of how we pulled it all together and you know when you look at the you know the spectrums of frequencies that were were covering we're pretty much covering the entire from zero"
+    },
+    {
+        "start": "00:22:55.260",
+        "end": "00:23:20.260",
+        "text": "the visible light yeah that's amazing it's amazing you got all that in one device I'm just it's mind-blowing so I guess my question is is like you know you're doing so many different things at the same time with one device but so are you saying that the biocharger then modifies its output based on a specific recipe so like let's say you don't turn on any recipes and you just turn the unit on right is it going to just produce you know electromagnetic field"
+    },
+    {
+        "start": "00:23:20.260",
+        "end": "00:23:49.020",
+        "text": "and and and then the harmonics from that field because of the Tesla coil itself and you're emulating a spark gap with solid-day technology and then if you did run the recipes then the machine starts to modulate the different you know voltage and magnetic field and so forth per recipe or is it like the machine just runs and then you turn on a recipe and it runs based on how you know I'm not sure how to form you know frame the question but you've"
+    },
+    {
+        "start": "00:23:49.020",
+        "end": "00:24:15.660",
+        "text": "got all these different modalities in one device and I'm just wondering does the machine adjust every single time you run a recipe so that it's only playing that recipe the way the recipe or you know that frequency set supposed to have been played is that how that works it's only just it you play just a recipe each one is a has a specific outcome with it I mean sometimes we can mimic you know more of a you know I look at the the biochargers"
+    },
+    {
+        "start": "00:24:15.660",
+        "end": "00:24:41.140",
+        "text": "like an infinite number or infinite number possibilities of multi-wave oscillators so you know typically if you wanted to generate a new set of harmonics with a multi-wave oscillator you would have to change the length of the secondary coil you'd have to change the tuning and the primary coil the capacitance so it's it was a very awkward way of doing it so the"
+    },
+    {
+        "start": "00:24:41.140",
+        "end": "00:25:09.420",
+        "text": "way you know every recipe every you know you can't really run the biocharger without running a recipe and part of that recipe is pulsated or modulated at specific frequencies and sometimes it could be a random event you know where you're not really targeting anything specific but you're still just changing so every second you could generate a unique set of hundreds of thousands of harmonics and it could be more of a random event versus you could be more"
+    },
+    {
+        "start": "00:25:09.420",
+        "end": "00:25:35.460",
+        "text": "specifically targeted so sometimes like with our recipes our programs will slightly change the pulse frequencies so when you slightly change the pulse frequency you slightly change the harmonics that are generated so when you look at it over time or you look at spectral analysis wise those harmonics are very closely together so you would see like clusters over"
+    },
+    {
+        "start": "00:25:35.460",
+        "end": "00:25:58.740",
+        "text": "time those harmonics that you're working with but they wouldn't vary that much with it and then there's more of that random event where you're just changing it you know you know sometimes we may change it by you know 10 hertz at a time or 100 hertz at a time depending on the the recipe or program and when you do that and you sweep it you know so at that"
+    },
+    {
+        "start": "00:25:58.740",
+        "end": "00:26:23.580",
+        "text": "mode you're almost mimicking the the I can't think of what his name is so Boylan Phil Boylan that was working with Royal Rife so when you look at Rife's versions he had he had the first version was he would be more targeted so that was he would pulse it a specific frequency and then he found it if you do narrow sweeps around a specific frequency you would have"
+    },
+    {
+        "start": "00:26:23.580",
+        "end": "00:26:51.300",
+        "text": "a better effect and then Hoyland said you know you don't need to even be targeted you can be more of a random so he would sweep between you know 550,000 hertz is how he was originally working it with and then that was more of a random event so you didn't really have to target it so you know depending on how we create our recipes or programs we'll determine how we're doing that so sometimes we may be more random with it you know sometimes we"
+    },
+    {
+        "start": "00:26:51.300",
+        "end": "00:27:15.100",
+        "text": "create recipes or programs that are you know more of like sound therapy or things like that so you you generate specific pulse frequencies it would be you know more on the like Fibonacci sequence or something like that or soft NGO frequencies but then you know with the you know"
+    },
+    {
+        "start": "00:27:15.100",
+        "end": "00:27:43.380",
+        "text": "other recipes are more mathematically driven like that Fibonacci is I misspoke on that but the Fibonacci sequence would be more so when we pulse the frequencies we would pulse it with Fibonacci numbers so there would be more of a mathematical relationship that you know goes along with it so there were different ways that we created different ways to generate our programs and the other thing that was really neat is you know we get feedback"
+    },
+    {
+        "start": "00:27:43.380",
+        "end": "00:28:06.620",
+        "text": "from other practitioners that are out there that have had other frequency devices that like specific frequencies so they would help to collaborate some of the recipes or programs and what was really neat is you know the bio and biocharger NG is really more of a platform so yeah part of what you do is you connect to the you don't have to run it to be connected"
+    },
+    {
+        "start": "00:28:06.620",
+        "end": "00:28:32.300",
+        "text": "to the internet but you know as we make new recipes or programs it's available to your biocharger you know so we have what we call this by cloud and within our by cloud we have these 1500 recipes or programs that are on there you can access with your computer and then you can the biocharger itself holds about 30 to 40 recipes depending on how long those"
+    },
+    {
+        "start": "00:28:32.300",
+        "end": "00:29:00.340",
+        "text": "recipes are that you can move those back and forth so it was sort of that 21st-century twist that we were I was talking about a little bit earlier we wanted to be able to you know build this as a platform to where you can program it so you know when we first started selling the biocharger we had 10 recipes and we were thinking well if we got the 100 recipes that would just be awesome and you know that continued to grow and grow and grow what was"
+    },
+    {
+        "start": "00:29:00.340",
+        "end": "00:29:28.940",
+        "text": "what's really neat about that is that first biocharger we sold in 2015 has the exact same capability and it has the exact same access to those recipes is the one that's rolled off the shelf now so we wanted to build it more as a platform so we didn't you know obsolete the system in five years to have a new system and you know the other thing it was really neat is you know we have this you know because it's digitally driven and it's this platform"
+    },
+    {
+        "start": "00:29:28.940",
+        "end": "00:29:56.500",
+        "text": "you know we've changed the interface and the way it works and you know the way you access the buy cloud you know we have like Google searchable terms so you can search for specific outcomes you want to look for and it'll list out the different recipes or programs that are available then you can move over you can see what the recipes were designed for you know what we intentionally wanted to target with it the history behind it whether it"
+    },
+    {
+        "start": "00:29:56.500",
+        "end": "00:30:20.660",
+        "text": "was you know practitioner driven we could even make them private recipes or programs and you know we're in many locations and you know a lot of them have franchise so we have custom recipes for these specific franchises and things like that that you know that have biochargers that are included with it that would be more branding towards them so for"
+    },
+    {
+        "start": "00:30:20.660",
+        "end": "00:30:46.860",
+        "text": "instance osteostrong is a company or a franchise company that I think they have like 150 locations and we're almost in all those and we had custom branded recipes that were targeted for the osteostrong group so that was part of our intention that we created with it that we could you know enhance this ability over time and then you know we're even continuing to"
+    },
+    {
+        "start": "00:30:46.860",
+        "end": "00:31:11.540",
+        "text": "build out on that whole process so you'll not only be able to search for specific recipes but what other recipes would be good for so we're building out the you know our ways in which you could create what we call recipe plans and things so that's some of the things that we have in the works that we're building out and as part of you know what we have with"
+    },
+    {
+        "start": "00:31:11.540",
+        "end": "00:31:36.580",
+        "text": "the biocharger we have an outstanding support team and then in advanced training and part of that in advanced training we work with the nurse practitioner who's had a biocharger originally and was really good at using the biocharger and approaching it from a functional approach so for instance if you had acne or something like that it may not just be acne"
+    },
+    {
+        "start": "00:31:36.580",
+        "end": "00:32:03.140",
+        "text": "it's the issue or skin it's the issue but it could be like liver kidney so right part of her work was we were you know building out different recipe programs so we're actually now taking her skills and then putting that into our you know advanced systems that were building out within the my cloud that now you will you will be able to search a recipe"
+    },
+    {
+        "start": "00:32:03.140",
+        "end": "00:32:30.860",
+        "text": "and then it'll give you other recipes to choose from or if you have you know if you're like a gym or something like that and you have like a a set of you know an outcome that you want to do and you want to give them like a recipe plan is you will then you know for the practitioner they would have like this recipe planned that they would follow up follow but that's part of you know what we build out into it so it isn't just this you know simple system but"
+    },
+    {
+        "start": "00:32:30.860",
+        "end": "00:32:54.180",
+        "text": "you know there's a lot of thought behind it and there was also you know some foresight that we had into it so for instance in the back we also are able to do audio modulation so I don't know if anyone have ever seen like the singing Intessa coil type system so you know the old spark gap designed you hear that hissing sound whereas with the biocharger it"
+    },
+    {
+        "start": "00:32:54.180",
+        "end": "00:33:19.580",
+        "text": "produces different tones so by adding this audio component and you know audio modulation on the duty cycle we could actually literally play music off the top of it if we want or you could add different tones or frequencies to it to create more harmonics so you know we tried to build things out and that's all built into that first 2015 system so you know"
+    },
+    {
+        "start": "00:33:19.580",
+        "end": "00:33:49.300",
+        "text": "we haven't released the audio modulation part to the public you know and we're building out our software to help manage you know running that you know we had the foresight to try to include as many things as possible that we wanted to include into the biocharger. You know you hit on a really important point and that's every device I've ever purchased usually comes with a book if that maybe a tutorial if you're lucky and a steep learning"
+    },
+    {
+        "start": "00:33:49.300",
+        "end": "00:34:19.220",
+        "text": "curve and you know and I've looked at what you guys are doing and you've got this incredible big you know tutorial base plus you've got the consultants and yeah that's that's the smartest move I could ever imagine somebody doing is having a person just work with somebody it says oh you got acne but you know it's not just run the acne frequency you know which is your typical rife response right you go by a rife machine you look in the book says acne and you run that frequency but it may not even be acne and having that"
+    },
+    {
+        "start": "00:34:19.220",
+        "end": "00:34:47.620",
+        "text": "consultant and having the recipes is that's brilliant I mean that's pretty cool so you know let me ask you though so I guess from the from the average person who's not used to high voltage devices I guess one of the first things I want to just kind of talk about is that is you're put you're producing this really strong electromagnetic field in somebody's home or in their office right so what's your response to the to the question is like wow you know when I look at the specifications and I see that the voltage putting out and"
+    },
+    {
+        "start": "00:34:47.620",
+        "end": "00:35:14.700",
+        "text": "the machine's putting out up to 600,000 you know 600 kilovolts or 600,000 volts and you know how is that a safe thing for people and and and what are the precautions that come around having that strong of an electromagnetic device inside your your office or home yeah yeah so obviously you wouldn't want to grab so we have if you notice at the very top of arkrod it's where the spark would be emulating but one of the neat things about the biochargers"
+    },
+    {
+        "start": "00:35:14.700",
+        "end": "00:35:42.100",
+        "text": "you can take that ark rod off so one of the drawbacks that we always saw with the multi wave oscillators systems was they were too noisy to really operate in a professional setting other drawbacks also were the ozone that was generated as well as yeah adjustment of the spark cap so you have to have some precaution in and around the torroid you know so that's"
+    },
+    {
+        "start": "00:35:42.100",
+        "end": "00:36:09.700",
+        "text": "part of the reason why we have that enclosure that's around the top of it to keep people from actually physically touching the torroid now they could if they really wanted to reach up and talk touch the top of it but we have many safety signs and things like that you know so part of what and it's unusual compared to these you know many of these other especially multi wave oscillator type of devices is we have our CE markings and you know so part of"
+    },
+    {
+        "start": "00:36:09.700",
+        "end": "00:36:35.580",
+        "text": "that CE markings if you go through our booklet and things you know there's that circle safety that you have and you have to have the right markings that are on it so you know you become very comfortable with it and you're really just more or less sitting around it like a campfire so there isn't any need to physically touch it because of the type of field that we're generating with it so right away people at first they become you know when they first"
+    },
+    {
+        "start": "00:36:35.580",
+        "end": "00:37:03.220",
+        "text": "turned it on they're like wow in it but you know right you know once you get comfortable with it you know people are totally fine and that you know that 600,000 volts sounds very high but if you look at some of the original multi wave oscillators they were operating you know well within those ranges as far as a voltage output so and they had those rings wide open but you know one thing that's relatively safe about it it you know like any multi wave"
+    },
+    {
+        "start": "00:37:03.220",
+        "end": "00:37:32.140",
+        "text": "oscillator a tussle coil if you get hit by one of those sparks you know it may startle you a little bit but it's not really going to hurt you yeah we don't ever recommend you doing that what they will do is if you try to arc it near the enclosure to mark up the enclosure more than anything else and that's the thing we don't really want to you know it's more of a cosmetic thing than it is anything else with the markings that are on it and one thing it's you know the other thing is part of our CE markings is you know we had to make"
+    },
+    {
+        "start": "00:37:32.140",
+        "end": "00:38:00.140",
+        "text": "it out of special material you know so it has to be certain fire rated material so if in case for whatever reason it becomes an arc on there and you get something that starts to burn on the plastic or something like that you know not that we ever have that issue but we wanted to make sure we used the right materials that you know that's you know safe it's not going to transfer flame and you know burn up or anything else like that so we want"
+    },
+    {
+        "start": "00:38:00.140",
+        "end": "00:38:26.380",
+        "text": "to make sure we have that that's part of the reason why we have that emergency stop that's on there we have certain filters are on it too so one of the other issues you typically have with the multi-wave oscillators is you get a lot of noise being fed back into the power line so one of the part of our requirements that we also had you know as part of our CE markings as we had to have certain filters on the power line to filter out all that stuff"
+    },
+    {
+        "start": "00:38:26.380",
+        "end": "00:38:50.780",
+        "text": "that we're not feeding anything necessarily back into the power line that would you know create noise into the system that would you know transfer and interference and you know communication phones and things like that oh yeah I mean that's that's one of the things to yeah I mean I've had a lacoskey multi-wave oscillator I've actually got a I actually have a bells knockoff right now that I got a few months ago I've also got like a single"
+    },
+    {
+        "start": "00:38:50.780",
+        "end": "00:39:19.780",
+        "text": "antenna one and I can't you know I'm just like you I've been zapped so many times but you know looking at the biocharger from your description it just seems to me the most literally the safest device I've seen I actually saw when your new testimonial video came out for the biocharger today and I saw that that center had a plexiglass covering for that little arkrod so that even you know so no no curious customer or client could go hey what's that"
+    },
+    {
+        "start": "00:39:19.780",
+        "end": "00:39:47.340",
+        "text": "and touch it with their finger they actually had it enclosed so I thought that was like okay that's pretty smart because you definitely don't want to touch it but okay that was also more of a noise dampener you know so yeah yeah people still love to see that spark you know sometimes when you see a test of oil you don't have an arkrod on there you're thinking you know it just looks more like a lamp or something like that or the Tesla enthusiasts are like there's no there's no output to it but no no no yeah what happens is the energy"
+    },
+    {
+        "start": "00:39:47.340",
+        "end": "00:40:12.500",
+        "text": "stored on the toroid and you know you could run it with or without the arkrod in there we have like a nylon plug that we can put into the top of it so where it's totally quiet all you hear is maybe a slight noise from the fans and things like that but it's that was one of the other things that we really wanted to build into that system so you you can really"
+    },
+    {
+        "start": "00:40:12.500",
+        "end": "00:40:37.940",
+        "text": "use it in that professional study without having to listen to that noise all day long so you can imagine having a multi-wave oscillator running in the office you know the people working in the office would get really tired very fast with that as well as with all that ozone and stuff like that that's generated so one of the things that we thought was really neat was you know part of that spectral analysis we looked at it from with the arkrod and without"
+    },
+    {
+        "start": "00:40:37.940",
+        "end": "00:41:03.740",
+        "text": "the arkrod you know so we wanted to make sure that you know we're still producing that same voltage output which we are we're still producing the same PEMF we're still producing the exact same variable frequencies and harmonics you still have that same light component you know you may not get you know and with the solid state version you don't really generate as much ozone so even if you have that arkrod in there and you see that corona discharge"
+    },
+    {
+        "start": "00:41:03.740",
+        "end": "00:41:30.860",
+        "text": "it's not nearly as much ozone as what you would typically see with the you know with the multi-wave oscillators especially ones with the larger corona discharge with it but still have that voltage component which is something that we really didn't want to lose when we went to this solid state version with it no that's really smart I mean you know my Likovsky rep I had a replica of it dual antenna and I had to keep the fans on just"
+    },
+    {
+        "start": "00:41:30.860",
+        "end": "00:41:56.940",
+        "text": "to dissipate the ozone when using it plus you know the you know the antennas are right out there and you'd bump against one and it hurt so yeah that makes a lot of sense and then you know I think the other issue too is just keeping it safe yeah and but it is I just wanted to stipulate that anyone that's never experienced one of these devices it is really safe to be in a high voltage field I mean just being in the field is a you know it's perfectly fine and then the course the issue here is touching it in the ozone so"
+    },
+    {
+        "start": "00:41:56.940",
+        "end": "00:42:26.020",
+        "text": "seems like you really you know kind of you know solve those problems so the other the other question I had about the is you made a comment I think in a video with Luke's story about that you controlled the duty cycle and and and so could you kind of explain like what does that mean you know like in terms of how the device runs as to the duty cycle and the waveforms coming out of the device yeah so within a any recipe we're pulsing"
+    },
+    {
+        "start": "00:42:26.020",
+        "end": "00:42:48.420",
+        "text": "it at specific frequency so what I mean by pulsing it is we're literally turning off and on the radio transmitter at certain frequencies so you may be turning it off at say 10 hertz so that means that you're literally turning it off and on 10 times a second now the duty cycle what you're varying is the difference between the off and on cycles so for instance"
+    },
+    {
+        "start": "00:42:48.420",
+        "end": "00:43:11.100",
+        "text": "if it was 50% duty cycle it would be equally off on for that so at 10 times per second you're turning your each off on is one tenth of a second so it could be on for 50% of that one tenth of a per second and then it would be off for 50% now if he did it at 10% duty"
+    },
+    {
+        "start": "00:43:11.100",
+        "end": "00:43:38.540",
+        "text": "cycle it would only be on for that one tenth of a second for you know 10% of that time and then it would be off for 90% time or vice versa vice versa it would be 90% so if you had it 90% duty cycle and part of the reason why we do that is as you pulse it at higher frequencies there is more of a randomness that's happening so if you're pulsing it off and"
+    },
+    {
+        "start": "00:43:38.540",
+        "end": "00:44:03.420",
+        "text": "on at say 50,000 hertz you could be pulsing it on it you know because you produce an assign wave as that carrier wave you could be at that zero point at the you know if the duty cycles too short and it wouldn't really you don't see much of a corona discharge you're not really seeing much action from the magnetic field so we would increase the duty cycle"
+    },
+    {
+        "start": "00:44:03.420",
+        "end": "00:44:29.740",
+        "text": "higher to allows you to be on longer period of time to catch more of that full part of that waveform versus you know when it's you know it's lower duty cycle what will happen is you you would you there's a good chance that you would be at that low point in other words so okay we also wanted to have that part of that variability with the duty cycle"
+    },
+    {
+        "start": "00:44:29.740",
+        "end": "00:44:56.740",
+        "text": "that's where we added the audio modulation so what we're able to do is vary the duty cycle by audio tone so by doing that you can you know that's really you can literally play music from that by doing that now it may sound a little choppy you know almost you know when you run it it sounds like an am radio played really loudly you may have that little hissing"
+    },
+    {
+        "start": "00:44:56.740",
+        "end": "00:45:25.700",
+        "text": "sound from it but you clearly you know if you listen to the music you can clearly hear all the instruments playing you can recognize all that's Tom Petty for instance if you wanted to play Tom Petty through it you know Bruce Springsteen you can play Mozart through it I mean there's all sorts of different ways you can you know work that duty cycle plus you can pulse it I mean you can run a duty cycle of different with the audio you can literally"
+    },
+    {
+        "start": "00:45:25.700",
+        "end": "00:45:54.900",
+        "text": "play a specific tone with it and when you do that you get more headro dining as more as harmonics you can generate with it so there's a lot of different benefits within that duty cycle that you can add another dimension of ways to generate more harmonics with it is that something that the user controls or is that kind of built into the recipe so that the recipe tunes it for you don't have to learn it yeah that would be part of the recipe"
+    },
+    {
+        "start": "00:45:54.900",
+        "end": "00:46:22.860",
+        "text": "okay yeah that would be created we haven't built that part all out yet but you know the way the way I use it right now is we have like a Bluetooth receiver that you can hook up to your phone for instance that okay we have an optical port in the back that feeds the the duty cycle so you know you're varying the duty cycle up and down to music is what you're doing yeah and the first time I heard it I was just completely blown away you know"
+    },
+    {
+        "start": "00:46:22.860",
+        "end": "00:46:50.940",
+        "text": "literally here you know Mozart coming off the top of it and part of the way we have the recipes we are still pulsing it you know so we really believe that pulsing is really an important part of it you know because that's really what nature is all about is you know it's pulsing off and on if you have that continuous wave you can make the music clear but you're really losing that benefit that you would be getting with the you know that pulsing event"
+    },
+    {
+        "start": "00:46:50.940",
+        "end": "00:47:17.740",
+        "text": "so we wanted to be more of that pulsing effect versus you know the other part and you know one of the quotes that Nicola Tesla's famously you know talks about is you know in lightning he hears it's like a symphony to him you know so you know literally now it becomes more of a symphony you know just not just a note now you know when you play music throughout it now it becomes almost more like a symphony so you're literally bringing delight with"
+    },
+    {
+        "start": "00:47:17.740",
+        "end": "00:47:41.460",
+        "text": "Tesla was talking about as you know lightning playing music right which is nature so okay so then you didn't mention waveforms and so there's lots of different you know devices out there and they all have different waveforms and so there's the issue of longitudinal versus transverse and then there's the type of wave circuit you kind of does your does the biocharger"
+    },
+    {
+        "start": "00:47:41.460",
+        "end": "00:48:09.700",
+        "text": "put out put out different waveforms based on recipes or is it okay well there's a type of waveform which is the the square wave so we're you know with a typical right machine it's more of a square wave off on type of thing but within that there are you know frequencies of harmonics that span AM FM shortwave longwave UHF VHF microwave millimeter that's part of"
+    },
+    {
+        "start": "00:48:09.700",
+        "end": "00:48:37.300",
+        "text": "those hundreds of thousands of harmonics that you're generating with the waveform so there's multiple different types I look at more of it's a complex waveform that you're generating with it so you have your carrier wave you have your harmonics that you're generating you have your subharmonics that you're generating but overall it's like a pulse sine wave is what you're ultimately doing but within that pulsing is the pulsing is really what's generating"
+    },
+    {
+        "start": "00:48:37.300",
+        "end": "00:49:04.860",
+        "text": "the the harmonics with it okay so more of a pulse sine wave but you mentioned pulse sine wave and then square wave so is it a combination of the two and it's just running pulse it means it's a square wave it's off on type of thing so it's a square wave meaning you have off on off on but okay within that square wave you can generate the harmonics with it okay reality that's really what's happening like with the multi wave oscillator but the"
+    },
+    {
+        "start": "00:49:04.860",
+        "end": "00:49:33.340",
+        "text": "issue what happens with the multi wave oscillators you have that pulsing from the spark gap so there are periods of time where it's off on but that's driven by that 60 hertz so there's a 60 hertz component of that off on that's being generated with it that creates the harmonics that you see with it now for instance if you take a multi wave oscillator and go to 50 hertz versus 60 hertz you with the same setup you'd have to tune it a little bit differently"
+    },
+    {
+        "start": "00:49:33.340",
+        "end": "00:50:01.980",
+        "text": "but you would still generate the different harmonics just because of the wave you know the wave which the 50 hertz versus 60 hertz what we found is you know the wave which we do the biocharger and part of our intellectual property we built into the biochargers on the primary side you know we have a it's a pure DC so we we developed the you know some proprietary ways of generating pure DC that we're chopping up to be whatever we want"
+    },
+    {
+        "start": "00:50:01.980",
+        "end": "00:50:26.140",
+        "text": "it to be as far as that side wave and I mean that that square wave that we're doing with it okay no that's fascinating okay no no that makes sense all right so let me kind of talk about how the biocharger compares to other things you know in great description up to this point I you know it really helps me understand it better so I grabbed this diagram off of"
+    },
+    {
+        "start": "00:50:26.140",
+        "end": "00:50:54.340",
+        "text": "a lecture that Aaron Miracami made over it really did this lecture and video where he basically was comparing the Tesla multi wave oscillator there's really I don't know there's not really a name of that device you know that that old story you know of Tesla and his friend Samuel Clemens came in and played with one of his machines and that's what got him into the whole you know health thing but you know so in the diagram I mean Aaron kind"
+    },
+    {
+        "start": "00:50:54.340",
+        "end": "00:51:22.380",
+        "text": "of just put in these golden mean antennas but I don't I don't really know what antennas they actually use I'm thinking you know it could be anything because of Tesla but the Lacoskey definitely used golden mean antennas so I got three questions and you already addressed the first one which was frequencies so you know the spark gap is producing the majority of the frequencies although to like let's say Bob Beck kind of claimed that you know the capacitance between the rings also produce frequencies but not as much as the spark gap"
+    },
+    {
+        "start": "00:51:22.380",
+        "end": "00:51:47.620",
+        "text": "would that be correct in terms of just yes and actually wait Bob Beck had his setup as he had to ground in the middle of it so right that's some of those earlier versions that would spark between the the rings that he would have in there right the original multi wave oscillator really did not have that now one of the things as you shown in the diagram on the left is you have really on the the left part of the coil is really really the transmitter"
+    },
+    {
+        "start": "00:51:47.620",
+        "end": "00:52:10.740",
+        "text": "side and then the other side is more of a receiver side of it so there is that second coil that's on the right isn't really connected anything but it's really acting more as that antenna receiver yep that you would typically see like with a radio transmitter receiver type now the picture that you have on the right which you call the Tesla multi wave oscillator"
+    },
+    {
+        "start": "00:52:10.740",
+        "end": "00:52:39.540",
+        "text": "I would consider more of that the we now it's spelled O U D I N type of coil so if you notice on that one you have that primary is more in the middle of it and really with that one I consider that one and it's you would you don't really necessarily see it with this diagram but typically what they would have is they would have the secondary coil more horizontal not vertical and then what they would do is they would put the primary in the middle of"
+    },
+    {
+        "start": "00:52:39.540",
+        "end": "00:53:08.340",
+        "text": "it so it act like two coils that were out of phase with each other oh it was more of that effect that you would see on some of those earlier even Tesla devices you would see where they have like two spots and they're arcing between the two of those that's typically that type of design he didn't really have the multi wave oscillator antennas with that but it was really more of that I consider those they're both really out of phase with"
+    },
+    {
+        "start": "00:53:08.340",
+        "end": "00:53:34.020",
+        "text": "each other but one is more acting like a transmitter receiver whereas the other one are literally two transmitters but in reality they are transmitter receivers at the same time so you ever set up you know like a receiver coil so I've taken like a biocharger and actually had like a secondary coil like like the one that would be on the left of it where it was just simply"
+    },
+    {
+        "start": "00:53:34.020",
+        "end": "00:53:59.300",
+        "text": "a coil next near the biocharger I could get sparks off of both of the coils even though the one when you looked inside the box there was no you know primary coil there was no switching whether it was a spark gap or back into your solid state there was none of that it was just simply a receiver that was tuned to that specific frequency of the carrier"
+    },
+    {
+        "start": "00:53:59.300",
+        "end": "00:54:28.960",
+        "text": "wave that it could feed it and you know there were setups that I've had in the lab where I could fire that coil you know eight feet away with the biocharger with that receiver setup and still pull a five or six inch spark off of the other one so so they're sort of little different the same I mean you could sort of create that same effect if you wanted to have two biochargers running at the same time we you know we have people that will"
+    },
+    {
+        "start": "00:54:28.960",
+        "end": "00:54:58.180",
+        "text": "do that type of setup and then sit in between both of them one thing it's pretty neat about that is when you run two separate biochargers like that and once generating a unique set of hundreds of thousands of harmonics another one student another set that are different then you get this heterodyne effect where you're generating even more harmonics because there's the mix between the two of them okay well that's interesting I even thought about that yeah because"
+    },
+    {
+        "start": "00:54:58.180",
+        "end": "00:55:27.300",
+        "text": "this one right here is kind of a the replica that I was using this was exact configuration yeah that's more of Lohoski's design quite Lohoski kind of had the patient with their feet on the ground they were grounded they sat between a transmitter and a receiver and yeah you were getting major sparks off the transmitter and minor sparks off the receiver but I'm kind of curious about the Tesla because apparently Tesla didn't ground you know the individual they actually were you know getting the you know they were sitting between the fields"
+    },
+    {
+        "start": "00:55:27.300",
+        "end": "00:55:52.980",
+        "text": "and they were not grounded so they were getting that whole I guess it's called induction like bird on the wire effect as opposed to being grounded out where 50 percent of the of the energies flowing to ground and the person becomes the conduit but in the Tesla mode it's more like you're you are it's you're enveloped by this and you're not it's not leaving you it's just you're you're just basically submerged in the field and all of the energy is being you're being"
+    },
+    {
+        "start": "00:55:52.980",
+        "end": "00:56:20.020",
+        "text": "exposed to all of that energy so I guess I know the ground what the biggest you have with the insulated off the ground is you have the that induced voltage so you know you know I always like to compare the the bird on the wire so you got the bird on the wire wise and he getting electrocuted is because he's not on ground now if you brought a wire up to that bird up there yeah put his feet up there you'd frighten an instant so yeah you don't get that"
+    },
+    {
+        "start": "00:56:20.020",
+        "end": "00:56:42.820",
+        "text": "instant induced voltage and you know I also had an experiment that I had at home one day I was just playing around and I had you know biocharger earlier version next to a wood burning stove and I had to see a little piece of lint that was on there so I brought my hand over by it and I could cause that piece of lint to stand up on its edge about three or four inches away and I'm standing"
+    },
+    {
+        "start": "00:56:42.820",
+        "end": "00:57:11.060",
+        "text": "on a wooden floor that you know that's on a foundation and not on a fine well it has the yeah the foundation around the edges so I had the gap between the the wood floor and the actual earth ground the ground itself and then I put my feet and I stood up on a milk crate and I did the exact same thing and I could cause that the lint to stand up about you know two or three feet away"
+    },
+    {
+        "start": "00:57:11.060",
+        "end": "00:57:40.820",
+        "text": "from it just from that static electricity I was building out and it made me realize that you actually get more of an induced voltage doing it by being more insulated oh yeah that kind of reminder I was going to ask you about humidity you made a comment in one of your interviews about humidity and I was just going to ask you about that because you know as I mentioned I have a bells you know the you're one of your first iterations I have a knock off of that device and I noticed that when the humidity changes in my house you know I have to be really careful about how"
+    },
+    {
+        "start": "00:57:40.820",
+        "end": "00:58:10.740",
+        "text": "close I put my hands to it because when it's really dry that thing will throw out an arc really easy you know and so like how does I work how did because I know you dampened that in the biocharger right the you did something that humidity changes identity that's just the nature of the air itself okay it becomes a little bit less or more conductive is really what happens and yeah that that even translates all the way down to the spark gap in that version of it oh yeah you know so one of the things that's really neat with the solid state version is you're not getting"
+    },
+    {
+        "start": "00:58:10.740",
+        "end": "00:58:38.180",
+        "text": "that variability with humidity with the spark gap you know you're controlling it purely with the solid state so you're not going to get quite as much variability off the top of it although one thing that we have noticed is when there seems to be more solar activity you know from you know solar storms and things like that the corona actually gets a little bit bigger on there so there are so many different influences that you could have same thing with altitude too so"
+    },
+    {
+        "start": "00:58:38.180",
+        "end": "00:59:04.020",
+        "text": "you know we noticed that you know higher altitudes because it's thinner air it's going to you know the air is going to break down easier so you're going to see a larger spark from it oh yeah that's interesting i'll have to do some yeah i'll do some testing with it then let's see what it works how it works in during a lightning storm it's see what i mean i used to be able to see things the other thing i used to see every once in a while it was just so weird is if especially after you know like"
+    },
+    {
+        "start": "00:59:04.020",
+        "end": "00:59:32.100",
+        "text": "you say a lightning storm afterwards there was there was something that was in the air that even when i shut off the biocharger i i would see my fluorescent light tube still blinker over time i don't know yeah never understood exactly what was causing that but there are certain times that you will see things like that that will occur during the storms and the other thing i also noticed that as you mentioned is the variance of sparks a little bit i always could tell that"
+    },
+    {
+        "start": "00:59:32.100",
+        "end": "00:59:59.540",
+        "text": "some storm was coming in if i was seeing more activity with corona discharge with it yeah no that's that's yeah exactly whenever i use mine i'm watching the device and and seeing what it's doing and it's different every time no that's really cool okay so we talked about grounding versus not grounding and the issue of frequencies spark gap versus you know the way you've designed it which is brilliant so let's talk about this other issue though about the difference which is the"
+    },
+    {
+        "start": "00:59:59.540",
+        "end": "01:00:25.940",
+        "text": "dual antennas and then you went to a single antenna so in and i'm just just wanted to throw this out at you but you know i know that the lacassie was basically in as well as tesla you sat between two antennas and you were it kind of produced this field you know transmitting to receiving and you said in between but with this single antenna design especially since your original devices had this rodent coiled now you've now changed it to an aluminum toroid right"
+    },
+    {
+        "start": "01:00:25.940",
+        "end": "01:00:55.300",
+        "text": "which i'm assuming so it might correct to assume that because you've changed it to a single antenna toroid that you're not the older way of doing it the clocked tesla way of doing it was sit between two antennas so that you're enveloped in the field but now you've got this ability to just produce the field from one antenna creating a toroidal effect so that it's kind of just basically emitting this current and then kind of coming back onto itself is that is"
+    },
+    {
+        "start": "01:00:55.300",
+        "end": "01:01:23.140",
+        "text": "that about is this diagram kind of a representation of how does a one it's almost a field that you generate i mean both of them will do it's a field that you're interacting you're going to have two antennas like that but with the one of it but the other thing that you know we um we didn't realize it at the very beginning but definitely after covid you know there's a social aspect of the biocharger you know so typically like with the multi wave oscillator you're sitting in between"
+    },
+    {
+        "start": "01:01:23.140",
+        "end": "01:01:49.380",
+        "text": "these antennas you know you're you're worried about whether or not you're going to get sparked with each other and uh whereas with this one you have this uniform field so with this uniform field you can now sit multiple people like you're showing two different people but you could easily sit you know three four five people around it right right they're all still really within that exact same type of field and now it becomes more of a social event and one of the things that we're"
+    },
+    {
+        "start": "01:01:49.380",
+        "end": "01:02:19.220",
+        "text": "seeing especially in businesses that people are really attracted to that part of it you know but it actually becomes this event that people like to go to and you know many many locations you know they've met new friends as a result of that you know and they also get to have that shared experience that goes along with it you know we have places that use it for meditation or breathwork or you know however you want or you're just socializing you know there's this aspect of"
+    },
+    {
+        "start": "01:02:19.220",
+        "end": "01:02:45.060",
+        "text": "having that connection communally and where you can share your shared experiences we find that that's also a very powerful part of that biocharger that you're you have this shared experience with people and you know people like that you know you know medicine has gotten so isolated you know you consider hundreds of years ago you know when our fellow friends would become sick first thing we"
+    },
+    {
+        "start": "01:02:45.060",
+        "end": "01:03:12.500",
+        "text": "would do is you know bring them food you know we would help them with their crops you know we would pray for them and things like that nowadays everything is just so isolated we just feel so alone with it and this sort of brings that community back together and people really are gravitating with it and that's really part of the the attraction with the biocharger especially in a professional setting is people really like that yeah you know I think you're really kind of hit on something that is"
+    },
+    {
+        "start": "01:03:12.500",
+        "end": "01:03:42.340",
+        "text": "really a unique aspect of the device is that it's meant for groups of people because you know I'm really into all these different you know things and and one of the things that I've been looking at recently is just the you know like these ancient you know like cathedrals and chambers and how they're not really churches they're more like healing centers you know like the the windows and then the sculptures everything are based on somatic designs you know of frequencies on water and then there's certain frequencies that these these buildings will create and they're meant for"
+    },
+    {
+        "start": "01:03:42.340",
+        "end": "01:04:07.140",
+        "text": "groups of people to come in and do group healing you know that's what these ancients did with these frequencies and these structures and so that makes a lot of sense to me and then so you know if you you know I just for the for the folks that aren't really familiar I don't know I'll just do a real quick one if you don't mind Jim but I just kind of wanted to show people like you know this was I don't know how many years ago is this I mean you started tinkering around it's 80 years ago right"
+    },
+    {
+        "start": "01:04:07.140",
+        "end": "01:04:31.220",
+        "text": "80 years ago the original idea of using you know electricity for healing and wellness came from you know this Tesla and Likovsky but this is what it looked like and you know when I was using my Likovsky the you know basically following his guidance is 30 inches right it's 30 or 33 inches between the antennas and it's just this is how it looked when people were using these devices in"
+    },
+    {
+        "start": "01:04:31.220",
+        "end": "01:05:00.900",
+        "text": "the medical field and also for healing and wellness back in the day 80 years ago this is what the device looked like and this is the original olesa that Likovsky created and this is all of the archival footage you know pictures of what people were doing and so you could see that it was a singular experience and you had to be like 30 inches you didn't get a lot of space and that's why I always kept getting shocked all the time because 30 inches is not very wide and so you always end up bumping"
+    },
+    {
+        "start": "01:05:00.900",
+        "end": "01:05:26.660",
+        "text": "it with a knee or an elbow and you just get zapped and then but the whole idea though is people sat between these antennas and I think that I think it's just so cool what you created so that you basically have taken this you know this experience and you've created this group environment and I think that and the field is huge it's six feet in diameter right so well it follows the inverse square like anything else does oh yeah obviously the closer you get right we try to keep it uniform"
+    },
+    {
+        "start": "01:05:26.660",
+        "end": "01:05:56.580",
+        "text": "by we all sit within you know two to three feet around the biocharges the the ideal of what we try to do with it okay so you say you get you know a group of people you could easily sit you know five or six people around it we typically don't sit behind it just because you have the power cord and things like that around it okay you don't really want to stand on the power cord or something like that when you're that close to it no that right that's good point the inverse square rule for those of you who haven't heard that before Jim what's the best way you'd describe that so"
+    },
+    {
+        "start": "01:05:56.580",
+        "end": "01:06:25.700",
+        "text": "every time you double the distance it's one fourth the power there you go so you want to sit so even though the field is six feet then it's more like the same thing with the lacoskey right which is you want to be close to it you know within 30 inches or 36 inches or 36 inches yeah you get the voltage to make that field you know so that that stuff drops off pretty quickly within and yeah you can get it a little further out but you know when we started to look at it people were like yeah I would look at it like the rock concert you know when you got the free rock concert tickets everyone"
+    },
+    {
+        "start": "01:06:25.700",
+        "end": "01:06:51.460",
+        "text": "wanted to front seat you know and then the next question is B is you know if i'm you know a little further out am I getting the same benefit well really no you're not so it's not exactly the same even though you're in a field you probably will get benefit it will be different than the the one that's sitting closest to it yeah no yeah that's funny you mentioned that I originally lived in Honolulu for a long time and they got the Waikiki shell and I can't tell you"
+    },
+    {
+        "start": "01:06:51.460",
+        "end": "01:07:17.940",
+        "text": "how many different concerts I attended sitting outside the shell yeah exactly yeah you know we all be doing the our well my my first when I was first doing it in Montana when I first started selling the Bell system I used to just have an open door policy and people would come by I think I ran it like two or three times a day and I'd have sometimes 20, 25 people standing around it you know all at once and you know that part is a neat experience I mean there is that power"
+    },
+    {
+        "start": "01:07:17.940",
+        "end": "01:07:44.980",
+        "text": "the numbers you know just like in prayer or meditation anything else like that you get a group of people together people like that experience more than individually but then there's always that you know loss effect that you get further out that goes on with it yeah so I took a look at your the 114 page user guide which I think is fantastic that there is a guide and it's extremely detailed and then so I just want to point out some things and if you could kind of touch on them and why"
+    },
+    {
+        "start": "01:07:44.980",
+        "end": "01:08:13.780",
+        "text": "they're so important and you know just for people that are interested in experiencing the biocharger but I kind of just pulled four real important things from the usage standpoint which you know staying hydrated you know again this you know sit within three feet from the biocharger for the best effect and keep your feet off the floor which is that grounding issue and then this whole thing about not touching others you know don't because you don't spark right is that kind of way you spark between it yeah my earlier versions when I was building you know so"
+    },
+    {
+        "start": "01:08:13.780",
+        "end": "01:08:42.740",
+        "text": "my first multi wave oscillator I was getting about a foot and a half spark off of each ring and you know this is when we were all young and dumb and the I the game was as you'd sneak up behind the other guy we used to be able to pull sparks sometimes four or five inches off of the guy's ears so what the worst part about it is the guy would point the finger and get behind the ear he didn't feel anything but the other guy he felt it a lot worse so that's that's part of"
+    },
+    {
+        "start": "01:08:42.740",
+        "end": "01:09:10.660",
+        "text": "the reason and also part of that same story back in the day you know I had a guy that was like well what would happen if I was grounded and I grabbed a spark and I was like you really don't want to do that you probably feel a lot more and he was super brave he's like I'm gonna go ahead and do it and boy it hit him pretty hard so that whole idea of being insulated off the ground is always the better idea than being barefoot on you know a concrete floor or something like that so"
+    },
+    {
+        "start": "01:09:10.660",
+        "end": "01:09:35.540",
+        "text": "that's more of like that induced voltage that you get with it you know that's part of the reason why you want to have your feet up off the ground and you know that three feet within a three feet distance is really that maximum field that you want to be in yeah and then of course there's precautions so I think it's real important and I warn people in all of my videos about these devices is you know that this is absolutely not for people who have electronic implants"
+    },
+    {
+        "start": "01:09:36.420",
+        "end": "01:10:05.700",
+        "text": "and I saw that warning all throughout your guide so bottom line though unfortunately everyone if you've got an implant or you've got a device that's attached to you insulin pumps those kinds of things I mean you just don't want to get into this high voltage field and it's a precaution I guess more than just a precaution it's a warning don't do it right well for us it's so part of the you know that CE markers they you know they they were the ones that really came out with that part of it saying"
+    },
+    {
+        "start": "01:10:05.700",
+        "end": "01:10:32.420",
+        "text": "it yeah you know like electronic parts and things like that we still have people that have pacemakers that will use a biocharger but they typically sit about you know six feet away from the biocharger so you may not get as much of that magnetic field in the you know the electric field but you still are getting the benefits of the radio frequencies and harmonics and you also are getting the benefits of the the light obviously light will travel you know further distance and that but they all follow"
+    },
+    {
+        "start": "01:10:32.420",
+        "end": "01:10:58.900",
+        "text": "that inverse square loss but you know depending on the you know the how far away you are and things like that so but definitely a hard no is any electron what I call electromechanical devices implants like you were saying so if you're you know monitoring with the glucose monitoring your insulin and then you have it send a signal over to a thing that's automatically delivering"
+    },
+    {
+        "start": "01:10:58.900",
+        "end": "01:11:24.100",
+        "text": "your insulin we just don't want to have anything affected or chemotherapy where it may inadvertently create a problem with it we've never had an issue with it the same thing with the pacemakers it's really you know the pacemakers after the first generation it wasn't really that much of an issue they they worked with the shielding and things like that so we've never had an issue with anyone"
+    },
+    {
+        "start": "01:11:24.100",
+        "end": "01:11:51.860",
+        "text": "especially with the the pacem well it never had any issues at all but that's mainly because we set out all these precautions and things like that oh yeah that's smart yeah you're right i mean the original i guess the first decade of pacemakers they were having lots of problems in airports or i going through those x-ray machines and things like that right uh okay that's that's good to hear that that's more like waves or anything else there's so many different things that would affect it right on the first generation so yeah they figured that part of it out and same thing with uh some"
+    },
+    {
+        "start": "01:11:51.860",
+        "end": "01:12:19.460",
+        "text": "of them that have these electric stim devices that uh implantable in the bodies you know we don't want to have that that's mainly because we don't want to scramble that up and damage the system or something like that so uh those are main things but overall we've never had any issue when it came to anything like that but you you must take precautions and you know that's part of our training and education you know we're just not dropping the biocharger off and saying you know good luck that"
+    },
+    {
+        "start": "01:12:19.460",
+        "end": "01:12:46.180",
+        "text": "you know we have like you clearly see with the manual but we have a just an outstanding onboarding and advanced training that we do and it's all done remotely that uh you know by the time you're really done with it you know exactly how to use the biocharger you know how to access all the recipes you know how to move them back and forth you know how to search for recipes so you really get to be pretty proficient very quickly so we really made it easy for you so it's not like"
+    },
+    {
+        "start": "01:12:46.180",
+        "end": "01:13:10.340",
+        "text": "you're programming in a bunch of numbers and things like that and then you hit set you know you just select the recipe name you hit start and off you go with it and uh we just really make it just a really good user experience yeah yeah i've got devices that literally would take a college course to figure out how to use the device proficiently so when i look at your device it's so"
+    },
+    {
+        "start": "01:13:10.340",
+        "end": "01:13:39.540",
+        "text": "user-friendly uh and that's such a that's such a you know you know just a nice change so i guess the other thing is too is with that support you know we're always there for you so even after you have your training advanced training you call us up and you know we're there we're there for it and that's part of what drives our business is uh having that outstanding support and uh advanced training so one of the things that we offer is uh you know 45 day no questions ask money back guarantee"
+    },
+    {
+        "start": "01:13:39.540",
+        "end": "01:14:04.100",
+        "text": "you have to you know go through the training and advanced training and with it but uh you know we've been able to keep that return rate down below one percent because of our outstanding support team we have with it so you know we we we get the results that people are looking for no they're very impressive it's just something that i i tell people too um about how well you know a device works"
+    },
+    {
+        "start": "01:14:04.100",
+        "end": "01:14:32.180",
+        "text": "is just go on ebay and look for them being sold used yeah and you know and i actually have like alerts set up for every type of device because though that's my you know my realm and i'm always looking at like you know and i actually purchased most of my stuff used uh just because it saves a ton of money and i found you know like all the devices i mentioned i found them used and um yeah i've only seen a biocharger pop up once in three years but i've but if you go right now you know"
+    },
+    {
+        "start": "01:14:32.180",
+        "end": "01:15:01.940",
+        "text": "there'll be just lists of different rife devices um that are for sale that are used because you know you just imagine they're difficult to use uh and and also there's so many variances with the right machines too you know really output is the most important thing so if we look at you know traditional rife machines the ones that are out in the out and about you know some of them are like 30 watt output you know you know maybe up to 120 the most powerfuls 300 watts you know we're variable"
+    },
+    {
+        "start": "01:15:01.940",
+        "end": "01:15:28.500",
+        "text": "up to a thousand watts on the antenna so when you really compare that ours is a rife machine it's a it's a very powerful rife machine and you know rife was operating anywhere from seven to eight hundred watts uh when his systems were out there so we you know we're not just uh you know we just took a bunch of these devices and threw it into a box and say you know it's like the Swiss army now but we know we're best in class and a lot of them yeah very cool i mean one other question"
+    },
+    {
+        "start": "01:15:28.500",
+        "end": "01:15:56.740",
+        "text": "about uh using the device you know so many people now are wearing aura rings and fit bits and you know like smart watches i mean do you tell people to take that stuff off or is it safe to kind of just you know you know be reading your phone while you're sitting next to it well if we've never had any issues with the phone itself as far as like uh hurting it or damaging it but what it does is when you're trying to sit around the biochargers it affects the touch screen so that touch screen"
+    },
+    {
+        "start": "01:15:56.740",
+        "end": "01:16:25.140",
+        "text": "works off a capacitive touching yeah so what'll happen is if you're trying to type on your biocharger or i mean on your phone what you will see sometimes it's just starting to type out a bunch of letters even though you're not really touching anything and if you try hitting the backspace you know it even worse it you know or if you try it or the screen just like bounces around you know we had one time uh uh somebody had the biocharger it's only when it's you don't have to turn the phone totally off and it's like when you have it on and you're in that mode of"
+    },
+    {
+        "start": "01:16:25.860",
+        "end": "01:16:55.380",
+        "text": "that touch screen and you're trying to use it um somebody set the phone down like that and after 15 minutes they get a friend they call from their uh family member saying oh you just called me a hundred times are you all right type of thing so it didn't hurt the phone but it did that now with the smart watch or the the watch itself because that's always in that touch screen mode you may want to set that off to the side yeah the oar rings uh you know the the"
+    },
+    {
+        "start": "01:16:55.380",
+        "end": "01:17:24.100",
+        "text": "loop band people haven't really had too much of an issue and one thing it's really neat about anyone it's wearing any of those uh you know those devices that are measuring different things was it whether it's HRV or sleep and things like that you know we clearly moved the needle every time with those with those types of systems people especially over time see those numbers going up their sleep quality is much better uh there are HRVs much better they recover faster their"
+    },
+    {
+        "start": "01:17:24.100",
+        "end": "01:17:50.420",
+        "text": "heart rate is much better heart rate variability is much better yeah i thought that would be really cool to kind of you know literally watch before during and after you know the the data coming off the ring or the theory is a little tricky just because you know you're creating that field in there right but then it's a little bit trickier with it yeah yeah i'm gonna imagine because you know at the same time you know it's sitting in this field so you know is it really able to even"
+    },
+    {
+        "start": "01:17:50.420",
+        "end": "01:18:18.820",
+        "text": "function yeah you get the exact answer on you know compared to when it's off i'm not really quite sure on that one yeah okay no that's just that's good to know uh okay so let's talk about you know like so you know like you mentioned kind of a swiss army knife but it's not it's just this really best-in-class compilation of different you know functionalities modalities and technical specs so but because i wanted to kind of talk about individually just to kind of just get your feedback"
+    },
+    {
+        "start": "01:18:18.820",
+        "end": "01:18:46.980",
+        "text": "on this because as the more i researched into the biocharger the more i'm starting to wonder like wow you know where were you getting where was this you know like 15 years ago when i you know i bought this giant PMF device for my horse um and those things are really expensive you know the big ones on in on that run on you know that real you roll around on wheels like i mentioned i've had i have like i have four five pmf devices four different rifed if i got all this stuff and i'm not even i'm"
+    },
+    {
+        "start": "01:18:46.980",
+        "end": "01:19:12.580",
+        "text": "like this i'm the wellness center for myself basically in my family and my pets and then you've got all these you know obviously they got the wellness centers themselves they have the same issue they've got all this equipment and so like you know like the biocharger can do so much i'm just wondering like you know like you know like you know do you know if you wanted to do all these different things you know you either buy them separately or you biocharger might replace it right so can we talk about each individual one and kind of just say hey if i like let's i'm coming"
+    },
+    {
+        "start": "01:19:12.580",
+        "end": "01:19:40.420",
+        "text": "from the perspective of like this device right here this is uh similar to what i own right now i've got this one as well i've had this one i'm just like wondering like you know instead of having this and and having three or four or five or seven different things having just one thing that does it all is it would be just a miracle at this point and save a lot of money so let's talk about pulse electromagnetic field and the devices that come along and they come from every little"
+    },
+    {
+        "start": "01:19:40.420",
+        "end": "01:20:05.140",
+        "text": "tiny itty bitty thing like the mirror made all the way up to the giant magnwaves um so you know like so the biocharger as a pemf device right first question to the everybody who says hey you take out the p and you got emf and quote isn't emf bad could you dress that because you've you dressed it so well when you were talking to i think it was day of ashry uh you know in terms of just like in"
+    },
+    {
+        "start": "01:20:05.140",
+        "end": "01:20:30.820",
+        "text": "the difference between pemf and emf you know emf because everyone hears emf bad right that's all you hear nowadays right sure yeah i'll talk about the you know the emf uh issue and i can debate both sides of the equation you know so when you look at the scientific evidence that's out there especially like uh you know power lines cell phones things like that you know when you look at the you know"
+    },
+    {
+        "start": "01:20:30.820",
+        "end": "01:20:55.300",
+        "text": "traditional scientific evidence you know there isn't a lot of that you know you you're not producing fields enough that uh are creating heating you know power lines are probably the biggest source of noise but again everything follows the inverse square loss so you know the the power lines are pretty far away from you so you're really not getting a lot of that field from it where i in my"
+    },
+    {
+        "start": "01:20:55.300",
+        "end": "01:21:21.620",
+        "text": "opinion you know in the scientific consensus is saying there's probably you know not much to that um but there is a difference between you know pulsing it and then a continuous wave so when you look at traditional emf noise you know you got the power line so power lines can't be pulsed off and on otherwise your motors would be surging up and down and they would be burning up they wouldn't be"
+    },
+    {
+        "start": "01:21:21.620",
+        "end": "01:21:48.260",
+        "text": "working properly so you know that that's more of a what i consider a continuous wave um you also have like cell phones you know cell phones they can't be pulsed off and on because you lose connection and that security part that goes along with it you know for like computers and things like that so i look at those as more as a continuous wave type of an effect where there might be more of that"
+    },
+    {
+        "start": "01:21:48.260",
+        "end": "01:22:14.660",
+        "text": "entrainment that you would typically see with it so i think that that's distinctly different than say what nature is actually doing which is pulsing so you know when you look at um all the emf that may have made produces if you add up all the power line energy you add up everything from cell phones Wi-Fi communications you know uh military communications emergency communications"
+    },
+    {
+        "start": "01:22:14.660",
+        "end": "01:22:39.620",
+        "text": "microwaves all that add that up it still magnitudes less than what nature produces as i mentioned nature is producing these lightning discharges that are occurring into planet 100 every second that's maintaining you know that each one's producing hundreds of thousands of different little radio frequencies and harmonics you know that span that entire spectrum as well as all the other planets"
+    },
+    {
+        "start": "01:22:39.620",
+        "end": "01:23:07.780",
+        "text": "and everything else you add up all that energy it's still magnitudes greater and we evolved in that sea of energy so there is a part that it is a necessary part of our lives it isn't just you know when we go outside we just don't feel good because we're outside it's because we are exposed to that natural energy and when you think about it hundreds of years ago you know we spent most of our time outdoors you know um tending to the crops you know chopping wood survived the next year"
+    },
+    {
+        "start": "01:23:07.780",
+        "end": "01:23:36.580",
+        "text": "whereas now we're spending you know 90% of our time 93% of our time indoors in the United States and most of the time we're you know surrounded by that man you know the man-made stuff and you know if you're in a building it's got rebar in the walls or metal room for something like that that's literally blocking all that energy and there was a great study that was done at Max Planck Institute they were looking at a I think it was about a 25 year period and I think they had over"
+    },
+    {
+        "start": "01:23:36.580",
+        "end": "01:24:05.620",
+        "text": "300 participants in this and they had two buildings one it was fully shielded and the other one that wasn't identical buildings but there was shielding that was built into it and they would move them back and forth and monitor them and they found that physiological changes were occurring you know within a very short order days that you were seeing changes in the body from it so there is an aspect of it that when you shield that it has an effect not only that when you look at you know"
+    },
+    {
+        "start": "01:24:05.620",
+        "end": "01:24:30.900",
+        "text": "this energy level that's varying you know what we call solar flares and all that stuff so they've been monitoring all this activity since the 1850s and you know since then you know it's always been varying you know sometimes it there's less energy in the atmosphere you know coming from nature sometimes there's more really depending on that when I consider the cosmic dance so you got all"
+    },
+    {
+        "start": "01:24:30.900",
+        "end": "01:24:52.820",
+        "text": "these plants and you know stars and everything moving around and you know you're getting closer to some things that are larger you're getting further away from other things you know that you know everything is just shifting around so nothing is really constant and what they found is when there was more activity more solar activity you had better crops you had less deaths you had less"
+    },
+    {
+        "start": "01:24:52.820",
+        "end": "01:25:21.780",
+        "text": "stillbursts you had better winds less turmoil and you know so there is a lot of variability in it I always like to tell the story there's what they call the Carrington event I just found out about this about a six months ago so there was a when they first started looking at solar storms this is a guy named Carrington it was you know monitoring from the earth looking at through his telescope"
+    },
+    {
+        "start": "01:25:21.780",
+        "end": "01:25:48.260",
+        "text": "and looking at the sun and was seeing all this activity it was going on in the sun I mean it was just going off big time solar flares galore and then all of a sudden there was this massive discharge from the sun it created I think is there hydrogen or helium bubble that blasted bright to earth and at that point it lit up the entire planet for two days straight like it was daylight"
+    },
+    {
+        "start": "01:25:48.260",
+        "end": "01:26:18.980",
+        "text": "wow that was that much energy that was a result of that and if you look up this Carrington event it's it's quite the story they you know that it was reported in the Boston newspaper that the of the telegraphs were overcharging because all those wires were you know laid out throughout the throughout the planet and they were picking up all this energy and they were overcharging the batteries and there was a telegraph that was a operator that was in Boston actually in main"
+    },
+    {
+        "start": "01:26:18.980",
+        "end": "01:26:46.180",
+        "text": "first it said disconnected his battery and he was still communicating to the guy in Boston so he told the guy in Boston to disconnect his batteries too and they were still communicating without the batteries that were involved and they they reported actually were better than when the batteries were there they said that the miners in Colorado woke up in the middle of night because they thought it was in the middle of the day it was it was recorded and that people were reading"
+    },
+    {
+        "start": "01:26:46.180",
+        "end": "01:27:16.980",
+        "text": "a newspaper outside at night as if it was daylight they saw the roar of Borealis as low as Hawaii you know near the equator Hawaii and Panama City and it was on both sides of the globe it was recorded all around the world so we have these events that we get this variability with that I think is a really important part of our life that we actually evolved in so I don't necessarily fit"
+    },
+    {
+        "start": "01:27:16.980",
+        "end": "01:27:46.180",
+        "text": "into camp that EMFs are necessarily bad because we evolved into sea of energy and when you really think about it our bodies are driven by the sea of energy you know so you know when Ben Franklin threw the kite up in the air you know he wasn't just generating lightning bolts during the thunderstorms but even on clear days when you got the kite higher and higher you could measure a difference of voltage of potential that we later found out that it's almost a million volts between"
+    },
+    {
+        "start": "01:27:46.180",
+        "end": "01:28:10.020",
+        "text": "the upper atmosphere and earth so this energy is being maintained by what I consider the electric universe which is really not the but lightning discharges and then when you have these variable frequencies and harmonics that are going on from this natural event they're literally ringing every cell every molecule every atom is a result of all this energy that's around so"
+    },
+    {
+        "start": "01:28:10.020",
+        "end": "01:28:37.540",
+        "text": "I really feel this EMF this natural EMF is such a vital part of our life and when you block that all out and you get rid of it it's just not a good thing now there is some pyramids or you know contentions of well they're that um uh EMS may cause some uh oxidative stresses which you know evidence is you know shown that you know some instances that it is causing oxidative stresses"
+    },
+    {
+        "start": "01:28:37.540",
+        "end": "01:29:02.580",
+        "text": "but you know there's a lot of things that can cause oxidative stresses you know I can run and that creates oxidative stresses I could eat the right foods and it could cause oxidative stress I could eat the wrong foods and cause oxidative stress I could have an aggravating conversation on the phone and it cause oxidative stresses so it may not necessarily be what we're actually seeing with it although there are people that say that you know they do have issues with it but"
+    },
+    {
+        "start": "01:29:02.580",
+        "end": "01:29:29.620",
+        "text": "you know I go back to that continuous wave versus the key in it and when you really look at all the research when you add the P into it there's so many research articles it supports the benefits of PEMF. No that makes complete sense thanks for sharing that out because I think that's the key issue here is that post electromagnetic field versus continuous which is this man-made"
+    },
+    {
+        "start": "01:29:29.620",
+        "end": "01:29:59.620",
+        "text": "constant that never turns off never you know changes right there's a huge difference in how our bodies are you know adapt to it or don't adapt to it but I guess the other thing too is is as you're mentioning proximity I kind of I phrase that to people as the term severity of exposure because clearly you know I would recommend EMF shielding if you live within 1,300 feet of a cell phone tower because that's what the you know that's what the science shows right that you're"
+    },
+    {
+        "start": "01:29:59.620",
+        "end": "01:30:23.220",
+        "text": "going to you're too close to the proximity severity as opposed to you know just the general EMF and then again too I mean you got all these people selling these you know fair day tents for their beds and I'm always warning people you know don't sleep in a fair day cage you know it's like you don't cut yourself off so yeah again I just real simply that you know EMF is good and bad"
+    },
+    {
+        "start": "01:30:23.220",
+        "end": "01:30:50.900",
+        "text": "bad is severity of exposure proximity good is hey we grew up in it and then pulsed even makes it even better it actually becomes beneficial right so now in terms of the biocharger and PMF if if a if a person wanted to use the biocharger as just a PMF device does it just is that a recipe that you would run or the device as by default is generating post electromagnetic"
+    },
+    {
+        "start": "01:30:50.900",
+        "end": "01:31:14.660",
+        "text": "field yeah by default it's generating it it's mainly that I look at PMF is really PMF it's that magnetic field so many of these devices you know like the ones that on the left area those are more like the hymnholtz coil type so they typically have some winding it's in there and it's almost like an electric magnet type that's produced in the magnetic field and then that one on the right"
+    },
+    {
+        "start": "01:31:14.660",
+        "end": "01:31:42.100",
+        "text": "that you know the big unit those are really more of the LC circuit the inductor capacitor circuit which is really the heart of the primary coil of a tesla coil so any tesla coil will have that LC circuit so that LC circuit so what'll happen is in that circuit you have an inductor and you have a capacitor and what happens is they ping pong back and forth with this electric field magnetic"
+    },
+    {
+        "start": "01:31:42.100",
+        "end": "01:32:11.460",
+        "text": "field so the capacitor builds up a charge it discharges into inductor and it produces for a very short period of time a very strong magnetic field which is a lot different than those ones that are on the left which are really more of an electric magnet but many of the devices that are really coming on strong are those more the higher energy and you know there's you know a lot of questions you know they always try to differentiate themselves with you know the gals and things like"
+    },
+    {
+        "start": "01:32:11.460",
+        "end": "01:32:40.260",
+        "text": "that of the magnetic field of those higher energy some some of them make the you know the wild claims it might be 10 tesla 15 tesla something like that but I from what i've seen as far as the research with it and understanding with it you can't typically use a a Gauss meter to use to measure those types of systems that are LC mainly because it's such a a quick pulse and that pulse it also"
+    },
+    {
+        "start": "01:32:40.260",
+        "end": "01:33:09.140",
+        "text": "scrambles what you're reading so what you may be reading might not be what you're producing which is a of concern typically what you need to use is a whole sensor when you use a whole sensor you can actually you know determine what that magnetic field instantaneous magnetic field strength is as i like to call it so that that one on the right are those high energy ones those are typically what you would see in a in the base of a tesla coil so if i took out the"
+    },
+    {
+        "start": "01:33:09.140",
+        "end": "01:33:38.740",
+        "text": "secondary and the bulb and i just ran the base of it that would be more of that p e m f or p m f type of it field that you would generate with it but we typically don't operate it in that manner so when i started to really understand and broke down really what we were doing i broke it down into those four categories of that p e m f or that that and then you have the electric field which is really a little bit different than the magnetic field but they do"
+    },
+    {
+        "start": "01:33:38.740",
+        "end": "01:34:05.220",
+        "text": "different functions and you know the the beauty of a tesla coil whether it's the multi wave oscillator or those off versions of you know the spin-offs of the earlier versions that i was working with they have a magnetic field component that's uh comparable to it but you have to be relatively close to that field so typically to really get the maximum benefit of the magnetic field of the"
+    },
+    {
+        "start": "01:34:05.220",
+        "end": "01:34:31.620",
+        "text": "biocharger you would want to be close to the base of the biocharger versus up more towards the top so sometimes people will put their legs or their knees or something like that close to the magnetic field so you're you're always getting at when you're running the biocharger that's just part of it you can't isolate it just because that's what really what drives the biocharger okay so so that's"
+    },
+    {
+        "start": "01:34:31.620",
+        "end": "01:35:00.420",
+        "text": "so yeah because i you know like bottom line the way i was looking at it is so you're running the biocharger and it's not going to be um something that you're going to feel because like like with one of these i i can feel it i mean it's so strong but then you're like a paddle device like i think this is two three thousand gauss uh you know in all i know it's running only because i can hear the click but i i don't feel it so uh in terms of like can a user that wants to get a p m f effect from the"
+    },
+    {
+        "start": "01:35:00.420",
+        "end": "01:35:28.100",
+        "text": "biocharger can they adjust the pulse rate or adjust the gauss or is just it's going to be a constant thing and to use it you know and to experience more of the p m f is just be closer to the base is that what you would recommend yeah you would be closer to the base but there is a differentiation between like especially the the one that's on the right there so that that type of circuit they don't really get much of a a variability of them many of them uh still use the spark gap design so"
+    },
+    {
+        "start": "01:35:28.100",
+        "end": "01:35:55.860",
+        "text": "right you'll see some of them they'll pulse it that low frequency part of the reason why you get that like you say you feel that it almost like it causes you to tense up or what i like to say flop like a fish and it's almost a little bit uncomfortable now our field magnetic field strength is pretty comparable to that but the box is so the magnetic field is inside the box so um the"
+    },
+    {
+        "start": "01:35:55.860",
+        "end": "01:36:25.460",
+        "text": "further out you get from it the less you're going to get that whereas you know with that system you're laying you're right up against that primary coil that's on there and that's why they have that big insulation that's around that is because uh uh that plastic that's around that so you you won't get hurt from that but uh but uh we didn't like that experience with it that you know like you you as you mentioned you feel that it's almost uncomfortable especially as you turn it up"
+    },
+    {
+        "start": "01:36:25.460",
+        "end": "01:36:52.740",
+        "text": "and there is also almost like this twitching effect so when you're pulsing at those low frequencies you just see yourself in it yeah i almost look at it as like flapping like a fish and we didn't want to have that experience but we still wanted to have that magnetic field you know benefit with it so we're slightly out of that range where you get that and the other thing is too is you know because it's part of the circuit and it's also being influenced by the"
+    },
+    {
+        "start": "01:36:52.740",
+        "end": "01:37:23.460",
+        "text": "recipe itself we're able to pulsate at different frequencies so you know that system like the one that's on the right you know yeah i think pulse systems go up to 100 hertz on theirs a lot of them are just doing that excuse me three to four hertz or maybe up to 20 hertz if they pulse it up on there you know we're able to pulse the magnetic field up to 50 000 hertz and we're also able to you know vary within that pulse with that duty cycle so there you know our magnetic field is far"
+    },
+    {
+        "start": "01:37:23.460",
+        "end": "01:37:51.780",
+        "text": "more complex and far more variable than what you would typically see with that type of system but we're still generating this the field in a very similar way as far as that okay that circuit that lc circuit that goes along with it all right so i mean we we may not be best in class at making you flop like a fish but i consider as best in class in the variability that you get with it as far as also the programmability that you go along with it you know part of that magnetic"
+    },
+    {
+        "start": "01:37:51.780",
+        "end": "01:38:21.700",
+        "text": "MRI magnetic resonance is you know you have that variability in that magnetic resonance and you really want to have that variability to create the different fields that you have so our magnetic field is definitely a variable but that's also driven by the recipe itself so no that makes sense yeah so it's a subtle pmf device and definitely not meant for horses well i mean they we have people that are using it for horses and so i would love to see what that does in a point where you"
+    },
+    {
+        "start": "01:38:21.700",
+        "end": "01:38:49.140",
+        "text": "yeah you you want them to to really feel that one and you know people still have the similar experiences with it i mean they may not have that uh you know intense what you really feel at that moment in time while you're using it but people aren't really looking for how you feel while you're using the biocharger they're looking or any of these devices they're looking at how you feel after you use it so yeah after you use the biocharger you know people are just"
+    },
+    {
+        "start": "01:38:49.140",
+        "end": "01:39:16.260",
+        "text": "reporting all sorts of different experiences and outcomes that are very favorable for what they were looking for yeah no good point now when it comes to rifen we've discussed rifed quite a bit already and i just kind of wanted to point out that you know uh what you were saying earlier is that you know the true way of using rif the way he did it was through radio frequency transmission basically he ran like a little mini am radio station and then he shot frequencies through it"
+    },
+    {
+        "start": "01:39:16.260",
+        "end": "01:39:44.900",
+        "text": "you know that's kind of how my interpretation is and and instead you're you're basically broadcasting frequencies through this field right that while you're in the field you're experiencing instead of it being like radio waves or more like it's it's within the electrical magnetic field that you're standing in right is that correct in terms of like how it compares to rifen actually rife was actually in the shortwave range so that 3.2 megahertz is more than that shortwave range oh okay so but"
+    },
+    {
+        "start": "01:39:44.900",
+        "end": "01:40:13.940",
+        "text": "he was pulsing it off and on like a biocharger does so we're doing it in similar manners so our carrier wave as you reported a little earlier was 217 kilohertz so we were in am were more in the am radio where they're more in the shortwave range oh but the key was is that modulation generates the sideband harmonics that's what that's really the the crux of right machines are those sideband harmonics"
+    },
+    {
+        "start": "01:40:13.940",
+        "end": "01:40:38.820",
+        "text": "and as you pulse at different frequencies you generate those unique sets of uh sideband harmonics and that's how he would tailor make them so it may not be the you know the first harmonic that's doing the work it could be the second or third you know because of when you look at the the molecular band spectrum as well as the magnetic resonance spectrum you know that's a whole range of frequencies"
+    },
+    {
+        "start": "01:40:38.820",
+        "end": "01:41:06.100",
+        "text": "that they were operating at so it has this similar effect but the the big differential is you don't get that magnetic field in the electric field i mean you do get some magnetic field pemf off of the any electric equipment but you're really not getting that true pemf like that first one you were pointing at in the pemf system you're not getting really that instantaneous magnetic field"
+    },
+    {
+        "start": "01:41:06.100",
+        "end": "01:41:35.940",
+        "text": "that you would typically get with the multi-wave oscillator or pemf system you're not really getting that benefit and then there's always that differences of the different types so you're shown the pearl m or the pearl i think that they were 120 watts on the antenna and i think that they may bump it up a little bit more because the you know the the mac daddy was the mopah the one on the right i think that they were at 300 watts on the antenna but when you compare it to what rife was operating"
+    },
+    {
+        "start": "01:41:35.940",
+        "end": "01:42:04.100",
+        "text": "he was up the seven or 800 watts on the antenna and when you look at ours we're up the thousand watts on the antenna so when you look at as a rife machine itself and as you're doing the pulse frequencies we can do the hoylent sweeps we can do the various pulse frequencies up to 50,000 hertz that hoylent was working with as well as the frequency ranges of all the rife frequencies that are out there you know we were operating all within what you know his original works were"
+    },
+    {
+        "start": "01:42:04.100",
+        "end": "01:42:31.380",
+        "text": "working at um it is you as you noted you have some of those handheld devices you know the the handheld i i don't really consider those rife machines i consider those more as tens units i think that the you know when you really look at the history of that type of system you know it was really john crane that came out with that so john crane came into rife's life at the end and he came up with"
+    },
+    {
+        "start": "01:42:31.380",
+        "end": "01:42:59.220",
+        "text": "this idea of just sort of using a like a folks-in-generator that you could do these different pulse frequencies and you had a little voltage step up that could you know give you that little pulse jolt that you could do and you can bury it you know some of those bobback zappers and things like that they were all within that you know that that same category so i don't really consider it and there are benefits with it i mean there's clearly benefits with the you know with the uh"
+    },
+    {
+        "start": "01:42:59.220",
+        "end": "01:43:26.580",
+        "text": "the tens type type of systems you know they're you know for decades now i think the chiropractors have been using those types of systems and many people have built those own little systems that they had based off of bobback's designs or the helter clark zappers and things like that so yeah a lot of those different types that were out there i was going to ask to classify that more is that although the i think that one on the far left is that violet ray i uh i classify"
+    },
+    {
+        "start": "01:43:26.580",
+        "end": "01:43:54.900",
+        "text": "the violet ray as more as those are like miniature tesla coils that had that little plasma tube that's on there so i've never used one of those those are more of the high voltage devices and those were very popular in the you know early 20s and 30s and they had some you know some of them had the little tumblers that were in there but it still operated like a induction tesla coil type system that they would you know have the different gas tubes that they could put on there and"
+    },
+    {
+        "start": "01:43:55.780",
+        "end": "01:44:20.740",
+        "text": "you know many of the estheticians and many spas and things like that have really you know for decades have been using those types of systems and you know there was the i can't remember what is named it really popularized it uh egg or casey he's very highly of those exactly those are those are quite a bit different than the you know like the other ones that you're shown here the tens unit the"
+    },
+    {
+        "start": "01:44:22.340",
+        "end": "01:44:50.660",
+        "text": "the zedas as well as the uh um i've got the egg that's cenars very tentative cenars microcurrents tens unit just dim zappers clark zappers that's kind of where i was thinking too because i have all this stuff right then so do all these clinics and you know there's actual you know full on you know in russia there's cenar clinics that's all they do is cenar there's a whole group of people that all they do is microcurrent and of course there's the all the people doing back in clark"
+    },
+    {
+        "start": "01:44:50.660",
+        "end": "01:45:14.900",
+        "text": "clark zapping and as i look at the bio changer i'm like wow you know wait a minute the specs are when you look at these devices all of this stuff that costs lots of money and all these different things and they all have the same like frequencies and uh you know electrical discharge right uh that the biocharger does so i'm just kind of like i'm just my question is is wouldn't getting a"
+    },
+    {
+        "start": "01:45:14.900",
+        "end": "01:45:36.260",
+        "text": "biocharger sort of be a comparable uh substitution or you know alternative then let's say getting a cenar getting a violet ray getting a tens you know all of this other stuff i mean what's your thought you know when i when i and by the way everybody i know you you purists out there are gonna are gonna kill me on on the numbers i'm throwing on up on the screen but i just want to say"
+    },
+    {
+        "start": "01:45:36.260",
+        "end": "01:46:02.180",
+        "text": "i used ai to summarize the general frequencies uh and amperages and gauss of all these devices and that's where these numbers come from but when i look at these numbers and i'm looking at you know like microcurrent one to 1500 hertz right three to 10 milliamps or uh you know you know basically the back zapper 3.92 hertz running at 50 to 100 milliamps and when i think look at this information"
+    },
+    {
+        "start": "01:46:02.180",
+        "end": "01:46:29.700",
+        "text": "and i'm thinking well all of this stuff does electrotherapy in one form or another well so does the biocharger but the biocharger kind of covers all of this stuff if you were to you know look at it broad sweep right and then at the same time uh you have recipes so could you kind of comment that my question is is wouldn't the biocharger be able to do all the same stuff that all these other devices do because they yeah i mean what they'd need about the biochargers you know in nature we're"
+    },
+    {
+        "start": "01:46:29.700",
+        "end": "01:46:56.420",
+        "text": "not wired up to you know the cosmic rays we're not wired up to the lightning discharges you know that it radiates at you you're still getting the electric field but now your whole body becomes more of the electrodes and plus a lot of these systems that you're talking about are pulsing it one frequency at a time you know whereas what we're doing is we're doing hundreds of thousands of frequencies at a time that's just part of the nature of the sideband harmonics that you get with"
+    },
+    {
+        "start": "01:46:56.420",
+        "end": "01:47:26.100",
+        "text": "it which is really more in the lines of nature and how it's generated and you know like you know in my very biased opinion you know yeah i think the biocharger definitely encompasses all these different benefits that you would typically get with the biocharger yeah so instead yeah so having yeah it's my whole point you know when i look at it just from a you know specification standpoint what the biocharger can do within without recipes and then each one of these things that i own"
+    },
+    {
+        "start": "01:47:26.420",
+        "end": "01:47:56.020",
+        "text": "and what they specifically do plus the you know the claims and the benefits that each one of these different devices taking out like let's just say for example blood electrification you know Bob Beck's expansion of that original discovery by the two guys at the Einstein Institute and so the idea of blood electrification is a simply just you know exposing your blood to you know 3.92 hertz at at 550 to 100 milliamps right but i'm thinking i could do blood electrification with the biocharger"
+    },
+    {
+        "start": "01:47:56.020",
+        "end": "01:48:23.700",
+        "text": "because it does the same thing i just would run yeah actually do you have a recipe for blood electrification or i just turn on the blood i just turn it on i mean yeah it's kind of it's the same yeah i mean i don't want to you know link claims or anything else like that okay yeah i think that one can deduce that you know there are many ways you can create an electric field you know you can make a contact with it and part of the problem with the contact is is it's really more of a localized"
+    },
+    {
+        "start": "01:48:23.700",
+        "end": "01:48:51.620",
+        "text": "effect versus you know a full body that you would typically get with it but you know and the other thing you didn't really allude to either is you could have these 10 devices and you know you do all 10 of them that's going to be what 15 hours in a day you know many people don't have that one there's there's yeah yeah you sing it out with a biocharger you run it right you know 15 minutes and you're done do that a couple times a day if you have it at home if you you know go to location"
+    },
+    {
+        "start": "01:48:51.620",
+        "end": "01:49:21.060",
+        "text": "we have locations all over the world uh you can go and use it at you know you go use it two or three times a week for you know half an hour and you're good to go yeah no you're right i mean yeah you're right but you know Beck zapper takes two hours uh cnarc takes three 40 minutes and all those right machines and stuff you're there another couple hours and then you got your your zappers you're gonna do and then you got your pem up you know they want to have an hour an hour on that and yeah yeah depending on system some of them or hours some of them they want you to sleep on it you know"
+    },
+    {
+        "start": "01:49:21.060",
+        "end": "01:49:51.060",
+        "text": "now you're just you're you're a gadget guy that you're you're tied to it you know do you really not able to go live your life whereas this you know you you you set a recipe really quick and you're there for 15 minutes and then you're off to the day and that's how many people do it if they have it in their homes you know a lot of them like it is a ritual they wake up they use it in the morning they have a certain recipe they do you know the afternoon when everyone gets that little tired feeling or whatever they'll go or sit the biocharger again and you know maybe run another one at night"
+    },
+    {
+        "start": "01:49:51.060",
+        "end": "01:50:17.380",
+        "text": "you know if they haven't at home or people just go and use it but uh you know we're we're finding even if you go you know one time a week and do it a couple you know two or three recipes one time a week they're they're still getting benefits so no yeah no i get it i just a good thought i didn't thought about it that way i was thinking about it like just you know just from a white sweep that it actually speck versus speck that it all falls together all of that different stuff falls within the"
+    },
+    {
+        "start": "01:50:17.380",
+        "end": "01:50:45.300",
+        "text": "biocharger speck so let's talk about the biocharger speck as it relates to all of the you know the bio photon modulation therapies out there right now i mean cold lasers really it really popular you know obviously red light therapies all over the place now and of course there's a uv lamps you know the vitamin d lamp kind of thing so what how would you say that the biocharger from a bio photonic device compares to these other devices at other clinics and people like i actually own"
+    },
+    {
+        "start": "01:50:45.300",
+        "end": "01:51:10.980",
+        "text": "two of these three things so yeah how does that compare in you know from your perspective yeah so when you look at that that one over on the left there first uh so you're you're pulsing light off and on up to 10 000 hertz you know so pulsing light definitely behave pulsed light at different frequencies behave differently than continuous light or comparing amongst each other um i don't"
+    },
+    {
+        "start": "01:51:10.980",
+        "end": "01:51:40.500",
+        "text": "know if it's more related as you pulse it i think that there's a different effect on how it penetrates the body possibly but as a as a light part of it you know we're able to pulse up the 50 000 hertz so i think that you know again when you compare it to like the one on the left you know i i consider us but best in class you know when you look at some of those you know they have some variability on the light there i don't know if they're doing all that from 600 to a thousand nanometers on the"
+    },
+    {
+        "start": "01:51:40.500",
+        "end": "01:52:09.940",
+        "text": "wavelength on that but uh you know typically when you talk about cold lasers and stuff they're they usually operate at a specific light wavelength that they're operating at same thing with like that the red light therapy sometimes they'll do uh infrared and far infrared light that they're in there but they're typically just a a couple different wavelengths that they work with um so what we're trying to do is we're trying to get more of that uh full spectrum so you know"
+    },
+    {
+        "start": "01:52:09.940",
+        "end": "01:52:37.220",
+        "text": "again going back into nature you know so when you look at nature you got uh you got that natural light not just the sunlight but you got the natural light so what is really natural light is i consider that blue in the sky so that blue in the sky you know one of the most common questions children ask their parents and they get wrong is what causes that blue in the light you know some of them will say well it's a reflection of water because the earth is mostly water uh but in fact"
+    },
+    {
+        "start": "01:52:37.220",
+        "end": "01:53:04.500",
+        "text": "it's really because all these gases that are in the atmosphere so everything inside a periodic table exists up in the atmosphere in different amounts you know when you look at our atmosphere it's mostly nitrogen and oxygen and you know a bunch of other stuff but what happens is when it gets exposed to uh you know the magnetic field from the sun is so you know just everything they get excited to fluorescent and they release photons of light literally thousands of different"
+    },
+    {
+        "start": "01:53:04.500",
+        "end": "01:53:26.260",
+        "text": "wavelengths in the infrared far infrared near-farmed visible light spectrum so what we're doing is we're trying to mimic the way nature does it so we're not working at any particular specific you know a few wavelengths but we're looking at maybe about a thousand different wavelengths in the infrared far infrared near-farmed visible light spectrum now our infrared far infrared is"
+    },
+    {
+        "start": "01:53:26.260",
+        "end": "01:53:52.660",
+        "text": "for a very short period of time so when you look at the you know so when uh when you have these gases in the atmosphere and they get excited to fluorescent what'll happen is they you know for like the gases that we use the neon for instance you know they they're existing in the pair and when you excite them they separate for a short period of time and then when they recombine they release"
+    },
+    {
+        "start": "01:53:52.660",
+        "end": "01:54:19.540",
+        "text": "these photons of light but during that cycle of separation they scale through infrared far infrared near-farmed into visible light when they release the photons so we're in for a very short period of time that we're releasing it but what we're doing is uh a much wider spectrum of frequencies so um you know you will see more wavelengths in that spectrum but they're not quite as intense so"
+    },
+    {
+        "start": "01:54:19.540",
+        "end": "01:54:44.500",
+        "text": "you're not like with the red light you know you're sitting in front of a you know this infrared light you know a lot of times I want you know naked you got this big panel and you're sitting in there you're sitting there in your underwear or whatever trying to absorb as much of that infrared far infrared and that's a very important benefit you know as I mentioned before you got this magnetic resonance as well as the molecular band so all molecules are vibrating in the infrared"
+    },
+    {
+        "start": "01:54:44.500",
+        "end": "01:55:08.900",
+        "text": "farmed red near-farmed up the visible light so that's part of the reason why they work is because they're literally vibrating those molecules in that in that spectrum so the fuller the spectrum the more effect that you can get on different molecules as far as what I would see with it okay and then with the UV side of it you know you do get a a little bit of UV I mean we at one point we were"
+    },
+    {
+        "start": "01:55:08.900",
+        "end": "01:55:33.380",
+        "text": "using a mercury tube that didn't have a little bit of the UVC that was being emitted from it you know we did discontinue that bulb mainly just because there was always that negative connotation with it you know people just didn't like mercury because they thought mercury was bad but in reality you're not dealing with the mercury because it's sealed in the tube it's releasing light so"
+    },
+    {
+        "start": "01:55:33.380",
+        "end": "01:56:02.740",
+        "text": "you know we replaced it with the iodine tube so we with ours we use the normal gases or inert gases the hydrogen or not hydrogen helium neon argon krypton xenon and then we have an iodine tube also so we're trying to produce more of that fuller spectrum that we do we use two sets of six tubes so we wanted to do it that way so anywhere you would sit around a biocharger you're exposed to"
+    },
+    {
+        "start": "01:56:02.740",
+        "end": "01:56:30.980",
+        "text": "those same six tubes just like everyone else all the way around it so we wanted to make it more uniform with the six tubes okay so more full spectrum not specific like each one of these devices is a very narrow specific you know specificity right towards what it's trying to do and you're more broad spectrum which is nature again and then but not but you're not putting out UV right so there's no danger of yeah there's not a UV exposure where goggles or anything else like that okay all"
+    },
+    {
+        "start": "01:56:30.980",
+        "end": "01:57:00.820",
+        "text": "right good hey I know you got a hard stop coming up real quick so I just want to jump to the end and I just want to just say you know hey thank you so much for your time and so now you know if anyone's interested in experiencing the biocharger I know from you know all the information I've gotten from your site that you know that there's wellness centers as you mentioned there's thousands of wellness centers that have these in them and so how does how does a person like let's say they just want to try it maybe you know not so much you know buy one but how would you what would you"
+    },
+    {
+        "start": "01:57:00.820",
+        "end": "01:57:26.900",
+        "text": "tell people that just want to give this a try and and see how it works for them well what we suggest is you go to biocharger.com you can learn all about the biocharger you can you know get a lot of the information I just shared with you if you wanted to you know read it for yourself and actually a lot more we have great testimonials but we also have a great spot says find a nearest biocharger location and it'll pop up a map and it'll show you all the different locations that"
+    },
+    {
+        "start": "01:57:26.900",
+        "end": "01:57:51.380",
+        "text": "are offered and you know there there are variable costs on it you know we're in many different types of locations you know some of them offered is a monthly subscription rate you know some of the higher end places that are more like functional doctors and things like that where it's more of a specific thing they they may charge you know more with it but typically sessions are"
+    },
+    {
+        "start": "01:57:51.380",
+        "end": "01:58:19.540",
+        "text": "you know onesy-tousy I think maybe 30 dollars a session it's usually a buck a minute something like that is what people may charge but if you get those packages you know some of them have some great packages where you get monthly subscription rates where you can you'll go use it for three or four times a week and you know just have a flat subscription model with it so that works out really well for people that want to go ahead and try the biocharger that's a great source"
+    },
+    {
+        "start": "01:58:19.540",
+        "end": "01:58:51.780",
+        "text": "you can also reach out to us and you know you know we can also help you with finding that nearest location and if you wanted to do any purchasing would we do have financing available for people who want to buy the biocharger it isn't really leasing but it's more of the financing it's more of a you know your finance to own great interest rates you know all that's driven by you know your credit qualifications and things like that so you know we do make it"
+    },
+    {
+        "start": "01:58:51.780",
+        "end": "01:59:16.580",
+        "text": "affordable for people for you know purchasing their biocharger and you know many of these locations that you know they can go and buy the biocharger and they're up and going and they're paying for that biocharger paying and making money right away with it you know the monthly payments are are clearly offset by what they're bringing in with it so it's been a great program for the"
+    },
+    {
+        "start": "01:59:16.580",
+        "end": "01:59:42.580",
+        "text": "people that want to you know create their own you know what biohacking center or you know if you're a practitioner or a therapist that want to add this to their collection in their toolbox you know people love to have that and what they'll find out it really becomes the the fan favorite and when you go look at many of the testimonials or the podcasts like you suggest you've listened to a"
+    },
+    {
+        "start": "01:59:42.580",
+        "end": "02:00:08.580",
+        "text": "number of different podcasts I mean I've done quite a few podcasts with all types of people whether it's from you know osteostrong to you know the the biohackers like Dave Asprey and Ben Greenfield Luke Story to even Center of Innovative Medicine the New York Center of Innovative Medicine we did a great podcast with them that's more of a professional place where people are"
+    },
+    {
+        "start": "02:00:08.580",
+        "end": "02:00:35.140",
+        "text": "going for specific issues that they're dealing with that's you know a great location but they're going to be a little bit more expensive but it's a it's a great device to really have whether it's in your home or in your business practices no it is yeah I just yeah oh no I was just going to say I mean you know the the idea that you know somebody or a wellness center has like 20 different things"
+    },
+    {
+        "start": "02:00:35.140",
+        "end": "02:01:01.700",
+        "text": "uh 20 different devices and then the amount of capital they've got locked up and all that stuff and then now because of what you developed you know there's a there's a great opportunity to literally reduce the capital expense because there's so much more this one device can do I just that's what really appealed was appealing to me about about the biocharger and then just I just really wanted to know more about the device from a specification standpoint and to like what"
+    },
+    {
+        "start": "02:01:01.700",
+        "end": "02:01:30.500",
+        "text": "could it really do from that specific standpoint I guess to your point though you have lots of testimonials on your site for if you want to see like what people are saying about it as well as you know I encourage everyone just you know if you want to know what the benefits of PEMF is or what you want to benefits of electro therapy is you know you just go to google scholar you'll see all the studies so that you know the evidence is out there and the testimonies are out there so yeah I'm it's very impressive so you know you did a quite a remarkable job Jim"
+    },
+    {
+        "start": "02:01:30.500",
+        "end": "02:01:59.380",
+        "text": "yeah can imagine like what you're going to come up with next just to add one more thing on the you know as a business you know a lot of times when you're buying a product it's just a one-to-one type of situation so you scale it you know a lot of times especially if you're trying to be a place where you're doing a subscription model you know you have those peak peak hours from seven to nine and four to six where you got the people going into work or"
+    },
+    {
+        "start": "02:01:59.380",
+        "end": "02:02:27.620",
+        "text": "coming home from work and you know god if I had six six devices I could deal with six different people and it you know and to scale that is a little trickier whereas with the biocharger it's easy to scale into so you know you can do two people three people four people up to six people sitting around it before you need to get the second one and by that point you're already you know in the money so you can easily afford the second one so for that person it's trying"
+    },
+    {
+        "start": "02:02:27.620",
+        "end": "02:02:54.020",
+        "text": "to scale to get into it this works out really well yeah no I I think it's a great idea got so many more questions but I knew you got a hard stop and I just want to just let you go and just say you know thank you Jim I really appreciate your time I just I just love the story of the biocharger and you know and just the innovation you've brought to the market is pretty impressive so thank you so much for your time and if you want to get older Jim it's biocharger.com"
+    },
+    {
+        "start": "02:02:54.020",
+        "end": "02:03:22.660",
+        "text": "and if you want to find me tinker's dot academy and again thank you so much for your time today Jim and any parting words yeah I think that you know it like you said you have more questions and stuff like that you know maybe maybe we could take some time out you know we'll think about see how the the response goes and if we want to do a second turn to the crank with it I'd love to do it again because you know this was a different type of podcast and I truly appreciate you know"
+    },
+    {
+        "start": "02:03:22.660",
+        "end": "02:03:50.180",
+        "text": "having this opportunity with you because this was a little bit a different approach you know it was more of a I really felt that I got a lot more out of this as far as our connection with it just because you and I have had very similar paths of curiosity you know you've seen a lot of things come and go you've seen a lot of technology and I really appreciate you having this opportunity"
+    },
+    {
+        "start": "02:03:50.180",
+        "end": "02:04:18.900",
+        "text": "to do what we did here and anytime you want to do it again the the opportunity or the doors always open and I'd love to do some more stuff with them oh awesome thank you so much everybody you've got any question throw them in the comments of the video I have lots of questions so Jim I will probably take you up on that let me just I'll put together the next deck we can do a little podcast type of thing where we open it up to you know maybe do a quick blast and you'll let them bring in"
+    },
+    {
+        "start": "02:04:18.900",
+        "end": "02:04:42.820",
+        "text": "some questions or we have some pre pre-canned questions that we give from our great idea listeners and things like that you know I'm all about education at the end of the day that's really what my job is is to help educate and move the you know just this whole movement forward you know this isn't just about biocharger and when you really look at the the market it's a four trillion dollar market"
+    },
+    {
+        "start": "02:04:42.820",
+        "end": "02:05:09.140",
+        "text": "this alternative health and wellness market and people are really beginning to wake up to see these alternatives and you know once you start digging deeper into this you know they become more questions and you know that's what I love to do is share no that's a great idea I would love to do that let me go ahead and set that up I'll let you know awesome because yeah yeah again you know because"
+    },
+    {
+        "start": "02:05:09.140",
+        "end": "02:05:24.980",
+        "text": "I didn't even get a chance to talk to you about scalar and the different frequencies and oh you know anyway but hey I know you got a run so thank you so much Jim really have a great day and really appreciate your time. Yeah, me too. Alright, take care. Yep, thanks."
+    }
+]

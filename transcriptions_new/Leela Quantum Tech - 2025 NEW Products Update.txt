@@ -1,0 +1,687 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.360",
+        "text": " Hello everyone and welcome to another Tinkers Academy video. I'm your host K. Elmer and today is a very special video with Phillip on Holtzendorf from Leila Quantum Tech where he's going to share with us the new products coming for Leila and the new frequencies in 2025. So today is Chris, or not Christmas, but New Year's Eve 1231 and so in a couple of days there'll be some really cool new things on the website available for purchase. So Phillip, how are you doing today"
+    },
+    {
+        "start": "00:00:27.360",
+        "end": "00:00:53.520",
+        "text": "and thanks for joining me? Thanks for having me K. I'm looking forward to this. I'm doing great even though I must say the last day of the year is is crazy. So there's a lot going on. I'm looking forward to the new year. Oh yeah, you had a very busy year. Every time I look at your Instagram, you're at some new conference and I mean, I don't, I'm like, how many miles do you log"
+    },
+    {
+        "start": "00:00:53.520",
+        "end": "00:01:16.880",
+        "text": "every year because you are so well-traveled and you're zipping back and forth between Europe and United States to do interviews and conferences and you know, whatever and then you've got the thing going on in Costa Rica. It's just, I can't imagine how much you have to fly. Yeah, it's indeed a lot and especially it was now a lot in the last three weeks. So because I"
+    },
+    {
+        "start": "00:01:16.880",
+        "end": "00:01:43.680",
+        "text": "literally went a lot of miles within Florida, then I had to fly to Costa Rica then to Las Vegas because there's a big event that I needed to attend and actually quite exciting. And then from Vegas, I flew to Germany then from there to Switzerland and I just got back two days ago. But it's okay. Thankfully, I don't have jet lag anymore, which is phenomenal. I literally,"
+    },
+    {
+        "start": "00:01:44.800",
+        "end": "00:02:09.680",
+        "text": "every year, the older I got, the worse my jet legs would get and now I don't have it anymore. I know how to deal with it and that helps a lot. So you're just wearing the Leila jacket while you're on the plane with the EMF beanie and just kind of protecting yourself that way. I mean, I'm sure everyone's interested in how you do that. Yeah, so I certainly leverage that. I"
+    },
+    {
+        "start": "00:02:09.680",
+        "end": "00:02:35.280",
+        "text": "leverage the quantum upgrade and I put it on heel 360 because we found that to be the best during the plane also in regards to the benzene gas in addition to the EMF. Neutralization, that is definitely something I make sure that I change the time zones in a way that when I land that instantly there also the quantum upgrade is in a new time zone, if that makes"
+    },
+    {
+        "start": "00:02:35.280",
+        "end": "00:02:56.800",
+        "text": "sense. So that helps a bunch and then I then I leverage the new sleep. I don't know, it's not a sleeping rest. That's what it used to be called the common rest card and actually some physical supplementation, which I'm thinking about actually producing in a combined fashion with"
+    },
+    {
+        "start": "00:02:57.520",
+        "end": "00:03:27.200",
+        "text": "specific frequencies. That's 100% natural, no melatonin. It's a specific form of magnesium, then pharma, GABA, which is not from the pharmaceutical industry. It's actually the natural stuff and glycine amino acid and that's it. Awesome. Hey, that's okay. So that's another new product. That's not on the list, but oh, yeah, this is great. I mean, well, you're kind of like"
+    },
+    {
+        "start": "00:03:27.200",
+        "end": "00:03:57.200",
+        "text": "the poster boy of what you can do with quantum. I mean, just the fact that if for those of you who don't know, I mean, Philip became the number one national tennis champion for the United States in his age group in 2024. And this came from you not, you know, not playing tennis for like what, 15 years and then a year and a half ago, you decided to start playing tennis again. And now you're the number one in the country. Yeah, you know, that's pretty wild, man. I mean, seriously,"
+    },
+    {
+        "start": "00:03:57.200",
+        "end": "00:04:21.680",
+        "text": "that's a hell of an accomplishment. Indeed, well, I do need to say though that the 15 years of break, that started when I was 18. And so I did not play in college. I frequently get asked, you know, where did you play in college? I said, I didn't play at all because that took a break for 15 years. And if I look back to the last several years that were indeed two and a half years where I didn't"
+    },
+    {
+        "start": "00:04:21.680",
+        "end": "00:04:48.320",
+        "text": "play and last year in September, October, I started playing again. So that was still a significant long break. And then I started playing tournaments again in March. Yeah, and it was quite rapid. You know, I definitely, I did not have that goal at all. I mean, I would have never thought I could make number one. I mean, certainly, there's a little bit of course, let's see how far I can take it"
+    },
+    {
+        "start": "00:04:48.320",
+        "end": "00:05:16.720",
+        "text": "and what all these biohacking tools and the quantum tools can do. But honestly, I mean, I would have not bet on it, not not more than 10 bucks probably. Yeah, it's wild. Yeah, I mean, what you accomplish is wild. It's just, it's amazing. And of course, you know, you cure jet lags. So it's just, I mean, the amazing stuff just keeps happening over and over."
+    },
+    {
+        "start": "00:05:16.720",
+        "end": "00:05:41.040",
+        "text": "It's just great. I mean, it's great. So hey, okay, so let's get with the video. So 2025 new products. So the very first one, if you want to go ahead and kind of share with everybody. Now, I kind of did my unboxing video and kind of shared the prototype that I got. But this is coming out, right? It's coming out January 2nd. Is that correct? Yes, January 2nd."
+    },
+    {
+        "start": "00:05:41.040",
+        "end": "00:06:11.040",
+        "text": "January 2nd is indeed the day. And there's a limited quantity that we will have at first. But I think it should be enough for for most in the beginning. And it's, it's the super block. You know, we, yeah, I think you have that one. And you got it in, in the, in the square version. Still, that was the prototypes we had. And we experimented around with that and actually found"
+    },
+    {
+        "start": "00:06:11.040",
+        "end": "00:06:36.320",
+        "text": "that this one really wanted to be in a round version. And then we tested that in it. Yeah, it turned out to be amazing. It's at 5,600 on the walk-in scale, which is unheard of. It literally is so much. It's such a high vibration. The, the character of this block is truly a healer."
+    },
+    {
+        "start": "00:06:36.320",
+        "end": "00:07:01.040",
+        "text": "That's what we found as well. So it instantly more than, more than we had an infinity block at some point that also was characterized more as a healer type. You know, this one is absolutely next level. It's literally, it, it focuses on that very quickly. As soon as you interact with it. Um, so that's really nice. It does have a specific feature"
+    },
+    {
+        "start": "00:07:01.040",
+        "end": "00:07:30.480",
+        "text": "in regards to deuterium depleted water. It's not easy to explain how that works. But on a frequency level, it, it pretty much removes the, the deuterium or let's say the, the effects of deuterium in water. So it mimics basically in 10 PPM, deuterium depleted water on an energetic level, which is also quite phenomenal. We were not able, and I want to mention this here also,"
+    },
+    {
+        "start": "00:07:30.480",
+        "end": "00:07:58.240",
+        "text": "we were not able to remove the deuterium on a molecular level. So you would still have it there, but, but frequency and energy wise, it's, it's still the same. And we, we also don't have an answer for that at this point, why it's not removed on a molecular level. But it's, it's almost as if those specific molecules are, are sort of inactive, right? Then at that point, or don't have the"
+    },
+    {
+        "start": "00:07:58.240",
+        "end": "00:08:24.240",
+        "text": "vibration anymore. That's detrimental. So that's really nice. If you want to charge water, and certainly I leverage that if I, you know, when I play tennis, for example, I have the charged water with me. Now, what else is there to say? So not only is it round, it's, it's, in terms of the size, I think it's more or less 14 by 14 by 14 inches, but not square, obviously it's round. And it has"
+    },
+    {
+        "start": "00:08:24.240",
+        "end": "00:08:47.920",
+        "text": "only three rods, which is also new. We used to have four rods. Now it makes it really easy to put a big plate in there, for example, with big water bottles or jugs in there, you know, your cats or dogs out there, though, they may have it even easier to get in and take a look at. Those"
+    },
+    {
+        "start": "00:08:47.920",
+        "end": "00:09:09.760",
+        "text": "are the main differences. Oh, that's really, I mean, yeah, it's totally, totally digging mine. And I'm going to do a video guys, because I've been sleeping in mine for a month. And the experience has been off the charts bizarre. So I'm going to do a separate video of what it's like to"
+    },
+    {
+        "start": "00:09:09.760",
+        "end": "00:09:36.480",
+        "text": "sleep in a grand block or super block. But anyway, it's just crazy. It's what's happened. You know, anyway, so you know some a part of it, because I had to reach out for you for help. Okay, so the character now, can you describe what you mean by character? Because that's not"
+    },
+    {
+        "start": "00:09:36.480",
+        "end": "00:10:06.880",
+        "text": "ever really come up before. Like we have all these different blocks, but none of them have been described as having a character, except for the original infinity block when it got up to generation four, you had said one time that that that character of that generation four was healer. But we never really kind of like what really delved into like, what did that what does that mean? Yeah, I mean, that we're getting into realm that is very difficult to understand and to"
+    },
+    {
+        "start": "00:10:06.880",
+        "end": "00:10:31.600",
+        "text": "explain with words frequently. So I think before I say something, please everyone out there, you know, just take that in with your heart. You know, when I say that the character of this super blog is a healer, if you take it in that way, I think you can maybe sentence what it means way better than understanding what I would try to express now."
+    },
+    {
+        "start": "00:10:31.600",
+        "end": "00:10:55.600",
+        "text": "You know, it's it's a high consciousness field, right? And this high consciousness field is it's sort of neutral and it's in what it does, right? Because it's neutral pure quantum energy, but it leans towards super, you know, what it does always, these high consciousness fields that we"
+    },
+    {
+        "start": "00:10:55.600",
+        "end": "00:11:24.640",
+        "text": "work with and and provide they they neutralize and harmonize everything that's destructive or harmful to life and to consciousness. And they support pretty much everything in regards to life and consciousness that it that's what it always does. But then there are some nuances that we detected between the different blogs, not not huge, right? It's not that they're then"
+    },
+    {
+        "start": "00:11:24.640",
+        "end": "00:11:53.520",
+        "text": "completely different blogs, but they they lean towards supporting more this or supporting more that. And this one is it's just as if it it's nature to move everything towards quicker healing, if that makes sense, right? That's as if that's it. It's it's main quality in this regard. So it"
+    },
+    {
+        "start": "00:11:53.520",
+        "end": "00:12:19.920",
+        "text": "it operates quicker on that level. It detects these things quicker. It that's its main main and first focus, you know, that, you know, it does all these other things too, right? You know, obviously, it's sometimes hard with the brain to understand how such a field can do so many things at once, right? But it's certainly possible. And we may get into that today if we talk about"
+    },
+    {
+        "start": "00:12:19.920",
+        "end": "00:12:45.360",
+        "text": "some of the latest studies. But yeah, that's how I can explain it. Okay, no, that's cool. That's cool. It's really, really special that you know that you that this has a character. I intuitively understand because I'm experiencing it. So yeah, that's that's totally cool. So now the the charging and copying times, you know, all that stuff is that going to be in the box on, you know,"
+    },
+    {
+        "start": "00:12:45.360",
+        "end": "00:13:15.360",
+        "text": "you're going to update the card. So I'll just I'll update the quick reference guide with all that all that information when it comes out. Yes, people are going to want to know, right? Yeah, of course, no, it will be on the website to my knowledge. And we have prepared a booklet that also will go out with these blocks. I'm not sure. So I don't want to make promises if it that's already ready to go on the second. I'm not sure, you know, the physical one. So it definitely will be"
+    },
+    {
+        "start": "00:13:15.360",
+        "end": "00:13:42.400",
+        "text": "available on the website. And so everyone will have the chance to look up the chart, you know, okay, what are the charging times, et cetera. Yeah, because I was going to update the quick reference guide after this guy, you know, after this block comes out so that I have all the blocks and all the capsules. Okay, great. Okay, so speaking of capsules, the other new thing that's coming out is you've got four new products on the lay the quantum side. You want to kind of just"
+    },
+    {
+        "start": "00:13:42.400",
+        "end": "00:14:07.040",
+        "text": "chat about that and and and what what you're offering, starting with the woman's booster. Now you've created a petite, right? Yeah, so hey, don't you want to talk about that because that is actually your frequency. No, so it's so if people remember, you know, Kay created very early on a women's booster"
+    },
+    {
+        "start": "00:14:07.040",
+        "end": "00:14:28.960",
+        "text": "frequency and a man's booster frequency. And I think if I'm not mistaken, the women's booster specifically geared towards women over 30 slash 40. And, you know, supports in various aspects. And we've actually heard some phenomenal stories with this frequency, right? Especially"
+    },
+    {
+        "start": "00:14:28.960",
+        "end": "00:14:58.880",
+        "text": "also, you know, how do you call this now? So regarding the period, for example, that the pains would be less. And it's just much more smoother process, more energy. We heard even in the how do you how do you call that one? Well, I don't know how to explain it in English, but there's a phase that women enter as they get older. And then, you know, the period goes away. Yeah,"
+    },
+    {
+        "start": "00:14:58.880",
+        "end": "00:15:27.600",
+        "text": "menopause. Yeah, exactly, menopause. And so that is also a crazy time for hormone hormones that just go up and down. And it's just a difficult time for many. We heard a lot of great things. So that's the frequency. And what's new now is that we have this smaller version of it, which is not less powerful. It's important. Maybe it's slightly less powerful than the than the big version. But"
+    },
+    {
+        "start": "00:15:27.600",
+        "end": "00:15:54.000",
+        "text": "nowadays, if you compare the small version from today, with the big version from like half a year ago, the small version is actually more powerful, right? So there isn't anything less powerful. So don't think it's not powerful. It's very powerful. But for women specifically, it's nicer to wear for most at least. And also for kids, it would be, you know, in other frequencies and for kids. But"
+    },
+    {
+        "start": "00:15:54.000",
+        "end": "00:16:18.000",
+        "text": "because it's smaller, it doesn't wear heavy on the neck. And that was the feedback we had gotten from women. They always asked, Hey, could you make a capsule that smaller? So that's not available for this one, like it is already for the heel 360 as well. Okay, cool. Yeah, yeah. Yeah, just as a real just real high level, the frequency set for the woman's booster was something I created after I"
+    },
+    {
+        "start": "00:16:18.000",
+        "end": "00:16:42.720",
+        "text": "created the men's one for myself. And so really what it was designed to do was like, like, people of that are, you know, middle age, you know, we struggle with, you know, basically our immune systems and energy levels. And so I created something where it was five separate frequency sets that would combine together to be like one harmonious booster thing. So it helps with"
+    },
+    {
+        "start": "00:16:42.720",
+        "end": "00:17:11.280",
+        "text": "your brain function, it helps with your immune system, it helps with your stress. And of course, there's a hormonal aspect of it. So in the woman's, it's for women, in the men's, it's for men. You know, and then there's this anti aging aspect of it as well, because as you get older, you know, once you hit 30, 40, 50, your body really just starts slowing down in producing all these things that your body runs off of. And so you need all that anti aging stuff. So that's really what the"
+    },
+    {
+        "start": "00:17:11.280",
+        "end": "00:17:40.480",
+        "text": "boosters all about the men and the women's boosters, but it's cool that there's a petite one now. There now there's also new quantum charged items that are going to be on the site, right? So we finally, now you've always had the men's underwear, but now I understand you you've got a new woman's underwear. And that's what it looks like. Yeah, and frankly, I need to, I need to really tell everyone. So to our knowledge, this is the first EMF protective women's underwear on the market."
+    },
+    {
+        "start": "00:17:40.480",
+        "end": "00:18:09.600",
+        "text": "Well, why it? Well, maybe I'm incorrect, but we haven't seen anything anywhere, especially not in the US. And we know actually someone that had worked on this for two years, and then she gave up. And she's actually excited that's that's biohacking Brittany. Oh, she wanted to launch these so-called Emphy's EMF underwear for women. And then they gave up because it's just difficult to do, right?"
+    },
+    {
+        "start": "00:18:09.600",
+        "end": "00:18:38.400",
+        "text": "Because you need to have the silver, but it still needs to be comfortable, can't be too thick, but it also cannot be thin, obviously, right? So I think we did a pretty good job in creating two different versions of that. So two different kinds. And not only is it naturally antimicrobial because of the high purity silver fabric, it also blocks over 99% of EMFs. And on top of that,"
+    },
+    {
+        "start": "00:18:38.400",
+        "end": "00:19:06.320",
+        "text": "it's charged not only with quantum energy, but also with the heel 360 frequency. So it's literally called the heel 360 women's underwear. And I find this super exciting. You know, women had asked also that they could have something and now we're the first two to offer it. So give it a try, everyone, and let us know what you think. Cool. No, that's really cool. Yeah. One more thing,"
+    },
+    {
+        "start": "00:19:06.320",
+        "end": "00:19:28.800",
+        "text": "sorry, I need to say that here also. So the like with the jackets that will, you know, the size is on the smaller size. So if you're usually a small, I would suggest you get a medium. And if you're usually a medium, get a large and so on. Okay, good to know, good to know."
+    },
+    {
+        "start": "00:19:28.800",
+        "end": "00:19:58.480",
+        "text": "Okay, so now there's a new dog collar and new coasters as well. Yes, that is correct. So the, well, the dog collars, that's actually, they're not launching on the second already, but they will launch a little bit later, I think in the maybe mid month or the end of the month, okay, of January. And we will also have, now that we're announcing dog products, also"
+    },
+    {
+        "start": "00:19:58.480",
+        "end": "00:20:23.280",
+        "text": "a container that's specifically made for dog and cat food. It's a smaller container. If people buy bulk or large portions of dog or cat food, they like to put it in containers in between because of the air tightness and everything. And this container will be a quantum"
+    },
+    {
+        "start": "00:20:23.280",
+        "end": "00:20:50.880",
+        "text": "container and it will also contain the positive frequencies for the animals. So that will come towards the end of January, I think. But indeed, the coasters are launching already now in the beginning of the year and the coasters have an even nicer design. They used to have the mandala"
+    },
+    {
+        "start": "00:20:50.880",
+        "end": "00:21:20.080",
+        "text": "that was closed. Now it's more open. Everyone that we've showed this to loves these new coasters and they are also charged with the original heel frequency. Oh, okay. So that is obviously quite nice for every beverage you put on, because it gets charged with all these important vitamins and minerals and the healing activation frequencies."
+    },
+    {
+        "start": "00:21:20.080",
+        "end": "00:21:47.600",
+        "text": "Okay, cool. So the dog collars are still going to be charged with the heel for dogs, correct? Yes, that's correct. And will the pet food containers have a frequency in them? I let's talk about it when we when we get there. Sure. I think that's that's better. Yeah. Okay, great. All right. So we've got some definitely new products coming along. And then let's talk about new frequencies. So right off the bat, I only know of two of them. So"
+    },
+    {
+        "start": "00:21:47.600",
+        "end": "00:22:14.400",
+        "text": "if there are more, let's chat, but let's right off the bat. There's the new calm and rest, which was the outcome of the the frequency contest, the second one last year or this year. So is it now so there's already a calm and rest frequency available. And now there's this new one. So are you going to name the new one calm and rest and have like an original and a new or how"
+    },
+    {
+        "start": "00:22:14.400",
+        "end": "00:22:44.160",
+        "text": "how is that going to look on the website? The old one will not be available anymore. So only only the new common rest frequency. Yeah, there's no point for us to keep two of those. Okay, because it's it's literally it was meant to be the update of that one. And so now we have the update. So that's literally what it's going to be. And to my knowledge, this one will be available also in the beginning of the year. So on January 2nd, however, the brain support"
+    },
+    {
+        "start": "00:22:44.160",
+        "end": "00:23:07.040",
+        "text": "frequency that will only be available on the quantum upgrade in the beginning of the year. And it will probably take us until now would say probably mid and January to also have the brain support frequency as a frequency card. We had to get the mandala created. The mandala actually looks"
+    },
+    {
+        "start": "00:23:07.040",
+        "end": "00:23:34.640",
+        "text": "awesome. I'm amazed actually by by how good it looks and how how much it fits the frequency. But yeah, it'll take a little bit more time. Okay, can you can you kind of just share with us like the you know, like the new common rest, right? Like what was the the healer's network experience, you know, and you know, with that frequency in in terms of like how much better it"
+    },
+    {
+        "start": "00:23:34.640",
+        "end": "00:24:01.200",
+        "text": "is or how different it is than the original one. And then, you know, and just like what are people saying about it? Because no, you know, no one's trying to get except you guys. So yeah, so first of all, for the ones that don't know, this was a frequency contest, right? So everyone was able to submit their their own frequency for for this. And then we went through"
+    },
+    {
+        "start": "00:24:01.200",
+        "end": "00:24:29.520",
+        "text": "all of those and we selected two winners. You were one of those. And we we we figured that yeah, this just worked amazing together. And then Roman treated there was a little bit of harmonizing needed to to make it ideal. And this frequency"
+    },
+    {
+        "start": "00:24:31.040",
+        "end": "00:25:00.720",
+        "text": "is it's so difficult to explain. I think it's not as much as a hammer as the the older one that we had. And with a hammer, I don't I don't want to discount the current frequency because it is very effective, but it doesn't come with a hammer. It's it's more smooth, but it's very effective. And, you know, it it helps you. I can't really say that publicly. But it, you know, it helps me. It"
+    },
+    {
+        "start": "00:25:00.720",
+        "end": "00:25:25.120",
+        "text": "helps me personally with falling back asleep and having a nicer sleep. And I don't really have sleep problems though. I must say, I mean, I leverage it now when when I have international travel to help mitigate jet lake and things like that. But it, yeah, it's it's very positive and smooth in that regard. And very powerful. And we like it definitely better than the old one."
+    },
+    {
+        "start": "00:25:25.120",
+        "end": "00:25:53.120",
+        "text": "Okay. And so I just want to clarify that, you know, the frequency is for is to basically help sleep, you know, people sleep as opposed to anxiety panic attacks, things like that, right? I mean, you can kind of take the word calm and rest in different contexts. So this one's more to as a sleep aid versus a anxiety panic aid. Would that be correct? I just want to clarify that."
+    },
+    {
+        "start": "00:25:54.080",
+        "end": "00:26:20.560",
+        "text": "Yeah. So I mean, for anything in regards to anxiety and then so on, I would I would probably move towards the inner peace frequency rather. Okay. Yeah. But this may may still be a good combination, right? So that at nights, you use this one and then, you know, during the day, you use a little bit of the inner peace. Yeah. Okay, that's a good idea. Okay. And then so you"
+    },
+    {
+        "start": "00:26:20.560",
+        "end": "00:26:48.000",
+        "text": "were telling me when we were chatting before the show about the remarkable results from the brain support frequency, and you know, when you guys went to run it through studies. Can you want to do you want to share some of that? Yes. What is this new? Like, what does this new frequency do? Is it for students or what? Yeah. Yeah. So it's well outside. Yeah. So that's it. So for everyone"
+    },
+    {
+        "start": "00:26:48.000",
+        "end": "00:27:16.160",
+        "text": "that's listening. So this is this is the probably the most exciting stuff that I've witnessed in quite a long time. And I've I've seen a lot. I've seen all these amazing studies that, you know, each time something like that happens, it blows my mind, even though I know it all works, you know, with ATP production, the wound healing, the blood and all of that, right? Yeah. But this one now,"
+    },
+    {
+        "start": "00:27:16.960",
+        "end": "00:27:40.800",
+        "text": "this one, we had never really done much with brainwaves, right? There were some first tests that were done that were positive, but but nothing more than that. And so it's a new field. And you go into this as, okay, we know it works. And this is what should happen. But you have no idea, really, right? Until it's finally tested. This went to an institute that works out of"
+    },
+    {
+        "start": "00:27:40.800",
+        "end": "00:28:05.680",
+        "text": "Switzerland and Germany. And they have the most advanced EEG device on the market. And I think, at minimum in Europe, we could not find anyone in the US that has a device like that. It costs about 140,000 US dollars. And as has 256 channels, it's absolutely incredible. And so the way they"
+    },
+    {
+        "start": "00:28:05.680",
+        "end": "00:28:34.160",
+        "text": "test is that you come in, you get a before test with with no electromagnetic fields. They have a room where there's no electromagnetic fields. Then you sit on this chair, like you can see here on the video, you get this helmet on also for the first test already, you get this little helmet on. Then you have this lady sitting in front of the computer who's actually reading the EEG."
+    },
+    {
+        "start": "00:28:34.960",
+        "end": "00:29:02.800",
+        "text": "And you get a phone, an iPhone 15 placed next to your ear. And actually, this picture was taken when the phone was, it hadn't even started here, I think, because it was moved much closer. It was about, I would say, at most half an inch away from the ear. And then a 5G call would get started."
+    },
+    {
+        "start": "00:29:03.360",
+        "end": "00:29:29.360",
+        "text": "And they didn't talk, but it was basically the 5G connection call for 30 minutes. And then they would run this EEG for 30 minutes. Now, after that, we would place this person. And there were, you know, I think 12 test persons, if I'm not mistaken, we placed them into the quantum upgrade."
+    },
+    {
+        "start": "00:29:29.360",
+        "end": "00:29:58.960",
+        "text": "And then the whole thing started over, right? The phone would be placed there and they would run a 30 minute EEG. And the results were incredible. All the different areas of the brain got activated. The negative effects onto the brain, which were rough, so rough. It's crazy. So this lady here,"
+    },
+    {
+        "start": "00:29:58.960",
+        "end": "00:30:21.600",
+        "text": "she is one of the top experts in Europe, in regards to reading EEG, she has done this for decades. And there's no one that knows more about this than she does, let's say that way. And she said that, in regards to the brain, what these 5G frequencies do and other EMF frequencies,"
+    },
+    {
+        "start": "00:30:21.600",
+        "end": "00:30:46.960",
+        "text": "is they put your naturally occurring brainwaves into an artificial box. And then they just, do you have these brainwaves in a box? I mean, I don't want to speculate much about mind control, right? But it's something where it is all in a box. It's all in a freaking box. It's not"
+    },
+    {
+        "start": "00:30:46.960",
+        "end": "00:31:14.720",
+        "text": "natural anymore. So the brainwaves change significantly. And it's not good. And people also feel that. Now, the interesting part is that the quantum upgrade with the brain support frequency was able to neutralize these. And she could actually, as soon as the quantum upgrade came on, she saw it on the EEG. Like, she could literally also tell us we knew energetically when it was"
+    },
+    {
+        "start": "00:31:14.720",
+        "end": "00:31:43.680",
+        "text": "starting. And she saw it on the EEG, the significant difference, right, in every regard. And there was even one of the test persons there, an older man who had a brain stroke, I think you call it brain stroke in the US, and about 10 years ago. And since that day, he had always crazy disturbances and disturbing frequencies in his EEG. And he had run to all kinds of different doctors and people"
+    },
+    {
+        "start": "00:31:43.680",
+        "end": "00:32:13.280",
+        "text": "to figure out what could be done to remove that and to have this be normal again. And no one could figure it out. Now, the quantum upgrade normalized this within just a few minutes. And that was quite amazing. There were other things also that we picked up that would actually happen because, you know, the brain is such an integral part, obviously, of our physical existence,"
+    },
+    {
+        "start": "00:32:13.280",
+        "end": "00:32:41.680",
+        "text": "right? And if the brain waves suddenly work in optimal function, it has an impact on the whole body. And I can't say much more than that, because I need to be a little bit careful in what I say and how I say it. But I think you can read between the lines. There is stuff that goes way beyond the brain that is positively impacted and influenced by this. Now, I want to say that the study report"
+    },
+    {
+        "start": "00:32:41.680",
+        "end": "00:33:10.400",
+        "text": "isn't in our hands yet. So we will probably still need for another, yeah, maybe three weeks until we receive it. And then, of course, we'll share. But we already know that it worked tremendously in every test person, not just in a few in in every single one. And it was literally, you know, you turn it on, waited until, you know, how does the up to five minutes, right? It takes one to five"
+    },
+    {
+        "start": "00:33:10.400",
+        "end": "00:33:34.560",
+        "text": "minutes until the quantum upgrade comes on. And it was right there. It was right there, so visible and noticeable. Yeah. And it also they will actually have these pictures of the brain as well. That's what this device can do. They don't just measure, but they can also visualize the brain and what got"
+    },
+    {
+        "start": "00:33:34.560",
+        "end": "00:34:04.560",
+        "text": "activated and all of that. And yeah, it's it's quite phenomenal. Now they they were still they were speechless before that, when they started before they started the study, they said, I mean, if if if that is possible, that would be a sensation, right? I don't know if that's the right word English, but that's that's how they call it in German. Because they said this would be incredible. Right. And they they still thought it wouldn't be possible. Very quickly,"
+    },
+    {
+        "start": "00:34:04.560",
+        "end": "00:34:32.000",
+        "text": "they found out it definitely was possible. Yeah, you can you can you can basically affect a person's brain waves from a distance is not something that's traditionally accepted in modern science. You know, that's really kind of like the world of magic. But you're like, yeah, I can we can do all this stuff from a distance while you're watching. It's pretty that that's just probably blows people away all the time. When you"
+    },
+    {
+        "start": "00:34:32.000",
+        "end": "00:34:57.760",
+        "text": "start doing these things, I can just imagine people freaking out just like because that's just absolutely not possible in the way they understand physics. But yeah, this is so cool. So, you know, I'm just curious. How long do you know how long the effects last after you're no longer running the frequency? Like, does it last for a day? Then you got to turn it back on if you want it, you know,"
+    },
+    {
+        "start": "00:34:57.760",
+        "end": "00:35:21.920",
+        "text": "but was anything like that looked at? No, none of that was looked at. So we won't have any data in that regard. I think that's still something to be explored. And it's it's I don't think there will be a simple answer. It's the same thing with, you know, how long does charge water say charge? Right? It's the same same answer. I think it depends. You know, you have a positive effect"
+    },
+    {
+        "start": "00:35:21.920",
+        "end": "00:35:47.760",
+        "text": "and that that lasts definitely for a while. And the kick starts, you know, certain positive processes and processes in the body. But how long it really lasts depends on how you behave afterwards, what you do afterwards and all of that. But it does have an effect that goes beyond just the session. I mean, we definitely know that. Yeah, now you make a good point because people"
+    },
+    {
+        "start": "00:35:47.760",
+        "end": "00:36:14.720",
+        "text": "ask all the time about the water thing. And my response is that, you know, water so easily overwritten because it stores memories that, you know, there's all depends on what happens to the water after you're done. You know, if you put it next to Wi-Fi router, it's immediately erased kind of thing. Yeah. And you know, we're we're mostly water. So, but yeah, you know, honestly, this this this frequency is sounds amazing. I just as, you know, let everybody out there know, I"
+    },
+    {
+        "start": "00:36:15.440",
+        "end": "00:36:42.480",
+        "text": "Philip gave me access to it early. I did try it for a week. I have an incredible story about trying it. It'll be part of my what happened to me when I slept in the block story. But yeah, it was pretty wild. Man, that was that was wild. What happened to me when I turned that thing on. So yeah, definitely. And I'm happy actually. So if people are interested in what I experienced, I mean, I'm happy to share right now if you want me to. Oh, yeah, please, because that's the"
+    },
+    {
+        "start": "00:36:42.480",
+        "end": "00:37:11.680",
+        "text": "whole point. I mean, for me, it's such a long story. I didn't want to shove it into this video. You know, what happened to me sleeping in the grand block and also using the brain support frequency was pretty crazy story. But yeah, what how about for you? I mean, how did it work out for you or would it? Yep. So by the way, I'm wearing these, how do you call them air pods right now? And obviously, those are pretty detrimental for the brain and for the head,"
+    },
+    {
+        "start": "00:37:11.680",
+        "end": "00:37:36.880",
+        "text": "et cetera. I've charged them now with the brain support frequency, because we I mean, we really figured that this brain support frequency for the brain is so much more powerful than if you're just using the neutral quantum energy. And so that's just something to keep in mind for people. It really is probably if you have the quantum upgrade on, obviously, with the brain support,"
+    },
+    {
+        "start": "00:37:36.880",
+        "end": "00:38:03.840",
+        "text": "you all set by this this stuff, then can impact you in a negative way. And the way I really feel it is when I turn it on, I become more aware. My I literally notice how my whole brain and all parts of the brain are leveraged in a way, it wasn't before. And I would argue that I probably already"
+    },
+    {
+        "start": "00:38:03.840",
+        "end": "00:38:30.880",
+        "text": "have a quite well functioning brain because I live super healthy and and all of these things, right? And I have the energy, you know, it's not that I'm starting being a very sick person, right? I'm starting already at a quite a good level, yet I see significant improvements. And if I set it on a booster, for example, and I've tried the 3,400 booster a few times. It's literally"
+    },
+    {
+        "start": "00:38:30.880",
+        "end": "00:38:59.360",
+        "text": "as if I can process so much more information. And it's multitasking suddenly on a super weird level. And it's not just the thinking aspect. So for example, I think this would be amazing for chess players. I think every chess player would have a significant boost. If you do any type of thinking work or you need to calculate something or do whatever, I think there it helps"
+    },
+    {
+        "start": "00:38:59.360",
+        "end": "00:39:26.080",
+        "text": "you a lot. But it's also about perception in the room, because it's not just the thinking part of the brain that's activated, it's all parts of the brain. So that you're calm, you're very where you notice the room around you in a very interesting and and and conscious way. You can interact with multiple people. If let's say you envision a room with multiple people,"
+    },
+    {
+        "start": "00:39:26.080",
+        "end": "00:39:56.000",
+        "text": "let's say you're at a party, right? And so there's multiple people that are talking. You're suddenly so much more alert with everything. It's it's quite incredible. I don't know if people have watched the movie Limitless with Bradley Cooper, that one comes to mind. You know, they at that, of course, it's completely different. They have this pill there. And then if you take this pill, it suddenly activates 100% of the brain. And then this guy is able to learn Chinese"
+    },
+    {
+        "start": "00:39:56.000",
+        "end": "00:40:25.840",
+        "text": "in a couple of days and learn to be an amazing piano player in a day and all these things, right? Of course, it doesn't do that, right? It doesn't go that far at all. But it's it goes towards that. The principle, I think, is the same, that you suddenly feel you're much more capable with with everything you're doing. And I'm very curious on what other people report. So we've heard this from many people now and now you we kind of see it also literally"
+    },
+    {
+        "start": "00:40:25.840",
+        "end": "00:40:52.000",
+        "text": "in these brainwave studies. But I'm very curious what other people report and I can't wait to see the video when you talk about it. Okay. Yeah, I mean, it definitely has a healing effect. You know, that's for sure. That's what really happened to me. But I gotta try it twice because I tried it while I was injured and had really unique experience and I'm gonna try it again."
+    },
+    {
+        "start": "00:40:52.000",
+        "end": "00:41:17.040",
+        "text": "And then later this semester, I'm gonna be trying it on my daughter, boosting her at, you know, 3400 and turning on brain support while she's taking exams. Yes. And just I just want to see because what I've been doing with her all the way up until now is whenever she's got exams, she just, she's really lazy about her dashboard. So she just texts me and says,"
+    },
+    {
+        "start": "00:41:17.040",
+        "end": "00:41:46.720",
+        "text": "I'm taking an exam at 1030. So I'll set her booster for 1030 and put her on focus, right? And then so, but now it's like, I want to try, you know, giving her the 3400 booster and putting her on brain support. And I just wanted to, you know, and see how that goes for a semester and get some, you know, comparison feedback from her. So yeah, she's my little guinea pig. That's awesome. And I would suggest if she's open to that, when she has specific days where,"
+    },
+    {
+        "start": "00:41:46.720",
+        "end": "00:42:15.840",
+        "text": "you know, she wants to study for a couple of hours here now and then, you know, for example, leading up to the exam, especially in the week leading up to that. Yeah, maybe she can leverage the brain support frequency already then while she's studying and then, you know, crank it up all the way for the exam. I'm curious. Yeah, yeah. So we're going to be, we're going to be testing, testing on the kid. But yeah, no, this is really cool. So this is available January 2nd on quantum"
+    },
+    {
+        "start": "00:42:15.840",
+        "end": "00:42:41.280",
+        "text": "upgrade. Is that correct? Yes, it's going to be a part of the heel bundle, if I'm not mistaken. And then also the all in one frequency bundle and that no extra charge, right? And then it'll be available on a card weeks later, right? Once you get the product ready to go. Yeah, I guess about two, three weeks later. Okay, great. So now on still on topic on the 2025"
+    },
+    {
+        "start": "00:42:41.280",
+        "end": "00:43:05.600",
+        "text": "new products, these are there's three other things that we had chatted about in the last new product video, which was I drops the quantum diagnostic service and a master class. And I thought I'd just throw it on the screen for you to give an update just to let people know who are interested in and had been asking about these. Do you have any status on them? Yeah. Yes, definitely. So the"
+    },
+    {
+        "start": "00:43:05.600",
+        "end": "00:43:28.240",
+        "text": "quantum eye jobs, I don't have an exact status. But my guess is that either in March or April, we'll be able to launch it. So we've made some some progress there. And the issue there isn't really the product itself. The product is ready to go. I mean, certainly would need to be produced"
+    },
+    {
+        "start": "00:43:28.240",
+        "end": "00:43:49.600",
+        "text": "in mass, but that's not really the big issue. The bigger issue is the yeah, you know, how we how we sell it. And we talked about that before. So but we're we're working on this and it's definitely going to happen. And then the quantum master class, it's probably the certified quantum energy"
+    },
+    {
+        "start": "00:43:49.600",
+        "end": "00:44:12.880",
+        "text": "practitioner. And that's the course. And that one is ready. It is ready and it's pretty much ready to go. We just didn't want to overwhelm people and and also not ourselves by launching everything at once right now. So this will launch in January. So we we can rest assured and generate this will"
+    },
+    {
+        "start": "00:44:12.880",
+        "end": "00:44:44.640",
+        "text": "launch, but rather towards the second half of January. And and it's going to be quite exciting. I'm pretty certain at this point that there will be a significant discount for everyone in the first 72 hours of this course. So you can become a certified quantum practitioner or quantum energy practitioner. And it's a whole course you go through. And then"
+    },
+    {
+        "start": "00:44:44.640",
+        "end": "00:45:07.680",
+        "text": "you will be able to not only help yourself better, but you'll also be able to help others better. And we will also more working on this, have a section on the website where if you want to, you can be listed basically as a certified practitioner. And then people could find you"
+    },
+    {
+        "start": "00:45:07.680",
+        "end": "00:45:35.280",
+        "text": "if they wanted to and yeah, get help really cool. I mean, how many hours of course work is there to complete? Well, I mean, it's it's quite a lot because there's there's homework too, but it really depends. You know, I think there's there's people that are more advanced in their knowledge and expertise already. They can go through this quite fast. And then for the ones that really want to"
+    },
+    {
+        "start": "00:45:35.280",
+        "end": "00:46:02.640",
+        "text": "take their time to also do the specific meditations, you know, there's for every chakra, for example, I personally recorded specific chakra meditations. You know, you can take more time. So it's a little bit of a time span. It's not, you know, it's it's exactly 50 hours exactly 100 hours. It depends on the individual. And that's how we wanted to do it as well. Because everyone has a different"
+    },
+    {
+        "start": "00:46:02.640",
+        "end": "00:46:32.480",
+        "text": "type of knowledge and expertise already. And some may want to do this super quick and someone would really take that time. Okay, cool. Well, I'm looking forward to hearing about that. Okay, so that's the eyedrops and the and the energy healer masterclass. And then the diagnosis, the last time we chatted, you were you were thinking end of 2025, or is that about still on track to have that service ready? So now with this one, you need to"
+    },
+    {
+        "start": "00:46:32.480",
+        "end": "00:46:57.440",
+        "text": "remind me what this was about because I'm on that one. Okay, you had mentioned earlier in the year that you guys were tinkering around with creating a side, you know, service with quantum upgrade that could do diagnostics, like basically energetically determine what kinds of issues you"
+    },
+    {
+        "start": "00:46:57.440",
+        "end": "00:47:25.280",
+        "text": "may have, right? So that you can then focus different frequencies on. So you know what's basically yes, things you need to work on. Yeah. And then that this would be a diagnostic something similar to several of the different software systems out there right now that do diagnostics versus on voice prints, but you would be doing diagnostics off of energy prints. Yes, 100%. So I know exactly what you're talking about. I was just confused because it was written under"
+    },
+    {
+        "start": "00:47:25.280",
+        "end": "00:47:52.160",
+        "text": "the lead like quantum products. And I was like, okay, so what is it that we're planning there? We're not because this is a quantum upgrade feature. Okay. And and yeah, we're we're not far in with the actual diagnostics part of it. But I don't consider that the most difficult anyway, the most difficult for us is to actually find the frequency that is then"
+    },
+    {
+        "start": "00:47:52.160",
+        "end": "00:48:16.640",
+        "text": "individually geared towards the individual that takes the test in order to optimize everything for them specifically in that moment fast. And that is what we've been working on. And we've made great headway with that. So, okay, yeah, given that, you know, maybe,"
+    },
+    {
+        "start": "00:48:16.640",
+        "end": "00:48:45.920",
+        "text": "maybe by the end of the year, we'll be able to have this ready. It's a long development. Oh, yeah, technically. And, and you know, getting the diagnostics, right, and all of that, that's it. It's a big technological task. But again, the energetically, the the most difficult is what we started with first. And that is where we're already extremely far. I've been a guinea pig,"
+    },
+    {
+        "start": "00:48:45.920",
+        "end": "00:49:14.880",
+        "text": "by the way, one of them. Oh, yeah. Yeah. You know, uh, basically, if they get it picks out there, let me know, you know, hey, just me anytime you need me, just throw me on the on the list. But no, that sounds really cool. Basically, I didn't realize you were working on frequencies to go with the diagnosis. So, that's pretty cool. I mean, the idea is really to so that you can get tested and let's say you have,"
+    },
+    {
+        "start": "00:49:14.880",
+        "end": "00:49:43.680",
+        "text": "I don't know, you have metabolic issues and these issues and all that, that not only do you get tested, but then you can actually get this specific freaking what whatever you need in that moment to to to heal as fast as possible, right? That you would get that. And then this would run for a week or two. And then, you know, it would constantly optimize again. And then you could"
+    },
+    {
+        "start": "00:49:43.680",
+        "end": "00:50:11.360",
+        "text": "do a retest and and so on. So that's, that's basically the idea. You know, you are so far ahead of your time, because you know what you've just described, a quantum medbed, because that's that's the whole vision, you know, of the future medbed, right, that you just lay in a thing. And it says, Hey, this is what's your problems. And here you go, you know, and then zap you with whatever you need to kind of hear or, you know, address that issue."
+    },
+    {
+        "start": "00:50:11.360",
+        "end": "00:50:35.920",
+        "text": "And yeah, it's pretty wild, man. Yeah, it's, it's really wild, what you're building. And I know it's probably going to work because every time you crank out something, it's just amazing. Okay, I'm really looking forward to that one, because I want to, once that comes out, you know what I want to test more than anything I've been wanting to test forever, is the ability to replace supplements physical with frequency, right, the supplements."
+    },
+    {
+        "start": "00:50:35.920",
+        "end": "00:51:03.760",
+        "text": "And I don't have a tool that can tell me how I'm doing, you know, they're, you know, so yeah, but there's one person I know that that did that using a different tool, you know, to keep up dieting, you know, keep checking how they're progressing without physical supplements and then using frequency instead. So I definitely want, I need a really good tool to track how that works out. But I think I have a solution for that also, by the way."
+    },
+    {
+        "start": "00:51:03.760",
+        "end": "00:51:30.960",
+        "text": "Okay, how do you crack that nut? Because that's like one of the biggest questions we get, right? People ask like, Oh, now that I've got the neutral bio base, do I need to take supplements anymore? And I'm always going, yeah, you still need to take it because you're still a 3D meat bag, you know, we're all still walking around with meat sacks. So but there are people who can survive off frequency. Yes, that is absolutely true. And elevated energy, you know, they're they've elevated their consciousness to the point of"
+    },
+    {
+        "start": "00:51:30.960",
+        "end": "00:51:57.440",
+        "text": "them being energy being. So how do you crack that nut? Yeah, so you absolutely right, there are some that can do that. And I think that number will increase. But for everyone else, we've figured out a way where you can combine the pure energetic with with some something physical. I don't want to really say too much, but there's a"
+    },
+    {
+        "start": "00:51:57.440",
+        "end": "00:52:24.800",
+        "text": "delivery mechanism. Just imagine you could let's let's take the original heal frequency, right? That contains, you know, almost 80 different vitamins and minerals and organic plant extract. Let's take that one, right? So now you have that just as a frequency card or just in the quantum upgrade, it works well, but it's maybe the efficacy level is, I don't know, maybe between"
+    },
+    {
+        "start": "00:52:24.800",
+        "end": "00:52:54.400",
+        "text": "45 and 85%, right? That that's what I'm kind of guessing. If you then could take a drop of water that also contain this frequency is suddenly that moves up the ladder on the percentage scale, quite significantly. For whatever reason, we've tested this, it does work better. Now, just water wouldn't work though, because water doesn't hold a frequency long enough. So if we"
+    },
+    {
+        "start": "00:52:54.400",
+        "end": "00:53:21.280",
+        "text": "gave you, let's say just, I don't know, water bottle with this frequency, the frequency would be out of the water after some time, right? So now we have a special water now that can actually hold this energy pretty much for years and years and combine that with actual frequency."
+    },
+    {
+        "start": "00:53:21.280",
+        "end": "00:53:47.680",
+        "text": "And then you're you're pretty much right there where you describe where you want to be. Okay, okay. There you go. Okay, because I actually do water imprinting, I created my own neutral bio base and combined with anti-aging stuff. And so every pitcher of water, I run it through my RSO filter, fill up a pitcher, put it in my ground block with my frequencies for vitamins, minerals,"
+    },
+    {
+        "start": "00:53:47.680",
+        "end": "00:54:10.960",
+        "text": "and anti-aging supplements. And I charge the water and imprint the water, and then it goes in the fridge, right? And then I'll drink it like within a day. But it's just regular RSO water. Is there something you could do to the water before I try to imprint it? Is that what you're saying? Or is that like a product you're going to start selling, which is you're going to sell special quantum"
+    },
+    {
+        "start": "00:54:10.960",
+        "end": "00:54:34.080",
+        "text": "water or something like that? So think of salt. So now you may have the answer. You could you could use you could use a hypertonic, you know, sea water that's nano filtered, for example, because salt holds that information pretty much forever. You could you could go with"
+    },
+    {
+        "start": "00:54:34.080",
+        "end": "00:55:01.760",
+        "text": "saline solution, you know, things like that. Yeah, it's actually fairly simple. I mean, there's other ways to, you know, you know, how the tip, the, the globally, I don't know how you call them the homeopathic medicine, they come in these tiny little pills, right? Yeah. And so that would be also another way to do it. But in terms of drops, that's, that's what I would do. I would"
+    },
+    {
+        "start": "00:55:01.760",
+        "end": "00:55:31.760",
+        "text": "go with a nano filtered sea water. Okay. All right, I got it. Okay. So you need something in the water to imprint on. Okay. Because I've been imprinting on pretty much pure water. RSO does have some little bit of minerals. It's not as, it's not as clean as distilled water. But yeah, I get what you're saying. Okay. So we're going off on a tangent, guys, for you tinkers out there. That's how you can get off. You can tinker with replacing supplements with"
+    },
+    {
+        "start": "00:55:31.760",
+        "end": "00:55:55.760",
+        "text": "frequency of supplements. Wow. Okay. So that that'll be a whole new thing that we're going to try here. So in the future. All right, man. Okay. So great. That wraps up as now, is there anything else coming up in 2025 that, that I didn't get on the list? I think this is pretty much it. Thank you very much for your time today, Philip. I'm going to get this out right away. Get people"
+    },
+    {
+        "start": "00:55:55.760",
+        "end": "00:56:23.840",
+        "text": "excited about the 2025. Oops. We got to update this with 2025 product updates. Also, what's coming out new for the studies as well as some Q&A stuff. So, but again, thank you so much, Philip, for your time today. I really appreciate it. Now, of course, everybody knows where to get ahold of Philip. You know, get ahold of me if you've seen any one of my dozens of videos. So we'll just skip all that part and just say thanks and really appreciate your time and your insights, Philip. Thank you"
+    },
+    {
+        "start": "00:56:23.840",
+        "end": "00:56:48.160",
+        "text": "very much. Well, I want to say thank you to you, Kay, for all this amazing work and what you're contributing to this space. It can't be acknowledged enough. It's just absolutely phenomenal. The ideas you have, the value that you create for all these people that, for example, you're breaking"
+    },
+    {
+        "start": "00:56:48.160",
+        "end": "00:57:15.360",
+        "text": "down studies in a way that it's understandable and not just adjustable for the everyday person that's not usually trained in reading studies and science, and they may not even have the time to do that. All of this is just phenomenal. So I'm so grateful for everything also, for being so active in the community and a big apology. Oops. I think I lost my"
+    },
+    {
+        "start": "00:57:15.360",
+        "end": "00:57:43.280",
+        "text": "earstick here. Hopefully you can still hear me. So I want to apologize to everyone in the communities, by the way, also that I in 2024, I really haven't been as active in the communities as I had wanted. It's just been so much, you know, with everything going on, you know,"
+    },
+    {
+        "start": "00:57:43.280",
+        "end": "00:58:09.760",
+        "text": "separated from my wife crew, which not many people know that happened in February. We're still great friends, by the way, and we still show up at conferences together and all of that. So, you know, it couldn't be better on that level, but it was still a difficult time. On top of that, all the work, all the travel, and then also the tennis on top of it, and having a dog that he was taken care of all the time. It's just, it's been impossible to do that,"
+    },
+    {
+        "start": "00:58:09.760",
+        "end": "00:58:35.120",
+        "text": "and also for the trauma easy community, for example, you know, I had wanted to actually, you know, set up these more or less regular webinars where we can talk about that, and maybe do some trauma work together, and all of that I still want to do. It just was not possible in 2024, and let's see that we can get something started at least in this new year."
+    },
+    {
+        "start": "00:58:35.120",
+        "end": "00:59:01.520",
+        "text": "But it's just, it's not that I don't want to. It's just been so much, and hopefully at least people see that everything is moving forward. We keep developing new stuff, and that for me is still always the most important that we, you know, do the research, and all of that, and have great products, and develop everything, and take it to the next level, and everything else comes"
+    },
+    {
+        "start": "00:59:01.520",
+        "end": "00:59:31.520",
+        "text": "after that. But yeah, that's what I wanted to say at least. You know, it's not that I want to stay away from the groups at all. No, you know, honestly, I feel comfortable speaking for the group to say, \"Hey, you know, no worries, man.\" And, you know, you've had like so many others, you know, had a tough year, but you're really moving the dial. What you are doing is changing the world, honestly. I mean, it's a big statement, but think about it. I mean, you know, the fact that you are"
+    },
+    {
+        "start": "00:59:31.520",
+        "end": "00:59:56.080",
+        "text": "funding studies that proves that non-einsteinine physics exists, quantum energy, life force energy is part of our reality, and all of the things you could do with it, and providing people with tools, to help them, and also be able to help themselves, and help the people around them. I mean, yeah, it's to me, it's amazing. So, but yeah, thank you so much, and it'll be great to have you,"
+    },
+    {
+        "start": "00:59:56.080",
+        "end": "01:00:22.000",
+        "text": "if you have time in 2025, spend a little bit more time in the groups, if you have a chance, that's great. But I think everyone would just feel like, you know, supportive of you, and just say, \"Thank you for everything you're doing.\" You know, thank you for paying out of your pocket for all of these studies that we all can learn and become better together, and that one thing you do about every product sale, man, you're still planting trees, right?"
+    },
+    {
+        "start": "01:00:22.000",
+        "end": "01:00:50.960",
+        "text": "That's, I think that's something people forget about, but every time anyone buys anything, Philip hires someone to go plant a tree. So, you've got this whole thing going on on the side that nobody ever talks about, but I just think it's awesome. How many trees lay like you as planted by now? But anyways... That's true. Yeah. So, hey, happy new year. Yeah, it's New Year's Eve. So, happy new year. This video will come out. You all know what's going to happen on the second."
+    },
+    {
+        "start": "01:00:50.960",
+        "end": "01:01:08.600",
+        "text": "I'll get that out as quick as possible, and I just want to say thanks a lot. And if you don't mind, can you just hang on? Well, I'm going to stop the recording, but hold on for a second before you leave. Absolutely. Thank you, and happy new year to you and to everyone out there in the communities. Okay, thanks a lot. Happy New Year, everyone. Aloha."
+    }
+]

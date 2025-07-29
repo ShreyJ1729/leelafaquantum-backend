@@ -1,0 +1,913 @@
+
+[00:00:00.000 --> 00:00:06.000]   I love how everyone and welcome to another Tinkers Academy video.
+[00:00:06.000 --> 00:00:10.880]   I'm your host, Kaylmer, and today I've got two guests with me to talk about an exciting
+[00:00:10.880 --> 00:00:11.880]   subject.
+[00:00:11.880 --> 00:00:16.440]   I've got Ein Mitchell of Wizard Sciences and Philip Montholtzendorf of Leila Quantum
+[00:00:16.440 --> 00:00:17.440]   Tech.
+[00:00:17.440 --> 00:00:18.440]   Hey, guys.
+[00:00:18.440 --> 00:00:19.440]   How are you doing today?
+[00:00:19.440 --> 00:00:20.440]   Doing well.
+[00:00:20.440 --> 00:00:21.440]   Okay.
+[00:00:21.440 --> 00:00:22.440]   Good to see you.
+[00:00:22.440 --> 00:00:23.440]   All right.
+[00:00:23.440 --> 00:00:24.440]   So let me know.
+[00:00:24.440 --> 00:00:25.440]   Yeah.
+[00:00:25.440 --> 00:00:26.640]   So let me go ahead and introduce these guys to you guys.
+[00:00:26.640 --> 00:00:29.680]   For those of you who don't know who these two, one incredible gentleman are.
+[00:00:29.680 --> 00:00:34.400]   Ein Mitchell, again, like I mentioned, he's the owner/operator/founder of Wizard Sciences.
+[00:00:34.400 --> 00:00:37.400]   He's an incredible scientist.
+[00:00:37.400 --> 00:00:43.200]   Several patents under his belt, and he's also an aspiring German rap star from the last
+[00:00:43.200 --> 00:00:44.360]   I heard.
+[00:00:44.360 --> 00:00:50.080]   And he does now, and most lately, he's doing motorcycle stunts on his feet.
+[00:00:50.080 --> 00:00:51.080]   Yeah.
+[00:00:51.080 --> 00:00:53.080]   He's an amazing person.
+[00:00:53.080 --> 00:00:54.080]   He's a stuntman.
+[00:00:54.080 --> 00:00:55.080]   He's a rapper.
+[00:00:55.080 --> 00:00:57.280]   And he's a scientist and an all-around good guy.
+[00:00:57.280 --> 00:01:02.200]   He's a father of teenagers, so that might explain some of his mental lapses when it
+[00:01:02.200 --> 00:01:04.600]   comes to motorcycle riding.
+[00:01:04.600 --> 00:01:07.680]   And then there's Philip Montholtzendorf, my buddy.
+[00:01:07.680 --> 00:01:15.800]   He is an amazing person, you know, telecom tech executive who turned into this incredible
+[00:01:15.800 --> 00:01:22.540]   human being when abandoning the corporate lifestyle, shaman, literally trained shaman.
+[00:01:22.540 --> 00:01:26.600]   He's the owner/operator of Leila Quantum Tech, Quantum Upgrade.
+[00:01:26.600 --> 00:01:27.840]   And also Leila Labs.
+[00:01:27.840 --> 00:01:32.840]   I mean, it's really interesting how you guys have a lot in common when it comes to, we
+[00:01:32.840 --> 00:01:35.400]   all met each other, I think, through C60.
+[00:01:35.400 --> 00:01:40.040]   Our work, I mean, you know, Ein has a C60 company, Philip has a C60 company.
+[00:01:40.040 --> 00:01:45.000]   I'm like this C60 nerd, and that's kind of how we all met.
+[00:01:45.000 --> 00:01:48.440]   But then you also have this really interesting link between the two of you with motorcycles
+[00:01:48.440 --> 00:01:53.560]   because Philip's son, as I believe, competes at a professional level or an amateur level,
+[00:01:53.560 --> 00:01:54.560]   right?
+[00:01:54.560 --> 00:02:00.000]   And he says his own little experiences with stunt driving.
+[00:02:00.000 --> 00:02:05.360]   So yeah, I was thinking between the two of you, you know, and also Ein is now the Leila
+[00:02:05.360 --> 00:02:06.760]   Quantum Tech Science Advisor.
+[00:02:06.760 --> 00:02:10.360]   So I was thinking maybe if you guys ever branch out and create a subsidiary, you might want
+[00:02:10.360 --> 00:02:16.720]   to create something for people who experience motorcycle accidents because, you know, it
+[00:02:16.720 --> 00:02:20.920]   seems to be something that runs in your timeline there.
+[00:02:20.920 --> 00:02:26.240]   So, but anyway, I thought that I mean, between Philip's son, you, Ein, I think the last 12
+[00:02:26.240 --> 00:02:28.520]   or 18 months have been quite adventurous.
+[00:02:28.520 --> 00:02:33.880]   And I'm glad to hear that everybody has enough, and I'm really glad to hear that you've healed
+[00:02:33.880 --> 00:02:37.720]   up so well and that Philip's son is back to writing.
+[00:02:37.720 --> 00:02:41.560]   And yeah, and if you listen to other interviews, everybody, I'm just joking around.
+[00:02:41.560 --> 00:02:47.200]   But we were talking about Philip's son and Ein had major accidents in the last 18 months,
+[00:02:47.200 --> 00:02:48.440]   but everything's better now.
+[00:02:48.440 --> 00:02:50.640]   And there were some quantum healing involved in that.
+[00:02:50.640 --> 00:02:52.760]   So there you go.
+[00:02:52.760 --> 00:02:55.240]   So yeah, everyone of quantum healing.
+[00:02:55.240 --> 00:02:56.240]   Yeah.
+[00:02:56.240 --> 00:02:57.240]   Yeah.
+[00:02:57.240 --> 00:02:59.000]   So let's talk about that when it comes to quote wound healing, right?
+[00:02:59.000 --> 00:03:01.800]   So anyway, hey, you know, this is part two, everybody.
+[00:03:01.800 --> 00:03:05.920]   And so you can other be linked to the part one video in the video description where we
+[00:03:05.920 --> 00:03:11.080]   talk about in the part one, we talked about the language of quantum energy and how it's
+[00:03:11.080 --> 00:03:16.600]   just really a new, a new aspect to an existing science quantum mechanics, right?
+[00:03:16.600 --> 00:03:17.600]   And quantum healing.
+[00:03:17.600 --> 00:03:21.720]   But you know, when you take this traditional quantum mechanics in the physics realm and
+[00:03:21.720 --> 00:03:26.400]   you start expanding on that into quantum biology and quantum healing and all of that,
+[00:03:26.400 --> 00:03:29.560]   you know, there was really, you know, what's there is there and is there now?
+[00:03:29.560 --> 00:03:33.280]   Was there, is there language that explains what's really going on and what we're seeing
+[00:03:33.280 --> 00:03:35.040]   in results from testing and studies?
+[00:03:35.040 --> 00:03:36.280]   So we talked about that.
+[00:03:36.280 --> 00:03:40.920]   We talked about how, how Kiwi works at a high level, you know, how we're conscious this place
+[00:03:40.920 --> 00:03:42.160]   into it.
+[00:03:42.160 --> 00:03:45.800]   And then the idea of quantum entanglement and then how to apply quantum energy to your
+[00:03:45.800 --> 00:03:46.800]   daily life.
+[00:03:46.800 --> 00:03:49.480]   You can find all of that in part one.
+[00:03:49.480 --> 00:03:52.040]   And so as we kind of go through part two, we're going to be touching on some of these
+[00:03:52.040 --> 00:03:54.000]   issues to see what the updates are.
+[00:03:54.000 --> 00:03:59.320]   But more so, I think the very first thing and I think the most exciting thing that I've
+[00:03:59.320 --> 00:04:03.920]   seen in the last 12 months is our first video about the science of quantum energy is how
+[00:04:03.920 --> 00:04:08.920]   advanced you two guys and I just applaud you guys because you are doing something literally
+[00:04:08.920 --> 00:04:10.440]   nobody else is doing.
+[00:04:10.440 --> 00:04:14.960]   You know, I can't find and I do some deep dive searches on where is, you know, what are
+[00:04:14.960 --> 00:04:18.400]   other people doing in this space and there's like almost nobody doing anything.
+[00:04:18.400 --> 00:04:20.200]   I mean, there's, there's a here and there, right?
+[00:04:20.200 --> 00:04:24.480]   But nothing like what you have done, which is you're producing actual valid response
+[00:04:24.480 --> 00:04:28.040]   doing, you know, you know, double blind, shamp studies, you're doing all this dark field
+[00:04:28.040 --> 00:04:32.200]   microscopy, bioenergetics, and I just amazing what you're doing.
+[00:04:32.200 --> 00:04:37.320]   But you know, I'd like you, if you guys don't mind, you can jump in and kind of talk about
+[00:04:37.320 --> 00:04:42.400]   like in the last year, I think that the studies or the, or the preliminary studies, right?
+[00:04:42.400 --> 00:04:46.080]   That they're preliminary and they haven't been published yet or the studies actually
+[00:04:46.080 --> 00:04:54.400]   came out on the effect of quantum energy for autism, EMF, you know, the effects on allergens
+[00:04:54.400 --> 00:04:58.280]   and toxins as they relate in ATP production and wound healing.
+[00:04:58.280 --> 00:05:04.240]   So, and just on as a side note, guys, I'm, I'm, I've self promoted myself to scribe for
+[00:05:04.240 --> 00:05:09.200]   your work and I created a series of videos called the benefits of quantum healing where
+[00:05:09.200 --> 00:05:12.080]   I'm basically reporting on the studies as they come out.
+[00:05:12.080 --> 00:05:16.720]   So folks, for you guys are interested in learning a lot about these, I do a video on each one
+[00:05:16.720 --> 00:05:17.720]   of these things.
+[00:05:17.720 --> 00:05:22.040]   So, but that's the new series that I've been creating since the beginning of the year.
+[00:05:22.040 --> 00:05:25.800]   So you can find out more information there, but I got you two guys on the line.
+[00:05:25.800 --> 00:05:27.960]   So hey, guys, what's new?
+[00:05:27.960 --> 00:05:32.800]   What have you learned in the last year as to the science of quantum energy and what
+[00:05:32.800 --> 00:05:34.880]   it's capable of doing?
+[00:05:34.880 --> 00:05:38.880]   Go ahead, I just really am just excited to hear what you guys are thinking.
+[00:05:38.880 --> 00:05:43.080]   Well, why don't you jump in and I'll, I'll chime in behind because I have my kind of
+[00:05:43.080 --> 00:05:46.840]   my own opinion about how things have gone for the year.
+[00:05:46.840 --> 00:05:48.320]   Yes, sounds good.
+[00:05:48.320 --> 00:05:49.320]   Yeah.
+[00:05:49.320 --> 00:05:56.520]   So, I mean, it's, it's actually quite remarkable that, that after all the initial first results
+[00:05:56.520 --> 00:06:02.560]   and testing and experiments and all of that, there's so much more that, that came out over
+[00:06:02.560 --> 00:06:07.720]   the last year and it just seems that as soon as there's a new research area popping up
+[00:06:07.720 --> 00:06:12.440]   where we get some anecdotal reports from folks out of the telegram groups or something
+[00:06:12.440 --> 00:06:19.600]   we find out ourselves, if we dive deeper into this and there's more research facilitated
+[00:06:19.600 --> 00:06:23.120]   that those results are also produced.
+[00:06:23.120 --> 00:06:26.960]   So I mean, you, you listed these all up here.
+[00:06:26.960 --> 00:06:33.240]   You, you know, you mentioned the autism, the EMF, intelligence and toxins, ATP production,
+[00:06:33.240 --> 00:06:34.240]   wound healing.
+[00:06:34.240 --> 00:06:38.800]   I mean, these are, these are huge fields if you think about it and if you just pick one
+[00:06:38.800 --> 00:06:44.600]   of those that the ATP production, that's massive on its own.
+[00:06:44.600 --> 00:06:50.680]   So yeah, I think we find out a lot more the last year was incredible.
+[00:06:50.680 --> 00:06:58.840]   I think frequency, medicine, quantum medicine is the future.
+[00:06:58.840 --> 00:07:05.520]   And indeed, I think it will be a field that, that will grow.
+[00:07:05.520 --> 00:07:13.240]   I want to say though, that, that quantum mechanics has a fundamental flaw in it.
+[00:07:13.240 --> 00:07:20.160]   And that's also, it's, what I see is that's why you don't see any results there.
+[00:07:20.160 --> 00:07:24.560]   Some scientists that, that really believe in the whole quantum mechanics stuff because
+[00:07:24.560 --> 00:07:26.280]   it's rabbit hole.
+[00:07:26.280 --> 00:07:35.920]   It does not at all actually look at the reality and how it is quantum, quantum mechanics actually
+[00:07:35.920 --> 00:07:41.800]   would describe the whole thing as that consciousness comes after the fact.
+[00:07:41.800 --> 00:07:46.560]   And they also remove the ether out of the equation.
+[00:07:46.560 --> 00:07:49.280]   I don't know how many years ago that happened.
+[00:07:49.280 --> 00:07:56.960]   When that happened, basically you can now not even explain things anymore in a real way.
+[00:07:56.960 --> 00:08:01.360]   And where we pull out that energy is directly out of the ether.
+[00:08:01.360 --> 00:08:04.440]   And we work with the consciousness field.
+[00:08:04.440 --> 00:08:11.600]   And that that is what needs to be understood that the consciousness was always the first
+[00:08:11.600 --> 00:08:13.440]   that existed.
+[00:08:13.440 --> 00:08:14.440]   Nothing else.
+[00:08:14.440 --> 00:08:19.920]   Consciousness is, was and always will be, and it's the one and only thing that is always
+[00:08:19.920 --> 00:08:20.920]   there.
+[00:08:20.920 --> 00:08:22.360]   That is the truth.
+[00:08:22.360 --> 00:08:27.560]   And then you can go into the next levels and you can, you can look at the ether model
+[00:08:27.560 --> 00:08:31.640]   where we pull out the energy, for example, and yes, we call it quantum energy because
+[00:08:31.640 --> 00:08:33.480]   it really is quantum energy.
+[00:08:33.480 --> 00:08:40.120]   It's the, it's the, it's the, it's the, it's on the lowest level that you could, could
+[00:08:40.120 --> 00:08:46.120]   even think of that, that's why it's quantum, but it's not the quantum mechanics stuff
+[00:08:46.120 --> 00:08:48.080]   that a lot of other people talk about.
+[00:08:48.080 --> 00:08:50.040]   It really isn't.
+[00:08:50.040 --> 00:08:55.560]   And I actually believe those people won't produce any results because there's a fundamental
+[00:08:55.560 --> 00:08:58.480]   flaw in how they approach things.
+[00:08:58.480 --> 00:09:03.920]   And that's why there's a lot of theoretical modeling going on, but they're not getting
+[00:09:03.920 --> 00:09:06.800]   to the actual energy.
+[00:09:06.800 --> 00:09:09.240]   And that's where there's the big difference.
+[00:09:09.240 --> 00:09:10.240]   We're doing that.
+[00:09:10.240 --> 00:09:13.840]   And then if we're talking about frequencies, probably later we'll get into that that within
+[00:09:13.840 --> 00:09:17.600]   the quantum field, all frequencies exist.
+[00:09:17.600 --> 00:09:25.400]   And the frequency though, in order to be transmitted would need the quantum energy to be boosted.
+[00:09:25.400 --> 00:09:30.880]   And that's, that's, I think the, the unique part about what we're doing really is that
+[00:09:30.880 --> 00:09:38.720]   we've found a way and how you could transmit and transport frequencies in a way not seen
+[00:09:38.720 --> 00:09:39.720]   before.
+[00:09:39.720 --> 00:09:41.680]   You don't need an electrical device.
+[00:09:41.680 --> 00:09:47.440]   You don't need to turn on a sound like a speaker in order to hear a frequency.
+[00:09:47.440 --> 00:09:52.760]   Literally the frequency can be vibrating in any object.
+[00:09:52.760 --> 00:09:57.680]   And yeah, that's, that's my quick, quick summary.
+[00:09:57.680 --> 00:10:02.160]   We're seeing a lot where we're very, very deep into a lot more research.
+[00:10:02.160 --> 00:10:10.160]   We actually hired a person just a few months ago, who's now doing a lot of the groundwork
+[00:10:10.160 --> 00:10:12.720]   on, on a lot more research.
+[00:10:12.720 --> 00:10:23.440]   And then I know, of course, the chief science advisor helping us a great deal and he's instrumental
+[00:10:23.440 --> 00:10:31.000]   in, you know, understanding of these things and helping to look at these human cells and
+[00:10:31.000 --> 00:10:32.000]   what happens there.
+[00:10:32.000 --> 00:10:34.400]   It's just, it's amazing.
+[00:10:34.400 --> 00:10:37.400]   It's a lot of fun to work on it.
+[00:10:37.400 --> 00:10:43.320]   And, and I wrap up with this here because we're still so early that even though we're
+[00:10:43.320 --> 00:10:50.080]   producing all of these results and there's, it's just so many different results and so
+[00:10:50.080 --> 00:10:53.960]   many different fields with so many different institutes and test methods.
+[00:10:53.960 --> 00:10:58.360]   And there's still a lot of people out there that either haven't heard about it or that
+[00:10:58.360 --> 00:11:05.080]   they can't wrap the head around it because it's so not mainstream.
+[00:11:05.080 --> 00:11:10.240]   It's, it's, we haven't heard about it and it brings us back to, okay, so if you think
+[00:11:10.240 --> 00:11:15.320]   about the early times of the internet, you wouldn't think that's something like that
+[00:11:15.320 --> 00:11:16.320]   is possible.
+[00:11:16.320 --> 00:11:22.760]   Even if you go back 200 years and then tell people, you know, iron brought that up, you
+[00:11:22.760 --> 00:11:29.200]   know, how cell phones work, you, you can't really imagine how that works until it works.
+[00:11:29.200 --> 00:11:32.600]   And, and this is the same thing with this technology.
+[00:11:32.600 --> 00:11:36.240]   Oh, yeah, no, well said.
+[00:11:36.240 --> 00:11:37.240]   Yeah, totally.
+[00:11:37.240 --> 00:11:43.400]   I mean, so, okay, I want to get a million questions, but I am, and so, you know, what's
+[00:11:43.400 --> 00:11:48.040]   your take on, on, you know, because I guess the thing we talked about in part one, which
+[00:11:48.040 --> 00:11:53.400]   was we can't explain exactly what's going on, but we can prove it does something.
+[00:11:53.400 --> 00:11:57.600]   And then now we've got a year of studies, right, under our belt that says this is the
+[00:11:57.600 --> 00:12:04.080]   something it's doing, right, and then, and then in terms of like explaining like, okay,
+[00:12:04.080 --> 00:12:08.280]   well, you know, why do you think or what are the, what are these results coming from?
+[00:12:08.280 --> 00:12:11.720]   I mean, what would be, you know, what's your take on that?
+[00:12:11.720 --> 00:12:15.320]   Ask, ask the question one more time.
+[00:12:15.320 --> 00:12:16.920]   Yeah, you broke up for just a second.
+[00:12:16.920 --> 00:12:17.920]   Oh, okay.
+[00:12:17.920 --> 00:12:20.960]   Well, the question really is like, hey, you know what, we, you know, in the last video,
+[00:12:20.960 --> 00:12:26.280]   right, we, we talked about, you know, like we don't really have a, and even in your other
+[00:12:26.280 --> 00:12:30.520]   interviews, right, it's basically, we don't know the exact mechanics of, of how quantum
+[00:12:30.520 --> 00:12:34.160]   energy is doing what it's doing, but it's doing something.
+[00:12:34.160 --> 00:12:38.840]   So because of the result, you know, you know, that it exists and you can validate that there's
+[00:12:38.840 --> 00:12:43.440]   something there and in front of us right here on the slide is this is what's happening.
+[00:12:43.440 --> 00:12:49.880]   We've got some amazing things that are happening that nobody before us or before you has ever
+[00:12:49.880 --> 00:12:56.200]   been able to produce, which is, hey, I'm, I'm increasing ATP production by using this
+[00:12:56.200 --> 00:13:00.880]   quantum entanglement, you know, service by sending, you know, energy from another distance.
+[00:13:00.880 --> 00:13:03.440]   I mean, that's kind of unheard of, right?
+[00:13:03.440 --> 00:13:06.200]   Same thing with mitigating the effects of that.
+[00:13:06.200 --> 00:13:12.000]   So, you know, like the question is like we're these amazing results, you know, and then,
+[00:13:12.000 --> 00:13:15.600]   and then so like how, you know, like what do you, what do you think now a year later
+[00:13:15.600 --> 00:13:17.240]   that you're seeing these results?
+[00:13:17.240 --> 00:13:21.480]   Have you been able to kind of figure out, you know, what's really the driver, you know,
+[00:13:21.480 --> 00:13:22.480]   behind all this?
+[00:13:22.480 --> 00:13:28.200]   I guess to Phillips, you know, credit is about consciousness, but, but what's your take on,
+[00:13:28.200 --> 00:13:31.720]   on how these things are, you know, why is this happening and how, how are we getting these
+[00:13:31.720 --> 00:13:32.720]   results?
+[00:13:32.720 --> 00:13:39.880]   Well, so I think over the past year, we've, we've definitively done some really good
+[00:13:39.880 --> 00:13:46.480]   tests and, and also have done them in triplicate or triplicate, you know, with, with the actual
+[00:13:46.480 --> 00:13:50.940]   test being run in quadruplicate, you know, so we've done the same experiment three different
+[00:13:50.940 --> 00:13:56.300]   ways to drill down and, and, and identify things and do it in a double-blinded fashion.
+[00:13:56.300 --> 00:14:03.020]   And I think the biggest change is that with the data we have, we, we can now effectively
+[00:14:03.020 --> 00:14:05.740]   say, yeah, this is sort of the smoking kind of quantum biology.
+[00:14:05.740 --> 00:14:11.980]   We can repeatably show with tremendous statistical significance that we are eliciting big jumps
+[00:14:11.980 --> 00:14:19.100]   in it to the tune of 20 to 26% increases in ATP production remotely using quantum energy
+[00:14:19.100 --> 00:14:25.180]   and whatever and over and we can prove it over and over and I think this is part of the technological
+[00:14:25.180 --> 00:14:26.180]   curve.
+[00:14:26.180 --> 00:14:29.580]   We're drilling down farther and farther, but it reminds me of, you know, Faraday playing
+[00:14:29.580 --> 00:14:31.060]   with magnets.
+[00:14:31.060 --> 00:14:34.980]   There's, there's a lot of work that has to be done just to figure out the interactions,
+[00:14:34.980 --> 00:14:36.620]   which is where we are now.
+[00:14:36.620 --> 00:14:40.780]   And then after we started to codify it, which is what we're just starting to do, then I
+[00:14:40.780 --> 00:14:44.780]   think we'll, we'll start adding different descriptors to the lexicon so that we actually
+[00:14:44.780 --> 00:14:50.380]   do have kind of one, one language that we can all speak to because the Philip is exactly
+[00:14:50.380 --> 00:14:55.420]   right and, and the thing that's the most amazing about the way things have played out of the
+[00:14:55.420 --> 00:15:00.860]   past year in terms of what, what assessments you can make by looking at the datasets that
+[00:15:00.860 --> 00:15:03.420]   we've received from all the experimentation.
+[00:15:03.420 --> 00:15:09.740]   And the thing that is most profound to me is that it's clear that there is an underlying
+[00:15:09.740 --> 00:15:12.580]   intelligence that connects everything.
+[00:15:12.580 --> 00:15:18.900]   It would be impossible for the datasets to express the way they have without, in a double-blinded
+[00:15:18.900 --> 00:15:24.700]   fashion, without fully acknowledging, turns out there is in fact something that connects
+[00:15:24.700 --> 00:15:27.300]   all things regardless of distance.
+[00:15:27.300 --> 00:15:30.780]   And I don't know that we, you know, other than calling it, you know, consciousness or
+[00:15:30.780 --> 00:15:31.780]   something like that.
+[00:15:31.780 --> 00:15:36.420]   I don't know that we're really pegging the, the terms yet, but we have definitively made
+[00:15:36.420 --> 00:15:41.740]   strides in the mechanisms and the mechanics and, and how it's functioning and being able
+[00:15:41.740 --> 00:15:48.500]   to identify that, yes, there is some underlying connectivity between all things.
+[00:15:48.500 --> 00:15:55.460]   It's monumental because the, the implications of, you know, being able to see huge jumps,
+[00:15:55.460 --> 00:16:02.420]   relevant statistically in, in cell cultures, you know, performed by, and a non-perceptible
+[00:16:02.420 --> 00:16:09.460]   energetic function, 7,000 miles away, which we've done multiple times now, is, is, it's
+[00:16:09.460 --> 00:16:10.460]   brilliant.
+[00:16:10.460 --> 00:16:13.940]   It's, I mean, it, it's paradigm shifting and part of the reason I personally love this
+[00:16:13.940 --> 00:16:18.480]   is because you actually have to think as you're doing this because sometimes the data is bizarre,
+[00:16:18.480 --> 00:16:21.420]   it doesn't make sense with what we've traditionally been taught.
+[00:16:21.420 --> 00:16:26.500]   But again, if you, if you look at things and say, ah, consciousness is the epiphenomenon.
+[00:16:26.500 --> 00:16:30.960]   It's the outcropping of, you know, awareness and that's the, you know, after you have
+[00:16:30.960 --> 00:16:35.220]   a brain, I don't actually think you can solve these puzzles to, to Philip's point.
+[00:16:35.220 --> 00:16:40.900]   I think you literally have to say, okay, we're looking at it with blinders on kind of almost
+[00:16:40.900 --> 00:16:41.900]   in reverse.
+[00:16:41.900 --> 00:16:42.900]   We don't see the whole picture.
+[00:16:42.900 --> 00:16:46.020]   We see a very narrow band and we're looking at it from the wrong end.
+[00:16:46.020 --> 00:16:51.680]   If you look at things and approach it from the standpoint of consciousness is the pre-eminent
+[00:16:51.680 --> 00:16:57.640]   function here, the connectedness between all things and then the expression of those things
+[00:16:57.640 --> 00:17:03.160]   through awareness, that's when things get interesting and, and, and of course, tend as
+[00:17:03.160 --> 00:17:07.080]   we all are towards going, well, okay, how does it work?
+[00:17:07.080 --> 00:17:11.000]   Then that's, I think when you get into the, the vibratory component of things where we're
+[00:17:11.000 --> 00:17:18.980]   trying to actually skew vibrations, which we can measure to express certain functions.
+[00:17:18.980 --> 00:17:24.160]   So kind of a long-winded answer for what's been happening, but we are drilling down, but
+[00:17:24.160 --> 00:17:25.880]   we're still in the experimental phase.
+[00:17:25.880 --> 00:17:31.000]   So I think, I think more time is what I'd like, but I'm tickled pink with the results
+[00:17:31.000 --> 00:17:36.440]   because they, they really are sort of smoking gun that says, ah, yeah, so everything's connected.
+[00:17:36.440 --> 00:17:42.200]   It's just the way it is, we can now start trying to deal with it rationally and go, okay, well,
+[00:17:42.200 --> 00:17:45.920]   it turns out we weren't right, you know, we need to rewrite what we're doing.
+[00:17:45.920 --> 00:17:47.720]   Yeah, no, that's amazing.
+[00:17:47.720 --> 00:17:50.960]   Yeah, I mean, just flat out everybody's listening to this.
+[00:17:50.960 --> 00:17:56.280]   The, the results from the studies are just absolutely amazing and remarkable.
+[00:17:56.280 --> 00:17:59.400]   So it's, it's good to hear that, you know, you, the more studies you do, right?
+[00:17:59.400 --> 00:18:05.040]   The better you get at doing studies on quantum energy, but in terms of, if I'm just paraphrasing,
+[00:18:05.040 --> 00:18:09.600]   in terms of the language and the actual definition of the mechanics of, of what's happening,
+[00:18:09.600 --> 00:18:11.960]   that's still, you know, still out there to be determined.
+[00:18:11.960 --> 00:18:16.640]   But the, in terms of the data sets coming from all these studies, I'm just kind of curious
+[00:18:16.640 --> 00:18:23.600]   if, if you thought about feeding them into, into like a chat GPT for what, boy, I think
+[00:18:23.600 --> 00:18:24.600]   we've lost time.
+[00:18:24.600 --> 00:18:26.640]   No, I'm still here.
+[00:18:26.640 --> 00:18:27.640]   Oh, okay.
+[00:18:27.640 --> 00:18:28.640]   Wow.
+[00:18:28.640 --> 00:18:29.640]   Go to meetings showing you left.
+[00:18:29.640 --> 00:18:30.640]   Okay.
+[00:18:30.640 --> 00:18:31.640]   No.
+[00:18:31.640 --> 00:18:32.640]   Thank God you're still here.
+[00:18:32.640 --> 00:18:34.040]   So, but you know, I mean, it's like, have you ever thought about that?
+[00:18:34.040 --> 00:18:39.120]   Like taking all of these results and feeding it into chat GPT for and saying, Hey, what,
+[00:18:39.120 --> 00:18:41.320]   you know, what do you think?
+[00:18:41.320 --> 00:18:47.560]   What, what do you think would have had a curiosity, so I could not tell you what happens because
+[00:18:47.560 --> 00:18:53.280]   I haven't spent enough time to actually look into chat GPT.
+[00:18:53.280 --> 00:18:59.400]   I mean, I've been following this and I have some rudimentary knowledge about it, but you
+[00:18:59.400 --> 00:19:06.440]   know, I, we would definitely need some help of someone to get this actually done and why
+[00:19:06.440 --> 00:19:07.440]   not actually.
+[00:19:07.440 --> 00:19:10.720]   Yeah, I'm just, yeah, I'm just throwing it out there because you know, I've been, you
+[00:19:10.720 --> 00:19:12.720]   know, I kind of follow what's been going on.
+[00:19:12.720 --> 00:19:16.160]   It's gotten really, you know, really blew up this spring and, but you know, there's been
+[00:19:16.160 --> 00:19:21.520]   several articles and study or stories about doctors and scientists who've just done just
+[00:19:21.520 --> 00:19:22.520]   that.
+[00:19:22.520 --> 00:19:27.320]   They've taken a body of information that it into the AI and the AI is like now designing
+[00:19:27.320 --> 00:19:31.320]   new pharmaceuticals, for example, you know, to do different things.
+[00:19:31.320 --> 00:19:34.280]   So it's kind of real interesting on what that technology can do.
+[00:19:34.280 --> 00:19:39.240]   Not GPT three, but definitely GPT four probably could be more beneficial in that line, but
+[00:19:39.240 --> 00:19:43.000]   I'm just curious because that seems to be the hot topic of the day, but yeah, thanks
+[00:19:43.000 --> 00:19:44.000]   for sharing that.
+[00:19:44.000 --> 00:19:48.000]   So the more studies we're doing, the more we're learning how to do studies and the more
+[00:19:48.000 --> 00:19:52.920]   data we're getting that gives us more like data points right for eventual conclusions.
+[00:19:52.920 --> 00:19:53.920]   That's great.
+[00:19:53.920 --> 00:19:57.560]   That's what's happening new, you know, and if you guys are anybody out there listening,
+[00:19:57.560 --> 00:20:00.680]   if you're interested in studies, you can find them on the website and you can find the
+[00:20:00.680 --> 00:20:02.240]   video series on my YouTube channel.
+[00:20:02.240 --> 00:20:03.240]   Okay.
+[00:20:03.240 --> 00:20:08.560]   So in the light of like what's new, we've done a bunch of studies, we're gaining in knowledge.
+[00:20:08.560 --> 00:20:09.560]   But what are we learning?
+[00:20:09.560 --> 00:20:14.960]   So here's some questions that, you know, as I listen to your interviews, you know, with
+[00:20:14.960 --> 00:20:19.040]   various personalities, and by the way, your guys's Luke story interview is awesome when
+[00:20:19.040 --> 00:20:20.960]   the two of you guys met with him.
+[00:20:20.960 --> 00:20:25.760]   And so I have, you know, one of the questions I have is like, and I get this in the Telegram
+[00:20:25.760 --> 00:20:29.920]   chat group too, it's like, have you guys done any studies or what is your, what is your,
+[00:20:29.920 --> 00:20:36.640]   you know, opinion and or, you know, findings for how long do these effects last?
+[00:20:36.640 --> 00:20:41.760]   Like, for example, I know from talking with you Philip a couple of years ago, when you
+[00:20:41.760 --> 00:20:47.800]   launched your EMF jacket, you mentioned that, okay, you've, you guys found out that if you
+[00:20:47.800 --> 00:20:54.640]   wear the jacket, the effect of the jacket is, you know, has a benefit to the blood microscopy.
+[00:20:54.640 --> 00:20:58.320]   And then if you took the jacket off, that effect would last for at least four hours,
+[00:20:58.320 --> 00:20:59.480]   for example.
+[00:20:59.480 --> 00:21:03.640]   So what about these other effects, you know, like the ATP production, you, you, I guess
+[00:21:03.640 --> 00:21:12.160]   the experiment was you set the participants up on a U subscription for quantum upgrade.
+[00:21:12.160 --> 00:21:18.160]   And then you saw the, the impact of that, of that subscription or the energy being sent
+[00:21:18.160 --> 00:21:23.200]   to them via entanglement, then you saw the ATP go up right in the cell cultures.
+[00:21:23.200 --> 00:21:25.280]   But how long does it last?
+[00:21:25.280 --> 00:21:26.280]   That's the question.
+[00:21:26.280 --> 00:21:30.560]   I mean, if you turned it off, or let's say took your hand out of a block or you walked
+[00:21:30.560 --> 00:21:38.920]   away from a block field, have you guys really been able to determine the lasting effects?
+[00:21:38.920 --> 00:21:48.000]   So energetically, it's about two hours, two to three hours that after, let's say, either
+[00:21:48.000 --> 00:21:54.320]   you, you've had your hands in the block or you're using the quantum upgrade, let's say
+[00:21:54.320 --> 00:22:00.840]   you're using it at 800 on the Hawkins scale, as an example, and then you turn it off, then
+[00:22:00.840 --> 00:22:06.720]   it kind of dissipates over like a two hour period, maybe, maybe even an up to three, three
+[00:22:06.720 --> 00:22:09.840]   hour period.
+[00:22:09.840 --> 00:22:14.720]   And you would still have lasting effects beyond that.
+[00:22:14.720 --> 00:22:22.000]   You wouldn't, wouldn't have this extra energy boost anymore, you wouldn't feel that.
+[00:22:22.000 --> 00:22:30.960]   But certainly your, your body functions are not going back to before right away, which
+[00:22:30.960 --> 00:22:38.320]   is different for ATP production and the blood and an HRV, for example, because what we need
+[00:22:38.320 --> 00:22:44.560]   to understand is that the, this pure quantum energy feel, what it does is it, it, it brings
+[00:22:44.560 --> 00:22:51.040]   you into your center and it supports the, the optimal state, right?
+[00:22:51.040 --> 00:22:54.600]   That's what it, that's what it promotes.
+[00:22:54.600 --> 00:23:03.880]   And while you can increase ATP production like we've been shown, I think we're all in agreement
+[00:23:03.880 --> 00:23:14.040]   that it wouldn't do that over a very long period of time, just run at higher ATP production,
+[00:23:14.040 --> 00:23:19.240]   because that may not even be good, if, if a dip out, right, because you, you need to
+[00:23:19.240 --> 00:23:27.280]   have a balance still in your body, however, with a blood, it's something that this would
+[00:23:27.280 --> 00:23:33.960]   last for quite some time, but it's impossible to say, I don't even, I don't think we, we
+[00:23:33.960 --> 00:23:39.280]   can even answer that question even in the future, because everyone is so different, and it's
+[00:23:39.280 --> 00:23:42.320]   so different, what do you do afterwards, right?
+[00:23:42.320 --> 00:23:49.000]   If you drive off, you sit under a five G tower afterwards, right after the treatment, you're
+[00:23:49.000 --> 00:23:56.760]   going to have a completely different reversal that happens way faster as if you go out and
+[00:23:56.760 --> 00:24:05.840]   I don't know, sit in the forest at a lake, you know, with, with no cell reception, and
+[00:24:05.840 --> 00:24:10.680]   you're just having a great day meditating there, you're going to be keeping these results for
+[00:24:10.680 --> 00:24:11.840]   way longer.
+[00:24:11.840 --> 00:24:14.800]   So I don't think we'll be able to answer the question.
+[00:24:14.800 --> 00:24:22.960]   Okay, I, I can jump in with, well, one interesting bit of data on the wound healing experiments,
+[00:24:22.960 --> 00:24:27.920]   and we're literally, you know, we've been going through these right now, actually, yesterday
+[00:24:27.920 --> 00:24:28.920]   and today.
+[00:24:28.920 --> 00:24:34.280]   One of the more interesting things is, when we structured the experiment, we would set
+[00:24:34.280 --> 00:24:40.120]   up cells on a, on a plate, right, so a petri dish, and then you scrape them, so you actually
+[00:24:40.120 --> 00:24:46.080]   make a cut through the center of them that's about 10 microns wide, and then you put it
+[00:24:46.080 --> 00:24:50.720]   under a microscope and you track how long it takes for the cells, in this case, human
+[00:24:50.720 --> 00:24:55.240]   dermal fibroblasts, those skin cells, to actually grow back and become confluent to cover the
+[00:24:55.240 --> 00:24:57.360]   surface of the petri dish again.
+[00:24:57.360 --> 00:25:03.200]   So what's kind of intriguing is that we would charge the cells while they were healing in
+[00:25:03.200 --> 00:25:09.120]   certain, certain dishes and not in other dishes, and the wound healing is much more rapid,
+[00:25:09.120 --> 00:25:13.840]   you know, ballpark state, twice as quick, in the cells that are exposed to the quantum
+[00:25:13.840 --> 00:25:14.840]   energy.
+[00:25:14.840 --> 00:25:18.800]   Now, after the first pass of this, where we would take all the pictures with the microscope
+[00:25:18.800 --> 00:25:24.760]   on the, on the cuts and look at the, the relative healing rates, we would do another pass with
+[00:25:24.760 --> 00:25:30.840]   a secondary scrape while the cells weren't being charged, and every time the cells in
+[00:25:30.840 --> 00:25:39.240]   the wells that have received the quantum upgrade prior to, outpace the cells that hadn't again.
+[00:25:39.240 --> 00:25:47.280]   So the effect persisted for, in this case, at least two extra days, just in a cell culture
+[00:25:47.280 --> 00:25:52.160]   that made a statistically significant increase in the, the rapidity of the wound healing.
+[00:25:52.160 --> 00:25:58.800]   So I can't say beyond that, but I can definitively say, you know, we have, we have data showing
+[00:25:58.800 --> 00:26:04.480]   at least an uptake of lasting over two days after being taken out of the field.
+[00:26:04.480 --> 00:26:05.480]   So,
+[00:26:05.480 --> 00:26:09.320]   So that's an amazing data that is an absolutely amazing data point.
+[00:26:09.320 --> 00:26:15.160]   And so I think what this, what this shows is, so because we know that, you know, after,
+[00:26:15.160 --> 00:26:19.520]   you know, what I said, two, three hours or so, the, the field wouldn't, wouldn't really
+[00:26:19.520 --> 00:26:22.560]   be recognizable anymore, right energetically.
+[00:26:22.560 --> 00:26:27.360]   So if you turn it off, then two, three hours in the field, if you couldn't measure it anyway,
+[00:26:27.360 --> 00:26:30.200]   you couldn't, couldn't observe it anymore.
+[00:26:30.200 --> 00:26:38.080]   But it seems that the, that the cells or the physiological organism got so much stronger
+[00:26:38.080 --> 00:26:47.720]   during the charging process, that these strengthen, strengthening effects last, you know, obviously
+[00:26:47.720 --> 00:26:54.640]   for these cells here for at least these two days and, and you know, it'd be great to see
+[00:26:54.640 --> 00:26:59.920]   in other experiments, how long that lasts, but that's, that's how I see it, right?
+[00:26:59.920 --> 00:27:03.960]   I mean, I would you agree that that's like a strengthened effect that is lasting?
+[00:27:03.960 --> 00:27:10.520]   Oh, yeah, 100% that that's what's, that's what's so remarkable about it is we can't,
+[00:27:10.520 --> 00:27:16.640]   I can't identify anything that morphologically in terms of the shape of the cells.
+[00:27:16.640 --> 00:27:22.640]   I can't identify anything that's changed from the time when they were charged to the time
+[00:27:22.640 --> 00:27:23.640]   when they're not charged.
+[00:27:23.640 --> 00:27:29.280]   But what I can tell you is relative to the control group, they still so greatly outperformed
+[00:27:29.280 --> 00:27:35.400]   it that it's, it's an obvious persistent effect and something is fundamentally altered.
+[00:27:35.400 --> 00:27:39.680]   And like you said Philip, it, it could be that, you know, when we start drilling down on methylation
+[00:27:39.680 --> 00:27:45.080]   pathways and looking at the genomics of the thing, we can identify how it's methylating
+[00:27:45.080 --> 00:27:48.920]   or not methylating in those cells and look at, you know, effectively the health and the
+[00:27:48.920 --> 00:27:55.000]   age of the cells to say, yeah, okay, so giving it quantum energy for two days while we're
+[00:27:55.000 --> 00:27:59.760]   doing the first round of wound healing will increase its effectiveness and, and actually
+[00:27:59.760 --> 00:28:04.400]   kind of come out with a, with a curve because there does appear to be a declination, you
+[00:28:04.400 --> 00:28:09.360]   know, some, some sort of decline in the, in the graph when you look at the, the fullness
+[00:28:09.360 --> 00:28:11.160]   and the rapidity of the wound healing.
+[00:28:11.160 --> 00:28:14.600]   So it's not as strong, but it's still stronger than a normal cell.
+[00:28:14.600 --> 00:28:19.680]   And like you said, it, it could well be that it's just restructuring the cells internally
+[00:28:19.680 --> 00:28:24.160]   and giving them more oomph so that their processes are better, you know, and because we know
+[00:28:24.160 --> 00:28:26.600]   that the ATP levels have gone up.
+[00:28:26.600 --> 00:28:31.680]   So the corollary or the, the correlation there is the, the rapidity of the wound healing.
+[00:28:31.680 --> 00:28:38.480]   Um, again, how long that will be persistent, we don't know, but you're exactly right in
+[00:28:38.480 --> 00:28:43.400]   your assessment there, it's, it's very conclusive that it has fundamentally changed the cell
+[00:28:43.400 --> 00:28:44.400]   function.
+[00:28:44.400 --> 00:28:48.720]   Yeah, it's interesting, you know, because you're the result, if you're getting that type
+[00:28:48.720 --> 00:28:53.480]   of wound healing results, it sort of reminds me of the same results that people are getting
+[00:28:53.480 --> 00:29:01.160]   using PMF or microcurrent on wounds, you know, rapid or, you know, expedited healing.
+[00:29:01.160 --> 00:29:06.480]   And, and in that regard, right, as you, as you know, ion is that the current replicates
+[00:29:06.480 --> 00:29:10.600]   the energy of the body, some radians, and it brings, it does two things, right?
+[00:29:10.600 --> 00:29:15.040]   It does mitigate the inflammation response and then go straight into healing as opposed
+[00:29:15.040 --> 00:29:19.800]   to, you know, swelling up really tight and then obviously creating a barrier for the body
+[00:29:19.800 --> 00:29:20.800]   to heal.
+[00:29:20.800 --> 00:29:22.760]   And so, yeah, it's real.
+[00:29:22.760 --> 00:29:23.760]   That's really interesting.
+[00:29:23.760 --> 00:29:28.360]   So the quantum is doing the same thing, but maybe working in a, in a different way by actually
+[00:29:28.360 --> 00:29:33.480]   changing the cell dynamics itself, which leads to the other question, Oh, go ahead.
+[00:29:33.480 --> 00:29:37.660]   Well, I was just going to say that from personal experience in my, you know, my evil,
+[00:29:37.660 --> 00:29:46.760]   like an evil days of your seven, seven months ago when I completely broke myself on a motorcycle,
+[00:29:46.760 --> 00:29:52.000]   the wound healing, you know, in terms of the actual wounds and, you know, the, my tibia
+[00:29:52.000 --> 00:29:58.560]   being inside of my femur, which is not where it belonged, the pace of healing was greatly
+[00:29:58.560 --> 00:29:59.560]   altered.
+[00:29:59.560 --> 00:30:08.300]   So I did, I used the quantum block, quantum upgrade, I used a pulse electromagnetic field,
+[00:30:08.300 --> 00:30:09.300]   C 60 lasers.
+[00:30:09.300 --> 00:30:17.220]   I did a whole host of modalities to hasten the pace, but the initial prognosis was 12 weeks
+[00:30:17.220 --> 00:30:23.260]   with no pressure on my leg whatsoever and multiple surgeries with plates and pins and
+[00:30:23.260 --> 00:30:24.260]   screws being put in.
+[00:30:24.260 --> 00:30:28.920]   At the end of the day, I had no surgery, no plates and pins.
+[00:30:28.920 --> 00:30:30.520]   Everything moved back into position.
+[00:30:30.520 --> 00:30:35.520]   The wounds healed and the bones mended entirely to a point of getting it all clear from the
+[00:30:35.520 --> 00:30:41.200]   orthopedic surgeon in nine weeks, as opposed to 12 weeks before I could put any pressure
+[00:30:41.200 --> 00:30:42.680]   on the leg whatsoever.
+[00:30:42.680 --> 00:30:45.240]   So I was up and walking and done.
+[00:30:45.240 --> 00:30:46.240]   Yeah.
+[00:30:46.240 --> 00:30:50.960]   Well, and that's, you know, personally speaking, it was profound.
+[00:30:50.960 --> 00:30:56.360]   And, you know, I know that all of those different modalities had different effects because,
+[00:30:56.360 --> 00:30:59.960]   you know, when you're laying there and the only thing you're doing is perceiving what
+[00:30:59.960 --> 00:31:05.380]   your physical form is kind of doing and how it's moving and how it's repairing.
+[00:31:05.380 --> 00:31:10.900]   You become acutely aware of what is and is not working and you can feel, and this is
+[00:31:10.900 --> 00:31:16.860]   totally subjective, but you can feel the effects of the quantum field and how it manipulates
+[00:31:16.860 --> 00:31:17.860]   your biology.
+[00:31:17.860 --> 00:31:23.360]   I mean, we've shown that with allergies and Phillip, you can talk about the allergy studies
+[00:31:23.360 --> 00:31:29.140]   because those are equally as brilliant in terms of the real world application.
+[00:31:29.140 --> 00:31:34.100]   Yes, I mean, oh, okay, go ahead.
+[00:31:34.100 --> 00:31:39.700]   No, no, I was just saying, yeah, I mean, to me, of all the things you guys are doing,
+[00:31:39.700 --> 00:31:49.460]   not one, that one is the most unbelievable because of the ramifications of what it means
+[00:31:49.460 --> 00:31:56.880]   given our current environment that we live in, where everything is poisonous to us.
+[00:31:56.880 --> 00:32:02.720]   And what those allergen tests are coming out, the results, it just, it's, you know, if you
+[00:32:02.720 --> 00:32:06.500]   expand on like what's Cape, you know, in other words, I really thought it through and
+[00:32:06.500 --> 00:32:12.580]   I'm like, wow, man, if this is really happening, and it is, what does that mean to everything
+[00:32:12.580 --> 00:32:15.900]   about the idea that our environment's voice into us?
+[00:32:15.900 --> 00:32:17.820]   Anyway, go ahead.
+[00:32:17.820 --> 00:32:25.620]   Yeah, and you're right, you know, I want to be very mindful with that topic, obviously,
+[00:32:25.620 --> 00:32:32.300]   but it could have some really, really positive implications on a much, much broader scale
+[00:32:32.300 --> 00:32:38.220]   that we can imagine because you're right, you know, we're living in the toxic soup, right?
+[00:32:38.220 --> 00:32:42.020]   Wherever we look, we get it out of the air, we get it out of the food, we get it out of
+[00:32:42.020 --> 00:32:50.380]   the water, there's just toxins and the body has to do just a lot of big work to fight
+[00:32:50.380 --> 00:32:51.380]   that off.
+[00:32:51.380 --> 00:33:00.020]   And with that, apparently, there's a tool now that can ease these things and that can
+[00:33:00.020 --> 00:33:10.020]   take off stress response by, you know, 65% to 100% in the cases that have been measured
+[00:33:10.020 --> 00:33:11.020]   so far.
+[00:33:11.020 --> 00:33:15.780]   And with people that haven't heard about that, you know, we've done these experiments, even
+[00:33:15.780 --> 00:33:22.580]   life on stage at the Biohacking Conference and there's a clinic in Germany that has
+[00:33:22.580 --> 00:33:27.980]   been running a study that did a pilot, and now they're running a larger study, it's
+[00:33:27.980 --> 00:33:35.540]   taking all unfortunately longer than expected because they don't have, they don't have tons
+[00:33:35.540 --> 00:33:44.300]   of these patients, so they can only conduct another experiment when they also have a patient
+[00:33:44.300 --> 00:33:47.500]   with the food allergy.
+[00:33:47.500 --> 00:33:51.780]   So yeah, and everything points to that.
+[00:33:51.780 --> 00:33:55.980]   It's just we need to be very careful with claims in this regard because, you know, we
+[00:33:55.980 --> 00:34:03.900]   just really want more data, points that we can actually, yeah, give some guidance.
+[00:34:03.900 --> 00:34:08.620]   Yeah, no, I told you, you know, it's even with various methods, right?
+[00:34:08.620 --> 00:34:12.860]   I mean, it's what the base institute already found two years ago, frankly, right?
+[00:34:12.860 --> 00:34:19.340]   I mean, they, they have a different testing method in KU understand that testing method
+[00:34:19.340 --> 00:34:25.820]   more than most people, it's an amazing testing method, you know, but I don't think it's
+[00:34:25.820 --> 00:34:31.380]   enough, you know, for us to go out and say, you know, this is really what it does in that
+[00:34:31.380 --> 00:34:36.580]   regard, but yeah, everything that has been tested so far with different methods points
+[00:34:36.580 --> 00:34:37.580]   to that.
+[00:34:37.580 --> 00:34:43.260]   And I think by the end of this year, we we probably have a lot more data points and can
+[00:34:43.260 --> 00:34:45.820]   be more more open with guidance.
+[00:34:45.820 --> 00:34:53.940]   Yeah, you know, in that regard, do you guys have anything planned to do a lab, you know,
+[00:34:53.940 --> 00:35:01.620]   a lab level test of allergen and toxins on human bodies in terms of like histamine response
+[00:35:01.620 --> 00:35:07.060]   or inflammation response to stimuli, you know, are you guys planning anything like that?
+[00:35:07.060 --> 00:35:13.060]   So, you know, take it outside of the bioenergetics world, which is a bonafide reputable world,
+[00:35:13.060 --> 00:35:14.060]   right?
+[00:35:14.060 --> 00:35:16.900]   You know, meridian stress assessments, the key term there.
+[00:35:16.900 --> 00:35:21.180]   But in terms of like literally being able to go into the body and measure that before
+[00:35:21.180 --> 00:35:27.300]   and after histamine levels, right, from someone who's, let's say, allergic to particular substance
+[00:35:27.300 --> 00:35:32.060]   and actually, you know, measuring at the, you know, in a lab, are you guys getting anything
+[00:35:32.060 --> 00:35:33.660]   planned for that?
+[00:35:33.660 --> 00:35:35.020]   I would love to do that.
+[00:35:35.020 --> 00:35:40.820]   I just I would have to refer to I and if he has an idea or any contact, yeah, not too
+[00:35:40.820 --> 00:35:41.820]   hard.
+[00:35:41.820 --> 00:35:42.820]   I do actually.
+[00:35:42.820 --> 00:35:48.260]   It's I had done some study a few years back in a clinical trial on mice where I looked
+[00:35:48.260 --> 00:35:54.380]   at cytokine levels and one of the experiments that I want us to do before the end of the
+[00:35:54.380 --> 00:36:02.060]   year and I actually just got numbers on how to do this is to run a cytokine assay on people's
+[00:36:02.060 --> 00:36:07.620]   actual blood both before and after being exposed to the quantum upgrade.
+[00:36:07.620 --> 00:36:12.420]   So we can see what with the actual changes are now granted, it's still downstream effect.
+[00:36:12.420 --> 00:36:16.420]   I mean, all of the things we're looking at are secondary functions are not, you know,
+[00:36:16.420 --> 00:36:21.500]   we're not, we don't unfortunately don't have a quantumometer yet and can't can't read the,
+[00:36:21.500 --> 00:36:25.820]   you know, the effectiveness of the quantum field as it expresses in an organism.
+[00:36:25.820 --> 00:36:31.260]   But we do have really awesome tools for blood work and we can very definitively say, ah,
+[00:36:31.260 --> 00:36:35.020]   you had a histamine reaction at this level, you had a cytokine reaction at this level.
+[00:36:35.020 --> 00:36:38.700]   This cytokine, you know, cratered IL-6 went down, IL-8 went down.
+[00:36:38.700 --> 00:36:42.620]   Those are the kind of things that we can look at and I before the end of the year, I think
+[00:36:42.620 --> 00:36:46.100]   we actually will have that completed.
+[00:36:46.100 --> 00:36:51.560]   And again, though it's not terribly popular, it's a great test and you can actually see
+[00:36:51.560 --> 00:36:58.780]   the physiological effects and to your point K, I think a lot of times things are more believable
+[00:36:58.780 --> 00:37:03.420]   for the average person when they move out of the electrical field, you know, but just
+[00:37:03.420 --> 00:37:07.860]   still even though people talk about it and use it all the time, electricity and, you
+[00:37:07.860 --> 00:37:13.220]   know, electrical fields and electromagnetic fields, it's all sort of ethereal and ephemeral
+[00:37:13.220 --> 00:37:18.540]   and people can't really grab it, whereas blood work, you know, everybody's pretty familiar
+[00:37:18.540 --> 00:37:20.260]   with blood.
+[00:37:20.260 --> 00:37:23.400]   Yes, oh, absolutely.
+[00:37:23.400 --> 00:37:30.420]   So I think kind of, yeah, I mean, I, to me, I think the cool factor is when we can actually
+[00:37:30.420 --> 00:37:37.140]   measure the, you know, like those cytokine and histamine reactions pre- and after exposure
+[00:37:37.140 --> 00:37:41.740]   to an allergic substance or any kind of toxin because, you know, where I'm going with this
+[00:37:41.740 --> 00:37:46.420]   is just like, because one of my things about, you know, helping and advising people on
+[00:37:46.420 --> 00:37:53.100]   telegram constantly on the telegram checkers is, it's just, you know, like, it's just instructions
+[00:37:53.100 --> 00:37:57.860]   and guidelines, you know, like the quantum energy, how long does that last, then translates
+[00:37:57.860 --> 00:38:03.100]   to, hey, this is how you use these tools for quantum healing, like, you know, like Philip,
+[00:38:03.100 --> 00:38:07.180]   yeah, that good, you know, that wasn't a good example, a horrible example, where your
+[00:38:07.180 --> 00:38:12.940]   son broke both of his wrists, but now based on, on your experience, that's what I'm actually
+[00:38:12.940 --> 00:38:18.220]   telling people is a try this, you know, I think it was 15 minutes a day in an eye block twice
+[00:38:18.220 --> 00:38:19.860]   a day, right?
+[00:38:19.860 --> 00:38:24.340]   And he did that and that double it cut his healing time in half, right, just recovery
+[00:38:24.340 --> 00:38:25.340]   was cut in half.
+[00:38:25.340 --> 00:38:26.340]   Is that correct?
+[00:38:26.340 --> 00:38:29.140]   And, you know, so I always tell them, you know, so that's what, that's the example
+[00:38:29.140 --> 00:38:32.460]   that I give people, I go, well, when, when Philip's son broke his wrist, this is what
+[00:38:32.460 --> 00:38:36.980]   he did and he, you know, his recovery time was cut in half, you know, so that's kind of
+[00:38:36.980 --> 00:38:40.740]   like start with that, you know, and I think that's where it's really going to be incredibly
+[00:38:40.740 --> 00:38:45.860]   helpful, you know, from guiding people on how to use the tools based on what we're learning
+[00:38:45.860 --> 00:38:47.820]   about how long stuff lasts.
+[00:38:47.820 --> 00:38:52.820]   And then in terms of like, especially like how long, like, I think the first allergen
+[00:38:52.820 --> 00:38:57.460]   test, right, was like, we determined or you determine like four minutes in an eye block
+[00:38:57.460 --> 00:39:03.140]   with transmute, right, the substance to not be, you know, a trigger to the individual that
+[00:39:03.140 --> 00:39:04.140]   was exposed to it.
+[00:39:04.140 --> 00:39:08.660]   So, we know now, so now I tell people, hey, four minutes in an eye block, generation one,
+[00:39:08.660 --> 00:39:10.940]   give me the minimum, you know, that's the minimum.
+[00:39:10.940 --> 00:39:14.160]   And then you're going to put that food in there and I've done my own test with my own
+[00:39:14.160 --> 00:39:18.940]   eye block on allergic to MSG, I break out in hives and I had the exact same results that
+[00:39:18.940 --> 00:39:24.820]   Todd did before and after, you know, so it's pretty, you know, so it's pretty, it's pretty,
+[00:39:24.820 --> 00:39:29.060]   to me, it's duplicatable, you know, you can duplicate it, that means it's definitely real.
+[00:39:29.060 --> 00:39:33.700]   And then now it's like, okay, creating those guidelines, how to use these tools to actually
+[00:39:33.700 --> 00:39:37.680]   get into like, you know, healing modalities and instructions and procedures.
+[00:39:37.680 --> 00:39:42.180]   So yeah, great stuff, because you know, honestly, if this does what I think it really, really,
+[00:39:42.180 --> 00:39:48.060]   really does, then, you know, really just trying to make sure people understand that people
+[00:39:48.060 --> 00:39:53.500]   who want to live healthy, you know, put your food and water in this thing before you digest
+[00:39:53.500 --> 00:39:54.500]   them.
+[00:39:54.500 --> 00:39:58.500]   And then of course, knowing how long that lasts, like we get a question a lot in the block
+[00:39:58.500 --> 00:40:02.340]   and I'm sorry, in the telegram group, maybe one of you guys can answer this, but people
+[00:40:02.340 --> 00:40:05.940]   are saying, well, you know, I'm charging water, how long does the charge last in the water?
+[00:40:05.940 --> 00:40:09.460]   Because I charge a pitcher at a time and I don't drink the whole thing, obviously, right
+[00:40:09.460 --> 00:40:10.460]   then in there.
+[00:40:10.460 --> 00:40:14.300]   But, you know, like, how long does that energy last in the water?
+[00:40:14.300 --> 00:40:19.540]   Or do I charge my food, right, put it away and then cook it and eat it and that's still
+[00:40:19.540 --> 00:40:24.140]   carry that energy by that point, you know, two weeks or an hour or a week from now, or
+[00:40:24.140 --> 00:40:29.060]   if I freeze, you know, if I freeze my food, should I, you know, when should I, when should
+[00:40:29.060 --> 00:40:36.260]   I charge it, and so that I get those effects, right, of basically toxin mitigation and so
+[00:40:36.260 --> 00:40:37.260]   forth.
+[00:40:37.260 --> 00:40:39.660]   And so what I've been trying to tell people and correct me if I'm wrong, maybe you guys
+[00:40:39.660 --> 00:40:44.100]   could both comment on that because really big issue, right, for everybody, I think that
+[00:40:44.100 --> 00:40:48.180]   people are investing so much capital into buying these incredible tools.
+[00:40:48.180 --> 00:40:49.180]   They're not free.
+[00:40:49.180 --> 00:40:50.180]   They're not cheap.
+[00:40:50.180 --> 00:40:51.180]   But they're so valuable.
+[00:40:51.180 --> 00:40:56.180]   I mean, I look at it like a complete investment in your health and your well-being.
+[00:40:56.180 --> 00:41:00.500]   So could you two kind of comment on that, like, because what I tell people is like, hey,
+[00:41:00.500 --> 00:41:06.660]   just to be safe, you know, you can't go wrong, just charge it before you eat it, right, instead
+[00:41:06.660 --> 00:41:09.460]   of charging your groceries and then putting them away.
+[00:41:09.460 --> 00:41:13.580]   So what do you think about food and what do you guys think about water in terms of like,
+[00:41:13.580 --> 00:41:19.740]   what would you recommend to people for that, you know, for the best effect?
+[00:41:19.740 --> 00:41:28.420]   So it's hard to tell, but we know that the energy gets out of the water again over time.
+[00:41:28.420 --> 00:41:37.020]   Even frequency is lose efficacy and that can, yeah, we can't tell at this point how long
+[00:41:37.020 --> 00:41:43.340]   that actually takes because also there, the environment and the circumstance matters.
+[00:41:43.340 --> 00:41:48.300]   Again, you can take a glass of water, you charge it and then you put it underneath the
+[00:41:48.300 --> 00:41:57.340]   5G tower, right, and I don't know, do other things to the water that aren't helpful or
+[00:41:57.340 --> 00:42:00.900]   you put the water in a really great environment and let it sit there.
+[00:42:00.900 --> 00:42:03.940]   So it totally matters.
+[00:42:03.940 --> 00:42:13.380]   I would say with everything that is not very dense, like groceries, fruits, vegetables,
+[00:42:13.380 --> 00:42:22.100]   sugary items, water, et cetera, if you have these sensitivities, then definitely I would
+[00:42:22.100 --> 00:42:28.100]   recommend to charging all this stuff before you consume it and not the moment you purchase
+[00:42:28.100 --> 00:42:32.660]   it, meaning that if you purchase it and you charge it and then you put it in the fridge
+[00:42:32.660 --> 00:42:37.220]   for two weeks and then you consume it, you don't have the full effect anymore.
+[00:42:37.220 --> 00:42:41.340]   You may still have some effect and you most likely, you will have some effect.
+[00:42:41.340 --> 00:42:47.220]   I mean, we actually know that because we tested that with a professional fitness bar producer
+[00:42:47.220 --> 00:42:54.140]   who's about to use our technology to charge their bars.
+[00:42:54.140 --> 00:42:59.860]   So we know that there's also a lasting effect, but again, there's a difference between the
+[00:42:59.860 --> 00:43:05.380]   everyday regular person that doesn't have sensitivities and one that does.
+[00:43:05.380 --> 00:43:10.380]   How long exactly that lasts in the water we can't tell?
+[00:43:10.380 --> 00:43:19.500]   I would say, once you charge water, you'll have some charge at least for a day, but already
+[00:43:19.500 --> 00:43:29.740]   after 15 minutes, if it's in an open glass exposed to oxygen, you start losing it already
+[00:43:29.740 --> 00:43:32.780]   after 10 minutes gradually.
+[00:43:32.780 --> 00:43:39.780]   Okay, I would add in thoughts, yeah, and this is of course probably sort of the mad scientist
+[00:43:39.780 --> 00:43:43.060]   approach here, but it's a really simple experiment.
+[00:43:43.060 --> 00:43:48.700]   To kind of dial in and see in your environment, because it really does change from environment
+[00:43:48.700 --> 00:43:54.300]   to environment, and obviously it changes even in that environment, as Phillip is alluding
+[00:43:54.300 --> 00:44:00.060]   to with interactions with, you know, electromagnetic fields and, you know, like what kind of 5D is
+[00:44:00.060 --> 00:44:01.060]   being pumped through there?
+[00:44:01.060 --> 00:44:02.760]   Do you have smart meters and all that sort of stuff?
+[00:44:02.760 --> 00:44:08.100]   But simple experiment that's kind of interesting is you can take a piece of fruit, like an apple,
+[00:44:08.100 --> 00:44:13.220]   something that you're used to seeing a certain oxidation pattern on, and either put one entire
+[00:44:13.220 --> 00:44:19.700]   apple in a block next to another apple that isn't in a block, and then slice them open
+[00:44:19.700 --> 00:44:24.460]   and look at their rates of oxidation, but just basically how long it takes for them to
+[00:44:24.460 --> 00:44:33.200]   turn brown, and you'll actually see a difference in reduction oxidation potential between the
+[00:44:33.200 --> 00:44:37.480]   one that is charged and the one that is not charged after just a couple of minutes in
+[00:44:37.480 --> 00:44:38.480]   a block.
+[00:44:38.480 --> 00:44:43.600]   Like, visibly you'll see a difference, and we can actually, and can't know if I sent this
+[00:44:43.600 --> 00:44:49.480]   to you, but we did this with vitamin C and showed that even though the compound spectroscopic,
+[00:44:49.480 --> 00:44:54.820]   we was identical and it came from the same vial, after a few minutes in a quantum block,
+[00:44:54.820 --> 00:45:00.900]   the same compound started expressing an entirely different reduction oxidation potential, you
+[00:45:00.900 --> 00:45:05.660]   know, you, yeah, and it's literally just being four minutes unheard of.
+[00:45:05.660 --> 00:45:12.300]   Yeah, I'll actually, I'll send you, yeah, I'll send you that data because it's, it's,
+[00:45:12.300 --> 00:45:16.780]   it's a compelling image because in one set you see that they're identical, and then the
+[00:45:16.780 --> 00:45:23.120]   same compound taken from the same vial put into two little creatures was then, you know,
+[00:45:23.120 --> 00:45:28.960]   exposed and unexposed, and then rerun for reduction oxidation potential, and it's entirely
+[00:45:28.960 --> 00:45:29.960]   different.
+[00:45:29.960 --> 00:45:30.960]   That's amazing.
+[00:45:30.960 --> 00:45:34.740]   That's, that's actually my next question, but I just real quick to anybody out there.
+[00:45:34.740 --> 00:45:38.400]   I mean, when, when people come onto the telegram chat group and they say, well, how do I, I'm
+[00:45:38.400 --> 00:45:43.040]   trying to convince my spouse that I didn't waste my money, you know, and, and it really
+[00:45:43.040 --> 00:45:44.040]   does work.
+[00:45:44.040 --> 00:45:45.640]   How do I prove it to my spouse, right?
+[00:45:45.640 --> 00:45:48.920]   And the first thing, and the common thing is like, well, just get some cut flowers.
+[00:45:48.920 --> 00:45:53.360]   100% of the time the cut flowers, I think that just ties right to it, right?
+[00:45:53.360 --> 00:45:58.720]   You take cut flowers, same vase of water, split it in the two, split the flowers in the
+[00:45:58.720 --> 00:46:02.320]   two, but take one vase and charge the water in the base.
+[00:46:02.320 --> 00:46:06.160]   And that, and those flowers will last longer than the other one that didn't get charged
+[00:46:06.160 --> 00:46:09.200]   and they will wilt and die while the other ones are still vibrant.
+[00:46:09.200 --> 00:46:14.160]   So, and we've got lots of pictures on, on, on the telegram chat group of, of just people
+[00:46:14.160 --> 00:46:15.160]   doing that.
+[00:46:15.160 --> 00:46:16.160]   And it's pretty cool.
+[00:46:16.160 --> 00:46:17.160]   But yeah, so it's exactly the same thing.
+[00:46:17.160 --> 00:46:21.320]   So, where that leads though, and this is something you've mentioned in a couple of times in a
+[00:46:21.320 --> 00:46:27.360]   couple, a couple of your, in your interviews, I and, with other folks was you'd mentioned
+[00:46:27.360 --> 00:46:30.480]   the term transmutation and wave form.
+[00:46:30.480 --> 00:46:35.280]   So is that what you're, could you kind of explain like, okay, so you take like you just
+[00:46:35.280 --> 00:46:39.800]   said, you take vitamin C and vitamin C does X, Y, Z, right, when it goes to the body.
+[00:46:39.800 --> 00:46:44.440]   But then you put it, you know, you expose it to quantum energy, the coin, you know, quantum
+[00:46:44.440 --> 00:46:46.840]   upgrade or you put it in a block.
+[00:46:46.840 --> 00:46:51.360]   And then it now expresses a different set of attributes.
+[00:46:51.360 --> 00:46:57.360]   And you kind of alluded to the idea that the wave form or the, you know, it's transmuted.
+[00:46:57.360 --> 00:46:58.920]   But could you kind of expand on that?
+[00:46:58.920 --> 00:47:03.720]   Like, what's the actual, you know, like science mechanics going on with, you know, why is
+[00:47:03.720 --> 00:47:05.120]   this even happening?
+[00:47:05.120 --> 00:47:08.800]   Like how can something all of a sudden do something different that, that it's not known
+[00:47:08.800 --> 00:47:09.800]   to do?
+[00:47:09.800 --> 00:47:16.800]   Well, okay, so if you, the simplest way to think about it is to look at something inside
+[00:47:16.800 --> 00:47:17.800]   a box.
+[00:47:17.800 --> 00:47:20.400]   And I, and I always say, you know, science is point on a line.
+[00:47:20.400 --> 00:47:24.440]   And we're, we're just trying to move the point farther into the future with, you know, better
+[00:47:24.440 --> 00:47:28.680]   data, better testing, and then hopefully, you know, better tools over time so we can
+[00:47:28.680 --> 00:47:34.960]   actually have analytical equipment to do a lot of this stuff and provide us with insights.
+[00:47:34.960 --> 00:47:43.560]   So in this case, what I mean is fundamentally compounds are, you know, atoms, right, that
+[00:47:43.560 --> 00:47:45.840]   have aggregated in a certain fashion.
+[00:47:45.840 --> 00:47:49.240]   And all of those things are vibrating bits of things that come together.
+[00:47:49.240 --> 00:47:54.560]   So there's a certain wave form that's, that's expressing itself with everything, you know,
+[00:47:54.560 --> 00:47:56.680]   people, rocks, water, everything.
+[00:47:56.680 --> 00:48:01.600]   It's all things coming together that are, that are fundamentally really more vibratory
+[00:48:01.600 --> 00:48:06.040]   in nature than, than solid, tangible things are more like vibrating energy than solid
+[00:48:06.040 --> 00:48:07.040]   tangible things.
+[00:48:07.040 --> 00:48:08.200]   We perceive them as solid, right?
+[00:48:08.200 --> 00:48:13.120]   Like we, we very convincingly express solidity, but you're never actually touching anything.
+[00:48:13.120 --> 00:48:15.400]   You're just pushing on something as electron clap out.
+[00:48:15.400 --> 00:48:19.200]   So there's, there's just a repulsive force when you feel pressure on something.
+[00:48:19.200 --> 00:48:21.320]   It's not actually touching you.
+[00:48:21.320 --> 00:48:26.840]   That said, all of those things that are expressing those, those electromagnetic forces are wave
+[00:48:26.840 --> 00:48:33.680]   forms, very complicated wave forms, and when you expose them to quantum energy, it manipulates
+[00:48:33.680 --> 00:48:38.680]   them and changes what's happening in a vibrational fashion, right?
+[00:48:38.680 --> 00:48:42.520]   So the, the vibratory feel that's coming off of those things is different.
+[00:48:42.520 --> 00:48:48.480]   Now, how, how I can say that dependably is the, the test that I just forwarded the, the
+[00:48:48.480 --> 00:48:51.600]   data, the images from the data sets over to, uh, Philip.
+[00:48:51.600 --> 00:48:56.960]   So he could descend into you, and you can, and you can actually look at them and see this.
+[00:48:56.960 --> 00:49:01.560]   When you look at a spectral analysis of this compound, it's vitamin C, right?
+[00:49:01.560 --> 00:49:04.360]   So we're in this case specifically, it was a squabic acid.
+[00:49:04.360 --> 00:49:11.240]   So we're looking at this and it has one expression, which means the molecules in the configuration
+[00:49:11.240 --> 00:49:17.800]   that we call them the squabic acid have this certain frequency and a certain potential.
+[00:49:17.800 --> 00:49:23.000]   We modify their exposure to a quantum field, and suddenly they no longer have the same
+[00:49:23.000 --> 00:49:24.000]   potential.
+[00:49:24.000 --> 00:49:28.920]   Now, structurally, it looks as if it's the same molecule, nothing has changed conformationally,
+[00:49:28.920 --> 00:49:34.080]   it's not twisted differently, but in terms of what it's expressing when it interacts
+[00:49:34.080 --> 00:49:37.400]   with other molecules, it's fundamentally different.
+[00:49:37.400 --> 00:49:42.840]   So the, the component that we can alter there is something having to do with vibration and
+[00:49:42.840 --> 00:49:48.240]   or spin of, of the actual subatomic particles and how those react.
+[00:49:48.240 --> 00:49:53.320]   And the analogy that I've probably used before is if you fill a suitcase with gyroscopes and
+[00:49:53.320 --> 00:49:56.960]   you're running down a hall and all of them are just sitting there loose, you can run
+[00:49:56.960 --> 00:50:00.120]   and zigzag and turn left and right and do whatever you want.
+[00:50:00.120 --> 00:50:05.480]   If however, you get all of those gyroscopes in the briefcase spinning in the same direction
+[00:50:05.480 --> 00:50:08.720]   in the same orientation and you run down the hallway and then try and take a turn at a
+[00:50:08.720 --> 00:50:13.800]   90-degree angle, you'll be lifted off of your feet because of the conservation of angular
+[00:50:13.800 --> 00:50:16.560]   momentum that's being expressed on those gyroscopes.
+[00:50:16.560 --> 00:50:20.640]   You can't move it that way, it simply won't function that way.
+[00:50:20.640 --> 00:50:27.320]   And likewise, by analogy, we can say, okay, we're seeing this happen in subatomics, which
+[00:50:27.320 --> 00:50:32.640]   is obviously cascading up to atomic things and then to molecular things because we know
+[00:50:32.640 --> 00:50:34.960]   that it's reacting differently.
+[00:50:34.960 --> 00:50:38.840]   We can't really see inside of the black box just because we don't have the analytical
+[00:50:38.840 --> 00:50:40.840]   tools to do that yet.
+[00:50:40.840 --> 00:50:45.360]   We can just say this is the molecule, this is how it's supposed to express.
+[00:50:45.360 --> 00:50:50.120]   Now we can say, well, this is the molecule under exposure to quantum energy, it can actually
+[00:50:50.120 --> 00:50:54.560]   express under this condition or this condition or this condition, but they are fundamentally
+[00:50:54.560 --> 00:50:58.920]   different than when it's not exposed to quantum energy.
+[00:50:58.920 --> 00:51:04.400]   So again, we're still kind of taking potshots, if you will, trying to hone in what we're
+[00:51:04.400 --> 00:51:05.400]   doing.
+[00:51:05.400 --> 00:51:09.440]   We can say definitively it happens, we can repeat it every single time, we'll get the
+[00:51:09.440 --> 00:51:11.680]   same data.
+[00:51:11.680 --> 00:51:20.560]   But we just aren't quite fine enough, the granularity, we're not there yet.
+[00:51:20.560 --> 00:51:25.720]   But we're close enough that we can tell you it is happening and give you some idea of
+[00:51:25.720 --> 00:51:26.720]   how.
+[00:51:26.720 --> 00:51:33.360]   And admittedly, I will say since she can't look the answers up on Google, this is our
+[00:51:33.360 --> 00:51:36.640]   best assessment of what is transpiring.
+[00:51:36.640 --> 00:51:42.440]   Now we're likely to not a couple hundred years or a thousand years from now, if people
+[00:51:42.440 --> 00:51:46.800]   look back at this and they kind of say, oh, these guys were basically just on the cutting
+[00:51:46.800 --> 00:51:51.400]   edge of something and they were playing with what is maybe equal with the magnetism, here's
+[00:51:51.400 --> 00:51:55.320]   how it actually functions, they thought it function like this and they built all these
+[00:51:55.320 --> 00:51:59.920]   cases that would say it can function like this, which is exactly what we're doing.
+[00:51:59.920 --> 00:52:05.240]   It's kind of a scientific approach to this, is we see the data, we surmise what has to
+[00:52:05.240 --> 00:52:10.400]   happen, we do test to see if that fits the conditions, we've been doing that and it's
+[00:52:10.400 --> 00:52:11.400]   working.
+[00:52:11.400 --> 00:52:15.880]   So we're assuming that it's moving in one of a couple of different directions and that's
+[00:52:15.880 --> 00:52:16.880]   why it's happening.
+[00:52:16.880 --> 00:52:22.680]   But truly do we know, like I said, we don't have a quantumometer yet so we can't directly
+[00:52:22.680 --> 00:52:27.000]   measure it, we can only indirectly measure it and then surmise what we think is happening
+[00:52:27.000 --> 00:52:29.720]   based on all of the data that we get.
+[00:52:29.720 --> 00:52:35.160]   Yeah, just want to, yeah, absolutely, I think you're on to the right thing though when you
+[00:52:35.160 --> 00:52:39.920]   mentioned that in an interview and I really started to try to figure out are there other
+[00:52:39.920 --> 00:52:41.600]   people working on that.
+[00:52:41.600 --> 00:52:49.000]   I did find a quantum engineer working at UCLA that's building technology that can try to
+[00:52:49.000 --> 00:52:53.800]   measure some of these changes and what that person's finding is that within the exposure
+[00:52:53.800 --> 00:52:59.840]   to a weak magnetic field that they're also seeing changes and transmutation of substances
+[00:52:59.840 --> 00:53:02.280]   and how they reacted biologicals.
+[00:53:02.280 --> 00:53:09.920]   So there's a common, there's a distinct relationship between quantum biology, we are biological
+[00:53:09.920 --> 00:53:16.280]   and we're quantum beings and then the actual application of the quantum energy to the substances
+[00:53:16.280 --> 00:53:18.280]   that interact with us.
+[00:53:18.280 --> 00:53:23.840]   And there's this other term that I discovered on the favorite term but the term called spin
+[00:53:23.840 --> 00:53:29.640]   chemistry has come into play as well with when the electron starts spinning in a different
+[00:53:29.640 --> 00:53:32.480]   direction or a different vibration.
+[00:53:32.480 --> 00:53:36.920]   It changes what that atom will do and then of course the molecule itself.
+[00:53:36.920 --> 00:53:41.880]   So yeah, it's out there but again you guys are so far ahead of the leading edge and there's
+[00:53:41.880 --> 00:53:46.920]   very few people working on it but I think you guys are definitely on to something and
+[00:53:46.920 --> 00:53:51.800]   it's going to be really exciting to see where it goes from here and you know I'm just starting
+[00:53:51.800 --> 00:53:56.280]   with like what can it do but okay you know I forgot to ask you guys do you have a hard
+[00:53:56.280 --> 00:54:03.320]   stop like what time like right now I got 1215 CST I mean how many more minutes do I have
+[00:54:03.320 --> 00:54:06.200]   of your time?
+[00:54:06.200 --> 00:54:12.640]   I can go for probably another 20 minutes okay all right you have 15 okay so we'll stop in
+[00:54:12.640 --> 00:54:16.440]   15 then okay thank you guys all right so I'm going to just start skipping over some of
+[00:54:16.440 --> 00:54:20.040]   my questions I have so many questions for you it's such a rare treat to have you guys
+[00:54:20.040 --> 00:54:24.640]   on the line but so let's talk about something else though in terms of frequency.
+[00:54:24.640 --> 00:54:28.840]   This is something again that you haven't I haven't seen any studies coming out with
+[00:54:28.840 --> 00:54:33.320]   you you know either one of you kind of I'm sure you have but you just haven't published
+[00:54:33.320 --> 00:54:38.280]   anything but you know like can you talk about like how do frequencies play into this because
+[00:54:38.280 --> 00:54:43.800]   it seems like all the results so far is just pure quantum energy does XYZ right all these
+[00:54:43.800 --> 00:54:47.640]   different amazing things but what about the frequencies are you guys planning to do anything
+[00:54:47.640 --> 00:54:52.120]   have you done anything like you know where does the frequencies play into this?
+[00:54:52.120 --> 00:54:58.760]   Well I'll start with that maybe because there indeed have been studies in regards to frequencies
+[00:54:58.760 --> 00:55:07.240]   already by the EAGUE of Institute and also by BASA specifically where they looked at the
+[00:55:07.240 --> 00:55:17.320]   so-called HEAL frequency and there's just a couple of others that we've done but you're
+[00:55:17.320 --> 00:55:24.280]   right there's there's a lot more to be done so here's how that works so all frequencies
+[00:55:24.280 --> 00:55:29.480]   exist within the quantum field there's not a single frequency that doesn't exist within
+[00:55:29.480 --> 00:55:36.880]   the quantum field and if we want a frequency to be transmitted whether that is through
+[00:55:36.880 --> 00:55:43.600]   the quantum upgrade or you know you have a carrier like a like a card and you want
+[00:55:43.600 --> 00:55:49.760]   want this frequency to be transmitted it needs quantum energy to do that so that's kind of like
+[00:55:49.760 --> 00:55:59.360]   the carrier mechanism and that is the that's what I call frequency medicine right and there's
+[00:55:59.360 --> 00:56:03.600]   other frequency medicines out there right because you know there's stuff that
+[00:56:04.880 --> 00:56:09.680]   Sherri Edwards is doing for example with sound frequencies that's that's also I would also
+[00:56:09.680 --> 00:56:14.160]   call that frequency medicine and then you have you know arrived machines and things like that
+[00:56:14.160 --> 00:56:25.360]   it's just all they're all different mechanisms um with the frequencies if we add those we can
+[00:56:25.360 --> 00:56:33.920]   amplify results on top of what we're seeing with just the pure quantum energy and it depends
+[00:56:33.920 --> 00:56:39.440]   on the use case so what we're guessing at this point and we'll be able to validate that hopefully
+[00:56:39.440 --> 00:56:47.280]   still this year that if we added the heal frequency to the wound healing experiment that the results
+[00:56:47.280 --> 00:56:55.280]   will be even better that is currently our I mean we we very much believe that that is going to be
+[00:56:55.280 --> 00:57:05.440]   the case and there's actually yeah not only are our so-called healers seeing that but we we even
+[00:57:05.440 --> 00:57:14.400]   have a mutual friend a taught shipment that it may go too far to get into that but there was a very
+[00:57:14.400 --> 00:57:20.720]   very interesting thing that that they noticed once they turn once he turned on the the heal frequency
+[00:57:20.720 --> 00:57:28.480]   in the in the quantum upgrade so we're estimating that you can increase that now with something like
+[00:57:28.480 --> 00:57:34.480]   sleep again I don't want to get into a claim and I'm not making a claim yet but the assumption
+[00:57:34.480 --> 00:57:40.880]   right now is if you if you turn on the inner peace frequency that that it will aid you with your
+[00:57:40.880 --> 00:57:48.560]   anxiety levels which can and should be measured in regards to the HRV and even you know sleep
+[00:57:48.560 --> 00:57:56.880]   parameters so that's pretty much how that works but the thing is that we're still so early on and
+[00:57:56.880 --> 00:58:05.120]   there's still so much that we we want to show and want to find out that we we can't we just we're
+[00:58:05.120 --> 00:58:10.480]   probably to spread too thin in order to test all these different frequencies at the same time so
+[00:58:10.480 --> 00:58:16.560]   what we're doing is and I think it's the right approach to figure out what can the basic
+[00:58:16.560 --> 00:58:25.040]   system do and achieve and then once we have all that data you know we can gradually move into
+[00:58:25.040 --> 00:58:29.760]   you know adding these specific frequencies and and the thing is always like we know already
+[00:58:29.760 --> 00:58:35.440]   what those frequencies do and certainly the people also want to know like we give give them the best
+[00:58:36.880 --> 00:58:44.240]   idea about all of that but yeah some more scientific testing I think will definitely be
+[00:58:44.240 --> 00:58:50.480]   done in regards to the frequencies sure cool so Ian are you are you playing around with any of that
+[00:58:50.480 --> 00:58:58.960]   or have you tried? No we really kind of where we are is just identifying the broad strokes now
+[00:58:58.960 --> 00:59:06.480]   some of it obviously just because we're always tinkering with this no pun intended with deference
+[00:59:06.480 --> 00:59:14.400]   to your your show one of one of the things that you can't help but notice is there there are
+[00:59:14.400 --> 00:59:18.560]   and and of course there you know all anecdotal things and of one kind of stuff that comes through
+[00:59:18.560 --> 00:59:23.760]   but we hear a lot of stuff and I personally know a lot of people where just like Philip was saying
+[00:59:23.760 --> 00:59:29.280]   where they do things you know hey here's a strange effect that seems to be consistent
+[00:59:29.920 --> 00:59:36.640]   and so those are all things that relate to specific frequencies not just exposure to an eye block or
+[00:59:36.640 --> 00:59:43.200]   something like that and so yeah I'm kind of tinkering with it just on the periphery it hasn't been the
+[00:59:43.200 --> 00:59:49.920]   focal the focal point of any of the studies or data yet and I think realistically it'll probably be
+[00:59:49.920 --> 00:59:56.880]   the very end of this year before we really start queuing that up or kind of in one of the the
+[00:59:58.080 --> 01:00:04.720]   repeat performances of the of the healing of the wound healing experiment where we actually do
+[01:00:04.720 --> 01:00:10.320]   what Philip was just saying and we do the experiment again because you know the first three times
+[01:00:10.320 --> 01:00:16.320]   we did that experiment it was kind of a process of refining things to isolate for variables make
+[01:00:16.320 --> 01:00:20.960]   sure that everything was good and then continue to do it in quick group look at so we could actually
+[01:00:20.960 --> 01:00:26.480]   see with you know have statistical error bars and really isolate all the effects and make sure that
+[01:00:26.480 --> 01:00:31.280]   what we were seeing is what we thought we were seeing and in some cases it wasn't initially and then
+[01:00:31.280 --> 01:00:38.080]   you know over time everything got really tightened up but I think we will likely do that same experiment
+[01:00:38.080 --> 01:00:42.560]   again since we're quite adept at it now and I have everything set up you know in terms of my
+[01:00:42.560 --> 01:00:48.560]   cross could be to track all the imagery you know because you literally take hundreds of pictures to
+[01:00:48.560 --> 01:00:56.400]   track those to look at the growth cycles so yeah we'll likely do the experiment for wound healing
+[01:00:56.400 --> 01:01:02.400]   this year towards the end of the year with with the heal frequencies and see what you know kind of
+[01:01:02.400 --> 01:01:09.040]   what rapidity or decrease occurs from that you know or rather what increase or decrease occurs
+[01:01:09.040 --> 01:01:14.320]   from that so okay we shall see so yeah no yeah totally uh that's kind of I think that's the
+[01:01:14.320 --> 01:01:17.840]   interesting thing I feel like while you guys were talking I'm thinking you know if you think
+[01:01:17.840 --> 01:01:23.040]   about the idea of transportation and spin you know electron spin you know transmutation of the
+[01:01:23.040 --> 01:01:27.920]   electron spin and that's what's causing these physiological changes and when it interacts with
+[01:01:27.920 --> 01:01:32.880]   quantum biology right what happens when you add a frequency to that do you actually then get it
+[01:01:32.880 --> 01:01:37.840]   to transmuteate but then it entrains to the frequency it's so it's so it's kind of like
+[01:01:37.840 --> 01:01:42.880]   transmuting even more into something completely different than just energy itself and then it
+[01:01:42.880 --> 01:01:47.360]   creates a different effect so that might be an answer there but yeah I'm doing my own little
+[01:01:47.360 --> 01:01:54.080]   experiments all the time too and I use I only work with plants I don't want to have a bunch of mice
+[01:01:54.080 --> 01:02:00.400]   here but um it's you know I definitely want to I'm following along the same lines just doing what
+[01:02:00.400 --> 01:02:06.560]   I can as an armchair scientist I think okay so yeah so I think that's the thing so for folks of
+[01:02:06.560 --> 01:02:12.320]   you out there wondering how these things work it's it's all about you know I think Nikola Tesla
+[01:02:12.320 --> 01:02:16.320]   best said at the I said at the best is I'm gonna misquote him here but I think he said if you want
+[01:02:16.320 --> 01:02:21.360]   to understand the universe you have to understand vibration and frequency and I think I think he was
+[01:02:21.360 --> 01:02:27.360]   right so there you go yeah I think he was right too yeah I mean it's like that it comes down to that
+[01:02:27.360 --> 01:02:33.280]   right so the last set of questions before I let you guys go is the role now I know like this this
+[01:02:33.280 --> 01:02:39.520]   has come up it was interesting though when we when you first launched the products fill up it was
+[01:02:39.520 --> 01:02:45.840]   really focused you know there's so much attention on on the idea of intentions and consciousness and
+[01:02:45.840 --> 01:02:50.640]   then then you know we've it's like three years later and and even though it's kind of talked
+[01:02:50.640 --> 01:02:57.760]   about it's not as you know as profound as as a as a topic in the group but you know but I think
+[01:02:57.760 --> 01:03:03.120]   for the most part nothing has changed right in terms of how our thoughts and intentions
+[01:03:03.120 --> 01:03:08.160]   actually affect those results because I know that happens in science right I am you know that
+[01:03:08.160 --> 01:03:14.480]   there's plenty of plenty of experience right it's like you know it depends on who does the experiment
+[01:03:14.480 --> 01:03:19.360]   that comes out different because that person's mentality of the day and even like I think one
+[01:03:19.360 --> 01:03:23.840]   I think one of you guys told me once a long time ago when you're when you're making your oh yeah
+[01:03:23.840 --> 01:03:29.360]   Philip was you when you're making your C 60 you have to be of calm mind and mind and presence right
+[01:03:29.360 --> 01:03:34.400]   because whatever your emotional state is is going to go into that C 60 oil and your product will
+[01:03:34.400 --> 01:03:39.120]   not be the best it can be and I think I think that was you telling me that long time ago so I I
+[01:03:39.120 --> 01:03:46.640]   know that our thoughts and our intentions are driving results so can you guys elaborate on that
+[01:03:46.640 --> 01:03:51.920]   like like okay you know people have the upgrade especially the upgrade you know because I think
+[01:03:51.920 --> 01:03:55.440]   it's a little different than the block because when you're using a block you're placing an
+[01:03:55.440 --> 01:04:00.240]   intention in a block right because you've got the source of the energy right in front of you and
+[01:04:00.240 --> 01:04:04.960]   you're putting it in we're basically at the at the headwaters right but when you've got the upgrade
+[01:04:05.760 --> 01:04:12.160]   how do you use you know and energy is being sent to you from a source you know what where do thoughts
+[01:04:12.160 --> 01:04:21.440]   and intentions play on those lines in terms of driving I try to explain so there's some things
+[01:04:21.440 --> 01:04:28.640]   to unpack so first of all this stuff works regardless of any thoughts and intentions so you
+[01:04:28.640 --> 01:04:34.400]   don't have to believe that it improves your blood for example it just does that but it just has a
+[01:04:34.400 --> 01:04:41.600]   certain effect you know like with that apple for example that you know you don't have to think that
+[01:04:41.600 --> 01:04:47.600]   the apple will do that and the apple will just do that anyway so so that happens however
+[01:04:47.600 --> 01:04:55.200]   in general we know that if we think something if we have a certain intention that gets amplified
+[01:04:55.200 --> 01:05:01.440]   it gets amplified even more when there's a strong pure quantum energy field available
+[01:05:02.640 --> 01:05:10.400]   because it that's just the nature of the field right so you can further amplify the results
+[01:05:10.400 --> 01:05:17.280]   by putting these intentions in by thinking this you know with a quantum blog or an infinity blog
+[01:05:17.280 --> 01:05:23.760]   you know you can even put a piece of paper with that intention into the block we know that um so
+[01:05:23.760 --> 01:05:29.360]   so I would always encourage people to to still watch their intention and to play with those because
+[01:05:29.360 --> 01:05:36.800]   you can further amplify results with the quantum upgrade um you so if you have the field for you
+[01:05:36.800 --> 01:05:46.080]   for example then at this point it's not possible to add specific intentions to that though we
+[01:05:46.080 --> 01:05:53.440]   have the idea to actually add that so I think maybe by the end of this year we'll we'll have
+[01:05:53.440 --> 01:05:58.720]   the opportunity that people can put in a specific intention and add it to the quantum upgrade
+[01:05:58.720 --> 01:06:05.200]   which will be really cool it's basically then um an additional feature you know next to the
+[01:06:05.200 --> 01:06:12.320]   frequencies right that you can add right now so um at this point you would just want to have these
+[01:06:12.320 --> 01:06:20.320]   intentions internally that's the only way on how you can do it uh which is wise to do right I mean
+[01:06:20.320 --> 01:06:23.920]   I think in life in general it's good to work with with intentions
+[01:06:25.280 --> 01:06:30.480]   not so iron are you are you okay thank you Philip um okay good advice so from a science perspective
+[01:06:30.480 --> 01:06:37.120]   iron um in terms of driving results have you actually done any have any of his studies you know
+[01:06:37.120 --> 01:06:42.480]   utilize that as a natural as a as a variance and then if not you know what what are what are your
+[01:06:42.480 --> 01:06:51.360]   thoughts on on doing that in term to get in best results well I think the thing again that's been
+[01:06:51.360 --> 01:06:56.960]   probably the most profound to me of anything I've seen in quite a while was in in the study
+[01:06:56.960 --> 01:07:04.000]   where we showed very clearly you know we were able to affect ATP production levels inside cells
+[01:07:04.000 --> 01:07:13.280]   from 7,000 miles away in a double-blinded fashion the the idea that there is this underlying
+[01:07:13.280 --> 01:07:18.240]   intelligence and connectivity that in order for a double-blinded experiment to play out the way it
+[01:07:18.240 --> 01:07:23.600]   did every single time has to be there you know the the consciousness has to connect all things
+[01:07:23.600 --> 01:07:29.360]   in all points at the base we haven't yet done anything to modulate the frequencies like I said
+[01:07:29.360 --> 01:07:34.560]   we probably will do that with the wound healing before the end of the year to verify that and validate
+[01:07:34.560 --> 01:07:44.000]   it but what Philip is alluding to um right now we're just showing data that says if if you're
+[01:07:44.000 --> 01:07:51.760]   supported by the quantum field things function more effectively um now kind of like my analogy
+[01:07:51.760 --> 01:07:58.320]   about you know Faraday looking at magnetism what we're playing with is we've we've identified some
+[01:07:58.320 --> 01:08:03.680]   precepts that we can use when we structure these experiments and say okay this is what we expect
+[01:08:03.680 --> 01:08:09.520]   will happen at this rate and we can even do an experiment with exposure to a quantum field and
+[01:08:09.520 --> 01:08:16.400]   then exposure to a quantum field with a frequency added to it and isolate that data um a year ago
+[01:08:16.400 --> 01:08:24.560]   we just didn't have the the the tool set or you know the experience of having done it failed done
+[01:08:24.560 --> 01:08:30.160]   it got it to work done it done it again done it again done it again to uh to validate what we're
+[01:08:30.160 --> 01:08:37.440]   seeing so we haven't done it yet we certainly will again like I said definitively before the
+[01:08:37.440 --> 01:08:42.800]   end of the year I think we'll we'll have that experiment done with wound healing um to show the
+[01:08:42.800 --> 01:08:50.720]   the relative rates um but I think sometimes we kind of miss in in my click in science uh kind of
+[01:08:50.720 --> 01:08:57.120]   misses the the more important thing of oh my god everything is connected every thought you have
+[01:08:57.120 --> 01:09:03.600]   and every intention you express obviously has an impact it's waveform that waveform propagates
+[01:09:03.600 --> 01:09:09.360]   you know albeit at a very small level it still propagates and continues to move and send a
+[01:09:09.360 --> 01:09:16.400]   ripple throughout everything all the time so uh the the biggest aha moon in the past year is kind
+[01:09:16.400 --> 01:09:22.640]   of the thing that I would like to leave everybody with is we can definitively say all things are
+[01:09:22.640 --> 01:09:29.200]   connected and the intent that you express towards something more likely than not it is translating
+[01:09:29.200 --> 01:09:34.960]   as some sort of vibratory field but it's having an impact on everything else so as you move through
+[01:09:34.960 --> 01:09:41.680]   your day and your week and your month and your year really be mindful of the idea that your thoughts
+[01:09:41.680 --> 01:09:47.120]   and intentions are actually having an impact you may not be seeing it but they are definitively
+[01:09:47.120 --> 01:09:54.560]   having an impact so you know be nice be kind be loving it all makes a huge difference so I will
+[01:09:54.560 --> 01:10:01.120]   one aggressive answer there but I'll leave it at that yeah absolutely I think the the hippies in the
+[01:10:01.120 --> 01:10:10.000]   60s about good vibes were right i mean these guys invented the good vibes they do and you know
+[01:10:10.000 --> 01:10:15.440]   how correct were they it's amazing but okay so we've got multi-dimensional things going on we've
+[01:10:15.440 --> 01:10:19.920]   got the energy doing stuff when you add frequency on it they get even better results you add
+[01:10:19.920 --> 01:10:24.560]   attention you get even better results and there's and we're learning as we're going and thank you
+[01:10:24.560 --> 01:10:30.240]   guys so much it's just such a treat to have you two guys on so I just want to say thank you so much
+[01:10:30.240 --> 01:10:35.360]   if you want to find uh you know we'll reach out to i and you can find him at wizardsciences.com and
+[01:10:35.360 --> 01:10:40.880]   then you can find fill up at lay like quantum tech or quantum upgrade and again you can reach
+[01:10:40.880 --> 01:10:46.080]   me at the tickers academy so again gentlemen thank you for your time today I really appreciate it
+[01:10:46.640 --> 01:10:50.960]   and I think everyone's going to find this discussion quite fascinating so thank you and aloha
+[01:10:50.960 --> 01:10:56.880]   thank you hey thank you thanks kay that was great all right you guys take care now great to talk to
+[01:10:56.880 --> 01:11:02.560]   you guys all right see you guys bye see you guys aloha okay
+

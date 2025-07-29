@@ -1,0 +1,1665 @@
+
+[00:00:00.000 --> 00:00:05.640]   Aloha, everyone, and welcome to another Tinkers Academy video.
+[00:00:05.640 --> 00:00:07.640]   I'm your host, Keelmer, and I've got on the line,
+[00:00:07.640 --> 00:00:10.800]   Philip Samor of Onoltsendorf, founder,
+[00:00:10.800 --> 00:00:14.520]   owner, operator, healer, for Layla Quantum Tech.
+[00:00:14.520 --> 00:00:17.560]   And we're going to be doing part four of the "How
+[00:00:17.560 --> 00:00:20.320]   to Use Layla Cube Blocks" tutorial.
+[00:00:20.320 --> 00:00:23.740]   And this part four is to cover a couple of new blocks
+[00:00:23.740 --> 00:00:26.640]   that have been offered for sale on the website
+[00:00:26.640 --> 00:00:28.480]   since we did part three.
+[00:00:28.480 --> 00:00:30.560]   I think about a year ago, right, Philip?
+[00:00:30.560 --> 00:00:32.320]   It's been a bit-- yeah, about a year.
+[00:00:32.320 --> 00:00:33.640]   So there's been two new blocks.
+[00:00:33.640 --> 00:00:35.680]   And we want to definitely cover those two blocks.
+[00:00:35.680 --> 00:00:39.680]   So everyone who's interested in how the charging times,
+[00:00:39.680 --> 00:00:42.400]   the copy times, or frequencies, and so forth,
+[00:00:42.400 --> 00:00:44.480]   we can go ahead and give you that information today.
+[00:00:44.480 --> 00:00:46.920]   So I want to say thanks for joining me, Philip.
+[00:00:46.920 --> 00:00:49.360]   Let me jump into the disclaimer.
+[00:00:49.360 --> 00:00:52.160]   This is our typical disclaimer for anyone
+[00:00:52.160 --> 00:00:54.880]   watching our tutorials that neither Layla Quantum
+[00:00:54.880 --> 00:00:56.480]   Tech nor the Tinkers Academy recommend
+[00:00:56.480 --> 00:00:58.200]   or endorse any specific tests.
+[00:00:58.200 --> 00:01:00.280]   Physicians, procedures, opinions, or other information
+[00:01:00.280 --> 00:01:02.040]   that may be mentioned in this video
+[00:01:02.040 --> 00:01:04.160]   rely on any information appearing and discussing
+[00:01:04.160 --> 00:01:06.400]   this video solely at everyone's own risks.
+[00:01:06.400 --> 00:01:11.000]   Statements made have not been evaluated by the EFSA or FDA
+[00:01:11.000 --> 00:01:13.200]   or any governmental derivatives thereof.
+[00:01:13.200 --> 00:01:14.840]   Layla Quantum Tech products and products
+[00:01:14.840 --> 00:01:16.800]   that Layla Quantum Tech may represent
+[00:01:16.800 --> 00:01:19.020]   are not intended to diagnose, treat, cure,
+[00:01:19.020 --> 00:01:20.520]   or prevent any disease.
+[00:01:20.520 --> 00:01:22.320]   And this includes the Layla--
+[00:01:22.320 --> 00:01:25.080]   I'm sorry, the Quantum Upgrades Service, all right?
+[00:01:25.080 --> 00:01:30.480]   So the new blocks that I want to talk about today in part four
+[00:01:30.480 --> 00:01:31.360]   is the travel block.
+[00:01:31.360 --> 00:01:32.760]   And it's not really new.
+[00:01:32.760 --> 00:01:35.640]   It came out right after we did the tutorials,
+[00:01:35.640 --> 00:01:37.160]   so we didn't get a chance to include it.
+[00:01:37.160 --> 00:01:39.560]   But I want to-- we're going to be covered today.
+[00:01:39.560 --> 00:01:40.960]   And it's this little guy right here
+[00:01:40.960 --> 00:01:44.400]   and just kind of give you a perspective on how big it is.
+[00:01:44.400 --> 00:01:46.960]   It's actually about the size of a wine glass.
+[00:01:46.960 --> 00:01:48.440]   So you can kind of see how little it is.
+[00:01:48.440 --> 00:01:51.800]   It's the littlest one and still yet very powerful.
+[00:01:51.800 --> 00:01:53.840]   And then there's this newest one, which
+[00:01:53.840 --> 00:01:55.120]   was a limited edition.
+[00:01:55.120 --> 00:01:57.760]   And maybe, Phillip, you could talk a little bit about that,
+[00:01:57.760 --> 00:01:59.000]   called the Grand Block.
+[00:01:59.000 --> 00:02:00.800]   And to give you an idea how big this one is,
+[00:02:00.800 --> 00:02:04.160]   this is the largest block available.
+[00:02:04.160 --> 00:02:06.480]   And if you can see the size here in perspective
+[00:02:06.480 --> 00:02:08.840]   that it is quite large, it's much larger
+[00:02:08.840 --> 00:02:11.400]   than the infinity or quantum block.
+[00:02:11.400 --> 00:02:14.040]   So we'll talk a little bit about that here in a second.
+[00:02:14.040 --> 00:02:15.800]   I guess we should just jump right in right now.
+[00:02:15.800 --> 00:02:17.720]   I mean, the biggest question everyone's got
+[00:02:17.720 --> 00:02:20.080]   is it was a special offer.
+[00:02:20.080 --> 00:02:23.600]   I believe it ran like part of January and part of February.
+[00:02:23.600 --> 00:02:25.240]   And then they're just getting shipped out now.
+[00:02:25.240 --> 00:02:28.160]   So could you kind of comment, Phillip,
+[00:02:28.160 --> 00:02:32.480]   on when people can expect to start receiving their Grand Blocks?
+[00:02:32.480 --> 00:02:33.520]   Yes, absolutely.
+[00:02:33.520 --> 00:02:37.920]   So yeah, that was indeed run for just 14 days
+[00:02:37.920 --> 00:02:40.680]   because it was a product that we don't
+[00:02:40.680 --> 00:02:43.640]   want to have on a regular basis, because it's
+[00:02:43.640 --> 00:02:46.240]   pretty difficult to deal with, because it's so big.
+[00:02:46.240 --> 00:02:47.320]   The plates are so big.
+[00:02:47.320 --> 00:02:50.240]   It's very difficult to manufacture it.
+[00:02:50.240 --> 00:02:55.040]   It's very difficult to actually safely move it, ship it,
+[00:02:55.040 --> 00:02:58.240]   pack it and all of that, because there's
+[00:02:58.240 --> 00:03:02.120]   so much potential for scratches and all of that.
+[00:03:02.120 --> 00:03:04.320]   But it was a request from the community
+[00:03:04.320 --> 00:03:09.440]   to have a larger block to put even a big salad bowl inside.
+[00:03:09.440 --> 00:03:12.400]   And some people wanted to even put the whole head
+[00:03:12.400 --> 00:03:14.040]   with the shoulders in and all of that.
+[00:03:14.040 --> 00:03:15.440]   So that was the reason.
+[00:03:15.440 --> 00:03:18.760]   And we're actually today starting to ship out
+[00:03:18.760 --> 00:03:22.040]   these Grand Blocks, so everything has been unscheduled,
+[00:03:22.040 --> 00:03:25.680]   like communicated at the time.
+[00:03:25.680 --> 00:03:30.520]   And I think it will all ship here within the next seven
+[00:03:30.520 --> 00:03:31.960]   to 10 days.
+[00:03:31.960 --> 00:03:35.360]   And then all of the already ordered Grand Blocks
+[00:03:35.360 --> 00:03:36.560]   will have been shipped out.
+[00:03:36.560 --> 00:03:39.000]   And then it takes whatever it takes,
+[00:03:39.000 --> 00:03:41.320]   how long the carrier takes it to you,
+[00:03:41.320 --> 00:03:43.560]   and depends probably in which country you live,
+[00:03:43.560 --> 00:03:45.840]   if you order from Europe.
+[00:03:45.840 --> 00:03:48.480]   And since we ship from the US, it'll obviously
+[00:03:48.480 --> 00:03:51.400]   take a little longer, so yeah.
+[00:03:51.400 --> 00:03:56.280]   - Okay, so today is Friday, March 10, 2023.
+[00:03:56.280 --> 00:03:58.240]   So everyone should be receiving their Grand Blocks
+[00:03:58.240 --> 00:04:00.440]   in a week or two, pretty much, right?
+[00:04:00.440 --> 00:04:01.280]   Or during the month.
+[00:04:01.280 --> 00:04:03.520]   - Yeah, I mean, I was told by next Friday
+[00:04:03.520 --> 00:04:04.760]   they will have been shipped.
+[00:04:04.760 --> 00:04:06.800]   So that's what I've been told.
+[00:04:06.800 --> 00:04:07.920]   - Right, okay, great.
+[00:04:07.920 --> 00:04:11.000]   So that means this is a perfectly timed tutorial.
+[00:04:11.000 --> 00:04:12.480]   For those of you getting the Grand Block
+[00:04:12.480 --> 00:04:14.040]   and for those of you having the travel block
+[00:04:14.040 --> 00:04:15.200]   and you've had questions.
+[00:04:15.200 --> 00:04:16.480]   Now, in terms of the travel block,
+[00:04:16.480 --> 00:04:18.840]   I know that it's, it was out of stock.
+[00:04:18.840 --> 00:04:22.760]   So is it gonna be back in stock shortly?
+[00:04:22.760 --> 00:04:23.720]   'Cause I know people who've been asking that.
+[00:04:23.720 --> 00:04:27.080]   - I think it may be in stock right now
+[00:04:27.080 --> 00:04:29.760]   with just a few of these.
+[00:04:29.760 --> 00:04:32.200]   And then it's probably out of stock again.
+[00:04:32.200 --> 00:04:37.200]   And then I would say around March 18th, 19th, or 20th,
+[00:04:37.200 --> 00:04:39.440]   it should be back in stock.
+[00:04:39.440 --> 00:04:41.960]   And then it also will be a little bit stronger
+[00:04:41.960 --> 00:04:43.880]   and more powerful than before.
+[00:04:43.880 --> 00:04:45.360]   It was already powerful before,
+[00:04:45.360 --> 00:04:49.840]   but we decided to, yeah, further upgrade it.
+[00:04:49.840 --> 00:04:51.320]   The little travel block.
+[00:04:51.320 --> 00:04:57.440]   So then charging foods on the go can go even quicker.
+[00:04:57.440 --> 00:04:58.600]   - All right, great.
+[00:04:58.600 --> 00:05:01.120]   So now what this gives Layla Quantum Tech
+[00:05:01.120 --> 00:05:03.280]   is there's four blocks now.
+[00:05:03.280 --> 00:05:05.640]   The original two were the quantum and the infinity blocks.
+[00:05:05.640 --> 00:05:07.920]   So again, you've got this little travel block now
+[00:05:07.920 --> 00:05:09.120]   and you've got the Grand Block.
+[00:05:09.120 --> 00:05:11.040]   And the first thing I want to comment on, Philip,
+[00:05:11.040 --> 00:05:14.440]   is, and just to share with everybody that's got blocks,
+[00:05:14.440 --> 00:05:17.200]   is that the use cases for the new blocks
+[00:05:17.200 --> 00:05:18.800]   are the same as the existing blocks.
+[00:05:18.800 --> 00:05:20.240]   And what I mean by use cases is like,
+[00:05:20.240 --> 00:05:21.480]   what are they for?
+[00:05:21.480 --> 00:05:22.400]   How do you use them?
+[00:05:22.400 --> 00:05:24.600]   So, Philip, if you could correct me if I'm wrong,
+[00:05:24.600 --> 00:05:28.240]   but bottom line is that even though they're new blocks,
+[00:05:28.240 --> 00:05:31.080]   but they still do what the older blocks will do as well.
+[00:05:31.080 --> 00:05:34.280]   So any one of the four has the ability to,
+[00:05:34.280 --> 00:05:37.280]   number one, broadcast quantum energy and/or frequencies,
+[00:05:37.280 --> 00:05:40.280]   if you place a frequency source inside the block,
+[00:05:40.280 --> 00:05:43.520]   meaning it broadcasts it out from the center
+[00:05:43.520 --> 00:05:45.640]   of the block, outwards into a field.
+[00:05:45.640 --> 00:05:49.520]   We'll cover the sides of the fields here in the next slide.
+[00:05:49.520 --> 00:05:52.520]   And also, you can use any one of these four blocks
+[00:05:52.520 --> 00:05:56.160]   to charge objects, charge people, pets, plants.
+[00:05:56.160 --> 00:05:59.160]   And you can even charge places by putting a picture
+[00:05:59.160 --> 00:06:02.000]   inside these blocks, any one of the four.
+[00:06:02.000 --> 00:06:05.080]   You can use any one of the four to copy frequencies,
+[00:06:05.080 --> 00:06:08.440]   but with the caveat that the stronger blocks
+[00:06:08.440 --> 00:06:11.480]   have a limitation as to certain kinds of frequencies.
+[00:06:11.480 --> 00:06:14.240]   We'll cover that in a couple of slides.
+[00:06:14.240 --> 00:06:18.320]   And also that the new blocks, like the existing blocks,
+[00:06:18.320 --> 00:06:21.880]   will send quantum energy or frequencies long distance
+[00:06:21.880 --> 00:06:25.080]   through the concept of remote healing/quantum healing.
+[00:06:25.080 --> 00:06:27.040]   So, is that correct?
+[00:06:27.040 --> 00:06:29.840]   Is there anything else that the new blocks could do
+[00:06:29.840 --> 00:06:33.160]   that the other blocks don't?
+[00:06:33.160 --> 00:06:35.480]   I guess it's the question, Philip?
+[00:06:35.480 --> 00:06:36.880]   Or this, they're all basically,
+[00:06:36.880 --> 00:06:38.560]   I'm trying to say they're all basically
+[00:06:38.560 --> 00:06:40.200]   have the same abilities.
+[00:06:40.200 --> 00:06:41.600]   That's what I'm trying to say,
+[00:06:41.600 --> 00:06:44.320]   but I just wanted to quantify that with you.
+[00:06:44.320 --> 00:06:45.840]   - Yeah, well, they work differently
+[00:06:45.840 --> 00:06:47.480]   and have different abilities.
+[00:06:47.480 --> 00:06:50.160]   The use cases are the same.
+[00:06:50.160 --> 00:06:52.940]   And just for the listeners out there,
+[00:06:52.940 --> 00:06:56.560]   in number two, where it says charging objects,
+[00:06:56.560 --> 00:07:00.240]   obviously, water and groceries would be an important point,
+[00:07:00.240 --> 00:07:01.920]   but that's covered on their objects.
+[00:07:01.920 --> 00:07:03.920]   But for anyone new out there,
+[00:07:03.920 --> 00:07:07.720]   obviously that is a use case also for all of these blocks.
+[00:07:08.680 --> 00:07:11.720]   Now, okay, I'm gonna add that onto the slide.
+[00:07:11.720 --> 00:07:13.640]   And then, yeah, definitely, by the way,
+[00:07:13.640 --> 00:07:15.600]   on my blog, I'll condense all of this
+[00:07:15.600 --> 00:07:18.400]   and it's all gonna be available as a slide,
+[00:07:18.400 --> 00:07:19.400]   like a quick reference.
+[00:07:19.400 --> 00:07:21.600]   So, okay, so definitely charging objects,
+[00:07:21.600 --> 00:07:23.480]   food and water, people, okay, great.
+[00:07:23.480 --> 00:07:25.880]   Okay, so let's get into the actual specifics
+[00:07:25.880 --> 00:07:28.720]   or the specifications for these blocks.
+[00:07:28.720 --> 00:07:31.560]   Now, we've got the original quantum infinity block.
+[00:07:31.560 --> 00:07:35.000]   That's what we covered in part one through three
+[00:07:35.000 --> 00:07:36.200]   of the tutorial.
+[00:07:36.200 --> 00:07:37.920]   And then, so you've added the travel block
+[00:07:37.920 --> 00:07:39.720]   and the ground block now.
+[00:07:39.720 --> 00:07:42.280]   So, I do know on the travel block,
+[00:07:42.280 --> 00:07:44.480]   the size of it is four inches by four inches
+[00:07:44.480 --> 00:07:46.040]   by six inches tall.
+[00:07:46.040 --> 00:07:51.120]   So, now, is the field, okay, I believe it's 100 meters, right?
+[00:07:51.120 --> 00:07:52.120]   Is that correct?
+[00:07:52.120 --> 00:07:56.000]   - Yes, it's 100 to 150 meters.
+[00:07:56.000 --> 00:07:57.280]   - Okay.
+[00:07:57.280 --> 00:08:00.120]   Now, when you actually produce the newer one.
+[00:08:00.120 --> 00:08:02.320]   - No, to 150 meters.
+[00:08:02.320 --> 00:08:04.600]   I think that's actually what we measured 150.
+[00:08:04.600 --> 00:08:07.120]   So, you may as well just put 150 there.
+[00:08:07.120 --> 00:08:07.960]   - Okay.
+[00:08:07.960 --> 00:08:12.960]   - And we measured about 75, 70 to 75 meters EMF mitigation.
+[00:08:12.960 --> 00:08:17.720]   - Okay, okay, so it quantified for folks
+[00:08:17.720 --> 00:08:19.080]   who don't know what he just said.
+[00:08:19.080 --> 00:08:20.480]   (laughs)
+[00:08:20.480 --> 00:08:23.160]   Is the studies have come back
+[00:08:23.160 --> 00:08:27.120]   that the EMF effect of a block
+[00:08:27.120 --> 00:08:30.920]   is within the 40% closest to the center,
+[00:08:30.920 --> 00:08:32.600]   which is the block itself, right?
+[00:08:32.600 --> 00:08:35.360]   So, let's say, just for semantics.
+[00:08:35.360 --> 00:08:39.400]   If the field was 100 meters, right?
+[00:08:39.400 --> 00:08:44.400]   The first 40% or the first 40 meters of the field,
+[00:08:44.400 --> 00:08:47.240]   the ball around the block,
+[00:08:47.240 --> 00:08:51.520]   is where you're gonna get that EMF mitigation effect.
+[00:08:51.520 --> 00:08:54.240]   Anything outside of that, it's not as pronounced, right?
+[00:08:54.240 --> 00:08:57.640]   So, you always wanna basically place the block
+[00:08:57.640 --> 00:09:02.000]   closest to what you want to protect from EMF,
+[00:09:02.000 --> 00:09:04.360]   which would be, you know, where you guys live,
+[00:09:04.360 --> 00:09:05.800]   you know, like sleep and so forth.
+[00:09:05.800 --> 00:09:07.400]   So, it's 150 meters.
+[00:09:07.400 --> 00:09:09.840]   So, now on the grand block,
+[00:09:09.840 --> 00:09:12.600]   how big is the field for the grand block?
+[00:09:12.600 --> 00:09:15.200]   - I do not know that.
+[00:09:15.200 --> 00:09:16.600]   - Oh, okay. (laughs)
+[00:09:16.600 --> 00:09:17.440]   I haven't measured it.
+[00:09:17.440 --> 00:09:18.360]   (laughs)
+[00:09:18.360 --> 00:09:21.520]   - But, I will let you know once we know
+[00:09:21.520 --> 00:09:23.160]   and once we've measured it.
+[00:09:23.160 --> 00:09:28.160]   So, my guess at this point is it's probably two kilometers.
+[00:09:28.160 --> 00:09:30.760]   That's my guess.
+[00:09:30.760 --> 00:09:31.600]   - Okay.
+[00:09:31.600 --> 00:09:33.360]   - Feel free to quote me in there right now
+[00:09:33.360 --> 00:09:34.960]   and put in two kilometers.
+[00:09:34.960 --> 00:09:39.960]   And I will send you a clear number
+[00:09:39.960 --> 00:09:43.240]   here in the next seven days or so.
+[00:09:43.240 --> 00:09:44.080]   - Okay.
+[00:09:44.080 --> 00:09:47.160]   So, yeah, when I post the quick reference guide
+[00:09:47.160 --> 00:09:48.720]   and we put it in the chat group,
+[00:09:48.720 --> 00:09:49.600]   we'll have this updated.
+[00:09:49.600 --> 00:09:52.560]   So, right now it's just, it's a guesstimate of two kilometers.
+[00:09:52.560 --> 00:09:55.000]   That's pretty wild because the infinity block is one.
+[00:09:55.000 --> 00:09:57.320]   So, that's huge.
+[00:09:57.320 --> 00:10:00.720]   Which also implies, right, that the 40% EMF field
+[00:10:00.720 --> 00:10:02.680]   is way bigger as well.
+[00:10:02.680 --> 00:10:06.360]   Okay, so then, when people receive the travel block
+[00:10:06.360 --> 00:10:07.960]   and like any of the other blocks,
+[00:10:07.960 --> 00:10:09.880]   when they assemble them,
+[00:10:09.880 --> 00:10:11.240]   they should wait two to three hours
+[00:10:11.240 --> 00:10:13.960]   before they start using it to charge copy and so forth.
+[00:10:13.960 --> 00:10:16.800]   Is that the same with the travel block
+[00:10:16.800 --> 00:10:18.000]   and as well as the grand block?
+[00:10:18.000 --> 00:10:20.520]   Is it two to three hours after you assemble it
+[00:10:20.520 --> 00:10:21.320]   is when it's ready
+[00:10:21.320 --> 00:10:24.120]   and it's kind of like established its field?
+[00:10:24.120 --> 00:10:25.240]   Is that the same timeframe?
+[00:10:25.240 --> 00:10:26.080]   - Yes.
+[00:10:26.080 --> 00:10:27.680]   And it may only take one hour.
+[00:10:27.680 --> 00:10:30.600]   So, we're always a little bit more on the conservative side
+[00:10:30.600 --> 00:10:33.240]   when we give out these guidelines.
+[00:10:33.240 --> 00:10:34.720]   So, usually it's an hour,
+[00:10:34.720 --> 00:10:36.760]   but it can take up to two, three hours,
+[00:10:36.760 --> 00:10:39.320]   depending on where it's actually set up.
+[00:10:39.320 --> 00:10:42.720]   And the energy is noticeable right away, to be honest.
+[00:10:42.720 --> 00:10:45.480]   You know, it won't take more than five minutes
+[00:10:45.480 --> 00:10:47.800]   until you have a strong field there.
+[00:10:47.800 --> 00:10:49.400]   But then it changes.
+[00:10:49.400 --> 00:10:52.600]   Like if you were to calibrate it after 10 minutes,
+[00:10:52.600 --> 00:10:55.120]   after 30 minutes, after 60 minutes,
+[00:10:55.120 --> 00:10:57.840]   you will see an increase on the Hawkins scale.
+[00:10:59.240 --> 00:11:01.920]   And it's moving quite clearly.
+[00:11:01.920 --> 00:11:03.280]   And then at some point,
+[00:11:03.280 --> 00:11:06.120]   it's leveling out, if that makes sense.
+[00:11:06.120 --> 00:11:06.960]   - All right.
+[00:11:06.960 --> 00:11:09.320]   Yeah, so, and then I know that the little brochure
+[00:11:09.320 --> 00:11:11.480]   that comes with the block says 24,
+[00:11:11.480 --> 00:11:14.720]   but that's kind of like the original back,
+[00:11:14.720 --> 00:11:17.120]   like when you started, right?
+[00:11:17.120 --> 00:11:18.760]   You figured it took 24,
+[00:11:18.760 --> 00:11:21.200]   but now we've got a more refined number.
+[00:11:21.200 --> 00:11:23.960]   So, I don't know if you'll have a chance to upgrade
+[00:11:23.960 --> 00:11:25.760]   or update the little brochure,
+[00:11:25.760 --> 00:11:27.600]   but so people do get a little confused.
+[00:11:27.600 --> 00:11:30.480]   So, if you get a brochure that says 24 hours,
+[00:11:30.480 --> 00:11:32.120]   just kind of know that, you know,
+[00:11:32.120 --> 00:11:34.640]   two to three is the sweet spot.
+[00:11:34.640 --> 00:11:37.360]   And you're ready to go at two to three hours.
+[00:11:37.360 --> 00:11:38.200]   Okay. - Yeah.
+[00:11:38.200 --> 00:11:40.840]   And so the 24 hours is rather also meant
+[00:11:40.840 --> 00:11:43.160]   for people that have a two infinity blocks,
+[00:11:43.160 --> 00:11:44.440]   so the infinity block package.
+[00:11:44.440 --> 00:11:46.280]   And when they do upgrades,
+[00:11:46.280 --> 00:11:48.520]   and we still recommend that today,
+[00:11:48.520 --> 00:11:51.560]   like don't do your upgrade in the first 24 hours,
+[00:11:51.560 --> 00:11:55.120]   wait at least 24 hours to do an upgrade.
+[00:11:55.120 --> 00:11:55.960]   - Okay.
+[00:11:55.960 --> 00:11:56.800]   Oh, that's really good to know.
+[00:11:56.800 --> 00:11:58.840]   Okay, so all right, so 24 hours,
+[00:11:58.840 --> 00:12:00.520]   if you're gonna be upgrading infinity blocks,
+[00:12:00.520 --> 00:12:01.720]   but everybody else,
+[00:12:01.720 --> 00:12:03.240]   when you set up your block two to three hours,
+[00:12:03.240 --> 00:12:04.480]   and that's ready to go.
+[00:12:04.480 --> 00:12:06.440]   Now, if I were to,
+[00:12:06.440 --> 00:12:08.040]   let's say I wanna charge something big,
+[00:12:08.040 --> 00:12:09.320]   and I take the rods off,
+[00:12:09.320 --> 00:12:11.640]   and then I put the plates up
+[00:12:11.640 --> 00:12:13.560]   where they're facing each other again.
+[00:12:13.560 --> 00:12:15.040]   How long, and it's at one minute
+[00:12:15.040 --> 00:12:17.120]   before the field is reestablished itself.
+[00:12:17.120 --> 00:12:18.960]   You know, when I...
+[00:12:18.960 --> 00:12:20.480]   - Yeah, yeah, it's...
+[00:12:20.480 --> 00:12:21.640]   - Separate the plates.
+[00:12:21.640 --> 00:12:23.240]   How long does it take for a long time?
+[00:12:23.240 --> 00:12:26.880]   - One to three minutes, one to three minutes.
+[00:12:26.880 --> 00:12:28.160]   - Is that for all of them?
+[00:12:28.160 --> 00:12:30.400]   You would say?
+[00:12:30.400 --> 00:12:31.480]   - Yeah, I would say it's for all of them.
+[00:12:31.480 --> 00:12:32.720]   - Okay, I'm gonna update them.
+[00:12:32.720 --> 00:12:36.240]   - Usually after one minute, so I mean, you can...
+[00:12:36.240 --> 00:12:38.360]   Yeah, I mean, there's...
+[00:12:38.360 --> 00:12:41.160]   If there's maybe a 5%, 5% difference,
+[00:12:41.160 --> 00:12:42.560]   then after a minute, you know,
+[00:12:42.560 --> 00:12:47.480]   then that's not worth bothering about, so yeah.
+[00:12:47.480 --> 00:12:48.920]   - Okay, and I also wanna stress,
+[00:12:48.920 --> 00:12:50.640]   and correct me if I'm wrong,
+[00:12:50.640 --> 00:12:53.800]   that when you separate the, a block,
+[00:12:53.800 --> 00:12:57.400]   and you take the rods off and you separate the plates,
+[00:12:57.400 --> 00:13:00.160]   you need to keep the plates facing each other, right?
+[00:13:00.160 --> 00:13:03.520]   I mean, otherwise, the field just doesn't form.
+[00:13:03.520 --> 00:13:04.360]   - Yes.
+[00:13:04.360 --> 00:13:05.200]   - So... - Correct, yeah.
+[00:13:05.200 --> 00:13:06.920]   - If you lay them next to each other on the...
+[00:13:06.920 --> 00:13:08.800]   - Right, or you lay them on top of each other.
+[00:13:08.800 --> 00:13:11.400]   - There's not gonna be any field at all.
+[00:13:11.400 --> 00:13:14.440]   - So you have to position the separated plates
+[00:13:14.440 --> 00:13:16.640]   as if the rods were there,
+[00:13:16.640 --> 00:13:19.120]   so that they're in alignment with each other, okay?
+[00:13:19.120 --> 00:13:22.240]   Everybody, so even like for myself,
+[00:13:22.240 --> 00:13:23.720]   I have one of my infinity blocks,
+[00:13:23.720 --> 00:13:25.440]   it disassembled at all times,
+[00:13:25.440 --> 00:13:27.680]   and I use it in my kitchen that way I could,
+[00:13:27.680 --> 00:13:30.000]   you know, I could separate the plates really super easy
+[00:13:30.000 --> 00:13:32.520]   if I wanna like charge a bag of potatoes,
+[00:13:32.520 --> 00:13:33.920]   and then, you know, so forth, so...
+[00:13:33.920 --> 00:13:36.080]   But when I store them on the counter,
+[00:13:36.080 --> 00:13:37.760]   they're always facing each other,
+[00:13:37.760 --> 00:13:39.960]   so that the field is always sitting there, right?
+[00:13:39.960 --> 00:13:43.080]   So keep in mind that you wanna keep them lined up
+[00:13:43.080 --> 00:13:44.880]   when they're separated.
+[00:13:44.880 --> 00:13:48.920]   The other thing too now is when you do separate the plates,
+[00:13:48.920 --> 00:13:52.120]   there's this idea of what's the farthest distance
+[00:13:52.120 --> 00:13:55.000]   you can have the plates separated from each other
+[00:13:55.000 --> 00:13:57.880]   aligned as if the rods were on,
+[00:13:57.880 --> 00:14:00.120]   in order to charge really big things,
+[00:14:00.120 --> 00:14:04.680]   like cars, boats, kitchen appliances, you know,
+[00:14:04.680 --> 00:14:07.160]   beds, whatever you wanna charge, that's huge.
+[00:14:07.160 --> 00:14:10.360]   So we did kind of mention, I think in the infinity block,
+[00:14:10.360 --> 00:14:14.040]   it was like five meters roughly, you know, like 25 feet,
+[00:14:14.040 --> 00:14:17.000]   or 20, well, that five times 15 feet.
+[00:14:17.000 --> 00:14:21.080]   So the travel block was about three meters.
+[00:14:21.080 --> 00:14:22.880]   What would you say would be the grand block?
+[00:14:22.880 --> 00:14:24.840]   If I separated the plates of the grand block,
+[00:14:24.840 --> 00:14:28.040]   how far apart does it, can you separate them
+[00:14:28.040 --> 00:14:29.480]   so that you still have a field?
+[00:14:29.480 --> 00:14:31.800]   - That's a good question.
+[00:14:31.800 --> 00:14:36.800]   I would say safely, probably seven meters easily.
+[00:14:36.800 --> 00:14:42.560]   - Okay, so it's definitely a lot bigger for folks of you.
+[00:14:42.560 --> 00:14:45.040]   I mean, I've actually had people in the chat group
+[00:14:45.040 --> 00:14:47.560]   that have separated their plates
+[00:14:47.560 --> 00:14:50.800]   and literally charged their car a little bit at a time,
+[00:14:50.800 --> 00:14:53.680]   you know, 'cause they've worked up a way
+[00:14:53.680 --> 00:14:55.920]   to charge their vehicle and so forth,
+[00:14:55.920 --> 00:14:58.440]   charge your bicycle, for those of you guys who write bikes,
+[00:14:58.440 --> 00:15:01.360]   charge your fishing rod, you know, (laughs)
+[00:15:01.360 --> 00:15:02.240]   big things like that.
+[00:15:02.240 --> 00:15:03.800]   So yeah, there you go, it's so seven meters.
+[00:15:03.800 --> 00:15:07.360]   But then here's the length of distance between plates
+[00:15:07.360 --> 00:15:09.320]   when you wanna charge bigger things.
+[00:15:09.320 --> 00:15:12.400]   Now for consciousness level, this is something that,
+[00:15:12.400 --> 00:15:14.800]   you know, we get asked about a lot.
+[00:15:14.800 --> 00:15:17.240]   And so we've got the quantum and the infinity block,
+[00:15:17.240 --> 00:15:20.960]   you know, quantum's at 571, 733 for infinity.
+[00:15:20.960 --> 00:15:23.440]   So now you mentioned that the travel block
+[00:15:23.440 --> 00:15:25.880]   that the original first, let's say batch,
+[00:15:25.880 --> 00:15:28.760]   that all everybody bought between when it got launched
+[00:15:28.760 --> 00:15:31.840]   to most recently now, the consciousness level
+[00:15:31.840 --> 00:15:35.720]   of the travel block was 700, very close to the infinity.
+[00:15:35.720 --> 00:15:38.240]   Do you have an idea of what the new one will be?
+[00:15:38.240 --> 00:15:42.640]   - I'm pretty certain it will be
+[00:15:44.640 --> 00:15:45.840]   over a thousand.
+[00:15:45.840 --> 00:15:48.240]   - Okay.
+[00:15:48.240 --> 00:15:53.240]   - And how much I'll let you know once we've actually done it.
+[00:15:53.240 --> 00:15:54.400]   - Okay, all right.
+[00:15:54.400 --> 00:15:55.800]   So it's definitely gonna be a lot stronger.
+[00:15:55.800 --> 00:15:58.680]   And then so now the grand block was advertised
+[00:15:58.680 --> 00:16:02.560]   at the consciousness level of 1800, correct?
+[00:16:02.560 --> 00:16:07.920]   - Yes, and I think it'll, it's at 2000.
+[00:16:07.920 --> 00:16:11.000]   - Oh, okay, it's at over 1,800,
+[00:16:11.000 --> 00:16:14.560]   but it's looking more like 2000.
+[00:16:14.560 --> 00:16:18.600]   - Okay, and I do have a question about that.
+[00:16:18.600 --> 00:16:19.560]   It's just my personal question.
+[00:16:19.560 --> 00:16:22.440]   I was thinking about, you know, the little pyramid
+[00:16:22.440 --> 00:16:24.320]   and all of you are familiar with it.
+[00:16:24.320 --> 00:16:26.880]   If not, I'll put a link below on the little handout
+[00:16:26.880 --> 00:16:29.160]   that Layla provides when people have questions
+[00:16:29.160 --> 00:16:31.920]   about the Hawkins scale.
+[00:16:31.920 --> 00:16:33.200]   But when you look at the, you know,
+[00:16:33.200 --> 00:16:34.760]   if you picture in your mind, Phillip,
+[00:16:34.760 --> 00:16:36.560]   you know, that little pyramid, right?
+[00:16:36.560 --> 00:16:39.280]   And at the very top of it, it's like that, you know,
+[00:16:39.280 --> 00:16:41.200]   Hawkins thought, you know, it was like 30 years ago
+[00:16:41.200 --> 00:16:43.040]   or 40 years ago when he wrote the book
+[00:16:43.040 --> 00:16:45.800]   that, you know, when you reach the top of that pyramid
+[00:16:45.800 --> 00:16:48.280]   from zero to a thousand, that that was the most
+[00:16:48.280 --> 00:16:51.040]   you could reach at that time.
+[00:16:51.040 --> 00:16:53.720]   And then of course, things have changed.
+[00:16:53.720 --> 00:16:54.760]   So I'm just wondering, you know,
+[00:16:54.760 --> 00:16:58.080]   is the top of the pyramid now because of just,
+[00:16:58.080 --> 00:16:59.040]   and there's a lot of reasons
+[00:16:59.040 --> 00:17:00.240]   where I won't get too deep into it,
+[00:17:00.240 --> 00:17:04.880]   but, you know, is the top of the pyramid now 2000, right?
+[00:17:04.880 --> 00:17:08.280]   Is it, is that the most that humans can attain to
+[00:17:08.280 --> 00:17:12.120]   at this day and age or have we surpassed
+[00:17:12.120 --> 00:17:13.320]   the top of the pyramid?
+[00:17:13.320 --> 00:17:16.480]   And we've gone on to actually evolve
+[00:17:16.480 --> 00:17:18.440]   into a whole different type of pyramid
+[00:17:18.440 --> 00:17:20.480]   where Hawkins is on the bottom
+[00:17:20.480 --> 00:17:22.320]   and then there's something even above it.
+[00:17:22.320 --> 00:17:23.440]   So you see what I'm saying?
+[00:17:23.440 --> 00:17:25.480]   Is the top of the pyramid 2000?
+[00:17:25.480 --> 00:17:28.360]   Or are we literally going above that pyramid
+[00:17:28.360 --> 00:17:31.040]   into a whole nother realm that has yet to be defined?
+[00:17:31.040 --> 00:17:33.360]   What would be your thoughts on that?
+[00:17:33.360 --> 00:17:36.000]   - Yep. So, I mean, the Hawkins scale
+[00:17:36.000 --> 00:17:37.720]   doesn't just apply to humans.
+[00:17:37.720 --> 00:17:39.600]   It's for anything, right?
+[00:17:39.600 --> 00:17:44.600]   So it basically measures the vibrational level
+[00:17:44.600 --> 00:17:49.480]   of a location, of an object, of a human and so on and so on.
+[00:17:49.480 --> 00:17:52.360]   So it really is not just for humans, that's important.
+[00:17:52.360 --> 00:17:57.080]   So it does not at all say anything about what humans,
+[00:17:57.080 --> 00:17:59.600]   where humans can be because it includes
+[00:17:59.600 --> 00:18:04.360]   all these other objects and locations as well.
+[00:18:04.360 --> 00:18:08.680]   No, 2000 is not the top.
+[00:18:08.680 --> 00:18:10.920]   I don't know where the top is, to be honest,
+[00:18:10.920 --> 00:18:14.800]   it's definitely not 2000 because we're already higher
+[00:18:14.800 --> 00:18:17.600]   than 2000 with what we're using.
+[00:18:17.600 --> 00:18:20.920]   But it keeps changing.
+[00:18:20.920 --> 00:18:25.920]   So it's, I don't think it can be a static scale anymore really.
+[00:18:25.920 --> 00:18:30.400]   I think it's so helpful as a scale
+[00:18:30.400 --> 00:18:32.560]   and from the logic and everything.
+[00:18:32.560 --> 00:18:35.680]   And it's just an amazing reference,
+[00:18:35.680 --> 00:18:37.680]   but we've surpassed that in a way
+[00:18:37.680 --> 00:18:42.240]   and that happened mainly because the energies on Earth
+[00:18:42.240 --> 00:18:45.520]   and off Earth completely shifted.
+[00:18:45.520 --> 00:18:48.120]   Roman described that already 10 years ago
+[00:18:48.120 --> 00:18:52.640]   as the Earth has now become a conscious creator.
+[00:18:52.640 --> 00:18:55.440]   Okay, so that's his way of saying that.
+[00:18:55.440 --> 00:18:59.120]   What it also means is that Earth basically
+[00:18:59.120 --> 00:19:04.120]   became completely free of any other energies
+[00:19:07.120 --> 00:19:09.640]   and forces and restrictions and that
+[00:19:09.640 --> 00:19:13.800]   and can create and create and frequencies are coming out
+[00:19:13.800 --> 00:19:16.320]   and have been coming out in the last 10 years
+[00:19:16.320 --> 00:19:19.320]   out of the Earth that are absolutely incredible.
+[00:19:19.320 --> 00:19:24.320]   And the environment is now there for all beings on Earth
+[00:19:24.320 --> 00:19:29.840]   to also reach that and to become conscious creators,
+[00:19:29.840 --> 00:19:34.360]   if you will, and to be free of these
+[00:19:34.360 --> 00:19:36.280]   lower levels of vibration.
+[00:19:36.280 --> 00:19:40.440]   And that's quite frankly where humanity is at at the moment.
+[00:19:40.440 --> 00:19:43.640]   And I don't think anyone can really say,
+[00:19:43.640 --> 00:19:48.560]   what levels will we see here in the year or two or three?
+[00:19:48.560 --> 00:19:51.280]   At this point, we see that each year,
+[00:19:51.280 --> 00:19:55.840]   we are able to have advancements
+[00:19:55.840 --> 00:19:59.360]   and to provide even higher levels on the Hawkins scale.
+[00:19:59.360 --> 00:20:02.000]   I must say though, that also came
+[00:20:02.000 --> 00:20:06.480]   with developments like the harmony feature
+[00:20:06.480 --> 00:20:10.080]   and the buffer because you could not have
+[00:20:10.080 --> 00:20:13.600]   a regular infinity block vibrating at the level 2000
+[00:20:13.600 --> 00:20:17.600]   and not sweat like heck because of it.
+[00:20:17.600 --> 00:20:21.200]   Because it's just, it's the same consciousness level
+[00:20:21.200 --> 00:20:23.840]   but it's much more forceful.
+[00:20:23.840 --> 00:20:27.880]   It's very hard to understand
+[00:20:27.880 --> 00:20:31.520]   but it would make you sweat literally.
+[00:20:31.520 --> 00:20:34.120]   - Yeah, I've actually heard your interviews
+[00:20:34.120 --> 00:20:36.360]   about people at the biohacking conference
+[00:20:36.360 --> 00:20:39.800]   as a one individual wearing, I think an or a ring
+[00:20:39.800 --> 00:20:41.280]   or a Fitbit or something.
+[00:20:41.280 --> 00:20:43.240]   Every time they get closer to the block
+[00:20:43.240 --> 00:20:47.000]   on your side of the hall in the biohacking conference
+[00:20:47.000 --> 00:20:50.120]   they literally watched their HRV go up.
+[00:20:50.120 --> 00:20:55.120]   And it definitely was biologically affecting them
+[00:20:55.120 --> 00:20:58.120]   because of the level of, just the level of energy
+[00:20:58.120 --> 00:20:59.200]   that was coming out of the block.
+[00:20:59.200 --> 00:21:01.760]   So I was really fascinating to hear that story.
+[00:21:01.760 --> 00:21:03.760]   So I guess I don't want to get too deep into it.
+[00:21:03.760 --> 00:21:06.120]   I mean, this would make a great other video
+[00:21:06.120 --> 00:21:08.880]   but bottom line though is I was so curious as to like,
+[00:21:08.880 --> 00:21:11.680]   you're creating these blocks now and products
+[00:21:11.680 --> 00:21:13.440]   that are above a thousand.
+[00:21:13.440 --> 00:21:14.280]   And so I was wondering like,
+[00:21:14.280 --> 00:21:15.920]   how does that relate to the existing one?
+[00:21:15.920 --> 00:21:19.120]   So you're saying is that Hawkins kind of predicted
+[00:21:19.120 --> 00:21:22.240]   like 40 years ago that you reach a thousand,
+[00:21:22.240 --> 00:21:25.800]   you're into that whole self realization section right here
+[00:21:25.800 --> 00:21:28.600]   which is really when, is what the blocks actually do.
+[00:21:28.600 --> 00:21:30.040]   It's all about self realization.
+[00:21:30.040 --> 00:21:34.040]   It takes you from basically victim abuse or consciousness
+[00:21:34.040 --> 00:21:35.280]   into self empowerment.
+[00:21:35.280 --> 00:21:36.120]   And then you get,
+[00:21:36.120 --> 00:21:37.720]   when you get into these quantum products
+[00:21:37.720 --> 00:21:39.800]   you start getting into self realization.
+[00:21:39.800 --> 00:21:41.680]   And then Hawkins thought you could get up
+[00:21:41.680 --> 00:21:43.520]   to a full consciousness at a thousand.
+[00:21:43.520 --> 00:21:44.840]   But what you're saying right now Phillip
+[00:21:44.840 --> 00:21:46.200]   and I guess without getting too deep into it
+[00:21:46.200 --> 00:21:49.080]   but there's this whole idea of surpassing 1000
+[00:21:49.080 --> 00:21:51.000]   and not just becoming fully conscious
+[00:21:51.000 --> 00:21:52.880]   but becoming a conscious creator
+[00:21:52.880 --> 00:21:53.920]   which is a whole nother term.
+[00:21:53.920 --> 00:21:57.120]   And I think that eventually we could probably talk
+[00:21:57.120 --> 00:21:58.360]   a lot more about this in the future
+[00:21:58.360 --> 00:22:00.560]   but I just find it so fascinating.
+[00:22:00.560 --> 00:22:03.840]   So it is completely possible to go above a thousand
+[00:22:03.840 --> 00:22:07.760]   and you're actually surpassing full consciousness
+[00:22:07.760 --> 00:22:10.720]   into a whole new realm of self realization.
+[00:22:10.720 --> 00:22:13.880]   And I'll just use your phrasing there on conscious creators.
+[00:22:13.880 --> 00:22:15.320]   So yeah, that's really cool.
+[00:22:15.320 --> 00:22:17.240]   I mean, I personally, my story itself
+[00:22:17.240 --> 00:22:21.600]   as I went through this bottom all the way up
+[00:22:21.600 --> 00:22:22.840]   using these tools.
+[00:22:22.840 --> 00:22:26.840]   And so I know exactly what that means to an individual.
+[00:22:26.840 --> 00:22:27.880]   So yeah, very, very cool.
+[00:22:27.880 --> 00:22:30.040]   So right now then the grand block
+[00:22:30.040 --> 00:22:33.560]   is probably your highest product.
+[00:22:33.560 --> 00:22:36.360]   So I do have the question out there in the field
+[00:22:36.360 --> 00:22:37.480]   where we've gotten a question.
+[00:22:37.480 --> 00:22:40.880]   It's like, if I were to charge an object,
+[00:22:40.880 --> 00:22:42.880]   let's say a piece of jewelry
+[00:22:42.880 --> 00:22:45.360]   and I charge it in an infinity block,
+[00:22:45.360 --> 00:22:47.360]   does it pick up the 733?
+[00:22:47.360 --> 00:22:51.160]   So does the item itself then have embedded within it?
+[00:22:51.160 --> 00:22:55.520]   A 733 level of consciousness?
+[00:22:55.520 --> 00:22:57.320]   Is that how the concept of charge?
+[00:22:57.320 --> 00:22:58.160]   Okay, could you explain that?
+[00:22:58.160 --> 00:23:00.840]   'Cause people were saying, oh, if I put a 2000,
+[00:23:00.840 --> 00:23:02.960]   if I put something in the grand block,
+[00:23:02.960 --> 00:23:07.120]   does that something now have a 2000 level of consciousness?
+[00:23:07.120 --> 00:23:08.520]   Or is it just the block has it?
+[00:23:08.520 --> 00:23:11.360]   And then so does the item itself pick up that?
+[00:23:11.360 --> 00:23:13.040]   So could you kind of explain that?
+[00:23:13.040 --> 00:23:16.280]   - Yeah, so that never happens
+[00:23:16.280 --> 00:23:19.280]   that an object you put into a block,
+[00:23:19.280 --> 00:23:22.200]   then vibrate as high as the block itself.
+[00:23:22.200 --> 00:23:24.200]   That's just because of the nature of the block
+[00:23:24.200 --> 00:23:27.840]   because it's a multi-dimensional quantum energy space.
+[00:23:27.840 --> 00:23:31.120]   And it's really a very high consciousness field.
+[00:23:31.120 --> 00:23:34.040]   And that does not happen.
+[00:23:34.040 --> 00:23:35.680]   That's just a regular object
+[00:23:35.680 --> 00:23:39.480]   that doesn't even have a multi-dimensional space
+[00:23:39.480 --> 00:23:42.040]   then suddenly has the same consciousness level.
+[00:23:42.040 --> 00:23:45.440]   But what happens is the higher the vibration
+[00:23:45.440 --> 00:23:48.160]   or the Hawkins scale level of a block,
+[00:23:48.160 --> 00:23:52.120]   the higher will also be the Hawkins level
+[00:23:52.120 --> 00:23:53.600]   of the object you put in.
+[00:23:53.600 --> 00:23:58.600]   So there's a very clear, quite linear development.
+[00:23:58.600 --> 00:24:03.040]   Also, if I put a capsule in the quantum block,
+[00:24:03.040 --> 00:24:05.040]   it vibrates at X.
+[00:24:05.040 --> 00:24:07.240]   Then if I put it in infinity block,
+[00:24:07.240 --> 00:24:10.840]   it gradually vibrates higher
+[00:24:10.840 --> 00:24:12.920]   and can be calibrated on the Hawkins scale is higher.
+[00:24:12.920 --> 00:24:17.560]   Then I put it in the 7G vibrates even higher.
+[00:24:17.560 --> 00:24:18.720]   If I put it in the grand block,
+[00:24:18.720 --> 00:24:20.160]   it vibrates even higher,
+[00:24:20.160 --> 00:24:25.160]   but it never matches what the block is in.
+[00:24:25.160 --> 00:24:29.240]   That never happens.
+[00:24:29.240 --> 00:24:30.080]   - Okay, all right.
+[00:24:30.080 --> 00:24:31.240]   No, thanks for that clarification.
+[00:24:31.240 --> 00:24:33.800]   So the other question here is I kind of added
+[00:24:33.800 --> 00:24:35.920]   a new section here for the attributes,
+[00:24:35.920 --> 00:24:40.320]   which is you mentioned that the travel and grand block
+[00:24:40.320 --> 00:24:42.040]   because there's much stronger
+[00:24:42.040 --> 00:24:45.160]   than the other the first two blocks
+[00:24:45.160 --> 00:24:47.920]   is that they have this thing called a special buffer
+[00:24:47.920 --> 00:24:49.080]   and harmony feature.
+[00:24:49.080 --> 00:24:52.160]   So I put no for quantum infinity,
+[00:24:52.160 --> 00:24:55.120]   but I put yes that these two new blocks
+[00:24:55.120 --> 00:24:57.680]   have this feature, is that correct?
+[00:24:57.680 --> 00:24:59.360]   - Yes, that's absolutely correct.
+[00:24:59.360 --> 00:25:03.400]   And we are thinking about putting that also
+[00:25:03.400 --> 00:25:05.200]   into the infinity blocks.
+[00:25:05.200 --> 00:25:08.280]   I don't think we will ever put it in the quantum block
+[00:25:08.280 --> 00:25:12.840]   because for that, it's frankly not necessarily at all.
+[00:25:12.840 --> 00:25:14.640]   And the quantum block, as you all know,
+[00:25:14.640 --> 00:25:18.120]   has very specific applications also for,
+[00:25:18.120 --> 00:25:20.280]   from a suitable neutralization
+[00:25:20.280 --> 00:25:22.320]   and 100 frequency medicine and so on.
+[00:25:22.320 --> 00:25:23.600]   But for the infinity block,
+[00:25:23.600 --> 00:25:26.880]   hopefully at some point we'll be able to also integrate it,
+[00:25:26.880 --> 00:25:29.280]   but that's a larger development also
+[00:25:29.280 --> 00:25:34.280]   because of the way it works with the infinity block upgrade.
+[00:25:34.280 --> 00:25:36.240]   But yeah, we're thinking about it.
+[00:25:36.240 --> 00:25:39.000]   And the harmony, the special harmony feature
+[00:25:39.000 --> 00:25:42.480]   and buffer mechanism do two things mainly.
+[00:25:42.480 --> 00:25:47.480]   One is it's even more harmonious with the human cells.
+[00:25:48.040 --> 00:25:50.800]   So that even at higher levels,
+[00:25:50.800 --> 00:25:53.760]   you can tolerate them way easier
+[00:25:53.760 --> 00:25:57.920]   and be exposed to them without your nervous system
+[00:25:57.920 --> 00:26:00.640]   getting too overwhelmed,
+[00:26:00.640 --> 00:26:03.480]   nor with two strong detox effects.
+[00:26:03.480 --> 00:26:04.880]   Up to a certain point, right?
+[00:26:04.880 --> 00:26:09.440]   You know, you can also do too much obviously there,
+[00:26:09.440 --> 00:26:14.440]   but let's say the level 800 on the Hawkins scale
+[00:26:15.080 --> 00:26:18.960]   if that was the regular infinity block.
+[00:26:18.960 --> 00:26:21.480]   And someone is new to this,
+[00:26:21.480 --> 00:26:24.120]   probably after five minutes of having the hands in there,
+[00:26:24.120 --> 00:26:25.880]   they would start sweating.
+[00:26:25.880 --> 00:26:30.880]   And if they put it in a travel block with 800,
+[00:26:30.880 --> 00:26:36.320]   then it would take way, way longer until they sweat,
+[00:26:36.320 --> 00:26:37.160]   if that makes sense.
+[00:26:37.160 --> 00:26:42.160]   And it also has the benefit if you have people
+[00:26:42.160 --> 00:26:44.560]   that you invite in your home, for example,
+[00:26:44.560 --> 00:26:47.440]   that are not used to these types of energies
+[00:26:47.440 --> 00:26:48.640]   with an infinity block.
+[00:26:48.640 --> 00:26:53.640]   They are exposed to these high levels
+[00:26:53.640 --> 00:26:56.960]   and it's not buffered.
+[00:26:56.960 --> 00:27:00.320]   So they'll be okay, right?
+[00:27:00.320 --> 00:27:01.920]   Because it's a positive energy,
+[00:27:01.920 --> 00:27:04.560]   but it may be challenging for some.
+[00:27:04.560 --> 00:27:08.360]   And with the travel block and the grand block,
+[00:27:08.360 --> 00:27:10.000]   it basically buffers it down
+[00:27:10.000 --> 00:27:13.720]   to what that person can tolerate.
+[00:27:13.720 --> 00:27:18.720]   And again, it also has limitations,
+[00:27:18.720 --> 00:27:24.200]   but these limitations are far, far wider
+[00:27:24.200 --> 00:27:26.120]   than you would see it in an infinity block,
+[00:27:26.120 --> 00:27:27.200]   if that makes sense.
+[00:27:27.200 --> 00:27:28.720]   - Yeah, no, it does make sense.
+[00:27:28.720 --> 00:27:33.800]   So yeah, so definitely if you're brand new to quantum energy,
+[00:27:33.800 --> 00:27:36.200]   you're probably gonna wanna lean towards
+[00:27:36.200 --> 00:27:38.160]   something that has that buffer in it,
+[00:27:38.160 --> 00:27:42.960]   otherwise start off with a much lower object,
+[00:27:42.960 --> 00:27:46.360]   like a card or a capsule and kind of just build up to it.
+[00:27:46.360 --> 00:27:48.480]   'Cause there's been a lot of reports lately, right,
+[00:27:48.480 --> 00:27:51.760]   about the detox effect from having
+[00:27:51.760 --> 00:27:54.440]   these extremely strong products around.
+[00:27:54.440 --> 00:27:56.280]   So it's something to keep in mind
+[00:27:56.280 --> 00:27:57.520]   that there is a detox effect
+[00:27:57.520 --> 00:28:00.160]   because you physically are gonna have a reaction
+[00:28:00.160 --> 00:28:01.200]   to this energy.
+[00:28:01.200 --> 00:28:03.680]   It's all positive, but bottom line though,
+[00:28:03.680 --> 00:28:08.480]   is if you got a lot of accumulated stuff inside of you
+[00:28:08.480 --> 00:28:10.440]   and it all starts to get harmonized,
+[00:28:10.440 --> 00:28:12.640]   it causes a detox effect.
+[00:28:12.640 --> 00:28:14.360]   - Okay, but yeah, thanks for explaining that.
+[00:28:14.360 --> 00:28:15.760]   I think that's really helpful
+[00:28:15.760 --> 00:28:17.880]   to try to understand what that feature is.
+[00:28:17.880 --> 00:28:20.680]   So yeah, right here we've got the travel and the grand,
+[00:28:20.680 --> 00:28:22.840]   the brand new blocks do have that feature
+[00:28:22.840 --> 00:28:24.920]   and it definitely helps people that are new
+[00:28:24.920 --> 00:28:26.560]   to quantum energy.
+[00:28:26.560 --> 00:28:28.400]   So now the next piece here is the idea
+[00:28:28.400 --> 00:28:31.760]   of charging people pets and photos.
+[00:28:31.760 --> 00:28:34.760]   And I guess people pets and that kind of like right in here,
+[00:28:34.760 --> 00:28:37.320]   people pets and food and water is kind of the same thing.
+[00:28:37.320 --> 00:28:38.760]   Is that, would that be correct?
+[00:28:38.760 --> 00:28:41.120]   I'll just kind of add something here.
+[00:28:41.120 --> 00:28:42.760]   'Cause I want to kind of get it.
+[00:28:42.760 --> 00:28:43.600]   - That's correct.
+[00:28:43.600 --> 00:28:44.400]   - People pets, food and water.
+[00:28:44.400 --> 00:28:48.200]   Okay, so people know how this works.
+[00:28:48.200 --> 00:28:51.960]   So we did, in the last tutorial, right, part one through three,
+[00:28:51.960 --> 00:28:55.120]   we kind of defined how long it takes to charge
+[00:28:55.120 --> 00:28:57.520]   or what the recommended guidance for charge.
+[00:28:57.520 --> 00:28:58.360]   - Oh, sorry, Kay.
+[00:28:58.360 --> 00:28:59.200]   - Yeah.
+[00:28:59.200 --> 00:29:03.160]   - So I mean, food and water should be a separate line
+[00:29:03.160 --> 00:29:05.040]   and not together with people and pets
+[00:29:05.040 --> 00:29:06.880]   because that really is not the same
+[00:29:06.880 --> 00:29:10.320]   because you could be in there for two hours
+[00:29:10.320 --> 00:29:12.680]   probably already now, right?
+[00:29:12.680 --> 00:29:15.960]   But you don't really want to put your water in there
+[00:29:15.960 --> 00:29:17.120]   for two hours.
+[00:29:17.120 --> 00:29:19.720]   - Okay, all right, good to know.
+[00:29:19.720 --> 00:29:20.840]   - Okay.
+[00:29:20.840 --> 00:29:24.640]   - Okay, so we got people in pets, food and water, photos.
+[00:29:24.640 --> 00:29:28.880]   So let's just start with food and water.
+[00:29:28.880 --> 00:29:30.080]   Okay, let me just fill this out then.
+[00:29:30.080 --> 00:29:32.520]   So right here, we've got the cube lock,
+[00:29:32.520 --> 00:29:37.320]   five minutes for, if the person or the pet
+[00:29:37.320 --> 00:29:40.840]   has never experienced quantum energy before
+[00:29:40.840 --> 00:29:44.120]   in a cube lock, if you're new to it, five minutes,
+[00:29:44.120 --> 00:29:47.600]   if you're experienced, do it 20 minutes at a time.
+[00:29:47.600 --> 00:29:51.160]   Eye block was new, brand new to it, two to three minutes.
+[00:29:51.160 --> 00:29:52.920]   If you're experienced with it,
+[00:29:52.920 --> 00:29:56.520]   you could, five minutes at a time is a really good amount
+[00:29:56.520 --> 00:30:00.440]   to give you a good charge.
+[00:30:00.440 --> 00:30:02.600]   Of course, you can always be in there longer.
+[00:30:02.600 --> 00:30:05.080]   I'm very, I mean, I've been around these tools
+[00:30:05.080 --> 00:30:06.640]   for so long that I literally,
+[00:30:06.640 --> 00:30:09.480]   I do like, you know, I'll watch a whole TV show
+[00:30:09.480 --> 00:30:12.600]   and just have my hand in my IB.
+[00:30:12.600 --> 00:30:15.560]   So, and I get a really, really positive benefit from that.
+[00:30:15.560 --> 00:30:18.240]   So when you, for the travel block,
+[00:30:18.240 --> 00:30:20.840]   let's put this in here.
+[00:30:20.840 --> 00:30:25.600]   What do you recommend if someone's new to the travel block,
+[00:30:25.600 --> 00:30:27.360]   you know, what's the first time you'd be, you know,
+[00:30:27.360 --> 00:30:29.160]   put your hand in there, put your,
+[00:30:29.160 --> 00:30:30.520]   or put, you know, put your pet in there
+[00:30:30.520 --> 00:30:33.000]   between the plates or something like that?
+[00:30:33.000 --> 00:30:35.480]   Is it-- - Easily double the amount.
+[00:30:35.480 --> 00:30:37.320]   - For if you're new?
+[00:30:37.320 --> 00:30:39.080]   - Yep, easily double the amount.
+[00:30:39.080 --> 00:30:41.840]   Yeah, it's because of this harmony feature.
+[00:30:41.840 --> 00:30:43.040]   - Okay. - Yep.
+[00:30:43.040 --> 00:30:46.320]   - And if you're experienced, you could go 10 minutes.
+[00:30:46.320 --> 00:30:48.080]   - Yeah. - Okay, then for travel block.
+[00:30:48.080 --> 00:30:49.080]   - No problem. - Sure.
+[00:30:49.080 --> 00:30:51.320]   And then travel block, is it the same as,
+[00:30:51.320 --> 00:30:54.320]   I mean, the grand block, would it be the same as the travel?
+[00:30:54.320 --> 00:30:58.600]   - Well, with the grand block, I would,
+[00:30:58.600 --> 00:31:01.880]   it's a good question.
+[00:31:01.880 --> 00:31:06.880]   I think I would go down to the infinity block recommendations.
+[00:31:06.880 --> 00:31:10.080]   - Okay. - It's just so much stronger.
+[00:31:10.080 --> 00:31:12.480]   - Right. - And there's still like a bunch
+[00:31:12.480 --> 00:31:14.400]   of tests that we wanna run.
+[00:31:14.400 --> 00:31:17.560]   For a moment, I'd rather be on the cautious side.
+[00:31:17.560 --> 00:31:19.760]   And then, you know, people are listening, obviously,
+[00:31:19.760 --> 00:31:23.000]   you know, feel in, you know, if you do this for three,
+[00:31:23.000 --> 00:31:26.000]   four minutes and you feel you wanna do another four minutes
+[00:31:26.000 --> 00:31:28.920]   and it feels great, go ahead, do it, you know?
+[00:31:28.920 --> 00:31:30.240]   - Okay. - No one keeping you
+[00:31:30.240 --> 00:31:31.560]   from doing that. - Yeah.
+[00:31:31.560 --> 00:31:34.360]   - So I just know, based on all the years I've spent
+[00:31:34.360 --> 00:31:37.160]   in our group, I just know that the first reaction
+[00:31:37.160 --> 00:31:40.520]   everybody has when they get their grand block,
+[00:31:40.520 --> 00:31:42.680]   you know, they're gonna stick their head in it.
+[00:31:42.680 --> 00:31:43.960]   So if you stick your head in it
+[00:31:43.960 --> 00:31:46.760]   and you've never had your head in a block before,
+[00:31:46.760 --> 00:31:48.760]   you know, follow the guidelines, all right, guys?
+[00:31:48.760 --> 00:31:52.080]   Don't do what I did once where I put together,
+[00:31:52.080 --> 00:31:53.800]   or I separated my eye block plates
+[00:31:53.800 --> 00:31:58.800]   and I fell asleep for five hours with my head between the plates,
+[00:31:58.800 --> 00:32:01.280]   which might explain how I'm the way I am.
+[00:32:01.280 --> 00:32:03.760]   So, yeah, so don't do five hours.
+[00:32:03.760 --> 00:32:05.440]   But yeah, follow the guidelines, everybody,
+[00:32:05.440 --> 00:32:06.480]   when you get your grand blocks,
+[00:32:06.480 --> 00:32:07.480]   I know you're gonna put your head in there
+[00:32:07.480 --> 00:32:09.120]   and just, I just know it.
+[00:32:09.120 --> 00:32:13.320]   Okay, so now for charging food and water for the cube block,
+[00:32:13.320 --> 00:32:15.760]   what would you, what is that gonna be?
+[00:32:15.760 --> 00:32:19.440]   Is that, do you remember off the top?
+[00:32:19.440 --> 00:32:22.360]   Yeah, go ahead. - Yeah, I mean, it,
+[00:32:22.360 --> 00:32:24.400]   I think the five minutes is actually fine.
+[00:32:24.400 --> 00:32:26.640]   So whatever was there for the new people
+[00:32:26.640 --> 00:32:28.680]   kind of indeed matches that a little bit.
+[00:32:28.680 --> 00:32:31.960]   So three to five minutes, that's what I would say.
+[00:32:31.960 --> 00:32:34.440]   So the Emota Institute tested three minutes
+[00:32:34.440 --> 00:32:36.040]   for the quantum block.
+[00:32:36.040 --> 00:32:38.760]   So, and that was perfect, right?
+[00:32:38.760 --> 00:32:40.360]   So we know that after three minutes,
+[00:32:40.360 --> 00:32:41.760]   it should be absolutely fine,
+[00:32:41.760 --> 00:32:43.280]   but feel free to leave it in there
+[00:32:43.280 --> 00:32:44.920]   for as long as five minutes.
+[00:32:44.920 --> 00:32:47.040]   And you can also do longer, right?
+[00:32:47.040 --> 00:32:48.160]   So that's one of those things.
+[00:32:48.160 --> 00:32:50.480]   Like we, when we initially checked all of that,
+[00:32:50.480 --> 00:32:52.680]   we checked, okay, what's the energetic level
+[00:32:52.680 --> 00:32:54.040]   of the substance and, you know,
+[00:32:54.040 --> 00:32:56.560]   what's then also good for people?
+[00:32:56.560 --> 00:32:59.840]   We did not look at people with food allergies, okay?
+[00:32:59.840 --> 00:33:02.960]   So we looked at just normal individuals
+[00:33:02.960 --> 00:33:04.920]   that can tolerate these substances.
+[00:33:04.920 --> 00:33:06.840]   And then, you know, when was basically
+[00:33:06.840 --> 00:33:10.840]   enough life force energy in these products
+[00:33:10.840 --> 00:33:12.400]   in order to take them out again?
+[00:33:12.400 --> 00:33:13.920]   That's what we've always recommended.
+[00:33:13.920 --> 00:33:16.840]   Now over time, we've heard from the community,
+[00:33:16.840 --> 00:33:20.440]   you know, how people were able to basically
+[00:33:20.440 --> 00:33:22.880]   get rid of food allergies when they,
+[00:33:22.880 --> 00:33:27.880]   at least temporarily, when they charged foods in the box.
+[00:33:27.880 --> 00:33:32.960]   That's been now somewhat verified in pilot studies
+[00:33:32.960 --> 00:33:35.640]   and we're still working on it, so don't try it at home.
+[00:33:35.640 --> 00:33:38.400]   But what has been found is that the levels
+[00:33:38.400 --> 00:33:41.280]   actually of charging would be longer.
+[00:33:41.280 --> 00:33:44.160]   So if you wanna have these effects
+[00:33:44.160 --> 00:33:47.360]   to reduce the stress response of sugar, for example.
+[00:33:47.360 --> 00:33:49.760]   And there we see for the travel block
+[00:33:49.760 --> 00:33:54.760]   and infinity block, at least four minutes of charging.
+[00:33:54.760 --> 00:33:57.320]   And I think that's important to say,
+[00:33:57.320 --> 00:34:00.880]   for the grand block that may, three minutes
+[00:34:00.880 --> 00:34:02.360]   may be already enough.
+[00:34:02.360 --> 00:34:06.760]   It's just something we haven't tested that
+[00:34:06.760 --> 00:34:09.760]   for that specific application yet.
+[00:34:09.760 --> 00:34:12.520]   So I would do maybe three minutes, grand block.
+[00:34:12.520 --> 00:34:18.160]   And yeah, that should be,
+[00:34:19.280 --> 00:34:20.480]   that should be great.
+[00:34:20.480 --> 00:34:21.320]   - Okay.
+[00:34:21.320 --> 00:34:24.840]   - And then again, that is for food allergies, right?
+[00:34:24.840 --> 00:34:26.240]   - Okay, okay.
+[00:34:26.240 --> 00:34:27.720]   So then that's the food and water.
+[00:34:27.720 --> 00:34:30.920]   And then for the travel block and the grand block,
+[00:34:30.920 --> 00:34:35.440]   as it relates to putting photos of people, pets, places,
+[00:34:35.440 --> 00:34:39.440]   what would be your recommendation?
+[00:34:39.440 --> 00:34:41.840]   Before the other ones were, you know,
+[00:34:41.840 --> 00:34:43.680]   there's a difference between new to it
+[00:34:43.680 --> 00:34:46.440]   versus experience with it, quantum energy,
+[00:34:47.520 --> 00:34:49.760]   no maximum on objects, meaning,
+[00:34:49.760 --> 00:34:51.680]   I guess I would apply to places as well
+[00:34:51.680 --> 00:34:53.800]   that there's no maximum time you could,
+[00:34:53.800 --> 00:34:57.400]   you have to worry about putting a photo in of an object
+[00:34:57.400 --> 00:34:59.400]   or like of a place.
+[00:34:59.400 --> 00:35:04.400]   And then the max for people, pets and places,
+[00:35:04.400 --> 00:35:07.800]   I think was like 10 minutes, I guess that's what that,
+[00:35:07.800 --> 00:35:09.880]   I forgot what the PPP meant, I'm sorry.
+[00:35:09.880 --> 00:35:11.960]   So what would you recommend for, you know,
+[00:35:11.960 --> 00:35:14.720]   using photos for travel and grand?
+[00:35:15.560 --> 00:35:18.640]   PPP is probably pets people, plants.
+[00:35:18.640 --> 00:35:19.960]   - Yeah.
+[00:35:19.960 --> 00:35:21.320]   (laughing)
+[00:35:21.320 --> 00:35:23.040]   - That's what I'm thinking too.
+[00:35:23.040 --> 00:35:25.520]   - It's been a while since we did that through time.
+[00:35:25.520 --> 00:35:26.360]   (laughing)
+[00:35:26.360 --> 00:35:27.200]   - Okay, so.
+[00:35:27.200 --> 00:35:28.200]   - And then, yeah.
+[00:35:28.200 --> 00:35:29.040]   - Yeah.
+[00:35:29.040 --> 00:35:32.560]   - Yeah, I think it's for the travel block,
+[00:35:32.560 --> 00:35:34.960]   you know, now we need to be a little bit careful
+[00:35:34.960 --> 00:35:37.440]   because we're increasing the levels,
+[00:35:37.440 --> 00:35:42.120]   but for the levels so far, I think you can use the times
+[00:35:42.120 --> 00:35:44.800]   that we're done with the quantum block.
+[00:35:44.800 --> 00:35:46.400]   - I think that's that's safe.
+[00:35:46.400 --> 00:35:49.240]   - Travel should equal quantum?
+[00:35:49.240 --> 00:35:51.600]   - Yep.
+[00:35:51.600 --> 00:35:52.440]   - Okay.
+[00:35:52.440 --> 00:35:58.960]   All right, so if you do photos,
+[00:35:58.960 --> 00:36:01.800]   you wanna follow the same with the travel block,
+[00:36:01.800 --> 00:36:06.480]   you wanna follow the same guide for quantum block.
+[00:36:06.480 --> 00:36:09.280]   Now, if I use the grand block,
+[00:36:09.280 --> 00:36:12.280]   would I follow the same as the infinity block?
+[00:36:13.440 --> 00:36:16.240]   I would, yeah, that's what I would do.
+[00:36:16.240 --> 00:36:18.760]   That would be my recommendation at first
+[00:36:18.760 --> 00:36:21.000]   and then see how it is for you
+[00:36:21.000 --> 00:36:22.600]   and then you can go from there.
+[00:36:22.600 --> 00:36:24.160]   - Okay, all right, great.
+[00:36:24.160 --> 00:36:29.160]   Now for plants, what would you recommend for charging plants?
+[00:36:29.160 --> 00:36:35.800]   - Well,
+[00:36:35.800 --> 00:36:43.360]   I think I would copy the infinity block recommendations
+[00:36:43.360 --> 00:36:46.720]   for the other ones like you've just intuitively done.
+[00:36:46.720 --> 00:36:48.640]   Yeah, I'd leave it at that.
+[00:36:48.640 --> 00:36:52.920]   - Okay, and remember, and so with plants now,
+[00:36:52.920 --> 00:36:55.280]   if they're full grown, it's the 10 seconds,
+[00:36:55.280 --> 00:36:58.000]   maximum one minute to charge a plant.
+[00:36:58.000 --> 00:37:00.400]   Any idea for charging seeds?
+[00:37:00.400 --> 00:37:01.680]   I got that, you know, 'cause it's spring, right?
+[00:37:01.680 --> 00:37:03.560]   Everyone's starting to plant their stuff.
+[00:37:03.560 --> 00:37:07.040]   Is seeds something different than if I just charged a plant?
+[00:37:07.040 --> 00:37:11.640]   - So by the way, I would do, I would do 50 in seconds,
+[00:37:11.640 --> 00:37:13.040]   not 10 seconds.
+[00:37:13.040 --> 00:37:18.960]   - For the stronger blocks, right?
+[00:37:18.960 --> 00:37:19.800]   - Yeah, yep.
+[00:37:19.800 --> 00:37:21.880]   - Okay.
+[00:37:21.880 --> 00:37:23.720]   - Yeah, well, also for the infinity block,
+[00:37:23.720 --> 00:37:25.200]   I would do 15 seconds.
+[00:37:25.200 --> 00:37:26.480]   I don't know why I said 10,
+[00:37:26.480 --> 00:37:28.720]   but 10 is probably already enough,
+[00:37:28.720 --> 00:37:31.760]   but I would still just intuitively say 15.
+[00:37:31.760 --> 00:37:36.760]   And with seeds, I would keep it at the full growth,
+[00:37:39.960 --> 00:37:42.240]   the same as the full growth.
+[00:37:42.240 --> 00:37:44.440]   - Okay, that makes sense.
+[00:37:44.440 --> 00:37:45.280]   - Okay.
+[00:37:45.280 --> 00:37:48.600]   - Because seeds are very sensitive,
+[00:37:48.600 --> 00:37:51.080]   so I think you can overcharge the seeds,
+[00:37:51.080 --> 00:37:54.840]   and it's not necessarily, it's so quick.
+[00:37:54.840 --> 00:37:56.840]   - Okay, all right, so I'll make a note here
+[00:37:56.840 --> 00:37:59.360]   on this thing when we're done.
+[00:37:59.360 --> 00:38:03.120]   Okay, so seeds follow the cube block recommendations.
+[00:38:03.120 --> 00:38:07.240]   Now for metal, clothing and crystals, et cetera,
+[00:38:07.240 --> 00:38:10.120]   stones in your garden, jewelry, you know, all that,
+[00:38:10.120 --> 00:38:14.720]   you know, anything, pots, pans, utensils, all that.
+[00:38:14.720 --> 00:38:18.120]   You've got eye block, 15 to 60 seconds,
+[00:38:18.120 --> 00:38:20.680]   will charge that item maximum three minutes.
+[00:38:20.680 --> 00:38:23.840]   Is that similar to travel and grand?
+[00:38:23.840 --> 00:38:26.080]   - Yeah, well, the grand block is less.
+[00:38:26.080 --> 00:38:29.760]   I would say the first is good, that's fine,
+[00:38:29.760 --> 00:38:31.600]   but the maximum I would say,
+[00:38:34.880 --> 00:38:37.120]   yeah, probably two minutes.
+[00:38:37.120 --> 00:38:42.000]   - Okay, so for the grand, it's 15 to 60 seconds
+[00:38:42.000 --> 00:38:44.960]   to charge an object, maximum two minutes
+[00:38:44.960 --> 00:38:46.520]   before it's fully charged.
+[00:38:46.520 --> 00:38:48.040]   Travel, is that the same as infinity?
+[00:38:48.040 --> 00:38:50.520]   - Yeah, I would just not go over charging metals
+[00:38:50.520 --> 00:38:55.520]   for more than two minutes in a grand block.
+[00:38:55.520 --> 00:38:57.160]   - Okay, all right, good.
+[00:38:57.160 --> 00:38:58.880]   Now for electronics, it's always been
+[00:38:58.880 --> 00:39:01.360]   a really interesting topic, because that's something,
+[00:39:01.360 --> 00:39:04.440]   and I think electronics and clothing, right,
+[00:39:04.440 --> 00:39:06.200]   like shoes and things like that,
+[00:39:06.200 --> 00:39:07.880]   I do know that from past experience
+[00:39:07.880 --> 00:39:11.880]   that something that's super soft, like clothing, shoes,
+[00:39:11.880 --> 00:39:14.600]   also electronics, that they kind of need
+[00:39:14.600 --> 00:39:16.560]   to be recharged every now and then, right?
+[00:39:16.560 --> 00:39:19.840]   So I guess the idea here is on infinity block,
+[00:39:19.840 --> 00:39:24.000]   if you had electronics, I think it's the same as clothing,
+[00:39:24.000 --> 00:39:24.920]   right, would that be the same?
+[00:39:24.920 --> 00:39:28.040]   Could I just put electronics and maybe clothing
+[00:39:28.040 --> 00:39:33.040]   should be more like electronics in terms of the timeframes
+[00:39:33.040 --> 00:39:35.060]   or clothing can fall in this category?
+[00:39:35.060 --> 00:39:40.000]   - Well, yeah, I mean, you could put clothing actually down
+[00:39:40.000 --> 00:39:42.560]   as long as it's not metal clothing.
+[00:39:42.560 --> 00:39:43.400]   - Okay.
+[00:39:43.400 --> 00:39:46.240]   Okay, all right, so then--
+[00:39:46.240 --> 00:39:47.920]   - Crystals that would leave with a metal
+[00:39:47.920 --> 00:39:50.480]   just because, again, crystals,
+[00:39:50.480 --> 00:39:52.880]   we don't wanna overcharge the crystals.
+[00:39:52.880 --> 00:39:56.000]   - Okay, all right, I just wanna--
+[00:39:56.000 --> 00:39:58.280]   - This is not fun for the crystal.
+[00:39:58.280 --> 00:40:01.800]   - Yeah, I kind of always feel really intuitively,
+[00:40:01.800 --> 00:40:04.680]   it's not a good idea 'cause crystals are magical things
+[00:40:04.680 --> 00:40:07.000]   and it's like homeopathy or anything,
+[00:40:07.000 --> 00:40:10.480]   it's like just, it has its own thing going on.
+[00:40:10.480 --> 00:40:12.400]   I try not to mess with it.
+[00:40:12.400 --> 00:40:15.640]   - They love to be charged, like, I mean, charging crystals
+[00:40:15.640 --> 00:40:18.480]   is one of the best things you can do for the crystal,
+[00:40:18.480 --> 00:40:21.000]   but again, there's really a limit to it
+[00:40:21.000 --> 00:40:23.080]   and more is not necessarily better.
+[00:40:23.080 --> 00:40:26.960]   It really works so quickly, even with the Murian crystals
+[00:40:26.960 --> 00:40:30.720]   that are completely dormant, they wake up within a minute
+[00:40:30.720 --> 00:40:33.720]   you can leave them in for two minutes or so, no problem,
+[00:40:33.720 --> 00:40:35.640]   but then that's fine, right?
+[00:40:35.640 --> 00:40:37.880]   Then they don't need to.
+[00:40:37.880 --> 00:40:40.840]   If you light a candle and it's lit,
+[00:40:40.840 --> 00:40:42.480]   you don't have to light it again, right?
+[00:40:42.480 --> 00:40:43.920]   That's kind of the thing.
+[00:40:43.920 --> 00:40:45.760]   - Okay, all right, no, that's great.
+[00:40:45.760 --> 00:40:49.040]   Yeah, we had a quick question.
+[00:40:49.040 --> 00:40:52.000]   Is cleansing how to cleanse a crystal
+[00:40:52.000 --> 00:40:53.600]   after it's been used for a while
+[00:40:53.600 --> 00:40:58.280]   or in the hands of someone with energy that's not positive?
+[00:40:58.280 --> 00:41:00.040]   You don't wanna cleanse it.
+[00:41:00.040 --> 00:41:02.640]   Normally, it's like the old days was you were told to,
+[00:41:02.640 --> 00:41:07.040]   like soak it in seawater overnight
+[00:41:07.040 --> 00:41:08.720]   or put out in the sun for a day.
+[00:41:08.720 --> 00:41:10.440]   So is charging somewhat the same thing
+[00:41:10.440 --> 00:41:12.480]   in terms of cleansing crystals?
+[00:41:12.480 --> 00:41:14.120]   If I wanted to cleanse a crystal,
+[00:41:14.120 --> 00:41:15.280]   could I just put it in a block
+[00:41:15.280 --> 00:41:17.880]   and that would do the same thing, leaving it outside?
+[00:41:17.880 --> 00:41:20.400]   Okay, all right, that was the fastest way.
+[00:41:20.400 --> 00:41:22.480]   - Oh, yeah, way faster, okay, great.
+[00:41:22.480 --> 00:41:24.440]   Now, again-- - And by the way here,
+[00:41:24.440 --> 00:41:25.280]   go ahead.
+[00:41:25.280 --> 00:41:27.320]   - Yeah, the grand block regarding electronics,
+[00:41:27.320 --> 00:41:31.480]   I would definitely cut that time in half here,
+[00:41:31.480 --> 00:41:35.440]   five to 10 minutes,
+[00:41:35.440 --> 00:41:39.160]   I would put that to maybe two to five minutes.
+[00:41:39.160 --> 00:41:43.280]   - Okay, and then recharge every three to six months?
+[00:41:43.280 --> 00:41:47.280]   - Yeah, I think that is the same.
+[00:41:47.280 --> 00:41:49.720]   - Okay, so that's kind of the thing for everybody,
+[00:41:49.720 --> 00:41:53.120]   I mean, highly recommended if you have a cell phone
+[00:41:53.120 --> 00:41:55.880]   or you know, Wi-Fi router or any of that kind of stuff,
+[00:41:55.880 --> 00:41:59.240]   put it in your block, depending on which block you have,
+[00:41:59.240 --> 00:42:01.320]   here are the timeframes for them,
+[00:42:01.320 --> 00:42:02.440]   and then definitely, you know,
+[00:42:02.440 --> 00:42:05.960]   you want to remember to recharge them every three to six months
+[00:42:05.960 --> 00:42:08.240]   'cause they do kind of like, that's the only thing
+[00:42:08.240 --> 00:42:11.600]   that we know of where the energy kind of starts to fade.
+[00:42:11.600 --> 00:42:13.560]   So just want to make sure,
+[00:42:13.560 --> 00:42:16.400]   so the travel block would be the same as infinity, right,
+[00:42:16.400 --> 00:42:19.000]   when it comes to electronics and clothing?
+[00:42:19.000 --> 00:42:21.880]   30 seconds, five to 10 max, okay, we charge every three.
+[00:42:21.880 --> 00:42:24.200]   Okay, great, so there's that.
+[00:42:24.200 --> 00:42:26.440]   The next one here is using these blocks,
+[00:42:26.440 --> 00:42:28.600]   the new blocks for copying frequencies,
+[00:42:28.600 --> 00:42:30.600]   and this was part of the original tutorial,
+[00:42:30.600 --> 00:42:34.400]   really important to realize that the stronger blocks
+[00:42:34.400 --> 00:42:37.920]   you do not want to use to copy pharmaceuticals
+[00:42:37.920 --> 00:42:41.920]   and homeopathy, and we explain that in the prior tutorial,
+[00:42:41.920 --> 00:42:44.600]   I don't want to go into it too much of why,
+[00:42:44.600 --> 00:42:46.240]   but that's just the guidance.
+[00:42:46.240 --> 00:42:48.440]   So for travel and grand block,
+[00:42:48.440 --> 00:42:50.480]   what would you recommend for, you know,
+[00:42:50.480 --> 00:42:52.920]   using, if I wanted to use these two blocks
+[00:42:52.920 --> 00:42:57.920]   for copying a frequency of plants and herbs,
+[00:42:57.920 --> 00:43:00.720]   essential oils and supplements,
+[00:43:00.720 --> 00:43:02.880]   would it still be the same as the eye block
+[00:43:02.880 --> 00:43:03.800]   or would it be less?
+[00:43:03.800 --> 00:43:07.120]   - Yes, no, I would do the same thing at the eye block,
+[00:43:07.120 --> 00:43:09.400]   and I would never go under 10 seconds.
+[00:43:09.400 --> 00:43:12.660]   - Same for the grand block?
+[00:43:12.660 --> 00:43:14.680]   - Yes.
+[00:43:14.680 --> 00:43:16.400]   - Okay, great, and then would you still,
+[00:43:16.400 --> 00:43:18.720]   and I'm assuming, right, that the recommendation
+[00:43:18.720 --> 00:43:22.720]   to do not use for pharmaceuticals and homeopathy,
+[00:43:22.720 --> 00:43:25.000]   which stands for the travel and grand?
+[00:43:25.000 --> 00:43:25.840]   - Correct.
+[00:43:25.840 --> 00:43:27.280]   - Okay, all right.
+[00:43:27.280 --> 00:43:29.160]   Okay, yeah, 'cause that's a big question
+[00:43:29.160 --> 00:43:31.800]   we have to when healers join the community,
+[00:43:31.800 --> 00:43:34.920]   you know, homeopathy, folks, and I'm always telling them,
+[00:43:34.920 --> 00:43:38.600]   you know, you don't want to use these stronger blocks
+[00:43:38.600 --> 00:43:39.440]   with them, right?
+[00:43:39.440 --> 00:43:42.920]   Bottom line is homeopathy and pharmaceuticals
+[00:43:42.920 --> 00:43:45.680]   are dialed in to a specific thing,
+[00:43:45.680 --> 00:43:48.440]   and if you charge them, it changes that.
+[00:43:48.440 --> 00:43:50.840]   So it's really hard to try to,
+[00:43:50.840 --> 00:43:53.040]   you don't want to use a stronger block,
+[00:43:53.040 --> 00:43:55.880]   and if you want to copy them, use the Q block,
+[00:43:55.880 --> 00:43:58.360]   but remember that what you take out of that block
+[00:43:58.360 --> 00:44:01.240]   is no different than what you put in, right?
+[00:44:01.240 --> 00:44:02.080]   - Yep.
+[00:44:02.080 --> 00:44:04.160]   - But you can definitely copy them and charge them.
+[00:44:04.160 --> 00:44:07.120]   Okay, now I know we're sensitive on time,
+[00:44:07.120 --> 00:44:08.880]   you've only got about what, 10 minutes, Max?
+[00:44:08.880 --> 00:44:11.080]   I just don't want to know if we could cover
+[00:44:11.080 --> 00:44:12.880]   the other subjects here, I just want to make sure we're--
+[00:44:12.880 --> 00:44:14.760]   - Yeah, we can go another 15 minutes.
+[00:44:14.760 --> 00:44:16.440]   - Okay, great, okay, thank you so much.
+[00:44:16.440 --> 00:44:19.480]   I do have a couple of other things that have popped up
+[00:44:19.480 --> 00:44:22.320]   in the telegram chat group that I want to kind of cover,
+[00:44:22.320 --> 00:44:24.600]   and this is something that I had happened,
+[00:44:24.600 --> 00:44:29.360]   which was the difference between using a photo in a block
+[00:44:29.360 --> 00:44:31.360]   versus using the quantum upgrade
+[00:44:31.360 --> 00:44:33.160]   for the U subscription, right?
+[00:44:33.160 --> 00:44:35.480]   And the quick story on this was the other day,
+[00:44:35.480 --> 00:44:37.280]   and Philip corrected me, and I want to make sure
+[00:44:37.280 --> 00:44:39.240]   that everybody understands what,
+[00:44:39.240 --> 00:44:41.680]   'cause I actually learned something that day.
+[00:44:41.680 --> 00:44:44.600]   Somebody came in onto the quantum upgrade chat group,
+[00:44:44.600 --> 00:44:47.200]   and their mother was suffering from a problem,
+[00:44:47.200 --> 00:44:49.200]   and so I offered, and I kind of do this all the time,
+[00:44:49.200 --> 00:44:50.640]   and I decided to say, "Hey, I'll give me a picture,
+[00:44:50.640 --> 00:44:51.800]   "and I'll throw her in the block."
+[00:44:51.800 --> 00:44:55.040]   So I put her in my infinity block with the heel frequency,
+[00:44:55.040 --> 00:44:57.040]   but I forgot to ask her, "Oh, by the way,
+[00:44:57.040 --> 00:45:00.160]   "do you already have this person signed up for you," right?
+[00:45:00.160 --> 00:45:02.720]   And so then, I also made this other comment,
+[00:45:02.720 --> 00:45:04.840]   was like, "Oh yeah, that's kind of the same thing
+[00:45:04.840 --> 00:45:08.280]   "by doing this," which is putting the photo in the block,
+[00:45:08.280 --> 00:45:09.640]   with the heel, would be the sign--
+[00:45:09.640 --> 00:45:13.400]   I thought it was somewhat of the same thing.
+[00:45:13.400 --> 00:45:17.120]   I completely forgot about the special Harmony buffer feature,
+[00:45:17.120 --> 00:45:19.680]   and so then, you know, Philip corrected me,
+[00:45:19.680 --> 00:45:22.480]   and then basically, once we found out
+[00:45:22.480 --> 00:45:26.080]   that the mother actually had a U subscription,
+[00:45:26.080 --> 00:45:27.600]   then I immediately then was, you know,
+[00:45:27.600 --> 00:45:29.920]   take her out of the infinity block,
+[00:45:29.920 --> 00:45:31.360]   'cause you don't want to overwhelm her kind of thing.
+[00:45:31.360 --> 00:45:34.080]   So, but Philip, can you kind of explain to people,
+[00:45:34.080 --> 00:45:35.760]   'cause I learned a lot that day,
+[00:45:35.760 --> 00:45:37.920]   which was, there's a huge difference
+[00:45:37.920 --> 00:45:40.840]   between putting a photo in a block,
+[00:45:40.840 --> 00:45:43.480]   versus signing that same person up for the U,
+[00:45:43.480 --> 00:45:45.000]   you know, what's that difference, right?
+[00:45:45.000 --> 00:45:46.520]   That's the first question.
+[00:45:46.520 --> 00:45:48.800]   And then the second question, let's get into, you know,
+[00:45:48.800 --> 00:45:52.000]   using two methods simultaneously, right?
+[00:45:52.000 --> 00:45:54.000]   And why that's not a good idea for people
+[00:45:54.000 --> 00:45:56.360]   that are kind of like weakened, right?
+[00:45:56.360 --> 00:45:58.160]   But the first question though is,
+[00:45:58.160 --> 00:45:59.920]   Philip, can you describe, like,
+[00:45:59.920 --> 00:46:02.960]   what is the difference between using my infinity block
+[00:46:02.960 --> 00:46:05.360]   with a photo, versus signing someone up
+[00:46:05.360 --> 00:46:06.560]   for quantum upgrade U?
+[00:46:06.560 --> 00:46:10.800]   - Yeah, so the quantum upgrade U
+[00:46:10.800 --> 00:46:13.320]   is the most comprehensive way
+[00:46:13.320 --> 00:46:16.800]   of soaking someone in energy,
+[00:46:16.800 --> 00:46:19.800]   in an quantum energy field, basically.
+[00:46:19.800 --> 00:46:23.600]   And it can be leveled up and down on the Hawking scale,
+[00:46:23.600 --> 00:46:26.480]   so you can use different levels,
+[00:46:26.480 --> 00:46:30.040]   you can infuse boosters in between, right?
+[00:46:30.040 --> 00:46:33.280]   So that is something that is absolutely impossible
+[00:46:33.280 --> 00:46:35.960]   to do with a block, with a block, you have one level,
+[00:46:35.960 --> 00:46:39.080]   and that is it, it will always stay at that level.
+[00:46:40.360 --> 00:46:45.360]   At the same time, there's indeed the harmony feature,
+[00:46:45.360 --> 00:46:48.680]   which is very advanced, frankly,
+[00:46:48.680 --> 00:46:50.080]   with a quantum upgrade system,
+[00:46:50.080 --> 00:46:54.800]   because that's not a block, it's a whole system,
+[00:46:54.800 --> 00:46:58.320]   it's just very, very advanced in how it works,
+[00:46:58.320 --> 00:47:01.600]   and it can support someone on an energetic
+[00:47:01.600 --> 00:47:06.600]   and physical level way more than just a single product.
+[00:47:06.720 --> 00:47:09.400]   That's just the reality.
+[00:47:09.400 --> 00:47:14.240]   However, if someone doesn't have the use subscription,
+[00:47:14.240 --> 00:47:19.240]   then the block still works with providing benefits, right?
+[00:47:19.240 --> 00:47:22.640]   Amazing benefit, I mean, it neutralizes EMF
+[00:47:22.640 --> 00:47:24.480]   for that person, right?
+[00:47:24.480 --> 00:47:27.600]   It optimizes the blood when you have a picture,
+[00:47:27.600 --> 00:47:29.880]   and all these things are still true.
+[00:47:29.880 --> 00:47:34.880]   The field for you is just adds additional layers,
+[00:47:35.960 --> 00:47:38.960]   it's more comprehensive, and then you have the flexibility
+[00:47:38.960 --> 00:47:41.720]   to set it at whatever levels, at whatever time,
+[00:47:41.720 --> 00:47:45.640]   including boosters, and turning it off or down at night,
+[00:47:45.640 --> 00:47:49.440]   and stuff like that, those are the differences.
+[00:47:49.440 --> 00:47:51.720]   - Okay, and then thank you,
+[00:47:51.720 --> 00:47:53.160]   then the other issue though,
+[00:47:53.160 --> 00:47:57.360]   was not to do them both at the same time,
+[00:47:57.360 --> 00:48:01.160]   and to defer to the use subscription,
+[00:48:01.160 --> 00:48:03.480]   as opposed to doing both, right?
+[00:48:03.480 --> 00:48:05.440]   So it sounds like when someone's in a weakened state,
+[00:48:05.440 --> 00:48:07.880]   the quantum upgrade for you,
+[00:48:07.880 --> 00:48:09.440]   would probably be the better option,
+[00:48:09.440 --> 00:48:12.080]   because then you can dial it up, dial it down,
+[00:48:12.080 --> 00:48:14.200]   you can boost, so you can really make sure
+[00:48:14.200 --> 00:48:15.960]   that the person doesn't get that,
+[00:48:15.960 --> 00:48:17.280]   especially that harmony feature
+[00:48:17.280 --> 00:48:18.360]   that they don't get overwhelmed,
+[00:48:18.360 --> 00:48:20.040]   because they are in a weakened state.
+[00:48:20.040 --> 00:48:22.320]   You don't wanna kick off a detox reaction
+[00:48:22.320 --> 00:48:25.160]   to someone who's just had a heart attack kind of thing, right?
+[00:48:25.160 --> 00:48:26.800]   So I totally get that.
+[00:48:26.800 --> 00:48:28.720]   So then in terms of don't use a block
+[00:48:28.720 --> 00:48:30.960]   for those kinds of things, if you could use the U,
+[00:48:30.960 --> 00:48:32.560]   or if they already have the U,
+[00:48:32.560 --> 00:48:35.160]   and then the other issue too is don't use them together,
+[00:48:35.160 --> 00:48:36.480]   is that kind of was the point, right?
+[00:48:36.480 --> 00:48:39.720]   Was your recommendation to me was like,
+[00:48:39.720 --> 00:48:42.000]   yeah, you don't wanna do the eye block for this lady,
+[00:48:42.000 --> 00:48:45.040]   just let her have the subscription,
+[00:48:45.040 --> 00:48:47.680]   and that would probably help for not overwhelming,
+[00:48:47.680 --> 00:48:49.440]   or is that correct?
+[00:48:49.440 --> 00:48:52.280]   - Yes, well, the thing is because with the eye block,
+[00:48:52.280 --> 00:48:54.560]   it doesn't have this harmony feature,
+[00:48:54.560 --> 00:48:59.560]   and then it may, it just may be too much for that lady.
+[00:48:59.560 --> 00:49:02.120]   - Right, that person.
+[00:49:02.120 --> 00:49:04.720]   - However, if you had, let's say you had,
+[00:49:06.000 --> 00:49:10.240]   four eye blocks, and they're all exactly the same,
+[00:49:10.240 --> 00:49:13.600]   exactly the same level, it wouldn't make a difference
+[00:49:13.600 --> 00:49:15.680]   if you have a picture in one of the blocks,
+[00:49:15.680 --> 00:49:19.400]   or in all of those blocks, there's no energetic difference,
+[00:49:19.400 --> 00:49:24.320]   but if you have the picture in one eye block,
+[00:49:24.320 --> 00:49:27.880]   and then you put a picture in a stronger eye block,
+[00:49:27.880 --> 00:49:32.120]   yes, then obviously that has an effect, if that makes sense.
+[00:49:32.120 --> 00:49:34.280]   - Okay, yeah, that's actually one of the questions.
+[00:49:34.280 --> 00:49:36.880]   So, thanks for the clarification on that,
+[00:49:36.880 --> 00:49:38.440]   and I think the key here,
+[00:49:38.440 --> 00:49:41.560]   the key takeaway for me was to realize
+[00:49:41.560 --> 00:49:45.560]   that when someone, if you're trying to help someone,
+[00:49:45.560 --> 00:49:47.880]   you don't wanna kick off a detox effect,
+[00:49:47.880 --> 00:49:50.480]   you don't wanna send them too much energy,
+[00:49:50.480 --> 00:49:53.840]   so really keep that in mind with what block you use,
+[00:49:53.840 --> 00:49:55.800]   how long you put the photo in,
+[00:49:55.800 --> 00:49:57.280]   if they're already subscribed,
+[00:49:57.280 --> 00:49:59.280]   you don't think about those kinds of things,
+[00:49:59.280 --> 00:50:01.400]   'cause the ultimate goal is to help that person, right,
+[00:50:01.400 --> 00:50:04.520]   and not do anything that would make it worse.
+[00:50:04.520 --> 00:50:06.040]   So, definitely good to know,
+[00:50:06.040 --> 00:50:07.360]   and then what you just said, Philip,
+[00:50:07.360 --> 00:50:08.960]   is actually one of the questions.
+[00:50:08.960 --> 00:50:11.200]   I just kinda picked and pulled some questions
+[00:50:11.200 --> 00:50:15.000]   out of the chat group that I wanted to throw into this tutorial,
+[00:50:15.000 --> 00:50:16.600]   'cause these questions come up more than once,
+[00:50:16.600 --> 00:50:20.600]   but it's the idea of using more than one block
+[00:50:20.600 --> 00:50:22.920]   for a remote healing helpful,
+[00:50:22.920 --> 00:50:24.960]   and I guess your answer bottom line was,
+[00:50:24.960 --> 00:50:25.920]   well, you know, 'cause a lot of people
+[00:50:25.920 --> 00:50:27.280]   have two-week infinity blocks, right,
+[00:50:27.280 --> 00:50:28.920]   and if they haven't upgraded them,
+[00:50:28.920 --> 00:50:30.760]   and they're both the same,
+[00:50:30.760 --> 00:50:32.200]   then what you're saying is, hey, you know what,
+[00:50:32.200 --> 00:50:34.520]   if you put the same picture in two blocks
+[00:50:34.520 --> 00:50:36.840]   that have the same energy, it's not incremental.
+[00:50:36.840 --> 00:50:38.000]   It doesn't make a difference, right,
+[00:50:38.000 --> 00:50:40.480]   'cause they're both the exact same level of energy.
+[00:50:40.480 --> 00:50:42.240]   So, it's not two times that,
+[00:50:42.240 --> 00:50:43.520]   it's still one times, right,
+[00:50:43.520 --> 00:50:44.880]   in terms of what the person seems to have.
+[00:50:44.880 --> 00:50:46.760]   - Yeah, at least for a person or, you know,
+[00:50:46.760 --> 00:50:49.280]   for another living organism, you know,
+[00:50:49.280 --> 00:50:53.640]   for intentions, it seems to make a difference.
+[00:50:53.640 --> 00:50:56.520]   So, that's not a bad thing.
+[00:50:56.520 --> 00:50:58.200]   So, if I have two or three blocks,
+[00:50:58.200 --> 00:51:01.640]   and I have an intention, you know, at least,
+[00:51:01.640 --> 00:51:05.280]   it seems to us that putting it in all three blocks
+[00:51:05.280 --> 00:51:07.040]   would have a greater effect.
+[00:51:07.040 --> 00:51:08.320]   - Okay, all right, so that was,
+[00:51:08.320 --> 00:51:09.680]   that's actually one of the questions
+[00:51:09.680 --> 00:51:10.600]   here's about intention.
+[00:51:10.600 --> 00:51:12.840]   So, okay, so if you have more than one block,
+[00:51:12.840 --> 00:51:15.800]   and you put the same intention in every one of your blocks,
+[00:51:15.800 --> 00:51:17.640]   you actually get an incremental lift.
+[00:51:17.640 --> 00:51:19.200]   Is that what you're saying?
+[00:51:19.200 --> 00:51:21.200]   - Yeah, which I can't really define.
+[00:51:21.200 --> 00:51:24.800]   Like, we didn't properly test that and see, okay,
+[00:51:24.800 --> 00:51:27.400]   so what is now the actual increase on?
+[00:51:28.520 --> 00:51:31.840]   It's hard to tell if it's times three,
+[00:51:31.840 --> 00:51:34.240]   if you have the three of the same devices.
+[00:51:34.240 --> 00:51:35.880]   - Sure.
+[00:51:35.880 --> 00:51:37.840]   - It may be, I don't know.
+[00:51:37.840 --> 00:51:40.960]   - Okay, no, but it makes sense that it's incremental.
+[00:51:40.960 --> 00:51:43.640]   So, intentions, you can get an incremental lift
+[00:51:43.640 --> 00:51:46.640]   with multiple blocks, but don't,
+[00:51:46.640 --> 00:51:49.480]   but it doesn't work if you have for remote healing,
+[00:51:49.480 --> 00:51:50.320]   if they're all the same.
+[00:51:50.320 --> 00:51:52.120]   Okay, so that's good to know everybody.
+[00:51:52.120 --> 00:51:54.600]   But number five, though, the question again,
+[00:51:54.600 --> 00:51:57.520]   around intentions is, there's questions
+[00:51:57.520 --> 00:52:00.680]   that we've had recently where people are asking,
+[00:52:00.680 --> 00:52:05.040]   how do I place an intention into a piece of jewelry
+[00:52:05.040 --> 00:52:08.040]   or into a capsule using a block?
+[00:52:08.040 --> 00:52:11.440]   So, the question was, just do I write down the intention,
+[00:52:11.440 --> 00:52:13.480]   focus, you know, and center myself,
+[00:52:13.480 --> 00:52:16.920]   and then emotionally, you know, and psychically, right?
+[00:52:16.920 --> 00:52:19.280]   Put that intention into the paper,
+[00:52:19.280 --> 00:52:22.960]   put the paper in a block with the jewelry or the capsule,
+[00:52:22.960 --> 00:52:25.360]   and would that intention then copy
+[00:52:25.360 --> 00:52:29.280]   as if it was like any other source of a frequency?
+[00:52:29.280 --> 00:52:30.880]   Is that the process for that?
+[00:52:30.880 --> 00:52:32.760]   - Yeah, that's exactly how it works.
+[00:52:32.760 --> 00:52:35.120]   Definitely write it down on a piece of paper,
+[00:52:35.120 --> 00:52:38.720]   and, you know, the more you can feel
+[00:52:38.720 --> 00:52:41.680]   what you're writing down and envision that,
+[00:52:41.680 --> 00:52:44.680]   the better that is, and then you can indeed just,
+[00:52:44.680 --> 00:52:47.160]   that piece of paper then carries the frequency
+[00:52:47.160 --> 00:52:51.400]   off that intention, and you can just put that
+[00:52:51.400 --> 00:52:55.360]   inside your capsule as an example,
+[00:52:55.360 --> 00:52:57.680]   or, you know, if people have blocks,
+[00:52:57.680 --> 00:53:01.600]   then really, you know, copy it into aluminum foil,
+[00:53:01.600 --> 00:53:05.200]   that's the better way to do it even,
+[00:53:05.200 --> 00:53:07.640]   and then you can just take a piece of the aluminum foil
+[00:53:07.640 --> 00:53:09.880]   and wrap it around one of those spheres
+[00:53:09.880 --> 00:53:11.560]   and put it in the capsule,
+[00:53:11.560 --> 00:53:15.520]   and then with the aluminum foil in there,
+[00:53:15.520 --> 00:53:17.800]   you have also that specific frequency
+[00:53:17.800 --> 00:53:18.960]   of that intention in there,
+[00:53:18.960 --> 00:53:21.920]   and then you can remove it at any time.
+[00:53:21.920 --> 00:53:25.000]   - Okay, so then the timeframes for copying intentions,
+[00:53:25.000 --> 00:53:28.240]   would they be the same as plants, herbs,
+[00:53:28.240 --> 00:53:29.640]   supplements, things like that?
+[00:53:29.640 --> 00:53:32.600]   So telling people, okay, if you want a copy of intention,
+[00:53:32.600 --> 00:53:36.080]   follow these timeframes depending on what blocks you use.
+[00:53:36.080 --> 00:53:36.920]   All right.
+[00:53:36.920 --> 00:53:38.000]   - There you go, everybody, that's how you--
+[00:53:38.000 --> 00:53:43.000]   - And, you know, so if you deal with aluminum foil,
+[00:53:43.000 --> 00:53:45.440]   you can also do longer, right?
+[00:53:45.440 --> 00:53:46.920]   So it's totally fine.
+[00:53:46.920 --> 00:53:49.400]   Like, if you feel you want it a little longer,
+[00:53:49.400 --> 00:53:52.040]   that's fine, aluminum foil is really not
+[00:53:52.040 --> 00:53:55.120]   such a super dense, heavy object.
+[00:53:55.120 --> 00:53:56.360]   - Okay, all right, great.
+[00:53:56.360 --> 00:53:59.320]   I'm just gonna, the rest of the questions here are those,
+[00:53:59.320 --> 00:54:01.640]   you know, obviously people are asking,
+[00:54:01.640 --> 00:54:03.800]   are you gonna offer the grand blocks again?
+[00:54:03.800 --> 00:54:05.560]   'Cause it was like a one-time sale,
+[00:54:05.560 --> 00:54:07.360]   they're being shipped out this week.
+[00:54:07.360 --> 00:54:08.640]   But what about people that are like,
+[00:54:08.640 --> 00:54:12.400]   that missed the sale and would like to get one?
+[00:54:12.400 --> 00:54:14.520]   Will they be offered again?
+[00:54:14.520 --> 00:54:17.480]   - Yes, because we had so many people reach out
+[00:54:17.480 --> 00:54:19.040]   that apparently missed the sale
+[00:54:19.040 --> 00:54:22.080]   or had come in later and really won at one.
+[00:54:22.080 --> 00:54:24.440]   So we will do that again.
+[00:54:24.440 --> 00:54:26.680]   I can't say at what point,
+[00:54:26.680 --> 00:54:30.000]   but it may already be in April.
+[00:54:30.000 --> 00:54:35.000]   And it will only be a small quantity,
+[00:54:35.000 --> 00:54:37.680]   but we will do that again.
+[00:54:37.680 --> 00:54:39.320]   And then, you know, we will see if, you know,
+[00:54:39.320 --> 00:54:43.080]   maybe we can have that once a year
+[00:54:43.080 --> 00:54:45.520]   or twice a year or something like that.
+[00:54:45.520 --> 00:54:47.360]   - Okay, I'm gonna ask too,
+[00:54:47.360 --> 00:54:49.760]   is that gonna be the same for the super capsule?
+[00:54:49.760 --> 00:54:53.760]   - So the super capsule in the form we've had it
+[00:54:53.760 --> 00:54:55.720]   will never be available again.
+[00:54:55.720 --> 00:54:57.760]   And that's what we also said last time.
+[00:54:57.760 --> 00:54:59.800]   So we've had it twice.
+[00:54:59.800 --> 00:55:03.680]   And, but people still keep asking for another super capsule.
+[00:55:03.680 --> 00:55:06.480]   So we will have another super capsule,
+[00:55:06.480 --> 00:55:09.000]   but it will have a different frequency.
+[00:55:09.000 --> 00:55:11.920]   And I have to actually look because we did a poll
+[00:55:11.920 --> 00:55:13.680]   in the group and ask people
+[00:55:13.680 --> 00:55:15.240]   which frequency they wanted to see.
+[00:55:15.240 --> 00:55:18.960]   And honestly, I don't remember what came out of that poll.
+[00:55:18.960 --> 00:55:20.240]   So I have to go look.
+[00:55:20.240 --> 00:55:23.040]   - Yeah, it may have been gratitude
+[00:55:23.040 --> 00:55:25.680]   or resolution or something like that.
+[00:55:25.680 --> 00:55:27.320]   - Okay, I don't remember.
+[00:55:27.320 --> 00:55:29.120]   Okay, so yeah, so they're gonna be up for sale again.
+[00:55:29.120 --> 00:55:30.160]   And by the way, you know, guys,
+[00:55:30.160 --> 00:55:32.840]   if you have a grand block,
+[00:55:32.840 --> 00:55:34.440]   is this safe to save Philip?
+[00:55:34.440 --> 00:55:35.840]   That if you have a grand block,
+[00:55:35.840 --> 00:55:37.520]   you could make your own super capsule
+[00:55:40.120 --> 00:55:41.960]   because of the level of energy
+[00:55:41.960 --> 00:55:44.240]   or you can make something very close to it.
+[00:55:44.240 --> 00:55:45.080]   - Yeah.
+[00:55:45.080 --> 00:55:45.920]   - Yeah.
+[00:55:45.920 --> 00:55:46.760]   - Yeah, absolutely.
+[00:55:46.760 --> 00:55:47.600]   - Yeah, I mean.
+[00:55:47.600 --> 00:55:49.600]   - It's very close to it then, yeah.
+[00:55:49.600 --> 00:55:50.440]   - Right.
+[00:55:50.440 --> 00:55:51.280]   Okay.
+[00:55:51.280 --> 00:55:52.960]   Now the other question that's been coming up lately is,
+[00:55:52.960 --> 00:55:54.960]   you know, when charging something,
+[00:55:54.960 --> 00:55:57.000]   how long does the charge last?
+[00:55:57.000 --> 00:55:59.240]   And so I always know that if you charge something
+[00:55:59.240 --> 00:56:02.000]   that's metal, it's gonna blast past our lifetime.
+[00:56:02.000 --> 00:56:03.320]   It's pretty much permanent.
+[00:56:03.320 --> 00:56:05.640]   The charge as well as the frequency you put into it
+[00:56:05.640 --> 00:56:06.680]   if you do that.
+[00:56:06.680 --> 00:56:08.520]   But what about like so, but, you know,
+[00:56:08.520 --> 00:56:10.720]   but that, you know, I kind of made it simple.
+[00:56:10.720 --> 00:56:13.400]   Like, you know, if I charge something that's hard
+[00:56:13.400 --> 00:56:17.040]   versus something that's soft versus a person or a being
+[00:56:17.040 --> 00:56:18.080]   and then things in photo,
+[00:56:18.080 --> 00:56:20.440]   I kind of, we kind of talked a little bit about that before
+[00:56:20.440 --> 00:56:23.040]   and how long it takes to charge something.
+[00:56:23.040 --> 00:56:24.520]   But then the answer, the question is,
+[00:56:24.520 --> 00:56:26.640]   is how long does it last?
+[00:56:26.640 --> 00:56:29.000]   So for hard stuff, would you say it's gonna last
+[00:56:29.000 --> 00:56:30.360]   past our lifetime?
+[00:56:30.360 --> 00:56:32.640]   I mean, it's kind of semi-permanent, right?
+[00:56:32.640 --> 00:56:33.480]   If it's something that's--
+[00:56:33.480 --> 00:56:34.600]   - Yeah, so exactly.
+[00:56:34.600 --> 00:56:36.040]   Yeah, okay.
+[00:56:36.040 --> 00:56:39.440]   All metals, pretty much that way if--
+[00:56:39.440 --> 00:56:41.560]   And then, you know, the question is,
+[00:56:41.560 --> 00:56:45.160]   well, the difference is between the quantum energy
+[00:56:45.160 --> 00:56:46.320]   and the frequency.
+[00:56:46.320 --> 00:56:50.680]   If I put the frequency into any object,
+[00:56:50.680 --> 00:56:53.880]   it'll stay in there until we purposely remove it,
+[00:56:53.880 --> 00:56:55.560]   which doesn't just happen.
+[00:56:55.560 --> 00:56:59.800]   So it wouldn't never really leave an object.
+[00:56:59.800 --> 00:57:01.280]   However, that's very different.
+[00:57:01.280 --> 00:57:03.040]   Obviously with a living organism,
+[00:57:03.040 --> 00:57:04.480]   that's completely different.
+[00:57:04.480 --> 00:57:07.120]   It never stays in there permanently.
+[00:57:07.120 --> 00:57:12.120]   And water, for example, and water,
+[00:57:12.120 --> 00:57:15.600]   like substances or other substances,
+[00:57:15.600 --> 00:57:18.240]   like fruits that have water in there.
+[00:57:18.240 --> 00:57:20.160]   So frequencies there would not,
+[00:57:20.160 --> 00:57:23.240]   any crystals also, frequencies would not stay
+[00:57:23.240 --> 00:57:28.120]   in there forever and basically just dissipated at some point,
+[00:57:28.120 --> 00:57:30.080]   relatively soon actually.
+[00:57:30.080 --> 00:57:32.480]   - Okay, so it's safe to say that for hard stuff,
+[00:57:32.480 --> 00:57:34.920]   it's gonna last semi-permanent.
+[00:57:34.920 --> 00:57:39.560]   But if it's something soft, people, pets, clothing, shoes,
+[00:57:39.560 --> 00:57:40.720]   and even things, you know,
+[00:57:40.720 --> 00:57:42.800]   let's stick with those two right here.
+[00:57:42.800 --> 00:57:44.800]   If I charge something like a shoe,
+[00:57:44.800 --> 00:57:47.120]   we just talked about that a few minutes ago,
+[00:57:47.120 --> 00:57:51.160]   or if I charge myself, then, you know,
+[00:57:51.160 --> 00:57:52.600]   then it's not gonna be permanent
+[00:57:52.600 --> 00:57:55.360]   and that you might wanna recharge that every now and then.
+[00:57:55.360 --> 00:57:56.120]   Is that correct?
+[00:57:56.120 --> 00:57:58.000]   - No, for the shoe, it will be permanent.
+[00:57:58.000 --> 00:58:00.800]   - Okay, for shoes, it's permanent.
+[00:58:00.800 --> 00:58:01.640]   Okay, so what about--
+[00:58:01.640 --> 00:58:06.520]   - You're trying to accept water or very, or, yeah,
+[00:58:06.520 --> 00:58:08.560]   something like a trued.
+[00:58:08.560 --> 00:58:10.800]   - Okay, so now I'm gonna put the notes.
+[00:58:10.800 --> 00:58:13.720]   Now, people pets water food.
+[00:58:13.720 --> 00:58:16.760]   If I charge it, the charge kind of fades away, right,
+[00:58:16.760 --> 00:58:18.280]   because these are living organisms
+[00:58:18.280 --> 00:58:20.200]   and they're constantly regenerating.
+[00:58:20.200 --> 00:58:22.720]   So if I were a person and I like, you know,
+[00:58:22.720 --> 00:58:25.920]   and I wanna charge, let's say, water or myself,
+[00:58:25.920 --> 00:58:28.640]   how often would I, and how long would it last,
+[00:58:28.640 --> 00:58:29.960]   and when should I recharge?
+[00:58:29.960 --> 00:58:31.840]   This is the question.
+[00:58:31.840 --> 00:58:33.640]   - To recharge which object, no?
+[00:58:33.640 --> 00:58:36.120]   - A person, like I charge my dog.
+[00:58:36.120 --> 00:58:38.440]   You know, I put him in the block.
+[00:58:38.440 --> 00:58:41.560]   Should I do that once a week to keep the energy level up?
+[00:58:41.560 --> 00:58:44.720]   - Well, so one thing people need to understand
+[00:58:44.720 --> 00:58:47.120]   is if you have a block at home,
+[00:58:47.120 --> 00:58:50.200]   the dog will always be in the field of that block
+[00:58:50.200 --> 00:58:53.120]   and always have already a baseline benefit of that, right?
+[00:58:53.120 --> 00:58:54.160]   - Okay, yeah.
+[00:58:54.160 --> 00:58:58.640]   - And then because the field is much, much stronger inside,
+[00:58:58.640 --> 00:59:01.040]   then it indeed makes a difference
+[00:59:01.040 --> 00:59:05.400]   if you put a picture inside or put the dog inside the block.
+[00:59:05.400 --> 00:59:08.640]   So, and that really depends on, you know,
+[00:59:08.640 --> 00:59:11.640]   the dog's needs and what you feel.
+[00:59:11.640 --> 00:59:14.400]   There's really no golden rule, you know.
+[00:59:14.400 --> 00:59:17.480]   You know, once, you know, with pictures,
+[00:59:17.480 --> 00:59:22.480]   if you don't have a quantum upgrade for a pet,
+[00:59:22.480 --> 00:59:27.760]   then definitely once a week is a great idea to do that,
+[00:59:28.600 --> 00:59:31.160]   you know, anytime the dog doesn't feel good,
+[00:59:31.160 --> 00:59:33.840]   you know, I had the situation with our dog feel lately.
+[00:59:33.840 --> 00:59:37.160]   She really ever gets sick with anything.
+[00:59:37.160 --> 00:59:41.960]   And then that day she felt bad and had the stomach ache
+[00:59:41.960 --> 00:59:44.640]   apparently and started to eat grass and all that.
+[00:59:44.640 --> 00:59:47.280]   And I was watching that for an hour or so.
+[00:59:47.280 --> 00:59:49.960]   And then I was like, all right, you know,
+[00:59:49.960 --> 00:59:52.600]   I'll have to give her a real boost of energy.
+[00:59:52.600 --> 00:59:55.800]   So that would be a time where you want to place
+[00:59:55.800 --> 00:59:57.320]   the picture in there again.
+[00:59:58.240 --> 00:59:59.080]   - Okay.
+[00:59:59.080 --> 01:00:02.040]   - And yeah, maybe if you go to the vet, for example,
+[01:00:02.040 --> 01:00:06.040]   if you go to the vet, which dogs never like, right?
+[01:00:06.040 --> 01:00:06.880]   - Yeah.
+[01:00:06.880 --> 01:00:08.000]   - To the groom or something like that.
+[01:00:08.000 --> 01:00:08.840]   - Yeah.
+[01:00:08.840 --> 01:00:09.680]   - Just put them in the field
+[01:00:09.680 --> 01:00:13.160]   because that'll just be better for them that way.
+[01:00:13.160 --> 01:00:14.000]   - Okay.
+[01:00:14.000 --> 01:00:16.640]   All right, so for how long something lasts,
+[01:00:16.640 --> 01:00:21.120]   people pets water, you know, like up to a week,
+[01:00:21.120 --> 01:00:24.200]   but it's always a good idea to recharge those kinds of things.
+[01:00:24.200 --> 01:00:26.320]   And then for things in photos,
+[01:00:26.320 --> 01:00:29.320]   if I were to, let's say, put my picture of my car in a photo,
+[01:00:29.320 --> 01:00:32.320]   you know, a picture of a car in a block,
+[01:00:32.320 --> 01:00:34.720]   or let's say, you know, the most recent everyone's talking about
+[01:00:34.720 --> 01:00:37.240]   is the, you know, the river, right?
+[01:00:37.240 --> 01:00:40.960]   I put the picture of that in the block, you know,
+[01:00:40.960 --> 01:00:43.160]   and it's sending quantum energy to it.
+[01:00:43.160 --> 01:00:46.080]   But how long does that energy last?
+[01:00:46.080 --> 01:00:47.520]   If I, you know, like to the car,
+[01:00:47.520 --> 01:00:50.880]   to a river house, stuff like that?
+[01:00:50.880 --> 01:00:55.240]   It's, is it taken away once you take the photo out
+[01:00:55.240 --> 01:00:58.320]   or does it like kind of linger for a little while?
+[01:00:58.320 --> 01:01:03.320]   - Yeah, well actually degrades over a period of maybe two hours.
+[01:01:03.320 --> 01:01:07.280]   - Okay.
+[01:01:07.280 --> 01:01:08.120]   - That's about what we're seeing.
+[01:01:08.120 --> 01:01:09.960]   In some cases, maybe three hours.
+[01:01:09.960 --> 01:01:12.560]   And then you have some lasting benefits, frankly,
+[01:01:12.560 --> 01:01:15.840]   like with a car, if you put a car in,
+[01:01:15.840 --> 01:01:21.320]   then the stuff, the energy,
+[01:01:21.320 --> 01:01:24.160]   the negative frequencies that are coming into the car
+[01:01:24.160 --> 01:01:27.800]   during production, and there's various types.
+[01:01:27.800 --> 01:01:31.320]   Once you've charged that for like 30 minutes,
+[01:01:31.320 --> 01:01:36.160]   maybe 60 minutes, but usually 30 minutes is enough,
+[01:01:36.160 --> 01:01:38.640]   that's gone, it's also not coming back.
+[01:01:38.640 --> 01:01:42.960]   So, you know, that's, I told someone else the other day,
+[01:01:42.960 --> 01:01:45.200]   if you have a skid from zero to 10,
+[01:01:45.200 --> 01:01:49.640]   10 is the optimal energetic state of the car
+[01:01:49.640 --> 01:01:52.320]   and zero is kind of like the worst, like, you know,
+[01:01:52.320 --> 01:01:53.840]   right after production.
+[01:01:53.840 --> 01:01:56.720]   And we were talking about electric cars, actually.
+[01:01:56.720 --> 01:02:01.720]   And, you know, if you then charge it over distance,
+[01:02:01.720 --> 01:02:06.240]   then while you're doing that, you're at a 10 pretty much.
+[01:02:06.240 --> 01:02:11.160]   And if you then stop charging it,
+[01:02:11.160 --> 01:02:14.880]   you're going to back to a one or maybe a two.
+[01:02:14.880 --> 01:02:16.840]   - Okay.
+[01:02:16.840 --> 01:02:18.200]   - But you're not gonna go back to zero.
+[01:02:18.200 --> 01:02:20.080]   - Okay, okay, that's actually a good way to put it.
+[01:02:20.080 --> 01:02:20.920]   Okay.
+[01:02:20.920 --> 01:02:23.320]   All right, so it's also, so I guess the idea here
+[01:02:23.320 --> 01:02:25.600]   is that it's really helpful to, you know,
+[01:02:25.600 --> 01:02:28.600]   actually, you know, charge these items and these things,
+[01:02:28.600 --> 01:02:31.440]   but then for people, pets, water, things and photos,
+[01:02:31.440 --> 01:02:33.600]   you might want to charge it more than once,
+[01:02:33.600 --> 01:02:36.080]   or, you know, kind of regularly charge
+[01:02:36.080 --> 01:02:37.360]   to keep that energy level up.
+[01:02:37.360 --> 01:02:38.840]   I guess that's a safe way to put it.
+[01:02:38.840 --> 01:02:41.200]   All right, so that's good to know.
+[01:02:41.200 --> 01:02:43.520]   Now, something you said, somebody asked a question
+[01:02:43.520 --> 01:02:47.200]   I thought was wild, which was can I take my travel block,
+[01:02:47.200 --> 01:02:51.080]   put it in the grand block and would it upgrade my travel block?
+[01:02:51.080 --> 01:02:52.720]   And you mentioned that it would.
+[01:02:52.720 --> 01:02:54.800]   So can you kind of explain, you know,
+[01:02:54.800 --> 01:02:58.120]   can you upgrade other blocks by putting them
+[01:02:58.120 --> 01:02:59.240]   in the grand block?
+[01:02:59.240 --> 01:03:01.040]   Could you kind of explain how that would work
+[01:03:01.040 --> 01:03:02.640]   and what would you end up with?
+[01:03:02.640 --> 01:03:07.040]   - We don't know what you would end up with.
+[01:03:07.040 --> 01:03:08.040]   (laughing)
+[01:03:08.040 --> 01:03:09.920]   - Yeah, as a parents to be like,
+[01:03:09.920 --> 01:03:12.680]   - Stronger block, it's hard to tell,
+[01:03:12.680 --> 01:03:15.120]   but it definitely is stronger block.
+[01:03:15.120 --> 01:03:16.920]   Of course, if you do that,
+[01:03:16.920 --> 01:03:20.120]   don't ever put a block in there that's still assembled
+[01:03:20.120 --> 01:03:22.440]   because that's not going to work.
+[01:03:22.440 --> 01:03:25.520]   It would have to be deassembled.
+[01:03:25.520 --> 01:03:28.560]   So just take it apart and then put it in.
+[01:03:28.560 --> 01:03:30.640]   And if you want to do that,
+[01:03:30.640 --> 01:03:33.080]   don't do it with a quantum block.
+[01:03:33.080 --> 01:03:35.440]   Unless you want to stop using a quantum block
+[01:03:35.440 --> 01:03:38.720]   for the applications of frequency medicine
+[01:03:38.720 --> 01:03:42.720]   and, you know, neutralizing pharmaceuticals.
+[01:03:42.720 --> 01:03:44.080]   - Yeah, yeah.
+[01:03:44.080 --> 01:03:48.120]   - If you have, you know, an infinity block package,
+[01:03:48.120 --> 01:03:50.600]   you know, that's also kind of a difficult thing
+[01:03:50.600 --> 01:03:55.600]   because you're getting out of the role of the usual upgrades.
+[01:03:55.600 --> 01:03:57.120]   But if you want to do that,
+[01:03:57.120 --> 01:04:00.720]   then, you know, everyone is a free and welcome to.
+[01:04:00.720 --> 01:04:03.720]   It's just that we cannot provide any guidance
+[01:04:03.720 --> 01:04:08.720]   anymore or levels because that's something we just,
+[01:04:08.720 --> 01:04:11.760]   yeah, can't do on an individual basis.
+[01:04:11.760 --> 01:04:13.520]   - Okay, so if you just took the plates,
+[01:04:13.520 --> 01:04:16.400]   if you took the rods off, put the plates in it,
+[01:04:16.400 --> 01:04:18.000]   no matter which, you know, first of all,
+[01:04:18.000 --> 01:04:20.240]   you shouldn't do that to your quantum block.
+[01:04:20.240 --> 01:04:22.200]   But if you have an infinity or travel,
+[01:04:22.200 --> 01:04:23.720]   if you take the rods off,
+[01:04:23.720 --> 01:04:25.520]   put the plates in the ground block,
+[01:04:25.520 --> 01:04:26.840]   you're going to upgrade it,
+[01:04:26.840 --> 01:04:30.160]   but we don't know what generation it's going to end up being,
+[01:04:30.160 --> 01:04:31.560]   but it will definitely upgrade it.
+[01:04:31.560 --> 01:04:33.000]   And then at the same time, you know,
+[01:04:33.000 --> 01:04:35.640]   if I were to take my infinity block plates
+[01:04:35.640 --> 01:04:37.600]   and put it in the ground block,
+[01:04:37.600 --> 01:04:39.960]   would those infinity block plates pick up
+[01:04:39.960 --> 01:04:41.440]   that harmonizing feature?
+[01:04:41.440 --> 01:04:45.040]   Or would it just go, it would just--
+[01:04:45.040 --> 01:04:47.920]   - They should, they should, they should, yes.
+[01:04:47.920 --> 01:04:49.480]   But with an infinity block,
+[01:04:49.480 --> 01:04:51.440]   you want to be very, very careful, you know,
+[01:04:51.440 --> 01:04:53.920]   if you want to charge that in the ground block,
+[01:04:53.920 --> 01:04:57.360]   I would probably not go over 30 minutes
+[01:04:57.360 --> 01:04:59.520]   because it probably will be absolutely
+[01:04:59.520 --> 01:05:01.520]   overwhelming and strong.
+[01:05:01.520 --> 01:05:03.160]   - Yeah, yeah, okay, so there's, you know,
+[01:05:03.160 --> 01:05:05.400]   so proceed with caution, it works,
+[01:05:05.400 --> 01:05:08.040]   but if you did that, you're sort of on your own
+[01:05:08.040 --> 01:05:11.280]   as to where you fall in the scale of things
+[01:05:11.280 --> 01:05:13.080]   and no one will know what you end up with
+[01:05:13.080 --> 01:05:16.160]   and that will affect all of the different guidance
+[01:05:16.160 --> 01:05:17.320]   that we, you know, we create
+[01:05:17.320 --> 01:05:18.840]   'cause all of this kind of comes from testing.
+[01:05:18.840 --> 01:05:20.920]   So just keep that in mind, it is possible
+[01:05:20.920 --> 01:05:23.080]   if you want a stronger block,
+[01:05:23.080 --> 01:05:25.800]   but again, we don't know what you're going to end up with
+[01:05:25.800 --> 01:05:29.120]   and how that'll affect copy times and charging times, okay?
+[01:05:29.120 --> 01:05:31.280]   The last question here then was another question
+[01:05:31.280 --> 01:05:33.160]   that we seem to get now when we're talking about
+[01:05:33.160 --> 01:05:35.120]   the ground block being so much stronger
+[01:05:35.120 --> 01:05:37.400]   in conscious levels is, the question is,
+[01:05:37.400 --> 01:05:39.840]   is how many generations of upgrades
+[01:05:39.840 --> 01:05:43.280]   for an infinity block would equal a ground block?
+[01:05:43.280 --> 01:05:47.320]   Like if I, you know, 'cause I got, I start off with 733
+[01:05:47.320 --> 01:05:49.320]   and I keep upgrading it one at a time, you know,
+[01:05:49.320 --> 01:05:53.600]   per your video, would it ever, even ever reach 2000?
+[01:05:53.600 --> 01:05:56.960]   Like I get up to like, you know,
+[01:05:56.960 --> 01:05:58.960]   generation 20 or something like that?
+[01:05:58.960 --> 01:06:00.480]   - Yeah.
+[01:06:00.480 --> 01:06:01.640]   - Okay, so it's possible.
+[01:06:01.640 --> 01:06:04.040]   - We know that the, yeah, so we know
+[01:06:04.040 --> 01:06:07.960]   that the basic infinity block is at roughly 733,
+[01:06:07.960 --> 01:06:11.600]   the fourth generation at 942 and if I'm not mistaken,
+[01:06:11.600 --> 01:06:16.040]   the seventh generation was at 1,050 more or less,
+[01:06:16.040 --> 01:06:18.680]   or 1,150, I can't remember, one of the two.
+[01:06:18.680 --> 01:06:22.600]   Maybe we had written that down somewhere
+[01:06:22.600 --> 01:06:27.200]   and now you can basically extrapolate from there
+[01:06:27.200 --> 01:06:31.040]   more or less and see more or less in which range
+[01:06:31.040 --> 01:06:36.040]   you'll be at, you know, at the 12th upgrade, 13th upgrade
+[01:06:37.600 --> 01:06:40.800]   and so on, but please keep in mind,
+[01:06:40.800 --> 01:06:43.880]   those higher levels you're going into
+[01:06:43.880 --> 01:06:46.640]   are gonna be way more difficult to take in
+[01:06:46.640 --> 01:06:50.320]   as the grant block.
+[01:06:50.320 --> 01:06:53.360]   It's gonna be a big difference actually in that regard
+[01:06:53.360 --> 01:06:56.200]   because it'll feel more rough.
+[01:06:56.200 --> 01:06:58.800]   - Yeah, 'cause there's, right,
+[01:06:58.800 --> 01:07:01.880]   because the infinity block doesn't have that special buffer.
+[01:07:01.880 --> 01:07:05.320]   So only, okay, so my recommendation, you know,
+[01:07:05.320 --> 01:07:08.680]   honestly on infinity block upgrades,
+[01:07:08.680 --> 01:07:10.720]   you know, what's your purpose for upgrading?
+[01:07:10.720 --> 01:07:12.880]   You know, I mean, obviously you wanna keep pace
+[01:07:12.880 --> 01:07:15.120]   with your own ascension and vibration
+[01:07:15.120 --> 01:07:18.720]   and you wanna keep increasing your infinity block strength,
+[01:07:18.720 --> 01:07:22.720]   but only do so at the pace by which you yourself
+[01:07:22.720 --> 01:07:24.680]   are ascending in vibration, right?
+[01:07:24.680 --> 01:07:27.000]   Phillip, because if you upgrade faster
+[01:07:27.000 --> 01:07:31.160]   than you are able to keep up with your block,
+[01:07:31.160 --> 01:07:34.040]   then automatically you will disconnect from your block.
+[01:07:34.040 --> 01:07:35.400]   Is that correct?
+[01:07:35.400 --> 01:07:36.840]   In terms of just warning people.
+[01:07:36.840 --> 01:07:38.680]   - Yeah, well said.
+[01:07:38.680 --> 01:07:40.960]   - Yeah, you'll end up disconnecting from it
+[01:07:40.960 --> 01:07:43.560]   and it'll take a long time to reconnect with it
+[01:07:43.560 --> 01:07:44.920]   from an entrainment standpoint.
+[01:07:44.920 --> 01:07:47.000]   So just go, again, you know, the recommendation
+[01:07:47.000 --> 01:07:49.760]   for infinity block upgrades, which also would apply
+[01:07:49.760 --> 01:07:52.720]   to if you put anything in the grant block is, you know,
+[01:07:52.720 --> 01:07:56.040]   take your time 'cause your body takes time.
+[01:07:56.040 --> 01:07:59.280]   You know, it's all nature and it needs time to adjust
+[01:07:59.280 --> 01:08:01.120]   and, you know, while everyone's always gung-ho
+[01:08:01.120 --> 01:08:03.680]   and they wanna try the next best thing,
+[01:08:03.680 --> 01:08:06.440]   more energy is not always better, right?
+[01:08:06.440 --> 01:08:08.360]   - Correct.
+[01:08:08.360 --> 01:08:10.040]   - If you're not ready for it.
+[01:08:10.040 --> 01:08:11.240]   So there you go.
+[01:08:11.240 --> 01:08:12.400]   But that's the end of the questions.
+[01:08:12.400 --> 01:08:14.280]   I know you're at the top of the hour and you gotta run,
+[01:08:14.280 --> 01:08:16.120]   so I just wanna say, hey, you know,
+[01:08:16.120 --> 01:08:18.480]   thank you so much for your time this morning.
+[01:08:18.480 --> 01:08:21.640]   These tutorials are so helpful for everyone that, you know,
+[01:08:21.640 --> 01:08:22.960]   has all these tons of questions
+[01:08:22.960 --> 01:08:25.280]   and I try to do my best plucking them out
+[01:08:25.280 --> 01:08:26.600]   and to address all of the things
+[01:08:26.600 --> 01:08:28.480]   that I know people are interested in.
+[01:08:28.480 --> 01:08:29.400]   So yeah, thanks, Phillip.
+[01:08:29.400 --> 01:08:30.840]   I really appreciate the clarification
+[01:08:30.840 --> 01:08:33.240]   that you provide in these tutorials.
+[01:08:33.240 --> 01:08:35.480]   - Well, thank you so much for taking the time
+[01:08:35.480 --> 01:08:38.560]   and to making these amazing tutorials
+[01:08:38.560 --> 01:08:42.200]   and you're serious about some of these effects
+[01:08:42.200 --> 01:08:44.160]   or just, that's so amazing.
+[01:08:44.160 --> 01:08:47.520]   So really, we're very, very grateful.
+[01:08:47.520 --> 01:08:49.160]   And the whole community is, you know,
+[01:08:49.160 --> 01:08:52.120]   I can really, I think I can speak to the whole community
+[01:08:52.120 --> 01:08:54.080]   or for the whole community about that.
+[01:08:54.080 --> 01:08:55.880]   - Hey, thanks.
+[01:08:55.880 --> 01:08:58.680]   You know, I look at myself as part of being
+[01:08:58.680 --> 01:09:02.640]   on this cutting edge of a new awakening, you know,
+[01:09:02.640 --> 01:09:04.360]   for our species, right?
+[01:09:04.360 --> 01:09:06.920]   Because of all of these, it's not just, you know,
+[01:09:06.920 --> 01:09:10.160]   Layla coming out with all of these incredible devices
+[01:09:10.160 --> 01:09:12.320]   and all this incredible, it's just,
+[01:09:12.320 --> 01:09:13.880]   it's happening across the board.
+[01:09:13.880 --> 01:09:16.720]   I'm watching an entire community of, you know,
+[01:09:16.720 --> 01:09:20.480]   biohackers and spiritualists and healers and, you know,
+[01:09:20.480 --> 01:09:22.600]   and it's just, it's like, we're all awakening
+[01:09:22.600 --> 01:09:24.960]   and it's, you know, it's in multiple different ways.
+[01:09:24.960 --> 01:09:26.600]   And Layla is one of the front runners.
+[01:09:26.600 --> 01:09:29.600]   And I really enjoy being like this little scribe
+[01:09:31.040 --> 01:09:32.960]   that tries to take this incredible work
+[01:09:32.960 --> 01:09:35.200]   that you're doing and document it
+[01:09:35.200 --> 01:09:37.200]   so that people can understand it
+[01:09:37.200 --> 01:09:39.400]   within the context that it really is presented.
+[01:09:39.400 --> 01:09:40.880]   And I find that fascinating.
+[01:09:40.880 --> 01:09:43.440]   And then I really enjoy adding to the work
+[01:09:43.440 --> 01:09:45.520]   and being the scribe, you know.
+[01:09:45.520 --> 01:09:48.040]   So, but anyway, so thank you very much, Philip,
+[01:09:48.040 --> 01:09:49.320]   for your time this morning.
+[01:09:49.320 --> 01:09:51.280]   And thank you out there for watching this video.
+[01:09:51.280 --> 01:09:53.480]   I hope this was helpful and you learned something.
+[01:09:53.480 --> 01:09:55.400]   If you ever have any questions at all, you know,
+[01:09:55.400 --> 01:09:56.680]   we're all on Telegram.
+[01:09:56.680 --> 01:09:59.000]   So there's, and you can find more information
+[01:09:59.000 --> 01:10:00.800]   on the Layla Quantum Tech website
+[01:10:00.800 --> 01:10:03.040]   by the way, all the links below to everything I mentioned
+[01:10:03.040 --> 01:10:04.440]   will be in the video description.
+[01:10:04.440 --> 01:10:06.840]   So you've got the Layla Quantum Tech website,
+[01:10:06.840 --> 01:10:08.520]   you've got the Quantum Upgrade website,
+[01:10:08.520 --> 01:10:10.400]   tons of information on both of those sites
+[01:10:10.400 --> 01:10:11.840]   about what those do.
+[01:10:11.840 --> 01:10:13.320]   Of course, there's the Tingers Academy.
+[01:10:13.320 --> 01:10:17.320]   I devoted an entire section of my blog to Quantum Upgrade.
+[01:10:17.320 --> 01:10:20.400]   You'll also find a list of all of the different tutorials
+[01:10:20.400 --> 01:10:21.600]   on my blog.
+[01:10:21.600 --> 01:10:23.520]   And then again, if you want to just ask a question
+[01:10:23.520 --> 01:10:26.120]   about any one of these services or anything going on
+[01:10:26.120 --> 01:10:27.120]   with the Tingers Academy,
+[01:10:27.120 --> 01:10:29.680]   each one of these three have their own Telegram chat groups.
+[01:10:29.680 --> 01:10:32.120]   So you can jump in there for a topic-specific question
+[01:10:32.120 --> 01:10:34.880]   and dialogue and discussion about anything you might need help
+[01:10:34.880 --> 01:10:37.120]   with or you have, you know, want some understanding for.
+[01:10:37.120 --> 01:10:38.280]   So feel free to reach out.
+[01:10:38.280 --> 01:10:40.200]   Links below to join the different Telegram groups
+[01:10:40.200 --> 01:10:41.560]   or visit the websites.
+[01:10:41.560 --> 01:10:43.360]   And again, you know, just really, thank you so much
+[01:10:43.360 --> 01:10:45.160]   for spending some time with Philip and I.
+[01:10:45.160 --> 01:10:48.040]   And I hope that this was helpful to you.
+[01:10:48.040 --> 01:10:50.560]   Any parting words, Philip?
+[01:10:50.560 --> 01:10:52.640]   - Well, thanks to everyone out there
+[01:10:52.640 --> 01:10:55.480]   being part of this wonderful, amazing community.
+[01:10:55.480 --> 01:10:58.560]   Thank you for your help in discovering new ways
+[01:10:58.560 --> 01:11:01.520]   of using the tech and spreading the word
+[01:11:01.520 --> 01:11:03.600]   and just being part of this great vibe.
+[01:11:03.600 --> 01:11:06.680]   And as, you know, Kay put it, you know,
+[01:11:06.680 --> 01:11:10.960]   we all are, you know, part of this awakening process.
+[01:11:10.960 --> 01:11:14.280]   We really all are each one of the members, you know,
+[01:11:14.280 --> 01:11:15.680]   whatever you're doing.
+[01:11:15.680 --> 01:11:17.400]   And certainly outside the group too,
+[01:11:17.400 --> 01:11:20.000]   there's lots of people and groups and companies
+[01:11:20.000 --> 01:11:22.000]   that are helping there.
+[01:11:22.000 --> 01:11:26.800]   And I like to see ourselves as midwives pretty much
+[01:11:26.800 --> 01:11:29.520]   in this whole awakening process.
+[01:11:29.520 --> 01:11:33.040]   And yeah, you know, let's keep doing our part.
+[01:11:33.040 --> 01:11:35.840]   And the good thing is, you know,
+[01:11:35.840 --> 01:11:39.040]   if we start with ourselves and then we put it out,
+[01:11:39.040 --> 01:11:41.040]   I think that's the way to go.
+[01:11:41.040 --> 01:11:45.560]   And now for everyone listening to this already today,
+[01:11:45.560 --> 01:11:49.800]   we may see you tomorrow in this powerful webinar
+[01:11:49.800 --> 01:11:51.880]   where we will do really a joint work,
+[01:11:51.880 --> 01:11:54.720]   which will be amazing and fascinating
+[01:11:54.720 --> 01:11:57.360]   and energetically touching for everyone.
+[01:11:57.360 --> 01:12:00.880]   I'm pretty sure and have a great weekend.
+[01:12:00.880 --> 01:12:02.000]   - All right, yeah, thank you.
+[01:12:02.000 --> 01:12:03.400]   And yeah, I'm really looking forward
+[01:12:03.400 --> 01:12:05.120]   to tomorrow's webinar.
+[01:12:05.120 --> 01:12:07.120]   All right, so everybody, thank you very much.
+[01:12:07.120 --> 01:12:09.400]   And we'll catch you later.
+[01:12:09.400 --> 01:12:14.460]   All right, thank you very much.
+

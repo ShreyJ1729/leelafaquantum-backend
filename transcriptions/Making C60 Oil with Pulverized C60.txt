@@ -1,0 +1,594 @@
+
+[00:00:00.000 --> 00:00:04.880]   Hello and welcome to another carbon-60 video by me, Kay Elmer, and in this video
+[00:00:04.880 --> 00:00:10.800]   I'll be talking about making C-60 oil with pulverized C-60. So before I jump in
+[00:00:10.800 --> 00:00:15.600]   let's talk about some disclaimers. C-60 oil is not approved for consumption by
+[00:00:15.600 --> 00:00:19.440]   the FDA. This is not medical or health advice. This material is for research
+[00:00:19.440 --> 00:00:23.920]   purposes only. This is not a product endorsement. I do not sell C-60 products
+[00:00:23.920 --> 00:00:28.320]   and I do not get paid in any way to do videos. Alright, so let's jump in. Hey,
+[00:00:28.320 --> 00:00:33.440]   what is pulverized C-60? Well, first of all, you get it from a company called Red Lion
+[00:00:33.440 --> 00:00:37.600]   and they're located in Ireland and from their website with how they describe
+[00:00:37.600 --> 00:00:43.280]   their pulverized C-60 is they take C-60, they pulverize it in an inert atmosphere,
+[00:00:43.280 --> 00:00:50.560]   millions of times pounded from about 60 to 70 hours. They claim that it's 100% water-free,
+[00:00:50.560 --> 00:00:57.120]   there's no toluene, which is a toxin that uses as a region to try to extract it and most other
+[00:00:57.120 --> 00:01:02.320]   companies use that to make their C-60, but this one doesn't have any in it so and there's also
+[00:01:02.320 --> 00:01:08.000]   they don't use any metal anywhere in the process, which is important because using metal in processes
+[00:01:08.000 --> 00:01:14.960]   usually leaves some a little bit of metal behind. So that's what it is and why would you want to
+[00:01:14.960 --> 00:01:21.200]   use it? Well, off of the website, the smaller a particle is, the easier it is to dissolve,
+[00:01:21.200 --> 00:01:25.680]   which is why sugar is granulated and I have to agree with that because I just did this huge
+[00:01:25.680 --> 00:01:31.600]   experiment dealing with pulverized C-60 and you actually can see the results at the end of the
+[00:01:31.600 --> 00:01:36.480]   video. So let's jump into what is it cost? So for those of you making it home and those of you
+[00:01:36.480 --> 00:01:43.600]   buying it commercially, really the materials costs are pretty low. Now Red Lion highly recommends
+[00:01:43.600 --> 00:01:50.240]   that you use a Coronnechi olive oil as opposed to other types of olives for them. Basically,
+[00:01:50.240 --> 00:01:54.400]   they tested a bunch of different olive oils and this is the one they said works the best.
+[00:01:55.440 --> 00:01:59.920]   And I got mine from Elora Farms. I usually work in 500 milliliter batches,
+[00:01:59.920 --> 00:02:06.880]   so this is the size of the batch. The cost for the olive oil at 500 milliliters 1174.
+[00:02:06.880 --> 00:02:13.280]   The pulverized C-60 at, you know, half a gram or 500 milligrams, it was only 3350,
+[00:02:13.280 --> 00:02:19.440]   I'm 3340, but that's when I was, you know, you buy 5 grams at a time. So if you buy,
+[00:02:19.440 --> 00:02:24.240]   the more you buy, obviously the cheaper it gets per gram. So it's only 3340 and then the total was
+[00:02:24.240 --> 00:02:31.920]   4514 for a 500 milliliter batch. So for those of you doing math and/or buying these little bottles
+[00:02:31.920 --> 00:02:39.440]   of it at a time, the 30 milliliter bottle, it only comes out to $2.71 per ounce, basically or 30
+[00:02:39.440 --> 00:02:45.360]   milliliters. And if you recall from the pricing guide, the starting price of a commercial product,
+[00:02:46.240 --> 00:02:52.560]   four C-60 in oil, runs around a little over six bucks. So, you know, making yourself right here
+[00:02:52.560 --> 00:02:58.880]   is literally, you can save half. And then of course, if you buy it from Red Lion,
+[00:02:58.880 --> 00:03:04.720]   theirs comes out to $29.96 if you, you know, with shipping. So you can imagine where, you know,
+[00:03:04.720 --> 00:03:11.360]   if you make it yourself, it's $2.71 or you can buy it for $29.96. But there's a reason that you would
+[00:03:11.360 --> 00:03:16.800]   want to buy it as opposed to make it and just keep watching. Okay, now that's just the materials
+[00:03:16.800 --> 00:03:21.360]   cost. Let's talk about the equipment. So the thing about the equipment, and this is a lot more
+[00:03:21.360 --> 00:03:29.840]   complicated than making C-60 with powdered C-60. For the reason being that it's pulverized,
+[00:03:29.840 --> 00:03:35.440]   it comes in, it's liquid, it's like mud and liquid. So there's a lot of extra steps. And
+[00:03:35.440 --> 00:03:41.200]   there's a lot of extra equipment. So what you really need is you need a beaker, you need a flask,
+[00:03:41.200 --> 00:03:45.200]   of course, you have to have your stirrer. And that's normally where you would stop if you were
+[00:03:45.200 --> 00:03:51.360]   going to make stuff at home. But if you want to go a little further using an ultrasonic cleaner
+[00:03:51.360 --> 00:03:57.840]   that'll sonicate the solution, you definitely would need to have vacuum filtration kit with the
+[00:03:57.840 --> 00:04:03.280]   filters and a vacuum filtration pump. So if you want to make this as home, this is the equipment
+[00:04:03.280 --> 00:04:09.120]   you're going to need. And oh, by the way, everything has got a link to it below the video. All the
+[00:04:09.120 --> 00:04:13.440]   materials, all the instructions, all of the equipment. Okay. So if you want to actually do
+[00:04:13.440 --> 00:04:21.120]   this, go to the video description. So the total for the equipment is $356.35. And that's as of like
+[00:04:21.120 --> 00:04:26.240]   a few days ago that I checked out the links. So here's the thing is right over here is that's
+[00:04:26.240 --> 00:04:32.800]   about 12 bottles of red line if you were just to go buy it off the website. So the idea here is,
+[00:04:32.800 --> 00:04:39.280]   okay, well, if you're going to consume more than 12 bottles, then you might as well make it yourself
+[00:04:39.280 --> 00:04:44.720]   if you're cost conscious or if you don't really have a concern about, you know, a few bucks here
+[00:04:44.720 --> 00:04:50.960]   and there, then buy it commercially. But it's about a 12 bottle return on investment. So for me,
+[00:04:50.960 --> 00:04:56.800]   my dog and myself take it, we down about a bottle a day. So I mean, no brainer. I mean,
+[00:04:56.800 --> 00:05:02.480]   I bought the equipment, bought the materials and I'm definitely, you know, spending a lot less. So,
+[00:05:02.480 --> 00:05:08.480]   but it's not for the weary. I mean, it's a lot, you'll see how much work goes into it. But you can
+[00:05:08.480 --> 00:05:13.360]   definitely, if you're not going to take a lot of it, then I would suggest you buy it commercially
+[00:05:13.360 --> 00:05:19.200]   directly from the website. But if you take a lot of it, then buy the raw C60, the pulverized and
+[00:05:19.200 --> 00:05:24.080]   make your own, you could save yourself some money if you want to. So that's kind of how that works.
+[00:05:24.080 --> 00:05:29.440]   So let's talk about making it. First thing is, is cautions. And this is something I learned
+[00:05:29.440 --> 00:05:35.200]   the hard way that I'll explain later. Why there are cautions? Because, you know, when you make it
+[00:05:35.200 --> 00:05:39.680]   with powder, you pretty much just add it to the oil stir for a couple of weeks. You're done, right?
+[00:05:39.680 --> 00:05:46.960]   Or not so much with pulverized C60. There's a couple of things, a few things you really need
+[00:05:46.960 --> 00:05:53.840]   to pay attention to when you're using pulverized C60. And the first one is minimize the exposure
+[00:05:53.840 --> 00:06:03.200]   of the C60 to air. Now it'll come in a little bottle. It's basically in pure alcohol, like 100%
+[00:06:03.200 --> 00:06:10.400]   pure alcohol. And so the C60 will be liquefied in this alcohol. So it's a liquid. And if you open
+[00:06:10.400 --> 00:06:14.960]   that thing up, the first thing that alcohol is going to do, because it's so pure, it's going to,
+[00:06:14.960 --> 00:06:20.080]   it's going to draw in as much water as it can from the, from the air. And then what's really
+[00:06:20.080 --> 00:06:25.600]   important is that the water could lead to contamination, because when it sits, all right,
+[00:06:25.600 --> 00:06:31.200]   the C60 is going to be on the bottom. The water will be on top of that, right? And then alcohol
+[00:06:31.200 --> 00:06:35.520]   on top of that, because of the way things weigh their densities. And that water trap between the
+[00:06:35.520 --> 00:06:43.600]   C60 and the alcohol could, if it gets contaminated with bacteria, could lead to bacterial, you know,
+[00:06:43.600 --> 00:06:49.600]   contamination. So you really want to make sure that you don't expose it to air and keep that to the
+[00:06:49.600 --> 00:06:52.960]   minimum. I mean, you have to when you open it, but don't like open it and leave it that way,
+[00:06:52.960 --> 00:06:58.960]   right? And if you can try to demutify the space that you're working in. So like when I use it,
+[00:06:58.960 --> 00:07:04.000]   I run the AC for like the whole day before I use it. So the house is just really dry from a
+[00:07:04.000 --> 00:07:08.400]   humidity standpoint, because I live in Hawaii and it's humid all the time. And so I try to make
+[00:07:08.400 --> 00:07:12.880]   sure that the living environment is dehumidified first before I open it. And when I open it, I open
+[00:07:12.880 --> 00:07:18.320]   it for very short period of time. The second thing is, is do not let it dry, because in its pulverized
+[00:07:18.320 --> 00:07:22.720]   state, C60 will rapidly oxidize. And what that means is it's going to just basically
+[00:07:22.720 --> 00:07:29.440]   attract oxygen and hydrogen molecules from the, from the air and hydroxylate itself. So you
+[00:07:29.440 --> 00:07:35.120]   end up with something that's a hydroxylated C60 molecule that's opposed to a C60 molecule.
+[00:07:35.120 --> 00:07:40.320]   So you want to, and you won't be the same thing. So you definitely don't want to let it dry. So
+[00:07:40.320 --> 00:07:45.280]   leave it in the alcohol and leave it in the bottle closed. And another thing is to protect your
+[00:07:45.280 --> 00:07:50.400]   eyes. Like as always with lab safety, keep your eye so I wear glasses. So no worries there. But
+[00:07:50.400 --> 00:07:55.520]   where I made my mistake was I got it on my skin. So you know, I want to just kind of mention that
+[00:07:55.520 --> 00:08:01.040]   you should not get it on your skin unless you want to. I'll explain that at the end. So you know,
+[00:08:01.040 --> 00:08:06.640]   wear gloves if you don't want to get it on your skin and suffer the consequences. And then also
+[00:08:06.640 --> 00:08:12.880]   keep it dark. Yeah, it's very sensitive. C60 is very sensitive to UV light. And so avoid light as
+[00:08:12.880 --> 00:08:17.760]   much as possible. Keep it dark. And you'll be good to go. So these are some cautions. It's not your
+[00:08:17.760 --> 00:08:24.000]   normal C60 product. So keep that in mind. Okay, now these are the steps and the instructions on how
+[00:08:24.000 --> 00:08:29.520]   do you make C60 with pulverized C60? I'm sorry, C60 oil with pulverized. All right, now per
+[00:08:29.520 --> 00:08:34.400]   red line, if you go to their website, link below in the video description. These are the eight
+[00:08:34.400 --> 00:08:41.680]   basic steps. And so what they're telling you to do is if you want to portion your C60 solution,
+[00:08:41.680 --> 00:08:46.640]   they explain how if you don't need to, I mean, they're basically saying, hey, just, you know,
+[00:08:46.640 --> 00:08:53.040]   it's one gram per liter. So if you have, if you buy a two gram bottle of it, just pour the two grams
+[00:08:53.040 --> 00:09:00.880]   into a two gram, you know, leader of a beaker of oil, right? Or if you have five liter, you know,
+[00:09:00.880 --> 00:09:07.120]   beaker just pour the whole five grams in, don't mess around, just dump it in. So that's, you know,
+[00:09:07.120 --> 00:09:12.080]   basically, but if you have only one, if you only do small batches at a time, I'll walk you through
+[00:09:12.080 --> 00:09:19.600]   that. The step two is you, once you add the C60, the pulverized C60 to the oil, do not stir it,
+[00:09:19.600 --> 00:09:26.000]   just let the alcohol rise to the top and just evaporate off. It is literally pure alcohol. It'll
+[00:09:26.000 --> 00:09:31.040]   evaporate very quickly. And then you just let it you stir for seven days on your magnetic stir,
+[00:09:31.920 --> 00:09:37.840]   then you sonicate at 21 kilohertz. This is, this is their instructions. Sonicate 21 kilohertz
+[00:09:37.840 --> 00:09:42.160]   four and then the number of minutes. I'll explain why that there is no consistent,
+[00:09:42.160 --> 00:09:47.040]   there is no known number of minutes because it really depends on what equipment you're using
+[00:09:47.040 --> 00:09:52.560]   and how much and et cetera. And so the step five is let it rest for 10 days,
+[00:09:52.560 --> 00:09:58.480]   then filter through a 25 micron vacuum filter, let it rest for another 10 days and filter through
+[00:09:58.480 --> 00:10:04.480]   10 micron through a 10 micron vacuum filter. And the reason you let it rest is because at this
+[00:10:04.480 --> 00:10:14.960]   small particle size of C60, it literally, it basically takes the sludge or the impurities
+[00:10:14.960 --> 00:10:20.240]   out of the oil. And so you need to let it rest to do that. And then you get rid of that,
+[00:10:20.240 --> 00:10:25.840]   those impurities in the oil when in the filtering process. And that's what was described in the
+[00:10:25.840 --> 00:10:30.960]   instructions. So here's the other thing though, on the right side over here is not all of us
+[00:10:30.960 --> 00:10:37.040]   are going to have all the exact same equipment that Redline suggests to have and/or Redline has.
+[00:10:37.040 --> 00:10:44.320]   So I've had to adapt the instructions to the equipment that I have on hand. And the equipment
+[00:10:44.320 --> 00:10:50.880]   that I have on hand is set up for using C60 powder to make my C60 oil, which I've been doing for
+[00:10:50.880 --> 00:10:56.560]   months. So what I did was, I basically kind of took the same route with in terms of portioning.
+[00:10:56.560 --> 00:11:02.800]   I just shook the bottle up, poured into the oil, don't stir it, let it the alcohol evaporate step
+[00:11:02.800 --> 00:11:08.800]   too. And then basically I split it into even batches, but then I stirred for seven days
+[00:11:08.800 --> 00:11:15.360]   like you're supposed to. And then I saunicated, I did it at 20 kilohertz because that's what my
+[00:11:15.360 --> 00:11:21.360]   machine does. And for the amount of minutes I've been playing with it, Martin at Redline told me
+[00:11:21.360 --> 00:11:27.520]   basically just try different lengths of time until you find that little sweet spot. And so I've
+[00:11:27.520 --> 00:11:33.600]   been doing it and I've run it at, I've run an olive oil batch at 15, a sunflower batch at 30
+[00:11:33.600 --> 00:11:39.680]   and an avocado batch at 30 and 45. I'm just trying to figure out what's the sweet spot. And I'll show
+[00:11:39.680 --> 00:11:44.000]   you later how you can tell whether or not you're doing it right. And then let it rest for 10 days.
+[00:11:44.000 --> 00:11:50.000]   And then I filtered through a .22 micron vacuum filter because those are the filters that I have
+[00:11:50.000 --> 00:11:57.040]   on hand. So that's my adapted, the video you're going to see coming up is the equipment and the
+[00:11:57.040 --> 00:12:03.920]   way that I did it. And so the next piece is, let me just walk you through the steps before I show
+[00:12:03.920 --> 00:12:09.200]   the video, because there's a little bit more you need to know about the basic steps, which is really
+[00:12:09.200 --> 00:12:15.920]   three basic steps, right? Add the oil, stir it, sonicate it, filter it, you're pretty much done.
+[00:12:15.920 --> 00:12:24.000]   So there's two basic ways to portion the pulverized C60 from how you get it. And the recommended way
+[00:12:24.000 --> 00:12:30.640]   is to, you know, basically, it's you're going to get it one gram of C60 per 10 milliliters of alcohol.
+[00:12:30.640 --> 00:12:34.960]   So if you get like a two gram bottle, it's going to have 20 milliliters of fluid in there.
+[00:12:36.240 --> 00:12:42.960]   And so they're recommending that you use a syringe to extract it. And to use a little tube,
+[00:12:42.960 --> 00:12:47.680]   I found that using a blunt needle is way easier because it's a much smaller diameter
+[00:12:47.680 --> 00:12:55.840]   in terms of a tube, basically. So that's what I've done to make a different to adapt it to that.
+[00:12:55.840 --> 00:13:01.440]   But basically, you can either just take out half of it. And you know, if you only want, if you have
+[00:13:01.440 --> 00:13:06.480]   a two gram bottle, for example, you could take half of it out with a syringe and just put it into
+[00:13:06.480 --> 00:13:12.400]   your beaker, your one liter beaker for a one gram per one liter beaker, right? Or if you have
+[00:13:12.400 --> 00:13:17.760]   a two liter beaker, you can pour the whole thing. Now, the thing that is the simplest thing to do,
+[00:13:17.760 --> 00:13:23.760]   which is also one of the possibilities is number two, which is just pour the whole thing. Let's say
+[00:13:23.760 --> 00:13:31.760]   you have a two gram slash 20 milliliter bottle of C60, the pulverized kind. And why not just pour
+[00:13:31.760 --> 00:13:36.400]   it into a beaker, let's say, you know, 1000 milliliter beaker, you pour the whole thing in here. So
+[00:13:36.400 --> 00:13:41.360]   you have two grams in the first one, you let the alcohol evaporate overnight, stir it up for five
+[00:13:41.360 --> 00:13:46.640]   minutes so that it's really good. And it's basically like a concentrate, you know, and then just pour
+[00:13:46.640 --> 00:13:51.280]   this half into an empty beaker. So then you have a half and a half, and then fill this one up,
+[00:13:51.280 --> 00:13:57.440]   fill this one up, and you've got two 1000 milliliter beakers with one gram each in it. And that's
+[00:13:57.440 --> 00:14:01.360]   actually the simplest thing you don't need a syringe, you don't need to mess around.
+[00:14:01.360 --> 00:14:08.080]   You just pour it all in one, you know, let it evaporate off and boom, you're good. So I highly
+[00:14:08.080 --> 00:14:13.840]   recommend that you guys just keep it simple and do it this way. And if you have the five gram bottle,
+[00:14:13.840 --> 00:14:19.280]   it's the same thing, you know, you just split it up. And then so everything is equal when you're done.
+[00:14:20.080 --> 00:14:25.360]   So it is the simplest way, because the little mishap that I had was messing around with syringes.
+[00:14:25.360 --> 00:14:30.880]   So, and then the prior to that, I was messing around with spoons, which is a whole other subject.
+[00:14:30.880 --> 00:14:36.400]   And so, you know, it just take my word for it. It's simple. Just pour it all into one and
+[00:14:36.400 --> 00:14:43.920]   make a concentrate and then split it up. So that's how I recommend portioning your pulver I C60.
+[00:14:43.920 --> 00:14:48.560]   Now the next thing that you need to think about is this is sonication. And when you sonicate the
+[00:14:48.560 --> 00:14:54.240]   C60, this is what I was alluding to earlier, is that based on your equipment specifications,
+[00:14:54.240 --> 00:14:59.520]   it's going to be really different for you. And you're really, you just have to play with it. So,
+[00:14:59.520 --> 00:15:04.640]   to kind of just show you this, I was just emailing back and forth with Martin. And what they,
+[00:15:04.640 --> 00:15:11.920]   what he said he uses got a 36 liter unit that 700 watts and he can tune that puppy to 21,
+[00:15:11.920 --> 00:15:17.200]   you know, specifically on the dial kind of thing. So he can get just to the specific
+[00:15:17.200 --> 00:15:23.200]   kilohertz. And he's just got this huge powerful machine. He didn't tell me, you know, in terms of
+[00:15:23.200 --> 00:15:28.960]   what temperature, but he alludes to it in one of his blog posts about using heat to increase
+[00:15:28.960 --> 00:15:34.080]   solubility. And he called that cheating. So I'm assuming that Martin does it at room temperature.
+[00:15:34.080 --> 00:15:40.000]   That's about all I can ever get out of him. And you know, it's his secret sauce. So I respect that.
+[00:15:40.000 --> 00:15:44.720]   Now with my machine, which doesn't have a cool name like red line, it's this bizarre code.
+[00:15:45.520 --> 00:15:49.840]   It's a three liter machine that I bought off of eBay. There's a link in the video description.
+[00:15:49.840 --> 00:15:54.640]   And it has a range of power. So I can set the power from one to five,
+[00:15:54.640 --> 00:16:01.120]   five being the highest, which is 70 watts, which is literally one tenth of Martin's machine.
+[00:16:01.120 --> 00:16:06.720]   And then the cool part though, is I did find it does 20 or 40 kilohertz. And that's the frequency
+[00:16:06.720 --> 00:16:11.440]   that it vibrates, right? And then it has a timer on it. I can go up to 60 minutes and
+[00:16:11.440 --> 00:16:16.160]   believe me, timers that go that long are just the gods and when you've been using little
+[00:16:16.160 --> 00:16:21.920]   80 bitty ones for forever and ever. And then the temperature, if you want to use the heater,
+[00:16:21.920 --> 00:16:28.240]   if you want, which according to Martin is cheating, if you want to, you can you can go from 125 to
+[00:16:28.240 --> 00:16:34.080]   175 degrees Fahrenheit. So that's what the machine does. Now the adapted, this is what I did.
+[00:16:35.440 --> 00:16:42.000]   I basically, every time I use it, I turn it to the top power. So I go to level five,
+[00:16:42.000 --> 00:16:47.040]   which is 70 watts. I use the lower frequency, because that's Martin's recommendation is,
+[00:16:47.040 --> 00:16:52.560]   I got as close as I could to 21, which was 20. And then as I mentioned, I've been trying different
+[00:16:52.560 --> 00:16:57.920]   lengths of time to see what, you know, what works best. And then the thing about temperature,
+[00:16:57.920 --> 00:17:03.120]   and this is what's really important. When you start using these things, is these things heat up
+[00:17:03.120 --> 00:17:07.120]   the longer they run. So what I've been doing, and you'll see in the video,
+[00:17:07.120 --> 00:17:12.000]   when I made a batch at 30 minutes, I knew I kind of was ting, I've been tinkering with this thing
+[00:17:12.000 --> 00:17:18.320]   for weeks. I knew that if I set it low, like at 50 degrees, that the thing would just heat it by
+[00:17:18.320 --> 00:17:24.800]   itself, even if I had the heater off, and it does. And so it heats back up. So my, my sweet spot is,
+[00:17:24.800 --> 00:17:31.360]   I try to go for the human body temperature of 99 98.6, right? So I'll start off with water
+[00:17:32.000 --> 00:17:36.080]   that it sets around the, you know, the human body. So in other words, warm water, you put your
+[00:17:36.080 --> 00:17:41.120]   finger in and you don't feel anything. That's your body temperature. So I put that warmth of water
+[00:17:41.120 --> 00:17:47.040]   in there, and it pretty much stays at this. But when you are doing something this long, I'll put in
+[00:17:47.040 --> 00:17:53.760]   like cooler tap water, not cold, but cool. And the thing will just heat right back up to 90 100
+[00:17:53.760 --> 00:17:59.200]   degrees. So this is kind of the sweet spot that I try to stay in on the temperature. And so in
+[00:17:59.200 --> 00:18:02.720]   other words, if you're going to run it longer, you want to run it the colder you want, colder you
+[00:18:02.720 --> 00:18:08.480]   want the water to start off with because it will go up in temperature. Okay. Now the thing about
+[00:18:08.480 --> 00:18:12.640]   filters that you should know about, and that's your step six and step eight on the red line
+[00:18:12.640 --> 00:18:19.600]   instructions, is this over here on the right side is how when you're using powdered C 60,
+[00:18:19.600 --> 00:18:24.000]   this is your rig. Basically, you've got the filter pump, and it's plugged into this filter.
+[00:18:24.640 --> 00:18:29.200]   These are disposable filters. They're like, they're less than seven bucks each, if you buy it by the
+[00:18:29.200 --> 00:18:33.680]   case, and you just throw them away when you're done, which I kind of like have been disposable,
+[00:18:33.680 --> 00:18:37.760]   not really green for the planet. But you know, that's just what I started with. It's kind of
+[00:18:37.760 --> 00:18:44.240]   the total sin method, because that is the first guy that ever made that video. And so I use his
+[00:18:44.240 --> 00:18:49.520]   method, I just use these disposables. And basically, it's the funnel you fill it in, the filters right
+[00:18:49.520 --> 00:18:53.920]   in between the funnel and the filter actually the filters at the bottom of the funnel,
+[00:18:53.920 --> 00:18:58.160]   you screw this onto the bottle, it comes that way actually, and with a reservoir bottle. And that's
+[00:18:58.160 --> 00:19:02.480]   pretty much it. You know, you just plug the tube in the ear, turn the thing on, or pour this, you
+[00:19:02.480 --> 00:19:08.080]   know, and then boom, you're going and it's a .22 micron filter. And that's what's recommended,
+[00:19:08.080 --> 00:19:13.200]   because that was the filter size in the rat study that everybody, you know, tries to replicate.
+[00:19:13.200 --> 00:19:20.320]   Now, here's the thing. Using pulver I C 60, it's recommended that you filter it twice because of
+[00:19:20.320 --> 00:19:27.440]   that that the action of the pulver I C 60 pulling out impurities from the oil. And so basically,
+[00:19:27.440 --> 00:19:33.680]   the recommendation and the instructions is to first use a 25 micron filter. And then you let it sit
+[00:19:33.680 --> 00:19:38.080]   for another 10 days and then do it again with a 10, which is interesting because over here, you
+[00:19:38.080 --> 00:19:43.760]   know, your powder is you're going really tiny, but over here it's 10, you know. And so the idea is
+[00:19:43.760 --> 00:19:48.720]   you're you're just basically going to take all that that olive oil sludge or whatever oil you're
+[00:19:48.720 --> 00:19:55.120]   using. And so but it's the same rig. And I use this because that's all I had at the time I did this
+[00:19:55.120 --> 00:20:01.600]   stuff. But I've now since ordered this because I realized that I really liked the whole quality
+[00:20:01.600 --> 00:20:06.720]   of the oil. And so I actually went and bought this rig. Now this rig right here without the pump,
+[00:20:06.720 --> 00:20:11.280]   it's like 68 bucks on Amazon. So it's not that expensive. Plus about, you know, each one of these
+[00:20:11.280 --> 00:20:15.600]   boxes of filters you get 100 of them, you know, it's about eight or 10 bucks. So it's not a lot,
+[00:20:15.600 --> 00:20:20.560]   like 90 some bucks for the whole rig. It's the funnel. It's the flask just like it. The filters
+[00:20:20.560 --> 00:20:24.960]   in this little section here. And this clamp is what holds the filter. I mean, the funnel and the
+[00:20:24.960 --> 00:20:28.880]   flasks together. So you have to have the clamp. And of course, you've got your $40 vacuum pump,
+[00:20:28.880 --> 00:20:32.960]   plug it in here. And by the way, if you have a food saver, you know, in those little vacuum
+[00:20:32.960 --> 00:20:36.800]   things for food, you can use that too. That thing has a hose, you can use that just as well.
+[00:20:36.800 --> 00:20:41.520]   It's the same thing. So you just, you know, plug the thing in. And there you go. And then it's
+[00:20:41.520 --> 00:20:46.960]   once you've once you own this, it's not disposable. So you reuse it constantly, which is awesome.
+[00:20:46.960 --> 00:20:50.560]   And you just throw away the filters. And the filters are really cheap. So I'm actually going
+[00:20:50.560 --> 00:20:55.360]   to go this route going forward. And once I get it, that's pretty much what I'm going to use.
+[00:20:55.360 --> 00:21:00.240]   And once I use these guys up, I'll be just pretty much using this. So so I use this over here.
+[00:21:00.240 --> 00:21:04.640]   This is what I used in the experiment that you'll see. But I'm switching to this once I run out of
+[00:21:04.640 --> 00:21:09.520]   those. And I recommend that this is probably the way to go. If you are going to be doing this
+[00:21:09.520 --> 00:21:14.880]   more than 12 bottles, right? So it's something to think about. So let's go ahead and take a look
+[00:21:14.880 --> 00:21:21.120]   at the video. I'll kind of walk you through it. This is the jar, the 5 gram jar. This is one of
+[00:21:21.120 --> 00:21:27.840]   my sample 500. I think that's like avocado oil or something. Forgot what it was. And so basically,
+[00:21:27.840 --> 00:21:32.240]   it's just a matter of I poured a little bit of oil in here and, you know, just to get it really
+[00:21:32.240 --> 00:21:39.600]   good and shook it up like crazy. Poured the C60, pulverized C60. You take a look at it. It is
+[00:21:39.600 --> 00:21:45.920]   literally like Hershey's chocolate syrup. It is thick and muddy and gooey. And you just pour it
+[00:21:45.920 --> 00:21:54.400]   into the into your beaker. And then then just this is the key. Don't stir it. Just leave it alone.
+[00:21:54.400 --> 00:21:58.160]   And you see that right there? You see I'm just going to stop. You see this? All that stuff right
+[00:21:58.160 --> 00:22:02.800]   there? That's the alcohol floating to the top. Now just leave it alone and it'll do its thing.
+[00:22:02.800 --> 00:22:07.040]   You can see it moving. You see that? And so all that alcohol is moving to the top.
+[00:22:07.040 --> 00:22:11.600]   Leave it alone. And then what I figured and this is I'm just I don't know what the exact timing is
+[00:22:11.600 --> 00:22:18.320]   but I just decided I'll just let it can sit overnight. So I put a cheesecloth over the top and I just
+[00:22:18.320 --> 00:22:24.560]   sit it on I just sit it in my shelf. My my this is why I have a whole shelf of these things lined up
+[00:22:24.560 --> 00:22:30.400]   to do my stirring. So I just cover it with cheesecloth overnight and the very next morning you don't
+[00:22:30.400 --> 00:22:35.120]   see it anymore. It's gone. The alcohol is gone. And then I replace it with a Ziploc bag so that
+[00:22:35.120 --> 00:22:39.760]   nothing nothing else. So at that point I just cover it up with the Ziploc. Turn on the stir
+[00:22:39.760 --> 00:22:45.040]   and let it stir for a week. So after it's been stirring for a week take it out of the shelf.
+[00:22:45.040 --> 00:22:50.000]   And then here we go. This is my sunflower batch. I take it out of the beaker. Now check out that
+[00:22:50.000 --> 00:22:56.080]   color too. It's pretty cool. It's starting to turn red. Right. So I take out the out of the beaker
+[00:22:56.080 --> 00:23:02.080]   into the flask. Now the reason I'm moving it into a flask is because when you're sticking it in the
+[00:23:02.080 --> 00:23:08.000]   ultrasonic cleaner you want it to be in a flask. Okay. Because you know you can just you can just
+[00:23:08.000 --> 00:23:12.960]   tell it's obvious why you wanted to be in a flask. And so here's the thing right there is you this
+[00:23:12.960 --> 00:23:19.840]   is a three liter. This is a three liter ultrasonic cleaner with water up to the line of where the
+[00:23:19.840 --> 00:23:25.120]   oil is once you put the flask in. Okay. And so it's really I think I don't know how much exact water
+[00:23:25.120 --> 00:23:30.560]   is in here but just put enough water in so it fills up to the 500 millimeter line. All right. And the
+[00:23:30.560 --> 00:23:36.160]   500 millimeter flask is perfect for this size of machine. So like I said I do everything in 500
+[00:23:36.160 --> 00:23:40.720]   millimeter batches. And so that's the kind of the thing you need to know about is water and the
+[00:23:40.720 --> 00:23:46.000]   whole thing. So once you put the flask inside let me kind of walk you through how to how to set
+[00:23:46.000 --> 00:23:51.280]   this machine up. It's a little different than other ones. So the modes are this. This is the
+[00:23:51.280 --> 00:23:57.600]   first mode is to set the time. So this was my 30 minute test. I switched to temperature. It's just
+[00:23:57.600 --> 00:24:02.800]   I tried to turn it down because I just I just finished running a bat. So the temperature was high.
+[00:24:02.800 --> 00:24:07.600]   So I set it down to 50 and you'll see later in the video you'll see that thing spike back up to 40.
+[00:24:07.600 --> 00:24:12.160]   I'm sorry 40 degrees more. And then the power mode is this. So this is the power mode. It goes
+[00:24:12.160 --> 00:24:17.200]   one to five. Five is the highest and that's going to be your 70 watts. And then the next thing
+[00:24:17.200 --> 00:24:22.640]   right there is it's only got high or low in terms of frequency. Of course low is the 20 degree,
+[00:24:22.640 --> 00:24:29.360]   sorry 20 kilohertz than the high. If it says hi it's obviously the 40 kilohertz. So I set it to
+[00:24:29.360 --> 00:24:34.320]   low which is 20 and then just turn it on. So once it's turned on you kind of just take a peek at it.
+[00:24:34.320 --> 00:24:40.560]   Obviously it's it's running. You can kind of hear it running. It's that sound. And all the bubbles
+[00:24:40.560 --> 00:24:44.720]   just start floating up to the top. That's the first thing you're going to see. And then I just let
+[00:24:44.720 --> 00:24:50.000]   this thing just run for 30 minutes. The only thing about this when it's running is that you just
+[00:24:50.000 --> 00:24:54.560]   really don't want to be around it because it'll just jar your teeth if you've got fillings in your
+[00:24:54.560 --> 00:25:00.240]   mouth. So it's tough. It's it's you don't want to be around that thing. But anyway, so that's it.
+[00:25:00.240 --> 00:25:05.600]   I pulled the the oil out and there it is. That's the sunflower batch. I did two. The first one was
+[00:25:05.600 --> 00:25:10.800]   olive oil. This was the second batch. And this is the color out of the sonic out of the ultrasonic
+[00:25:10.800 --> 00:25:16.320]   cleaner. And then of course what's the next step? The next step is to let it sit for 10 days. So after
+[00:25:16.320 --> 00:25:23.600]   the 10th day I went ahead and filtered it. And so this is the throw away the disposable filter. That's
+[00:25:23.600 --> 00:25:28.880]   the pump. It plugs right in here right in the middle. This adapter comes with the the adapter.
+[00:25:28.880 --> 00:25:34.480]   This little white thing comes with the filter. Okay. And so basically just take your off your
+[00:25:34.480 --> 00:25:39.120]   olive. This is my olive oil. This is my first batch of running through the filter. It's this
+[00:25:39.120 --> 00:25:46.080]   is actually a 500 milliliter filter. So once I do 1 500 milliliters, throw it away and get another
+[00:25:46.080 --> 00:25:51.760]   one for the next 500, right? You'll see why the filter gets clogged. And so pour it in, cover it
+[00:25:51.760 --> 00:25:57.200]   up, turn on the machine. This is the little switch right there to turn it on. And once you've got
+[00:25:57.200 --> 00:26:04.960]   your machine running, click. There you go. And then you wait. Yeah, I timed it. It's almost
+[00:26:04.960 --> 00:26:12.080]   approximately 90 minutes for the vacuum to suck all the air out of the bottom, which draws the oil
+[00:26:12.080 --> 00:26:16.880]   into the bottom part, right? And then after 90 minutes, this is what it looks like. So you see
+[00:26:16.880 --> 00:26:23.520]   now it's turned from white to beige or whatever brownish color. And that brownish color now is
+[00:26:23.520 --> 00:26:29.200]   essentially all the impurities of the oil that the C60 has drawn out of it. And it's now stuck
+[00:26:29.200 --> 00:26:35.600]   into that filter. That filter right there, I actually tried an experiment or I just, I got,
+[00:26:35.600 --> 00:26:40.320]   I emptied the reservoir bottle into my Myron bottle, which is you saw that purple thing. And
+[00:26:40.320 --> 00:26:45.520]   then I just wanted to run an experiment. So I poured just any kind oil into that, into the
+[00:26:45.520 --> 00:26:50.400]   same filter. And I tried to run it. And it wouldn't even go through. I waited an hour and nothing
+[00:26:50.400 --> 00:26:55.680]   happened, just to see, you know, is the is the filter clogged. So yes, I mean, a little bit came
+[00:26:55.680 --> 00:27:01.040]   out. So the filter is at that point is clogged. You can't use it again. It's gone. So then at that
+[00:27:01.040 --> 00:27:05.760]   point, I just go ahead and port right into the Myron bottles. And if you're not familiar with
+[00:27:05.760 --> 00:27:13.760]   Myron M-I-R-O-N, these are UV protective bottles. So it's, you know, you want to store your C60
+[00:27:13.760 --> 00:27:19.280]   product in a bottle that no UV can get through. And these are the absolute best bottles. So this
+[00:27:19.280 --> 00:27:24.320]   is a one liter Myron bottle. And that's what I store all my C60 in. So that was it. I added it
+[00:27:24.320 --> 00:27:30.400]   to that. And so this is the, the first batch. Now this is the olive oil that was sonicated for
+[00:27:30.400 --> 00:27:35.920]   15 minutes and then filtered through the filter you just saw. And this is the color comparison.
+[00:27:35.920 --> 00:27:40.720]   This is the color of just the olive oil by itself without doing anything. And this is what happens
+[00:27:40.720 --> 00:27:45.600]   after I added the, the pulver I see 60. So you can see the coloration. But I want to point out
+[00:27:45.600 --> 00:27:51.360]   something. As you watch this, you notice that it's light brown. I mean, right there, especially
+[00:27:51.360 --> 00:27:55.600]   right here. You see that? There's no red. It hasn't turned red. It hasn't turned purple.
+[00:27:55.600 --> 00:28:00.080]   And that means, you know what, it means that I didn't sonicated enough. I didn't give it enough
+[00:28:00.080 --> 00:28:07.840]   energy for the liposomes to be created wrapping fat cells around the C60 molecules. So 15 minutes
+[00:28:07.840 --> 00:28:13.280]   is not long enough based on the coloration of the product that I came out with. But now look at this
+[00:28:13.280 --> 00:28:18.800]   one. When I switched to the, the, I did a 30 minutes on the sunflower oil and 30 minutes,
+[00:28:18.800 --> 00:28:24.000]   you'll notice this right there. You see that? At 30 minutes, this is what it started out as
+[00:28:24.000 --> 00:28:30.080]   is light yellow. And after 30 minutes, it picked up that red, which means that a lot more. I mean,
+[00:28:30.080 --> 00:28:37.760]   literally you, you successfully have now converted the C60, the pulver I see 60 floating in the oil
+[00:28:37.760 --> 00:28:44.400]   has now been sonicated. And it's been, I guess, there's a word for it. I am lipodized or something.
+[00:28:44.400 --> 00:28:49.760]   But the liposomes have formed. The fat has wrapped around all of the C60 molecules
+[00:28:49.760 --> 00:28:56.320]   and has turned the oil red. That is the color. You want it to be crimson red. And so once it's
+[00:28:56.320 --> 00:29:00.800]   turned red, you know, you've done it. You've done it. And that's what happened. So I'm pretty happy
+[00:29:00.800 --> 00:29:07.600]   with the 30 minutes. I did, I did run an avocado. So I just ran two avocado. It's actually
+[00:29:07.600 --> 00:29:14.800]   sitting right now resting for the 10 days. I did one avocado at 30 and I did another one at 45.
+[00:29:14.800 --> 00:29:19.120]   The thing that's really important that Martin pointed out was that there's this bell curve
+[00:29:19.120 --> 00:29:24.880]   when you're sonicating. And so you want to go and you have to kind of guess based on the,
+[00:29:24.880 --> 00:29:30.720]   the power of your sonicator, the frequencies you're using, all that, and even temperature.
+[00:29:30.720 --> 00:29:34.720]   And then once you kind of figure it out, there's this bell curve. So you go up and up and up and
+[00:29:34.720 --> 00:29:38.560]   you're sonicating and everything's turning into liposomes, liposomes. And then there's a certain
+[00:29:38.560 --> 00:29:43.200]   point and he calls it the alcomedian point or that I call it the sweet spot where you've made as
+[00:29:43.200 --> 00:29:48.560]   many liposomes as you can. And it's the perfect batch, right? But if you keep going, you keep
+[00:29:48.560 --> 00:29:52.080]   sonicating it, you're going to go down the other side of that curve and you're going to start
+[00:29:52.080 --> 00:29:56.080]   busting up your liposomes and they're going to break apart and you're going to go back
+[00:29:56.080 --> 00:30:00.960]   to the original solution. So it's really important. It's kind of like Goldilocks,
+[00:30:00.960 --> 00:30:05.520]   not too much and not too little if you want to have the right product. So just keep that in mind
+[00:30:05.520 --> 00:30:10.240]   from a timing perspective. And then you'll be able to make your C60 with pulverized C60.
+[00:30:10.240 --> 00:30:18.640]   There you go. And that's pretty much it. Thanks for stopping by and watching this tutorial.
+[00:30:18.640 --> 00:30:23.120]   I really hope it's been a benefit to you. And I really appreciate you taking the time to
+[00:30:23.120 --> 00:30:28.560]   watch my video. So lohan, thank you very much. So for the rest of you, I wouldn't be interested
+[00:30:28.560 --> 00:30:35.040]   to learn more about pulverized C60. I have added additional research to this video at the back.
+[00:30:35.040 --> 00:30:38.960]   And the reason I kind of did it this way is one of my pet peeves about watching videos is
+[00:30:38.960 --> 00:30:44.400]   the title never matches the thing that they talk about in the beginning. So I wanted to make sure
+[00:30:44.400 --> 00:30:48.720]   I got the tutorial part out of the way. And so anyone who just wanted to click on it and go,
+[00:30:48.720 --> 00:30:52.640]   I want to learn how to use that and you're done. Okay, you're good. But if you'd like to stick around
+[00:30:52.640 --> 00:30:58.080]   for some bonus material, I got some other stuff I'd like to share with you. So feel free to come
+[00:30:58.080 --> 00:31:02.400]   keep going and keep watching this video if you'd like. If not, hey, you got what you needed. I'm glad
+[00:31:02.400 --> 00:31:08.480]   you did. Have a great day. So now, additional research. Okay, what I did was I did some microscope
+[00:31:08.480 --> 00:31:14.480]   comparisons of different C60. And I kind of just kind of explored, you know, can you make your own
+[00:31:14.480 --> 00:31:19.600]   pulverized C60? That's my thing. And then what happens if you get it on your skin? That's my
+[00:31:19.600 --> 00:31:23.760]   crazy story. And then my crazy idea that goes with my crazy story. So let's jump into that.
+[00:31:23.760 --> 00:31:31.120]   First of all, the question about pulverized C60 or otherwise monomolecular C60,
+[00:31:31.120 --> 00:31:36.960]   you know, does size matter? And the reason I think it does, and I just wanted to kind of just
+[00:31:36.960 --> 00:31:42.160]   make sure that everyone's level set on what the size is. So this is your little chart that it goes
+[00:31:42.160 --> 00:31:47.280]   from millimeters, micrometers, nanometers, pico meters, it keeps going actually. But basically,
+[00:31:47.280 --> 00:31:51.440]   it's 10 to the minus three, 10 to the minus four, 10 to the minus nine, and so forth. So what I
+[00:31:51.440 --> 00:32:00.480]   want to point out is the size, the size of these nano clusters or nano molecules, one C60 molecule
+[00:32:00.480 --> 00:32:08.800]   is one nanometer in size. And what what, sorry, what one nanometer in size is, is it's, you cannot
+[00:32:08.800 --> 00:32:13.840]   see it basically, it's so small, it is at an atomic level. If you take a grain of salt, this is
+[00:32:13.840 --> 00:32:18.640]   actually a picture of a grain of salt. A grain of salt is there's three of them. If you line up
+[00:32:18.640 --> 00:32:25.200]   three grains of salt, you get one millimeter. Okay. So it's 0.33 millimeters per grain of salt.
+[00:32:25.200 --> 00:32:32.800]   And what that means is one tiny grain of salt, you could literally line up 330,000 carbon
+[00:32:32.800 --> 00:32:41.520]   60 atoms, our molecules, I'm sorry, across the grain. That's how small carbon 60 is, 330,000
+[00:32:41.520 --> 00:32:46.320]   lined up from edge to edge on that little grain of salt. So the point that I'm making though is
+[00:32:46.320 --> 00:32:52.720]   this right here, this picture. This is one of my olive oil batches using powdered C60 from
+[00:32:52.720 --> 00:32:59.760]   Bucky Labs. And after the first stirring, whatever, how long I stirred, and before I tossed it in
+[00:32:59.760 --> 00:33:06.000]   the sonicator, you could see when I poured it out, you see all that stuff right there?
+[00:33:06.000 --> 00:33:12.720]   Those are all grains or clusters of C60. And if you, and what's amazing about it is,
+[00:33:12.720 --> 00:33:16.640]   and you know, I did a video on how to try to reclaim as much of this as you can,
+[00:33:16.640 --> 00:33:21.520]   but the point is, is when it's that big, it's not going to dissolve. And you're going to either
+[00:33:21.520 --> 00:33:26.480]   leave it behind at the bottom of this vase, or I'm sorry, flask, or you're going to leave it behind
+[00:33:26.480 --> 00:33:30.480]   in your in your beaker, or you're just going to add, you know, if you don't filter, you're
+[00:33:30.480 --> 00:33:34.320]   going to leave it behind in a filter, or if you don't filter, you're going to swallow it,
+[00:33:34.320 --> 00:33:37.760]   and it's going to go right out your behind, right? And so you're going to waste it. And you know,
+[00:33:37.760 --> 00:33:42.800]   what this stuff costs, you don't want to waste it. And you actually don't want to take large
+[00:33:42.800 --> 00:33:48.960]   grains of carbon, because it's, according to some of the studies, doing that is really not a good
+[00:33:48.960 --> 00:33:55.600]   idea for your kidneys. So the idea of small, small is better, it's easier on your body,
+[00:33:55.600 --> 00:34:00.960]   it's more bio available, and you're not going to waste as much. So let's think, so anyway,
+[00:34:00.960 --> 00:34:06.880]   let me show you what it looks like under the microscope. So I got my little toy, and I started
+[00:34:06.880 --> 00:34:11.680]   trying, I wanted to take a look at different carbon samples. And so I took a look at activated
+[00:34:11.680 --> 00:34:21.760]   charcoal. I actually have a 99.99% pure C60 powder that I got from Materials Technology Research MTR.
+[00:34:21.760 --> 00:34:28.000]   So I have a few grams of that, because I still make C60 with powder. And then I've got my,
+[00:34:28.000 --> 00:34:35.360]   of course, powdered pulver IC60. So now this is the slide, the calibration slide that comes with
+[00:34:35.360 --> 00:34:40.720]   the microscope. And I want to point out this little tiny picture right here, 100, that little tiny
+[00:34:40.720 --> 00:34:48.160]   dot right there in the middle of that red circle, that is in microns, it's 100 microns in width,
+[00:34:48.160 --> 00:34:57.440]   okay, or what diameter. And that 100 microns over here, with the scientific nomenclature UM,
+[00:34:57.440 --> 00:35:07.760]   is equal to 100,000 nanometers. And if you recall, you know, this one carbon-60 molecule is one
+[00:35:07.760 --> 00:35:13.200]   nanometer. So when we take a look at the first sample, the activated charcoal,
+[00:35:13.200 --> 00:35:20.080]   this is, it's, well, if you know what activated charcoal is, it's pretty cool. It really helps
+[00:35:20.080 --> 00:35:23.440]   whenever you're really sick or you had food poisoning or something, anytime you've been
+[00:35:23.440 --> 00:35:27.600]   ingested something, you shouldn't. You take a couple of capsules of this, they sell it on all
+[00:35:27.600 --> 00:35:34.320]   the vitamin stores. And it's essentially carbon, but it's just got so many ridges to each molecule.
+[00:35:34.320 --> 00:35:38.960]   I mean, every grain of this, of this carbon, it's got a certain format, it's like very crystalline
+[00:35:38.960 --> 00:35:44.320]   in nature. And it's just got massive, massive amounts of surface area. And so it just sucks
+[00:35:44.320 --> 00:35:49.760]   up all the toxins, just like a carbon-60 would, because of its electron chart. And so activated
+[00:35:49.760 --> 00:35:54.400]   charcoal is really good. You can buy it in the vitamin store, you can take it when you've got
+[00:35:54.400 --> 00:35:59.280]   stomach issues, and it'll absorb all that toxin. Some people who, you know, you go out drinking,
+[00:35:59.280 --> 00:36:04.720]   you kind of are toxic the next morning, you can take this and it actually will help. And so the
+[00:36:04.720 --> 00:36:09.440]   activated charcoal, I took a capsule, I popped it open, put it on a slide. And so take a look at
+[00:36:09.440 --> 00:36:14.400]   this little dot in the red circle, okay, the hundred microns, and take a look at activated
+[00:36:14.400 --> 00:36:19.600]   charcoal under the microscope at 100X. And you can see that activated charcoal is actually pretty
+[00:36:19.600 --> 00:36:26.160]   fine. There are tons and tons and tons of different like really small particles that are at least
+[00:36:26.160 --> 00:36:30.320]   100 nanometers or smaller. But then over here, you know, you can see where there are some giant
+[00:36:30.320 --> 00:36:36.080]   boulders. I mean, I can't even imagine how many molecules of activated charcoal are in this one
+[00:36:36.080 --> 00:36:42.320]   chunk, this little grain. So it ranges from giant to just small. And so, you know, so that's just
+[00:36:42.320 --> 00:36:49.200]   one sample, it's kind of like a benchmark. So if you take a look at pulver, I'm sorry, 99.99%
+[00:36:49.200 --> 00:36:54.560]   C60. This is what's interesting, because I had never looked at it before, and I've kind of
+[00:36:54.560 --> 00:37:01.280]   used a bunch of it. Under the microscope, pure, this is pure C60, because they actually even
+[00:37:01.280 --> 00:37:06.080]   advise that it's actually greater than 9999. But they just pretty much just put this on the
+[00:37:06.080 --> 00:37:12.640]   marketing material. It's literally like sand, it is really small. It's like, it has look at this
+[00:37:12.640 --> 00:37:17.040]   dot, and then look at all these other little grains. So it looks like there's that telltale
+[00:37:17.040 --> 00:37:24.480]   purple color, right? It's really looks like pure, literally just absolutely pure C60
+[00:37:24.480 --> 00:37:34.000]   is granularized in 100 nanometer grains. You don't really see a lot of like that. When you look at
+[00:37:34.000 --> 00:37:38.400]   the activation, you know, the activated charcoal, there's these tiny little you can't even see them
+[00:37:38.400 --> 00:37:45.360]   almost. When you look at the C60, the pure C60, it's like sand. So it's that's really interesting
+[00:37:45.360 --> 00:37:52.000]   from the standpoint of size. Okay, because you're looking at something that's roughly 100,000 nanometers
+[00:37:52.000 --> 00:37:58.960]   across. So now what's most interesting, obviously coming up here is this is what pulverized C60
+[00:37:58.960 --> 00:38:06.480]   looks like under the microscope. It is mud, basically. It is carbon mud. It is pulverized,
+[00:38:06.480 --> 00:38:13.360]   and according to the website, it's under 300. Remember now, this little dot right there is 100,000.
+[00:38:14.640 --> 00:38:21.120]   What this is, it's it's been pulverized down to to less than 300 nanometers. It is so
+[00:38:21.120 --> 00:38:30.480]   fine. You can't even tell any specific individual grain of it. It's just one blob. And so like I'm
+[00:38:30.480 --> 00:38:36.480]   going to go ahead and just beef up the whoops, do I let me just beef up the the screenshot here and
+[00:38:36.480 --> 00:38:41.280]   take a look at that, especially around the edges. When you look around the edges, you cannot discern
+[00:38:41.920 --> 00:38:47.280]   any anything. You can't discern any grains at all. And you know, you can see this like this real
+[00:38:47.280 --> 00:38:53.040]   thin film. And so you're looking at literally under three. I mean, this is you know, the marketing
+[00:38:53.040 --> 00:38:59.120]   material is correct. I mean, Martin's right. It's so small. You can't see it with the microscope
+[00:38:59.120 --> 00:39:06.000]   power I have. And it's just it's pulverized under what he says under 300 nanometers. And so what
+[00:39:06.000 --> 00:39:12.160]   does that mean? That means it is the most bio available C 60 you can get if you're going to
+[00:39:12.160 --> 00:39:18.240]   be making this stuff at home. And of course, when you start thinking about it, it's you know, it's
+[00:39:18.240 --> 00:39:23.920]   there's only two manufacturers that have this and and it's pretty remarkable. And when you take a
+[00:39:23.920 --> 00:39:28.720]   look at the actual actual size of the particle, because the smaller is better, it's smaller is
+[00:39:28.720 --> 00:39:33.120]   going to get into you. That's going to go more places, etc. Right. So anyway, so that's my point.
+[00:39:33.120 --> 00:39:37.680]   I thought it was real interesting to share with you the microscope samples of the different carbons.
+[00:39:37.680 --> 00:39:42.720]   Now, the next question is, is, you know, because of me, this is how I am, can I can you make your
+[00:39:42.720 --> 00:39:50.640]   own pulver, I see 60 at home? And so I got what I did was I got these little I went shopping for
+[00:39:50.640 --> 00:39:57.040]   mortar and pestles. And I bought a porcelain one, I bought a steel one. And they there's you know,
+[00:39:57.040 --> 00:40:00.880]   and when I get them, they're just they're they're rough to their feel, you know, to put your finger
+[00:40:00.880 --> 00:40:08.320]   on it. And so I finally found one that it's like a dental one that the dent issues, you know, and
+[00:40:08.320 --> 00:40:12.960]   to make filling stuff. And and so it's made out of glass. And so when you feel it with your finger,
+[00:40:12.960 --> 00:40:18.480]   it is smooth. And that's what I needed. I needed a really smooth mortar and I needed a really smooth
+[00:40:18.480 --> 00:40:24.480]   pestle, because what I was worried about because, you know, carbon 60s so small, I mean, even if it's
+[00:40:24.480 --> 00:40:31.120]   granular like this, that's still that's still like, you know, 100 microns. Right. So anyway, so I
+[00:40:31.120 --> 00:40:36.480]   basically put I took this is the actual slide. This is this slide right here. See that? That is
+[00:40:36.480 --> 00:40:41.360]   right there. That's that slide. So I dumped this sample into the mortar and pestle. And then I
+[00:40:41.360 --> 00:40:48.560]   grounded it up. And it turned into a greasy paste, which was basically like this. Right. So yes,
+[00:40:48.560 --> 00:40:55.120]   you can you can pulverize it up. But here's the problem. You can't get it off. And that was what
+[00:40:55.120 --> 00:41:00.240]   my answer is, is can you make it? Nope. You can't make it with a mortar and pestle. And this is why.
+[00:41:00.240 --> 00:41:05.840]   When I poured that in, it went from black to chocolate, which is exactly what happened here.
+[00:41:05.840 --> 00:41:10.240]   It turns chocolate, which is really strange, actually, if you think about it. And so it turns
+[00:41:10.240 --> 00:41:14.400]   into a brown color. And I just grown, you know, ground, ground, ground, ground, right. And then
+[00:41:14.400 --> 00:41:20.160]   it just turns into this greasy paste and it gets stuck to the pestle and stuck to the mortar. And
+[00:41:20.160 --> 00:41:26.480]   you can't get it off. And so if you take a peek at the this is what the mortar, the bowl, looks like
+[00:41:26.480 --> 00:41:32.080]   under the microscope. And you can see where it just it just went right into the glass. And then
+[00:41:32.080 --> 00:41:37.760]   here's just what the little bit of solids. And that's all I could get. So I ended up getting a
+[00:41:37.760 --> 00:41:43.120]   razor blade. And I started because I wanted to look at it under the microscope. You know, I wanted
+[00:41:43.120 --> 00:41:47.920]   to actually see the the pulver, I see 60 that I made. And I was hoping to be proud of it and it
+[00:41:47.920 --> 00:41:55.360]   didn't turn out that way. So I used a razor and I scraped off as much as I could off the pestle
+[00:41:55.360 --> 00:42:00.720]   and put it on a slide. And so this is what it looked like. And so this is what's just
+[00:42:00.720 --> 00:42:05.040]   hilarious is that I scraped it off and look at the chunks. I mean, you know, this is where,
+[00:42:05.040 --> 00:42:11.120]   you know, if this is the 100 micron example, you know, and then look at the just it's just like
+[00:42:11.120 --> 00:42:15.920]   chunks of mud, basically. And that's that's what I that's what happened. It wasn't,
+[00:42:15.920 --> 00:42:21.040]   you know, you can you can pulverize it, but you're not going to end up with small pieces. You're
+[00:42:21.040 --> 00:42:26.400]   going to end up with this this stuff, you know, and it's I, you know, and it's not usable because
+[00:42:26.400 --> 00:42:30.800]   this is well, first of all, I don't think that would dissolve very well, because it's like
+[00:42:30.800 --> 00:42:34.880]   mud balls. But this is what's really important, which I didn't even figure out. And so I looked
+[00:42:34.880 --> 00:42:38.960]   at this slide. You see that right there, this little piece of white thing, that little white
+[00:42:38.960 --> 00:42:44.160]   thing, the little white thing. You know what that is? It's it's glass. I was with the razor blade,
+[00:42:44.160 --> 00:42:49.840]   I was actually scraping off glass off the pestle. And so, you know, big time, whoops, sorry,
+[00:42:49.840 --> 00:42:58.000]   big time, it is not recommended. I do not recommend trying to grind up your own in a
+[00:42:58.000 --> 00:43:02.720]   class mortar and pestle and trying to scrape it off and etc. And the last thing I want to
+[00:43:02.720 --> 00:43:06.800]   leave you with is when I went to try to wash this, I couldn't get the brown off.
+[00:43:07.840 --> 00:43:15.440]   The pole, or actually the C60, even if it's not pulverized, it's so small, it went into the
+[00:43:15.440 --> 00:43:20.880]   surface of the glass. And so now this is brown and that's brown. And I scrubbed the crap out of it.
+[00:43:20.880 --> 00:43:28.320]   I could not get the C60 off of the glass. So no, you can't, I mean, I don't think you can make
+[00:43:28.320 --> 00:43:32.240]   it at home. I don't know how the hell Martin does it, but he obviously is not using a glass
+[00:43:32.240 --> 00:43:37.440]   mortar and pestle. And definitely do not do this at home because you do not want to ingest glass.
+[00:43:38.320 --> 00:43:42.400]   So anyway, that's that. So just wanted to share that with you because that's what I do.
+[00:43:42.400 --> 00:43:47.440]   So another question I have, or the other issue that I wanted to share with you is a bonus material,
+[00:43:47.440 --> 00:43:52.800]   is what happens if you get pulverized C60 on your skin. And the reason I'm asking that
+[00:43:52.800 --> 00:43:57.680]   question, and I wanted to share with you a little situation that I had was in one of my experiments,
+[00:43:57.680 --> 00:44:02.880]   I was trying to do the syringe method that Martin recommends, which is to use a three milliliter
+[00:44:02.880 --> 00:44:08.480]   syringe and a little aquarium air hose. And you put the air hose in the bottom of the jar,
+[00:44:08.480 --> 00:44:12.240]   and you just pull off, you know, however many milliliters you want, and then put that in your
+[00:44:12.240 --> 00:44:17.600]   oil. Well, that sounds simple enough, except I'm a little bit of a homer in the nuke plant kind of
+[00:44:17.600 --> 00:44:25.200]   guy. So I did, I pulled off the three milliliters of C60, but I've got this like two inch rubber hose
+[00:44:25.200 --> 00:44:31.280]   sticking to the end of the syringe, right, per the instructions. And the pulverized C60,
+[00:44:31.280 --> 00:44:36.720]   it's like paint. And so I couldn't, at the inside of the rubber hose was brown. I couldn't tell if
+[00:44:36.720 --> 00:44:43.360]   there was C60 in there, or it was empty, or what was going on. And so I ended up lifting up the
+[00:44:43.360 --> 00:44:50.640]   jar of C60. And when I lifted it up, to kind of like, you know, like, push down on the syringe,
+[00:44:50.640 --> 00:44:57.520]   to get the excess C60 out of the tube, I, the jar slipped out of my fingers, because I actually had
+[00:44:57.520 --> 00:45:03.680]   it wrapped in foil and it slipped out. And it fell about six inches in height. And the jar hit the
+[00:45:03.680 --> 00:45:09.280]   countertop. And just like those videos of lava that you're watching in Hawaii right now,
+[00:45:09.280 --> 00:45:16.480]   the C60 in the bottle went straight up and splished and splashed all over. I mean, I pretty much like
+[00:45:16.480 --> 00:45:23.280]   had $200 worth of C60 land on the counter of my kitchen, and splattered all over everything. And
+[00:45:23.280 --> 00:45:29.600]   so I had to stop videoing. And I just as fast as I could, I grabbed the sharpest knife I could and
+[00:45:29.600 --> 00:45:34.800]   started scooping up the C60, because you know, that's money on the table, basically, for real,
+[00:45:34.800 --> 00:45:39.600]   and putting it into the oil. But here's what the dump part was, was I got C60 on my hands when
+[00:45:39.600 --> 00:45:44.800]   it's splooshed. And then when I went to go and get it off the knife, because it sticks to
+[00:45:44.800 --> 00:45:49.600]   everything, right? So it was just this big mess. I didn't think about it. And I used my fingers
+[00:45:49.600 --> 00:45:54.640]   to, you know, just, I just, you know, push my finger down the edge of the knife, or the blade of the
+[00:45:54.640 --> 00:46:00.640]   knife to get the C60 off and then, and then ring my hand across the top of the beaker. And I kept
+[00:46:00.640 --> 00:46:06.560]   doing that like three or four times. And the next thing I knew, I had raw C60 all over my hands.
+[00:46:06.560 --> 00:46:12.640]   I would say easy, easy, like, I don't know, three, four, five milliliters of the solution was on my
+[00:46:12.640 --> 00:46:19.200]   hands. And I was all over the counter. It was just this horrible mess. So I cleaned all that up,
+[00:46:19.200 --> 00:46:24.400]   the counter is now brown. I can't get it off. But then I couldn't get it off my hands either.
+[00:46:24.400 --> 00:46:29.520]   And so I just watched as much as I could. It finally started wearing away the coloration,
+[00:46:29.520 --> 00:46:34.080]   the brown coloration, wore away after about two days. But this is what happened.
+[00:46:34.080 --> 00:46:41.520]   The point I'm making with this little normal skin graphic is this, that there is 100,000
+[00:46:41.520 --> 00:46:47.360]   side by side carbon 60 molecules equals the width of the human hair. You know,
+[00:46:48.240 --> 00:46:55.280]   which is, as you know now, is 100 microns. And when you look at skin, you know,
+[00:46:55.280 --> 00:47:00.720]   it's composed of two layers, if you remember from science school class, right? You've got the
+[00:47:00.720 --> 00:47:05.120]   epidermis and the dermis and the epidermis on the outer layer. Well, right at the boundary between
+[00:47:05.120 --> 00:47:09.360]   the two dermal layers, it's going to be all your capillaries, which carries your blood flow to
+[00:47:09.360 --> 00:47:15.040]   your skin. And then it connects down to arteries and veins and below the air follicles, very small.
+[00:47:15.040 --> 00:47:19.680]   I mean, these are, we're talking extremely small parts of your body. And so here's the thing.
+[00:47:19.680 --> 00:47:23.920]   The minute you get, I mean, think about this right here, right? There's, this is a hair,
+[00:47:23.920 --> 00:47:30.400]   which means there's the width of the hair. There's 100,000 molecules, just that. And I had
+[00:47:30.400 --> 00:47:37.040]   gobs. I mean, I literally covered my whole, you know, part of my hand with C60 right out of the
+[00:47:37.040 --> 00:47:42.880]   bottle, pulverized C60. And when I went to rub it, what do you think happened? It went straight
+[00:47:42.880 --> 00:47:48.800]   through my skin. It is so small. You're, you're basically your skin at that size. It's like a
+[00:47:48.800 --> 00:47:55.040]   giant sponge. And so my skin just sucked it in. And it was so close. I mean, literally, it just went
+[00:47:55.040 --> 00:48:01.680]   right into my capillaries, right into my bloodstream. And this is the effect of getting that much C60
+[00:48:01.680 --> 00:48:09.040]   on your hands. I did not sleep for two days. I could not sleep for two days. I was more alert
+[00:48:09.040 --> 00:48:16.080]   and cognizant and mentally aware than I have ever been in my life. You know, it's not like I,
+[00:48:16.080 --> 00:48:22.480]   you know, saw God or anything, but it was, it was bizarre. I never ever experienced anything like
+[00:48:22.480 --> 00:48:28.960]   that in my life where I literally was just, I just don't have words to describe what my brain was
+[00:48:28.960 --> 00:48:35.280]   going through. And I just, you know, it was just the most bizarre experience and not being able to
+[00:48:35.280 --> 00:48:41.200]   sleep. The finally, the third day I was able to go to sleep. But I'm talking like not sleeping for
+[00:48:41.200 --> 00:48:46.960]   two days and going to work. And it's as if you had a good night's sleep mentally, but my body was,
+[00:48:46.960 --> 00:48:51.520]   you know, tired, but my brain was just like, just on it. And it's like, it wasn't like any
+[00:48:51.520 --> 00:48:56.640]   coffee experience or anything like that. It was just the most intense mental alertness if there's
+[00:48:56.640 --> 00:49:03.520]   even such a thing that I don't ever want to do that again. It was so intense. So it was like a
+[00:49:03.520 --> 00:49:10.720]   mega mega mega mega mega mega dose of C 60. And so they're there and why they're in lies why I
+[00:49:10.720 --> 00:49:18.240]   recommend you wear gloves. And don't don't do that at home. So be real careful touching this stuff.
+[00:49:18.240 --> 00:49:23.440]   It will go straight to you because, you know, you got to remember, if you take C 60 in oil and you
+[00:49:23.440 --> 00:49:28.240]   drink it, it's going to go through your body. It's going through your digestive acids. And it's
+[00:49:28.240 --> 00:49:32.560]   going to, and your body's huge, right? I mean, it's going to go all over and spread out. And a lot
+[00:49:32.560 --> 00:49:36.320]   of it's going to go down different, you know, it's going to get digested and it's going to go out
+[00:49:36.320 --> 00:49:39.520]   one end. And some of it's going to get to your liver and your liver is going to break down the
+[00:49:39.520 --> 00:49:44.400]   liposomes and then release it in your, so you're not going to end up with, you know, out of, let's
+[00:49:44.400 --> 00:49:50.400]   say, you know, 100% you take in, you might actually end up as or absorbing maybe half of it or something,
+[00:49:50.400 --> 00:49:56.720]   you know, I don't know. It's really by its quantum biology, as explained to me by this one guy.
+[00:49:56.720 --> 00:50:05.120]   So yeah, I took a huge dose of it and it was amazing. Bizarre, you know, no, no ill
+[00:50:05.120 --> 00:50:09.520]   affection. I didn't grow a third eye or anything, but it was, it was, it was pretty intense. It's,
+[00:50:09.520 --> 00:50:14.560]   I don't want to ever do it again. That was, that was pretty wild. So, you know, so there is some
+[00:50:14.560 --> 00:50:19.280]   cautions there. But here's the idea that I had after I came down from Mount Rushmore on this thing.
+[00:50:19.280 --> 00:50:25.840]   I thought to myself, you know, because the Holy Grail of C 60 is, is the oil causes the problem,
+[00:50:25.840 --> 00:50:30.560]   not the C 60. And so if you want to really take a mega dose, like if you have a huge, like, you
+[00:50:30.560 --> 00:50:35.040]   know, you know, problem that you're trying to address and you're willing to try something
+[00:50:35.040 --> 00:50:41.200]   and you took a mega dose, well, the oil will get you before you ever can take in enough C 60.
+[00:50:41.200 --> 00:50:46.960]   So is it possible? So this is my last thing I want to share with you as, as research that I did,
+[00:50:46.960 --> 00:50:53.280]   which was the lab accident is research. But I started thinking about what happened to me.
+[00:50:53.280 --> 00:51:01.840]   And I came up with this hypothesis is, can you safely dose pure C 60 pure pulverized C 60? Can
+[00:51:01.840 --> 00:51:08.880]   you dose it through your skin and not use any oil? So first of all, do not try this at home.
+[00:51:08.880 --> 00:51:16.000]   I don't recommend it. I'm crazy. And so I'll, you know, I'm grown man, but I don't recommend
+[00:51:16.000 --> 00:51:20.800]   doing this because it's pretty trippy. But the idea though is can you do it in tiny, tiny, tiny,
+[00:51:20.800 --> 00:51:26.800]   tiny amounts so that you, you know, you don't, you can like at least sleep and stop thinking and
+[00:51:26.800 --> 00:51:32.880]   shut your brain down. So, so that's the, that's my hypothesis that I think you can, because
+[00:51:32.880 --> 00:51:40.080]   the stuff that I'm reading is, is I've read, I found two studies where scientists put C 60 in
+[00:51:40.080 --> 00:51:46.960]   water, right, floating around in water, not liposomes, and these test subjects that had good results,
+[00:51:46.960 --> 00:51:53.040]   you know, whether it's, it wasn't toxic. And I think one was a good thing about liver and good
+[00:51:53.040 --> 00:51:58.400]   thing about tumors or something. I'll dig it up later. So there are a couple of studies out there
+[00:51:58.400 --> 00:52:04.720]   that are, that are basically saying, yeah, you can take raw C 60, but most everybody, you know,
+[00:52:04.720 --> 00:52:10.400]   takes C 60 as a liposomes and so that it's bio available to, to your body through your liver.
+[00:52:10.400 --> 00:52:16.640]   But based on my experience, I know you can get a hell of a dose of C 60 through your skin.
+[00:52:16.640 --> 00:52:21.600]   And so if you did it a little bit at a time, you know, what would happen? And, and, and could you?
+[00:52:21.600 --> 00:52:25.440]   And if you wanted to mega dose, instead of a little bit, you could do a little bit more,
+[00:52:25.440 --> 00:52:32.240]   but not too much, you know, so that's my hypothesis is I, is, is can you? That's the question. And,
+[00:52:32.240 --> 00:52:36.320]   and so I'm, I'm thinking about trying it. It's going to be an experiment. I'm not so sure. Yeah,
+[00:52:36.320 --> 00:52:41.040]   basically what happened last time. But I just wanted to throw this out there because I did
+[00:52:41.040 --> 00:52:46.000]   something by accident that probably no one ever thought about doing to themselves. And the, and,
+[00:52:46.000 --> 00:52:50.400]   and you know, and I didn't die. And I didn't get sick and nothing hurt. You know, it took me three
+[00:52:50.400 --> 00:52:54.960]   days to come out of it. But so, you know, it's, it's, it's just research, right? I just wanted to
+[00:52:54.960 --> 00:53:00.400]   share with you what's going on. And we all learn, we all add to the body of work. And that's my story.
+[00:53:00.400 --> 00:53:05.760]   So here's the thought. If you take C 60 in oil, you basically dissolve a gram per liter,
+[00:53:05.760 --> 00:53:11.200]   which ends up being one milligram per milliliter. So if you take a teaspoon of it, it's five milliliters
+[00:53:11.200 --> 00:53:17.440]   and a teaspoon. So if you take one teaspoon of C 60 oil, you're going to ingest five milligrams
+[00:53:17.440 --> 00:53:24.480]   of C 60 in that oil, right? But here's the thing. The pulverized 60 is concentrated pure C 60.
+[00:53:24.480 --> 00:53:31.840]   One gram is floating in 10 milliliters of alcohol. So one milliliter of the solution is 100 milligrams.
+[00:53:31.840 --> 00:53:37.360]   So like, I'm going to guess that there's about 10 drops in a milliliter. So that's like one
+[00:53:37.360 --> 00:53:44.080]   10. So you'd be like, one drop is 10 milligrams. And I'm, you know, guessing 10 drops, right?
+[00:53:44.080 --> 00:53:50.720]   Of C 60 directly into the bloodstream. So that's like, if you took two teaspoons
+[00:53:50.720 --> 00:53:56.400]   in your mouth by the time it got into your bloodstream, right? How much would actually,
+[00:53:56.400 --> 00:54:00.640]   how much would you actually get? But if you took 10 milligrams or I'm sorry, one drop,
+[00:54:01.280 --> 00:54:07.840]   this is just a simulation. It is a freaky, weird looking picture, but I just wanted to show you
+[00:54:07.840 --> 00:54:12.800]   that I would put it somewhere on where my veins are closest to my skin. So this is kind of like
+[00:54:12.800 --> 00:54:16.800]   what I would do. This is a blunt needle. I'm not injecting myself. This is a very strange picture,
+[00:54:16.800 --> 00:54:22.880]   but it's just a simulation. If you dropped one drop where it's close to your bloodstream,
+[00:54:22.880 --> 00:54:30.240]   you would take a dose that's 10 times greater than your normal daily dose, basically. And you'd
+[00:54:30.240 --> 00:54:35.360]   get a hundred percent of it as opposed to a fraction of that. And so you're, it's definitely
+[00:54:35.360 --> 00:54:42.560]   mega dosing. So my thought is, is the experiment would be one drop on top of the skin,
+[00:54:42.560 --> 00:54:50.240]   not injection, but on top of the skin per day. And see what happens. So I'm not ever doing this
+[00:54:50.240 --> 00:54:55.200]   again during the work week because I can, it absolutely sucks not to be able to sleep during
+[00:54:55.200 --> 00:54:59.920]   the work week. So I got to wait till I have like a week off to even try this. And I'm still not
+[00:54:59.920 --> 00:55:05.600]   sure I want to. I didn't really enjoy not sleeping for, you know, three or so. So anyway, that's my
+[00:55:05.600 --> 00:55:13.360]   crazy idea, you know, K Elmer's crazy idea, a crazy accident in the lab, more proof why you need
+[00:55:13.360 --> 00:55:19.280]   to be careful. And that's my bonus material on pulver IC60. I hope you enjoyed that. So thank you
+[00:55:19.280 --> 00:55:23.600]   again. Sorry about the really long video. That's kind of why I did the first half that way I did.
+[00:55:23.600 --> 00:55:28.320]   And if you stuck around till here, you know, thank you. I know your time is so valuable and
+[00:55:28.320 --> 00:55:33.760]   you've got a lot to do. So I appreciate you stopping by appreciate you listening to me ramble. I hope
+[00:55:33.760 --> 00:55:40.000]   the material that I come up with has been of value to you. That's most important to me. And lastly,
+[00:55:40.000 --> 00:55:45.760]   I just I just want you to know I I greatly appreciate your kind comments and your encouragement. It's
+[00:55:45.760 --> 00:55:51.760]   very motivating. I mean, sometimes it gets to be a lot of work. And I could just not do these
+[00:55:51.760 --> 00:55:56.400]   videos. I still do the stuff, but just, you know, putting these this stuff together to show people
+[00:55:57.280 --> 00:56:02.960]   is a lot of work. And I read comments and I'm just so I'm just really taking it back and I'm
+[00:56:02.960 --> 00:56:08.800]   humbled by everybody's just, you know, kindness. So thank you. Thank you for encouraging me. Thank
+[00:56:08.800 --> 00:56:15.360]   you for supporting me. So anyway, have a great day. Aloha.
+

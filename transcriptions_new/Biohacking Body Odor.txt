@@ -1,0 +1,502 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.280",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host K Elmer and in this video, let's talk about biohacking body odor Now I know what you're thinking That's a very odd topic. Why would we even cover that in a video? What's there to learn? Well, you know what? This is why you should care Did you know that your sense of smell is a superpower? Yeah, you know when I was doing some research on this and it all started with"
+    },
+    {
+        "start": "00:00:30.720",
+        "end": "00:00:57.320",
+        "text": "Science paper I read and I'll get into that in a little while about no, no, no, no That's how you pronounce it smell, which is this smell of old people and scientists found out that's actually a real thing so anyway, I Discovered that you know I discovered hey, you know, I'm a biohacker I'm a tinker. I I'm aging and the last thing I want to smell is let that smell You know which nobody likes and grandma grandpa and nursing homes"
+    },
+    {
+        "start": "00:00:57.320",
+        "end": "00:01:23.640",
+        "text": "And it's just this stanky smell and and I'm just like oh my god It's I've got the major ick from it and I didn't want to smell like that. So hey I did some research and I'm sharing it with you But you know one of the interesting things I discovered was that our sense of smell is literally a superpower And what I mean by that is when you take a look at the five physical senses You know vision hearing smell tastes that right and you look at each one of these things and you know"
+    },
+    {
+        "start": "00:01:23.640",
+        "end": "00:01:47.320",
+        "text": "The science is pretty clear on it, you know the vision the light spectrum is huge But humans can only detect light in a very narrow band of the light spectrum Same thing with hearing hearing that you know that the sound you know frequencies zero to good You know cajillion hertz of sound and human hearing is only a little tiny band Of of the different frequencies that we can literally pick up in here"
+    },
+    {
+        "start": "00:01:47.560",
+        "end": "00:02:13.640",
+        "text": "And even as we get older we have that band narrows and we can hear less and less frequencies around us and sounds You know so we have a very narrow perception This is my point of What we can hear and what we can see and in you know Are the way we taste and touch and all of these things start to fade and things like that But it's limited But what's interesting is that your sense of smell is not In fact, it is your super power"
+    },
+    {
+        "start": "00:02:13.640",
+        "end": "00:02:38.200",
+        "text": "And one of the things about conventional knowledge is that you know and for the longest time You know the the science community thought that we couldn't really smell more than 10 000 different odors But what was interesting is that Ruger's university did a study in 2017 called the human sense of smell It's stronger than we think And what they came out with is that humans can discriminate Maybe one trillion different odors"
+    },
+    {
+        "start": "00:02:38.760",
+        "end": "00:03:08.840",
+        "text": "Right which is far more than claimed by the folk wisdom in poorly sourced introductory psychology textbooks And then cis and this study insists from their from their Results that the human beings can smell up to a trillion if not more They they you know they ran out of numbers to be able to calculate How many different odors a human being can pick up And why am I telling you this on a on a video about biohacking body odor Well, this is my point is"
+    },
+    {
+        "start": "00:03:08.840",
+        "end": "00:03:37.800",
+        "text": "For whatever reason, you know, whether you subscribe to intelligent design or simulation theory Or you're just an agnostic or whatever But there's some reason that our physical bodies We're given this superpower and it's a superpower of smell Which implies to me and i'm just making an assumption here that odors Play a significant role in our world in our lives and you know when you look at"
+    },
+    {
+        "start": "00:03:37.800",
+        "end": "00:04:07.160",
+        "text": "The concept of biohacking and you know and biohacking simply means somebody who's very much attuned right to health healing longevity and physical performance cognitive performance Athletic performance, but you know these are biohackers typically are your health in oriented individuals Who are really taking it seriously much more than you know the normies around us, right? And for someone who's that much interested in the health and the interesting thing was if you go on youtube"
+    },
+    {
+        "start": "00:04:07.160",
+        "end": "00:04:33.800",
+        "text": "No one's done a video about biohacking body odor I mean I did find one that dave aspry he did a short on it and he just talked about what you eat But that's such a superficial level Of information regarding like hey really what is body odor? How important is it to our health and you know and just an overall performance and our healing and all of that And and so that's kind of what I just I started going down this rabbit hole"
+    },
+    {
+        "start": "00:04:33.800",
+        "end": "00:05:02.360",
+        "text": "And so this is kind of where I I wanted to share it with you first things first I just want to point out that showering and using deodorant is just masking You're not really dealing with the actual cause of the body odor Right, which is driven by three key factors And if you really want to work on that and that is in factor of your health, you know You can't I mean this is my opinion. I don't think any one of us who is health conscious"
+    },
+    {
+        "start": "00:05:02.360",
+        "end": "00:05:31.640",
+        "text": "can really discount the concept of Body odor if you don't take that into wanting and to account as to one of your things That's on your list of things to worry about and you know, that's not not that's say worry about But focus on I guess is a better phrase But you know biohackers are talking about a phytophagy And sentilinics and they're looking at you know saunas and you know hyperbaric oxygen chambers and all this stuff That we do right, but nobody talks about body odor. So that's what this video is all about"
+    },
+    {
+        "start": "00:05:31.640",
+        "end": "00:05:57.720",
+        "text": "So first things first what causes body odor way beyond the the superficial aspect of what we eat And you know according to the american society of microbiology in an article or actually a paper They wrote published in december 30, 2021 called Microbial origins of body odor. Well, it kind of came down You know in that article they came down to two specific things from a microbiology"
+    },
+    {
+        "start": "00:05:57.720",
+        "end": "00:06:27.320",
+        "text": "You know the sciences the scientists that study this stuff and they really identified the source of smell That are emanating from our bodies is coming from key bacteria And key volatile fatty acids and so, you know, just to give you an example from the article It's quite a lengthy article kind of summarized right here But you know if you've got smelly feet, which is what they consider They called it the cheesy smelling odor, you know, that's called by staphylococcus And it's it's a bacteria called staphylococcus epidermis"
+    },
+    {
+        "start": "00:06:27.320",
+        "end": "00:06:55.400",
+        "text": "And then what that bacteria does is it degrades the loosen in your sweat to create an isovalleric acid You know, and that's just how they talk, right? But you think about that, you know, it's just right off the bat You know when you look at fish-like body odor is created by that bacteria musty body odor You know if you have a musty odor you have this bacteria living on your skin And there's actually a bacteria that causes people to smell like boiled cabbage"
+    },
+    {
+        "start": "00:06:55.400",
+        "end": "00:07:20.040",
+        "text": "But the idea here though is and you hear this a lot and you know in in biohacking You know the whole mine gut connection, right the importance of your healthy gut microbiome There's entire conferences that all they talk about is a healthy gut microbiome Well, where are the people who are talking about a healthy Skin microbiome, and that's what we're talking about here. It's like you literally have"
+    },
+    {
+        "start": "00:07:20.040",
+        "end": "00:07:48.040",
+        "text": "Up to and last paper I read was we have up to three to six pounds Of bacteria that live with us Every one of us every adult human being has up to three to six pounds of our body weight is consists of these Little tiny creatures that live with us and on us as symbiotic relationships that we have with these these critters And they're part of our overall, you know, we are in an environment"
+    },
+    {
+        "start": "00:07:48.040",
+        "end": "00:08:12.200",
+        "text": "We're not just you know a person. We are an environment a symbiotic organism that has all this stuff growing on us and in us Living with us and we have this symbiotic relationship. That's you know, that's been developed over eons So the idea here that i'm trying to convey is that there is a very critical role Of bacteria as it relates to body odor and how important it is"
+    },
+    {
+        "start": "00:08:12.680",
+        "end": "00:08:39.240",
+        "text": "That you focus or have a focus on your skin microbiome, and there's also an oral microbiome What's going on in your mouth? And of course, as I mentioned, you know The key one that everyone focuses on as your gut microbiome, but this video we're talking about your skin microbiome So if you've got some cheesy smelling feet or you know someone who has You know, they've got an issue with a bacteria"
+    },
+    {
+        "start": "00:08:39.560",
+        "end": "00:09:07.480",
+        "text": "That's living, you know, their microbiome on their skin has this bacteria Now the other thing too about the key volatile fatty acids where you know the the folks that Wrote the paper discovered that hey, you know, there's a if it's a goat like odor And I I personally have never ever lived with a goat. I'm not sure what goat smell like I live with dogs and they have their own little smell and you know the puppy smell different than the adults and all that"
+    },
+    {
+        "start": "00:09:07.480",
+        "end": "00:09:35.800",
+        "text": "But there's a goat like odor that's caused by a fatty acid called three methyl two hexonic acid 3m 2h, you know, and then there's a cumin like odor caused by another fatty acid and then rotten onions or rotten meat is Actually a fatty acid called three methyl three sulfal hexane One all I guess that's how you pronounce it But then this one I mentioned earlier this old people smell it's also known as nursing home smell"
+    },
+    {
+        "start": "00:09:36.120",
+        "end": "00:10:05.480",
+        "text": "That's actually been isolated down to an unsaturated aldehyde and it's pronounced or it's a it's a fatty acid called two normal Two known and all that's how you pronounce it. And so that is the origin Of smells that coming off of us are bacteria and also Uh from fatty acids and so now that we've identified. Hey, what's causing Our body odor and then of course the severity of the body odor because we all have different ranges of body odor"
+    },
+    {
+        "start": "00:10:05.800",
+        "end": "00:10:33.160",
+        "text": "And how do you biohack that? How do you go? Wait a minute? I you know, I need to take better care of my skin microbiome And these fatty acids like what's the deal with that? I you know, obviously I don't want to smell like rotten onions And so how do I deal with these fatty acids that are causing these odors coming off of me As opposed to just trying to mask it all the time And so there's this other point though before I jump into the how-to part Which is body odor and diseases and this is I think the most important part"
+    },
+    {
+        "start": "00:10:33.560",
+        "end": "00:10:57.160",
+        "text": "About biohacking for health as it relates to body odor is that you know, you could literally have a disease Either it's identified i.e. Diagnose or not diagnosed But what's interesting is that up to per the cleveland clinic they wrote a paper About body odor and diseases where they identified that several medical conditions and diseases are associated with changes in a person's"
+    },
+    {
+        "start": "00:10:57.640",
+        "end": "00:11:23.800",
+        "text": "Usual body scent so you're not only could your body odor be driven by you know, let's say what you eat Obviously if you've ever been around a bunch of koreans, you know what i'm talking about Nothing about you koreans. I love you guys, but you're all small and garlic anyway So but the idea here is that yeah, you know, you've got you've got your skin microbiome You've got you know, these fatty acids that are causing odors You know, and then you've also could could possibly have"
+    },
+    {
+        "start": "00:11:24.280",
+        "end": "00:11:49.080",
+        "text": "A condition that's putting out an odor and now the cleveland clinic was able to identify Very specific odors that are able that are that are diseases that cause specific odors And that it includes diabetes and gout if you're going through menopause Overactive thyroid liver disease kidney disease infectious diseases and and Parkinson's are able to be identified by a particular odor"
+    },
+    {
+        "start": "00:11:49.480",
+        "end": "00:12:17.560",
+        "text": "And so that's how important, you know, if you're going to biohack odors and you might need to think about hey, you know What if i'm working on odors and and i might have you know, and you might have one of these types of things And that's putting out another different odor and so fixing that problem obviously resolves the odor But the interesting part here is that there's the concept of how do you detect all of that? And so this is where it comes up in the whole field of medical detection dogs Now there's this entire you know field of you know of people"
+    },
+    {
+        "start": "00:12:17.560",
+        "end": "00:12:46.520",
+        "text": "In scientists that are working with dogs and they've trained them to identify all of these different types of of diseases And they're using for diet they're using them from diagnostics, but here's the thing You know, I read several articles on medical detection dogs It is it's a real thing if they people are they're trained to do these things And the problem is is that it competes with all the money that big pharma makes with all the diagnostic testing You know instead of just bringing in a dog and sniffing the patient and then the dog will tell you hey, you know"
+    },
+    {
+        "start": "00:12:46.520",
+        "end": "00:13:15.960",
+        "text": "What this this person has that's how I guess that's how it works But you know the whole idea though is that you know, so there's a medical community Of of you know what I call awaken alipas that are out there looking for what's actually Working best and don't subject your patients all of these tests You know and then of course in all the money that these things cost but just having a dog You know, so there's a group of people that you know do group of doctors alipas I want to use these dogs and of course there's the medical establishment that says, you know, no, that's just you know"
+    },
+    {
+        "start": "00:13:15.960",
+        "end": "00:13:42.680",
+        "text": "That's crazy. So, you know, so it's kind of it's a fringe kind of thing But right now there really are such a thing as medical detection dogs and there really are doctors out there Using it, but what's more interesting and of course we all know dogs have a sense of smell That's way greater than humans and humans as you know, it's your superpower But what's interesting is that there's actually a can a hereditary condition That humans could have and this is the amazing story of a lady named joy mill nay"
+    },
+    {
+        "start": "00:13:42.680",
+        "end": "00:14:09.240",
+        "text": "Who lives in perth scotland and this lady's you know, short story is, you know She's just a regular lady. She's a retired nurse and then one day, you know her her older husband and her You know, she started smelling something and if you know, you know, you know, you know women If they have this weird smell in their house, they're gonna track it down like Sherlock Holmes And then she just went through every possible thing trying to find out what the hell that smell was and she finally narrowed it down to Her husband"
+    },
+    {
+        "start": "00:14:09.240",
+        "end": "00:14:37.080",
+        "text": "And then she just tried to you know, basically harass the hell out of this poor old guy You know, I need to smell and you have this weird smell and she finally harassed him enough to drag his ass to the hospital And and it was what they discovered was after some testing that they did on this guy Trying to figure out what the smell was because she kept insisting that he had this weird smell that he didn't have in their entire marriage prior And that he was diagnosed with Parkinson's and so now what was interesting is that the"
+    },
+    {
+        "start": "00:14:37.720",
+        "end": "00:15:04.520",
+        "text": "University of I think the University of Edinburgh In Scotland got wind of this lady and and this issue with her husband and they decided to test miss missus malen And they discovered that she had something called hereditary hyperosima and what that That particular genetic, um, you know, uh, I guess abnormality. We'll call it. I'll call it a gift You know, was she has the ability to sniff it out"
+    },
+    {
+        "start": "00:15:05.080",
+        "end": "00:15:33.960",
+        "text": "And so they tested her they tested her with you know, this basically ran different experiments on her With people who were you know, they took the they had people who with and without Parkinson's They wore a t-shirt for a whole day then they gave them they gave her the t-shirts to smell And she identified 100 percent of the time with absolute accuracy The people's t-shirts who had Parkinson's and the ones who didn't she could say yes or no And she actually identified somebody who didn't have it and she said yeah, he's got it and they retested him and he had it"
+    },
+    {
+        "start": "00:15:34.200",
+        "end": "00:16:04.840",
+        "text": "And so this is an actual real thing people and dogs Or certain people have the ability to smell the odors coming off of diseases Which is the key issue here about body odors that it could be driven by disease as well And that's something to be really, you know, really aware of so in the in the world of like hate So how do you bio hack body odor? Okay? Well, first thing is you got to overcome your programming and what I mean by that Simply is that, you know when I took a look at"
+    },
+    {
+        "start": "00:16:04.840",
+        "end": "00:16:34.200",
+        "text": "All of the material about body odor, you know over arching, you know Message was everybody is so I mean are especially in the western world right now. I live in the western world myself You know, we're just so programmed to think that body odor is just this horrible, you know, social You know, you know problem and you know or issue and people who smell are like gross and you know, and it's just like, you know Hey, but you know what a hundred years ago. Nobody even cared about that"
+    },
+    {
+        "start": "00:16:34.200",
+        "end": "00:17:03.720",
+        "text": "So what is that issue here about programming? And so, you know, it's interesting, you know, the national geographic wrote an article called why did Body odor start grossing us out. They've you know, and actually just this article came out in the national geographic Just you know, june of 2020 for just this year And the thing that you know, they did their research and they wrote this article It's you know, it's the national geographic and they basically concluded hey back in the 18th and 19th century You know bay, you know, bathing became more common back then prior to that"
+    },
+    {
+        "start": "00:17:03.720",
+        "end": "00:17:33.800",
+        "text": "It just wasn't a thing except for maybe the asians, right? And basically, you know, it started to you know, this this change in social behavior started forging a new association between body odor and negative things Like poverty and disease as more as the more educated people in the upper class began to wash They became aware that the working classes and their servants smelled So what really happened back then and this is what's programmed all of us since then is that bathing and body"
+    },
+    {
+        "start": "00:17:33.800",
+        "end": "00:18:01.640",
+        "text": "Care became a way for the elite to reinforce their status It became bourgeois to smell nice and so or to be clean You know, and we're actually not be clean to not have body odor And so if you were bourgeois, right and somebody had a any any little whiff of a body odor They were considered low class and so everybody in the low class didn't want to be low class And so they took on this mindset that oh to smell"
+    },
+    {
+        "start": "00:18:01.640",
+        "end": "00:18:28.840",
+        "text": "Is bad and I don't want to be low class I want to smell like high class and that's kind of that programming that we've all kind of suffered from ever since then and of course You know, you've got Entrepreneurs and profiteers and they're going to just capitalize in on this this social, you know Thing the social structure about body odor, but my point here is to overcome your programming There is nothing wrong"
+    },
+    {
+        "start": "00:18:28.840",
+        "end": "00:18:58.040",
+        "text": "And you are not low class. I am not low class none of us are low class And we're not the bourgeois, you know aristocrats Just because we smell like a human being and that's the point We all smell we are human beings and we will smell like human beings Just like my dog smells like a dog There's nothing wrong with that and we've been programmed to think that there is something wrong with that And that's where it leads to the next bullet is we mask it"
+    },
+    {
+        "start": "00:18:58.040",
+        "end": "00:19:24.920",
+        "text": "That's what we've been trained by all the commercials and all the marketing And even you know and everybody around us is like, you know Oh, you have to put on deodorant you have to put on clones and perfumes and all this crap And we've been masking our own natural smell. That's what i natural And there's and that we shouldn't we need to stop a stop thinking that it's not natural Stop thinking that it's a bad thing because it just is a thing"
+    },
+    {
+        "start": "00:19:24.920",
+        "end": "00:19:54.040",
+        "text": "And more importantly, we need to stop masking and there's a huge reason why get to that in a second But I think that when we take an actual look and say well, you know, it's about severity right? We we all have a natural smell Okay, but if you have something that goes beyond natural smell like it's really offensive To yourself, then you know, then you need to start looking at how do I hack that? How do I bio hack my body odor if it's if it's a little more, you know, if it's more than just you know, quote"
+    },
+    {
+        "start": "00:19:54.040",
+        "end": "00:20:20.360",
+        "text": "My normal human smell, you know, and you know, let's let's talk about what that means definition wise But the idea of those hey, you know, if you want to bio hack your body odor beyond just what you would consider nominal Stank, you know, then hey, we need to look at the skin microbiome We need to look at our toxic load and we need to look at reducing our oxidative stress and here's why So let's just start off with this"
+    },
+    {
+        "start": "00:20:20.360",
+        "end": "00:20:47.080",
+        "text": "Now we go back to that article micro micro Microbial or origins of body odor by the american society of microbiology To uh, december 2021 now in that article there's a section called deodorizing body odor So when we talk about masking, this is the problem with masking and this is why I I don't and i'm going to come in and just go public. I don't use deodorants clones nothing"
+    },
+    {
+        "start": "00:20:47.080",
+        "end": "00:21:13.720",
+        "text": "I don't put anything on my skin. I just wash soap and water. Okay, because what they were saying Uh, the american society of microbiology is that deodorants contain chemicals that kill skin flora and block production of stinky byproducts Okay, so in other words, they kill off all the bacteria, but just like your gut microbiome You've got friendly bacteria and you've got very unfriendly bacteria and so this is like taking antibiotics"
+    },
+    {
+        "start": "00:21:13.720",
+        "end": "00:21:41.720",
+        "text": "Right and it's so if you know anything about your gut microbiome if you destroy your gut microbiome with antibiotics You're killing your good bacteria your friends and you're killing your enemies and you don't want to be killing your friends Okay, so the idea here is that antiperspirants reduce the amount of sweat clogged by clogging and that's what they do But you know what you don't want to clog your sweat clants that your body's natural way to detox And then also many contain aluminum chloride"
+    },
+    {
+        "start": "00:21:41.720",
+        "end": "00:22:11.320",
+        "text": "Which it creates a gel-like substance that forms a plug at your sweat ducts and your skin Now many deodorants and antiperspirants also contain micro my antimicrobials like pop propylene glycol I'm sorry triclosan and benza colin. I'm sorry benzo conium chloride Which decreases the bacterial abundance and result in an altered skin microbiome in the armpits So what are these? These are some pretty harsh"
+    },
+    {
+        "start": "00:22:11.320",
+        "end": "00:22:36.520",
+        "text": "Chemicals that you're putting on your skin. You're plugging up your lymphatic systems You're blocking your ability your body's ability to detox and that is simply not good You know, so it's like that's why I'm anti-deodorant anti-antiperspirant Just because I don't want to do that to my skin I want to work with my my skin microbiome just like I work with my gut microbiome"
+    },
+    {
+        "start": "00:22:36.520",
+        "end": "00:23:05.240",
+        "text": "I want to help my friendlies flourish and I want to do everything I can to kind of you know help my body be as natural and healthy as possible But what's interesting is that they also went on to say in the article That while deodorants and antiperspirants do the minimum job of reducing bacterial load and their byproducts Respectively a growing body of work is focusing on the use of probiotics and artificial micro Microbial communities to reduce malador. So"
+    },
+    {
+        "start": "00:23:05.240",
+        "end": "00:23:30.440",
+        "text": "That's pretty interesting. So is there such a thing as a probiotic? Just like you would take for your gut, but is there one for your skin microbiome answers? Yes, of course because that's in Doing the video. Hey, you know what? Did you know that there was a scientist? And he didn't shower for 15 years To prove his point and and by the way, that's serious serious dedication to your work"
+    },
+    {
+        "start": "00:23:30.440",
+        "end": "00:23:58.840",
+        "text": "And this guy's name is David will with clock woodlock. Sorry. He's a chemical engineer living in Cambridge, Massachusetts He actually went on to form a chemical or like a pharmaceutical company called aobiol Okay, and the and the product line is called mother dirt. Sorry mother dirt Now David woodlock woodlock as a chemical engineer, you know, basically it was just Whatever reason he just really became interested"
+    },
+    {
+        "start": "00:23:58.840",
+        "end": "00:24:22.360",
+        "text": "in in, you know, microbiome friendly and probiotic products for skin because he got his inspiration You know watching horses roll in dirt as that's their way of bathing Okay, so now woodlock hope that he would natural that he would be able to naturally replicate the animals way of bathing and and maintaining their healthy skin, you know"
+    },
+    {
+        "start": "00:24:22.360",
+        "end": "00:24:48.360",
+        "text": "They're for whatever, you know by using the same concept of using the bacteria in the soil that horses do and you know Chinchilla's also do the same And several animals will also do the same. They'll rub themselves in the dirt. My dogs rub themselves in the dirt all the time And so that really interested him as a concept for how they maintain their skin microbiome And could that apply to humans? So what he did was he actually went out and harvested"
+    },
+    {
+        "start": "00:24:48.360",
+        "end": "00:25:18.600",
+        "text": "Bacteria from the soil at local farms and fed them with ammonia and minerals And he just started cultivating different cultures of bacteria from the soil that the animals were using And then he would then turn those Then when they turn the ammonia into nitrates Then he knew he had what he wanted and he started narrowing them down to a single strain You know, so after lots of experimenting trying to find the right bacterial strain That seemed the happiest on human skin that was you know that worked really well for human skin"
+    },
+    {
+        "start": "00:25:18.600",
+        "end": "00:25:46.680",
+        "text": "And after so then he discovered this thing he called it ao mist It's a bacterial strain and after he applied the bacteria on himself that he had cultured the same stuff that the horses were using He stopped smelling. So as an ex as an experiment, he kept that up for 15 years He did not take a shower and all he would do is he was just replenish The healthy bacteria onto his skin and that healthy bacteria"
+    },
+    {
+        "start": "00:25:46.680",
+        "end": "00:26:12.840",
+        "text": "Basically, and in his you know, this is his testimony He stopped smelling okay, and it just took care of his body odor because he was working with his natural Skin microbiome using a probiotic he had created. So there's there's so here's some evidence And of course, there's all that stuff on his website. You can look it up So I decided back during the pandemic days And this is something I decided i'm a tinker"
+    },
+    {
+        "start": "00:26:12.840",
+        "end": "00:26:42.040",
+        "text": "I wanted to know hey, is this gonna work? So actually, you know, we as you know, I'm as many of you did You know, we got sent home right to close the office told us all to go work from home So I figured hey, I don't have to go to the office anymore. I'm gonna get up at eight o'clock shower every day I can get up at seven 55 roll over jump onto my desk and log into zoom, which a lot of you guys working from home Do so, you know, I don't have to do that whole freaking hour prep You know, and i'm thinking hey, well, this is you know great opportunity to try this tink"
+    },
+    {
+        "start": "00:26:42.040",
+        "end": "00:27:10.920",
+        "text": "So I decided to start tinkering with it. And so I decided hey, i'm gonna give it a try. So this is my experience here. You know, can you Modify your body odor or can you reduce yourself to like just naturals? You know, can you manage your body odor? This is the key bio hack your body odor with a skin microbiome probiotic the answer is yes David Whitlock did it and I did it. So now what I did was this is my test So back in the pandemic days where I did for three months"
+    },
+    {
+        "start": "00:27:10.920",
+        "end": "00:27:35.960",
+        "text": "I decided that hey, you know what i'm gonna give this a try and I did not take a shower for three months And so this is my story. I first of all I got I acquired the mother dirt product called ao mist And I just want to say that you know for whatever reason they discontinued this product in 2022 Don't know why And but there are other skin probiotics on the market if you just search for them"
+    },
+    {
+        "start": "00:27:35.960",
+        "end": "00:28:04.840",
+        "text": "And you could probably try other different strains and things like that if you want to repeat the experiment and you're as crazy as I am But basically back then though I did buy the mother dirt aos mist and I just followed the directions And then I just stopped showering and instead of showering I used a probiotic on my skin to see what would what the effect would be and I wanted to see if David Whitlock You know what basically he said he stopped smelling I want to see if he was telling the truth. I tried it for myself and what I found out is that by week two"
+    },
+    {
+        "start": "00:28:04.840",
+        "end": "00:28:30.680",
+        "text": "To four so somewhere in there In my experiment, I reached what I would consider peak stank You know it's back then I live in in Hawaii right and go to the dog parks and taking my dogs for walks in the heat all the day Every day right and and I was like, okay. This is my discovery was, you know, you don't you don't stop smelling It just it takes a while that was my first observation"
+    },
+    {
+        "start": "00:28:31.080",
+        "end": "00:29:01.640",
+        "text": "You're you're applying a probiotic mist yourself your stinky parts and you don't stop smelling You just gets it just gets Stinkier and stinkier and stinkier and you reach this peak stink And this is when the norman coefficient kicked in. This is my dog norman This is my my little man. I love this guy more than anything And so him and I were back in the pandemic and we're living together Kid went off to college just the two of us. I don't think I could have done this if I had a spouse"
+    },
+    {
+        "start": "00:29:01.640",
+        "end": "00:29:29.560",
+        "text": "I don't think the spouse would allow me to have done this experiment But it's just the dog and I and so the norman coefficient This is the uh aspect of the experiment that I gave this term to was that norman and I would sleep on our queen size bed And norman up into this point. I've had him for nine years now So back then I'd had him for several years and so norman sleeps right here This isn't this is a diagram of calmer sleeping in his bed with norman And so norman would always sleep right here"
+    },
+    {
+        "start": "00:29:29.560",
+        "end": "00:29:58.840",
+        "text": "He'd and so I'd reach out and he had pet him and he just sleep right next to me every you know for years He'd sleep with me and then so but what I discovered that the norman coefficient on the experiment Was norman after about three weeks decided he was not going to whoops He was not going to sleep there anymore. He decided that he was going to sleep down here At the bottom of my bed and so he would not no matter how much I coaxed him to sleep Were you know like sleep next to me?"
+    },
+    {
+        "start": "00:29:58.840",
+        "end": "00:30:26.440",
+        "text": "I kind of you know keep my hand on him at night and he would just like nope I'm not doing it and I'm not going to sleep next to you and so for like of several weeks Norma would only sleep down here at the foot of the bed and he would not sleep next to me And so that's when I started to think maybe the experiment was not going very well And and witlock was you know full of bs When your own dog rejects you you've got to you know, you have to do some self contemplation and how bad you smell"
+    },
+    {
+        "start": "00:30:26.440",
+        "end": "00:30:56.680",
+        "text": "So, but you know bottom line though is I wanted to stick with the experiment And so you're irregardless of my dog now rejecting me and would not sleep with me Because I smelled so bad. I decided to keep going and so what I did though was I decided okay. Well Even though the you know the instructions were using it weren't very clear about exactly what you should do Around that same period of time when I had reached peak norman coefficient where he stops sleeping next to me I decided maybe I should just use some water and a washcloth"
+    },
+    {
+        "start": "00:30:56.680",
+        "end": "00:31:22.440",
+        "text": "And just do a little bit, you know a cleaning up And I did that and then I reapplied the ao mist and so after I did that I discovered that you know that the smell had peaked and that it started to go down to what I would consider what i'm calling Nominal stink and at that point about you know the month two uh, you know like two weeks after or so like that and"
+    },
+    {
+        "start": "00:31:22.440",
+        "end": "00:31:51.000",
+        "text": "Yeah, I really really started kicking in that the actual probiotic on my skin started kicking in I wasn't as bad and then the norm the norman. This is all measured by the norman coefficient the norman Started sleeping next to me again So by month two norman was right back to where he normally would sleep with me Right next to me and then nothing changed after that So if you have a norman, you can definitely do this and repeat this experiment"
+    },
+    {
+        "start": "00:31:51.000",
+        "end": "00:32:18.520",
+        "text": "But the funny part was was you know that when the dog rejects you that's when you know you've reached peak Uh, and then you know when he comes back to you, then you know that's starting to work So I did it for three months and for the like I said the rest of the experiment after three months Uh norman was like totally normal Sleep right next to me and then my own interpretation of my smell Was that I had reached this kind of like this equilibrium and I know that it's really hard for all of us to judge our own smells"
+    },
+    {
+        "start": "00:32:18.520",
+        "end": "00:32:45.240",
+        "text": "You know everybody's like that. I mean, you know people at fart and all that stuff But the whole idea is that you know, I it's it was that I did have another being In my home kind of you know weighing in on my experiment So I just wanted to point that out that this wasn't just an objective Measurement of my own opinion. I I had another being in there judging me But the idea of the here was that you know, I discovered in my experiment that your stink will continue to go up"
+    },
+    {
+        "start": "00:32:45.240",
+        "end": "00:33:10.840",
+        "text": "If you use you know water in a washcloth and then reapply the probiotic and you do that a week every week Then eventually the probiotic kicks in And it brings you down to this nominal stink level where you're just sort of you smell like a human You know and and you just and it just tailors off and it just remains consistent For months and so that was it and now why did I only go three months and not you know all these years"
+    },
+    {
+        "start": "00:33:10.840",
+        "end": "00:33:40.200",
+        "text": "There is a drawback to not showering. I discovered and this is what whitlock never did mentioned in any of his work Was that there's a drawback to not showering and I discovered it was exfoliating Uh, and so you end up with this then I'm just gonna be honest. It's tmi. I know but you end up with a crust of skin That doesn't get washed off. Okay. Um, and so even though your odor is being taken care of your skin accumulation Becomes very uncomfortable. So I went back to uh, you know showering"
+    },
+    {
+        "start": "00:33:40.200",
+        "end": "00:34:10.360",
+        "text": "Regularly but not as often and ever since then I haven't had to reapply the aol mist Um, I don't shower daily like I used to when I was in the office Um, and it's most likely it's usually kind of weekly now and I maintain a nominal stink Uh, you know by my standards and of course norman standards. So there you go. That was an interesting experiment You guys should give it a try. Let me know how that goes for you now the other piece of information I want to really share now. This is charlotte garson. I don't know if uh, those of you guys who know"
+    },
+    {
+        "start": "00:34:10.360",
+        "end": "00:34:40.520",
+        "text": "Uh who her I think her father's name was max gerson the garrison miracle. Uh, she runs multiple garrison clinics She's a much older lady. I think in her late 80s. She's spent her entire life as a natural path Helping people uh, care from all sorts of different diseases through a natural means that her father had created the garrison method And so this lady is a lifelong health Person and healer and so in in a recent lecture she actually was talking about the hidden dangers"
+    },
+    {
+        "start": "00:34:40.520",
+        "end": "00:35:08.920",
+        "text": "Of of body odor and so I just wanted to play this with you and let's talk about what she has to say I didn't smell bad Perspiration does not smell unless you're toxic. So you say well, that's not sociable. It's not admissible I can't go out in the world like this. I got to stop this. So what are you really doing? The body's last desperate attempt to get rid of toxins through perspiration What is the normal way of detoxifying through the liver and the feces through the kidneys and the urine"
+    },
+    {
+        "start": "00:35:08.920",
+        "end": "00:35:37.800",
+        "text": "Breathing out to carbon dioxide and so on But when everything is blocked and the liver is overloaded and the kidneys are overloaded Then the body tries to get rid of things through perspiration You say oh nobody you can't do that to me. It's not sociable and you block it. You stop it So what are you doing? You're pushing these toxins right back into the lymphatics right back into the breast Then you surprise this breast cancer. It's a contributing factor. I'm not saying it's the only thing in men"
+    },
+    {
+        "start": "00:35:37.800",
+        "end": "00:36:03.880",
+        "text": "It's a different story Breast cancer in men is rapidly increasing. It's now what percent of female and in men it's particularly aggressive You can't use ointments or creams or minerals or anything Underarm except a little soap and water or maybe a little vinegar water and then you say yes, but I smell what's my answer Eat right and you won't smell Well, you know"
+    },
+    {
+        "start": "00:36:03.880",
+        "end": "00:36:33.880",
+        "text": "To all credits, you know charlotte gerson is not just about eating and you know, she should know that but you know This is just a clip But the idea here is she's right your lymphatic system is what you need to detox as I had already mentioned So step two in biohacking body odor is you've got to absolutely decrease your toxic load And how you do that is very problematic Okay, because it's takes a lot of effort and I did this"
+    },
+    {
+        "start": "00:36:33.880",
+        "end": "00:36:58.760",
+        "text": "Over 15 years ago, you know When I started my journey in tinkering and biohacking and wanting to just you know change my life Was that I one of the first things I did was you know throughout my microwave and all this stuff But one of those things was I went through my house and anything that touched our skin My my daughter was young at the time, but anything that touched us"
+    },
+    {
+        "start": "00:36:58.760",
+        "end": "00:37:28.760",
+        "text": "Or that we would smell right that would we would ingest in our mouths through our nose Or you know, or through our skin I got rid of and I replaced with The natural organic non gmo virgin, you know, and that virgin version of it So all of the household products that were just incredibly toxic Out the door replaced with, you know, natural stuff sundries the same thing our soaps and our shampoos I even put filters, you know, like like chloride"
+    },
+    {
+        "start": "00:37:28.760",
+        "end": "00:37:57.480",
+        "text": "You know chlorine filters on the showers and all of that stuff And then in terms of my daughter being female and her wanting to get into cosmetics I had to spend big bucks on the healthy stuff and not allow her to do what you know What most women do which is very unfortunate? Ladies if you haven't looked up the research on that By the time you're 30 if you're an active person who uses cosmetics You have absorbed at least three pounds of lead by the time you're 30, you know through your face"
+    },
+    {
+        "start": "00:37:58.200",
+        "end": "00:38:24.760",
+        "text": "And so you know cosmetics are one of the most toxic ingredients you could put on your skin Your household products your cleaning products your laundry soap literally is the number one Problematic toxic chemical in your house You know as laundry soap Making sure you're using natural soaps and of course all the sundries toothpaste and deodorants and all that stuff Right if you're using it, you know, it's got to be where you have an eye on what's going on"
+    },
+    {
+        "start": "00:38:25.080",
+        "end": "00:38:53.320",
+        "text": "You've got to stop poisoning yourself with all these toxins Right and that affects your body odor and then at the same time you've got to learn how to detox You know, you know and get because you're no matter what you're still going to absorb it You're going to absorb it just driving down the road and all the all the fumes coming off of all the cars You're bringing that in you're constantly in taking toxins So the best and the more you can do at home Right the lower your exposure and then secondly you've really got to focus in"
+    },
+    {
+        "start": "00:38:53.880",
+        "end": "00:39:23.640",
+        "text": "On detoxing so stop masking stop plugging up your your skin allow your lymphatic You know system to basically, you know get rid of it And if you have a body odor problem and and like as charlotte garson just explained It's because you've reached that toxic load and your body can't handle it anymore And it starts to excrete through your skin So if it's excreting through your skin, you've got it issues you really need to deal with and so if you decrease your toxic load You do some detox"
+    },
+    {
+        "start": "00:39:23.640",
+        "end": "00:39:52.040",
+        "text": "for toxins specifically You're going to see a way It is the way to biohack your body odor and decrease yourself down to a nominal Stank And so the last one here is the antioxidants and as I mentioned earlier in the video The society of integrated dermatology in a 2001 paper put out a report that's basically titled two noninol Newly found in human body odor tends to increase with aging"
+    },
+    {
+        "start": "00:39:52.040",
+        "end": "00:40:21.320",
+        "text": "And so bottom line it was a paper that proved the existence of old people's smell And they they basically concluded through their experiments and their study that the fatty acid smell Was was the result of oxidation, which was the result which is basically your rancidity Meaning that okay, and this is what this paper proved and this experiment proved was that that smell old people's smell is the result"
+    },
+    {
+        "start": "00:40:21.320",
+        "end": "00:40:51.400",
+        "text": "of the fat tissues in their bodies going rancid Due to oxidation, which is caused by you know free radicals Okay, let me say that again that Old people will have that weird smell Because their bodies are going rancid now try to imagine the Basically, it's the fast lane highway to death Is to take the where your body starts to be your body's"
+    },
+    {
+        "start": "00:40:51.400",
+        "end": "00:41:19.400",
+        "text": "Basically mutating your fat cells into rancid Assets red rancid oils and you're now you're living with all this rinsidity and and the idea here is that hey your your immune system Is working over time on all the other crap going on in your world And now your own body is poisoning itself because you literally are going rancid and you're offgassing all of that rancid smell That's being interpreted as old people smell"
+    },
+    {
+        "start": "00:41:19.400",
+        "end": "00:41:50.120",
+        "text": "Or the fatty acid to nono no no no and that's that's really it and then when I read this paper I was like whoa Again, I you know, I do not want to smell like an old person. I hate that smell Nothing against old people here, but I just don't like that smell and I am you know nearing old age. I guess I don't want to smell And yeah, I need to overcome my programming, but I don't want to smell like that So one of the most important things you could do your third step in biohacking your body odors"
+    },
+    {
+        "start": "00:41:50.120",
+        "end": "00:42:17.080",
+        "text": "You've got to be just chugging Anti-oxidants and the older you get you know, right? This is this paper concludes that it is a factor of aging So the older you get you should be really ramping up your intake of antioxidants And so when you look at the most popular antioxidants and these are these are these are part of my daily supplements is vitamin c coex i'm q10 I take I take quarter. I don't see you big one all"
+    },
+    {
+        "start": "00:42:17.080",
+        "end": "00:42:44.760",
+        "text": "It is a version of that. I take I take a full spectrum of vitamin E. I take glutathione with l lipoc acid It's activate the glutathione. I also do among like clear hydrogen You know, I do that as well and but my favorite is and then I usually as you all know Is I've been taking carbon 60 for like seven years now and I continue and will plan on forever Taking these super antioxidants to constantly be scavenging all of that oxidation stuff in your in my body"
+    },
+    {
+        "start": "00:42:44.760",
+        "end": "00:43:10.760",
+        "text": "It also is my way of detoxing by the way Antioxidants are electron donors. They will go after the toxins, right? So you've got a two birds one stone It'll knock out the toxins and detox you from a toxin standpoint and it also manages your oxidative stress So if you're really adamant about Not wanting to Have a strong body odor as you age"
+    },
+    {
+        "start": "00:43:10.760",
+        "end": "00:43:38.200",
+        "text": "Which is indicative of the quality of your health then you really need to pay attention to really really high intake of antioxidants And that's why I take all of these different antioxidants because it does that it does two of those things That's really the key point here. It'll help you detox the toxins And it'll also help you Oxidize, you know those free radicals so that you don't have your fat cells in your body going rancid on you"
+    },
+    {
+        "start": "00:43:38.200",
+        "end": "00:44:04.120",
+        "text": "Okay, and that all ties into what body odor? So that's it guys. That's how you biohack body odor really really need to pay attention again to your skin microbiome Try a probiotic for your skin. If you're taking one for your gut, why aren't you taking one for your skin, right? Really look at what your toxic load is make sure you're detoxing and reducing intake And number three again, you should be taking a"
+    },
+    {
+        "start": "00:44:04.120",
+        "end": "00:44:30.200",
+        "text": "Bloodload of antioxidants to stab off, you know, stave off all of those issues that the you know oxidation creates Which one of them is body odor. All right, so there you go. Hey, thanks for watching Hope you found this content interesting I just wanted to share the research that I was doing and then just I kind of like what I'm doing And just as an fyi the one piece of this that I haven't Done yet for myself and I'm really looking into it now is doing saunas"
+    },
+    {
+        "start": "00:44:30.200",
+        "end": "00:44:59.400",
+        "text": "Because saunas is really critical in stimulating your skin your lymphatic system into basically, you know working And keeping the pipes open and so forth. So I'm looking into that That's my last little step because I do all of these things I do all three things to manage my body odor and as I mentioned, you know, I I reached a point where if I'm wearing clean clothes I'm perfectly fine to go out in public and I have a daughter and I do ask her, you know, I do ask her Hey, how do I smell? She's like you just you smell fine. So I know that what I'm doing works"
+    },
+    {
+        "start": "00:44:59.400",
+        "end": "00:45:26.120",
+        "text": "Well, I have a dog that's will now sleep with me And I have a human that tells me I'm okay So that I know hey what I'm doing is working and so that's kind of how I'm biohacking my body odor Which is biohacking my health So anyway, if you found this content interesting appreciate if you like and subscribe You can find more about me at the tinker's academy video in the description Sorry link in the video description below and I also have a health and healing Telegram chat group. I'll put a link for that as well"
+    },
+    {
+        "start": "00:45:26.120",
+        "end": "00:45:53.800",
+        "text": "If you're interested in this kind of topic you have questions you want to engage with other people There's 600 plus people in there and we're just talking about Everything you can imagine about natural homeopathic Traditional Chinese medicine air medic any possible way other than the medical mafia's way To stay healthy to heal and to go and and to extend your life Okay, and live happy and healthy and all that fun stuff And that's where you would want to go if you want to chat with people like mind it"
+    },
+    {
+        "start": "00:45:54.120",
+        "end": "00:46:00.040",
+        "text": "Otherwise, hey, thanks for watching really hope you found this educational and interesting and you have a great day. Aloha"
+    }
+]

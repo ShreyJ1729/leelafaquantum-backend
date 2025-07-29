@@ -1,0 +1,362 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.480",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host Kay Elmer and today we are and I've got Phillip on the line and he's going to be sharing the results of the pain management frequency contest and we're really excited about who won, how it's going to work out and the new frequencies coming out. So I have got Phillip on the line. He's the founder of the Layla Quantum Deck. If you don't already know, good morning, Phillip, how are you today?"
+    },
+    {
+        "start": "00:00:29.480",
+        "end": "00:00:55.040",
+        "text": "I'm great. Thank you for having me on. Yeah, I'm really excited. I submitted my contest entry back in February or March, so it's been a while and just very eager to find out. I know everyone else is too as well as what happens. So let's go ahead and just I'll just let you run with it. I know everyone's excited to hear what happened and the discovery that you guys made that"
+    },
+    {
+        "start": "00:00:55.040",
+        "end": "00:01:24.600",
+        "text": "you mentioned in your interview with Luke's story the other day, I just watched that last night and that was a great interview, but yeah, you mentioned it. So let's go ahead and talk about that. So let me just before we get into the detail here, everybody, just the standard disclaimer, neither quantum upgrade or Layla Quantum Tech nor the Tinkers Academy recommend or endorse any specific test physicians, procedures, opinions or other information that may be mentioned in this video, reliance on any information appearing and discussing this video is solely"
+    },
+    {
+        "start": "00:01:24.600",
+        "end": "00:01:53.960",
+        "text": "at everyone's own risks. Statements made have not been evaluated by the EFSA or FDA or any governmental derivatives thereof. Quantum upgrade and Layla Quantum Tech products may represent or it's products that quantum upgrade and Layla Quantum Tech may represent or not intended to diagnose, treat, or prevent any disease. So keep in mind everyone that these frequencies are very unique in terms of what they do."
+    },
+    {
+        "start": "00:01:53.960",
+        "end": "00:02:23.120",
+        "text": "And then there, you know, and that there is a governmental oversight on health companies being able to openly, you know, talk about what they do. And so, you know, I just wanted to kind of stipulate that it's kind of a difficult kind of topic to discuss today, but we'll go ahead and just give that a shot in terms of what the frequencies are able to do and what they've been shown to do. And what's even more cool is that there's been a couple of basis studies already done on these."
+    },
+    {
+        "start": "00:02:23.120",
+        "end": "00:02:50.560",
+        "text": "So we'll get into that later, too. All right. So, Phillip, this is the big moment you had this, it was called the molecular pain management frequency contest. You announced it a few months ago, people sent in a bunch of submissions and say, hey, what happened? So what happened from there? Yeah. So first of all, sorry to everyone that it's taken so long. It was a longer process actually to get all the frequencies and we obviously had frequencies"
+    },
+    {
+        "start": "00:02:50.560",
+        "end": "00:03:19.840",
+        "text": "from all over the world sent in, actually, and a bunch of those from Europe. And then we just had to wait until everything also was shipped. We had some shipping delays. And then on top of that afterwards, I was just so crazy busy and we had some other things and we had actually a lot of frequencies to go through. That was also something that we didn't just want to go through like click, click, click, but we wanted to really be very thorough and thank you to everyone that participated because"
+    },
+    {
+        "start": "00:03:19.840",
+        "end": "00:03:48.080",
+        "text": "this was just absolutely amazing. There was so much good energy and amazing frequencies, amazing ideas that people had, you know, people send in also their their sheets, what they put in the frequencies and it was just amazing. And yeah, so we actually arrived at, it was basically three winner frequencies that we"
+    },
+    {
+        "start": "00:03:48.080",
+        "end": "00:04:16.560",
+        "text": "had and it was number one, number two, number three. And then we realized, wow, if you put these three together, this is amazing. Like it beat any, any single one of those by far and large, it was just amazing to put these three together. And then we had one last one where we didn't even think another winner could come because it was phenomenal already."
+    },
+    {
+        "start": "00:04:16.560",
+        "end": "00:04:46.360",
+        "text": "And then that frequency ended up for the pain management that we were looking for to be the winners. So then we were like, wow, this is crazy. We already had this amazing frequency and now there's the winners. So then we decided to have more than one winner because both frequencies are absolutely amazing. And the number one winner, I can announce her name real quick, give me one second."
+    },
+    {
+        "start": "00:04:46.360",
+        "end": "00:05:14.720",
+        "text": "I'm just glad it is Sarah Becker. Congratulations Sarah. Yeah. Yeah. So amazing job. She is from Germany and yeah, absolutely amazing frequency for pain management. And then we have basic, and so she will get this amazing grand block, which is not publicly available."
+    },
+    {
+        "start": "00:05:14.720",
+        "end": "00:05:42.760",
+        "text": "I think we will make it available at some point. It's just absolutely massive. It has new features. It has, it is by far and large, the most powerful block we've ever created. And that was the price, right? You know, we told people that would be the price. But these other three people that I'll mention right now, they will also get it. Because frankly, that frequency, yeah."
+    },
+    {
+        "start": "00:05:42.760",
+        "end": "00:06:08.200",
+        "text": "So that frequency was also phenomenal. And we called that one. So the first one will actually be called pain reconciliation frequency. Okay. So we can't cannot call it pain management just for regulatory purposes. So we will call it pain reconciliation. And the other one will be called heel 360. And why is that?"
+    },
+    {
+        "start": "00:06:08.200",
+        "end": "00:06:36.920",
+        "text": "Because it actually, while it also helps with the pain, let's call it reconciliation, it actually stimulates healing on, I mean, you can say from this physical level on all levels, right? And it stimulates that on a physical level, on an energetic level, on an emotional and mental level. And it's a wonderful frequency, absolutely."
+    },
+    {
+        "start": "00:06:36.920",
+        "end": "00:07:06.480",
+        "text": "We were blown away and by putting all these three together, frankly, right? So we did some tinkering on our end also, right, to even make that happen after this. But really amazing. So we had, who's this here? Oh, no, a pyramid of Santa. If that's written correctly, maybe it's the other way around, we can't tell. It could be, yeah, I think it's actually the other way around."
+    },
+    {
+        "start": "00:07:06.480",
+        "end": "00:07:34.440",
+        "text": "So Oksana Pierman, so it seems to be a lady, Oksana Pierman. And yeah, she's actually, so this is a whole group of people there in the same city in Germany. I think, I don't know, like how many different people participated, they, they're a group of tinkerers, apparently, that in these groups, they meet up and create frequencies all the time."
+    },
+    {
+        "start": "00:07:34.440",
+        "end": "00:08:03.200",
+        "text": "And I mean, a lot of those actually did not win, but yeah, there were several here that were absolutely amazing. So she is one of those, then the other one for this basically second place of frequency is Lydia Bischoff, also from the same city. And then the third one is from the U.S. and probably most people know him in the group. His name is El Neumann."
+    },
+    {
+        "start": "00:08:03.200",
+        "end": "00:08:32.520",
+        "text": "Hey, okay. Yeah. So El, I think he, so he's the one that actually put together also like a huge tutorial about Lydia products and he's been in the group for a long time. And yeah, that frequency was also amazing and it was so wonderful to see, to put them all together, what came out of it. And again, I must emphasize, so usually that it's not necessarily the case, right?"
+    },
+    {
+        "start": "00:08:32.520",
+        "end": "00:09:00.360",
+        "text": "For example, we also tested what if we put these together with the first one and that went with with Sarah's frequency and that didn't work at all, right? It's not a frequency you, you combine it just isn't a good outcome. So yeah, so this is it. And these two frequencies were really looking forward to it. I'm happy to go into more details. I will announce this on Telegram at some point today."
+    },
+    {
+        "start": "00:09:00.360",
+        "end": "00:09:24.920",
+        "text": "And yeah, then we'll go from there. Okay. Well, that's great. Okay. So just a couple of questions. So congratulations to all of the four winners, you know, kudos. That's fantastic strong, strong presence from the German group. So hey, kudos to you guys. Okay. So I'm just curious, like how many total submissions did you get for the contest?"
+    },
+    {
+        "start": "00:09:24.920",
+        "end": "00:09:51.400",
+        "text": "I think we had about 70 60 something, something along those lines. Okay. So then, so then Sarah won just on her own, right? And that's the one that you're calling pain reconciliation management. Is this pain, just pain reconciliation. And that was Sarah's, right? And, and that's, and so now what would, so I guess, so just to clarify for everybody."
+    },
+    {
+        "start": "00:09:51.400",
+        "end": "00:10:16.840",
+        "text": "So the singular frequency set that Sarah submitted is now called the pain reconciliation management frequency. And this guy does, I mean, I just want to make sure we got the descriptions clear. So you gave an earlier description. And I think that was for the heel 360. But how would you describe this one as, you know, a specific to like, why are they different and what makes this one different than the other one?"
+    },
+    {
+        "start": "00:10:16.840",
+        "end": "00:10:43.280",
+        "text": "And so this one is really what it was originally intended for, for, for, for pain, mainly on the physical level. So it, it helps with that. And I need to be very careful what I say, because you know that the truth is reserved for the FDA. And so we want to be really mindful of that."
+    },
+    {
+        "start": "00:10:43.280",
+        "end": "00:11:09.840",
+        "text": "And so that's what it helps with. And at the same time, it helps you to open up. So usually when you get in pain, you start to completely contract, which then actually can make it a lot worse. And this one helps to ease it."
+    },
+    {
+        "start": "00:11:09.840",
+        "end": "00:11:39.000",
+        "text": "And it helps you to really open up your energy system at the same time. So and it is really for that reason, if you have any type of pain coming up, this from our perspective is a really good choice to support you. Of course, if you have like huge pain, you know, talk to your physician and all of that, right? Okay. So this one's okay. Go ahead. Sorry."
+    },
+    {
+        "start": "00:11:39.000",
+        "end": "00:12:07.640",
+        "text": "That's a great frequency for that. And then the heal 360 is, it goes way further than just regarding pain way, way further. It literally, it stimulates, I can't, I don't really say healing process, right? So I'm not really saying it, but on all different levels that we could measure it on a physical,"
+    },
+    {
+        "start": "00:12:07.640",
+        "end": "00:12:37.120",
+        "text": "energetic, mental, emotional, it is very soft energy. It lifts you up. I mean, it's just, I mean, we were blown away. It wasn't necessarily the, you know, if you have knee pain, that's, it's also nice and it's also great. It's phenomenal. But then, you know, if you have knee pain, I would suggest Sarah's. But this one here is one you, ah, you can, you can use in any situation actually."
+    },
+    {
+        "start": "00:12:37.120",
+        "end": "00:13:06.400",
+        "text": "Okay. Okay. Okay. So that's the, okay. That, I was wondering like, what's the difference? So one is more of a physical and then the other one is more of like, ah, just the, you know, like, I guess, oh, encompassing, like, you know, you could have, well, pain from just grief and loss, right? Is that kind of what you're meaning? Yeah. But the heal 360 really isn't just about pain. It's about, it's literally about healing. Healing. Okay."
+    },
+    {
+        "start": "00:13:06.400",
+        "end": "00:13:31.360",
+        "text": "I mean, so it's a huge difference between the two frequencies. Oh, okay. All right. Yeah. And so how does the heal 360 compare to the current heal frequency? I guess it's called the primal healing frequency, right? Yep. How do those two then compare? Yep. Well, it's this, this one here goes even further, ah, from our perspective."
+    },
+    {
+        "start": "00:13:31.360",
+        "end": "00:13:58.200",
+        "text": "It works on, because it works on even more levels, including the physical level. And, and both are amazing, but this is, it's just a different angle. It's just a different angle. It feels a little bit different. It feels very uplifting. Also in the, in the usual heal frequency, we have the vitamins and the minerals included also, right? Right."
+    },
+    {
+        "start": "00:13:58.200",
+        "end": "00:14:28.160",
+        "text": "You can see it's not included here, and it doesn't need to be included, frankly. This is very, very complete and, and we will certainly list what is all included. It's, I mean, it's a bunch, right? There's so much in there. There's also vitamins and minerals in there, but it's different kinds. I couldn't even list it all now because we, yeah, we will need to get into this and get it all written down because it's from three different people that all, right?"
+    },
+    {
+        "start": "00:14:28.160",
+        "end": "00:14:56.200",
+        "text": "All had their own like distinct approach to, to this, right? I mean, I mean, we saw everything, right? People, people tried a whole bunch and yeah, so we'll have to put it all together to actually list it. Okay. No, that's so cool. Um, okay. So then how are these going to be made available? Like, are they both going to come out as cards and on quantum upgrade or just cards for now?"
+    },
+    {
+        "start": "00:14:56.200",
+        "end": "00:15:24.160",
+        "text": "Which, what's the point now actually just quantum upgrade? Oh, on, they're going to be on upgrade. Okay. Yeah, because that's the fastest way to get it in. Like we already implemented it into the system now that was yesterday and now we're working on the descriptions. We're working on actually having it available on the web. Okay. That's cool. Okay. No, that's great. Yeah. And that, that people can select it. Right."
+    },
+    {
+        "start": "00:15:24.160",
+        "end": "00:15:51.000",
+        "text": "That's what we're working on currently. And then the next step will be okay to create mandalas also for this and then to make frequency cards, possibly even capsules regarding this or yeah, something like that. Okay. No, that's okay. So then when can people expect to have these available on quantum upgrade?"
+    },
+    {
+        "start": "00:15:51.000",
+        "end": "00:16:18.920",
+        "text": "I'm expecting this to be at the very latest this following Tuesday, the 18th and it may be earlier, but yeah, I don't think later than the 18th. Oh, cool. Are they going to be added to any of the existing bundles or are they going to be like a separate thing like the animal one? No, so both of these will be going to the heel bundle just because it just makes sense."
+    },
+    {
+        "start": "00:16:18.920",
+        "end": "00:16:47.640",
+        "text": "You know, if it just, that's where it falls under and they will also both be added to the all in one frequency bundle. And as usual, you know, the all in one frequency bundle or the heel bundle will be more expensive. It's just going to be added. You know, it's just an added value to people. Okay. No, that sounds great. I'm really looking forward to trying it next week. This is just amazing. So that's great. Let me just kind of go back to the other, if I had any other questions."
+    },
+    {
+        "start": "00:16:47.640",
+        "end": "00:17:16.880",
+        "text": "So the way you had it structured, the contest was that the winners would get that new super grand block. That's brand new and that there would be like the runner ups would get infinity and travel blocks. So you just changed it now. I just want to clarify so that there's four winners and they all got the new, I guess, the new grand block is that because we felt it's such a, I mean, technically we could"
+    },
+    {
+        "start": "00:17:16.880",
+        "end": "00:17:43.760",
+        "text": "just say, well, you guys just now get a travel block or, you know, something like that. But no, as they all receive the, the, the grand block. Okay. Cool. The new one. And then there's any idea like when, when, because when those will go out, I know that you're working on it. And you were basically saying that in your original post, you're like, that you haven't,"
+    },
+    {
+        "start": "00:17:43.760",
+        "end": "00:18:13.560",
+        "text": "you know, it's not ready for like release on the website or anything and possibly by the end of the year. So around when do you think those will go out? Those will go out. I'm thinking in July, okay, the beginning of July and then later this year, they'll be up for sale for people that are interested in this new block. Yes. Most likely. Okay. It's, these are not so easy to produce."
+    },
+    {
+        "start": "00:18:13.560",
+        "end": "00:18:39.240",
+        "text": "That's why I'm a little hesitant on saying, yeah, definitely at that time. But yeah, we're, we're going to work on it and try to make it a little as fast as possible. Oh, no, that's great. I'm just trying to ask questions that I know are going to come up with everyone, you know, being around the group so long, I know the questions that they're going to ask. All right. Great. So one other thing I want to kind of make sure I bring, I bring up is that you had these two new frequencies."
+    },
+    {
+        "start": "00:18:39.240",
+        "end": "00:19:06.200",
+        "text": "Can I say something else because there's a, technically there was a fifth price also, right? Oh, okay. And so there's basically a travel block that would go to someone. But we, we really didn't have a fifth, you know, where we could say, okay, well, this would have been like the, the next one. So what we, what we want to do is now just do like a raffle of all the ones that, that"
+    },
+    {
+        "start": "00:19:06.200",
+        "end": "00:19:35.040",
+        "text": "entered, you know, participated and, you know, we'll just draw a winner for this travel block. Oh, okay. That's cool. That's cool. Yeah. Thank you for that. And, you know, just again, congratulations to the winners. This is amazing. And what I did want to point out, Phillip, and I just wanted to, if you could comment on it was that you didn't just work with Roman and, and, and, you know, kind of tinker with this and come up with all of this and analyze the submissions, but you also submitted"
+    },
+    {
+        "start": "00:19:35.040",
+        "end": "00:20:01.800",
+        "text": "it to Bessa. And I want to let everybody know about that. And crew, I want to mention, and crew, like crew, Roman and I were heavily on this here. And yeah, I mean, crew actually had a major part and, you know, we spent a lot of time going through this and it was fun. But it's, it's, you know, we really took the time to do it. No, that's great. And so I just wanted to point out to everybody that both of these new frequencies were actually"
+    },
+    {
+        "start": "00:20:01.800",
+        "end": "00:20:30.200",
+        "text": "also given to the Bessa Institute to evaluate and that there's two new studies now on one on the, on Sarah, I would just call it Sarah's frequency. And also the heal 360 and, and I think that if, you know, if you don't mind, folks, can you just kind of talk about these two studies and what Bessa discovered when they took a look at these two new frequencies? I hope, I hope you can fill me and because I actually, I sent you this."
+    },
+    {
+        "start": "00:20:30.200",
+        "end": "00:20:56.760",
+        "text": "I haven't even been able to, to get through them. Literally, I have not been able to. All I know is that both of them do exactly what we saw energetically and that the Bessa Institute was able to basically see the same thing, you know, because we had to tell them, okay, what, what the frequency does. And then they basically stress tested and, and see is that the same results that they"
+    },
+    {
+        "start": "00:20:56.760",
+        "end": "00:21:23.400",
+        "text": "are getting. So it was overall extremely positive. They said to me, at least over the phone, amazing frequencies. And that's about all I know, because we try to get this in and I read it. Yeah, this is happening here really quickly. Oh, okay, no worries, because I was trying to read through these myself. I wasn't sure if you, you know, because normally you get that debrief from Wolfgang and, but yeah, I actually read through this myself and I"
+    },
+    {
+        "start": "00:21:23.400",
+        "end": "00:21:48.000",
+        "text": "want everybody out there to know that it just wasn't, you know, like the healing network. It was also Bessa and so these were thoroughly vetted. And if you just take a look at the screen, there's like a total of 24 participants with a control group. So it was a very thorough, double blind, multiple participants, control groups type of study. And if you're familiar with the whole bio energetics, you know, this"
+    },
+    {
+        "start": "00:21:48.000",
+        "end": "00:22:15.800",
+        "text": "is sort of a summary here. And this was of the pain management frequency where you can see the blue, blue is bad, green is good, you know, in terms of just the ability for the participants who are suffering from physical pain were then, you know, were before and after subjected to the frequency card. And then actually, well, you did it through upgrade, you used upgrade, right versus give Bessa cards? No, we actually gave them the cards."
+    },
+    {
+        "start": "00:22:15.800",
+        "end": "00:22:40.360",
+        "text": "Okay, yeah, no, no, we, they couldn't, yeah, exactly. Okay, so, so the participants were then exposed to the card. And then on the right side, you'll see the bio energetics signature of their body and all, you know, all 60 different organs and Meridian, where it completely turns to green. And this was the physical pain group. There was a second study done on the heel 360. And the same thing was done, another separate"
+    },
+    {
+        "start": "00:22:40.360",
+        "end": "00:23:07.400",
+        "text": "group of 24 individuals, double blind control group. And they were also a before and after, and I just wanted to share that with you, because it just really, really hones in, you know, when you take a look at these individuals now, had all sorts of different pain issues. It wasn't just if you read the study, you'll find that the country, the second group that did the Hill 360 had all sorts of different problems that weren't just physical pain,"
+    },
+    {
+        "start": "00:23:07.400",
+        "end": "00:23:36.280",
+        "text": "but they had mental disorders. They had, you know, stress factors that were all sorts of all up and down heart surgery, you name it, individuals. And so these individuals, different group of people were tested with the heel 360. And again, you'll see that, you know, right off the street, they had some green, you know, they weren't as severely in pain as the first group that were just tested on pain. But they did have blue and the blue is bad, green is good. And once they were subjected to the heel 360, complete 180 with"
+    },
+    {
+        "start": "00:23:36.280",
+        "end": "00:24:04.920",
+        "text": "a full green profile, which means their bio energetics, all 60 meridians on their bodies were harmonized with the frequency. And that's what the studies show. You know, and I think that's, it's so important that people understand that, you know, that, you know, when your products are released, that they go through so much vetting, not just through the healer network, but also through iGAF, be it BESA, and you name it. So I just really wanted to point out that these two new frequencies do have certificates of from BESA Institute and that"
+    },
+    {
+        "start": "00:24:04.920",
+        "end": "00:24:30.560",
+        "text": "they've been basically shown in the studies to do what they're claim to do. So I just wanted to add that. Yes, well, thank you for walking us through that and for mentioning that and certainly that added a little bit of time not to get this Institute. But for several reasons, we felt it's necessary. We do that, you know, because first of all, I think this"
+    },
+    {
+        "start": "00:24:30.560",
+        "end": "00:24:56.000",
+        "text": "should be all process in general to not have just energetic vetting, but do scientifically as well. And then it's frankly also required from a regulatory perspective. And yeah, we try to get it done before we actually launch it. No, that's great. So, you know, this is great. Anything else you wanted to add about this? No, other than just a big thank you again"
+    },
+    {
+        "start": "00:24:56.000",
+        "end": "00:25:24.400",
+        "text": "to the community, you know, to you and everyone else that participated because this was amazing. And I think, you know, of course, also if you didn't win now, you still, I mean, that was an amazing process. You went through and you created something pretty amazing and that basically through this community sourcing, we now have new frequencies that turned out to be also"
+    },
+    {
+        "start": "00:25:24.400",
+        "end": "00:25:50.640",
+        "text": "amazing, right? It's something we couldn't have thought of before, right? It's, you know, we didn't go into this with any expectation, right? We neither low expectations nor high expectations. And yeah, it was just great to see. And also to have seen how much fun people had with this. Yeah, this was super cool. And you let us know, community, if, you know, you want"
+    },
+    {
+        "start": "00:25:50.640",
+        "end": "00:26:19.840",
+        "text": "to do this again at some point. So this was definitely fun. Well, you had definitely, you definitely will want to do this again. It just seems to me like the healer, you know, the healer network now just sort of includes the whole community, you know, we're all one giant healer network trying to help each other and help ourselves and our loved ones. And it just shows so much thoughtfulness and cooperation and love. It's just I'm just blown away by how wonderful this"
+    },
+    {
+        "start": "00:26:19.840",
+        "end": "00:26:48.720",
+        "text": "contest turned out. So congratulations everyone. And thank you so much for help for doing this. I think this was an amazing testimony of just how well our community works together. And especially how focused everyone is on healing. And I just think it's great. And I'm just so happy to hear this. So congratulations, everybody. You did a great job. And thank you everyone for submitting your your submissions. You know, it's just a just a great group effort. Awesome."
+    },
+    {
+        "start": "00:26:48.720",
+        "end": "00:27:18.480",
+        "text": "Thank you, everyone. So thank you very much. And that's it. So the announcement of the winners gets posted today on Telegram. I'll have this video up as soon as possible. It's early in the morning right now on Wednesday. And then of course, next Tuesday, the frequencies will be available on quantum upgrade and then down the road available by card. And again, you know, because it's going to be included in the heel, there is no right, Phillip, there's no additional"
+    },
+    {
+        "start": "00:27:18.480",
+        "end": "00:27:46.960",
+        "text": "cost. You know, if you're a quantum upgrade subscriber, this just gets made available to you at no additional cost, which is the incredible. I mean, this is why, you know, you were mentioning this to Luke story, you know, in the interview was like, how incredible it is. I think Luke was, you know, was commenting that how incredible it is that, you know, the the community that subscribes continually gets more and more value without any, you know, nickel and diming and"
+    },
+    {
+        "start": "00:27:46.960",
+        "end": "00:28:14.640",
+        "text": "they just get value and new things keep rolling out and that quantum upgrade is turning out to be really, really beneficial and, you know, really great resource. So yeah, kudos to you, Phillip, for not charging everybody every little thing. So thank you for bringing this to us and giving it to us for free. Then, well, thank you. And I before, yeah, because I know you're about to press the button probably, but I've forgotten one thing because we're also releasing another"
+    },
+    {
+        "start": "00:28:14.640",
+        "end": "00:28:41.520",
+        "text": "racehorse that is probably not of any interest to most people because, I mean, who has race horses, right? But we actually know of a few, a few people that we've gotten to know just randomly and that they they've been already quantum upgrade subscribers and they actually have race horses. And, and so we have a racehorse support frequency out there already. That is not,"
+    },
+    {
+        "start": "00:28:41.520",
+        "end": "00:29:09.200",
+        "text": "I repeat, not for during the race nor for during the practice is very, very important. This is a regular frequency to support the race horses just on a daily basis, day and night, whenever before races before practices and after, but not to be used during practice and race, just because it could be way too much for a horse. It's not intended for that. Now these people asked us that, well,"
+    },
+    {
+        "start": "00:29:09.200",
+        "end": "00:29:37.840",
+        "text": "what do you have anything for the race? And we said, well, for now, just use the quantum upgrade on booster without any frequency during the race. We now created one that is actually for during the race. So it's called then the race horse race frequency. And that one is indeed to be used for during the race and for during practices. And it just, it's, it's like an Olympic performance"
+    },
+    {
+        "start": "00:29:37.840",
+        "end": "00:30:02.160",
+        "text": "frequency for, for, for people, for humans. This one is for horses and it adds, yeah, actually a little bit of this fight energy in, but in a positive way. And it also supports the heart and everything. And it makes sure that everything happens at a maximum physical level without"
+    },
+    {
+        "start": "00:30:02.160",
+        "end": "00:30:30.480",
+        "text": "going a step too far, if that makes sense. And yeah, so for everyone who's interested, okay, so this will be available as well. Okay, so there's a third one. Okay. And that one will be the race horse racing during race. And that's going to be released on Tuesday as well next week. Yes. Oh, cool. Okay. So it's like a Olympic frequency for horses, right? Yeah, pretty much. Yeah. I wonder, well, okay. So what's the difference between a human Olympic"
+    },
+    {
+        "start": "00:30:30.480",
+        "end": "00:30:59.280",
+        "text": "and a horse Olympic? Is it really that way? It's completely different. Being you know, don't, don't, don't ever try this. But don't horse frequency for yourself. I mean, you can, of course, try whatever you want. But I wouldn't suggest it really. Okay, do the Olympic and then vice versa. The Olympic is, is different. You know, we have a completely different mechanism on how to function and how to use our muscles and everything. And so that's"
+    },
+    {
+        "start": "00:30:59.280",
+        "end": "00:31:28.720",
+        "text": "why this is really targeted for horses. And actually, specifically race horses, because race horses are different from just a horse that's just out there standing and eating grass. It's very different. Oh, yeah. Oh, yeah. Yeah. We different. Wow. That's really cool. We got to, again, whenever you have a chat, I'd love to just sit in and chat about this kind of stuff later on. But I'm fascinated because somebody, somebody once asked in the upgrade group about, I think they were like a performance runner,"
+    },
+    {
+        "start": "00:31:28.720",
+        "end": "00:31:53.760",
+        "text": "and they were saying, hey, you got, you know, is there a frequency for that? And we're like, yeah, you know, there are people chiming in and going, yeah, use Olympic. And I was thinking, so I commented, yeah, why don't you use the race horse frequency. I just tinker with it. But you know, if there's a, I guess if there's a detriment to that, I guess we should have did, you know, explain that to people. But I was thinking, hey, I'm a mammal. The horse is a mammal. You know, why not give it a, you know, why not try it for your next marathon? I wonder whatever happened to"
+    },
+    {
+        "start": "00:31:53.760",
+        "end": "00:32:22.400",
+        "text": "that guy. Hopefully, hopefully, still okay. Yeah. Yeah, I know he is okay. He actually texted me as well. And yeah, I recommended the Olympic performance as well. Oh, okay. Okay, humans stick. Okay, okay. So yeah, because I was just thinking, I couldn't think of why one mammal would be different than a mammal. But you're right, we all vibrate at different frequencies. And obviously my dog is on a whole different vibratory level than I am. As I'm sure that"
+    },
+    {
+        "start": "00:32:22.400",
+        "end": "00:32:52.320",
+        "text": "applies to horses and all other animals, but very interesting. So, oh, hey, thanks for sharing that. I forgot to ask about that one. Okay. So hey, you know, thank you, everybody. Thanks, Phillip. Any parting words? Well, again, thanks, everyone. Thank you, Kay. I really appreciate that you you know, ask me to do this here before I fly to London to this big conference. And I'm glad we did it. Thanks to everyone and rest assured the winners will be contacted,"
+    },
+    {
+        "start": "00:32:52.320",
+        "end": "00:33:20.880",
+        "text": "will be in touch, and then it'll get your prizes relatively soon. Cool. Thank you very much. And one last time, congratulations to the winners. Thank you for everybody who submitted. Couldn't do any of this without you guys. So thank you very much. Aloha, everyone. Have a great day. And boy, am I looking forward to trying these out. So thank you very much, Phillip. Have a safe trip to London, too, by the way. Yes. Thanks so much. All right. Aloha, guys."
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:29.720",
+        "text": " Hello everyone and welcome to another carbon 60 video by me, Kay Elmer, and in this video I'd like to talk about going back to basics, making C60 oil the rat study way. Before I get into that, let's talk about a couple of disclaimers. This material is for research purposes only. C60 oil is not approved for consumption by the FDA, and that you understand that making and consuming C60 oil is experimental, and you do so at your own risk. As I like to remind everyone, we are the human trial."
+    },
+    {
+        "start": "00:00:29.720",
+        "end": "00:00:59.680",
+        "text": "So let's jump in. Now going back to basics means we go back to the benchmark study that started the C60, whatever it is now. And everyone refers to this study as the rat study. It came out in April 2012, and it's called the prolongation of lifespan of rats by repeated oral administration of 60 fullerene. By the way, everybody knows that in the video description, the links to everything I'm talking about are available for you to do your own research. So now this study is the benchmark."
+    },
+    {
+        "start": "00:00:59.680",
+        "end": "00:01:28.020",
+        "text": "It set the science community on fire because it proved that ingestion of C60 in olive oil extended the lifespan of rats by 92%. That's like you and I living to 150. So when it first came out, it really caused a lot of controversy, and a lot of biohackers and anti-aging folks that are really into that jumped on it. And literally the first company that replicated the oil that was made in the study was launched"
+    },
+    {
+        "start": "00:01:28.020",
+        "end": "00:01:52.520",
+        "text": "within three months after the study came out. And then people started buying it, trying it, and then more and more companies started making it, and that's led up to where we are today where a lot of people are very interested in C60 and probably why you're watching this video. So this is the quintessential study, and the most interesting thing that really needs to be pointed out is that this study started off being a toxicity study, and the scientists"
+    },
+    {
+        "start": "00:01:52.520",
+        "end": "00:02:15.840",
+        "text": "were trying to figure out, and this was their goal, was how much C60 it would take to kill a rat. And what happened was, obviously as you can guess, it didn't kill them. It made them live longer. And so that was the amazing finding. They renamed the study, published it in 2012, and here we are today. So what's important, the other thing that's important, is obviously the way that these"
+    },
+    {
+        "start": "00:02:15.840",
+        "end": "00:02:39.200",
+        "text": "guys gave the rat, C60, is what gave birth to the C60 oil industry, okay? And that's in page two of this study, under materials and methods, there's a C60 olive oil solution preparation. So this is how they did it in the study. Virgin olive oil, not extra virgin, but virgin olive oil is obtained from a Kamlali"
+    },
+    {
+        "start": "00:02:39.200",
+        "end": "00:03:07.880",
+        "text": "Berara cultivar from Tunisia planted in the Sahel area, C60, the purity of the C60, 99.98% was obtained from SES Research Corporation in the USA, and used without any further purification. I want to point out right here, that this means it was powdered C60 and not pulverized. Very different, SES only provides powdered C60, it's a whole another thing to do pulverized,"
+    },
+    {
+        "start": "00:03:07.880",
+        "end": "00:03:37.560",
+        "text": "but we're only talking in this video about powdered C60. So then we go, it goes on to read 50 milligrams of C60 were dissolved in 10 milliliters of olive oil by stirring for two weeks at ambient temperature in the dark. The resulting mixture was centrifuged at 5G for one hour, and the supernatant, which the solution was filtered through a millipore filter at 0.25 micrometers porosity, all right?"
+    },
+    {
+        "start": "00:03:37.560",
+        "end": "00:04:06.160",
+        "text": "And that's what was in the study verbatim. I break that down into steps here, and let's take a look at it, it comes down to six simple steps. I think I want to point out that 50 milligrams to 10 milliliters is a five grams per one liter ratio, the cool temperature, when they say ambient, I decipher that or define that as cool. If you've ever been in a lab, they keep them pretty cool, and so I'm thinking the temperature"
+    },
+    {
+        "start": "00:04:06.160",
+        "end": "00:04:32.200",
+        "text": "of a laboratory is probably close to 74, 72 degrees, so it is cool, and then the rest of this is right out of the study. Now there's an adaptation here, and I want to point out that not all of us are going to own centrifuges, not all of us are going to go to Tunisia and buy oil, and so every single person out there making C60 oil is making some kind of a version of what they"
+    },
+    {
+        "start": "00:04:32.200",
+        "end": "00:05:01.360",
+        "text": "did in the rat study, I have never seen anyone actually duplicate the exact solution that was used on the rats, and whether or not that's materially important, it may or may not be. We need a lot more experimentation and a lot more research to make sure that is it really that big of a difference, but I want to point out that I have come up with my own adaptation, you will come up with your own depending on your circumstances, but this is the formula,"
+    },
+    {
+        "start": "00:05:01.360",
+        "end": "00:05:28.000",
+        "text": "and this is how everybody here, this is how I am doing it, but every single person is going to do it a little bit different, but the bottom line though in this video is that these are the steps to follow if you want to replicate the study, and then this is how I do it. Now, obviously, step one, obtain olive oil. The most important thing that I can share with you from a year of doing this and taking this is that you need to really make sure that it's authentic olive oil."
+    },
+    {
+        "start": "00:05:28.000",
+        "end": "00:05:57.840",
+        "text": "As you may know, 95% of olive oil sold in the market is fake or some kind of weird blend, and it's not really olive oil. So when you can buy directly from the farms that produce it, and if you live in an area that actually grows olive trees, then by all means then you can go right to the farm or at least get it to ship. If you live in America, there are several farms that grow olives and produce olive oil,"
+    },
+    {
+        "start": "00:05:57.840",
+        "end": "00:06:23.520",
+        "text": "like a little boutique olive oil farms in California that I know about. So you can definitely get olive oil locally as well. Now the C60 powder is available, SES is still around. When available, it's currently on backorder, but when C60 powder is available, even though that the study used 99.98, you can get 99.99 C60 powder and use that, that's what I do."
+    },
+    {
+        "start": "00:06:23.520",
+        "end": "00:06:52.640",
+        "text": "Or a lot of the manufacturers that sell it commercially are using a 99.95. Now there's really no studies that I've seen that show that there's any material difference between 0.95 or 0.99, and the difference between this and 100% is simply that there's a little bit of extra carbon in there that's not C60, it could be a different type of fullerene or an amorphous type of carbon, but it's the purity of the carbon content itself, and that's kind of what you're looking at."
+    },
+    {
+        "start": "00:06:52.640",
+        "end": "00:07:21.160",
+        "text": "So honestly, you know, there's people going anywhere from 99.90 all the way up to 99.99, but I use 99.99. Now the issue here about how much C60 should you put in a liter of oil, you know, that's a big debate because there are individuals out there that are producing it commercially, and there's also people that are home brewers and they're sticking with that five gram to one liter ratio, and then you got to realize something when you do that is that in the"
+    },
+    {
+        "start": "00:07:21.160",
+        "end": "00:07:48.960",
+        "text": "study itself it says that the saturation rate of the solution was 0.8 milligrams per milliliter, which means that only 0.8 grams of the five got dissolved in the oil, and that the rest of it, the 4.2 grams, was settled out, it just didn't get dissolved, and so doing it this way, you know, actually following the letter of the study, it results in a lot of"
+    },
+    {
+        "start": "00:07:48.960",
+        "end": "00:08:18.280",
+        "text": "excess C60 that doesn't get dissolved, and you have to be really careful with it, so you don't waste it. Otherwise if you just want to kind of keep it simple and you're not going to go for perfection, then I do know that, and myself and many others, just add the 0.8 grams. They don't, you know, you don't go more than that, you just, if you know that's as much as it's going to go, or get, you know, get dissolved and might as well just add 0.8 grams per liter, and that's kind of how much I do."
+    },
+    {
+        "start": "00:08:18.280",
+        "end": "00:08:47.400",
+        "text": "Of course, this is going to be all up to you, everybody's going to be experimenting with this, but this is kind of what the, you know, the kind of what most people are doing, from my reading of all the different people that are doing this, okay. Step four is two weeks, same thing, so you want to stir the C60 in the oil for two weeks in a cool temperature, again, you know, the lab temperature, and do so in the dark, and then now they're, they used to centrifuge, and now obviously if you're adding five grams"
+    },
+    {
+        "start": "00:08:47.400",
+        "end": "00:09:14.840",
+        "text": "per liter, and you know that 4.2 is going to fall out, then I'm going to, you know, I'm guessing, you know, obviously that, you know, they ran it through a centrifuge, spin it around, and all of the excess C60 settled to the bottom of the tube, and then they poured out the top, and they filtered it with a 25-micron filter and produced a C60 oil that they gave the rats, right? That's what they did in the study. Now, for those of you like myself who don't own a centrifuge, you can do the same thing,"
+    },
+    {
+        "start": "00:09:14.840",
+        "end": "00:09:44.800",
+        "text": "and they, you know, they basically did it five grams for one hour. Well, my version is the, the cheap way, which is just let it sit there by itself, don't touch it, and so you're, let's, you're going from five Gs in one hour to one G in 10 days, but you kind of get the same results, whatever is in the oil that you don't want to have to run through your filter, or if you have residual C60 because you added a bunch more, it's going to settle to the bottom."
+    },
+    {
+        "start": "00:09:44.800",
+        "end": "00:10:11.000",
+        "text": "I'll show you a picture of what it looks like when I did it, and so, and then that way you don't ingest it, and you don't filter it, so mostly you don't filter because it'll clog up your filters, all right? And if you have excess C60, you want to reuse it, so there's a lot to be said for letting it settle. If you put more than .8, let it settle, and then you can add more oil and make a second batch. If you just do .8, let it settle, and it'll just, you'll see the impurities fall out,"
+    },
+    {
+        "start": "00:10:11.000",
+        "end": "00:10:40.960",
+        "text": "and then that won't clog up your filter, and then the filter that I use is .22, because for some reason, I can't find a .25, and so I just use a .22 close enough, very close, and then I filter it and boom, that's how I get my rat study version of the C60 oil. And now, what I also want to point out, and, you know, over the time that I've been taking C60 and making my own oil, I've made well over a couple dozen batches by now, doing all sorts of experiments, as you know, I've come across a study recently that was quick"
+    },
+    {
+        "start": "00:10:40.960",
+        "end": "00:11:08.360",
+        "text": "and essential, and I wish I found this sooner, but I did find it, and, you know, it's just an amazing study, of course, linked to the study in the video description, and this study is called olive oil as a biocompatible solvent for pristine C60, and what was awesome about this was something I really, really, really wanted to know, which was, has anyone, went and tested a bunch of different oils, you know, trying to dissolve C60 in them, and then determine which ones, you know, were, had the highest solubility that would, you"
+    },
+    {
+        "start": "00:11:08.360",
+        "end": "00:11:36.560",
+        "text": "know, have the highest saturation, in other words, which oil is the best one to dissolve C60 in, because it can, it has the ability to hold, or, you know, hold the most amount of C60 as a lipofluorine, and so what's interesting in this study was a couple of things, which is the type of oil, they tested out olive and sunflower, and they determined that the micrograms per milliliter was highest in this type of olive, which is a Borges, Borges,"
+    },
+    {
+        "start": "00:11:36.560",
+        "end": "00:12:02.880",
+        "text": "I guess, is, I'm not sure if that's the right pronunciation, but, but it was like 5.97 micrograms per milliliters, you could look at the difference between this one and the Caprelli, where it's literally almost twice as much, so, you know, if you're, if you're trying to make a really good rat study C60 oil for yourself, or, you know, whatever, then you're going to want to get the right oil that's going to hold the most amount, because if you don't, you're"
+    },
+    {
+        "start": "00:12:02.880",
+        "end": "00:12:30.480",
+        "text": "going to have to take twice as much oil to get the same dose of C60, right, because it's in the oil, so, getting the best oil, authentic, real olive oil, and getting the specific one is critical to producing a high quality C60 oil, and so, this is what the study proved, was that there was one that had, that the highest rating, that was twice as high as the lowest one, and then in the sunflower oils itself, there was one that was 6.9, it was"
+    },
+    {
+        "start": "00:12:30.480",
+        "end": "00:12:59.880",
+        "text": "even higher than olive oil, so, you know, definitely these oils have a very high solubility for C60, and so, there's something to keep in mind, but I do want to point out, with this said, that red lion advised me that they had tested their different oils, and discovered that cornnechi olives, this is just an olive type, not a brand, actually had a higher saturation rate than Borges, they didn't give me the actual number of, you know, micrograms per"
+    },
+    {
+        "start": "00:12:59.880",
+        "end": "00:13:27.000",
+        "text": "milliliter, but they just said it was definitely higher than this, so, it's higher than 5.97, and so, ever since red lion shared that with me months and months ago, that's what I've been talking about in my videos, and saying, \"Oh, hey, you know, that's what I buy myself, is, you know, buy cornnechi olive oil, and that's what I've been using to try to produce the best C60 oil I can for myself.\" And then the other thing that's just amazing that, when I was, I've always had this gut"
+    },
+    {
+        "start": "00:13:27.000",
+        "end": "00:13:53.560",
+        "text": "instinct that the colder the oil was, the better it would absorb C60, because it just made sense that, you know, the colder it gets, the more viscous it gets, and, you know, it's just a common sense kind of thing, but I actually found this study, and now look at this, right here, they're showing that they measured it, that's a solubility of C60 in olive oil. At 40 centigrade, it was only 3.88, but at 10 centigrade, which is approximately 50 degrees"
+    },
+    {
+        "start": "00:13:53.560",
+        "end": "00:14:20.640",
+        "text": "Fahrenheit, the saturation was 5.99, okay, that implies, and this is clearly implying, that the lower the temperature, the better the oil is going to form liposomes and create lipofluorine and dissolve that C60. So when you talk about, or when the rat study here talks about ambient temperature, you know, cool temperature, then here you go, here's the actual number."
+    },
+    {
+        "start": "00:14:20.640",
+        "end": "00:14:47.680",
+        "text": "And so now, you know, 10 degrees centigrade, that's your refrigerator. So most of us, you know, we don't, we don't stir in our refrigerators, but after looking at this, I'm seriously going to probably go out and buy one of those little mini fridges and set it up as my stirring box, because, you know, I'm really interested and to see what happens, because I probably stir around, around this, which is room temperature, right? But if you can get, look at, this is like literally, you know, what, a 20 percent magnitude"
+    },
+    {
+        "start": "00:14:47.680",
+        "end": "00:15:16.200",
+        "text": "of improvement in results, so, I, you know, it's something to think about is, is keeping it cool during stirring, and you'll probably get a better result, get more C60 in that oil. So definitely something that I wanted to share with you was this, this study and, and you go ahead and read it in the links, okay? So now the next thing I wanted to just share with my journey for the last year was some of the tips that I kind of figured out on my own by doing this. So, you know, if you're an old hat, you've been doing this for a while, you probably know this already."
+    },
+    {
+        "start": "00:15:16.200",
+        "end": "00:15:41.000",
+        "text": "I do, this information will probably be very helpful for you. Now, so when the very first thing is, when you add your C60 to the oil, and this is just a coconut example, but this is olive oil, when you're adding the C60 to the oil, you know, it's, it's put the C60, I'm sorry, put the oil on the stirrer and turn it on, and that way the oil is spinning before you add the C60."
+    },
+    {
+        "start": "00:15:41.000",
+        "end": "00:16:06.840",
+        "text": "So here's an example where I didn't do that, and I just poured the C60 in and it just falls on the bottom as a big clump. And you just don't want to do this because if this happens, it's going to take a lot to get this clump to finally lift up into the oil and then start spinning around up here and then, and not stick to the bottom. If you do this, it's going to stick to the bottom unless you do something about it manually."
+    },
+    {
+        "start": "00:16:06.840",
+        "end": "00:16:34.120",
+        "text": "That little stirrer is not going to pick up this clump and throw it up in here very quickly. It'll take days and then you'll still end up with some clump on the bottom. So it's a really not efficient way to do it. So courtesy of Luke Williams, I just took a picture off of his video. I suggested that he do that and he gave it a try and he shot this video to show that when you start off by spinning the oil and then you add C60, it just drifts right into"
+    },
+    {
+        "start": "00:16:34.120",
+        "end": "00:17:03.840",
+        "text": "the oil really well and within 24 hours, it's going to be turned the oil black. And so that way it doesn't clump to the bottom and it just all whipped in there and you just want it to do that. So make sure, turn on your stirrer before you add it and then don't just clump, throw it in there. Just shake it real slowly like pepper and then it just drifts right in and you're going to get a much better stirrer if you do it this way. Okay. The second thing I wanted to share was the whole idea of settling."
+    },
+    {
+        "start": "00:17:03.840",
+        "end": "00:17:32.000",
+        "text": "Now if you're just going to put .8, you're not going to get a lot that settles. But the thing about C60, as you know, it's a radical oxygen scavenger and so if there's anything in that oil, like you know, basically free radicals in that oil because it's been exposed to heat or air or whatever on its way to you or there's any kind of impurities or you buy some kind of like cold pressed, unrefined, you know, super hippie, you know, you know, healthy oil, there's going to be stuff in there, right?"
+    },
+    {
+        "start": "00:17:32.000",
+        "end": "00:17:57.800",
+        "text": "And so all that stuff and the C60 react with each other and it creates kind of like an impurity sludge kind of thing. And so what you want to do if it's, if you're doing a .8, then this is what's going to happen. This is exactly what happens here. If letting the oil settles allows the impurities to settle to the bottom and then this is something that you really don't want to put in your filter, if you put in your filter, then it's"
+    },
+    {
+        "start": "00:17:57.800",
+        "end": "00:18:25.240",
+        "text": "going to just take longer to filter if, you know, if and or maybe clog up your filter. So you just want to let it settle out. And that's the whole point of using the centrifuge as well, which is to get as much of the heavy stuff out so that you're only filtering the light stuff. So this is what it looks like when you let it settle. And so you kind of, you know, you don't want to have to clog up your filters by, by doing that. Now, with that said, if you actually add five grams per liter, I want to point out that you're"
+    },
+    {
+        "start": "00:18:25.240",
+        "end": "00:18:55.040",
+        "text": "going to get something at the bottom of this thing, which is going to be just jet black. And that's going to be all that extra C60 that didn't get dissolved. And so you need to let it settle. You don't want it to get stuck in the filter. That's wasted money. So you want to let it settle if you're putting in more than .8. And then when you're done, you pour off the top. And instead of this being like this sludgy stuff, you'll have this black film on the bottom, which is all that residual 60. Just add more oil. Make a second batch."
+    },
+    {
+        "start": "00:18:55.040",
+        "end": "00:19:23.800",
+        "text": "It takes every time. And so two reasons to let it settle. Okay. The third tip I want to share with you, and this is just because, you know, I read the chat comments and there's a lot of new people coming in and they're making their C60. And a lot of folks are starting off with pulver IC60 because it's cheaper. But then what people may or may not realize is that pulver IC60 is really harder to work with than powdered C60 from a filtering standpoint."
+    },
+    {
+        "start": "00:19:23.800",
+        "end": "00:19:52.360",
+        "text": "And so you kind of go down the valley of filter hell and it's just filter hell. I mean, I went through it and everybody that, as you know what I'm talking about, you're just like, what kind of filters do I buy? There's three different kinds of glass type filters in there. Do I use the stone or do I? And then it's like, what kind of filters? And I got to get the right papers. There's 14 different kinds of, and you just goes on and on and on. And it's just like freaking unbelievably complicated. And all you really want to do is filter at .22 micrograms, right, and micrometers. And so skip all that complexity."
+    },
+    {
+        "start": "00:19:52.360",
+        "end": "00:20:21.160",
+        "text": "Go down the valley of filter hell and stay out of it and just go buy a plastic throwaway one for like 10 bucks. And you know, honestly, if you're just going to make a one batch a month or every now and then, don't go down the glass thing. Don't do pulverized. Stay in powdered C60 land and throw away your filter rig. It's so much easier. Trust me on that one. And so simplicity. This is what I buy. I buy both of these depending on what's on sale."
+    },
+    {
+        "start": "00:20:21.160",
+        "end": "00:20:47.880",
+        "text": "I buy by the case if you're on bite individually, you know, obviously links below. But this is what I use. And so this is the pump and hooks up to this thing and boom, you're done. It's so simple. And then be patient, okay? This little pump is not the strongest one. It's the one that's in the links. It's the one a lot of us buy because it says, you know, laboratory filtration pump and it's kind of, we all defaulted to in the beginning."
+    },
+    {
+        "start": "00:20:47.880",
+        "end": "00:21:16.440",
+        "text": "And then other people have bought like much, much stronger pumps, which are in hindsight would have been a lot better. But now that I'm 30 bucks into one, I'm not going to buy another one for no reason. But this little one, it's like a pump that you would put with your aquarium for your fish. So it's not that strong. So being patient, because you put a full leader in one of these guys and you turn that puppy on, you're going to be waiting about 32 hours or something. It's going to be about a day and a half before that whole thing empties out."
+    },
+    {
+        "start": "00:21:16.440",
+        "end": "00:21:46.240",
+        "text": "So it does take a while, but you know, trust the process and just let it run and it's good to go. Okay. Now for those of you who are totally new and haven't done this before, let's just talk, I'm going to go, let's recap what you need to get and about what you're going to spend. So you're going to need a glass jar, a glass beaker. I mean, I've done it in a mason jar. I mean, that's what this is. Just as a test, I wanted to see, you know, is there any difference if I use a mason jar and nope. So one mason jar is like a buck or you can get fancy and get a glass beaker or 849, right?"
+    },
+    {
+        "start": "00:21:46.240",
+        "end": "00:22:14.360",
+        "text": "So you know, that's your range on using, you just can use whatever you want. As long as it holds the amount of oil you want, you can cover it, right? And then you need a stir. There's no way, I've tried to come up with creative ways to do stirring, but there is nothing other than a magnetic stir. So if you go on Amazon, you can buy them as cheap as 30 bucks, all the way up to 40 bucks, but a stir is a stir. You don't need anything super fancy. You don't need one that generates heat because you want to do all this cold, remember?"
+    },
+    {
+        "start": "00:22:14.360",
+        "end": "00:22:40.840",
+        "text": "So you know, and the cheap ones work just as good as the junky ones or the expensive ones because I own one that's like 200 bucks and I own one that's 30 bucks and you know what? They work just fine. And so you can, this is about what you should expect to get a magnetic stir and then, you know, get that plastic filter rig, 22 micron, and it goes anywhere from 1083 to 15 bucks, right? Depending on sales and stuff. And then of course that vacuum pump."
+    },
+    {
+        "start": "00:22:40.840",
+        "end": "00:23:10.320",
+        "text": "Now, like the cheap vacuum pump that I've got, this little guy right here, he sells for $39.99 and then you've got this other ones that you call it, I mean, it gets really expensive. You want to get some super powerful ones, you know? But the next level up is around 55 bucks for some, you know, for like a really hardcore vacuum pump that looks like something you'd find on a boat or something, right? So you can spend up to 50 bucks on that. But if you count this up roughly, okay, for like less than 100 bucks, you can have all"
+    },
+    {
+        "start": "00:23:10.320",
+        "end": "00:23:39.520",
+        "text": "the stuff you need to make it and then you just need to buy the materials. And so by the time you're done making it and you get your oil and your powdered C60, you're going to end up making C60 oil for about 350 an ounce, okay? And to kind of give you, you know, a price check, the cheapest you're going to buy per ounce anywhere as of July when I did my last pricing study was like 563. And so that's about a 50 to 60% savings off retail."
+    },
+    {
+        "start": "00:23:39.520",
+        "end": "00:24:06.960",
+        "text": "But here's the thing though, the majority of the C60 oil in olive oil products out there, you know, they go from the cheapest, cheapest, cheapest one was 563 an ounce, but the expensive ones got all the way up to $29 an ounce to try to imagine like $29 an ounce retail and you can make it for 350. So you know, make it yourself. That's a good idea, less than 100 bucks worth of equipment if you just get simple."
+    },
+    {
+        "start": "00:24:06.960",
+        "end": "00:24:36.480",
+        "text": "And then of course, you know, go find a really authentic cornechi olive oil. And what I do when I'm buying olive oil is I go and I just Google it is, you know, certified olive oil and there's lots of all these blogs and sites that rate olive oil and research olive oil and make sure that, you know, they give you these little lists. These are the ones that are guaranteed real, you know, and these are the ones devoid, you know, just like honey, if you ever studied honey. And so, you know, and that's that's the brands that I buy for the cornechi."
+    },
+    {
+        "start": "00:24:36.480",
+        "end": "00:25:05.520",
+        "text": "And then so that the prices vary and based on where you buy and then the powdered C60, you can get that from multiple different locations. But just as a heads up, if you watched my last video, you know that there's a shortage right now on powdered C60. But that's expected to alleviate just like last year, there was a shortage of C60 oil and that alleviated itself. I mean, the market corrects itself. So I expect the market on Ross C60 to correct itself by the end of the year."
+    },
+    {
+        "start": "00:25:05.520",
+        "end": "00:25:35.480",
+        "text": "And so, you know, but at the end of the day, if you go to my pricing guide, link in the video description, you can at the very bottom of the guide, there's a list of the vendors and they're all pretty much taking back orders. And so now everyone, you know, so you can just get yourself on order it and get on a back order and order your powdered C60. And of course, the price is going to vary. You can see the prices in the pricing guide. So that's it. Check list. So again, you can save a lot of money by making yourself. You follow the standard. And remember now, this is the standard."
+    },
+    {
+        "start": "00:25:35.480",
+        "end": "00:26:03.480",
+        "text": "This is the benchmark on what you should do. Follow these steps. You're going to have to adapt it right here for your own situation. But still follow the steps. I can't I can't emphasize enough that letting it settle and filtering it, even though what Fati Musa said in his interview with Anthony from C60 net where he said it wasn't necessary. Well, he said it wasn't necessary if you weren't running a study. I don't in the it wasn't in the context of it wasn't necessary if you're making yourself"
+    },
+    {
+        "start": "00:26:03.480",
+        "end": "00:26:33.120",
+        "text": "to ingest, you know, so I think it's important that you do let it settle and do filter. And there you go. And you're going to save yourself a lot of money and you're going to have all the benefits of C60 you can imagine. So thank you. Thank you so much for your time. I know you're busy and I just want to say thank you. Thank you for your my for your support. Thank you for your kind comments. I never get tired of reading them. It's just an amazing thing to me that my antics are popular to you guys. So thank you."
+    },
+    {
+        "start": "00:26:33.120",
+        "end": "00:27:01.040",
+        "text": "And then lastly, you know, there's a link to our C60 maker's chat group. So you know, if you're new to this, you're interested in it, you want to learn more. We have a telegram chat group group now there's like over 200 of us and we're just constantly in there talking about different oils, different, you know, it's just it's just this group of folks that are excited about making C60. And there's a lot of sellers in there as well. Great place to get ideas. Great place to others. Whole section of just, you know, links to different things to buy and equipment and"
+    },
+    {
+        "start": "00:27:01.040",
+        "end": "00:27:16.520",
+        "text": "supplies and and of course, you know, just jump in there, ask questions. I'm in there all the time myself. So you're always welcome. Please come join us. And if you need help, we're here to help you. And so thank you again and have a great day."
+    }
+]

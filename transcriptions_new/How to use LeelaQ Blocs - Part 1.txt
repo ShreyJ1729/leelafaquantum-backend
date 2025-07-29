@@ -1,0 +1,717 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.920",
+        "text": " >> Hello, everyone, and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and today we'd like to bring you with Philip Holzendorf a tutorial on how to use the Leila cube blocks. Before we jump into that, let me give you a quick disclaimer that neither Leila quantum tech nor the Tinkers Academy recommend or endorse any specific tests, physicians, procedures, opinions, or other information that may be mentioned in this video."
+    },
+    {
+        "start": "00:00:27.920",
+        "end": "00:00:57.480",
+        "text": "We're allowing us on any information appearing and discussing this video is solely at everyone's own risk. Statements made have not been evaluated by the EFSA or FDA or any government derivatives thereof. Leila quantum tech products and products that Leila quantum tech may represent are not intended to diagnose, treat, cure, or prevent any disease. Thank you. So I'd like to just welcome, we've got Philip, some more of Von Holzendorf, the owner operator of Leila Q on the line. Welcome, Philip. How are you doing today?"
+    },
+    {
+        "start": "00:00:57.480",
+        "end": "00:01:27.440",
+        "text": "I'm doing fine. Glad to be here. Yeah. So the idea of creating this tutorial came up in the chat group on Telegram and where there's so many people that got blocks over the holidays, you know, we're asking lots of questions on how to use the blocks. So I just thought, you know, it'd be a great idea. So I'm going to recommend it and then just letting you know, Philip was just absolutely on board the minute I mentioned it to him. So that's what this video is for is to anyone who bought a block, a quantum block, or an"
+    },
+    {
+        "start": "00:01:27.440",
+        "end": "00:01:54.200",
+        "text": "infinity block and want to know like how to use it. So the first thing I want to just mention is that, you know, on YouTube, if for those of you who use it, you know, there's the Leila Q has a YouTube channel called the Quantum Power channel. And if you go into the video section here, are lots and lots and lots of tutorials that Philip has already made on how to, you know, use multiple different products at Leila Q cells."
+    },
+    {
+        "start": "00:01:54.200",
+        "end": "00:02:18.520",
+        "text": "Just to point out for you, block owners, then one of the first things you want to do when you get a block or even if you're thinking about, or especially if you're thinking about getting a block is to take a look at those tutorials because those are already out there. There's seven tutorials on the YouTube channel. This one will be on my channel, the Tinkers Academy. But you know, we'll also try to see if we can link to it from the Telegram group."
+    },
+    {
+        "start": "00:02:18.520",
+        "end": "00:02:44.600",
+        "text": "But there's already seven YouTube videos on how to do, you know, what to do with your block. So it's definitely something you can reference as a guide. So the first one was, you know, the difference between the two blocks or anyone who's trying to figure out what the differences are. And then if you did get a quantum block, a summary and an unboxing and assembly video, and if you did get an infinity block, an introduction and an unboxing and assembly video for that,"
+    },
+    {
+        "start": "00:02:44.600",
+        "end": "00:03:14.040",
+        "text": "there's also one for folks that did get infinity blocks on how to upgrade your infinity blocks. So, you know, I really, really, really want to just make sure people know where to get information. Especially, you know, if you just got a new product, you're not sure what to do. This is definitely a resource is to go to the YouTube channel. All right. So one of the things I want to jump in, the very first thing I thought would be helpful in the tutorial is to just go over the broad, you know, the high level use cases. And so Philip, I basically thought up the three."
+    },
+    {
+        "start": "00:03:14.040",
+        "end": "00:03:41.820",
+        "text": "So you know, kind of just guide me along because you are the expert, but just the main things, you know, the main three things. And then let me know if there's anything else that you would use a block for, right? And so obviously the first thing is that a block by itself is broadcast quantum energy. And I always kind of refer to it. And I don't know if you, if you gave me this phrase or not, but the idea of a quantum sun, right?"
+    },
+    {
+        "start": "00:03:41.820",
+        "end": "00:04:10.420",
+        "text": "Where it's really bright in the middle and it stretches out and the center is this concentrated energy. And if you could just visualize the inside of the block as being the center of the sun and the sun stretches out and depending on which block you have, it, you know, it could be anywhere to one entire house or an entire neighborhood. So it definitely broadcasts out just this quantum energy. And if you put something in that block and the frequency of whatever you put in it is"
+    },
+    {
+        "start": "00:04:10.420",
+        "end": "00:04:38.380",
+        "text": "also permeated throughout the energy field. So broadcasting energy and frequency is the first and foremost thing that happens once you set up the block. The second thing is you can use blocks to charge objects, people, pets, plants and places. So everything that Layla Q sells on the website has all been charged in a block, correct? Yes, that's absolutely correct."
+    },
+    {
+        "start": "00:04:38.380",
+        "end": "00:05:06.180",
+        "text": "So yeah, so this is one of the most unique things about Layla Q is that, you know, they're not trying to manipulate or, you know, hold all this incredible technology to themselves. They literally are selling you the means to make your own, you know, if you want to do that. And if there is a licensing agreement because, you know, obviously, you know, it's proprietary to Layla. So it's not like buy one, start making things and selling them if you want."
+    },
+    {
+        "start": "00:05:06.180",
+        "end": "00:05:33.580",
+        "text": "There's a commercial license, but the idea here is that if you want to buy and make capsules for your children, your spouses, your family and your friends and, you know, not doing it from a monetary standpoint, but to share the energy and to share this positivity, then that's what this is for, correct? Yes, absolutely. Cool. And then I think the third thing that you can use blocks for is to send quantum energy"
+    },
+    {
+        "start": "00:05:33.580",
+        "end": "00:06:03.100",
+        "text": "or and or send frequencies long distance. And that's something through like a quantum entanglement. We'll talk about that a little bit further, but that's that's that's the probably the most fascinating aspect to the blocks and probably the one thing that gets the most discussion because it is, you know, contra to everything you've ever been taught, but it is possible and the blocks actually do that. So Phillip, is there any other like major, you like, you know, like what would you like if I gave you a block and said, hey, this is what it can do?"
+    },
+    {
+        "start": "00:06:03.100",
+        "end": "00:06:32.820",
+        "text": "Are these the main three things, is there anything that I left out? So I think for people important to know is also that you can copy frequencies in it. It's sort of part of number two, but I would, I would really maybe add another point and say, you know, copy frequencies because you can put a piece of a healing plant inside and copy it into any other object or into glass of water or whatever you actually put in."
+    },
+    {
+        "start": "00:06:32.820",
+        "end": "00:06:59.940",
+        "text": "You could copy that. So you could be, you know, a home real path, basically a quantum home real path can make quantum frequency medicine, you can tink a lot. That's something you can do with that. And I want to share one thing because that part is actually not super accessible on the website, but we do have a section where there's quite an explanation about the quantum block"
+    },
+    {
+        "start": "00:06:59.940",
+        "end": "00:07:29.180",
+        "text": "and how it works and what you can do with it, as well as about the infinity block on there. You can reach it by going to the shop, click on quantum block or an infinity block which one you're interested in. And then there's somewhere a sentence where it says, if you want to learn more, click here. And then you get to that section. Maybe what I'll do is I'll send you those links, Kay, and you can maybe put them in the video description just if people, you know, want to read through it."
+    },
+    {
+        "start": "00:07:29.180",
+        "end": "00:07:57.860",
+        "text": "It's by no means complete because it's so hard to be complete because there's so many possibilities, so many things you can do, but it's at least a great starting point and wanted to at least mention that. Okay, great. I'll definitely add those to the video description so that there's a page for each block and then people can go and read more about the block or infinity or cue block. Okay. No, that's great. Thank you for mentioning the copy frequency. I just kind of take it for granted."
+    },
+    {
+        "start": "00:07:57.860",
+        "end": "00:08:26.100",
+        "text": "I've been using these for so long and it's like, I don't remember, they're like the little things I kind of forget to mention, but thanks for adding that. Okay, so these are the four things you can do with your block and they're pretty amazing things. So let's get into each one of these things as a tutorial so that people can kind of understand the very first thing, right? I'm going to go ahead and I think I'll probably need to add a slide because we've got an extra one here, but the first thing here is, you know, you're basically charging objects."
+    },
+    {
+        "start": "00:08:26.100",
+        "end": "00:08:51.300",
+        "text": "So when you're charging an object, which is one of the most prevalent use cases, right? People want to make things for the other family and friends and also people want to charge stuff like, first time I got a block, you know, I think it's like everybody, they run around their house and they charge everything they own, you know, that's kind of the first reaction. So for charging objects now, I do want to point out that there's one video that's already"
+    },
+    {
+        "start": "00:08:51.300",
+        "end": "00:09:20.340",
+        "text": "available on the, you know, quantum power channel, YouTube channel called how to charge objects and copy frequencies. So there's already a video for that on how to use the quantum block for doing that. Now in terms of like, how do you use the infinity block to charge objects? There has, there's not a, like a specific video to, you know, for that. So we're going to kind of go over the timings today and just kind of like, you know, maybe we can kind of just fill up if you can kind of give me the timings, I'll fill this out"
+    },
+    {
+        "start": "00:09:20.340",
+        "end": "00:09:46.980",
+        "text": "and then people can kind of get an idea, hey, you know, if I want to use a cube lock to charge a metal object, what would be the process? And just, just, just we're talking about just charging it with quantum energy. Yes, that sounds great. Just let me know when you want. So you want to put it in right now? Yeah, I'll ask you and you tell me, so if I wanted to charge a metal object and the most common metal object, right, is, is, you know, people are charging cards or they're charging"
+    },
+    {
+        "start": "00:09:46.980",
+        "end": "00:10:11.980",
+        "text": "capsules, right? And by the way, I want to remind everybody you can charge your keys too, because if it's something you carry in your pocket all the time, you know, why not? But you know, if it's a piece of metal, what would you, how long would you put it in the cube lock? Yep. And I would operate with ranges here. So I would say one, two, three minute minutes, that's a good ballpark because, I mean, frankly,"
+    },
+    {
+        "start": "00:10:11.980",
+        "end": "00:10:33.580",
+        "text": "if you charge a metal in the quantum blog for 30 to 45 seconds, it's already charged and it has a really nice charge. You can add a little bit to that by going longer and then really after three minutes, there's nothing more you can add with a quantum blog. Okay. All right. Now, if you did that in an infinity"
+    },
+    {
+        "start": "00:10:33.580",
+        "end": "00:10:57.540",
+        "text": "block, how long would you put it in there? That's about 15 seconds to, you know, about a minute. And here, we probably have to have an asterisk that says maximum three minutes."
+    },
+    {
+        "start": "00:10:57.540",
+        "end": "00:11:24.140",
+        "text": "It's actually a little bit more. But to be on the safer side, we always communicate three minutes just because you don't want to overcharge metals, which is possible. And then finished blocks in the quantum block. You don't really need to worry about that. But in the infinity block, you don't want to put metals in and then forget you put them in. Okay. So very important and people always, yeah, and people always ask, okay, so why?"
+    },
+    {
+        "start": "00:11:24.140",
+        "end": "00:11:46.420",
+        "text": "So what's the problem when it's overcharged? It's not like electromagnetic or health threatening by any means, but it's just something where you create a piece that's overcharged in a sense that it still is directly connected to that quantum energy space. It was in before"
+    },
+    {
+        "start": "00:11:46.420",
+        "end": "00:12:14.380",
+        "text": "or even that sounds crazy. But that's really what happens. And it can be too strong on one end. And on the other hand, it can happen if there's specific frequency in it that it spills over to other objects. And that is something you want to avoid. You can do that with big magnetic brute force, or you can do it with actually adding quantum consciousness"
+    },
+    {
+        "start": "00:12:14.380",
+        "end": "00:12:43.220",
+        "text": "levels to an object. And that's actually what is happening if you're overcharging those metals. Okay. And that's why you never want to take something that's been in the eye block and put it in the cube block because then that object itself is going to affect the cube block rate. Yes. And that's actually probably the most important to remember because you would then upgrade the quantum block, which is not a good idea because the quantum block is set"
+    },
+    {
+        "start": "00:12:43.220",
+        "end": "00:13:09.220",
+        "text": "on a certain level just because of certain things you can do with it, like the quantum frequency medicine, for example, or if you want to, you know, have a cleaner pharmaceutical that you want to take, you can do that in the quantum block, but you cannot do that in the infinity block because that is too strong. So you, for that purpose, you really want to keep the quantum block as is."
+    },
+    {
+        "start": "00:13:09.220",
+        "end": "00:13:36.580",
+        "text": "Okay. All right. So I guess, you know, we're going to probably get into, I know a lot of people went and just just got an eye block and they don't have a cube block. So we'll talk about that in a bit. But, but I just want to get down the basic timies right now. And then we'll get more into like, how do I use the eye block if I don't have a cube block? But okay, so there's some things that people need to know. And I mean, nothing's bad. I mean, I just want to clarify though, but nothing's bad going to happen, right?"
+    },
+    {
+        "start": "00:13:36.580",
+        "end": "00:14:01.500",
+        "text": "It's just more like, you know, it's just that you, you, if you do something where you affect your cube block as you're in your own words, you're going to upgrade your cube block, which basically changes it so that all of the things you're going to learn in this tutorial, which is what, you know, Philip and Roman painstakingly experiment, experimented with to figure out what all the timings were and, and how to use these blocks. Well, all of"
+    },
+    {
+        "start": "00:14:01.500",
+        "end": "00:14:31.460",
+        "text": "that advice is based on a standard out of the box, cube block and out of the box, high block, right? So if you correct, upgrade anything, if you upgrade your cube block by accident or if you purposely upgrade your infinity block, then you're off of baseline. So all the, all of the, like the quote, the instructions, no longer apply to your blocks because your blocks are different. And so that's just something I think is the, is that's what happened. So there's like, because I think people do kind of a worry about, did I, did I break something"
+    },
+    {
+        "start": "00:14:31.460",
+        "end": "00:15:00.420",
+        "text": "or did I ruin it? And the answer is no, you didn't ruin it. It's just that the instructions now no longer apply to yours because you've now customized yours. Is that kind of correct? That's, I can figure the best way I explain it to people. So yeah, so you know, just keep that in mind. It's not a bad thing. It's just that you have a now customized version of these things. So you're going to have to kind of tinker to figure out what your measurement times are going to be because your blocks are now different than what's been worked"
+    },
+    {
+        "start": "00:15:00.420",
+        "end": "00:15:27.740",
+        "text": "out for instruction. So all right, so let's, let's finish, let's, let's fill this thing out. Now, if I wanted to use a cube block, and I would just want to like, you know, charge shoes, charge, you know, a sweater, charge a jacket, how long would that take? You know, soft things that are made out of material. Yep. So I mean, I would still use about the same time if you're physically putting clothing"
+    },
+    {
+        "start": "00:15:27.740",
+        "end": "00:15:47.900",
+        "text": "in, for example, it's totally fine. But there's absolutely no limit to it, right? You feel free to leave it in for 30 minutes, 60 minutes in the quantum block. That doesn't really matter. And with the infinity block, you know, that always works just a little bit faster."
+    },
+    {
+        "start": "00:15:47.900",
+        "end": "00:16:13.980",
+        "text": "And I would say clothing and shoes. So you basically, so it doesn't really matter for the infinity block, how, what type of object you put in and how fast it actually works. So you can say 15 seconds is anything that you put in within 15 seconds is already charged."
+    },
+    {
+        "start": "00:16:13.980",
+        "end": "00:16:42.380",
+        "text": "Then you can up that charge a little bit, depending on which object it is. And you can, you can leave clothing and shoes in there, as long as there's no metal in there for also 10, 20 minutes. That's no problem, but it's not necessary. So, you know, literally after 60 seconds, you pretty much have a charge. And since clothing items without any metal,"
+    },
+    {
+        "start": "00:16:42.380",
+        "end": "00:17:09.100",
+        "text": "don't hold and transmit quantum energy that well, anyway, most of what you're doing is you're, you're cleansing the, you know, if it's a t-shirt you put in, you're cleansing that and it has a better energy, but it's not that you add so much charge that you get a lot of transmission from it. That's why the clothing items that we offer, those are actually with high purity silver,"
+    },
+    {
+        "start": "00:17:09.100",
+        "end": "00:17:36.060",
+        "text": "just because there's a real charge that gets transmitted. So yeah, what you wrote is, I think, a good guideline for people. Yeah. So there's a real difference right between just regular clothing and EMF shielded clothing, which is all of the products that you sell, you know, and lots of other places as well. But EMF shielded clothing has metals fibers sewn into the material."
+    },
+    {
+        "start": "00:17:36.060",
+        "end": "00:18:02.940",
+        "text": "So you're charging basically a metal and fabric item and that metal is going to hold on to that charge, which is why you want to treat it like metal. But if you've got just like your regular old Nike's, you know, that's just like treated like clothing, right? Yes. Okay. I agree. What about plastics, you know, like cutler wear, you know, cutlery. I just all, you know, I just so much stuff. I know that people charge plastics and, you know, like toys and things like that. So"
+    },
+    {
+        "start": "00:18:02.940",
+        "end": "00:18:26.700",
+        "text": "is it pretty much going to be the same as fabrics? Yes, it's pretty much the same. And I do want to mention here that on our own website, I think the minimum we show is about 10 seconds or not 15 seconds, but I still suggest you leave the 50 seconds there. First of all, it doesn't really make such a big difference. But we found over time that while 10 seconds is really enough,"
+    },
+    {
+        "start": "00:18:26.700",
+        "end": "00:18:49.980",
+        "text": "it's our minds that they constantly think 10 seconds just can't be enough. It's, I don't know, it's a timing thing. And it seems it's easier for people to just work with it if it's 15 seconds minimum. It's just been our experience. Okay. Yeah. Okay. Now, here's the thing about the next"
+    },
+    {
+        "start": "00:18:49.980",
+        "end": "00:19:15.740",
+        "text": "item, which is crystals and stones. Because you mentioned me once when I was trying to make a crystal block that a crystal has is almost like has the same energy signature as a person. So, you know, so crystals and stones are like nothing else out there. It's not metal. It's not fabric. It's not plastic. It is its own entirely separate thing. So with the cube block, you know, like,"
+    },
+    {
+        "start": "00:19:15.740",
+        "end": "00:19:45.580",
+        "text": "I want to let's say I want to charge a crystal. And I do remember you once saying, you know, it's not it's not a good idea to put frequencies into crystals, but just charge them, right? Is that correct? So there's, you know, so the whole idea of charging a crystal is just just, you know, don't put a frequency in it, just charge it and let its own frequency be enhanced by the charging. Is that it's got to look at it? And is that a place stones as well? The stones? Yes. Okay. Yeah. You know, there's a key thing and you okay?"
+    },
+    {
+        "start": "00:19:45.580",
+        "end": "00:20:12.940",
+        "text": "Yep. I would I would do it exactly like that with stones and crystals and especially crystals have very specific qualities. So if you take an amethyst, for example, or a Lemurian crystal, they really have completely individual energies and and qualities really. And it's it's actually fascinating. It's a very fascinating field, this whole crystal feeling. And what you want to do is"
+    },
+    {
+        "start": "00:20:12.940",
+        "end": "00:20:43.020",
+        "text": "and what you can do with the blocks is you can really bring out the full potential of of any of those crystals. Now, if you add different frequencies, you're basically trying to change the core quality and character of that crystal. It's almost as if you wanted to Yeah. So it's I don't even need an analogy. It's just something I wouldn't do. And in terms of"
+    },
+    {
+        "start": "00:20:43.020",
+        "end": "00:21:06.700",
+        "text": "charging time with the infinity block, probably I wouldn't do any more than a minute. Frankly, that's that's already enough. And I say in a moment also why. And then with the quantum block, probably not more than two to three minutes. And again, the minimum times would be the same"
+    },
+    {
+        "start": "00:21:06.700",
+        "end": "00:21:34.140",
+        "text": "that we've discussed before. And what what we actually found is that when we started to overcharge a crystal, it was becoming too much as this almost as if you're blowing up a balloon and then then you keep blowing until it pops. It's not really the case with the crystal that it pops, but it's just it's it's almost overwhelming to the crystal. And it's not necessary because it's"
+    },
+    {
+        "start": "00:21:34.140",
+        "end": "00:22:04.060",
+        "text": "already at this perfect state. Once you've charged it with the times that we just mentioned. Okay. Okay. So we're looking at to charge a crystal, this just quantum energy or stone, one to three minutes, but no more than three minutes max, right? So yes, okay. So just exactly. All right. So it's important not to go more than three. And then with an infinity block, you can charge a crystal 15 to 60 seconds, but don't go over one"
+    },
+    {
+        "start": "00:22:04.060",
+        "end": "00:22:29.980",
+        "text": "minute max, right? Yes. Okay. Let's talk about electronics. If I want to like, you know, this is something I do all the time, which is I put my cell phone in there at least once a month and let it charge for a few minutes. Because I remember like a long time ago, you told us to, you know, give it a recharge every now and then because electronics are different than all these other things. So if we could talk about, let's start off with, what is the timing if I want to put"
+    },
+    {
+        "start": "00:22:29.980",
+        "end": "00:22:56.700",
+        "text": "like my cell phone or I want to put my Wi-Fi router, my tablet, a laptop, you know, all this electronics, what is the timing for a cube lock to put an electronic item into a cube lock? Is it the same as like pretty much this? Yeah. So let's start with the infinity block here because so what we found is 30 seconds"
+    },
+    {
+        "start": "00:22:56.700",
+        "end": "00:23:24.780",
+        "text": "is kind of necessary for a long lasting charge and electronics are a little bit different because they are actively sucking or trying to suck out quantum energy out of it. So so it's different from just a regular metal in that sense or clothing item. So it's something where"
+    },
+    {
+        "start": "00:23:24.780",
+        "end": "00:23:50.060",
+        "text": "we actually don't even know the full answer to that, but we just recommend recharge it every three to six months. And if you use that item on a regular basis, that's what we recommend. And the 30 second max can be extended to five to ten minutes that may sound a little counter"
+    },
+    {
+        "start": "00:23:50.060",
+        "end": "00:24:18.220",
+        "text": "intuitive because there's certainly metals involved in the electronics. But and that's also found on the website. Do not put those electronics then in the quantum block afterwards anymore. That's the only thing you need to remember. But you don't have this overcharging problem with the electronics for whatever reason. So you can leave it into four or five to ten minutes max."
+    },
+    {
+        "start": "00:24:18.220",
+        "end": "00:24:45.100",
+        "text": "I would personally not put it in for longer than three minutes. So keep it like the metals. But it's possible. Okay, I'm just writing up some little little notes that when you guys are who are watching this, you can go ahead and then just like basically do a screen save of this page. So you'll have all the numbers when I'm done. So there's just a little disclaimer, don't place an object charged"
+    },
+    {
+        "start": "00:24:45.100",
+        "end": "00:25:10.860",
+        "text": "in an i-block in a key block. Okay. So if you're actually interesting, I just want to mention real quick. So when we did those tests, it was fascinating because we thought it first. And so we tested it with cell phones, for example, that were shut off. And then we tested it with cell phones that were completely connected and working. And the fascinating thing with the working cell phone was that"
+    },
+    {
+        "start": "00:25:10.860",
+        "end": "00:25:36.940",
+        "text": "not only did the cell phone get charged, but at some point it started to actually go into the networks and connections and was charging those as well. Like little red lines energetically, that's how you could see it, where the energy went in. It was fascinating. It was something extremely positive. And that's also the reason actually why we even mentioned you can put it in"
+    },
+    {
+        "start": "00:25:36.940",
+        "end": "00:26:06.300",
+        "text": "for five minutes or so, because that is something that starts after about 30 seconds. But then again, you don't want to overdo it, but that was a fascinating observation. Wow, that's interesting. I have to figure out how to tinker with that. Okay, so now for a cube lock, if I only have a cube lock and I want to put my phone in there, what's the timing? So I would say"
+    },
+    {
+        "start": "00:26:09.180",
+        "end": "00:26:36.700",
+        "text": "maybe similar to the metals in terms of the minimum. And the maximum, you can easily leave it in there for probably 30 minutes. It'll do similar things, but the infinity plugs do in regards to going into the network, for example. So that's definitely something you can do."
+    },
+    {
+        "start": "00:26:38.700",
+        "end": "00:27:04.300",
+        "text": "But at the same time, it's not necessary. If you just want to charge it for yourself and want to have it there one to three minutes, that's what I recommend to do. Anything else above that is gravy. Okay, so if I had a cube lock, I could leave it in there for like 30 minutes tops in a cube lock, right? A cell phone, Wi-Fi? Okay. All right, so there you go. I'm going to go"
+    },
+    {
+        "start": "00:27:04.300",
+        "end": "00:27:28.700",
+        "text": "ahead and leave this screen up for a second. Go ahead and do a screenshot, folks, to keep this as your notes. But these are the timings for how to charge an object with quantum energy. That's just quantum energy. And okay, so let's go to the next one. Now, for charging people, pets, plants, and places, there's a concept here of that. You could charge it physically, meaning you could"
+    },
+    {
+        "start": "00:27:28.700",
+        "end": "00:27:55.340",
+        "text": "charge yourself, you could put your pets paw, plants could go inside the place. You could take the plates apart, take the rods off, and you could charge bigger things like an entire tree trunk. And you could also charge photos of people, plants, and places. So there's two ways to charge things that are not objects, right? And so I want to kind of touch on each one because they're very"
+    },
+    {
+        "start": "00:27:55.340",
+        "end": "00:28:19.820",
+        "text": "different. But let's just start with these three right now with charging a physical person. If I took my cube lock and I took the rods off, and I wanted to charge myself, what would be a recommendation on timing? So the thing to keep in mind here, we're dealing with living organisms when it's"
+    },
+    {
+        "start": "00:28:19.820",
+        "end": "00:28:43.820",
+        "text": "animals, plants, and people. And every one of those is very individual. So that's what we need to keep in mind. So people always ask, okay, so what's the recommended time? We can't say that exactly. What we can do is we give some general guidance. And so here's the thing. If you're relatively new"
+    },
+    {
+        "start": "00:28:44.700",
+        "end": "00:29:13.100",
+        "text": "to quantum energy and you haven't done any energy work, which even would include things like yoga or meditation and stuff like that, and then just start very with short periods. And with that, I mean, not more than five minutes in the quantum block at first at a time. And"
+    },
+    {
+        "start": "00:29:13.100",
+        "end": "00:29:41.660",
+        "text": "if you are more experienced, you've worked with quantum energy before, you're a very conscious person. Maybe you had other energy devices in the past, etc. You're very tuned in from a consciousness perspective, then usually you can go way higher in the beginning, but you also may want to just test in the beginning. Well, how is it with these five minutes? Because"
+    },
+    {
+        "start": "00:29:41.660",
+        "end": "00:30:13.500",
+        "text": "if you're already more tuned in and know how that works, then you can see for yourself already. And then you can probably easily go to 15 to 20 minutes already at first with a quantum block. But again, I wouldn't recommend that for anybody that's completely new to this because it can start detox effects. It can also overwhelm the nervous system a little bit and nothing of real concern,"
+    },
+    {
+        "start": "00:30:13.500",
+        "end": "00:30:42.700",
+        "text": "but it's something where it may start to be uncomfortable and you don't really want that. So that's what we recommended first. But then it's the case that as you get used to this energy, your cells start to upgrade. Your own consciousness starts to basically, your whole system vibrates on a higher level as you're more around the energy of the block and"
+    },
+    {
+        "start": "00:30:42.700",
+        "end": "00:31:08.460",
+        "text": "as you're putting your hands or feet inside. And you can increase that time over time and probably already in the second or third day, you can do on 10 minutes at a time. And then you can easily increase that to an hour or an hour and a half or even two hours at a time over a period of"
+    },
+    {
+        "start": "00:31:08.460",
+        "end": "00:31:37.180",
+        "text": "several weeks. And that is something where we always say you need to tune in with yourself, like feel. What feels good to you? And I know that today's world that's very hard for a lot of people because we try to think our way into something or out of something. And that's not the way to go here. You can use your thoughts for these generalized times,"
+    },
+    {
+        "start": "00:31:37.180",
+        "end": "00:32:06.540",
+        "text": "but then you should really try to feel what does your body say. And it could be as easy as you get an impulse again, now it's enough. And you don't even know why, but you get that impulse and follow that. That's what we recommend to do. Yeah, you know, because I have read multiple experiences where people got really, really thirsty. And so that's obviously, you know, the cue block has triggered a detox reaction. Yeah, because me personally, I just want to share"
+    },
+    {
+        "start": "00:32:06.540",
+        "end": "00:32:34.700",
+        "text": "that I've been sleeping on top of crystal grids and tensor coils for years and years and years before I ever got a cue block. So I kind of like put my head in there for five minutes. And then I kind of fell asleep with one in my head and one once for about an hour. But you know, but I didn't have any reactions because I've been around all this energy stuff for so long. But if you're new to it, proceed with caution, nothing bad's going to happen. It's all going to be good."
+    },
+    {
+        "start": "00:32:34.700",
+        "end": "00:33:02.780",
+        "text": "But you know, you just it might be challenging for your body to adjust to the higher vibration. If you go too fast, right? Pretty much. Yes. Absolutely. That's the case. And then with the infinity block, obviously even more so. So then the block is that's rule number one, stronger. Yes. Okay. How long would you would you start? Like I put my hands in the eye block. How long,"
+    },
+    {
+        "start": "00:33:02.780",
+        "end": "00:33:27.660",
+        "text": "you know, for if I was new? Yeah, three minutes, I would say. Okay. Two to three minutes, maybe even. I mean, it really depends. It's, you know, to get a very first experience, two to three minutes, and then you can certainly increase that again significantly over time. And I think it's important we we let people know that they can really increase that,"
+    },
+    {
+        "start": "00:33:27.660",
+        "end": "00:33:54.620",
+        "text": "right? Because, you know, I mean, I could put my feet in there probably now for a whole day, right? And then I'd be fine just because I've been around it so much. But it's something you you get into. And then you can, you can also do it then multiple times a day, right? So if you feel like, oh, you know, why not another time of day two, three times a day, that's also"
+    },
+    {
+        "start": "00:33:54.620",
+        "end": "00:34:21.740",
+        "text": "possibility. And then over time, you increase that. And with an experienced, you know, I would, I would actually say five minutes at first, you know, we've had some people that were very experienced. And we saw that five minutes was just an absolutely great charge. But it then started to, yeah, even there start some detox effects. So five minutes, I think at first is fine."
+    },
+    {
+        "start": "00:34:21.740",
+        "end": "00:34:50.940",
+        "text": "Okay. And that's okay. And then a thing about this too, I just want to point out is, does it matter if I just put, let's say my hands or my feet in there in a block, or does this, would these times also include like, if I put my whole body in the block field? I would actually say that that would also apply for the whole body. You may want to be a little bit more on the cautious side. If you put your whole body in there, definitely drink more"
+    },
+    {
+        "start": "00:34:51.900",
+        "end": "00:35:21.020",
+        "text": "and don't overdo it on the maximum end there. But yeah, you should be okay with that. Okay. And then, okay. So now you and I had this talk before. So I want to point out full body charging and removing the plates and things like that. But basically, the plates are 18 centimeters apart when the rods are on. And then if you wanted to charge your body, as you just said,"
+    },
+    {
+        "start": "00:35:21.020",
+        "end": "00:35:45.500",
+        "text": "that, you know, I just correct me if I'm wrong, but charging a part of your body eventually resonates to the rest of your body. So you don't have to get your entire body, like every last little ounce of you, right? You can just get a part of you. So like if I were to lay the plates down and do head to toe, like my nose, and you know, it's just this little 18 cent, you know, that's basically it's eight inches, right? So it's not"
+    },
+    {
+        "start": "00:35:45.500",
+        "end": "00:36:13.500",
+        "text": "going to, if you have a belly, you're not going to get the whole body, this way or this way, right? But this way would just be fine. You would, even though your arms are in there, if you just did this, you'd get your whole your quote, your whole body would get charged. Is that correct? Absolutely. Absolutely. And that's, you know, part of that is because of the network effects of the cells and how they operate and our energy system as a whole dish, there's really nothing"
+    },
+    {
+        "start": "00:36:13.500",
+        "end": "00:36:40.220",
+        "text": "that is really left out when you're doing it that way. Okay. All right. And then, but I do want to point out too, if you've got a trouble area, like one time I have my knee, I just had, I've had a bum knee forever. And what I just put my knee in the cue block. And you know, I just put my leg through the whole thing and right, you know, pulled the cue block up to my knee. And I left it in there for five minutes. So you can just put a part of your body into just treat, treat specific areas as well. But if you even if you did that, though, your whole body would get charged, right?"
+    },
+    {
+        "start": "00:36:41.340",
+        "end": "00:37:11.580",
+        "text": "Exactly. And so one of the things that we usually recommend, so I mean, certainly you can do it this way. Absolutely. The easy way is to really, literally just put your feet in there and put your hands in there. And you may want to rotate that. So, you know, especially if you have something like arthritis going on, for example, and you want to constantly work on this in a physical way, yes, I would do like hands in the mornings, you know, feed in the afternoon, maybe evening you do"
+    },
+    {
+        "start": "00:37:11.580",
+        "end": "00:37:39.500",
+        "text": "something again. So that's a lot of those things are possible. We had some people that disassembled the plates and they had, you know, belly ache or, you know, and the menstrual cycle, for example, when it's uncomfortable and put one plate underneath the lower back and then one on top of the belly, that's also a way to do it. Yeah. Okay. Okay. So that's great. So now,"
+    },
+    {
+        "start": "00:37:39.500",
+        "end": "00:38:04.220",
+        "text": "in terms of, let's say, charging pets, you know, like, you know, all of our little friendly, fuzzy friends, is it the same as people? There's any difference really there between, let's say, my dog and myself, even though that, you know, we weigh a lot differently, would it be the pretty much the same? So one thing that is definitely the same is that you would want to increase it over time and"
+    },
+    {
+        "start": "00:38:04.220",
+        "end": "00:38:30.620",
+        "text": "not start too strong at first. And yeah, I would say you can, you can probably do it that way. What we usually do with our dog is we literally just put a picture inside. We never put her inside the blog, because we feel like, okay, now we need to move her there. And, you know, it's really not really necessary. We can put a picture in that's fantastic. However, sometimes,"
+    },
+    {
+        "start": "00:38:30.620",
+        "end": "00:38:56.060",
+        "text": "if there is anything that is bothersome, I don't know, an injury on the foot or something like that, their specific spot, then you may want to indeed, you know, put the paw in there for a little bit really physically. Yeah. Okay. All right. Okay. So same as people. And obviously, the dogs, cats,"
+    },
+    {
+        "start": "00:38:56.060",
+        "end": "00:39:23.260",
+        "text": "horses, are all going to be new to quantum energy. So start with shorter time frames. And you can use the photo. So that leads us right into photo. But let's get into plants first. Plants. Yeah, difficult. What do you think about let's, you know, I want, I want to charge my plants. And then there's different ways of doing it. But we're talking about blocks right now. If I were to let's say, you know, put a house plant and let's say take the rods off and put it"
+    },
+    {
+        "start": "00:39:23.260",
+        "end": "00:39:55.740",
+        "text": "between the plates, how long would you charge a plant for? Like I'm growing garden. I want to get really cool tomatoes this year or something. And I want to charge the bed, you know, I mean, what would you do for timing? Yeah. So I would be very cautious in this regard because we don't know exact charging times actually, because there are multiple different plants, then you have seeds, you have seedlings, you have already grown plants. So there's a big difference."
+    },
+    {
+        "start": "00:39:55.740",
+        "end": "00:40:21.740",
+        "text": "And from what we've noticed is you want to be rather in the, in the shorter time frames here. So with, with, and plants, those do not include little seedlings and seeds. I want to mention that because you want to be even more careful with those, and say regular size plans, you know, a plan that has been around already for a few weeks at least,"
+    },
+    {
+        "start": "00:40:21.740",
+        "end": "00:40:51.740",
+        "text": "okay, or, or longer, obviously, you know, maybe for a minute in the quantum blog, possibly up to three minutes. That's what I would say max. I would, I would really call that max. At first, at least, then an infinity blog, 10 seconds to a minute max."
+    },
+    {
+        "start": "00:40:51.740",
+        "end": "00:41:16.700",
+        "text": "And we work a lot with plants in a way where we have an infinity blog, not charging the, the plants in a way where the plants are inside the plates, but where the infinity blog is actually in the greenhouse as an example. So in that, that works"
+    },
+    {
+        "start": "00:41:16.700",
+        "end": "00:41:46.380",
+        "text": "extremely well. So with, with sprouts and, and seeds, it's probably more in the 30 seconds to, or 20 seconds to a minute to 60 seconds and with a quantum blog. And infinity blog, you know,"
+    },
+    {
+        "start": "00:41:46.380",
+        "end": "00:42:14.940",
+        "text": "10 seconds to 40 seconds. That's. Okay, is there a max that you would, could, you know, warn people about? Well, with seeds and sprouts, I would not go over those 60 seconds and 40 seconds respectively. I would just not do that. We don't have the experience to actually give you more guidance on that. So it's, it's really something that's why I'm rather on the cautious side here."
+    },
+    {
+        "start": "00:42:14.940",
+        "end": "00:42:43.420",
+        "text": "Okay. All right. Okay. No, that's very helpful. So, and just as a heads up, you know, for folks that are thinking of charging plants, I did an experiment on a couple of summers ago with three different friends who all had gardens. And the general consensus was the quantum energy will speed up the plant's growth cycle and will also speed up its flowering cycle. So if you"
+    },
+    {
+        "start": "00:42:43.420",
+        "end": "00:43:08.140",
+        "text": "were to charge the seeds, the ones that you charge, and you feel free to, you know, tinker with this, but the ones that get charged and this was consistent will sprout faster, grow faster, and fruit faster. Okay. And, but you won't get into like bigger tomatoes. You'll just get a regular normal tomato. It's just that the life cycle is going to go a lot faster. So that was the one thing that was, you know, was the common thing between all three gardeners."
+    },
+    {
+        "start": "00:43:08.140",
+        "end": "00:43:37.100",
+        "text": "Go ahead. Yep. And I have something to add from our experience so that we actually found that the size of the vegetables can actually increase. But what we also found, and that's interesting, that has been also tested by the Bayes Institute, that the, because the quantum energy helps these plants grow faster and, you know, grow bigger and grow nicer and more healthy in a way,"
+    },
+    {
+        "start": "00:43:37.100",
+        "end": "00:44:04.540",
+        "text": "they suck a lot more nutrition out of the soil in a much faster way. It's really the case. It's absolutely phenomenal. But what you need to keep in mind is that you need to keep mineralizing your soil. And you need to do that definitely more often when you use the quantum or infinity blog as, as a plant support. Yeah, that makes it very important because, yeah, because otherwise,"
+    },
+    {
+        "start": "00:44:04.540",
+        "end": "00:44:31.740",
+        "text": "you know, there's nothing left in the soil. And, and then where does the plant take that from, right? Then you only have the quantum energy, but you don't have the minerals and you do need that. Right. That makes complete sense. All right. So I, you know, I only did the test by, by charging all the seeds and then mailing it to my friends. So they never had the opportunity to actually charge the plant itself. So, so what we only noticed was a faster life cycle. So when"
+    },
+    {
+        "start": "00:44:31.740",
+        "end": "00:44:52.780",
+        "text": "you said you actually were able to create larger fruit and vegetables, was that charging the seeds and then also charging the plants afterwards? Once the plants, how did you know that, that was literally just having the infinity blog inside the greenhouse? And yeah, but I mean,"
+    },
+    {
+        "start": "00:44:52.780",
+        "end": "00:45:19.900",
+        "text": "so the thing is, since the infinity blogs are quite strong, it's, it's a very strong field already. So, yeah, there's, you know, I don't think you need to literally, if you have an infinity block and you work with that, you can do this, like this, this kickstart maybe with charging them, but, but it's a great field if you just have an infinity blog very close."
+    },
+    {
+        "start": "00:45:19.900",
+        "end": "00:45:44.940",
+        "text": "Okay. Yeah. Now that I have a backyard, I'm going to be doing a lot of experiments this spring, and then I've actually got an infinity block in the house. So that covers it, right? So that would be the same thing. Okay. That's good. Yes. All right. No, that's really fascinating. Okay. So I do, I do, you know, something popped into my brain when you were talking about this, and it seems like this would be a caution because what we know, what happens with plants,"
+    },
+    {
+        "start": "00:45:44.940",
+        "end": "00:46:14.860",
+        "text": "it would be a strong caution to charge a pregnant animal or human without making sure that the same issues are addressed, right? I mean, I, you know, we don't want to give out any health advice, but based on what you just said about what you, what you, what has been observed with plants, then I would want to say to everybody out there listening to this, if you have a block, be really careful with pregnant things and, and because of what we have learned about plants,"
+    },
+    {
+        "start": "00:46:14.860",
+        "end": "00:46:38.380",
+        "text": "right? I mean, would you agree with them? I mean, we just, you know, please just make sure you're very careful. Yeah. So on one hand, it's certainly absolutely amazing, right? When you're, you're pregnant and you're getting quantum energy and for, you know, for the little one in the, in the belly, that's, that's a quite amazing thing. And then a lot of fantastic reports are out there,"
+    },
+    {
+        "start": "00:46:38.380",
+        "end": "00:47:06.780",
+        "text": "but you want to stay on the, on the shorter time frames in regards to that and then really feel and tune in so that you don't, you know, just put too much energy in there. But generally it's a, it's certainly a very, very positive thing. Would you recommend the mother take additional prenatal vitamins or, you know, just for that whole idea of it's going to extract"
+    },
+    {
+        "start": "00:47:06.780",
+        "end": "00:47:31.180",
+        "text": "minerals and, and so, you know, nutrients from the, the whole strength? Would, would you recommend that they take more or just the recommendation is just use shorter time frames? Just to be, well, I mean, a good way, you know, to do it is, I mean, nutrition is, is always good, right? Whether you're pregnant or not. So that's always a good, good thing to do. But something like the"
+    },
+    {
+        "start": "00:47:31.180",
+        "end": "00:47:59.100",
+        "text": "heel capsule, for example, provides a very helpful nutrition on a frequency level for, for a human. So that is something that may want to be used as well. And then other than that, I would just say, you know, keep drinking a lot of water. Just healthy in general, not too much of a concern. Okay. All right. That's awesome. I mean, I, I hadn't heard you say that to me before. So that is"
+    },
+    {
+        "start": "00:47:59.100",
+        "end": "00:48:28.220",
+        "text": "fascinating. And I'm definitely going to include that in my, my experiments this spring. So no, really, really fascinating. Okay. Now, so let's talk about photos. You know, that's, that is something that is, you know, it's quantum entanglement. It is pretty wild to think that you could take a photo or something and put it in a block and, and that that photo, you know, being there would give the kind of like, it's like a directional antenna, that the energy will go into whatever's"
+    },
+    {
+        "start": "00:48:28.220",
+        "end": "00:48:58.060",
+        "text": "represented in the photo, whether it's a person, place, pet, you know, body part, whatever, right? So the first question I've got, and this came up this morning in telegram chat, which is, if I, if I put a person in the picture of a person, does that person and their clothing that they're wearing while they're in the place that they're standing, does that get charged with quantum energy, or does it just get exposed to the field? Because there's a little bit of debate about, you know,"
+    },
+    {
+        "start": "00:48:58.060",
+        "end": "00:49:25.820",
+        "text": "are we actually charging that, that person, right? Like you would, as if you put them between the plates, or is it just that you're sending them the energy? And then, you know, the difference between being in the field, as opposed to being inside the block, right? So in the field is different. So could you kind of explain the difference? Yes. So I start with metals, because metals can be over charged, if you put them physically into the infinity block, as we discussed earlier,"
+    },
+    {
+        "start": "00:49:25.820",
+        "end": "00:49:49.820",
+        "text": "but if you put a picture of that same metal, let's take a silver coin, take a picture of that, and you put it in the infinity block, you cannot overcharge the metal that way. But you still charge the metal, and you literally charge it. So I'll give you an example of a large dining table"
+    },
+    {
+        "start": "00:49:49.820",
+        "end": "00:50:16.540",
+        "text": "that we had bought. It was an antique, super heavy, large dining table that was probably two, three hundred years old, or something like that. And when we got, it's just a beautiful piece, if you look at it, but there was a lot of energetic stuff in there that was bothered or something. It was just something like, it could really feel like there's stuff from"
+    },
+    {
+        "start": "00:50:18.380",
+        "end": "00:50:41.980",
+        "text": "other people in there that we didn't want to have in our house. So what I did is obviously way too big to put it in the block. I took a picture of it and put it inside the block and charged it for, I don't know, like three, four, five, six, seven minutes, something like that. And all of that was gone. It was absolutely, only the beauty was left. And it's absolutely phenomenal. And I know I've"
+    },
+    {
+        "start": "00:50:41.980",
+        "end": "00:51:07.740",
+        "text": "done that with multiple little statues, even like a Buddha statue or something like that. And I've done it with a candle holder. And every time it's the same thing, you completely charge that thing. It's wonderful. You can do it with a big closet, for example. I've done it with a closet, right, with a picture of it. And it's amazing what you see the before and after. However, you're not"
+    },
+    {
+        "start": "00:51:07.740",
+        "end": "00:51:35.580",
+        "text": "overcharging the metals, which means you're also, if you're wearing clothing, even if it's with silver, you're never at risk of overcharging anything in that regard. However, you want to keep in mind, of course, that you don't want to put yourself in for too long. And that's something that will write down here, because there's also effects like detox or that the nervous system may get"
+    },
+    {
+        "start": "00:51:35.580",
+        "end": "00:52:05.340",
+        "text": "stressed a little bit, if it's too much energy at first. Okay. I'm really glad I asked the question. So I'm wrong on Telegram. I actually did not know that. I'm so glad I asked, because I did not know that. So if I wanted to actually create a capsule, I could literally put a picture of it in the cube lock, and it would actually become a quantum capsule, because it would literally get charged. Like as if I put the actual capsule in the cube"
+    },
+    {
+        "start": "00:52:05.340",
+        "end": "00:52:35.020",
+        "text": "lock. So I would still say for that purpose, I would still do it physically, because you get a stronger charge in it. But what you still like, you still charge it in a basic way. You do that. Okay. And I would probably at some point need to go into more details. Okay, what is the actual difference? But I would still recommend you do it that way. However, if there's a friend on the"
+    },
+    {
+        "start": "00:52:35.020",
+        "end": "00:53:04.540",
+        "text": "other side of the world that has some golden watch that I don't know, he bought on a second hand, right? And it's just some negative energy in there. He can send you a picture of it, you charge it even though you're 2500 miles away, and that negative energy will be gone. Oh, wow. Okay. That's awesome. So there's no max, and whatever you put in the blocks"
+    },
+    {
+        "start": "00:53:04.540",
+        "end": "00:53:25.820",
+        "text": "will be charged. But if you're actually going to create a quantum object, it's better to use it, do that, you know, charge it physically. Okay, put that out there. Yes, but there is a max for living organisms, humans, plants, animals. Definitely, we need to write down that there are maxes."
+    },
+    {
+        "start": "00:53:25.820",
+        "end": "00:53:51.900",
+        "text": "It's similar to what I explained with, you know, people in the quantum block and infinity block that you want to start slower and don't don't do too much at first. I would say you can probably double what we put into the first columns there where it says,"
+    },
+    {
+        "start": "00:53:51.900",
+        "end": "00:54:21.500",
+        "text": "where it says new five minutes, and for the quantum block, you can say new 10 minutes, and then experienced, well, it's a good good point, actually, maybe 30 or 40 minutes. Yeah, I would double it. Yeah, it's totally fine to double it in the same applies for the"
+    },
+    {
+        "start": "00:54:21.500",
+        "end": "00:54:48.700",
+        "text": "infinity block. Okay. So good to know. Okay, so then let's say the new would be, let's say six, or four to six, right? Four to six minutes, 10 minutes, if it's experienced. And then, but there's no max for objects, but for max for people, pets, and plants, you'd want to go the,"
+    },
+    {
+        "start": "00:54:48.700",
+        "end": "00:55:16.540",
+        "text": "what, 10 minutes for I? Yes, and again, it's very, very important to note here what these photos, the same, if you charge your hands or your feet, and then if you charge yourself with a photo or someone else, you can increase that over time. So these times are only true in the beginning. That's very, very important, because you can absolutely charge yourself for two or three"
+    },
+    {
+        "start": "00:55:16.540",
+        "end": "00:55:43.740",
+        "text": "hours in a row. It's no problem whatsoever, but you shouldn't be doing that in the beginning. Okay. It's something that you kind of evolve into. Stay awake. Okay, no, that's, that's. Okay, okay, so just to recoup, it's amazing idea of doing photos. And then, okay, so if you're new, you know, if the person's new, let's say we're doing a person, your grandma, you know, lose a"
+    },
+    {
+        "start": "00:55:43.740",
+        "end": "00:56:12.700",
+        "text": "thousand miles away, put a picture of grandma in the cue block, 10 minutes, I block four to six minutes, if she's new, and then as she gets, as she does it more and more, you do it more and more, then you can go up to 40 minutes in the cue block or 10 minutes in the eye block. You don't want to go over 40 minutes per session in the cue. Don't want to go over 10 minutes in the eye block. And would you say that, like, you don't want to do, would it be like two or three sessions a day would be the max you want to do it or just just like once a day?"
+    },
+    {
+        "start": "00:56:12.700",
+        "end": "00:56:41.740",
+        "text": "All right. You know, like how many times a day would be something you want to, you know, is this per day? I mean, that's what I'm asking. Are these times per day? No, well, I mean, I think on the first two days, you want to do that only once, once per day. But then you can, you can absolutely go in and do that more often. That's, that's no problem. That's, that's really something of this evolving period. We're on the third day already. You could possibly"
+    },
+    {
+        "start": "00:56:41.740",
+        "end": "00:57:09.740",
+        "text": "do this two, three times a day. And you can probably a week later, you can do twice as much as shown here, two, three times a day. Okay. Okay. All right. So as people get more experience, then you could, you could do it longer and more often. Okay. I guess that's the best way to put it. Okay. That's amazing. That's really amazing. Okay. So we are coming up to the one hour mark,"
+    },
+    {
+        "start": "00:57:09.740",
+        "end": "00:57:39.020",
+        "text": "and I realize that we have more content than we could ever, ever possibly do in the amount of time Phillip has in any given day. So Phillip, if you're okay with it, I'd like to, I think we should probably like, like stop here. I got one more question about it, but stop here and do this like part one and then do a part two. And of course, we've got a lot of questions that I pulled off a telegram, which I kind of peppered into what we're talking about right now. So is that okay? I mean,"
+    },
+    {
+        "start": "00:57:39.020",
+        "end": "00:58:07.100",
+        "text": "we can do this like, we'll have to schedule another hour, and then we can do the part two and so forth. Is that right with you? That sounds great. I think for people, it's easier to digest one or video and then another one. And yes, absolutely. Let's do that. Okay. So this is part one. Part two, we're going to talk about copying frequencies. So we're going to, this is like created that actually, like we're talking about copying frequencies, charging guidelines, other things that are"
+    },
+    {
+        "start": "00:58:07.100",
+        "end": "00:58:32.620",
+        "text": "things you need to think about. And then in terms of like, you know, frequently asked questions, just kind of like, you know, just a few off of the my experience commonly. And like again, we did have a lot of questions, I think like 27 questions, 28 from crew. And you know, I think that we did answer several of those questions already. So we're kind of getting a jump ahead. So the before I let you go, and I do so truly appreciate, and I just want to thank you"
+    },
+    {
+        "start": "00:58:32.620",
+        "end": "00:58:58.940",
+        "text": "personally, and thank you for our community, because I know that you are so busy. It's just unbelievable how hard it is to get some time. But you know, thank you so much for your time, Philip. And then the last question I've got is, you know, with photos, right? I mean, Enoch was one of the first pioneers of experimenting with putting like a DNA sample along with the photo."
+    },
+    {
+        "start": "00:58:58.940",
+        "end": "00:59:24.380",
+        "text": "So I just before we leave the subject of photos, can we just, you know, what is your take on, on, is it, you know, is it necessary? Is it does it make it a better experience? But if I were to put like a lock of hair, or a, or like a fingernail of the person that I'm trying to help, is that like required? Is it, you know, what's your take on that? Is it make it better? And,"
+    },
+    {
+        "start": "00:59:24.380",
+        "end": "00:59:46.860",
+        "text": "you know, that's not what people are experiencing is that it does actually work better. So what do you think? From our perspective, no, it does not work better. And we've tested that multiple times. Photo is absolutely enough to do. But you can actually increase or deepen the experience if you"
+    },
+    {
+        "start": "00:59:46.860",
+        "end": "01:00:16.380",
+        "text": "add, you know, a hair as an example. So if you do that, so with the hair, it actually goes directly into the DNA, and it goes a little bit later into your energy bodies. And it sort of works a little bit different. So it's coming from a little bit different side, and we found that you can increase and deepen the experience if you do both together by choosing"
+    },
+    {
+        "start": "01:00:16.380",
+        "end": "01:00:43.820",
+        "text": "which one to do, we always choose the photo, and we found that the best way. If you just do one. Okay, so, okay, so DNA samples are not necessarily better. But it doesn't hurt, but the idea is a photo is good enough. That's great. Let's have. But again, you can deepen and deepen the experience if you add DNA to it. So we found that it's, yeah, it's just a stronger"
+    },
+    {
+        "start": "01:00:43.820",
+        "end": "01:01:12.940",
+        "text": "experience that way. Okay, excellent. Okay. Okay, thank you for that one. Okay, but okay, so there you go. Okay, so one hour at the hour mark, I just want to say thanks again. Thanks for your time. Now, if anybody, this is going to be posted on the Tinkers Academy, but if anybody wants to get ahold of Leila Quantum Tech, you can reach us or reach Philip and Emma"
+    },
+    {
+        "start": "01:01:12.940",
+        "end": "01:01:42.780",
+        "text": "at our Telegram Quantum Power Group on Telegram. And there's, I'll put the join link in the video description below. We're up to over 2,200 members now. It's pretty amazing. You can also reach Philip at Leila Quantum, you know, Tech's website, which is Leila.Q.com, or LeilaQ.com, sorry, and they've got their website and they've got the contact us here as well. So there's two ways to get ahold of Philip if you've got more questions. But definitely, if you come on to the Quantum"
+    },
+    {
+        "start": "01:01:42.780",
+        "end": "01:02:12.780",
+        "text": "Power Group on Telegram, if you ask away, I'm one of the mods and I'm on there all the time. And so it's Emma. And then if you're trying to reach Philip, then, you know, definitely you can post there, but make sure you just kind of do the @philip thing so that he sees it. And there's no need if you DM him to go into the quantum chat group to say that you DM'd him. He will find it, right? He will find your message. But just be aware that Philip, you know, is the it's a small company and"
+    },
+    {
+        "start": "01:02:12.780",
+        "end": "01:02:37.740",
+        "text": "this guy works like 70 hours a week. So, you know, he is hard to get ahold of and and and mahalo for your patience. Is there anything else you want to add about how to get ahold of you and ask questions? Well, I guess you covered it perfectly. And I just want to say thank you to you, you know, for your time also for doing this that you had the the impulse here to make this video because I"
+    },
+    {
+        "start": "01:02:37.740",
+        "end": "01:03:01.580",
+        "text": "think this will be so helpful for people. And I know we've always getting these questions. So, now that we're actually going through some of these open questions and frequently asked questions, his grade is helpful. I'm looking forward to the part two. I can't wait and also want to say thank you to the whole community and everybody out there that's that's just, you know,"
+    },
+    {
+        "start": "01:03:01.580",
+        "end": "01:03:31.180",
+        "text": "discovering more of what this technology can do and helping new members to to understand how it works. But also as a new member that you're just asking questions is also a great wonderful thing. Awesome. It is. You know, I like, I don't before we started the video, Philip and I were talking about how great the group is. And it is pretty amazing because I belong to a lot of other telegram groups and some of them really devolve. But ours always has such a positive vibe and everybody's"
+    },
+    {
+        "start": "01:03:31.180",
+        "end": "01:03:58.620",
+        "text": "just so full of love and spirit. It's just it's I love it. It's just I love it. So anyway, I'm Kay Elmer and you can reach me at the Tinkers Academy. So if you want to learn more about what I'm doing, I do have a full page dedicated, I mean, a huge section of my blog dedicated to Quantum Energy, all the tinkering I've done with it, as well as a full section just on Layla Q, where I've accumulated all of the stuff that Philip and I have talked about there. I've also got a"
+    },
+    {
+        "start": "01:03:58.620",
+        "end": "01:04:25.340",
+        "text": "page on my blog where if you're interested in any of Philip's interviews, I've compiled all of them for the last over a year. So you can just kind of see like all the different places he's been interviewed. And and if you have any more interested in learning more about Layla Quantum Tech and or Philip, there's all the interviews are there. So for all the last year, so that's all there on my blog. And all you have to do is type in Tinkers.academy in your URL window. And it'll take you to that"
+    },
+    {
+        "start": "01:04:25.340",
+        "end": "01:04:38.780",
+        "text": "blog. Otherwise, thank you everybody. Thank you, Philip. And look forward to part two. Thank you. All right. Aloha."
+    }
+]

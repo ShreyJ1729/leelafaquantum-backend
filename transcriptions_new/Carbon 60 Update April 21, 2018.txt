@@ -1,0 +1,417 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.000",
+        "text": " >> Hello, everyone, and welcome to another Carbon 60 video by me, Kay Elmer. I wanted to bring you an update as of April 21, 2018 and keep you in the loop as to the research I'm doing and, of course, share it with you. I want to jump right into the disclaimers here. You know, this material is for research purposes only. This is not any medical or health advice. I wanted to remind everybody that C60 oil is not approved for consumption by the FDA."
+    },
+    {
+        "start": "00:00:28.000",
+        "end": "00:00:53.000",
+        "text": "Everything that we are doing with C60 products today is experimental. It's for research, and if you're a human taking it or a large rat, this is the human trial. We are actually living it. This is not a product endorsement of any kind. I do not sell C60 products, and I don't get paid and get money or anything to do my videos. So, with that said, the topics for this update is I wanted to give everybody a sneak peek"
+    },
+    {
+        "start": "00:00:53.000",
+        "end": "00:01:20.000",
+        "text": "in using the Pulver I C60, a very unique component. It's very different than the powder. And then I also want to share just what I'm working on ongoing research and just throw out my notes for you guys. If you're interested in doing your own research as well, I just want to just keep sharing whatever I got. And then, of course, I want to talk about buyer education because I'm seeing some really weird things out in the market. So, first things first, the product overview of the red line, Pulver I C60."
+    },
+    {
+        "start": "00:01:20.000",
+        "end": "00:01:47.000",
+        "text": "Now, I'm going to actually do a full-on tutorial as I get to the end of the process here. But I wanted to share with you just a little bit about what is this stuff and what it is. And this is right off of his website, link below in the video description, where what he's done, he's actually taking C60 powder and then pulverized it and grinded it down to its smallest size,"
+    },
+    {
+        "start": "00:01:47.000",
+        "end": "00:02:16.000",
+        "text": "which is literally one molecule at a time, as opposed to clusters of molecules. And so, there's a little note in there that a C60 molecule is one nanometer in size. And mostly when you get those powders from all over, you're going to get clusters as big as 300 times that. And so, what they've done is they've created this pulverized version. It comes to you suspended in pure alcohol that is made that way so that it evaporates off easily."
+    },
+    {
+        "start": "00:02:16.000",
+        "end": "00:02:45.000",
+        "text": "But the thing about it, as he states here, is that it's going to block the filters because it pulls a sludge and the impurities out of the oil. So, double filtering is really important. So, it's really a unique product because it's not like anything else that anybody is selling right now. There's one comparable product, but they don't sell the actual raw C60. If you want to buy C60 in a monomolecular form, then you'd have to buy the product itself."
+    },
+    {
+        "start": "00:02:45.000",
+        "end": "00:03:14.000",
+        "text": "But other than that, there's only two folks doing this right now in the world. So, right now, I just want to give you a sneak peek. I've had to adapt the process. He gave me instructions via email and it was courteous enough to put it up on the website for everybody else. And so, you can go to the link below and you can kind of read through the process on how he's suggesting to use the product to make your own C60 oil. This is just pure C60. And then, what I have to do is I've had to scale it to my size of equipment and availability of materials that I have."
+    },
+    {
+        "start": "00:03:14.000",
+        "end": "00:03:42.000",
+        "text": "So, the process that I'm using, and this is my adapted process. It's my own way of doing it because I couldn't follow the directions perfectly, was essentially, it's an eight-step process. First thing you do is you just remove the excess alcohol out of the bottle. You concentrate it down to the least amount of alcohol, so that's that much less that has to evaporate off out of the oil. You put the C60 in the oil and you stir it up for a weekend using a magnetic stir."
+    },
+    {
+        "start": "00:03:42.000",
+        "end": "00:04:08.000",
+        "text": "And then, you put it in an ultrasonic and you let it basically sonicate. Anywhere from 15 to 30 minutes, and then his recommended hertz was 21 hertz, but as you know, I couldn't find a machine that does that, so I got a 20 hertz machine. And the 15 to 30 range is because of, and he told me, was because of the wattage of the machine. So, I'll get a lot more into this in the tutorial itself."
+    },
+    {
+        "start": "00:04:08.000",
+        "end": "00:04:33.000",
+        "text": "So, the basic steps are, once you're done sonicating, you let it sit, and you let it settle for a week and a half. And then you give it its first filtering, and then you let it sit again for another week and a half, and you give it its final filtering using a vacuum filter. And you start it with a bigger filter first, and the final filter is really small, so that's the process. And where I'm at right now is I'm in, basically, step three right now."
+    },
+    {
+        "start": "00:04:33.000",
+        "end": "00:04:59.000",
+        "text": "It's kind of a comedy of errors, you know, I got this bottle in the mail, and so I put it to the side in the dark, and I got all my stuff ready, got all excited to use it. And the very first day I go to use it, I tip it over, you know, it covers still on, and I tip it over, so what does that do? Well, it mixes it back up again, and I'm like, \"Ah!\" So then I set it to the side, and I, you know, it's three days later, I let it sit for 72 hours. I go back to do it again, and I tip it over again."
+    },
+    {
+        "start": "00:04:59.000",
+        "end": "00:05:23.000",
+        "text": "And it was just, you know, this, and it was very frustrating, but so the third time after six days, you know, and by the way, it took, you know, everything takes two weeks to get to Hawaii, so I had to wait two weeks to collect all the stuff I needed. You know, you're going to need beakers, not flasks, you need pipettes, and, you know, so there, and fill extra filters, so you do have to plan ahead if you want to, you know, try this, but the third time is a charm."
+    },
+    {
+        "start": "00:05:23.000",
+        "end": "00:05:48.000",
+        "text": "When I finally let it sit, I was able to pull off the alcohol and go forwards. Right now, they're spinning, and tomorrow morning, I'll be sonicating them. So, I'm going to show you a video here, and I'm just going to walk you through the process of what, just my, these are the sneak peeks. So, this is me with the bottle. I'm just, I just opened it. It's been sitting there for three days, solid, and I'm just pulling the alcohol off the top."
+    },
+    {
+        "start": "00:05:48.000",
+        "end": "00:06:16.000",
+        "text": "Now, the math kind of worked out really simple. The five gram bottle comes in 50 milliliters of alcohol, and so by pulling off 20 milliliters, it leaves 30 milliliters of solution with five grams of C60 suspended in it. And so you can see where I pull off 20 milliliters of the alcohol, so now there's five grams left in 30. The math is simply every six milliliters of the solution now is one gram of C60."
+    },
+    {
+        "start": "00:06:16.000",
+        "end": "00:06:45.000",
+        "text": "So, right there, I'm making a couple of batches of 500 milliliters, C60 oil. The first one I'm messing with is a core Nicki oil one. That's the one in front. The one in back is a sunflower. I've also got avocado on the side. And so, his initial instructions to me were to use this back of a spoon so that the C60 solution would evenly spread out over the top of the oil so that you get as much of the alcohol"
+    },
+    {
+        "start": "00:06:45.000",
+        "end": "00:07:08.000",
+        "text": "on floating on top. So, when you start to spin it, it makes it easier for the alcohol to evaporate off so that all you really have is C60 hand oil. So, I did that. You can see where I took the spoon, dunked it in the oil, and then first thing I learned, and this is what I wanted to share with you, first thing out of the gate is that stuff sticks to everything."
+    },
+    {
+        "start": "00:07:08.000",
+        "end": "00:07:38.000",
+        "text": "And so, immediately when I started to just take the pipette and pull it out, it sticks to the inside of the pipette and the outside of the pipette. And so, I couldn't even see the lines that even told me how much I was actually drawing out and putting into the oil so I had to guess at how much I was putting in. And then, as I was doing this, you could see where the spoon thing is not working out. And Martin later kind of, kind of, apologized to me."
+    },
+    {
+        "start": "00:07:38.000",
+        "end": "00:08:04.000",
+        "text": "That was not a good idea to suggest to me. So, it's sticking to the pipette on the inside. It's sticking to the pipette on the outside and then look at this, right? It worked, but look how much C60 got stuck to the back of the spoon. I mean, this thing is so monomolecular, meaning this thing is really charged electrically, and it's just going to stick. It's like a volcanic silt. You know, if you've ever seen that or like edible clay, I mean, it is so fine."
+    },
+    {
+        "start": "00:08:04.000",
+        "end": "00:08:33.000",
+        "text": "So, anyway, but I did get it to smooth out across the top. I finally figured out how to make sure I got three full milliliters in there. And then, I just took some video here of this, of what it looks like. And it's just, I mean, if you know, if you make your own, you know, you put in the powdered form and it just sinks right to the bottom, you spin it up and the whole thing turns black. But this thing, it is so fine. It literally is like, again, I mean, the only thing I can come up with is like a volcanic silt. It's so fine."
+    },
+    {
+        "start": "00:08:33.000",
+        "end": "00:08:51.000",
+        "text": "And you can see like there's little clusters that are heading straight to the bottom real fast, and the rest of it is just kind of like slowly, you know, kind of just seeping into the oil. And I thought, that was just really, really wild looking. So, anyway, by the time, you know, you put it up on the stir, you turn it on up, and that thing just turns chocolate brown."
+    },
+    {
+        "start": "00:08:51.000",
+        "end": "00:09:11.000",
+        "text": "And that's, regardless of what oil, no matter what all you do is going to turn chocolate brown. So, this thing runs for a week now, and then once the week is over, I'm going to go ahead and then put it in an ultrasonic machine tomorrow. So, that's kind of how that looks. And, you know, one little thing while I'm looking at this, you know, that little green light on the stir."
+    },
+    {
+        "start": "00:09:11.000",
+        "end": "00:09:41.000",
+        "text": "You know, if you want to keep your area really dark, I was very surprised how bright that thing is, because I walked into the room in the middle of the night after I'd been asleep for a while, and, you know, my eyes were fully dilated. Oh, by the way, that's how much C60 was left on the spoon after I tried to scrape it off. So, spoon, bad idea. Don't recommend the spoon thing. So, the second batch, which was the sunflower oil, I just dripped the C60 solution on top of the oil, and that worked out really well."
+    },
+    {
+        "start": "00:09:41.000",
+        "end": "00:10:11.000",
+        "text": "So, you know, don't use a spoon, just drip it. Again, the tutorial is coming out, but it's pretty cool stuff, and very different from the powder. And I'm really looking forward to finishing off the rest of this. I'm going to take another three weeks, and then when I get it done, I'll share, I'll put together the tutorial, and then share how it comes out. So, let's talk about the ongoing research. I've been down. I mean, I had to wait like a couple of weeks to get the stuff, then I messed up, tipping the stupid ding over, and then one week into stirring."
+    },
+    {
+        "start": "00:10:11.000",
+        "end": "00:10:37.000",
+        "text": "I got three more weeks to wait, so, you know, I kind of got a lot of time on my hands in between, you know, messing with my lab stuff. So, in the meanwhile, you know, what I've been doing is I've been thinking of different videos I could do for the future, and also just satisfying my curiosity, because I just don't let it go when I'm interested in something. So, what I've been doing is these are all the things that I've been working on, and the very first one is the topic of is C60-toxic."
+    },
+    {
+        "start": "00:10:37.000",
+        "end": "00:11:02.000",
+        "text": "And, you know, I don't want to alarm anybody, but, you know, this is science, and, you know, it's the first question everybody should ask. And as we know from my other videos, I've talked about the purity level of C60 being 99.95 versus 99.99, et cetera. So, yes, there are some chemical reagents used as solvents to purify C60. Now, there is one manufacturer out there at C60.com, I believe."
+    },
+    {
+        "start": "00:11:02.000",
+        "end": "00:11:22.000",
+        "text": "Bob Greskes is the individual that runs that, who claims that he doesn't use any solvents, and he's a carbon scientist from NASA, so very, you know, credentialed. And he is his processes, he doesn't use that, so he's got a pure C60 product, no solvents, no reagents, but everyone else pretty much does."
+    },
+    {
+        "start": "00:11:22.000",
+        "end": "00:11:41.000",
+        "text": "So, one of the things was I'm really curious as to find out, like, okay, well, what is that, and how much is it bad for you, and, you know, how bad, and the idea of, well, you know, if something is 99.95, good for you, and 0.05 bad for you, you know, clearly, it's going to take care of itself."
+    },
+    {
+        "start": "00:11:41.000",
+        "end": "00:12:05.000",
+        "text": "Which is really what's happening, because if you look at the results, and the testimonials, and the adultals, and just the feedback, I haven't heard of anyone that has complained about having problems from taking C60. I've read things where people don't like the taste, you know, or don't like the oil, and it doesn't suit with them, but I have not heard of any cases so far."
+    },
+    {
+        "start": "00:12:05.000",
+        "end": "00:12:27.000",
+        "text": "And I've read every website that talks about this stuff, so that doesn't say it's, you know, 100% accurate, but it indicates to me that C60 is a very good thing for us. And the only thing is, as well, you know, how pure is the product that we're taking, or the product that we're making. So, I'm doing a deep dive in that, and I wanted to share with you some of the results."
+    },
+    {
+        "start": "00:12:27.000",
+        "end": "00:12:53.000",
+        "text": "This is all preliminary, I'll be doing a video on this, where I aggregate the findings, but I started looking at every single science study I could get my hands on. And so I've started a list of basically different science studies, of which ones say, you know, hey, the results were bad, it created damage. And then, of course, here you go, you've got the results that are non-toxic, and there were, you know, good things came from it, life extension, et cetera."
+    },
+    {
+        "start": "00:12:53.000",
+        "end": "00:13:13.000",
+        "text": "So, you know, I just am collecting all of this, and I'm in the middle of this research, but you know, I know that you're interested in this, so I'm just sharing you my notes. I'm not done yet, it's all draft, but I just wanted to share with you my notes, and I don't know the thing I wanted to quantify is that I am having, I'd say, 50/50 success at accessing the information."
+    },
+    {
+        "start": "00:13:13.000",
+        "end": "00:13:42.000",
+        "text": "It's the, you know, the world of academic science, they don't like to share, and so about half of them, I can get the full study where I can read the whole thing and look at their methods and their exact results and their findings and that sort of thing. And then half of them, I can't even get anywhere past the abstract, even after I request a copy, or I can, you know, they ask you to pay for it, so that's kind of not in the pocketbook, but I just wanted, you know, to just quantify my statements here saying that I only can read the abstracts"
+    },
+    {
+        "start": "00:13:42.000",
+        "end": "00:13:57.000",
+        "text": "in about half of the papers, but here's the thing, and this is what's really interesting is let's just write a high level, let's take a look at the studies that say that, you know, C6, he's not good for you. One of the things, just write down the list, you know, inflammatory responses in the lungs of mice."
+    },
+    {
+        "start": "00:13:57.000",
+        "end": "00:14:14.000",
+        "text": "This one is inflammatory responses in cells injected in mice, long-term toxicity, this was a case of where they gave, I forgot what critter they used, but they gave the critter C60, it showed some damage."
+    },
+    {
+        "start": "00:14:14.000",
+        "end": "00:14:43.000",
+        "text": "Oh, this was a fullerenes and water, and they showed cellular damage from the C60, but what was really cool was they discovered that, hey, you know, if the critter takes vitamin C with the C60, then there's no damage at all, so that was really interesting. Of course, there's zebrafish, you know, they put it in the water, oh, I'm sorry, this was the one the lipid peroxidation study was the one with vitamin C."
+    },
+    {
+        "start": "00:14:43.000",
+        "end": "00:15:03.000",
+        "text": "So, as you read through these, and I don't know if you've got the interest level that I do, as I read through these, you know, I'm like, basically, it kind of comes out, and this is all preliminary, but, you know, C60 is not good for you if you breathe it, or if you stick it into your veins with it, you know, with a needle, or if you're a fish and you pour it in the water and you're living in the, I mean,"
+    },
+    {
+        "start": "00:15:03.000",
+        "end": "00:15:32.000",
+        "text": "it's just kind of like, okay, common sense would say, yeah, you know, like, you know, hey, there's black lung, and no, I'm not going to stick anything in a syringe and jab it into my bloodstream. I don't think that's good for me, so it's kind of a lot of like, okay, well, yeah, of course it causes damage, so I haven't yet, and I'm still looking, but I haven't really found one that's like really, really like, oh, you know, we took C60 in a safe and practical common sense manner, and there's damage, you know, I haven't really seen that."
+    },
+    {
+        "start": "00:15:32.000",
+        "end": "00:16:01.000",
+        "text": "I mean, yeah, you've got damage to lungs of mice, well, you know, what is C60? It's carbon. You know, what all the coal miners have black lung from, breathing in carbon, so, you know, why would, you know, they just did it to mice, these poor little mice, you know, they're going to have black lung, what do you think? Anyway, I digress, I don't mean to be, you know, anything against scientists and skeptics, but, you know, anyway, so the study results from the non-toxic studies,"
+    },
+    {
+        "start": "00:16:01.000",
+        "end": "00:16:26.000",
+        "text": "and these are great, I mean, these just continue to, you know, reinforce the fact that it's good, it's a, you know, it's basically a radical oxygen scavenger. It's got really interesting properties, such as conductivity, so that, you know, things like when C60 gets in the brain, you know, and the synapsid fluid, it helps your brain neurons fire better, all that kind of stuff, so, you know, there's all this stuff in here, and it's all positive."
+    },
+    {
+        "start": "00:16:26.000",
+        "end": "00:16:55.000",
+        "text": "This is number one, here's the favorite one, that's the 2012 rat study, but, you know, you can read some of these, and they are very, very positive in terms of what, you know, benefits you can get taking C60, and then the other ones, of course, are non-benefits, and then as I find them, I'm collecting the articles and videos that talk about toxicity, so this is going to be linked in the video comments below, and feel free, you know, just jump right in and, you know, research along with me."
+    },
+    {
+        "start": "00:16:55.000",
+        "end": "00:17:24.000",
+        "text": "So the other thing that I want to be, I'm looking into is how C60 is synthesized, synthesized, sorry, and how they make it, and it's like, there's basically, like, I think, from what I heard, there was, you know, Ken Schwartz from Purple Power was, did a video, middle of February, and he talked about a couple of different ways, because he's a chemist, and using reagents and so forth, and, of course, there's how, you know, Bob Greskett does it."
+    },
+    {
+        "start": "00:17:24.000",
+        "end": "00:17:50.000",
+        "text": "You know, Bob Greskett does it with non-solvents, so there's multiple ways to synthesize C60 from a carbon source, such as such, or charcoal, or some guy, and so forth, so I wanted to try to collect all that data and just share it, because I'm really interested, you know, how do they, how do they get that out of the carbon, and just synthesize just one version of carbon, you know, and that comprises this, and, and again, you know, and then, of course, you know, how pure is it."
+    },
+    {
+        "start": "00:17:50.000",
+        "end": "00:18:15.000",
+        "text": "And then, of course, looking at doing a C60 oil buyers guide, and at the tail end of this video, you'll see why I'm interested in doing that. And then, also, I've been, you know, kind of on the side, working on my CBD C60 oil that I kind of started off with, and, again, I've took the whole bottle by now, and it's, again, literally every day I take it, I get 3 o'clock, which is a couple hours before I got to jump in the traffic, and I'm just calm."
+    },
+    {
+        "start": "00:18:15.000",
+        "end": "00:18:32.000",
+        "text": "You know, I can't say enough about how great that works for me, the combination of CBD and C60, but what I've done is I've kind of been playing around with CBD isolates, which is the concentrated powder form of CBD, and by doing it that way, I found a way to make it"
+    },
+    {
+        "start": "00:18:32.000",
+        "end": "00:18:50.000",
+        "text": "that's 60% lower in cost. So, I think of the original as like 177 or something that came out in my first video, but I'm going to be coming up with another video to show how you can even make it 60% less, so that people who are wanting to try this, and it's cost prohibitive, you know, perhaps, maybe you can, you know, you can give it a try"
+    },
+    {
+        "start": "00:18:50.000",
+        "end": "00:19:09.000",
+        "text": "at a much lower cost. The other thing that I've been working on is I want to work on doing some product comparisons, not necessarily, you know, product reviews, because that's, you know, that's a little anecdotal for me, but I was thinking more like product comparison, so I actually went out and bought a little microscope."
+    },
+    {
+        "start": "00:19:09.000",
+        "end": "00:19:34.000",
+        "text": "I think it was like 50 bucks or something. It's 800X, and so I ordered it, and it's on its way, and what I wanted to do was collect a few different samples of Rossi 60, take a look at that under the microscope, see what the differences are, and do that with a couple of a few blends, you know, manufactured commercial grade, and just let's take a look at it under a microscope, let's see what the differences are, I don't know, I'm just curious, I just want to see what it looks like."
+    },
+    {
+        "start": "00:19:34.000",
+        "end": "00:19:57.000",
+        "text": "Of course, I, you know, want to make sure I find one that's, like, quote, pure, and then compare the rest to that, so, but I just think that that would be really interesting to share with you, so that's a video that's coming up. Also, too, you know, I've been trying to try to nail down the idea of, you know, as I was reading all those science studies, and I only showed maybe a couple dozen or so, but I read a lot to get down to that."
+    },
+    {
+        "start": "00:19:57.000",
+        "end": "00:20:15.000",
+        "text": "And what was real interesting was the ones that I found where scientists were administering fullerenes in water, and it had positive results, so it's making me rethink the idea of, you know, do you really need to put C60 in oil to ingest it?"
+    },
+    {
+        "start": "00:20:15.000",
+        "end": "00:20:38.000",
+        "text": "And, you know, I think that that's a very, very, very important question to ask, because one of the biggest problems with taking C60 in oil is all that oil, and, you know, that much oil is not good for you. So, this is kind of like the holy grail of trying to figure out how to, you know, what's the best way to, you know, take C60."
+    },
+    {
+        "start": "00:20:38.000",
+        "end": "00:21:08.000",
+        "text": "So, I'm really looking at, and I'm trying to get the researchers almost no research on this, so I'm trying, and I'm trying to figure out, okay, well, you know, what happens if it's just C60 suspended in a fluid, you know, versus do you have to create these liposomes? You know, everything we've read, everything we know, everything that people talk about and duplicate and replicate is about putting C60 in oil and creating liposomes, but, you know, is that really, really necessary?"
+    },
+    {
+        "start": "00:21:08.000",
+        "end": "00:21:26.000",
+        "text": "And so, I'm actually trying to figure that out, so if you guys can help me in any way with any of these things, please jump in the comments and just jump right in, you know, or it's like that whole body of knowledge or one all in the same canoe thing. So, I'm also kind of playing around with some new C60 oil blends."
+    },
+    {
+        "start": "00:21:26.000",
+        "end": "00:21:56.000",
+        "text": "You know, I've got avocados, new me new. I haven't tried that before. I'm also looking at trying out a new oil that it's a CBD with terpenes in it, and terpenes are a additional compound within the cannabis sativa plant, which is also known as marijuana. And so that plant has three incredible chemicals in it, and one of them is THC, which is what we all did in high school. That was the part we all enjoyed."
+    },
+    {
+        "start": "00:21:56.000",
+        "end": "00:22:25.000",
+        "text": "And then there's, that's the part that obviously, you know, everybody enjoys. And then there's the CBD, which is really medicinal. And then there's this other component called terpenes that's in it. And so, when you isolate CBD from the hemp plant, you pull off the terpenes, and the terpenes are what gives the hemp plant, it's distinctive like flavor almost, or, and it has really good calming, you know, medicinal properties."
+    },
+    {
+        "start": "00:22:25.000",
+        "end": "00:22:49.000",
+        "text": "So they actually make a pure, well, not pure, but it's a terpene isolate that's got CBD and terpene added back in after the CBD's been isolated. So I wanted to give that a try. So I actually bought some of that to make some oils with. And that's kind of the cool thing about doing CBD isolates is you get to pick your oil, you know, you can use any kind of oil you want, and whatever you like as a flavor."
+    },
+    {
+        "start": "00:22:49.000",
+        "end": "00:23:10.000",
+        "text": "So I'm doing some of that on different oil blends, just playing around, always doing new stuff. So, and then lastly, I'm doing some personal testing. I'm trying out a new product right now, my dog and I are, and specific to my dog. I have a nine-year-old or going on nine-year-old Doberman, and she's gotten numerous fatty tissue lipomas."
+    },
+    {
+        "start": "00:23:10.000",
+        "end": "00:23:38.000",
+        "text": "And she's had him for a long time. So I'm going to, I'm doing a study on her. And so I took her to the vet and spent more than I wanted to to get a full workup on her. I've got x-rays, she's got enlarged spleen, enlarged liver, and then a little lipoma is all over the place. And so I haven't done any of the fine needle aspirations to determine the biopsies on these fatty tissue lipomas."
+    },
+    {
+        "start": "00:23:38.000",
+        "end": "00:24:03.000",
+        "text": "Lipoma's, I didn't go that far, but what I wanted, what I was trying to do, and my primary objective was to identify all of the lipomas. So the vet, you know, I've got a map of my dog now, every lump that was found and x-rays. And so that's the before picture. So now my dog is on a very concentrated form of C60 along with me. I'll be doing that for a while. I'm not sure how long yet."
+    },
+    {
+        "start": "00:24:03.000",
+        "end": "00:24:28.000",
+        "text": "And she's getting it every day. And I'm really, really, really hoping that in a few weeks or a few months with this steady regimen, a regime that I can then take her back to the vet and have a full repeat of the workup. And then have a before and after picture that I can share with everybody as a success story. And I'm extremely personally involved."
+    },
+    {
+        "start": "00:24:28.000",
+        "end": "00:24:54.000",
+        "text": "I am very attached to my dog and I'm really trying to help her out because she means a lot to me. So I'm doing that. So lastly, let me just jump into the buyer education stuff. I'm seeing a lot of C60 oriented kind of material products. And I just wanted to share this with you because, you know, it's an educational aspect, but, and I got nothing, nothing negative about any of these vendors and any of these products at all."
+    },
+    {
+        "start": "00:24:54.000",
+        "end": "00:25:16.000",
+        "text": "It's more of an education thing. So, you know, here's a product. I think this is coming out of UK. And it's the product is called, you know, C60 pure hard word charcoal. Now, if you're not educated or you're unaware of what C60 is and all of a sudden, you know, all your friends are talking about it or you read an article about it or something and you decide, oh, I want to go get some."
+    },
+    {
+        "start": "00:25:16.000",
+        "end": "00:25:44.000",
+        "text": "Well, here's a product that has the, you know, the C60 on the label. It's the name of the product. But if you look in the FAQs of this product, it says right here, somebody actually asked the question. I'm surprised that they, you know, I'm glad that they put it in their FAQ. That means they're very honorable and they're telling the truth, but they put C60 on the label. But when someone says, hey, is this pure C60? And then right here, this is not pure C60. You're right. It's just hard word charcoal."
+    },
+    {
+        "start": "00:25:44.000",
+        "end": "00:26:08.000",
+        "text": "So, you know, I'm not going to go as far as saying it's misrepresentation because it's true. C60 is in a charcoal. C60 is in soot and carbon and shungite and everything else. You know, it's carbon, right? But I think it's a stretch to call your product. That's a charcoal. Call it a C60 charcoal because it's going to confuse people."
+    },
+    {
+        "start": "00:26:08.000",
+        "end": "00:26:36.000",
+        "text": "And, of course, they're going to be thinking of thinking they're taking C60. And if it doesn't work like they think, then, you know, they're going to go, hey, C60 doesn't work. Which is not true. So, you know, it's an education thing. So another educational point that I discovered recently is a new vendor again. Here's this vendor. And, you know, nothing against the product at all. I mean, sure, it's a perfect product because you can look right here. You can see this 96 milligrams per 120 milligrams, which is the .8 saturation."
+    },
+    {
+        "start": "00:26:36.000",
+        "end": "00:26:57.000",
+        "text": "So they've got the thing saturated. They're not undercutting the amount of C60 in the product at all. But here's the thing is that, you know, if you look at the literature of this product, you know, right here, this actually sits right next to the picture of the bottle on the website. And it talks about, oh, you know, it just says coconut oil. It's organic. It's non-GMO. It's like it says no hexane or chemicals."
+    },
+    {
+        "start": "00:26:57.000",
+        "end": "00:27:19.000",
+        "text": "You know, but they're only talking about the oil in the bottle, not the C60. I read the whole page and there's this one little section right here. It's got one sentence. You know, and it says, you know, they use 99.95 C60 suspended in, you know, coconut MCT oil, carbon-60 molecules can help rid your body of harmful fruit."
+    },
+    {
+        "start": "00:27:19.000",
+        "end": "00:27:42.000",
+        "text": "That's it. Out of an entire page of literature that's completely dedicated to how great oil is coconut oil, which, and it totally is, you know, they're selling coconut oil with C60 in it and they're promoting the heck out of the benefits of the oil, right? But, you know, which is fine. So just sell coconut oil. But what do they call that? You know, what's the biggest letter, you know, on the label, C60."
+    },
+    {
+        "start": "00:27:42.000",
+        "end": "00:28:11.000",
+        "text": "So here's another time where someone's thinking, \"Hey, I'm going to, you know, I'm buying C60 and, oh boy, it's got no chemicals and no hexanes and it's GMO and all this, they're non-GMO.\" But the truth right here is, and as you well know, is that, okay, well, you know, there's going to be chemicals in there because you're using 99.95. There's a .05% of the C60 that's put in here that's got solvents in it. So right away, I mean, even though it's related, you know, these words right here are tied to these words up here."
+    },
+    {
+        "start": "00:28:11.000",
+        "end": "00:28:41.000",
+        "text": "So they don't get in trouble with any FDA people. But someone's just going to read this and think, \"Oh, you know, this product has no chemicals.\" But it's not true because the coconut oil has no chemicals. The C60 does. So it's a little misleading. And then lastly, you know, this whole can't help part. You know, help your body rid well. You know, that has yet to be proven, right? We are the human trial. That has not been proven. So it's another thing where, you know, you can see where some of these new -- this is brand new."
+    },
+    {
+        "start": "00:28:41.000",
+        "end": "00:29:07.000",
+        "text": "This vendor Jess popped up in the last four weeks. And, you know, they're just excited. They're getting their product out there. But I would suggest that, you know, this kind of stuff is really going to bring the FDA down on the folks that are saying stuff like this. You know, you really should be saying stuff more like research purposes only. You know, take your own risk. I mean, really, it's smart to do it that way if anybody's listening."
+    },
+    {
+        "start": "00:29:07.000",
+        "end": "00:29:28.000",
+        "text": "And then this is kind of my favorite thing. I mean, you know, my favorite response that I've seen so far. I went on Amazon and there's a whole bunch of people selling it on Amazon. I'm looking at the reviews. And this is the state of where, you know, of where this is, right? Here's, you know, Kamalita McMillan on November last year, you know, buyer beware."
+    },
+    {
+        "start": "00:29:28.000",
+        "end": "00:29:52.000",
+        "text": "This is after she bought a C60 product. Buyer beware. Why in the world would anyone use a product that says intended for laboratory and research purposes only, not for drug, ingestion, inhalation, topical application, food or household use. Keep out of reach of children. And then she says, how do you use this product then? There's no direction on how to use it."
+    },
+    {
+        "start": "00:29:52.000",
+        "end": "00:30:12.000",
+        "text": "Oh, so expect to receive three bottles and then we got one. But, you know, here's the thing. I mean, well, first of all, why would you buy something? You have no idea what it is. I don't know. But the second thing, though, is like, you know, where's the education part? How is this person going to get a hold of something and may or not may or may have a good problem or, I mean, response or bad response."
+    },
+    {
+        "start": "00:30:12.000",
+        "end": "00:30:36.000",
+        "text": "She takes the oil, gets sick of the oil, blames the C60, you know, but it's just like how in the world is this even possible that people are buying the thing, not even knowing what it is and then reading the label. And the answer to that question is they're people. That's what happens. So you can kind of see where if this keeps up and, you know, you start getting complaints to the FDA and et cetera, you know, the C60 market's going to kind of go through a little turmoil here."
+    },
+    {
+        "start": "00:30:36.000",
+        "end": "00:31:06.000",
+        "text": "And then I also wanted to share this with you on a buyer education standpoint. You know, the profiteers have arrived. It's funny, you know, I mean, I think C60 came out in the study, right, the RAT study 2012 and all the biohackers were all over it. Some of the manufacturers started creating the C60 out of the body study, the RAT study came up right after 2012. So, you know, we're talking six years now and there's probably maybe a handful of vendors that have been selling it and a small group of people that have been taking in."
+    },
+    {
+        "start": "00:31:06.000",
+        "end": "00:31:27.000",
+        "text": "And of course, it all changed last fall when it kind of got opened up to the world and became very popular. So, you know, six months later, the profiteers have arrived. And I wanted to point out that, you know, going on eBay back in the day, you know, when it got really popular that one day with that one interview from Sarah Westall, it was overnight, you know, everybody sold out."
+    },
+    {
+        "start": "00:31:27.000",
+        "end": "00:31:57.000",
+        "text": "And at that point, I had actually bought my first bottle that night of Purple Power and I was also looking everywhere else to find it, you know, because I wanted to get another one about a week later and it was sold out everywhere you couldn't find it. And I remember distinctly back then, six months ago, that on eBay, there was nothing. There was nobody selling C60 oil on eBay at all, six months ago. And then on Amazon, all you could find was that one brand that, you know, Camilita was commenting about."
+    },
+    {
+        "start": "00:31:57.000",
+        "end": "00:32:24.000",
+        "text": "And so, you know, it's gone from that to now. Now, if you go on to eBay and do a C60 search, it's pages. And what's unfortunate, I know I wanted to point out, is that, you know, look at this, someone's, you know, putting up, you know, I don't blame people for wanting to make a profit. But the whole point of what I am trying to do is I'm trying to share everything that I learned with anybody who listens so that it can help you."
+    },
+    {
+        "start": "00:32:24.000",
+        "end": "00:32:53.000",
+        "text": "And most importantly, I'm trying to find a way to make it as inexpensive as possible because money is so tight for so many people. So that's my driving force. And my third one obviously is my dog. But, you know, I'm trying to do that. So when I see this, it really irritates me because, you know, somebody who just wants to just try to do something for their health. They go to eBay and they see this, \"Oh, carbon-60 kit, make my own. Yeah, you know, that's good. I need that.\" And, you know, they might have to skip buying something so they can buy this instead."
+    },
+    {
+        "start": "00:32:53.000",
+        "end": "00:33:22.000",
+        "text": "But here's the deal. This stuff is not worth 180 bucks. You know, if you wanted to buy this stuff off Amazon, here it is right here. It's $74 worth of stuff. You know, you've seen my videos, right? So it's just profiteers. And then you've got like this guy over here, you know, he's advertising, you know, carbon plus and he's selling it. And $43 for, you know, a four ounce bottle. But it sells on the website for $27. Go to the website. Buy for $27. Don't, you know."
+    },
+    {
+        "start": "00:33:22.000",
+        "end": "00:33:45.000",
+        "text": "But so it's kind of like, you know, you've got misrepresentations, people stretching the use of the phrase, now you've got profiteers. So, you know, hey, it's like anything else in life, right? This is what happens. So I just wanted to just kind of share that with you. So if you are new to C60, be aware that you should go to the manufacturer's website."
+    },
+    {
+        "start": "00:33:45.000",
+        "end": "00:34:15.000",
+        "text": "I have a pricing guide and that lists them. And you can make it yourself for less than $4, a little bottle of, you know, one ounce bottle. Or if you really don't want to do that, you could buy it. And you could buy it as low for like six bucks. So it's not going to have to cost you an arm and legs. So I just want you to know that and hopefully make the best decisions for your pocketbook. That's it. Thank you very much. I hope this has been educational and informative for you."
+    },
+    {
+        "start": "00:34:15.000",
+        "end": "00:34:23.000",
+        "text": "I love your comments. Please keep sharing. Thank you for stopping by. I know your time is valuable and I really appreciate it. Aloha."
+    }
+]

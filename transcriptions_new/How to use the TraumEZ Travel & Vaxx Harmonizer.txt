@@ -1,0 +1,457 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.960",
+        "text": " Hello, everyone, and welcome to another Tingers Academy video. I'm your host, Kay Elmer, and I've got on the phone Philip, some more von Holtzendorf of Leila Quantum Tech. Now, this is going to be a tutorial on how to use the travel and Vax harmonizer feature that comes with TROM-EZ. All right, so before I jump into anything, let me do our normal disclaimer. Neither Leila Quantum Tech nor the Tingers Academy will recommend or endorse any specific tests, positions, procedures, opinions, or other information"
+    },
+    {
+        "start": "00:00:27.960",
+        "end": "00:00:56.560",
+        "text": "that may be mentioned in this video. Reliance on any information appearing. And discussed in this video is solely at everyone's own risk. Statements made have not been evaluated by the EFSA or FDA or any governmental derivatives thereof. Leila Quantum Tech products and products that Leila Quantum Tech may represent are not intended to diagnose, treat, cure, or prevent any disease. All right, so hey, Philip, how are you today? - No, I'm doing fine, thank you, how are you? - I've almost got the disclaimer memorized."
+    },
+    {
+        "start": "00:00:56.560",
+        "end": "00:01:23.840",
+        "text": "Yeah, I'm doing pretty good. Okay, so today, you know, this is going to be the second or the third tutorial on TROM-EZ. So we've got one on how to use TROM-EZ for trauma release. I recorded one on how to just subscribe and set up the app. And then this tutorial is going to be as Philip to come online and kind of explain how do you, you know, how do you use, if that's even an appropriate term, the travel feature?"
+    },
+    {
+        "start": "00:01:23.840",
+        "end": "00:01:51.720",
+        "text": "And then how do you use the VAX harmonizer? You're like, what do you do when you turn it on, if you happen to do anything? So that's what I've asked him to do. Now, if you recall from, if you've seen the subscribe video, you'll know that when you turn on your app, you know, it's really simple, you just log in and then you just click right here on the travel icon. And once you've seen that green arrow on the green check mark, it says right here, the service has been activated"
+    },
+    {
+        "start": "00:01:51.720",
+        "end": "00:02:21.200",
+        "text": "and it's going to run for 12 hours straight, okay? And that's how you turn it on. It just turn on and it runs and it turns itself off. Now, the other one is the VAX harmonization feature. And then same thing, if you want to run that one, you click that guy, you get the little green check and then you get the confirmation that it's running and that's going to run for 30 minutes. Is that correct, Philip? - That is correct, yeah. - Okay, and that's how you turn them on. And so now they don't, you can't turn them off, you just turn them on and then they start running. And so let's get into the detail."
+    },
+    {
+        "start": "00:02:21.200",
+        "end": "00:02:50.960",
+        "text": "One, yeah, you actually can turn off the travel feature. You can turn it off yourself, but you cannot turn off the VAX activation. So that just runs out after 30 minutes and then you could reactivate it if you wanted it, you know, for your wife or whatever. - Okay, yeah, I just noticed that. I didn't, yeah, I was been playing around with the app for a couple of days now. Oh, okay, so you can turn this off. I just tried it and it worked. Okay, great."
+    },
+    {
+        "start": "00:02:50.960",
+        "end": "00:03:20.200",
+        "text": "Okay, so then you can turn off travel, cannot turn off VAX. And I also noticed too, if this is correct, well, you can do both at the same time, right? 'Cause I tested that and they both, you can both turn them both on at the same time. - Yeah, you could, you know, I don't necessarily would do that, but it's, yeah, you could do that. - Okay, all right, so that's how you turn it on. So now for the travel, if you guys know, right, if you see this a little learn more URL here,"
+    },
+    {
+        "start": "00:03:20.200",
+        "end": "00:03:49.880",
+        "text": "if you click on the learn more, you're gonna see the instructions. And so these are the instructions for the travel feature. So let's say Phillip, the question is, is I turn this thing on, do I need to do anything? - No, you don't need to place the phone at a specific point. It doesn't need to be in the thymos gland, but you wanna have the phone with you obviously. So if you travel, don't leave the phone at home, right? Then it's not gonna do you any good."
+    },
+    {
+        "start": "00:03:49.880",
+        "end": "00:04:16.720",
+        "text": "So that's the only thing, have the phone with you as you would usually, and then it just runs. - Okay, so what's the distance? Like, is there like, I think in the instruction somewhere, it says, I believe it's seven meters is the field around the phone is like, you just need to be near your phone within seven meters. Is that an accurate distance or would you happen to know? - Yeah, I would suggest to be in within a meter"
+    },
+    {
+        "start": "00:04:16.720",
+        "end": "00:04:45.680",
+        "text": "of the phone, three feet or so, to have the full blown energy that you want there. But indeed, the field could be seen and perceived within about seven meters. But then, as always, it's the weakest on the outside, right? So when you're six meters away, you're not gonna get the full benefit."
+    },
+    {
+        "start": "00:04:45.680",
+        "end": "00:05:14.840",
+        "text": "- Okay, and so the travel feature, like what's your quick elevator pitch on what the travel feature is? 'Cause it seems like it's like an energy that's coming from your phone, right? You need to be like within three feet of it, and you use it for like the purpose of traveling. But like, what really is that? How would you describe that, quote, travel energy? - Yeah, it's been developed specifically for these regular average issues that people have when they travel,"
+    },
+    {
+        "start": "00:05:14.840",
+        "end": "00:05:44.600",
+        "text": "that they get into stress and to some extent, also anxiety, right? Because things are, you know, and especially when things happen, fears, we tend to not be in the here now when we travel, but rather in the, okay, we forgot something, or we will be somewhere tomorrow and all of that. So it pulls you basically into the here and now, it supports you with an energy bubble"
+    },
+    {
+        "start": "00:05:44.600",
+        "end": "00:06:13.760",
+        "text": "to feel balanced and really feel at ease with things. And yeah, everything also the, you know how it works with these attractor fields that David Hawkins talked about, right? So what we vibrate and what we have in our field, we pull into our lives. So if we have strong anxiety there, and the fear that something goes wrong,"
+    },
+    {
+        "start": "00:06:13.760",
+        "end": "00:06:42.040",
+        "text": "or anger because, you know, I don't know, we had to pay extra for a bag at the airport and we didn't know about it, right? All these things then accumulate, we're fully stressed and then it just gets worse from there. And then basically that energy is there, that doesn't even happen, you know, that whatever happens, we can take it at ease and with ease and that things just develop in a nice, beautiful way"
+    },
+    {
+        "start": "00:06:42.040",
+        "end": "00:07:11.520",
+        "text": "and way easier than it would otherwise happen. That's pretty much what you can think of. And it's just to reiterate this, this is not just for a travel that would be overseas or something like that. You can turn this on if you just go groceries shopping, right? Because there's also a lot of potential stress that you can encounter. And it's also a good way to test it, right? You know, let's what I was thinking"
+    },
+    {
+        "start": "00:07:11.520",
+        "end": "00:07:43.280",
+        "text": "was people who have to commute to work, you know, the stress of driving and traffic. - Yeah, exactly, yeah, exactly. Especially LA or New York City, probably. - Oh, so how can you go to work? - Oh, yeah, I hear that. So how is this different than the energy you get for the quantum upgrade you subscription? - Well, that is just a pure natural quantum energy field that helps you to increase your consciousness level"
+    },
+    {
+        "start": "00:07:43.280",
+        "end": "00:08:11.200",
+        "text": "and just vibrates very high. So that is certainly already extremely positive. And then you can use specific frequencies. You could use the inner piece frequency, for example. It has some similar effects, of course, in regards to use, staying in balance. But this feature, this Trump easy feature, is just targeted towards this, right? The inner piece isn't targeted for this, the quantum upgrade isn't targeted"
+    },
+    {
+        "start": "00:08:11.200",
+        "end": "00:08:39.040",
+        "text": "for this specific use case. So there are nuances. - Okay, all right, so it's like your frequency, okay. But it's an energy with inner frequency. Or a figure with inner frequency. - And you can have the, exactly, you can have the quantum upgrade for you turned on and even a frequency. But when you're traveling, you can still turn this feature on and it'll just make you be in a travel bubble, if you will. - Right, okay. All right, sounds good. So that's pretty much it."
+    },
+    {
+        "start": "00:08:39.040",
+        "end": "00:09:07.400",
+        "text": "Just turn it on and keep the phone near you and it runs for 12 hours. If you want to turn it off, just turn it off using your app. Okay, that seems pretty straightforward. Now this one's a little bit more complicated, the VEX harmonizer. So now the instructions are kind of long. I just kind of condensed them down to the nine steps. So I guess first things Phillip question, right, is I turn it on, I get the green check. It's only going to run for 30 minutes. So what, what's, what do I,"
+    },
+    {
+        "start": "00:09:07.400",
+        "end": "00:09:37.200",
+        "text": "so I guess what's the first thing I should be doing? You know, or is it just, you know, follow these steps? Or could you kind of walk you through what somebody should be doing to, you know, to use this feature? - Well, I guess the first question I would have for you is if the word sieving is actually the word that anyone would use in the US, that's just the direct translation, you know, of the German word and how it is energetically, but we could also replace it with harmonizing"
+    },
+    {
+        "start": "00:09:37.200",
+        "end": "00:10:04.720",
+        "text": "so that we just have a question for you. And then, you know, I can move on into explaining. - Yeah, I didn't know. I just copied and faced it. I figured you'd explain what sieving meant. Okay, so it means harmonizing. Okay, all right. - I think I had told the team already to replace it like a couple of weeks ago. - Okay. - Currently, it hasn't happened so far. I'll ask again, when I read this, I was like,"
+    },
+    {
+        "start": "00:10:04.720",
+        "end": "00:10:31.720",
+        "text": "\"No, I've never heard this in English.\" (laughs) Okay, anyway, so what's important is that you don't need to like do anything in these steps, right? What you do, the only thing you do is basically that you're basically mentally preparing yourself that you're doing this now, which you're gonna do anyway when you do this, right? There's nothing more."
+    },
+    {
+        "start": "00:10:31.720",
+        "end": "00:11:00.640",
+        "text": "And you put your phone on the thymus gland. And then you let it happen. So the energy field activates when you press that button. There's also not a five minute lag time or something. It starts pretty much right away. You press the button, you put it on your thymus gland, you lay down, you can also sit down if you want. I mean, I personally prefer to lay down. And then it starts. And it comes basically in three waves."
+    },
+    {
+        "start": "00:11:00.640",
+        "end": "00:11:30.520",
+        "text": "And the energy waves come from the feet first. So they go through you. And you, if you're very sensitive to energy, you'll actually feel that. And then it goes through the first time. Then it goes through the second time again, starting with the feet all the way to the top, to the top of your crown. And then the third round goes one more time"
+    },
+    {
+        "start": "00:11:30.520",
+        "end": "00:11:59.720",
+        "text": "and activates the chakras in that moment. We, so depending on what issues we have in regards to medication, possibly misuse, possibly alcohol misuse or other drug misuse or the past in regards to any specific Vax, right? There's possibilities that in many cases actually very high probabilities, especially in regards to the Vax,"
+    },
+    {
+        "start": "00:11:59.720",
+        "end": "00:12:27.400",
+        "text": "that the sole isn't in the body, right? The sole is basically either sort of cut off or it's standing right next to the body or something like that, right? And so in this process, in this third process, that's really the most powerful where most people actually notice something is that the sole really enters fully in the body."
+    },
+    {
+        "start": "00:12:27.400",
+        "end": "00:12:56.080",
+        "text": "So it's the reunion, if you will. And that can actually sometimes be physically felt by even a foot getting longer that was shorter than the other one or that you feel suddenly your spine gets longer and that you feel bigger physically a little. And so that's how that can be noticed. And then this is done. It takes about 10 to 15 minutes."
+    },
+    {
+        "start": "00:12:56.080",
+        "end": "00:13:23.480",
+        "text": "And so then the question is there, and after 15 minutes, you know, you're done. Unless something is calling you, oh, maybe I'm still working through stuff and you would be maybe the zero point 5% where it may take a couple of minutes longer. But yeah, after 15 minutes, usually it's all done. And in some cases already after 10 minutes, why do we leave it on for 30 minutes?"
+    },
+    {
+        "start": "00:13:23.480",
+        "end": "00:13:53.360",
+        "text": "That's just just a buffer to be on the safe side and also that it cannot be reactivated like right after. That's pretty much it. - Wow, okay. So just-- - It's a powerful feature. - Yes, oh yeah. - Really powerful feature. It can be used also for any type of shedding that is encountered or can be encountered. It's, you know, even, I don't know. Maybe you don't drink alcohol anymore usually, but you go out on a Saturday night"
+    },
+    {
+        "start": "00:13:53.360",
+        "end": "00:14:22.760",
+        "text": "and meet your best friends and oh my God. And you come home and the next day you feel like crap. Well, you obviously drank too much and all of that. So it'd be wise at least energetically to do this here because it will calm your energy system. It'll harmonize, you know, all these substances basically. And then your body will have a much, much faster recovery time in that regard also."
+    },
+    {
+        "start": "00:14:22.760",
+        "end": "00:14:52.600",
+        "text": "- Okay, so this is like energy detox from anything that we've, you know, subjected ourselves to in our lives. Okay, so it's not like-- - It's such toxins, correct. - Yeah, so you're just like lay down, put the phone on, you know, turn it on, put the phone over your thymus, which is, as a reminder everybody, your thymus is located right here, which is pretty much between your throat and heart chakra right there in the middle of your chest or upper chest. And you just, I would just say lay down, right? Put the phone on the above your thymus gland. You can be turned off, right?"
+    },
+    {
+        "start": "00:14:52.600",
+        "end": "00:15:21.160",
+        "text": "You can turn your phone off or put it in airplane mode or leave it on, right? Doesn't matter. - Exactly, that's totally up to you. It doesn't matter, it works regardless. - And so when you're just laying there, you don't, it's not like you have to work through it like you do with trauma release, right? You just lay there in 15 minutes and it does its thing, right? Is that a correct assessment? - That's absolutely correct. I wanna stay focused on it. - I had to work with it. - Yeah, just stay with it."
+    },
+    {
+        "start": "00:15:21.160",
+        "end": "00:15:45.920",
+        "text": "I mean, I wouldn't read a book in the meantime. I wouldn't talk on the phone or any of these things. It's just like, view it as a sacred process that you're doing to clean yourself, right? And so stick with it, that's what I suggest. But there's nothing actively you need to do. The only thing that we suggest when you do this the first time,"
+    },
+    {
+        "start": "00:15:45.920",
+        "end": "00:16:14.040",
+        "text": "in regards to VACs, for example, there is on a certain energetic level, always in agreement or contract or promise that we enter basically. Or there's a trauma that comes from that, right? So I don't know, maybe it was we were one and a half years old. We got this needle put in our butts"
+    },
+    {
+        "start": "00:16:14.040",
+        "end": "00:16:43.520",
+        "text": "and we were crying, you know, these things we forget, but it's still something that is in the system and that was created and left a mark. And so that is something to do a regular trauma release session after this is highly recommended. Just the first time, you know, if you then use it on a regular basis because you know, what I just explained, you went out with your friends on a Saturday or for shedding and all of that,"
+    },
+    {
+        "start": "00:16:43.520",
+        "end": "00:17:13.440",
+        "text": "I mean, you don't have to do a trauma release with that. You just do this. - Right, okay, that makes sense. So there's two aspects to, let's say, you know, have being exposed to chemicals. If there's trauma related to it, do the trauma afterwards or if there's not just, just, you know, do the, do the sex harmonization then. Okay. - Exactly. And it's very easy. - It's actually, it is really two different things, yeah. - Yeah, but it's very easy to name the trauma, right? Because the trauma, so then, you know,"
+    },
+    {
+        "start": "00:17:13.440",
+        "end": "00:17:41.920",
+        "text": "are there any traumas, promises, contracts in regards to vaccinations? Give me a number between zero and 10, right? So it's very easy. You know the trauma, right? It's not that you need to look for a trauma because it's related to this. Or if you know you have substance abuse in the past and you're using it for this now,"
+    },
+    {
+        "start": "00:17:41.920",
+        "end": "00:18:11.640",
+        "text": "then after that, certainly you wanna do a trauma release session with yourself for that. And then you ask if there's any traumas, promises, contracts, negative attachments, buy and bond energies in regards to substance abuse, right? And then you just work through that and just, you'll know this is very powerful. You know, this is powerful stuff if we can remove this."
+    },
+    {
+        "start": "00:18:11.640",
+        "end": "00:18:41.520",
+        "text": "- Okay, no, that's great. Okay, it sounds really simple to use as well. So all right, so then there you go, folks. All you gotta do, activate it and sit back, keep your phone close to you. And then for this one, put it on your thymus. So, okay, great. With that said, then let's jump right into the various questions that we got. And you probably answered a couple of them already, but let me go ahead and just, let's just run through them. This is right out of the Telegram chat groups. One of them is, do I have to have an active trauma"
+    },
+    {
+        "start": "00:18:41.520",
+        "end": "00:19:08.480",
+        "text": "subscription to use the app? - Yes, it does not work for anyone that doesn't have a subscription, it's just gonna work. - Right, so the steps are, subscribe to Traumeezy first, once you, you know, activated Traumeezy and it's running, then you go and download the app and then you could use the features, right? And it all kicks off pretty quickly, within 15 minutes right after you pay and all that stuff, right? - Yes."
+    },
+    {
+        "start": "00:19:08.480",
+        "end": "00:19:38.200",
+        "text": "- Okay, number two, when I activate the Vax harmonization on my phone, does it just activate for me or does it activate for all numbers in the family package? - No, that activates just for your phone. - Okay, and then every person in the family would need to download the app, put their phone number in and turn it on and off for themselves, correct? - Correct, for these features, if they wanna use it, absolutely, it's connected to the specific phone number."
+    },
+    {
+        "start": "00:19:38.200",
+        "end": "00:20:07.880",
+        "text": "Yeah, otherwise that would be kind of crazy if we were to, you know, be able to manage this for our whole family, yeah. - Right, right. And then, okay, so I guess a side question just 'cause I'd popped it in my head, but if, could I just turn it on, turn on like one of these features on my phone and hand my phone to somebody, and then they could use it like the Vax harmonizer? - Yeah, so interestingly, that's not how it works"
+    },
+    {
+        "start": "00:20:07.880",
+        "end": "00:20:38.440",
+        "text": "in Austria, how he had set it up for Austrians, but we made it a requirement that if we offer this together, that this should be working, so if you wanna use it for your daughter or someone else, you can, it's absolutely possible. And there's still obviously a family package and all that, which makes a lot of sense because, I mean, who wants to give their own phone away to other people constantly at all times, right?"
+    },
+    {
+        "start": "00:20:38.440",
+        "end": "00:21:06.040",
+        "text": "- Right. - Right, so if someone really is interested in having these features obviously for a whole family, the family package makes a lot of sense, but hey, certainly, absolutely use it. You can use it for your dog also, by the way. - Yeah, it's gonna ask you. I was just sort of thinking, 'cause those guys have had vaccinations, I'd like to help them free, you know, release the energy from, okay, all right, great. Okay, so now, number three, how do the other subscribers from my family"
+    },
+    {
+        "start": "00:21:06.040",
+        "end": "00:21:31.680",
+        "text": "subscription log into Trump easy? So it's just with their phone number, right? - Yeah, and at this point, certainly a big apology that we've had some issues here with this app over the last, I think, two and a half weeks going back and forth that we learned the hard way that we're not really in control of that if you work with Google Play Store"
+    },
+    {
+        "start": "00:21:31.680",
+        "end": "00:21:59.080",
+        "text": "and with the Apple iPhone folks, right? I think they've been doing the best they can, but the best they do is then not up to the standards that we're used to, right? So everything took longer and the things were not done in the way they were supposed to and all of that. And I'm actually glad that for the quantum upgrade, we don't have an app because I can tell you"
+    },
+    {
+        "start": "00:21:59.080",
+        "end": "00:22:27.440",
+        "text": "then at least with this web application, we're in control and if something doesn't work, we know it's all full and we can fix it fast. So that was the issue, but I think everything is fixed now and we now have phone numbers indeed. I think there's just one little thing with the Google Play Store that we're still working through, but other than that, everyone with their phone numbers should be able to get access and no problem and then it works for them. - Okay, and if you don't, everybody,"
+    },
+    {
+        "start": "00:22:27.440",
+        "end": "00:22:55.200",
+        "text": "I guess this is what I'm telling people is if it's not working, make sure you have the most recent version of the app because it's been updated like several times since two weeks ago. So just making sure that you have the most recent version, make sure that your numbers are correct, the phone number you're using is correct and if you still can't get in, then obviously contact support. But the main bugs are fixed at this point, correct? - Yes, absolutely."
+    },
+    {
+        "start": "00:22:55.200",
+        "end": "00:23:24.280",
+        "text": "And I even think that they made it a requirement to, if you go into your app and it's not updated, then you actually update it. - Yeah, actually I did. Yeah, I saw that they added a notification to go ahead and update before it was updating but you weren't getting notified. So if you log out of your app, guys, and then log back in, if there is an update, it's going to tell you update"
+    },
+    {
+        "start": "00:23:24.280",
+        "end": "00:23:53.280",
+        "text": "once you have the most recent version. So that problem got addressed as well. Okay, all right, so yeah, good news. And yeah, it's been a little struggle and thank you everybody out there for your patience. And I think this is a great feature and I think going forward, I think people are going to really, really benefit from it. So let me jump into the next one. Next question here. Number four, do the new features work in airplane mode? Or, okay, so we answered that."
+    },
+    {
+        "start": "00:23:53.280",
+        "end": "00:24:20.080",
+        "text": "Yes, the phone doesn't need to be turned on. It could be an airplane mode or turned on, right? Either way, if you, when you put it on your thymus or use it for travel. Number six, I'm sorry, number five, does your phone need to be placed on or above your thymus for each mode? Okay, we covered that. Number six, do these features affect others within the field of the phone? That's a good question. So if I'm doing travel and I'm in a car"
+    },
+    {
+        "start": "00:24:20.080",
+        "end": "00:24:49.520",
+        "text": "and I put the phone between me and my companion, are we both going to be exposed to that travel energy? - When you travel with someone in your car, you're pretty close, yes, absolutely. - Okay, so if there, if anything in the field is going to get that, 'cause travel is the one that, okay, you don't have to like put it on your person. Okay, and then we talked about how big the field is. Now, number seven is, here's a person that says,"
+    },
+    {
+        "start": "00:24:49.520",
+        "end": "00:25:20.800",
+        "text": "I work as a nurse in a hospital at night. Would it be good to activate the amazing travel while I work at night for my 12-hour shift? - I mean, you can definitely do that. If it's just a regular shift where you're just sitting in an office, I mean, play with it, but it's meant to be for something where you're like, you're on the road, you're going somewhere, you're driving somewhere"
+    },
+    {
+        "start": "00:25:20.800",
+        "end": "00:25:49.960",
+        "text": "and all of that, but sure. I mean, if you feel better with that energy there, you can also just test it and turn it on. I mean, there's no reason really do not do it if you feel good with it. - Yeah, Tinker, there you go. Tinker away. - We didn't put a limit on it, that you can just use it like once a month or so you can use it as often as you want. - Cool, okay, yeah. So give it a try. Number eight, why can't we activate and deactivate Vax harmonization when we want"
+    },
+    {
+        "start": "00:25:49.960",
+        "end": "00:26:19.880",
+        "text": "as is already the case with travel? - It just is technically for us not possible, technically slash energetically. - Okay, so. - Because it's just a different thing. So the, yeah, I would have to go into real energetic details here, but the two features are completely different in what they do and how they work and how we operate them. So it's just not possible. Sorry."
+    },
+    {
+        "start": "00:26:19.880",
+        "end": "00:26:49.840",
+        "text": "- Okay, all right, but you can turn off travel, but you cannot turn off the Vax because the thing, it executes three waves in a row for 15 minutes. And so, yeah, you don't want to stop it. But if you turn it on and you don't, and you didn't want to use it at that time or you get a phone call or, you know, you got to take care of your kid. - No harm no fault. - Yeah, no harm no fault. All right, you just put it to the side. It's not on your thymus, it's not running. Yeah, it's not running on you, all right. It's just running on the phone, but no big deal. - Yeah."
+    },
+    {
+        "start": "00:26:49.840",
+        "end": "00:27:22.840",
+        "text": "- Okay, that makes sense. All right, so number nine, somebody asks, can you add a timer in the app so we know how long something's been running? - I don't think so at this point. I think in general, maybe that's something, I'll take it to the team, but yeah, I don't think anything in the very short term. You know, I mean, just set an alarm, you know, if you want to know, or, you know, have a watch or something, I think at this point, that's easier, you know, it's just, I'm a little hesitant going again back and forth with these play stores."
+    },
+    {
+        "start": "00:27:22.840",
+        "end": "00:27:51.520",
+        "text": "Every little thing that we do, we need to get an additional approval for, which actually also always increases the risk of something gets completely declined then. And then at the same time, then they need to also implement what we tell them to do. So I'm inclined to say, look, I mean, the minutes you can count in a different way. - Just keep track. Just remember when I turned it on. Okay, so yeah, okay, so just keep track on the app. Keep track outside of your app"
+    },
+    {
+        "start": "00:27:51.520",
+        "end": "00:28:20.040",
+        "text": "what time you turn these things on. All right, number 10, has there been any testing or usage of the TROM-EZ Vax frequency or actually want to upgrade or blocks or heal capsules for a Vax injured person? So I guess the question is, has there been testing of this for someone who was Vax injured? That was the question. - Yeah, I mean, well, there have been lots of tests, but there have not been any formal studies in that regard. - Okay."
+    },
+    {
+        "start": "00:28:20.040",
+        "end": "00:28:49.280",
+        "text": "- And I also wouldn't be able to comment now on a Vax injured person and what that does. You know, that's just something in general, whether that's any of our technologies, we wouldn't be able to comment on it. - Okay, okay, I understand. - But I can just in general, like generalize one thing. You know, the longer someone has been injured with something and the more severe, the harder it is to actually, you know,"
+    },
+    {
+        "start": "00:28:49.280",
+        "end": "00:29:19.040",
+        "text": "get the full benefit. So you will always get the benefits, but do this as fast as you can. You know, like don't wait for years after everything is already really bad and you're already in the late stages of tubal cancer, right? I mean, that's a tough one. You know, we had a case like that. You know, mom was like, well, my 21-year-old developed the tubal cancer and it's late stage now as there's something you can do."
+    },
+    {
+        "start": "00:29:19.040",
+        "end": "00:29:46.720",
+        "text": "And yeah, you know, you can harmonize a few things and you can make things easier and just allow everything to go faster, but there was nothing anymore energetically that could have been done for that kit. Unfortunately, it's a quite sad story. And yeah, so just do it a little earlier before it's too late. - Okay, and I guess that begs the question too. I mean, to use the, you know,"
+    },
+    {
+        "start": "00:29:46.720",
+        "end": "00:30:15.160",
+        "text": "for using the Vax harmonizer, is it just like a one and done? You only gonna use it once or like, I guess the older you are, the more you've been subjected to, you know, more vaccinations along with everything else and all the different toxins and things you're exposed to, you would wanna harmonize the energy with. So, I mean, you just don't ever use it once. Would you use it like multiple times? Or, 'cause if you're not someone that's gonna feel that difference,"
+    },
+    {
+        "start": "00:30:15.160",
+        "end": "00:30:43.280",
+        "text": "but you know it's working energetically, what would you recommend? Like, do it once a month or what's your thoughts there? - I think it's a great question. So, in general, just for the Vax or any of them that you've received, it's just necessary to do it once. And then just do the trauma release afterwards for that. But then you could have other things from your past, right? Whether recent or long ago past,"
+    },
+    {
+        "start": "00:30:43.280",
+        "end": "00:31:12.480",
+        "text": "doesn't really matter in regards to specific medications or, I don't know, drug, alcohol misuse. These types of things, right? So, you can then use it also again for that. And the process should take care of all of that together, but I like the focus of it. So, if you know you had something there, do it again, let it run, and then do a trauma release also for that."
+    },
+    {
+        "start": "00:31:12.480",
+        "end": "00:31:41.720",
+        "text": "And then you're done with all of these, but the Vax thing, just for the Vax, you just need to do that once. And then you can still do this like once a month or whenever you feel, okay, you were exposed to a lot of people and you feel there maybe was some shedding going on, right? And some people actually know that. I mean, we know people that their hand turns red or their face turns red or whatever. I mean, they literally physically see that"
+    },
+    {
+        "start": "00:31:41.720",
+        "end": "00:32:09.760",
+        "text": "and feel that if that happens. Others don't, but then you may have just this feeling, right? So, if you have that feeling, then just go do it. It's 10, 15 minutes. It's actually quite a nice thing to do when you just woke up and you're like, oh, you know, I could just stay another 10, 15 minutes in the bed and then get up and, you know, maybe I'll just do this now. Why don't you just do it? - So, this isn't just, okay, so this isn't just"
+    },
+    {
+        "start": "00:32:09.760",
+        "end": "00:32:38.920",
+        "text": "for the recent Vax thing that we all were subjected to. This is a life crisis, this is okay. - Any, yeah, because as a baby already, you know, you get those needles and all of that. And, yeah, it's in regards to all of this, as well as medications, alcohol, drug misuse. It's quite comprehensive, actually. - Okay, all right. So, definitely you can use it more than once"
+    },
+    {
+        "start": "00:32:38.920",
+        "end": "00:33:06.600",
+        "text": "and follow up with a trauma release and do it as many times as you feel. As you feel, follow your intuition. I guess it's a good way to put it then, right? - Yes. - Great, number 11 is how do I use it for my son? I think we covered this, which is just basically hand them the phone, let them use your phone. Turn it on, hand them the phone. Show them what to do. Number 12, is there a recommended number of times? Oh, I just asked that, okay. Number 13, will travel and Vax Harmonizer"
+    },
+    {
+        "start": "00:33:06.600",
+        "end": "00:33:33.720",
+        "text": "be added to the website so we can control it under, like the quantum upgrade dashboard? - Yeah, at this point, that's not planned, no. - Okay, so it's just gonna stay on the app. So you get, yeah, okay. So, it's just gonna be on the app. Number 14, can you add a pause button? Okay, we covered that, you just, there's no pause. It's either turn it on or off, travel, or just turn it on Vax, okay. Number 15, if I'm logged into the app,"
+    },
+    {
+        "start": "00:33:33.720",
+        "end": "00:34:02.280",
+        "text": "does the trauma easy still work for general trauma harmonizing? - If you're logged into the app, yeah, yeah, yeah, absolutely, no problem. - Okay, so. It doesn't lose this capability. - So, trauma easy is always running, right? So if I put my phone up to my thymus, and I turned on Vax Harmonizer, I've actually got both running at the same time, right? - Yeah, I wouldn't do that though, and I actually tried it"
+    },
+    {
+        "start": "00:34:02.280",
+        "end": "00:34:30.920",
+        "text": "because I wanted to know, okay, how does that work? If I do it both at the same time, I wouldn't do it just because I like the focus of it, right? Because you're doing two different things, really two different things, and I would just focus on getting that first process done and execute it, and then you go for the trauma release. Now, with the travel feature, it's a little bit different. You can have the travel feature on, and then while that put it on the thymus band"
+    },
+    {
+        "start": "00:34:30.920",
+        "end": "00:34:58.360",
+        "text": "and work on a trauma, that's not really such a big deal, but I think with the Vax Harmonizer, I wouldn't do that at the same time as releasing a trauma. Okay, all right, so that answers number 15. Also, we answered number 16, you can run them both, okay? So then 17, are there issues with using travel or Vax while also running quantum upgrade? Yeah, so we did have, I kind of condensed this"
+    },
+    {
+        "start": "00:34:58.360",
+        "end": "00:35:26.400",
+        "text": "into one question, but lots of people were asking about, well, I'm running quantum upgrade for you with Olympic, and that's like a motivating frequency, but then over here, I'm trying to use trauma-easy for trauma release, or I'm doing Vax Harmonization. At the same time, I've got quantum upgrade running on inner piece, you know? So what's your recommendation? 'Cause there's so many tools, right? Like, you know, so how would you address that with like,"
+    },
+    {
+        "start": "00:35:26.400",
+        "end": "00:35:55.960",
+        "text": "hey, you know, you've got QE, you've got trauma-easy, and it's all running at the same time? What's your recommendation? Well, it all matters how you feel, and in general, it's no problem whatsoever. If you have something running on a quantum upgrade, and then you work on the Vax Harmonizer, for example, that is no problem whatsoever. So you can just do that, and then if you feel in"
+    },
+    {
+        "start": "00:35:55.960",
+        "end": "00:36:25.920",
+        "text": "and you want to have no frequency running during that time, just turn it off during that time, right? I mean, turn that frequency off, but it's not that you have to do that. It really is okay, and it is fine. It's not, there's no contraindication or anything. Okay, all right, good. So perfectly-- In general, just, you know, since the Olympic performance was mentioned, right? That is one that I would not use that one like throughout the whole day, for example, or like for days in a row."
+    },
+    {
+        "start": "00:36:25.920",
+        "end": "00:36:53.960",
+        "text": "Because it's a very stimulating energy for the cells, it's wise to maybe just use that for several hours, right? Or for your competition, for your practice, for whenever, or you need to clean your house, right? And you know, it's gonna take the next three hours, and you're really not in the mood to do anything, well, just turn it on and then go do it. But I wouldn't use it from eight in the morning"
+    },
+    {
+        "start": "00:36:53.960",
+        "end": "00:37:20.480",
+        "text": "until eight at night, because it's, yeah, you're usually not doing athlete activities, et cetera, during that time. But you will notice, if you haven't run for so long, that you're constantly doing stuff and acting and all of that. And I personally think that that may be too much, you know, you don't wanna burn too much. - Okay, no, that makes point. Yeah, it's like, yeah,"
+    },
+    {
+        "start": "00:37:20.480",
+        "end": "00:37:49.640",
+        "text": "it's an energy drink, basically, okay. - They're healthy, they're healthy as you can find, yeah, for sure. - Sure, good. That's a good point. Yeah, you don't wanna burn yourself out. Okay, so let's see, that was number 17. Oh, and number 18, would it be possible to provide a way for users to add, delete, and change phone numbers themselves? Or are they always gonna have to go to support for help with that? - Support. - You wanna change. Support? - Mm-hmm. - Okay, so I can't, yeah, no,"
+    },
+    {
+        "start": "00:37:49.640",
+        "end": "00:38:19.320",
+        "text": "'cause I noticed you couldn't change it on the dashboard. So yeah, okay, so if you wanna change the number of yourself or anyone in your family plan, contact support, okay, so number 19, is there a way to keep both traveling Vax on 24/7? Somebody was asking that? - Nope. - Nope, okay, so it's just, you can turn travel back on after 12, right? - Yeah, and you can turn the Vax on again after 30 minutes so you can do all these things."
+    },
+    {
+        "start": "00:38:19.320",
+        "end": "00:38:49.200",
+        "text": "I don't know what the-- - Wouldn't recommend, yeah. - Yeah, I mean, you know, I mean, I don't know, maybe you have 23 friends over, right? - Yeah. - And then you do one after the other for the Vax, a Hummerizer, I mean, you could possibly do that and then you, it's 24 people, including you, so that'd be 12 hours at running straight. Certainly, you know, that's the theoretical possibility."
+    },
+    {
+        "start": "00:38:49.200",
+        "end": "00:39:19.160",
+        "text": "- So no limits, but it's all manual. It's not just gonna run, right? - Okay, 20. Can you add the ability to subscribe to the app? So like, you know, turn the, you know, basically subscribe through the app as opposed to through the website, or are you just gonna leave the app as just the way to turn on those two features? - That's a good question, actually. So I will take that to the team and ask if there would be a possibility to do that in the future."
+    },
+    {
+        "start": "00:39:19.160",
+        "end": "00:39:47.800",
+        "text": "I'm not sure. - Okay, and then somebody was wondering if they can pay for Traumese with crypto, like they do for, you know, the blocks and stuff? - At this point, no, it's actually not possible because it's also not possible with quantum upgrade. The reason for that is that with crypto, so far at least you cannot set up any recurring payments. - No, okay. Yeah, that gave you a subscription."
+    },
+    {
+        "start": "00:39:47.800",
+        "end": "00:40:13.920",
+        "text": "Okay, that makes sense. Okay, number 21, will the app and, or end service work from a location I do not have cell service? - Yeah, it always works no matter where you are. - Okay, so it needs to be activated certainly. - Ah, okay, that's what it means. - Once, right, so you activate it and you are somewhere connected to a cell tower or whatever,"
+    },
+    {
+        "start": "00:40:13.920",
+        "end": "00:40:43.520",
+        "text": "just so that it's clear that's your phone, but that's it. You know, once it's on your phone with that phone number, it doesn't matter if you turn it off and if you go to the deserts, it doesn't really matter. - Okay, yeah. - It's an on your phone. - Okay, don't need cell service, but you do need it to turn it on, but once it's on, you don't need to have it turned on. Okay. - Yeah. - All right, number 22, do I run the VAX harmonization once for all? Okay, I guess I asked this question."
+    },
+    {
+        "start": "00:40:43.520",
+        "end": "00:41:11.960",
+        "text": "So, okay, we answered that question. You don't need to run it for... Well, I guess it all depends on the person, right? Whether you wanna run it for each single VAX you ever had in your lifetime or make one round for all of the VAX, I guess it's just follow your intuition and go with that. Then, number 23, if a family member with a subscription turns on a feature, does it turn on for me? Okay, that's just the reverse of that other question."
+    },
+    {
+        "start": "00:41:11.960",
+        "end": "00:41:39.720",
+        "text": "So, no, everyone's completely separate. Okay, so that answers the non-technical bug questions. We had Jess has made a whole lot of troubleshooting questions and I think we've been, Neil, Emma has done a great job just getting through all of them. So, Emma, if you're hearing this, congratulations and thank you so much for a job, well done. Okay, so, 'cause we took all the bug questions out"
+    },
+    {
+        "start": "00:41:39.720",
+        "end": "00:42:07.640",
+        "text": "and, like you said, I think we're done with that. So, all right, so that's this tutorial on how to use the travel feature and how to use the VAX harmonization feature. And so, if you got any questions, we are gonna, I guess, if it's okay to announce, we're gonna set up a traumisee chat group, just for traumisee. So, we'll be announcing that shortly and link in the video description and all that."
+    },
+    {
+        "start": "00:42:07.640",
+        "end": "00:42:35.440",
+        "text": "So, we're gonna concentrate all of that discussion in one group 'cause it kinda took over both groups or for a couple of weeks. And that way we can keep it kinda organized. But other than that, yeah, thank you, Philip, for helping me put this together. And thank you for your time. And thank you guys for sticking with us and your patience. Did you have any parting words? - Well, a huge thank you to you and not to me, really,"
+    },
+    {
+        "start": "00:42:35.440",
+        "end": "00:43:03.160",
+        "text": "for putting this together and doing this and picking up the questions and really helping out the community in a big way. And us, so huge things, to you, big things to Anna and her team, and then also big things for the patience of the users in regards to this. Again, we blame it on Apple and Google."
+    },
+    {
+        "start": "00:43:03.160",
+        "end": "00:43:12.920",
+        "text": "Of course, I think we're still responsible. So, I'm glad it's working now. - All right, great. Well, thank you very much, Philip, and have a great day."
+    }
+]

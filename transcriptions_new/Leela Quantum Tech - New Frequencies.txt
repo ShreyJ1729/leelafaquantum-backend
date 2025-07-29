@@ -1,0 +1,417 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.760",
+        "text": " Hello everyone and welcome to another interview with Philip Von Holton Dorp of Leila Quantum Tech. This is part two of our original interview we did a week ago and you know for those of you the link will be in the description below for that part one. This is part two. We're going to pick up where we left off and for those of you that are brand new and this is the first video you've seen on Leila Quantum Tech. I do want to introduce Philip. He is the owner and proprietor of Leila"
+    },
+    {
+        "start": "00:00:26.560",
+        "end": "00:00:55.840",
+        "text": "Labs which is a C60 company producing C60 oil and C60 topical products and then he's also now ventured off into this other adventure called Leila Quantum Tech and so he's the owner proprietor of that and so we've had an interview before talking about the general basis of the foundation of the energy and the products and now we're going to be today we're going to pick up where we left off which is talking about the different frequencies the new frequencies that are being brought to"
+    },
+    {
+        "start": "00:00:55.840",
+        "end": "00:01:23.200",
+        "text": "market in this quantum tech space. Welcome Philip. Good morning. It's really early here in Hawaii. How are you doing today? Hey good to talk to you. Thanks for having me. Okay so let's talk about you brought a whole lot of new frequencies which is what everyone's kind of like okay what does this one do? What does that one do? So let's talk about that and I want to show people how to get to the frequencies on Philip's new website so it's leilaq.com. That's"
+    },
+    {
+        "start": "00:01:23.200",
+        "end": "00:01:50.400",
+        "text": "the website and so if you go into the shop and you go it's page two as we just discovered so if you go down to page two here's your here's the frequency cards and so and then you would then if you want to know what each one of them does you just click on it but before I do that I guess the first question is Philip could you explain what somebody would do with one of these cards just"
+    },
+    {
+        "start": "00:01:50.400",
+        "end": "00:02:19.600",
+        "text": "regardless of frequency like how do you use a card? I think would be the good starting point. Yeah absolutely you haven't marked you don't have you know just a card. Yeah so the card is very useful in multiple regards. First of all it's it's a soft way of leveraging a frequency that's stored on these individual cards so if it"
+    },
+    {
+        "start": "00:02:19.600",
+        "end": "00:02:47.040",
+        "text": "would be first of all good for someone that doesn't really want too much quantum energy but really wants to leverage the frequency and they can wear it in their pocket easily so left pocket right pocket wherever it doesn't really matter and it can be leveraged at night in a very smart way underneath the pillow. So if there's a topic someone wants to work on then for example that"
+    },
+    {
+        "start": "00:02:47.040",
+        "end": "00:03:12.560",
+        "text": "could be done overnight while while you're sleeping and you're integrating and you're basically working with that frequency and working on something we have several frequencies you know one set of frequencies is really geared towards people that you know that are focused on inner development and they you know want to move further they want to develop and there are certain things"
+    },
+    {
+        "start": "00:03:12.560",
+        "end": "00:03:40.240",
+        "text": "you know as we peel the onion of ourselves right that we bump into and then we provide some frequencies that help on that path. Another set of frequencies we created specifically for certain use cases so that would be something like the sleep and rest card obviously has a very specific use case where you could leverage that and then again you can do that during the day but just"
+    },
+    {
+        "start": "00:03:40.240",
+        "end": "00:04:05.360",
+        "text": "wearing that card or at night and then on top of that you have this pure frequency stored there you'll always have it because it doesn't you know go away and you could also copy that frequency and leverage it in other ways. I don't think we can get into that right now and how that is done but there's a video also on our YouTube channel that explains how you could do it even"
+    },
+    {
+        "start": "00:04:05.360",
+        "end": "00:04:31.680",
+        "text": "with the Leela Quantum Heal capsule but there are also other ways on how to do it that's just for maybe for advanced people that already know a little bit about all this stuff. Okay so the idea here is that these metal cards contain a frequency and a quantum energy and then you just carry it on you so like in your shirt pocket or near you and your back pocket and it'll kind of like"
+    },
+    {
+        "start": "00:04:31.680",
+        "end": "00:04:56.560",
+        "text": "give your whole body that frequency so it's like a whole body thing. Exactly. Okay and then for people put it under your pillow. Okay so then I was reading in the chat and there's a certain way to carry it so I believe it's where the logo and the word Leela is you want that facing the body when you carry these around. Yeah I personally don't care about that so for me it really doesn't"
+    },
+    {
+        "start": "00:04:56.560",
+        "end": "00:05:25.360",
+        "text": "matter but some people want if they want a little bit more energy then yes use where you see the words written have that facing the body absolutely you can absolutely do that. Okay all right so so yeah I just wanted yeah thanks for reminding me about your new YouTube channel. There's a brand new YouTube channel Leela Quantum Tech channel I'll put the link in the description below and so you're basically you know he's been a Phillips when coming out with these little short videos to"
+    },
+    {
+        "start": "00:05:25.360",
+        "end": "00:05:51.680",
+        "text": "explain some of these products so if you've got any questions check the channel go in the telegram ask a question if you don't see the answer but that's where you get more information but I thought we could kind of walk through these you know briefly that's going to take a while but just if you could kind of just chat about like okay so we've got I guess there's four different cards called heel one is just the card I guess that's humans right because the other ones are"
+    },
+    {
+        "start": "00:05:51.680",
+        "end": "00:06:18.560",
+        "text": "for animals and plants so exactly heel frequency can you kind of describe like what is the heel frequency and and what does it do for people? Yes and also just for people watching this right now if you watch this in a while from today you'll probably find an explanation and further description of the individual frequencies for all of these frequencies. If you look right now then you find"
+    },
+    {
+        "start": "00:06:18.560",
+        "end": "00:06:47.840",
+        "text": "it on maybe half of those and we pick the ones that are not intuitive so heel for cats heel for dogs we figured okay we we will provide those definitions later than the other ones it's just a lot of work and it will be available soon but yeah so the heel card is indeed for for humans and it contains the primal human healing frequency and it has an extension so that is actually"
+    },
+    {
+        "start": "00:06:47.840",
+        "end": "00:07:16.800",
+        "text": "also contains certain heel frequencies that were made available or trays differently are now available here on earth that just occurred over the last three to six month and as people may know there's a constant flow of cosmic energies towards us and then there's also earth energies people talk a lot about cosmic but there's really"
+    },
+    {
+        "start": "00:07:16.800",
+        "end": "00:07:41.360",
+        "text": "the earth releases frequencies all the time and it comes up with new frequencies and it really is the case that there are new frequencies that are coming at us and most of those we can really leverage and so among those there were several healing frequencies that we picked up and they're"
+    },
+    {
+        "start": "00:07:41.360",
+        "end": "00:08:07.520",
+        "text": "also included here so then in addition to that we loaded the so-called biobase frequency set on it as well it's a it's actually on the bottom here you can see the nutritional biobase card it's a set of almost a hundred different vitamins minerals and organic plant extracts and the"
+    },
+    {
+        "start": "00:08:07.520",
+        "end": "00:08:30.240",
+        "text": "full list of everything that's included you can find here why did we load that onto the heel it's because it works very very well in concert and by the way this set here that you're seeing here right now that was developed over a 30 year period by a bunch of researchers"
+    },
+    {
+        "start": "00:08:30.240",
+        "end": "00:08:58.160",
+        "text": "that really checked over 30 years okay what's the optimal mix of vitamins minerals and plant extracts for the human body and yeah I'm sure there are lots of different opinions and lots of great scientists we went with the ones that we found to be the best from what we had experienced in our lives so far and then we tested this and we tested several other ones and this came out"
+    },
+    {
+        "start": "00:08:58.160",
+        "end": "00:09:28.560",
+        "text": "to be the best in in those tests and there's a third frequency included in the heel card or in the heel frequency that's the primal healing water frequency which is basically the source of the original healing water springs that you had on earth some of those do not exist anymore others have actually moved and then again others are pretty occupied because they've been"
+    },
+    {
+        "start": "00:09:28.560",
+        "end": "00:09:57.680",
+        "text": "misused so I mentioned lord and france for example that is without a doubt one of those old heel springs heel water springs but it's it's not what it used to be anymore and I mean we don't have to really go into all the details but there's a catholic church and others that have worked with that source quite a bit and if you go there now and check out that water it's not"
+    },
+    {
+        "start": "00:09:57.680",
+        "end": "00:10:27.600",
+        "text": "what it used to be so we went straight to the stores to actually have really the best water matrix that you can find okay so yeah I didn't realize what you okay so you know I actually watched your video but I didn't realize what you just said was the heel card just the plain old heel card this guy right here is the primal healing healing water card plus the nutritional biobase card plus the heel frequency all in one place all in one correct kind like a super super"
+    },
+    {
+        "start": "00:10:27.600",
+        "end": "00:10:57.600",
+        "text": "card oh wow okay that's cool yes and because and so the the heel frequency that's in there and the way this heel frequency set is composed now it can be leveraged also for other living beings like dogs cats whether horses or what have you but in concert now and it would also work with that water frequency of course very well but if you add the biobase frequency to it then you could"
+    },
+    {
+        "start": "00:10:57.600",
+        "end": "00:11:27.040",
+        "text": "still you know have your you know animals participate from it but it's the biobase makes it specifically geared towards humans and humans are different and they are in need of different vitamin and mineral needs their body is completely different so we figured we need to create something that is specifically for dogs and also for cats as well as for plants right so you know long story short"
+    },
+    {
+        "start": "00:11:27.040",
+        "end": "00:11:56.800",
+        "text": "there's a specific heel frequency and the heel frequency set for dogs and for cats and actually for the plants there's another specific birth frequency that helps the plants and and by the way i'll send you a picture later of this one plant that you know what i'm talking about oh yeah and that had issues again then we put this heel card for plants right on the roots and it's done amazing"
+    },
+    {
+        "start": "00:11:56.800",
+        "end": "00:12:19.680",
+        "text": "so you know so the heel for humans has that primal human healing frequency right and then you've swapped that out so that and then also the nutritional stuff so that it's now you've got a primal canine frequency plus earth frequency plus nutritional stuff for dogs is that what the"
+    },
+    {
+        "start": "00:12:19.680",
+        "end": "00:12:49.440",
+        "text": "dogs and card is yeah for dogs it's exactly it's the heel frequency for dogs and it it basically looks at the the organism and the body and the physiological system of of a dog and what what it needs to come into its optimal state and to be reminded to awfully heal itself right and that's pretty much the same thing for cats but then it can cats are a little bit different from dogs"
+    },
+    {
+        "start": "00:12:50.160",
+        "end": "00:13:18.400",
+        "text": "and then plants are something again completely different right so that's why there are individual frequencies for that okay so a quick question how does someone who just gets a card for their dog use it with their dog would they like put it under the water bowl so the water they're drinking all the time is is charged with this frequency or would they you know other than you know that you can go and buy the the collar right there's a lila quantum collar that has that"
+    },
+    {
+        "start": "00:13:18.400",
+        "end": "00:13:44.000",
+        "text": "frequency and if for dogs yeah yeah they're great or just dogs we do not yet but we've had a couple people ask already so I think that's one of the things we'll add for sure and we wanted to expand in this space anyway because you know this is just a start to have collars but there there are other things and I guess you had some ideas as well but for now yeah so and therefore it's a great"
+    },
+    {
+        "start": "00:13:44.000",
+        "end": "00:14:13.840",
+        "text": "question so the card obviously you couldn't just put it around the the dog's color to hang down at you know that wouldn't really work so what you do is you can either put it underneath the bowl indeed and then you constantly have the frequency transmission there another way is really for the night if you know where your dog or your cat where they sleep that will be a great way to place this card and it will not at all affect their sleep in a negative way just in a positive way because"
+    },
+    {
+        "start": "00:14:13.840",
+        "end": "00:14:40.560",
+        "text": "again the energy is fairly soft and they'll have this frequency and then they can start leveraging it oh okay all right yeah it's kind of wondering how the a card would work with an animal but that makes sense okay okay all right that's great so then the plant one is one that's geared just for plants okay so let's let's talk about the next ones here"
+    },
+    {
+        "start": "00:14:40.560",
+        "end": "00:15:05.440",
+        "text": "well the men's and woman's boosters is something well I can talk about that one I made a couple of videos about this if you want to watch the videos you can better understand what these are but they're geared for middle-aged individuals that really will focus on the things that are are the prevalent issues of our age which is you know basically we need to help with our"
+    },
+    {
+        "start": "00:15:05.440",
+        "end": "00:15:33.040",
+        "text": "brains you know memory retention and cognitive reasoning and all that so there's a brain booster in there there's a immune booster to help boost up your immune system there's a thing for stress relief that helps you manage your stress and then there's one for anti-aging and so what I did was I and then there's a fifth one and then the men's one it's testosterone boosters and the woman's one it's a combination of different things for women that they're worried about and that they are"
+    },
+    {
+        "start": "00:15:33.040",
+        "end": "00:15:56.880",
+        "text": "concerned about it as they age which is everything from bone health nails you know their nails their skin their hair their eyes you know their veins you know all these things that women are worried about especially hormone regulation so the woman's booster has as this one booster in it that I call wahini for women it's Hawaiian word for women and then the men's one is testosterone but"
+    },
+    {
+        "start": "00:15:56.880",
+        "end": "00:16:24.160",
+        "text": "that's what those that's what that frequency set is so for the men's it's really and you know it's I think it's you know pretty powerful because it really helps older folks and it kind of boosts you and it's different than the nutritional biobase which I which fill up as you would if you would agree the nutritional biobase is a frequency set for your just wellness your just day-to-day health right this is what your body needs to just you know be healthy and well and and you know and"
+    },
+    {
+        "start": "00:16:24.160",
+        "end": "00:16:52.240",
+        "text": "but these other ones here actually have supplements that you don't normally would buy anti-aging supplements and testosterone boosting supplements and you know stress relieving supplements so there's all these extra supplements in there so that's what these two are designed to do so yeah and then we'll jump into this one here the emf protection and harmonization can you talk about that one like like okay I guess you have a description on this guy no there's no description"
+    },
+    {
+        "start": "00:16:52.240",
+        "end": "00:17:14.080",
+        "text": "yeah by the way yeah like Philip said there'll be descriptions on these they just haven't the website designer hasn't gotten to it yet but so how's this one work and and and we're we're gonna talk about the the test results but could you describe it yeah and the reason why we didn't prioritize the description of this one is because it's relatively self-explanatory at least what it"
+    },
+    {
+        "start": "00:17:14.080",
+        "end": "00:17:36.080",
+        "text": "does right it protects in regards to emf and it harmonizes emf so quantum energy in general already helps quite a bit with that and you know I have a pretty unique perspective on emf because I know that we don't have to be bothered by emf frankly now it's people may wonder so why do you"
+    },
+    {
+        "start": "00:17:36.080",
+        "end": "00:17:59.920",
+        "text": "sell and offer a lot of emf protection products well the reason is that for that to work that we don't need to be bothered at all by any of them and which includes 5g and anything else is we will really have to unlock a lot of our consciousness and to be aware and how we can deal with that and"
+    },
+    {
+        "start": "00:17:59.920",
+        "end": "00:18:26.080",
+        "text": "then we can just with our own um capability we can basically neutralize and harmonize it all ourselves right that that is the ultimate state and that's also where we want everybody to be because all of these cards and frequencies are designed specifically to not be a constant substitute for something or use it as a drug or something it they're all designed in a way where the body"
+    },
+    {
+        "start": "00:18:26.080",
+        "end": "00:18:52.960",
+        "text": "and the human system or a dog for that matter if you have to apply the heal for dogs card they learn over time how to do it themselves so it's kind of a you also learn it right that's for us it's this is the thing right we we want people to be completely independent and self-dependent and and we know and we tell people that they can do all these things themselves it's just"
+    },
+    {
+        "start": "00:18:52.960",
+        "end": "00:19:21.760",
+        "text": "obviously you know 99.9% of the people are still struggling to do that or a lot of people are still at a point where they don't even understand that's something like frequencies exist even though they are frequency themselves right so there are lots of different states of where people are but then there are people that totally get that but they don't they can't activate the inner healer on their own for example and so then if you work with these frequencies you re-learn that and"
+    },
+    {
+        "start": "00:19:21.760",
+        "end": "00:19:48.400",
+        "text": "then you can also then you can kind of teach yourself with it also right then wear it for a week then take it off for a couple days then see if you already kind of get into this feeling again yourself and maybe you need two three month for it maybe you need a year maybe you need a few weeks it really is completely individual but all these cards are designed for that and for the emf protection harmonization card it's really for people that are very concerned about it or that are extremely"
+    },
+    {
+        "start": "00:19:48.400",
+        "end": "00:20:16.320",
+        "text": "sensitive right so it's a one thing with emf protection frequencies is actually really that typically they can protect but they don't do the body any good at the same time which is then kind of a waste right because you don't want to stress your body at the same time where you're protecting it and that was actually quite an effort we worked with two healers together on this one and"
+    },
+    {
+        "start": "00:20:17.600",
+        "end": "00:20:41.920",
+        "text": "then found a way where it basically it helps the body to create this field where you know picture this outside of your body all these emf frequencies are neutralized and harmonized right so nothing enters your system that that is harmful or bothering in any way but"
+    },
+    {
+        "start": "00:20:41.920",
+        "end": "00:21:07.440",
+        "text": "at the same time it's totally soothing to the to the human body and feels natural and it's not that that there's an impact from the frequency itself and that is what we've done so yeah that's yeah I think it's pretty self-explanatory okay so and this is all frequency based so I just want to point out for you know because there's a whole emf protection industry that's around"
+    },
+    {
+        "start": "00:21:08.160",
+        "end": "00:21:37.680",
+        "text": "brute force shielding right like you know like paints and and and Faraday cages and things like that I've actually done a video a couple of videos on how to protect your home how to you know so you know protect yourself from your cell phone but that's brute force shielding this is emf frequency mitigation right so there's it's there's definitely a separation there and this one is all about how your body responds to emf and then protecting it that way as opposed"
+    },
+    {
+        "start": "00:21:37.680",
+        "end": "00:22:07.120",
+        "text": "to literally shielding the RF signals coming into your house so just want to clarify right yeah okay because yeah that people get confused because people are thinking oh yeah I'll buy a sticker from my phone and that'll protect me and be like no not really if it's if it's if it's not an actual RF shield no or if it's not at like a frequency product that's like been proven like like this one has the answer probably not you know so yeah okay so we talked about the healing water card what is"
+    },
+    {
+        "start": "00:22:07.120",
+        "end": "00:22:32.080",
+        "text": "what is prosperity okay so this one's got a this one has a definition or a description but could you kind of just summarize like what is prosperity what's that frequency set yeah so it basically also has a certain use case right so if you want to invite more prosperity in your life and be more in tune with the money flow"
+    },
+    {
+        "start": "00:22:32.080",
+        "end": "00:23:01.440",
+        "text": "that is a frequency that helps with that and so we had thought about it this quite a bit but it's because prosperity and also money they're they're often associated in it in a negative way right so there are even a lot of spiritual people running around on earth that are saying oh you know now I don't want any money and never want money's bad and all that no that that's a that's not the"
+    },
+    {
+        "start": "00:23:01.440",
+        "end": "00:23:32.080",
+        "text": "the right approach frankly and that has nothing to do with balance that's rather that there's something than missing and money is nothing else but but energy right it's nothing nothing else and we often have certain blockages towards it or or belief systems that then that can go either way right there's often what you would find is there's this oh my god I have"
+    },
+    {
+        "start": "00:23:32.080",
+        "end": "00:23:57.520",
+        "text": "to get money I have to get money's the the number one thing I have to do and I have to get and and there's no satisfaction in life if you don't get the next dollar and all that so that that is certainly completely unhealthy right it helps balances that out but it even more so works on blockages that we have or belief systems that that we're not worthy of it that the not being"
+    },
+    {
+        "start": "00:23:57.520",
+        "end": "00:24:20.560",
+        "text": "worthy is actually something that you would find in most all humans and it's interesting and in one or in various stages and you know but it's somewhere within ourselves probably everybody could feel something where we feel we're not worthy of this or worthy of that and so the frequency really"
+    },
+    {
+        "start": "00:24:20.560",
+        "end": "00:24:44.800",
+        "text": "works on balancing all that out and to get us in tune with the money flow with our own worth and that we can invite that in without having to wanting it or anything just creating it just being able to create wealth or prosperity in a nice flow that's basically what this"
+    },
+    {
+        "start": "00:24:44.800",
+        "end": "00:25:13.600",
+        "text": "frequency helps with and it's again it's a frequency that you know hopefully by using it and leveraging it you kind of relearn how you can naturally do that wow amazing yeah you know um prosperity and money are two separate things some of the happiest people I know are not the wealthiest but yeah okay um that's interesting now this on g power this is obviously it's"
+    },
+    {
+        "start": "00:25:13.600",
+        "end": "00:25:42.160",
+        "text": "specifically um really focused on prosperity and money flow in that sense uh it's not an abundance card because we also have an abundance card that you don't find here yet and abundance is goes even further because that is really abundance in in all areas of your life this is a so so called like it's really it's specific it really is specific oh okay good to know um"
+    },
+    {
+        "start": "00:25:42.160",
+        "end": "00:26:09.520",
+        "text": "that's interesting i gotta i gotta try that see what that's like okay now the on g power card and that's named after your uh one of your individuals in the healer network right uh yes agony and to see him pop that up this is on g right here right there on g fronk frank eikerman right uh he's one of your uh like i guess one of your professional healers has been doing it forever"
+    },
+    {
+        "start": "00:26:09.520",
+        "end": "00:26:38.000",
+        "text": "so he's got a power card what would that look like um yeah what is yeah what what does it do it says stimulates your heart chakra it stimulates your heart chakra basically to activate the love to bring it to work as a transformative uh force in your life and we kept this one short because the essence is really in in this one sentence that's what it does if you if people can feel or see"
+    },
+    {
+        "start": "00:26:38.000",
+        "end": "00:27:07.120",
+        "text": "energies if you hold that card you'll immediately notice that and people can uh easily muscle test that for example um and and see what it does to the heart chakra uh if you were this card and um it's you know the picture how i would describe this is we live in a world where most people do something that we kind of need to do or it's we do it because it's kind of the"
+    },
+    {
+        "start": "00:27:07.120",
+        "end": "00:27:38.080",
+        "text": "the thing that you do but we as a society as a as a human race we're moving towards a new age really where we can create and should create out of ourselves and where we should do things out of ourselves and it comes kind of out of the inner of our heart if you will and often that part is just not activated enough not expanded enough and we don't really focus on"
+    },
+    {
+        "start": "00:27:38.080",
+        "end": "00:28:04.080",
+        "text": "it and feel it even anymore that's why we just do stuff because it's asked of us or it's the normal thing to do here in the world um it helps with us finding opening the doors again of okay what's within us what do we want to do and then come from there live your life from there and it helps with that and it's that that's definitely a card that one can leverage for many many years"
+    },
+    {
+        "start": "00:28:04.080",
+        "end": "00:28:32.720",
+        "text": "okay um you know as as we go through these and and let's take a look at unity i'm just wondering if you know like people come to your site and you know first of all the once they kind of figure out what's going on um and then depending on where they're at in their life and and what their challenges are what their goals are and their dreams um do you have anything that kind of helps them choose the right frequency set for where they are at in their life right at that moment"
+    },
+    {
+        "start": "00:28:32.720",
+        "end": "00:29:00.800",
+        "text": "or is it yeah i'm just kind of wondering because like there's so many choices here i'm just wondering how do you help people decide like oh you know the heel obviously is this sounds awesome you know from all the different things that it could do versus you know um the power card and i'm kind of wondering like where do they overlap and and how would you like you know tactically use each one of these for the thing that you want it for you know you have any thoughts on that and then we'll get into the unity one"
+    },
+    {
+        "start": "00:29:00.800",
+        "end": "00:29:25.520",
+        "text": "yeah i think that's it's a great question so i think what what we'll introduce here is a chat function on the website and then i think that will be something if if someone feels uncertain and they know they you know want to work on something and they don't really know and then they could they could ask in the chat or send a message and and ask i think that will be a good way"
+    },
+    {
+        "start": "00:29:25.520",
+        "end": "00:29:51.040",
+        "text": "other than that it's really at this point hard to handle for us to advise everyone individually but you know in the in the quantum power group for example if people ask me there or find me there and then send me a direct message i'm happy to help and and look and and help guide in this regard for sure and other than that we'll have these descriptions here and as i've had initially"
+    },
+    {
+        "start": "00:29:51.040",
+        "end": "00:30:17.760",
+        "text": "there's it's two different frequency sets if you will one is really for very specific use cases like the sleep and rest card you know it's very clear and yeah some are really clear like they have a very targeted use so that exactly yeah yeah and so and i think that something like the unity card isn't something for someone that doesn't really bother about inner development"
+    },
+    {
+        "start": "00:30:17.760",
+        "end": "00:30:42.880",
+        "text": "or spiritual path or any of this and and really just right now has sleep problems right i just you know i just want to get rid of that yeah that's different then and so the unity card is is one of those cards really for the latter people that are just mentioned and so we're as a as a human race again we're moving towards unity and we have unity within us but if you look everywhere"
+    },
+    {
+        "start": "00:30:42.880",
+        "end": "00:31:10.080",
+        "text": "every everything you perceive is polar right um but yeah about yeah yeah exactly and and but it's also because you know we let that happen right so it's i i don't want to point fingers at all because it's really on us we can point fingers on us and and we we have the power to change it and we can't change it for the world but we can change it for ourselves and then"
+    },
+    {
+        "start": "00:31:10.080",
+        "end": "00:31:37.600",
+        "text": "that's the first step right and so if you go into meditation for example i mean you don't meditate to then be more polar afterwards right and to be it's it's you meditate because you want to feel this unity to get closer to that and this feeling of unity and this expansion of of the unity within ourselves and also making meditation easier for example that's what this"
+    },
+    {
+        "start": "00:31:37.600",
+        "end": "00:32:04.000",
+        "text": "card is is about in a nutshell we have written a lot more here on the page that you can read through okay um so okay okay so yeah okay we um we got to talk about how to broadcast this around the planet uh yeah i've been actually looking in with one of the guys on the chat we're like we're trying to figure out how do you take something like this frequency and then"
+    },
+    {
+        "start": "00:32:04.000",
+        "end": "00:32:33.920",
+        "text": "broadcast it uh you know over a whole city or something just because you know our society needs this so bad right now uh okay quantum field broadcasting it actually is a thing uh okay so so unity is to kind of lessen or mitigate the polarity of the world and in your own home right you can have like you between you and your spouse you and your kids this would be a good frequency to have in the home i'm assuming right yes now the Layla card is the last one"
+    },
+    {
+        "start": "00:32:33.920",
+        "end": "00:33:00.640",
+        "text": "that's like it's not like okay what does that you know what does that one do that's clear so how would you best describe this one yeah it has definitely carries aspects of the unity frequency but then it it also specifically helps find more ease and lightness in everything that we do right so often we we take life so serious and yeah i mean there are a lot of serious things that"
+    },
+    {
+        "start": "00:33:00.640",
+        "end": "00:33:28.480",
+        "text": "are going on and you know that lot of serious things that we're all always personally confronted with in a way but it it really helps to find um the space again where we can see that that it's all a game right and that's how roman also called it right for him all of this is just a just a game and we we're players right creators and players on this big field here and if if we lose the ability"
+    },
+    {
+        "start": "00:33:28.480",
+        "end": "00:33:55.600",
+        "text": "to see that and to get into this playfulness we also lose a lot of joy and happiness in the life so to stimulate that flow and to help remember that we're here to also explore things and to be curious and to find joy in what we do um and this is what this chord helps with okay okay so very different"
+    },
+    {
+        "start": "00:33:55.600",
+        "end": "00:34:22.080",
+        "text": "specifics but okay yeah it is you know right off the bat i mean i could see where they're very specifically geared and for those of you that have something going on in your life whether it's loss you know divorce whatever and if you have real questions and you can't figure it out then you know jump on the telegram and then and ask away we've got the there's a new power quantum"
+    },
+    {
+        "start": "00:34:22.080",
+        "end": "00:34:46.480",
+        "text": "power group on telegram link below which ties to the website here but okay so that's great um any other things you want to add about frequencies and then we'll get into the testing that was very yeah i think we're now we've we've we've we've covered it we have more to come uh so we already have a few in the pipeline but for now we also didn't want to overwhelm um the community"
+    },
+    {
+        "start": "00:34:46.480",
+        "end": "00:35:14.080",
+        "text": "and uh i think uh this is a good set and again ask your questions in in the chat and and also in the quantum power channel on youtube we'll we'll cover a little bit more and by the way just one word for that that's it's supposed to be not just about uh the like quantum tech products right now it's just because we're starting this channel but there's there's going to be a whole variety of topics and and and people involved in that regard yeah you know it'd be really cool to do"
+    },
+    {
+        "start": "00:35:14.080",
+        "end": "00:35:38.800",
+        "text": "interviews of your healer network i'm not me but you know you guys doing it on your youtube channel just to hear what these other folks think and say and um because you know just kind of like introduce your healer network you know that'd be really kind of cool little 10 minute snippets about these these incredible people uh that sounds good starting to just pop them um i have uh ideas pop it in my head constantly all right one card we didn't talk about it's this uh is this neutral"
+    },
+    {
+        "start": "00:35:38.800",
+        "end": "00:36:04.080",
+        "text": "energy card so what would you do with a first of all it's just uh a card that you charged with just neutral energy right so what would you do with the neutral energy card uh if are we left that one off yeah so i mean if you don't want to work with a specific frequency and you just want to get a little uh boost of that and some people you know it's definitely not the majority but some people"
+    },
+    {
+        "start": "00:36:04.080",
+        "end": "00:36:26.640",
+        "text": "are very very sensitive to energy and if they wanted to um just have a little bit more quantum energy available to them and get used to it and work with it that's what this card is for um you know by itself already it provides benefit because quantum energy is positive quote and say"
+    },
+    {
+        "start": "00:36:26.640",
+        "end": "00:36:52.720",
+        "text": "positive right uh it's it's helpful and supportive but it's again it's it's neutral so yeah whoever feels drawn to that uh definitely try that okay awesome so that's very helpful really helpful thank you again thank you k and thanks for everybody for watching and yeah if you're interested uh you know take a look and be engaged talk about it if you have questions feel free to reach out"
+    },
+    {
+        "start": "00:36:52.720",
+        "end": "00:37:22.720",
+        "text": "any time yep and so again the uh the website is leleqq.com so leleqq.com um and then we also are on telegram or phillips on telegram with a quantum power quantum power group is it called group group uh quantum power group yeah uh for all things quantum energy and look for a lot more to come on that telegram group all right well thank you very much everyone and have a good day thank you phillip thank you"
+    }
+]

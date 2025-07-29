@@ -1,0 +1,432 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.520",
+        "text": " Aloha everyone and welcome to another Carbon 60 video by me, Komer, and in this video I'd like to share with you my ongoing experiments in using C60 topically and specific to this video I'll be talking about experiments that I've been doing using penetrators and this is part two of a series on C60 topical that I didn't know I was gonna make so I don't know if they'll be a part three"
+    },
+    {
+        "start": "00:00:25.520",
+        "end": "00:00:52.760",
+        "text": "but this is part two so now if you remember in part one that's where and oh by the way if you haven't seen that link below okay but I covered essentially the usage of C60 in the cosmetic you know industry and it's been going on for about 20 years so they've got a lot of experience and history behind them using in cosmetics and so I kind of just summarized that and I also did a P60 experiment on myself in that video okay so if you haven't seen it"
+    },
+    {
+        "start": "00:00:52.760",
+        "end": "00:01:18.200",
+        "text": "encourage you to see it and if you have and if you don't care about seeing it here's a little recap and that's fine you know the thing about it and you know this is even why you know why am I doing this right well why am I doing this is because C60 topical you know putting it on your skin has some unique benefits that aren't necessarily the same as taking it in via oil okay and so I'm I'm just tinkering and I've been trying to figure out a much more effective and"
+    },
+    {
+        "start": "00:01:18.200",
+        "end": "00:01:46.200",
+        "text": "efficient process of getting a really solid dose of C60 through the skin and so but the research shows and this is what I covered in part one that it's really helpful for acne and skin aging wrinkles and that sort of thing reducing facial pores and then here's this issue about barrier recovery for those of you who are ingesting C60 you know that if you go out in the sun you're not as prone to getting sunburn but if you did get a sunburn and you put a C60 you know"
+    },
+    {
+        "start": "00:01:46.200",
+        "end": "00:02:15.320",
+        "text": "solution on you that actually actually helps you recover faster and reduces the damage that the UVB radiation did to your skin so and that's just a few of the many wonderful things that C60 can do for your skin so you know that's kind of why I do these videos I'm just really interested in what else can I do and how else can I take it so now let's jump into the content but obviously before I do that this material is for research purposes only carbon 60 is not a proof for consumption by the FDA you understand that applying C60 on your"
+    },
+    {
+        "start": "00:02:15.320",
+        "end": "00:02:43.840",
+        "text": "skin is experimental and you do so at your own risk I do not endorse C60 products or C60 companies I don't get paid in any way for making videos I am simply sharing my research and my experiments with anyone who is willing to learn from them so I'm happy to share and above all this is not medical advice in any way shape or form so if you have any of the problems listed before I just said this slide you know this is not medical advice okay so let me jump in"
+    },
+    {
+        "start": "00:02:43.840",
+        "end": "00:03:10.240",
+        "text": "let me just before I get going one more time you know I just want to say mahalo mahalo jeff for helping out in video part one on topical Elton was instrumental in helping and he just participated on all the experiments with me and so it was really nice to just have someone who's doing it with me where I could ask questions and we could compare each other's results and in this video jeff from the C60 chat group on telegram was my"
+    },
+    {
+        "start": "00:03:10.240",
+        "end": "00:03:37.920",
+        "text": "collaborator and thank you so much you're most exceptional I mean it was really helpful and we did everything from gather materials together to you know do all the tests so mahalo and thank you very much for helping so let me jump right in so first things first right what are penetrators well it's basically this and then I found this really cool little video to you I want to share with you so but the thing that is is important whenever you get into"
+    },
+    {
+        "start": "00:03:37.920",
+        "end": "00:04:07.800",
+        "text": "trying to understand how to do anything topical is to understand how our skin works and we basically have two layers you know there's multiple layers in here obviously but this is the epidermal layer of our skin and this is the dermis okay so dermis and epidermis you probably remember all that from school so the greatest resistance to penetration of drugs or any kind of substance here is provided by the stratum corneum which is the epidermal layer of our skin it's kind of like our shield that keeps stuff from getting to a switch if you did get to us you'd get right in here straight into the blood"
+    },
+    {
+        "start": "00:04:07.800",
+        "end": "00:04:36.120",
+        "text": "stream and so this is the rate limiting step when you're trying to get stuff into into your bloodstream that's what's going to stop you and so you need to find a way to get past this so what penetration enhancers and these are basically chemicals are substances that assist in the absorption of the penetrant through the skin okay and it is achieved by temporarily diminishing the impermeality and impermeability of the skin and so you and that's what's this"
+    },
+    {
+        "start": "00:04:36.120",
+        "end": "00:05:04.440",
+        "text": "little video description basically slow video shows kind of wanted to share with you because you can take a look at and this is an actual video it's a commercial from another type of product some kind of nanoparticle thing but it's perfect diagram for what I wanted to or you know visual so what happens is whenever you put anything on the skin there's an there's an effect that causes your skin to kind of basically emit fluid to kind of dissolve this stuff and get it off your skin through sweat right and then so that's the first thing that's"
+    },
+    {
+        "start": "00:05:04.440",
+        "end": "00:05:34.440",
+        "text": "going to happen when you put C60 on your skin is you get you get hydration and then the second thing is because the penetrator start working at this level right here so once the penetrator starts working in on this level of your skin the corneum or the stratum corneum then this thing becomes less or you know less impermeable or more permeable meaning it starts to basically allow anything to just soak through like a sponge and as it soak in as it does that and actually when it's kind of when it finally kind of finishes doing what it"
+    },
+    {
+        "start": "00:05:34.440",
+        "end": "00:06:00.560",
+        "text": "does your skin completely returns normal it's like the shell again right but for just a little while and these things work for just a short period of time it allows anything that's sitting on it just to kind of soak in and all of those nanoparticles will then soak in through the epidermal layer into the dermis and then that's where all your capillaries are and straight into your bloodstream so that's the whole idea behind penetrators penetrators are basically something that makes your skin a little bit more permeable to allow"
+    },
+    {
+        "start": "00:06:00.560",
+        "end": "00:06:27.400",
+        "text": "you to basically absorb any you know whether they use drugs or whether they use substances and you know the interesting thing and all of the research that I did for this was people you know that the science community has been just studying the heck out of this and they've they've found ways to I've read all sorts of different ones and it's anything from like you know ibuprofen minoxidil naproxen sodium and all sorts of different just regular drugs they're"
+    },
+    {
+        "start": "00:06:27.400",
+        "end": "00:06:56.800",
+        "text": "they're basically experimenting with these penetrators to see if they can give you that drug just by you know putting it on your skin and you know I assume there are patients that just can't you know for patients who can't take a pill or take anything through the mouth or the other end you know you know it's like if you need to have a drug why not just wipe it on your arm kind of a thing so there's a lot of research in the use of penetrators in the drug industry and also as you can imagine the in the in the cosmetic industry and then the last"
+    },
+    {
+        "start": "00:06:56.800",
+        "end": "00:07:24.240",
+        "text": "general thing about penetrators is that they're all non-toxic so if you you know there's plenty of studies in the links below you can kind of read it yourself they're colorless they're tasteless and they're odorless and except for DMSO which tastes like garlic or smells like garlic so so here are my materials and methods for this set of experiments and so what I chose to use and it started from reading there's a really good study and it kind of"
+    },
+    {
+        "start": "00:07:24.240",
+        "end": "00:07:50.800",
+        "text": "kicked off the whole thing about you know wanting to give this a try and that study is in the link below but basically the study is called permeation of skin with C-60 full-urine dispersions all right so if you check out that study it basically said you know well you know the scientists took isopropyl Mistrit and transcudal and they blended them together and they with C-60 and then they put it on pigskin and then they study it with all sorts of"
+    },
+    {
+        "start": "00:07:50.800",
+        "end": "00:08:20.240",
+        "text": "different tools and and they found that it actually just you know the skin absorbed the C-60 into the dermis so you know so that's kind of where this all started with oh hey why don't I try that and I'll go get some of that stuff and so with Jeff's help I was able to source some transcudal I found the isopropyl Mistrit on Amazon of all places on the DMSO was on Amazon as well so let me just kind of cover this this is isopropyl Mistrit transcudal now this is what I want to really really emphasize about this if you're gonna do"
+    },
+    {
+        "start": "00:08:20.240",
+        "end": "00:08:50.120",
+        "text": "this at home okay which you know you're on at your own risk okay it's it is diethylene glycol monolethyl ether okay that's the chemical name for for transcudal but if you just buy this which is what Jeff and I did by accident you know we went and bought a bottle of this and we split it up and he started using it and then he then he did the research and discovered that it if it's not the highest purity you can get meaning the one we got was 98% purified"
+    },
+    {
+        "start": "00:08:50.120",
+        "end": "00:09:17.080",
+        "text": "but even that even that 98% it still has a trace element of a toxic chemical you know a solvent in there and so we don't want you know neither one of us wanted to have any solvents on us so we found out and we went and found that actual transcudal is a separate product made by a company that I don't remember how to pronounce in France and they purify this chemical to 100% and once"
+    },
+    {
+        "start": "00:09:17.080",
+        "end": "00:09:46.560",
+        "text": "you purify it to 100% then it's non-toxic and it's safe so so just a heads up there don't you know because if you type in transcudal on Amazon which is what happened then diethylene glycol monolethyl ether pops up and I ordered a bottle of that because I thought that was transcudal but it's not transcudal is transcudal okay so really important because it's toxic if you don't get purified so it's got to be this specific name so I just really want to emphasize that and then of course DMSO many of you are familiar with that that methyl"
+    },
+    {
+        "start": "00:09:46.560",
+        "end": "00:10:14.360",
+        "text": "sulf sulfoxide and so I use some of that and then of course I have pulverized C60 from red lion so these are my materials that I used and so then my methods was simply this now I added pulver I see 60 to all three penetrators and the first one was a mirror of the study that I had mentioned earlier with basically they had three different things that they did and I grabbed the one that they did in"
+    },
+    {
+        "start": "00:10:14.360",
+        "end": "00:10:38.360",
+        "text": "the middle one which was 80% isopopol mister it with 20% transcudal okay so that was the first experiment the second one was using 100% transcudal just all by itself and then I stirred I stirred for two weeks and then I let it sit for a week okay just to see what would happen and then the third one which when I had the DMSO this is actually from an earlier experiment that I did when I"
+    },
+    {
+        "start": "00:10:38.360",
+        "end": "00:11:05.720",
+        "text": "tested D you know how does DMSO react to C60 and I saw used 100% DMSO which normally you know you never you never want to put that on your skin as Jeff unfortunately found out and so but I used 100% put it with C60 of course I didn't stir I just I just put it in a test tube shook the crap out of it vigorously and then I let it stand and I and I just to see you know what would happen and I was because I was pretty convinced ahead of time that it wasn't"
+    },
+    {
+        "start": "00:11:05.720",
+        "end": "00:11:33.120",
+        "text": "gonna wasn't gonna dissolve from what I was reading anyway so I didn't want to bother stirrings I knew it wouldn't dissolve into each other and so that was how I basically did it and then this is just an example of my PC60 that I do whenever I used to get an old bottle like that I put them all in syringes but I work out as syringes by the way syringes are are the way to go if you do anything like I'm doing use syringes it's so much easier okay so moving on now"
+    },
+    {
+        "start": "00:11:33.120",
+        "end": "00:12:02.000",
+        "text": "the experiment that I did with the 80% isopropyl mister it and the 20% transgoodle okay so the quantities that I use I use my law 50 milliliter beakers and so what I did was I basically did an 80 20 IP&T solution okay and then I added the PC60 so I added 3 milliliters of PC60 which is in 100% alcohol to the solution to make a total of 53 milliliters covered it up and let it"
+    },
+    {
+        "start": "00:12:02.000",
+        "end": "00:12:31.440",
+        "text": "stir it take it just turns black and then after the two weeks stir I stopped the spinner and let it sit and within 24 hours later the next morning I look at this thing and this is it just immediately immediately just sunk to the bottom and just left this purple liquid and this purple liquid even got lighter over time so bottom line is isopropyl mister it is a really bad solvent or penetrator to use and when I say bad I mean it just doesn't hold in solution"
+    },
+    {
+        "start": "00:12:31.440",
+        "end": "00:12:57.480",
+        "text": "at all so and so all of this piece you know basically the pulb rice C60 is just sitting in the bottom but as I came to found out find out when I tested this stuff that it's not just P60 down here it's PCC mixed with this stuff and because PC60 is mixed with alcohol when you get when you buy it and so that this had a whole effect that I didn't expect so this was what that looked like when I"
+    },
+    {
+        "start": "00:12:57.480",
+        "end": "00:13:22.800",
+        "text": "made it and then the second one where I made the PC60 with 100% transcrutal I used 50 milliliters of transcrutal and then I added 3 milliliters again of the PC60 and that's 500 milligrams so for those of you who are doing the math in your head yes that is one half of a gram of C60 in 50 tiny milliliters that is"
+    },
+    {
+        "start": "00:13:22.800",
+        "end": "00:13:49.840",
+        "text": "10 times the amount used in oil and why did I do that well I kind of did it by accident you know and so I thought I was putting in a quarter because you're dealing with milliliters instead of grams and so when I did the first one that way I had to do the second that way for apples and apples right so anyway I didn't plan to put in that much but it's amazing what happened because look what happened this was the day I took it off the stir okay it turned black just"
+    },
+    {
+        "start": "00:13:49.840",
+        "end": "00:14:15.880",
+        "text": "like the other one but then after I let it settle like within 24 hours it was just this milky brown and then right here I don't see if you can see it it's really hard to see but it's really still hard to see but right here it's like a half a milliliter to a milliliter you know just like layer of black and so some of the C60 I mean a you know not a lot but some of the C60 whoops I'm just"
+    },
+    {
+        "start": "00:14:15.880",
+        "end": "00:14:45.400",
+        "text": "getting out of range here some of the C60 actually you know settled to the bottom right but the majority of the C60 held in solution and that is a huge deal and the reason that it's such a big deal for me is because here we are we found a penetrator that will hold C60 meaning that you know it won't just you just won't just you know fall out of it so and that that's that's a big deal"
+    },
+    {
+        "start": "00:14:45.400",
+        "end": "00:15:10.840",
+        "text": "because you know that's the whole point right trying to find something that'll hold it so so you can add it to other stuff and put it on your skin or just do it on your skin wrong so that's what happened when I made that one and that was pretty cool and then the other one too now this is to show you right my other experiment this was in the video called the six experiments no I'm sorry this was in the video called so the one about the PC 60 when I had to"
+    },
+    {
+        "start": "00:15:10.840",
+        "end": "00:15:37.840",
+        "text": "reconstitute it anyway so but this one was where I took basically one milliliter of PC 60 which is about 167 milligrams and I added it to five milliliters of DMS so pure DM is so shook it I think I should like three times let it settle for you know all that time so it's like over the course of a week and basically no matter what though when as soon as I let it settle it just separated out the C60 would just fall to the bottom but what was interesting on the third try of"
+    },
+    {
+        "start": "00:15:37.840",
+        "end": "00:16:02.000",
+        "text": "doing this the third you know shake the crap out of the test tube I actually got this black foamy stuff and I actually I thought this was I don't know I thought this was a sub a actual physical substance you know meaning that what I did was I wanted to put that on my skin to see what would happen because I'm stupid so I stuck a syringe down that test tube and I tried to pull this part"
+    },
+    {
+        "start": "00:16:02.000",
+        "end": "00:16:29.720",
+        "text": "out of it and nothing came up so it's there you can see it but you can't suck it into a needle it was it was or syringes so it's just really weird so this is I don't know what this is obviously it's 60 with DMS so but you know I yeah I don't know what it is so but this is the DMS so and clearly it doesn't hold you know just like this one it doesn't hold this one doesn't hold so I didn't have a lot of high hopes for these and how they would turn out"
+    },
+    {
+        "start": "00:16:29.720",
+        "end": "00:16:59.320",
+        "text": "after doing experiments but this one did and so that's pretty cool so now as I mentioned I put everything into the syringes so I could easily move them around and do stuff with them so my experiments there was five of them and I had I basically made sure to rest day you know two days between each experiment because I wanted to just get a you know like a that whole 10 hour thing you know that CCC kind of comes out of you I don't want to go there that's a whole another video but the whole idea was you know give it a two-day break and then"
+    },
+    {
+        "start": "00:16:59.320",
+        "end": "00:17:28.400",
+        "text": "do the do a test and give it a two-day break so that's kind of what I've been doing for the last three weeks and so as I've been taking these things I have five different experiments that I did I'd like to share with you now I first thing I did was I wanted to patch test the mixtures and in my my lab I like kitchen the I patch test everything you know you and so that what that means is I put a little bit I put a little bit on me and then you know see if it like you"
+    },
+    {
+        "start": "00:17:28.400",
+        "end": "00:17:55.160",
+        "text": "know I get a red mark or you know in you know what happens right I don't want to do my whole leg or something before I know what happened so I just tested you know I mean what what was it what's it gonna do to me it's gonna give me a wealth you know and just like a little bit so I did a little bit of all of the mixtures and I'll show you that here and then of course what was interesting is because this 80/20 mixture here kept separating no matter what I did it would separate you know within 12 18 hours it's separated so I just wouldn't hold so"
+    },
+    {
+        "start": "00:17:55.160",
+        "end": "00:18:20.880",
+        "text": "what I decided to do was like you know I like okay well why don't I try the top portion so I tried this portion separately and then I'd experiment number three was I tried the p60 mixed with this stuff heavy you know more way more dense mixture down here so I tried the the bottom portion as as a separate experiment on myself and then the fourth experiment was this is the transgoodle mixture the hundred percent as you can see no matter what you do it"
+    },
+    {
+        "start": "00:18:20.880",
+        "end": "00:18:49.760",
+        "text": "just holds it and then lastly it was the the DMSO now one of the things about the DMO so as I mentioned earlier was Jeff had done an experience you know he was doing his own experiments along the side with with me and we're collaborating on this thing and so well by the way I just want to point out that all of these mixtures up here I just thought of that all of these mixtures I used pulver I C 60 and so I just want to point out Jeff used powdered C 60 and had the same"
+    },
+    {
+        "start": "00:18:49.760",
+        "end": "00:19:18.720",
+        "text": "results okay so it's not specific to powdered I'm sorry pulver I see 60 so I just want to point that out very important a little point glad I remembered okay so so what I did with the DMSO now what Jeff had done was he put some C 60 on his skin and he mixed it and he put in some DMSO at full strength and it turned really red and her and I think it was hurting and so he did not like that that was a very negative reaction don't do that warned me and I didn't so"
+    },
+    {
+        "start": "00:19:18.720",
+        "end": "00:19:47.840",
+        "text": "what I did was when I finally got on you know this took a couple of months we've been doing this right so over the two months he warns me about it and so I decided that after I you know this I'd already done this experiment but I decided I did not want to use 100% DMSO so I went with a 50/50 and so I went into the literature and it's you dilute DMSO with distilled water so I went ahead and did a 50/50 most of the literature says it's okay at 70/30 but I didn't want"
+    },
+    {
+        "start": "00:19:47.840",
+        "end": "00:20:16.720",
+        "text": "to take a chance after hearing the description and what happened to Jeff so I just went with a 50/50 and so because and then again experiment number five because I know that it just doesn't you know it's not gonna hold together very well it's gonna end up like this so I decided why bother mixing them again you know that was my old experiment and so I just have the 50/50 DMSO in this syringe and I have just a little syringe here of the pulver IC 60 so I'll show"
+    },
+    {
+        "start": "00:20:16.720",
+        "end": "00:20:44.120",
+        "text": "you that experiment so these are the five experiments that I did over the last few weeks and I just really just go ahead and share that with you what happened and how I did it so the only white place I could find on my body that's appropriate to show in a video is the top of my knee you know basically where my shorts are it's the only part of my body is white I'm outside a lot so so I use the white parts on my legs so you can see the color otherwise if you wouldn't"
+    },
+    {
+        "start": "00:20:44.120",
+        "end": "00:21:13.680",
+        "text": "be able to see the color differences and so the 80/20 mixture now when I shook it up and I I put it out it was kind of this this globby stuff right and it is like this didn't look good and then of course the transgudal mixture right here so let me see if I can adjust the and so this is the transgudal mixture by itself and it's that chocolate milk colored stuff and then I use these waterproof dressings to kind of hold it in place for a few hours and then I took off the dressings and what happened when I took off the dressing on the 80/20"
+    },
+    {
+        "start": "00:21:13.680",
+        "end": "00:21:39.800",
+        "text": "mixture the dressing took most of the the C60 off of it but it still had some residue C60 residual C60 as you can see from this coloration and even Jeff reported that he when he puts it on his skin and he must be way wider than me because he could see it I can't see it on me but he says even when he uses the transgudal mixture he still sees this brown coloration of the skin so I'm gonna"
+    },
+    {
+        "start": "00:21:39.800",
+        "end": "00:22:09.120",
+        "text": "stop here I want to point out what I just said was it will leave a residual you know kind of coloration on your skin so if you're thinking about put it on your face heads up it will you know it will leave a color and so you do probably mirror me not want that but you know just it's something to consider but when I did it because I'm kind of dark and I use this this waterproof bandage there was nothing so I think the bandage took it off but it's so it's so watery and I"
+    },
+    {
+        "start": "00:22:09.120",
+        "end": "00:22:34.640",
+        "text": "couldn't even tell but there's nothing there after it took it off and this was four hours okay and then after day you know days went by and nothing happened my skin never turned red and never got itchy so perfectly fine I was happy and moved on and so now my next test was the bottom portion so I'm sorry let me jump back and kind of clarify something I only have pictures for the patch test the bottom portion and the 50/50 and the reason I only have pictures for that is"
+    },
+    {
+        "start": "00:22:34.640",
+        "end": "00:23:04.360",
+        "text": "forgot to take pictures for the number two sorry and and for the transgudal mixture and which is kind of the same as the the number two the 80/20 top portion this guy and this guy when I put him on my legs it was kind of like there's nothing to take a picture of I would have just took a picture of my leg you couldn't tell you know I applied to my legs but you couldn't see it it was kind of it's so clear it just disappears so there's really nothing to show but I did kind of mess up and sorry about that there but I do try to"
+    },
+    {
+        "start": "00:23:04.360",
+        "end": "00:23:31.400",
+        "text": "include pictures on all my experiments so so I just had the patch test and then so this one was the bottom portion right here was this experiment so now you know it's so dark you can see and so what I did was I put one milliliter on each calf and I rubbed it in okay and so when I rubbed it in you know I definitely it was like it was there's it got on my hand but my it I got this whole part of my leg covered with this mixture of the 80/20 the bottom portion"
+    },
+    {
+        "start": "00:23:31.400",
+        "end": "00:23:59.200",
+        "text": "now where the PC60 sunk and then so I got I got a lot on my hand and I got a lot on my leg and then of course I didn't think about the whole oxidation thing I didn't read that study before I did this test and so anyways once I read that study it's like oh you should take this off a lot sooner but I actually left it on and removed it in the shower the next day okay and then so for the last one that I can show you is the when I did the 50/50 DMSO experiment and so"
+    },
+    {
+        "start": "00:23:59.200",
+        "end": "00:24:29.160",
+        "text": "when I did that experiment I want to point out something about messing around with PC60 is I use a 3 inch 13 gauge blunt needle to move it around like to take it out of a bottle you know and or put it in oil you know and so it's big gauge that the hole is bigger in the needle and is blunt you can't stab yourself and so that's what I use with all my syringes and I'm not sure what Red Lion sends out now because they're sending product out in syringes so I'm not sure with what needle there this is my own stuff and so when I get my"
+    },
+    {
+        "start": "00:24:29.160",
+        "end": "00:24:57.000",
+        "text": "order by the way I will share what it looks like and stuff but so what I did was I went out and I got this other needle here this yellow one and it's a 22 gauge needle and these are all lower locks that's what it's called a lower lock and it just screws right onto the end of a syringe and so I use this guy whenever I'm like dosing C60 on my skin because this guy you cannot control the amount of any fluid that comes out because the gauge is so big but when you"
+    },
+    {
+        "start": "00:24:57.000",
+        "end": "00:25:26.360",
+        "text": "get really really tiny like a small hose as opposed to a full-on garden hose you can really control the dosage and the amount of drops that comes out so I use this smaller one highly recommend that you use a small small small needle whenever you're trying to dose okay so that's a little pro tip there and so basically I use the 22 gauge needle this yellow one and I put five little drops on the back of my hand and so yeah when you're when you're doing pure C60 you know I don't"
+    },
+    {
+        "start": "00:25:26.360",
+        "end": "00:25:56.340",
+        "text": "recommend putting it all over your legs so I just did five little drops and what's amazing is how much C60 is in those five little drops and that's what that look like and then I let the about alcohol evaporate which literally it happens so I couldn't even count the seconds it was like maybe I was reaching over and I did something I look back and boom it was done it was like 10 seconds the alcohol just immediately evaporates off and then I put five small drops a drop of the 50/50 DMSO on each dot and then I smeared it across the I tried"
+    },
+    {
+        "start": "00:25:56.340",
+        "end": "00:26:26.320",
+        "text": "to smear it up and down where you see this one vein coming across because I want it as close to the bloodstream as possible and then I removed it after four hours and for oxidation purposes okay and so that's kind of what this looks like at a close range this is what the five drops look like and what was real interesting was that this stuff dries so fast that before I can even put the drops of the DMSO on the drops of PC60 the little tips were falling off so that one fell off onto the on the table this one fell off on the table and this"
+    },
+    {
+        "start": "00:26:26.320",
+        "end": "00:26:55.760",
+        "text": "one just popped off and was laying next to the where I'd originally put it and what this little this little I guess little cap of the dried C60 so I've learned that the next time I do this is a use only maybe like one little drop and then smeared you know use the use the needle or something use a device to kind of smeared into the crevices of my skin and then tried DMSO that's my idea here because this kind of didn't really go the way I wanted but that's the results of the test so then I smeared it across my my hand and look"
+    },
+    {
+        "start": "00:26:55.760",
+        "end": "00:27:24.720",
+        "text": "how much these five tiny drops and well how much C60 that is it was just a huge amount and up basically I used this guy I use this guy and I just ran it sideways across my arm like that boom and I just smeared it out there and I just let it sit there for four hours and then I took it off and so what's interesting is that when I took it off you can see that you know this amount of P60 on the napkin compared to what was originally in here so you know there's"
+    },
+    {
+        "start": "00:27:24.720",
+        "end": "00:27:51.420",
+        "text": "quite amount that was actually absorbed by my hand so so it definitely works but does it work better than the other ones let's talk about that so these are the results so before I get into results I think it's real important that you understand my concept or you know because that's what I'm measuring it against of effective dosage and so in my world in my mind that an effective dosage of C60 is not a certain amount of milligrams or a certain amount of"
+    },
+    {
+        "start": "00:27:51.420",
+        "end": "00:28:19.740",
+        "text": "milliliters of oil it is how I feel so my effective dosage is anywhere in between these two points of existence where a I don't feel anything at all like nothing's happened different in my world and then I then I get to the point where if I take too much I can't sleep it really messes with my sleep you know wake up at three wide awake you know they're ready to go but it's three you know so though that's the range and so it can go anywhere in here and depending"
+    },
+    {
+        "start": "00:28:19.740",
+        "end": "00:28:48.580",
+        "text": "on how much you take but my goal is always to hit this right here and that is my idea of an effective dosage is where I have sustained energy and sharp mental acuity all day so whatever depending every single thing you buy every batch you make is gonna have a different effective dosage and so for me you know I do this hermetic thing where I kind of try different I just I change it up all the time so that I can find out like if I make a specific batch and of of"
+    },
+    {
+        "start": "00:28:48.580",
+        "end": "00:29:16.660",
+        "text": "olive oil or whatever I keep taking different dosages until I find the effective one and sometimes it could be two tablespoons sometimes it could be one you know and then and when it comes to topical it'll be the same thing so that's how I work that's how my brain works when it comes to this so this is what I did for the experiments okay there's the five experiments right here these were the doses so when I did the patch test it was about a half a milliliter both legs no no negative reactions and then again to remind"
+    },
+    {
+        "start": "00:29:16.660",
+        "end": "00:29:41.580",
+        "text": "everybody do not use 100% damage so now when I use the top portion of the 80/20 this a purpley colored liquid here it looks really weird against the paper for some reason it was the color of the light I didn't feel anything I mean I covered both calves one milliliter each calf zero not a nothing it was like I didn't do it all at all and so then I tried the bottom portion of the of the"
+    },
+    {
+        "start": "00:29:41.580",
+        "end": "00:30:08.180",
+        "text": "80/20 mixture that was just PC 60 and as I alluded to earlier I was just and I was one whole milliliter both legs even with some of it rubbing off on my hand I was amped up for two days on five hours of sleep I was amped up that whole day that I took it I slept only five hours and I wasn't really good sleep the next day I was amped up the whole next day so that was like okay I kind of hit this"
+    },
+    {
+        "start": "00:30:08.180",
+        "end": "00:30:36.780",
+        "text": "here I took too much of that one and this guy I took way too little so that's how this little thing works that's my brain works okay so this was this was pretty intense okay and then so you know we now have learned that P60 PC 60 with a penetrator is very intense and so you need to watch your dosage on that learn learn something new now the transcutal mixture was interesting as well I took a full milliliter on both legs rubbed it in and I got an effective"
+    },
+    {
+        "start": "00:30:36.780",
+        "end": "00:31:03.580",
+        "text": "dosage it was like you know like to Goldilocks right it's just right and so I didn't you know I totally felt it but it didn't mess with my sleep I had a decent night sleep that night I had sustained energy and I was just really sharp I mean I was like doing I was at work and it kind of got irritating for people I work with because I was so I'll just kept sending everybody all these emails following up on this I was like man you know enough ready today you know"
+    },
+    {
+        "start": "00:31:03.580",
+        "end": "00:31:33.540",
+        "text": "you know so it's like I was very very on it but it wasn't like hyper like on coffee so it was like perfect it was like the perfect dosage for me and you got to remember too I put half a gram in that 50 milliliters so that was like almost like 0.1 you know one like 100 I think it's well I'm not off the top my head but it's definitely 10 times more power you know more I guess higher dosage of C60 per per milliliter than oil will ever be so it's pretty you get"
+    },
+    {
+        "start": "00:31:33.540",
+        "end": "00:32:01.500",
+        "text": "a really good dose that's I guess what I'm saying the last experiment was the 50/50 DMSO I put five little drops and you know you think that with the DMSO and all of this and da da da da that you know honestly I took it in the morning and by late afternoon I was tired I you know I just was tired and and I was tired like that with these other two so I was surprised at the DMSO but then you know again when you think about it and if this is the reaction you have with"
+    },
+    {
+        "start": "00:32:01.500",
+        "end": "00:32:27.580",
+        "text": "the DMSO and C60 is it really a surprise that it you know that it doesn't work as well as any of the other two penetrators so it didn't really work that well so I'm not that thrilled with with the DMSO in terms of using that with C60 but with the transgoodle mixture or with the 80/20 mixture yeah you know there's definitely there's some something definite something that you want to look into or try yourself if you're a tinkerer so now between Jeff and"
+    },
+    {
+        "start": "00:32:27.580",
+        "end": "00:32:50.740",
+        "text": "I we've done this for a few months and we kind of collected that what we've learned from this and this is the the slide for that the success factors for producing your own C60 topical solution is hydration hydration is key and and you know Jeff cannot stress this enough he actually miss his skin with with water"
+    },
+    {
+        "start": "00:32:50.740",
+        "end": "00:33:18.620",
+        "text": "before and after I think before and after definitely after and so I do it like fresh out of the shower when my skin is really hydrated right but either way you know if you're hydrated this will work so much better if you noticed if you're putting it on dry skin I don't think you'll get any response at all it just your skin won't be able to absorb it and that just makes sense right a wet sponge sucks water faster than a dry sponge right I think kind of okay so"
+    },
+    {
+        "start": "00:33:18.620",
+        "end": "00:33:48.580",
+        "text": "anyway on the apply on thin skin as I was reading studies about C60 and following permeability on skin it was really clear in the literature that see you know obviously C60 isn't soluble in water but it was clear in the literature it actually said it that you know that when they watch C60 seep through skin that the fat cells which are mostly water when the when the C60 hits a layer of fat it disperses into the fat and it doesn't go any deeper into the skin so"
+    },
+    {
+        "start": "00:33:48.580",
+        "end": "00:34:15.060",
+        "text": "you really need to think about that in terms of where you put it so what that's why I was applying it on thin skin you know obviously my calves are really close you know I really really got my veins are close to my skin on everybody on their calves and then of course the top of my the back of my hands my wrists the and then you know Elton like to use the crook of his elbow but these are places where you know if you can see the vein at the skin that's where you want"
+    },
+    {
+        "start": "00:34:15.060",
+        "end": "00:34:43.260",
+        "text": "to put topical C60 okay don't put it anywhere like on your belly if it because it once it hits that fat layer boom it's gets you know game over okay now the other thing too is there's a study I read where the repetitive flexing motion increases the rate which particles transverse the dermis and so what that means is is you know just move move around your skin moving back and forth and you know is going to actually cause the the C60 to to move you know"
+    },
+    {
+        "start": "00:34:43.260",
+        "end": "00:35:13.100",
+        "text": "better it's going to increase the rate at which it's actually going to get absorbed into your skin so that was interesting that's another couple of studies I read was avoiding UV light that C60 will definitely oxidize in direct sunlight so you must not put it on and go out in the Sun okay because once C60 which you know is the super any oxidant that's the reason we all take it but if it gets oxidized it becomes a pro oxidant and it does the exact opposite of what it does when it's not so you don't want it to do that because if it's a power"
+    },
+    {
+        "start": "00:35:13.100",
+        "end": "00:35:39.340",
+        "text": "full antioxidant you can imagine that it's also going to be a powerful pro oxidant and it will mess you up so you don't want to go out in the Sun so if you're going to do it like that's reason by the way that's the reason I did my legs because I had to go to work so I figured well you know I put it on something I can with my pants on I'm in the office even if I go out to my car whatever you know it's not going to be in the Sun so that's why I did my calves now I did the back of my hand because I knew I was gonna be home all that all"
+    },
+    {
+        "start": "00:35:39.340",
+        "end": "00:36:06.340",
+        "text": "that day so there you go keep out of light and then or you can just wear UV protective clothing you know that's one way to do it and then the other thing too is the once the like when you have C60 on your skin like this then you basically or like this other picture here like right here when you have C60 on your skin it's really important to remove it after four hours because that"
+    },
+    {
+        "start": "00:36:06.340",
+        "end": "00:36:32.020",
+        "text": "four hours is about the time where the C60 will begin to oxidize with the air and the area obviously it's oxygen O2 what is C60 well it's it's an electron donor and it loves oxygen it loves oxygen so much of an oxygen molecule comes near to C60 molecules the 260 molecules will grab one molecule one atom of oxygen each and they'll just like combined together like two big soccer"
+    },
+    {
+        "start": "00:36:32.020",
+        "end": "00:37:00.180",
+        "text": "balls with the little tennis ball in between okay that's what happens and if you read all the studies and so yeah it oxidizes pretty quickly and after four hours it's like you know hey man get it off your skin okay for the same reason about the light so really important stuff and you know and I kind of want to add one thing I just was thinking about you know yes you can put C60 oil on your skin and not have to do this whole experiment but then what fun would that be and you wouldn't get a video no but yeah I've actually looked into C60 oil"
+    },
+    {
+        "start": "00:37:00.180",
+        "end": "00:37:28.380",
+        "text": "on skin and that's gonna probably be coming up in another video like what is the best oil so stay tuned for part three of a series I didn't know I was going to do so lastly now I did this video a little bit differently because there's so much content about the experiments I just wanted to share that with you and I didn't want to get spend too much of your time going through stuff you could read if you wanted to so I did but I just want you to know I did it did a ton of research this is just a little tiny tip of the iceberg"
+    },
+    {
+        "start": "00:37:28.380",
+        "end": "00:37:54.740",
+        "text": "about it but all of these studies are in the links below and I highly recommend if you're interested in this this one is the permeation of skin that's the one with 80/20 mixture that they did there's a whole you know study about isopopomistrate and then there's a whole study on the permeation properties and penetration properties of transgoodle okay and then there's a salvation property of C60 in DMSO so these these first four are you know are the crux of this particular"
+    },
+    {
+        "start": "00:37:54.740",
+        "end": "00:38:20.940",
+        "text": "video but there I did a lot of reading for several weeks and to just kind of figure out what this was all about and then what to do what not to do and so forth so if you are interested more just go check the video links and and then have at it okay but so that's it thank you for for watching my video this is just me tinkering around trying some different stuff we learned some new stuff and I'm actually seriously thinking about probably you know keep"
+    },
+    {
+        "start": "00:38:20.940",
+        "end": "00:38:50.700",
+        "text": "doing it you know because I still have that big bottle and so you know I'm actually going to continue to take C60 topical as just to kind of like the whole you know hermosis thing where I want to just you know I want to change it up all the time you know to make my body you know I have to just adjust and and get used to different things and not ever fall and you know get complacent right so I really got some value out of this and I'm definitely going to keep making topical C60 solutions and for those of you who want to give it a try"
+    },
+    {
+        "start": "00:38:50.700",
+        "end": "00:39:17.380",
+        "text": "here's this video thank you again for your support thank you for your kind comments I never tire thank you I really do really really appreciate it because it's just it's nice to be appreciate for your work right so thank you again for your time I know you're busy I need to let you go by the way last thing if you have any questions about making C60 oil or about topical C60 you know Jeff's in the chatroom ask Jeff a question ask me a question I'm"
+    },
+    {
+        "start": "00:39:17.380",
+        "end": "00:39:29.420",
+        "text": "there he's there everybody else is there so you're always welcome to join our chat group link in the description below alright so hey thanks for watching my video have a great day aloha"
+    }
+]

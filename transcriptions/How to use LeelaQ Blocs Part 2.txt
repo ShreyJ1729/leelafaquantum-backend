@@ -1,0 +1,743 @@
+
+[00:00:00.000 --> 00:00:08.100]   >> Hello, everybody, and welcome to another tutorial for Layla Quantum Tech.
+[00:00:08.100 --> 00:00:12.340]   This tutorial is on how to use Layla Block's Part 2.
+[00:00:12.340 --> 00:00:15.420]   I'm your host, Kay Elmer of the Tinkers Academy,
+[00:00:15.420 --> 00:00:17.620]   and I'm here with Phillip some more of on Holtzendorf,
+[00:00:17.620 --> 00:00:19.980]   the owner operator of Layla Q.
+[00:00:19.980 --> 00:00:22.020]   Hi, Phillip. How are you doing today?
+[00:00:22.020 --> 00:00:26.580]   >> Hey, Kay. I'm doing great looking forward to a nice weekend,
+[00:00:26.580 --> 00:00:29.300]   and really looking forward now to this Part 2.
+[00:00:29.300 --> 00:00:33.060]   >> Yeah, I think it's got a lot of great feedback on Part 1.
+[00:00:33.060 --> 00:00:36.740]   Really happy that there's actually was a time span between the two,
+[00:00:36.740 --> 00:00:42.100]   because I was able to grab some additional questions and follow-on thoughts of Part 1
+[00:00:42.100 --> 00:00:43.780]   that we're going to bake right into Part 2.
+[00:00:43.780 --> 00:00:47.140]   So let's jump right in with our disclaimer here.
+[00:00:47.140 --> 00:00:50.020]   Neither Layla Qantan Tech nor the Tinkers Academy recommend
+[00:00:50.020 --> 00:00:51.460]   or endorse any specific tests,
+[00:00:51.460 --> 00:00:53.180]   physicians, procedures, opinions,
+[00:00:53.180 --> 00:00:55.460]   or other information that may be mentioned in this video.
+[00:00:55.460 --> 00:00:59.260]   Reliance on any information appearing and discussing this video solely at everyone's own risk.
+[00:00:59.260 --> 00:01:03.100]   Statements may have not been evaluated by the EFSA or the FDA
+[00:01:03.100 --> 00:01:05.420]   or any governmental derivatives thereof.
+[00:01:05.420 --> 00:01:08.780]   Layla Qantan Tech products and products that Layla Qantan Tech may represent
+[00:01:08.780 --> 00:01:12.620]   or not intended to diagnose, treat, cure, or prevent any disease.
+[00:01:12.620 --> 00:01:18.860]   Thank you. So now we're in Part 2, and where we left off, we're in Part 1,
+[00:01:18.860 --> 00:01:24.220]   where we talked about what are the timings and the quirks about charging objects,
+[00:01:24.220 --> 00:01:28.860]   and we talked about the same as it relates to charging people, pets, plants,
+[00:01:28.860 --> 00:01:33.100]   and places, especially we had a lot of follow-up questions about using photos,
+[00:01:33.100 --> 00:01:34.300]   and we'll get to that.
+[00:01:34.300 --> 00:01:39.980]   But the next thing that we kind of wanted to touch on here was charging water and food.
+[00:01:39.980 --> 00:01:43.100]   So that was the next bunch of questions that came out of Philip
+[00:01:43.100 --> 00:01:45.500]   after we released Part 1, which was like,
+[00:01:45.500 --> 00:01:49.100]   what are the timings for charging those things?
+[00:01:49.100 --> 00:01:52.380]   Because that's one of the biggest things that people want to charge, right?
+[00:01:52.380 --> 00:01:54.780]   So if we could just kind of get some of those timings,
+[00:01:54.780 --> 00:01:56.780]   and then as we go along, if you could talk about,
+[00:01:57.660 --> 00:02:00.620]   you know, if anything comes to mind about, you know, the differences,
+[00:02:00.620 --> 00:02:02.940]   because, you know, like when it comes to water,
+[00:02:02.940 --> 00:02:05.420]   there's distinctly a difference between, you know, like,
+[00:02:05.420 --> 00:02:08.940]   I want to just charge a glass or a bottle, I want to charge an entire tank.
+[00:02:08.940 --> 00:02:11.900]   You know, people have these, you know, r so tanks of water,
+[00:02:11.900 --> 00:02:14.460]   people have water outside and big tanks and things like that.
+[00:02:14.460 --> 00:02:17.980]   So if we could, you want to just jump right in and start talking about,
+[00:02:17.980 --> 00:02:21.980]   if I had a cube lock, right, this is how this matrix works,
+[00:02:23.340 --> 00:02:30.300]   how long would it take to charge a glass or a bottle in a cube lock versus an eye block?
+[00:02:30.300 --> 00:02:33.500]   And is there a maximum because there's always that concept of,
+[00:02:33.500 --> 00:02:35.180]   you know, what happens if I overcharge?
+[00:02:35.180 --> 00:02:38.140]   So let's, if you want to just start charging, like,
+[00:02:38.140 --> 00:02:42.540]   how long would it take if I just had a glass of water or like a water bottle
+[00:02:42.540 --> 00:02:44.860]   and I put it in a, in a cube lock?
+[00:02:46.940 --> 00:02:53.420]   Yes, so all great questions, of course, and there's always a range
+[00:02:53.420 --> 00:02:57.980]   and there's always a caveat also to that because as we went along,
+[00:02:57.980 --> 00:03:00.700]   we found out some interesting things and I'll get to that.
+[00:03:00.700 --> 00:03:07.180]   So with water in the quantum block, certainly,
+[00:03:07.180 --> 00:03:12.220]   if you just put it in for 30, 45 seconds, you already got a good charge.
+[00:03:12.780 --> 00:03:17.500]   It seems that you can optimize it if you go three minutes.
+[00:03:17.500 --> 00:03:25.180]   We didn't have the Emoto Institute test two minutes and four minutes.
+[00:03:25.180 --> 00:03:29.820]   It was just based on our own observation that we figured three minutes,
+[00:03:29.820 --> 00:03:34.780]   maybe, you know, really the right timing for the quantum block.
+[00:03:34.780 --> 00:03:40.460]   And the Emoto Institute tested that and, you know, they were so impressed
+[00:03:40.460 --> 00:03:46.780]   that they're now wanting to actually bring these products to Japan.
+[00:03:46.780 --> 00:03:51.900]   That's how they impressed they've been because within only three minutes,
+[00:03:51.900 --> 00:03:56.140]   the quantum block was able to so positively influence the water
+[00:03:56.140 --> 00:04:00.140]   like they haven't seen before and such a time frame.
+[00:04:00.140 --> 00:04:03.980]   So for the infinity block, that will be one minute.
+[00:04:03.980 --> 00:04:07.260]   Optimizing one minute?
+[00:04:08.300 --> 00:04:11.340]   Yeah. So, you know, I would say here with the infinity block,
+[00:04:11.340 --> 00:04:16.060]   the 30 seconds would be the, let's say, 15 seconds, right?
+[00:04:16.060 --> 00:04:18.540]   So within 15 seconds, you already got a charge in it, right?
+[00:04:18.540 --> 00:04:21.420]   I mean, if you're just on the go and you're really in the rush,
+[00:04:21.420 --> 00:04:25.660]   but you still want to get some charging, 15 seconds is fine for that.
+[00:04:25.660 --> 00:04:30.220]   And then to really optimize, go to up to a minute and a half.
+[00:04:30.220 --> 00:04:36.220]   We, yeah, so that's what we, yeah, up to a minute and a half.
+[00:04:37.020 --> 00:04:40.940]   Okay. All right. Now, is there a concern about overcharging water?
+[00:04:40.940 --> 00:04:51.580]   No, I don't see, I don't see a concern, but I would not do it, frankly.
+[00:04:51.580 --> 00:04:54.300]   I mean, you know, I mean, if you go just with infinity block,
+[00:04:54.300 --> 00:04:56.460]   you go for two minutes, three minutes.
+[00:04:56.460 --> 00:05:00.620]   I don't think there will be any effect, but if you leave it in,
+[00:05:00.620 --> 00:05:04.540]   maybe for 15 minutes, we don't know if it may be the water actually.
+[00:05:06.940 --> 00:05:11.660]   Gets overcharged in a way that it is not, it's never going to get worse
+[00:05:11.660 --> 00:05:17.980]   the water than it was before, frankly, but you may not have the optimal effect.
+[00:05:17.980 --> 00:05:23.660]   That's just something, you know, based on our observation, what we would say.
+[00:05:23.660 --> 00:05:30.380]   Okay. So I'm just trying to, is like, okay, how about this, you know,
+[00:05:30.380 --> 00:05:33.420]   from a maximum standpoint, you know, from overcharging.
+[00:05:33.420 --> 00:05:37.180]   When you look at like these types of things like water drinks, food supplements,
+[00:05:37.180 --> 00:05:43.260]   and well, I think medicine will leave separately, but you know, is there, is there a concept?
+[00:05:43.260 --> 00:05:46.940]   Like, could I overcharge like, you know, I put in some vitamins or I put in, you know,
+[00:05:46.940 --> 00:05:51.820]   like I'm eating a salad and, and you know, there's, is there any, well, first of all, you know,
+[00:05:51.820 --> 00:05:56.380]   is there a concern about overcharging? Like I put it in there and I forget and I come back
+[00:05:56.380 --> 00:06:02.060]   an hour later and is the food still fine? And is it, you know, has there been anything at all?
+[00:06:02.060 --> 00:06:06.460]   Because I don't, you know, I personally don't think that there's anything wrong with overcharging
+[00:06:06.460 --> 00:06:11.580]   other than medicine. And you know, you can't, you know, you can't hurt yourself.
+[00:06:11.580 --> 00:06:15.580]   It's like that other conversation we had earlier where you can't hurt yourself with QE.
+[00:06:15.580 --> 00:06:19.980]   No, no, no, definitely not. Yeah. So that's never a concern, really.
+[00:06:19.980 --> 00:06:26.780]   With overcharging is definitely something to watch with metals and with, with medicine.
+[00:06:26.780 --> 00:06:36.060]   So those two just always keep in mind. Don't do that. Please. And with, with food, we recommend
+[00:06:36.060 --> 00:06:43.100]   a certain times, but we've been, you know, finding out about food allergies, right? And so when we
+[00:06:43.100 --> 00:06:50.060]   look at this, the test that, that Todd Shipman and others have done and repeated over and over again,
+[00:06:50.060 --> 00:06:55.900]   you know, you can find it on our YouTube channel actually. So he charged the foods that he's allergic
+[00:06:55.900 --> 00:07:04.060]   to for six to seven minutes in the infinity block, which is way over what we usually recommend.
+[00:07:04.060 --> 00:07:13.660]   However, he's been successful in not having any allergic reactions whatsoever than to those foods.
+[00:07:13.660 --> 00:07:19.180]   Again, disclaimer, we don't recommend you do that. Don't try it. If, you know, just take your own risk,
+[00:07:19.740 --> 00:07:27.340]   you can try it on your own risk, not at our risk. But so there is definitely a range. And I don't
+[00:07:27.340 --> 00:07:32.700]   think at all, like if you charge raspberries even for 10, 15, 20 minutes, you know, you're not going
+[00:07:32.700 --> 00:07:39.420]   to have a negative effect. It can happen with certain foods like pineapple and possibly others
+[00:07:39.420 --> 00:07:46.140]   that they ripe and suddenly, and then you may not enjoy them anymore. So that's a possibility.
+[00:07:47.180 --> 00:07:54.700]   More research needs to be done, but it's nothing really that. Yeah, where you need to worry about.
+[00:07:54.700 --> 00:07:58.940]   Yeah. Okay. So I'm just going to kind of just say like something like this, I'm just trying
+[00:07:58.940 --> 00:08:03.580]   to figure out what's the best way to say it. So bottom line is like a chair charging longer than
+[00:08:03.580 --> 00:08:09.580]   the above, which are these numbers is not necessary, but because because results are unknown. So
+[00:08:09.580 --> 00:08:19.740]   proceed with caution. You might you might affect the flavor. Yes. Effect, flavor, etc. We just don't
+[00:08:19.740 --> 00:08:24.140]   know. You're right. We just you just don't know because you haven't, you know, nobody's got time
+[00:08:24.140 --> 00:08:28.460]   to test every single thing in the world. Okay. So that's I think that's a good little disclaimer
+[00:08:28.460 --> 00:08:34.300]   to put on this page. Because folks are, you know, basically screenshotting these guys.
+[00:08:34.300 --> 00:08:39.820]   Okay. So if you just want to use it the way that we know it works really well, it's hey, put the
+[00:08:39.820 --> 00:08:44.860]   water glass in there three minutes. You're done 90 seconds in the eye block and you're good. Now,
+[00:08:44.860 --> 00:08:49.260]   if it's a tank, I know that you were you were answering questions earlier in the week, but I
+[00:08:49.260 --> 00:08:54.300]   believe that was about using capsules and tanks. But if I had a cube block, I guess I would have
+[00:08:54.300 --> 00:09:00.300]   to separate the plates, but you know, typical RSO under under cabinet is like a gallon. So let's
+[00:09:00.300 --> 00:09:08.220]   just say one gallon as we need some kind of standards, like for one gallon, how long how long are you
+[00:09:08.220 --> 00:09:14.380]   are you thinking? Is it the same as if it was a glass, you know, like a body or would it be
+[00:09:14.380 --> 00:09:20.460]   longer because there's more more water? So first of all, real quick, I want to mention and refer to
+[00:09:20.460 --> 00:09:25.820]   that, you know, is after that answer I gave with a capsule, I realized I probably should have provided
+[00:09:25.820 --> 00:09:33.580]   a little bit more content because you can't really use the capsule just as is to charge
+[00:09:33.580 --> 00:09:42.700]   any dense objects, you would have to use an intention with it. It doesn't work otherwise
+[00:09:42.700 --> 00:09:48.220]   and it doesn't also charge like a quantum block or infinity block does. It's just completely
+[00:09:48.220 --> 00:09:56.060]   different and I want to just make that point clear. With anything water, orange juice, tea,
+[00:09:56.060 --> 00:10:05.980]   and even certain fruits that are very water heavy, you can certainly use the capsule because it
+[00:10:05.980 --> 00:10:11.660]   is very easy to charge water. So now coming back to this question here, if you
+[00:10:11.660 --> 00:10:18.060]   charge a gallon with a quantum block, yes, it does not matter. It's the very same thing as
+[00:10:18.060 --> 00:10:26.780]   with a glass because for the energy in the blocks, it doesn't matter whether you
+[00:10:26.780 --> 00:10:32.780]   fill up the whole space in the block in between or just a tiny space. It penetrates
+[00:10:32.780 --> 00:10:38.700]   everything at the same time and the same speed. If you have the same type of matter,
+[00:10:38.700 --> 00:10:44.300]   you know, it's been different if you put a concrete block in there, that's different than water.
+[00:10:44.300 --> 00:10:50.780]   You could still put a whole concrete block in and could take a little piece of it if you take
+[00:10:50.780 --> 00:10:56.060]   the same time. I get it. Okay, so there's something really interesting about QE
+[00:10:56.060 --> 00:11:04.220]   because water reacts differently than a hard physical matter. And then it's the same approach
+[00:11:04.220 --> 00:11:10.300]   as to human beings in our bodies because we're literally mostly water. So we act like water,
+[00:11:11.020 --> 00:11:14.860]   so that's why you could put your hand in the block and you get your whole body charged.
+[00:11:14.860 --> 00:11:20.540]   So that's the same thing. If I put part of the tank between the plates,
+[00:11:20.540 --> 00:11:25.500]   I'm charging the whole tank of water, right? Because water works like people. Is that correct?
+[00:11:25.500 --> 00:11:33.740]   Yeah, you're pretty much right. I mean, that pretty much would happen. I always would try
+[00:11:33.740 --> 00:11:40.620]   to put everything in. If you put a hand in there, it's partially because of water, but it's really
+[00:11:40.620 --> 00:11:44.940]   because of the cells that and their quantum fields within the cells.
+[00:11:44.940 --> 00:11:50.220]   Yeah, we're charged beings. Okay. All right. Okay. So there is a little bit of a difference.
+[00:11:50.220 --> 00:11:56.300]   So let me put it this way. You have lots of folks with gardens. And so we've had questions
+[00:11:56.300 --> 00:12:02.620]   with people saying, how do I charge like a 50 gallon rain barrel? And then you've had people
+[00:12:02.620 --> 00:12:11.580]   say, well, I want to charge like if I put my hose and the hose, you know, 50 foot hose. But if I put
+[00:12:11.580 --> 00:12:18.860]   if I put the quantum block at the point where the faucet is that the water running through the hose,
+[00:12:18.860 --> 00:12:23.340]   you know, there's this little eight inch section of the of the hose that's going to go that's in the
+[00:12:23.340 --> 00:12:28.620]   cube block. So as the water's going through the hose and eight inches of it, it's going to pass
+[00:12:28.620 --> 00:12:34.060]   through the cube block right on its way to the garden. In that little eight inches where the
+[00:12:34.060 --> 00:12:39.420]   hose passes through the cube block, even though the water is moving really quickly, would it charge
+[00:12:39.420 --> 00:12:45.740]   the water? Yes, it would charge the water, but it wouldn't wouldn't have the same effect as if you
+[00:12:45.740 --> 00:12:50.700]   were to charge it for a longer period of time. Okay. Makes sense. You could, you know, the Emota
+[00:12:50.700 --> 00:12:57.260]   Institute would probably be able to visualize it even, but it wouldn't show as many beautiful
+[00:12:57.260 --> 00:13:02.140]   crystals as it would if you charged it for, you know, two, three minutes.
+[00:13:02.140 --> 00:13:09.900]   Okay. All right. So that's important. So yeah, because okay, that applies to folks with gas,
+[00:13:09.900 --> 00:13:17.260]   H2, H-H-O generators passing gas through a cube block. It's not sitting there long enough.
+[00:13:17.260 --> 00:13:23.260]   I guess gas is a separate thing. We'll cover that later. Okay. So rain barrel, if I were to take
+[00:13:23.260 --> 00:13:28.780]   the plates apart and I put a plate on each side of my 50 gallon rain barrel, would I have to move
+[00:13:28.780 --> 00:13:32.860]   the plates around or just charging a section of that barrel charges the whole thing?
+[00:13:32.860 --> 00:13:40.300]   I think it would be fine like that. You know, again, you could do that with moving the plates,
+[00:13:40.300 --> 00:13:47.340]   but I don't think you need to because water is indeed so interconnected. And by charging the
+[00:13:47.900 --> 00:13:55.020]   a majority of it, it will basically radio it and transmit outwards to then cover the whole barrel.
+[00:13:55.020 --> 00:14:02.380]   Okay. Okay. Okay. So that's really important. So those are the main things about charging water
+[00:14:02.380 --> 00:14:09.420]   is charge it for a, you know, for this length of time. So just passing water through a block
+[00:14:09.420 --> 00:14:14.620]   quickly, you're not going to get the optimal effect. So if you're watering your garden or
+[00:14:14.620 --> 00:14:19.900]   what, you know, charging drinking water, make sure it sits in the block field, right,
+[00:14:19.900 --> 00:14:24.140]   for this length of time, if you want to get the benefits from it. Okay. All right. And so,
+[00:14:24.140 --> 00:14:30.380]   okay. Okay. That's important. So this is a side note for folks with inhalation generators.
+[00:14:30.380 --> 00:14:34.540]   I don't know. I will have to have a separate discussion about how in the world would you
+[00:14:34.540 --> 00:14:40.140]   charge gas, but that's not going to, that's not like your mainstream tutorial issue here. Okay.
+[00:14:40.140 --> 00:14:45.740]   So now, we need to correct our website because on this one link that you can go to with more
+[00:14:45.740 --> 00:14:55.820]   details in regards to charging food, we actually say for the quantum block that three minute would
+[00:14:55.820 --> 00:15:01.500]   be the maximum. And really, we can't say it that way anymore. We were more on the side of caution
+[00:15:01.500 --> 00:15:07.660]   at the time we wrote that because that's what our tests had shown, you know, to for the optimal
+[00:15:07.660 --> 00:15:13.260]   levels. But again, I mentioned these allergy tests where even people had their foods in there for
+[00:15:13.260 --> 00:15:18.460]   six, seven minutes in the infinity box. So I just again want to mention not that people then come
+[00:15:18.460 --> 00:15:22.460]   with a question below, but you wrote this on the website. If it's still there on the website,
+[00:15:22.460 --> 00:15:27.180]   when the video is up, then let us know we'll have to correct it. We'll try to do that next week.
+[00:15:27.180 --> 00:15:36.220]   Okay. No, good to know. So is charging drinks like soda, tea, coffee, hot cocoa? Is it the same as
+[00:15:36.220 --> 00:15:39.660]   drinking, you know, charging water? Is there any difference because there's stuff in it?
+[00:15:39.660 --> 00:15:45.100]   No, I would say it's exactly the same. Okay. So it doesn't matter. Okay. So drinks and water
+[00:15:45.100 --> 00:15:49.420]   are in the same category. How about food? Is it in the same category as water?
+[00:15:49.420 --> 00:16:02.620]   Yeah, I would say it's very similar. I think for the optimization, I would use the exact same
+[00:16:02.620 --> 00:16:12.060]   timeframes. And again, the maximum could be greater definitely than those three minutes at 90 seconds.
+[00:16:12.060 --> 00:16:19.660]   I don't really know. We don't know if there is indeed a difference. And it may also be
+[00:16:19.660 --> 00:16:25.900]   a person and allergy related, right? Maybe a taught shipment needs to charge it for six,
+[00:16:25.900 --> 00:16:29.900]   seven minutes in the infinity box. Maybe someone else, eight minutes, and again,
+[00:16:29.900 --> 00:16:33.660]   someone else maybe just wanted. It's just something we don't know yet.
+[00:16:33.660 --> 00:16:43.420]   Okay. Okay. So pretty much all of this is kind of the same timing. And there's a lot you we don't
+[00:16:43.420 --> 00:16:50.860]   know. So if I want to charge my dinner before I eat it, then, you know, optimal three minutes
+[00:16:50.860 --> 00:16:58.460]   in a cube block, 90 seconds in an eye block. If I if I'm trying to change the food, right,
+[00:16:58.460 --> 00:17:04.300]   at a frequency level, and I want to make sure that like I'm worried about pesticides or I'm
+[00:17:04.300 --> 00:17:08.860]   worried about whatever, you know, or allergens, right, then I would want to leave it in there.
+[00:17:08.860 --> 00:17:13.340]   And you want to experiment, I guess, because everybody's different and all the foods are different.
+[00:17:13.340 --> 00:17:18.620]   So like your example that you had at the biohacking conference, you were saying that it took him,
+[00:17:18.620 --> 00:17:25.180]   let's say six to seven minutes before what he would eat no longer affected him negatively.
+[00:17:25.180 --> 00:17:29.500]   So that's, well, he didn't, he didn't try it with only two. That was just like the one shot.
+[00:17:29.500 --> 00:17:36.060]   That's what happened. Okay. So that's yeah, because it was already quite an experiment to do that.
+[00:17:36.060 --> 00:17:41.580]   And he certainly didn't want to have allergic reactions because then it's painful for him.
+[00:17:41.580 --> 00:17:46.780]   And he tried that multiple times at home. And his first attempt was, I think, six, seven minutes,
+[00:17:46.780 --> 00:17:49.740]   and then it worked. And then he just kept doing it that way.
+[00:17:49.740 --> 00:17:54.300]   Okay. Yeah, you don't want to, yeah, how much do people want to experiment with their allergy
+[00:17:54.300 --> 00:17:59.820]   reaction? Yeah. Okay. So I'm going to actually experiment with this myself, because I'm allergic
+[00:17:59.820 --> 00:18:07.980]   to MSG. And I've been off C 60 for a while, because I moved, right? So I recently had it. I
+[00:18:07.980 --> 00:18:13.180]   had like a reaction to some food I ate. So now I can, I'm going to, I can, I can kind of figure out
+[00:18:13.180 --> 00:18:17.820]   what, like how long it'll take. But okay. So all we know, the only data point we have, you know,
+[00:18:17.820 --> 00:18:23.260]   with allergen is, is, you know, one guy did it and he figured it, you know, just on his first
+[00:18:23.260 --> 00:18:27.980]   try, boom, he hit it. You don't want to mess with it. So that's what he's sticking with. But yeah,
+[00:18:27.980 --> 00:18:32.140]   so you want that's for everybody else out there too. If you're, if you're charging with the purpose
+[00:18:32.140 --> 00:18:38.940]   of mitigating our allergens, you know, you're experimenting. And you're going to find that
+[00:18:38.940 --> 00:18:42.460]   number. And if you find that number, like how long it worked for you, please share it with the
+[00:18:42.460 --> 00:18:46.780]   rest of us so that, you know, we're all going to learn this together. Okay, cool. So now with
+[00:18:46.780 --> 00:18:53.180]   supplements, you know, folks want to charge their, you know, their daily multivitamin and whatever
+[00:18:53.180 --> 00:19:01.660]   else. Is it any different? I mean, there, because in my mind, you know, it's kind of like borderline,
+[00:19:01.660 --> 00:19:06.620]   and I, you know, is it is, you know, pharmaceuticals, I know there's a consideration about pharmaceuticals,
+[00:19:06.620 --> 00:19:12.860]   but supplements themselves. Like, is there any kind of like, like, what's the timing to charge a
+[00:19:12.860 --> 00:19:19.260]   supplement? Is there a concern with your process with supplements? Because they're, you know,
+[00:19:19.260 --> 00:19:27.020]   I'm very concentrated. And I would say 30 to 60 seconds in the quantum blog is totally fine.
+[00:19:27.020 --> 00:19:32.780]   That's what I do. And I found that to be great. And that's also what we tested
+[00:19:32.780 --> 00:19:40.220]   with Roman in multiple tests. And it worked very, very well. Okay, so that's what we recommend.
+[00:19:40.220 --> 00:19:48.380]   And with the infinity blog, you know, I would be between 15 seconds to, you know, maybe,
+[00:19:48.380 --> 00:19:56.380]   yeah, call it 30, you know, okay. Okay. Okay. And then then you can take the supplement.
+[00:19:56.380 --> 00:20:02.380]   Okay. So then let's talk about medicine, because medicine is tricky, right? Because it's a chemical
+[00:20:02.380 --> 00:20:09.740]   and QE based on the allergen discussion we just had, we know that QE mitigates toxins.
+[00:20:09.740 --> 00:20:17.180]   So medicine is kind of toxins. I mean, you know, it's like medicine is a toxin. So what do you,
+[00:20:17.180 --> 00:20:21.420]   what do you say about that? Like, like, you know, should we even bother? That's my first question.
+[00:20:21.420 --> 00:20:24.780]   Like, hey, you know, I'm, you know, you got someone who's got high blood pressure. They take
+[00:20:24.780 --> 00:20:28.940]   statins or you get someone's got a headache and they go, if I charge my, you know, my aspirin,
+[00:20:28.940 --> 00:20:33.420]   it'll make it better. I mean, do we even want to go there? First question, what do you think?
+[00:20:33.420 --> 00:20:41.020]   Yeah, I think because it's part of life and in some ways, right? It's hopefully not part of
+[00:20:41.020 --> 00:20:46.860]   many people's lives and not on a general basis. But certainly there are conditions and situations
+[00:20:46.860 --> 00:20:52.060]   also where you may have to grab something like that. And frankly, I'm also thankful, you know,
+[00:20:52.060 --> 00:20:58.940]   that something like ibuprofen, which is certainly also toxic, but that, that you can take that,
+[00:20:58.940 --> 00:21:03.900]   you know, if you break your leg, you know, you're, I don't know, walk across the street and you get
+[00:21:03.900 --> 00:21:10.780]   hit by a car. What are you going to do? So I think, and then if you can have a cleaner product,
+[00:21:10.780 --> 00:21:18.380]   it's helpful. So you need to be careful though with that because, you know, charging times is
+[00:21:18.380 --> 00:21:24.860]   important. I would not do that in an infinity block. I think with things like aspirin and ibuprofen,
+[00:21:24.860 --> 00:21:30.300]   you'd be fine. If you only have an infinity block and you, you know, charge it for 10 seconds and no
+[00:21:30.300 --> 00:21:37.100]   more, you know, I would personally do that. You know, again, that's, that's up to you. I'd be
+[00:21:37.100 --> 00:21:43.260]   okay doing that, but I would not take anything that's for specific condition. You know, if you're
+[00:21:43.260 --> 00:21:48.460]   taking something for blood pressure or any of those things, do not experiment with an infinity
+[00:21:48.460 --> 00:21:57.500]   block because the infinity block works so fast, it's so powerful that it adds homeopathic levels
+[00:21:57.500 --> 00:22:06.940]   to the actual substance. And you cannot say for what substance, how many levels are added and how
+[00:22:06.940 --> 00:22:13.820]   deep it can get really, really high really quickly. And the higher the potency, the, you know, the
+[00:22:13.820 --> 00:22:19.900]   more effect you'll have from that. So we just straight out say, just don't do that. You know,
+[00:22:19.900 --> 00:22:27.020]   that'd be our recommendation. And with the quantum block, I'd be doing the same thing here. I would
+[00:22:27.020 --> 00:22:36.540]   probably do, you know, 30 to 45 seconds, we say no more than 60 seconds. So yeah, that's, that's
+[00:22:36.540 --> 00:22:42.940]   what, what, what I would do. And really, you should be done. I mean, it's totally fine after 30 to 45
+[00:22:42.940 --> 00:22:49.100]   seconds in a quantum block. And there's, there's no more needed in order to, you know, what you're
+[00:22:49.100 --> 00:22:55.580]   doing is you're neutralizing and harmonizing frequencies that are potentially harmful. Well,
+[00:22:55.580 --> 00:23:02.140]   what you don't want to do is, you know, impact how the actual substance works. You know, what I mean,
+[00:23:02.140 --> 00:23:08.140]   you still want to have those effects the same, just just use a clean up product. And maybe,
+[00:23:08.140 --> 00:23:15.100]   maybe better afterwards, frankly. Okay. Okay. So now, you know, you know, you know, the members
+[00:23:15.100 --> 00:23:18.380]   as well as I do, they're going to go, yeah, but I only have an eye block.
+[00:23:20.220 --> 00:23:26.380]   Yeah, then then you need to listen to what I just said two minutes ago. Don't use it. If you have
+[00:23:26.380 --> 00:23:32.300]   an ibuprofen or aspirin or something, you know, very, very simple like that. At your own risk,
+[00:23:32.300 --> 00:23:39.660]   you know, do the 10 seconds. I don't think there's any harm with that, frankly, but, but again,
+[00:23:39.660 --> 00:23:45.980]   don't don't use it. So the official position of LA like you is don't use your IB for drugs.
+[00:23:47.900 --> 00:23:52.620]   And then for you guys to own, you know, let's remember now this is the tutorial and this is our,
+[00:23:52.620 --> 00:23:58.620]   this is guidance. And these are guidelines based on what is known and what people are,
+[00:23:58.620 --> 00:24:03.980]   you know, the, you know, Layla Layla is comfortable recommending. And because there's just so much
+[00:24:03.980 --> 00:24:10.940]   that is not known, you know, so yeah, keep that in mind and, you know, and proceed from there. So,
+[00:24:10.940 --> 00:24:16.620]   okay, so then also, yeah, go ahead. So people can make quantum frequency medicine also. And that's,
+[00:24:16.620 --> 00:24:23.100]   that's interesting. That's the reverse side of it, right? You can take, let's say, an ibuprofen and
+[00:24:23.100 --> 00:24:29.740]   put it into the quantum block and, and then charge the frequency onto, you know, a metal object,
+[00:24:29.740 --> 00:24:33.900]   for example, that would be recommended, a silver coin or whatever you want to use. And then you
+[00:24:33.900 --> 00:24:40.860]   have that frequency and it can support the physical substance if you, if you then need to take that,
+[00:24:41.500 --> 00:24:49.180]   or it can even substitute it completely, no, not to 100%. But, you know, if,
+[00:24:49.180 --> 00:24:55.660]   let's say you, you're on the edge of just taking an ibuprofen, you have a headache,
+[00:24:55.660 --> 00:25:01.740]   but it's not really bad. You may get along with just the frequency. That's the idea. And then,
+[00:25:01.740 --> 00:25:07.660]   you know, we may have times at some point where it's going to be very hard possibly to get certain
+[00:25:08.220 --> 00:25:15.420]   medications that, that you need. So, so having that available on a frequency basis, maybe even
+[00:25:15.420 --> 00:25:22.380]   doing some, some, some tests with that may come in quite handy. So that's what that is for. But we
+[00:25:22.380 --> 00:25:28.620]   do only recommend the quantum block for that. Okay. You know, that's a very, very good point.
+[00:25:28.620 --> 00:25:36.940]   As you know, what my hobby is biological magnetics. And so I'm very aware of practitioners
+[00:25:37.660 --> 00:25:44.140]   who are using resonant frequencies, charging water, and then using the water with the
+[00:25:44.140 --> 00:25:49.100]   frequency of this, of the substance as the medicine itself. And it works. You know,
+[00:25:49.100 --> 00:25:54.380]   their reports are that they work. Case in point, the molecular frequency for ibuprofen
+[00:25:54.380 --> 00:25:59.500]   was transmitted to a glass of water. The person had a headache, they drank the water,
+[00:25:59.500 --> 00:26:05.980]   and their headache went away as if they took the ibuprofen. So that's what Phillip just mentioned. So,
+[00:26:07.180 --> 00:26:14.060]   if you have an eye block and the recommendation is to not put the actual medicine in the block,
+[00:26:14.060 --> 00:26:20.940]   you can copy the frequency of the medicine to a piece of foil, use that piece of foil to then
+[00:26:20.940 --> 00:26:26.700]   copy the frequency onto a glass of water, drink the water. So that's something you could try. All
+[00:26:26.700 --> 00:26:31.820]   right. As an as opposed to just with an eye block, we do not recommend that with any like
+[00:26:31.820 --> 00:26:38.220]   normal drugs for any conditions. We do not recommend that because again, homeopathic levels are added,
+[00:26:38.220 --> 00:26:45.900]   and we we just don't know how quickly and to what extent which with which substance. So that's why
+[00:26:45.900 --> 00:26:51.340]   caution with the eye block with these things. Okay, very, okay, because it could get too strong,
+[00:26:51.340 --> 00:26:55.820]   it could get too weak, you know, and it's medicine. So you don't want to be messing around with that.
+[00:26:55.820 --> 00:27:00.780]   Okay, good point. Yeah, we're gonna get a lot of questions about that still, but I think that
+[00:27:00.780 --> 00:27:05.100]   that's pretty clear right now. Just understand if you're listening to this, that there's just
+[00:27:05.100 --> 00:27:10.700]   not enough known about what could happen. And the concern is, is that you don't get what you need,
+[00:27:10.700 --> 00:27:15.500]   because it's obviously been prescribed to you and you need it. So, you know, it will go from there.
+[00:27:15.500 --> 00:27:20.700]   Okay, so more stuff about charging. So we did have these are the following questions. We had
+[00:27:20.700 --> 00:27:25.020]   some questions about, you know, when we talked about using photos. So when we were talking about
+[00:27:25.020 --> 00:27:30.140]   right here, you know, photos, you know, what are the time frames, but the question that came out which
+[00:27:30.140 --> 00:27:34.220]   was it's like, hey, you know, what happens if, and here's that, you know, the thing that you'd
+[00:27:34.220 --> 00:27:39.740]   mentioned a long time ago about, you know, is it, you know, the photo itself? So we had a question
+[00:27:39.740 --> 00:27:45.660]   this week about, you had mentioned that you'd kind of helped yourself by taking a picture of your
+[00:27:45.660 --> 00:27:51.660]   of your upper body from the top down, and then putting that in your block to kind of help alleviate
+[00:27:51.660 --> 00:27:58.060]   your neck pain from sleeping poorly. And so the questions that popped right up after that, which was,
+[00:27:58.060 --> 00:28:02.940]   well, was it a photo of your of your on your cell phone, and you put your cell phone in there,
+[00:28:02.940 --> 00:28:08.300]   as the photo? And the answer was, is no, you print everything, which is what I do too. I also print
+[00:28:08.300 --> 00:28:13.500]   all my photos. I don't use my cell phone as the digital digital representation of the photo. I
+[00:28:13.500 --> 00:28:18.380]   actually printed onto photo paper and put the picture of the photo paper in the block. So,
+[00:28:19.100 --> 00:28:22.940]   so that's that question, right? Could you answer that? Yeah, I think this morning.
+[00:28:22.940 --> 00:28:28.300]   So now the other question, though, is about more than one person in a photo. So can you talk about
+[00:28:28.300 --> 00:28:35.100]   that? Like, is it like, is it something that people should avoid? And what's the worst thing
+[00:28:35.100 --> 00:28:40.540]   could happen? You know, that sort of thing, like two people in the same block at the same time,
+[00:28:40.540 --> 00:28:45.260]   or a person holding their pet, you know, how it is, right, or people standing in a crowd. I mean,
+[00:28:45.260 --> 00:28:51.340]   how important is it to not have any other living beings in the photo when you're trying to use a
+[00:28:51.340 --> 00:28:58.220]   photo to send quantum energy to that person? It is important because you don't want to
+[00:28:58.220 --> 00:29:04.940]   commingle these energies. And that is exactly what is happening, if you put two people or an
+[00:29:04.940 --> 00:29:14.460]   animal and a person in there at the same time. There are exceptions. So if, you know,
+[00:29:14.460 --> 00:29:21.740]   husband and wife, for example, if they both agree, they can absolutely go in together because then even
+[00:29:21.740 --> 00:29:29.580]   certain topics and stories in between the two and maybe issues, underlying issues,
+[00:29:29.580 --> 00:29:36.140]   maybe looked at and possibly even transformed, right? So those are certain things that can happen,
+[00:29:36.140 --> 00:29:47.740]   can they can have a positive effect, possibly, right? And then that's okay. Usually with a family,
+[00:29:47.740 --> 00:29:54.300]   even if you have two kids, you know, husband and wife, and they're all pretty much in agreement,
+[00:29:54.300 --> 00:30:01.420]   then that is also a possibility because they're already so close and they've all agreed.
+[00:30:01.420 --> 00:30:05.820]   But other than that, we recommend to never do that.
+[00:30:05.820 --> 00:30:12.300]   Okay. Good point. Okay. So, you know, unless you want to have like a,
+[00:30:12.300 --> 00:30:18.540]   I don't know, you have a dog and you want to have suddenly an even deeper connection with
+[00:30:18.540 --> 00:30:24.460]   the dog in a way, you could try what you did accidentally at some point where you had your
+[00:30:24.460 --> 00:30:31.980]   dogs there in there with your photo. And hey, you know, why not? But in general,
+[00:30:31.980 --> 00:30:36.940]   you know, we don't recommend do that. Yeah. No, that makes a lot of sense because
+[00:30:36.940 --> 00:30:40.700]   when you live with someone, you're already connected to them because your bio field
+[00:30:40.700 --> 00:30:46.460]   extends out about six feet. So you're already co-mingling energy, right? And your frequency
+[00:30:46.460 --> 00:30:53.740]   and there's a near ice closed room. Yeah. And then there are, there are surfaces out there where,
+[00:30:53.740 --> 00:31:02.380]   you know, energies are indeed commingled on a level that is unheard of and it's almost
+[00:31:02.380 --> 00:31:08.380]   ridiculous, frankly, because if you end up having, you know, 50, 60 different people,
+[00:31:08.380 --> 00:31:14.780]   animals, objects, all in at the same time, and you're literally putting them in one energetic soup
+[00:31:14.780 --> 00:31:22.300]   and steering them the whole time, it's, it is, it is crazy. It is, on an energetic level,
+[00:31:22.300 --> 00:31:27.260]   that is an absolute no go, it is terrible. It is, it is not helpful at all. It is,
+[00:31:27.260 --> 00:31:33.660]   it's something that should never be done. We've actually worked since probably four months to
+[00:31:33.660 --> 00:31:37.980]   figure out that problem. And we've solved it, frankly. So there's, there's going to be more
+[00:31:37.980 --> 00:31:43.980]   coming out in regards to that in the next couple of months. But yeah, so just be mindful of that,
+[00:31:43.980 --> 00:31:50.300]   you know, you just want to have one, one living being in there that you know of. And, you know,
+[00:31:50.300 --> 00:31:54.860]   if you want to be in there with your wife or spouse together, you know, just, just ask her.
+[00:31:54.860 --> 00:32:03.500]   Okay. So important. So best practices, a picture on a, on a photo paper, one person at a time.
+[00:32:03.500 --> 00:32:09.260]   Now, would it be now the picture that we got questions about, okay, what kind of a picture,
+[00:32:09.260 --> 00:32:13.660]   does it need to be their full body or could it be like their upper body and their
+[00:32:14.860 --> 00:32:20.620]   face, you know, it would be a body part? Like I like, let's say my sister heard her knee and she
+[00:32:20.620 --> 00:32:25.500]   took a picture of her knee. You know, would I need a picture of her instead of her knee or
+[00:32:25.500 --> 00:32:32.140]   could I put that picture of her knee and use that? Yep. So first of all, I think any paper is fine,
+[00:32:32.140 --> 00:32:37.980]   by the way. So you need to just use regular printing paper. That's what I do. If, if you're
+[00:32:37.980 --> 00:32:42.300]   more concerned about that, you can certainly take photo paper, but it's, from my perspective,
+[00:32:42.300 --> 00:32:47.980]   not necessary. Okay. And if you want to, you know, give yourself a nice charge or someone else,
+[00:32:47.980 --> 00:32:55.740]   then try to have a full body picture or where as much of the, the body is, is on the picture,
+[00:32:55.740 --> 00:33:02.300]   that's what I would recommend. Now the situation I had yesterday with, with this heavy migraine
+[00:33:02.300 --> 00:33:08.780]   and neck pain, which I usually never have. It was very unusual. And because we've tested that
+[00:33:08.780 --> 00:33:13.820]   before, it's this knee thing that you just recommended. And that's how I did it. Also,
+[00:33:13.820 --> 00:33:20.540]   I just took a picture of that part and not my whole body. And so the energy focused on that.
+[00:33:20.540 --> 00:33:24.780]   And the same with the knees. So if you hurt your knee and that's all you want to work on,
+[00:33:24.780 --> 00:33:28.700]   then, then that's totally enough. You just need a picture of that knee.
+[00:33:28.700 --> 00:33:33.660]   If you can't do it, you know, physically. Okay, because that was the other question too,
+[00:33:33.660 --> 00:33:39.660]   was like somebody asked if they could put a picture of a person that was like from behind, you know,
+[00:33:39.660 --> 00:33:43.420]   and I wasn't sure. I'm like, how would the world, how would, you know, how would the universe know
+[00:33:43.420 --> 00:33:48.060]   that that's that person if you can't see their face? But you're saying that, you know, that's
+[00:33:48.060 --> 00:33:51.340]   like, that's fine. You know, that is that person. So it doesn't need to be their face.
+[00:33:51.340 --> 00:33:55.740]   A full body's better, but a part can be fine, which is either, you know, a picture of them
+[00:33:55.740 --> 00:34:00.300]   walking away from you or a picture of a part of them. But you know, the whole idea is that's fine.
+[00:34:01.020 --> 00:34:04.860]   And of course, you're putting in an intention to help them heal. And I think that's what drives
+[00:34:04.860 --> 00:34:11.100]   the whole process anyway, right? That is true. However, like when I want to really charge my whole
+[00:34:11.100 --> 00:34:17.980]   system, I would personally, that's what my intention say, take a picture from the front where the eyes
+[00:34:17.980 --> 00:34:25.900]   are on as well. Yeah, not sure why that is, but I do feel that if you, okay, yeah, that may have a
+[00:34:25.900 --> 00:34:31.580]   greater effect for the overall system. If you just want to charge your back, of course, just take
+[00:34:31.580 --> 00:34:38.780]   a picture of your back, no need at all for the eyes of the face. So optimal, get a picture of the
+[00:34:38.780 --> 00:34:45.020]   person with the facing you. That's optimal. That's okay. And then lastly was the question about
+[00:34:45.020 --> 00:34:50.620]   putting a picture, does it have to be a recent picture? And I know that we have that really
+[00:34:50.620 --> 00:34:57.740]   interesting testimonial for one of our members who worked to heal, I believe, their child through
+[00:34:57.740 --> 00:35:03.980]   trauma. And they put their child, a picture of their child at different ages, you know, they were
+[00:35:03.980 --> 00:35:09.260]   an adult adult at this point, but they put a picture of their child at a younger age, then
+[00:35:09.260 --> 00:35:14.220]   you know, a little older, a little older, you know, that how that has. And that at each stage,
+[00:35:14.220 --> 00:35:19.900]   right, they were helping send energy to that child of, you know, that person of them at that time,
+[00:35:19.900 --> 00:35:24.140]   you know, kind of thing. And it seemed to have worked, you know, it seemed to have helped
+[00:35:24.140 --> 00:35:31.420]   their adult child overcome childhood traumas. And so that kind of begs to the question of is,
+[00:35:31.420 --> 00:35:37.100]   you know, is it a picture of me now, or is it a picture of me 20 years ago? Does it matter,
+[00:35:37.100 --> 00:35:39.660]   or how much do you know about that? I mean, is it all experimental?
+[00:35:39.660 --> 00:35:45.580]   There's great questions, and we know quite a bit about it, because we've heard multiple
+[00:35:45.580 --> 00:35:56.060]   reports and then also did some testing on our own. So if you want to charge yourself or help someone
+[00:35:56.060 --> 00:36:05.340]   today with something that's going on now, then always take a most recent picture. And you know,
+[00:36:05.340 --> 00:36:09.580]   this doesn't, you know, you don't have to like take a new picture every day, right? That's not
+[00:36:09.580 --> 00:36:15.900]   what that means. You can still use a picture if it's two, three weeks old, but however, the more
+[00:36:15.900 --> 00:36:26.140]   current, the better, for sure. And you know, if I heard myself today, let's say now, then in an hour,
+[00:36:26.140 --> 00:36:34.140]   I want to charge myself fully, and I want to have all this included in an optimal way,
+[00:36:34.140 --> 00:36:40.940]   I would take a new picture, frankly, that's what I would do. But we have found out that indeed,
+[00:36:40.940 --> 00:36:51.420]   childhood, trauma, and you know, other blockages and experiences can be eased, harmonized, and
+[00:36:51.420 --> 00:37:03.500]   transformed even by putting in pictures of the child at the time. Let's say between the ages of
+[00:37:03.500 --> 00:37:10.140]   four and six, certain difficult things happened, because maybe the parents died. Something else
+[00:37:10.140 --> 00:37:16.380]   happened, got into an accident when I was six, like all that, and just two years. Then you would
+[00:37:16.380 --> 00:37:21.340]   find pictures of the four year old, the five year old, the six year old, and work your way
+[00:37:21.340 --> 00:37:27.660]   through from the four year old to the six year old, put those pictures in. And then things that
+[00:37:27.660 --> 00:37:35.260]   happened at the time, we'll see, you know, I almost said healing, we don't want to say healing,
+[00:37:35.260 --> 00:37:43.980]   right? But it's, it would say it would see a transformation and an harmonization of what had
+[00:37:43.980 --> 00:37:51.020]   happened, a release of the trauma talk. That's, that's what has been shown in multiple tests.
+[00:37:51.020 --> 00:37:58.300]   So that's amazing. You know, that was my self, actually also just tested on myself. And it's
+[00:37:58.300 --> 00:38:06.620]   interesting. It's a very interesting thing to do. I just found an old, you know, my mother had made
+[00:38:06.620 --> 00:38:12.220]   a book at some point with the picture throughout my life until a certain age. And I just took those
+[00:38:12.220 --> 00:38:17.420]   pictures out, put them in. And it's very, very interesting, because you're not really charged
+[00:38:17.420 --> 00:38:22.940]   today, you still feel it. And it's almost as if, you know, if you envision a rainbow with so many
+[00:38:22.940 --> 00:38:29.740]   different layers and colors, it says if one of those layers is being charged and you feel that
+[00:38:29.740 --> 00:38:35.500]   is being charged, there's something going on. But it's not your whole self, if that makes sense.
+[00:38:35.500 --> 00:38:39.900]   No, I totally get it. If for anyone who understands German new medicine,
+[00:38:40.860 --> 00:38:46.620]   or the concept of emotions getting trapped in your body, you know, biologically,
+[00:38:46.620 --> 00:38:53.340]   to release those emotions, you need to inject energy into your system, because they're trapped
+[00:38:53.340 --> 00:38:58.220]   in you, emotions or energy, and they're trapped in you, obviously. And so you carry around all that
+[00:38:58.220 --> 00:39:05.260]   baggage. So we're saying that quantum energy has the capability of reaching that those, you know,
+[00:39:05.260 --> 00:39:12.060]   those blockages where those emotions are trapped. And the link is a picture of you
+[00:39:12.060 --> 00:39:16.940]   when that moment happened. It's not like time travel, but it's more like you are here now,
+[00:39:16.940 --> 00:39:22.060]   but you're carrying all this stuff. And the key to that is to reach out to that moment,
+[00:39:22.060 --> 00:39:29.340]   that emotion got locked inside of you, and to get that key is a picture of you as a child, or
+[00:39:29.340 --> 00:39:33.740]   a picture of you, let's say 20 years ago, horrible divorce, you know, and you want to get over it
+[00:39:33.740 --> 00:39:38.780]   now, I get a picture of you back then. So for folks that are suffering PTSD,
+[00:39:38.780 --> 00:39:42.140]   get a picture of the moment that, you know, that of that timeframe that you were going through
+[00:39:42.140 --> 00:39:48.300]   that event, put that picture in the block, put in intention, and seek healing. I think that's,
+[00:39:48.300 --> 00:39:52.380]   that is amazing. And you've actually, we've had more than one person than you're saying.
+[00:39:52.380 --> 00:39:56.860]   Yes, there are multiple people, actually, and there are several people that are not even
+[00:39:56.860 --> 00:40:03.180]   in the group that have reported that and have tested that. And it's, it's really quite interesting.
+[00:40:03.180 --> 00:40:09.020]   I mean, the, the concept is really not difficult to understand if you understand how that works,
+[00:40:09.020 --> 00:40:13.740]   and what you just explained is very, very helpful. You know, the time and distance,
+[00:40:13.740 --> 00:40:18.060]   first of all, doesn't really matter in that concentrated quantum field. And indeed,
+[00:40:18.060 --> 00:40:23.980]   it's about something, you know, you can solve stuff from the past in the now, right? You know,
+[00:40:23.980 --> 00:40:32.300]   whether you do that with therapies, right, and you talk about stuff in the now, about stuff that
+[00:40:32.300 --> 00:40:36.300]   happened 20 years ago, and then you're kind of like at some point getting over that, or you're
+[00:40:36.300 --> 00:40:44.860]   doing a healing work with a shaman, you know, or using this type of energy to, to help with that.
+[00:40:44.860 --> 00:40:51.980]   Yeah, it's absolutely possible. Okay, thank you for sharing that. Okay, so another question about
+[00:40:51.980 --> 00:40:57.500]   using the blocks, and I'm going to throw in the question number two for, for clarification,
+[00:40:57.500 --> 00:41:02.460]   because I was looking at some photos, and it, and I saw people who were like, who had a cube
+[00:41:02.460 --> 00:41:06.380]   block or two eye blocks, and they were like sitting on a shelf next to each other. And I know that
+[00:41:06.380 --> 00:41:11.660]   you had said earlier, you know, don't put them next to each other. So could you comment on
+[00:41:11.660 --> 00:41:16.860]   the proximity of blocks? If you have more than one block, should you keep them separate? And
+[00:41:16.860 --> 00:41:25.180]   what's the guidance on that? Yes, usually two to three meters minimum distance. There are
+[00:41:25.180 --> 00:41:32.860]   exceptions, but those are a little bit complicated, and they cannot be generalized. So two to three
+[00:41:32.860 --> 00:41:39.340]   meters minimum is what we recommend. Also, usually if you have a home, right, and you have two or
+[00:41:39.340 --> 00:41:45.660]   three of these, then you have a much better energy flow if you put them in different spots.
+[00:41:45.660 --> 00:41:52.460]   Yeah, that's how I do it. And, and they're, yeah, I mean, there's not more to say. So two to three
+[00:41:52.460 --> 00:41:57.100]   meters minimum is what you should. So do not put them on a shelf next to each other.
+[00:41:57.100 --> 00:42:02.380]   So they actually will enter their interfere with each other if they're that close to each other,
+[00:42:02.380 --> 00:42:14.940]   right? Yes. So, and they may not function properly. Okay. Okay. Now, there's a lot of
+[00:42:14.940 --> 00:42:21.020]   questions about intentions. And so for the longest time, you know, there's a recommendation to,
+[00:42:22.060 --> 00:42:26.140]   you know, write down what you, what you want to send into the, you know,
+[00:42:26.140 --> 00:42:31.260]   universe and people could also call it prayer, but putting down on a piece of paper or saying it out
+[00:42:31.260 --> 00:42:36.780]   loud while charging something or charging, you know, putting in a photo. So, you know, the question
+[00:42:36.780 --> 00:42:43.260]   is, is I guess the number one is like people who've never done that before. And the question I
+[00:42:43.260 --> 00:42:48.460]   believe comes up where it says, do I, how do I, you know, like, I guess, I'll just summarize,
+[00:42:48.460 --> 00:42:53.660]   how do I phrase an intention? So what would you recommend? Like, how do I phrase an intention?
+[00:42:53.660 --> 00:43:03.100]   Let's say, you know, as an example, I, you know, I want to lose weight or I, you know, I want to
+[00:43:03.100 --> 00:43:09.660]   pass emotional trauma to be healed. How would I phrase that and put it on a piece of paper?
+[00:43:09.660 --> 00:43:16.940]   Yeah. So first of all, the first thing to keep in mind is that it should not be anything that's
+[00:43:16.940 --> 00:43:25.660]   manipulative and or, you know, harmful and destructive. I mean, that would kind of be neutralized
+[00:43:25.660 --> 00:43:31.740]   anyway, but it's just something, just keep that in mind. Like you don't want, yeah, especially if
+[00:43:31.740 --> 00:43:38.700]   it's about other people, possibly, right? So then placing an intention in. So if I want to lose weight,
+[00:43:39.980 --> 00:43:56.780]   then I would use the present form. I lose five pounds within two weeks. Whereas the timing
+[00:43:56.780 --> 00:44:02.940]   sometimes can be very difficult and it may be a burden for the intention. So you could also do
+[00:44:02.940 --> 00:44:10.780]   something like it is very easy for me to lose weight in the next few weeks. You know, that
+[00:44:10.780 --> 00:44:18.860]   leaves more room and space for possibilities and how it happens feels even a little easier. And
+[00:44:18.860 --> 00:44:27.180]   anytime you write down an intention, try to envision what you're writing down, you know,
+[00:44:27.180 --> 00:44:33.900]   literally like with with a inner picture, almost and a feeling ideally, and you're putting that in.
+[00:44:33.900 --> 00:44:41.020]   And then it gets amplified just by that, but it's a more complete intention in that moment
+[00:44:41.020 --> 00:44:46.540]   because of that, because you're not it's not just a words, you know, it's not energy less words.
+[00:44:46.540 --> 00:44:51.580]   It's it's really complete. You're putting it into the infinity block or the quantum block.
+[00:44:51.580 --> 00:44:57.020]   And then from there it gets amplified. It's as an information and a signal in the field.
+[00:44:57.020 --> 00:45:02.860]   And it gets supported pretty much 24/7 as long as it is in there.
+[00:45:02.860 --> 00:45:09.740]   Okay. So yeah, that makes specific, I guess, is the key, right?
+[00:45:09.740 --> 00:45:14.620]   Yeah, try to be specific. And then, you know, sometimes people wonder also, okay, so how can I
+[00:45:14.620 --> 00:45:20.060]   heal the word? What can I do for the world, right? Sometimes there are things that, you know,
+[00:45:20.060 --> 00:45:26.860]   we want in the world to change there, I would, you know, try to maybe not be specific with these
+[00:45:26.860 --> 00:45:31.660]   things. Like if someone wants Joe Biden to not be there anymore, that that's kind of like goes
+[00:45:31.660 --> 00:45:38.620]   into more manipulation of that. And so I would rather than tune in and see, okay, so what are the
+[00:45:38.620 --> 00:45:44.940]   aspects that will be wonderful to have here that are also not manipulative? So, you know,
+[00:45:44.940 --> 00:45:50.220]   based on the current time and where we're moving in as humanity, something like
+[00:45:50.220 --> 00:45:59.260]   more peace, more loving connections, you know, things like that are amazing and those get
+[00:45:59.260 --> 00:46:04.540]   supported. And it's just, you know, people sometimes wondering, you know, what can I do is,
+[00:46:04.540 --> 00:46:11.020]   but hey, if we put out and radiate on this intention, and here we can have a tool that can help
+[00:46:11.740 --> 00:46:17.500]   do that and we don't have to constantly repeat this intention, right? That's that's something,
+[00:46:17.500 --> 00:46:23.420]   you know, it is an information that's then given in the field and it does have impact.
+[00:46:23.420 --> 00:46:28.220]   Okay, no, that's good. That's good to know. All right, so everybody go out there and try
+[00:46:28.220 --> 00:46:33.500]   it and see what happens. Number four, care and maintenance. I mean, is there anything special
+[00:46:33.500 --> 00:46:39.740]   people need to know about keeping their blocks clean? Like making sure the dog here doesn't
+[00:46:39.740 --> 00:46:46.380]   accumulate inside of it. I mean, it's just so water. I mean, you can't hurt the thing, right? It's
+[00:46:46.380 --> 00:46:50.620]   metal, but you should keep it clean. So then it doesn't have, I mean, what do you, what's your
+[00:46:50.620 --> 00:46:57.020]   recommendation on care and maintenance? Yep. So what we found is actually that these microfiber
+[00:46:57.020 --> 00:47:05.180]   cloths that you would use for wine glass cleaning, those are the best. Oh, okay. And they're very
+[00:47:05.180 --> 00:47:10.860]   cheap. You can get them on Amazon and many other places, probably actually posted about that
+[00:47:10.860 --> 00:47:17.580]   yesterday in the group. And if you're on a regular basis, just wipe down the dust, that's great.
+[00:47:17.580 --> 00:47:23.100]   And even with an infinity block, you know, you could every now and then maybe, you know,
+[00:47:23.100 --> 00:47:28.620]   we're in between the plates. It's kind of like difficult to get in, but with one of those cloths,
+[00:47:28.620 --> 00:47:34.140]   you may be able to take a, maybe a pencil or something else, maybe a knife and just stick a
+[00:47:34.140 --> 00:47:40.140]   part of that through and then just pull it from the other end of if you guys understand what I'm
+[00:47:40.140 --> 00:47:46.540]   talking about. And with that, you don't even need water usually because you just wipe it real quick.
+[00:47:46.540 --> 00:47:51.980]   And you know, we do that once a week, just to keep it, give it a little bit clean from dust and
+[00:47:51.980 --> 00:47:58.060]   possibly other things. And yeah, I mean, if you, if you charged your foods in there and you had a
+[00:47:58.060 --> 00:48:04.620]   soup and it's built over, obviously, and you know, then maybe you need to use a little water with it.
+[00:48:04.620 --> 00:48:09.420]   But yeah, that's, that's what I would do. I would not be overly concerned about it, but it's
+[00:48:09.420 --> 00:48:17.100]   just nice to keep it clean and some dust buildup. Yeah, isn't that great? It's just works better
+[00:48:17.100 --> 00:48:22.780]   if you don't have a lot of dust in there. Okay, all right. No, good, good to know. The other,
+[00:48:22.780 --> 00:48:26.220]   you know, you see this question all the time about people asking, you know, about traveling
+[00:48:26.220 --> 00:48:33.100]   with the blocks. Does it, you know, is it just better to disassemble it and then just put in your
+[00:48:33.100 --> 00:48:37.660]   suitcase or is there any issue about having it assembled and while you're traveling or playing
+[00:48:37.660 --> 00:48:45.340]   strains, model reveals? Yeah, so I can maybe say how I do it or we do it. And we also have some good
+[00:48:45.340 --> 00:48:54.140]   news. So if we travel in the car, you know, then on a longer trip, then we usually actually have a
+[00:48:54.140 --> 00:49:01.100]   block with us and have it in the back, you know, in a way where, you know, it doesn't fall over.
+[00:49:01.100 --> 00:49:12.300]   If we travel with a plane, then usually we disassemble and then put it together what we're at.
+[00:49:12.300 --> 00:49:23.580]   That's, that's how we do it. Then someone in the group had a great idea and found a bag, a nice,
+[00:49:23.580 --> 00:49:30.060]   pretty stable bag that had pretty much the dimensions of the blocks that you could put inside and ask,
+[00:49:30.060 --> 00:49:36.940]   hey, you know, could we make a bag like that? So we've actually exploring based on that
+[00:49:36.940 --> 00:49:44.300]   great input. And we've found a company that can produce these. So we're still in the process of
+[00:49:44.300 --> 00:49:50.780]   that. But you know, maybe that that will still be a black bag, but it may have the the golden
+[00:49:50.780 --> 00:49:55.580]   mandala on it, you know, something just that it looks nice. It wouldn't show the like quantum
+[00:49:55.580 --> 00:50:00.380]   tech because we don't want to like brand this, you know, it shouldn't be like a walk in commercial.
+[00:50:00.380 --> 00:50:05.260]   It just should look nice and be very functional. So and with that, it's actually a lot easier
+[00:50:05.260 --> 00:50:09.820]   because you can put it in your car like that. You could you could possibly even then
+[00:50:09.820 --> 00:50:16.140]   take it into the the plane. I don't know what the security would say about that. But
+[00:50:17.020 --> 00:50:22.940]   you know, what problem would they have with that, frankly, it's probably probably none. So yeah,
+[00:50:22.940 --> 00:50:30.140]   that's another way to do it. And yeah, maybe we'll have this these smaller blocks at some point
+[00:50:30.140 --> 00:50:38.540]   also that, you know, we've been asked about you have the prototype. Okay, and we're trying to make
+[00:50:38.540 --> 00:50:44.460]   them one centimeter larger, just so that it's a little bit easier to put even big fists in there
+[00:50:44.460 --> 00:50:50.060]   and to put a little glass in there. But those are actually pretty cool for traveling because you
+[00:50:50.060 --> 00:50:59.020]   can literally have them in your purse, you know, if you're your female. And it's very easy in the car,
+[00:50:59.020 --> 00:51:05.100]   you know, it's it's just it's pretty convenient for for traveling, frankly.
+[00:51:05.100 --> 00:51:10.460]   Yeah, I like my QB mini. I love it. I really do. And you'll yeah, you hit on that you hit on the
+[00:51:10.460 --> 00:51:14.540]   issue, right? It's if it was just a little bit bigger, so I could put a coffee cup in there.
+[00:51:14.540 --> 00:51:19.020]   If it was just the perfect size to for a coffee cup, that would be perfect.
+[00:51:19.020 --> 00:51:26.140]   I do that every single morning. But yeah, I keep it in the truck. I love it. It's just great.
+[00:51:26.140 --> 00:51:30.780]   Thank you. Okay, so traveling with blocks. So you've never had any issues with TSA.
+[00:51:30.780 --> 00:51:36.540]   Right. I mean, it's like pretty much disassemble it if you're traveling because it is, you know,
+[00:51:36.540 --> 00:51:42.620]   large, but no issues, right? Just okay, you know, whatever and the little the mini block actually
+[00:51:42.620 --> 00:51:49.020]   crew my wife, she had the the mini block just, you know, in in her purse, you know, with her.
+[00:51:49.020 --> 00:51:53.980]   And yeah, no problem whatsoever. I mean, you know, it's not a knife. It's not a gun. It's,
+[00:51:53.980 --> 00:51:59.980]   you know, it's just a little nice looking object for people. And, you know, if you're asked what
+[00:51:59.980 --> 00:52:07.260]   that is, well, you know, it's a very nice little golden temple or design piece, you know, yeah,
+[00:52:07.260 --> 00:52:15.420]   or book. I'd say it's like a bookcase or something like that. Okay, now let's talk about number six is
+[00:52:15.420 --> 00:52:20.620]   the now this question comes up a lot, right? It's like, is there a difference between the plates
+[00:52:20.620 --> 00:52:27.340]   on a QB versus an IB, meaning, you know, the infinity block is three plates up and down,
+[00:52:27.340 --> 00:52:32.220]   right? So total of six plates. And the question comes up is like, well, if it's too much energy
+[00:52:32.220 --> 00:52:37.900]   for me, can I take a plate off the top and the bottom and only use two? Or the other question is,
+[00:52:37.900 --> 00:52:43.420]   is if I have an infinity block, I got three plates, could I just make three QBs out of one IB,
+[00:52:43.420 --> 00:52:48.140]   you know, those kinds of things, right? Because, you know, because, because, so the question I always
+[00:52:48.140 --> 00:52:52.220]   tell everybody is like, no, you can't, because it's like they're charged differently. And so,
+[00:52:52.220 --> 00:52:57.180]   but if you know, you could elaborate on that, like, like, why is does why wouldn't that work? I guess
+[00:52:57.180 --> 00:53:06.540]   is the question. Yeah, it's because of the quantum consciousness levels mainly, and an infinity block
+[00:53:06.540 --> 00:53:15.180]   once put together, then that's how it operates. And you can then not remove plates and then just
+[00:53:15.180 --> 00:53:23.020]   have a quantum block. It's just, it just doesn't work that way. It's, because it's a, yeah, it's a
+[00:53:23.020 --> 00:53:29.260]   different, different level of charge, different level of quantum consciousness levels. And,
+[00:53:29.260 --> 00:53:37.500]   yeah, it just doesn't work that way. And by the way, also, you can make it, you can make it less
+[00:53:37.500 --> 00:53:44.860]   strong, a little bit less strong that way in the beginning. But for example, also, if you use just
+[00:53:44.860 --> 00:53:49.180]   two plates on the top and two plates on the bottom, we would never recommend that because that is
+[00:53:49.180 --> 00:53:57.420]   not, it doesn't work well. For whatever reason, we tested that very early on. So, yeah, so if you
+[00:53:57.420 --> 00:54:02.860]   want to use a quantum block for the specific functions of a quantum block,
+[00:54:02.860 --> 00:54:09.500]   you're, yeah, you should get a quantum block. Okay, so it just simply doesn't work that way.
+[00:54:09.500 --> 00:54:15.340]   Okay, good to know. So the other question, number seven is, you know, this, this kind,
+[00:54:15.340 --> 00:54:19.180]   this came up when it was an interesting question. It's like, hey, you know, I always wear heel caps
+[00:54:19.180 --> 00:54:25.260]   around my neck. And I'm sitting there putting stuff in my, my block. Does the proximity of me
+[00:54:25.260 --> 00:54:32.700]   having one Layla device around my neck affect anything in the block as I'm charging and vice versa.
+[00:54:32.700 --> 00:54:37.740]   So, you know, should I, you know, should, should people, you know, kind of keep these things away
+[00:54:37.740 --> 00:54:43.980]   from each other or, or it doesn't matter? No, it does not matter. There's no problem with that. So,
+[00:54:43.980 --> 00:54:51.020]   it wouldn't affect the block at all. On one side on the flip side is the block would not
+[00:54:51.020 --> 00:54:59.740]   like charge an already charged object, if that makes sense. So, the distant charging of objects
+[00:54:59.740 --> 00:55:06.700]   is yes, you get quantum energy in it. And yes, you neutralize any and all harmful and negative
+[00:55:06.700 --> 00:55:13.900]   frequencies with it. As I've explained, I think in part one with this, you know, big dining table
+[00:55:13.900 --> 00:55:18.060]   that we had bought, which is an antique dining table. And, you know, we just had to get those
+[00:55:18.060 --> 00:55:23.580]   energies out there that were stuck in there. And that's very easy done with the photo.
+[00:55:23.580 --> 00:55:29.580]   However, if you have a heel capsule, that's already charged. And, you know, there's, there's
+[00:55:29.580 --> 00:55:34.380]   nothing that you do with that you would then have to physically put it into a higher level
+[00:55:34.380 --> 00:55:41.020]   infinity block in order for it to have a change. Okay, all right, that makes sense.
+[00:55:41.020 --> 00:55:47.740]   Okay, so the other question that comes up a lot is the topping off concept, where, as I understand,
+[00:55:47.740 --> 00:55:54.780]   that the ladle of products, when you, when you make them for the website, that you put the
+[00:55:54.780 --> 00:55:58.220]   frequency, use a key, you know, like we should, we're highly recommended, right? Use your cube
+[00:55:58.220 --> 00:56:04.940]   lock whenever you're copying frequencies. And then so you'll give it a full QB charge. And then you'll
+[00:56:04.940 --> 00:56:10.780]   quote top it off and put it in the IB in the infinity block. And that's kind of for the concept
+[00:56:10.780 --> 00:56:17.020]   that an infinity block is seven times stronger than a cube lock. And so there's that idea that,
+[00:56:17.020 --> 00:56:22.860]   you know, you use both. So first question is, is it required to use both? If I only have a QB,
+[00:56:23.820 --> 00:56:28.380]   you know, if I want to have, if I want to make a device, let's say I want to make my own capsules,
+[00:56:28.380 --> 00:56:34.540]   and I only have a QB, and I go to the full three minutes, is it going to, is it not the same as,
+[00:56:34.540 --> 00:56:40.540]   like if I bought a capsule from, from Layla Q, because you also, you top it off and, and they
+[00:56:40.540 --> 00:56:48.300]   won't be able to. Yeah, no, it would be definitely not as strong. Okay, if you just have a quantum
+[00:56:48.300 --> 00:56:54.860]   block, but however, it still, it will still work, of course, right? It's just the vibration is high.
+[00:56:54.860 --> 00:57:03.340]   Yeah, so, so, and if you have an infinity block, then definitely top it off. If you feel like
+[00:57:03.340 --> 00:57:10.060]   wanting that a higher vibration, I would say it's not, if you have both the quantum block and
+[00:57:10.060 --> 00:57:17.820]   the infinity block, to simply put pure quantum energy into an object, you can put it in right
+[00:57:17.820 --> 00:57:22.380]   away in the infinity block, there's no need to put it in the quantum block beforehand, but if you
+[00:57:22.380 --> 00:57:30.460]   work with frequencies, you know, we charge and copy any and all frequencies only in a quantum block
+[00:57:30.460 --> 00:57:36.620]   type device, and not in the infinity block, because of multiple reasons that we already talked about,
+[00:57:36.620 --> 00:57:42.460]   you know, handling frequencies way easier in the quantum block, then we top it off in the infinity
+[00:57:42.460 --> 00:57:48.700]   block. But again, if you just want to charge pure quantum energy into your watch, you know, you
+[00:57:48.700 --> 00:57:54.060]   could go straight to the infinity block because, yeah. So they're giving this, so that's a really
+[00:57:54.060 --> 00:57:59.740]   important point is that if you just have a quantum block, you're perfectly fine, because you've created
+[00:57:59.740 --> 00:58:07.660]   a very, you know, powerful QE device like capsule or card that has the frequency or has the energy
+[00:58:07.660 --> 00:58:12.620]   and you're fine. There's no need to have both. I think that's the key thing, because, and then
+[00:58:12.620 --> 00:58:19.580]   for for Layla, you actually do this topping off process, because you have at your disposal,
+[00:58:19.580 --> 00:58:24.700]   and you want your your your, you know, I'm just assuming I'm just saying this personally,
+[00:58:24.700 --> 00:58:29.980]   but you're basically you want to have your devices are stronger than you want them as
+[00:58:29.980 --> 00:58:34.380]   strong as you can get them, right? And when you when you when you provide them to customers,
+[00:58:34.940 --> 00:58:38.940]   is that correct? Yes, and you know, the infinity block then comes in handy also for other people,
+[00:58:38.940 --> 00:58:44.140]   obviously, if they just want to have a stronger field at home, or if they have objects, silver,
+[00:58:44.140 --> 00:58:50.700]   where whatever that they want to just with charge with a higher vibration, then that's where you
+[00:58:50.700 --> 00:58:56.700]   need or want an infinity block. But if none of that matters, you're totally good with the quantum
+[00:58:56.700 --> 00:59:00.700]   block. Okay, yeah, because I had a quantum block for months before I read an infinity
+[00:59:00.700 --> 00:59:07.900]   login. It was just fine. Okay, now for timing, seriously, other issue here, right? People are,
+[00:59:07.900 --> 00:59:14.460]   we've talked about upgrading infinity blocks in part one, and people are some folks are really
+[00:59:14.460 --> 00:59:19.420]   going for it, you know, and and so what I wanted to talk about is not necessarily what happens when
+[00:59:19.420 --> 00:59:23.820]   you do that. I think that's a whole separate question, but it is possible to upgrade. There's a video
+[00:59:23.820 --> 00:59:28.380]   on the Layla cute YouTube channel how to do it, but the whole idea though is that, you know, all of
+[00:59:28.380 --> 00:59:34.540]   these timings that we've we've documented here in the tutorial on charging objects, charging
+[00:59:34.540 --> 00:59:40.540]   people, pets, you know, people in pets, charging food and water. But one of the things about what
+[00:59:40.540 --> 00:59:45.420]   happens and what you know, I don't even know what the recommendation is, but like, what would you say
+[00:59:45.420 --> 00:59:50.780]   to people that say, Hey, you know, I've I've charged my upgraded my infinity block to level four now,
+[00:59:50.780 --> 00:59:56.700]   and I got a three and a four, you know, how long should I charge you XYZ for? And so my response to
+[00:59:56.700 --> 01:00:02.860]   these questions are, is like, we have no idea, you know, and then the response is, well, doesn't
+[01:00:02.860 --> 01:00:09.580]   Layla do topping off? So wouldn't they know, right, that there's some kind of a timing for an IB5
+[01:00:09.580 --> 01:00:14.060]   versus an IB6? And so, you know, what would be your response to that? Because we want to try to
+[01:00:14.060 --> 01:00:21.100]   help people. But there's so much that's unknown, like, like I personally am at IB8, and I know that
+[01:00:21.100 --> 01:00:25.900]   no one could even possibly tell me how long I could put a cup of coffee in an IB8. You know,
+[01:00:25.900 --> 01:00:30.380]   like half a second, you know, I mean, so that kind of stuff, right? So what do you what do you say to
+[01:00:30.380 --> 01:00:38.140]   that? Yeah, so the whole thing is not really linear. So we found that with infinity block one,
+[01:00:38.140 --> 01:00:46.540]   two, and three, you can pretty much use the same timings that we that we give you with with metals,
+[01:00:46.540 --> 01:00:52.140]   I would start being a little bit more cautious, and maybe have, you know, starting with an
+[01:00:52.140 --> 01:01:02.140]   infinity block three, not charge metals for more than two minutes, maybe two and a half minutes,
+[01:01:02.140 --> 01:01:08.140]   and then as you get to four, five, six, I would further reduce that and try to really, really not
+[01:01:08.140 --> 01:01:17.020]   go over two minutes at all with with metals. But charging times for water and all of that in the
+[01:01:17.020 --> 01:01:24.140]   minimum charging times, you know, you can just reduce it a little bit, maybe cut it into half,
+[01:01:24.140 --> 01:01:31.340]   but I wouldn't, for example, do anything below 10 seconds still in an infinity block, because
+[01:01:31.340 --> 01:01:36.060]   there just needs to be a little bit of time that the the physical object really is without any
+[01:01:36.060 --> 01:01:42.540]   movement in there. You know, if you just, you know, people ask, you know, if I if I have a ring and
+[01:01:42.540 --> 01:01:49.020]   I'll just, you know, put something in there real quick, and then take my hand out, that that's not
+[01:01:49.020 --> 01:01:55.020]   charging the ring, because, you know, that that really doesn't have much of an effect. So you
+[01:01:55.020 --> 01:02:01.820]   would have to have something in there stable just for a moment, at least. So so it doesn't mean that
+[01:02:01.820 --> 01:02:07.260]   you should just charge things now for one second. So I don't know, maybe that would even be possible,
+[01:02:07.260 --> 01:02:14.700]   but yeah, I would, I would not worry too much about that. I would keep worrying about metals,
+[01:02:14.700 --> 01:02:19.260]   just keep that in mind, just try to reduce it. We honestly really can't tell you exactly
+[01:02:19.260 --> 01:02:27.340]   if you have an IB7 or you, in this case, with an eight, just need to follow your own intuition.
+[01:02:28.140 --> 01:02:32.460]   I'm sorry. No, that's not what I was thinking. I just because I know you don't have one of every
+[01:02:32.460 --> 01:02:36.620]   single one, and then sit there and test that one to death and then go to the next one. And, you know,
+[01:02:36.620 --> 01:02:40.780]   there's just no time for that. So it's just a matter of intuitively, but it's good to know that
+[01:02:40.780 --> 01:02:45.740]   it's not linear. So even if I have an eight, if I wanted to use it to top off, let's say I make
+[01:02:45.740 --> 01:02:49.980]   something and I want to top off 10 seconds, right, and I should be good, because that'd be like
+[01:02:49.980 --> 01:02:54.700]   treated like any other IB. But the key is don't leave it in there for like two days or something.
+[01:02:55.180 --> 01:03:03.820]   Yeah. And you can put it in and then the eight, I'm sure for 30 to 40, 45 seconds to top something
+[01:03:03.820 --> 01:03:10.700]   off. And that may be great and fantastic, frankly. And it may be better than just 10 seconds.
+[01:03:10.700 --> 01:03:16.300]   You just want to make sure that the metal you're topping off hasn't been at the edge of overcharging
+[01:03:16.300 --> 01:03:21.980]   already. And then you're absolutely good to go. Like again, it's, yeah. And the three minutes that
+[01:03:21.980 --> 01:03:27.340]   we always talk about is also on the cautious side, right? Because we know sometimes people
+[01:03:27.340 --> 01:03:32.620]   then run over and then they're at four. And okay, then, you know, so we,
+[01:03:32.620 --> 01:03:38.460]   we were a little bit on the cautious side and it's still something to keep in mind though.
+[01:03:38.460 --> 01:03:43.260]   Okay. All right. Okay. So, you know, we're coming up on the top of the hour and I cannot believe
+[01:03:43.260 --> 01:03:49.980]   how fast our conversation is going a little bit more. Yeah. So let's find it. Yeah. So if you don't
+[01:03:49.980 --> 01:03:55.180]   mind, let's go ahead and finish the last piece of the charging questions. And then we'll get into
+[01:03:55.180 --> 01:04:03.900]   the frequency. Sorry. You have time for part three to do. There's no way, you know, it's like,
+[01:04:03.900 --> 01:04:08.060]   if you look at the slides here, guys, yeah, we haven't even gotten a frequency copying,
+[01:04:08.060 --> 01:04:13.100]   but because there's so many questions coming in about just charging. But let's, if you want,
+[01:04:13.100 --> 01:04:18.460]   let's go ahead and finish these last three slides on charging. I don't think we can even get into
+[01:04:18.460 --> 01:04:23.900]   EMF, but then let's do it part three. And, and I think that would be a really good tutorial, right?
+[01:04:23.900 --> 01:04:28.300]   One part one, two, three, how to use blocks because it's a lot more than you could cover it
+[01:04:28.300 --> 01:04:33.740]   literally in one or two hours. But all right. So just want to throw that out there. Okay. So,
+[01:04:33.740 --> 01:04:40.060]   the next, the next, the next question, I got three slides about separating the plates.
+[01:04:40.060 --> 01:04:44.460]   So one of the things I do want to make sure in this tutorial that you, if you, that if you have a
+[01:04:44.460 --> 01:04:48.380]   block and you're going to charge something so big, you've got to take the rods off,
+[01:04:48.380 --> 01:04:53.820]   what's important? And so, you know, so the high idea though is that you have to keep
+[01:04:53.820 --> 01:04:58.940]   the plates aligned. Greg Phillip, it's because if you have the plates that are not aligned,
+[01:04:58.940 --> 01:05:04.620]   like this diagram right here, what happens is the charging space is only where the, where the
+[01:05:04.620 --> 01:05:09.340]   plates align. So you've then decreased the space by which you're charging. Is that correct?
+[01:05:10.700 --> 01:05:15.500]   Yes, that is correct. But I want to tell people also, you know, you don't have to worry about,
+[01:05:15.500 --> 01:05:21.260]   like, you know, half an inch of change or something like that, because the energy will find its way
+[01:05:21.260 --> 01:05:28.380]   to the other half of the block. So it's, it's okay if it's not, you know, you don't have to,
+[01:05:28.380 --> 01:05:35.180]   it doesn't need to be perfectly aligned, right? If it's a little off, you're good.
+[01:05:35.740 --> 01:05:40.940]   There's no worry. But yeah, don't be fully off. You know, like, maybe your picture really shows
+[01:05:40.940 --> 01:05:45.900]   it like completely off. So that's not the best way to do it. Right. So if it's off by just a
+[01:05:45.900 --> 01:05:51.660]   little bit, it's okay if, you know, so this would still work, but you couldn't be where you're like
+[01:05:51.660 --> 01:05:57.420]   way up here. And this one's way down here. That just would not work, right? Yeah, it wouldn't work
+[01:05:57.420 --> 01:06:01.580]   that great indeed. Okay. All right. So that's good to know. So everybody, when you separate
+[01:06:01.580 --> 01:06:07.820]   your plates, and then from a standpoint of distance, I know that the cube block, you don't want to
+[01:06:07.820 --> 01:06:20.060]   exceed what 15 feet, right? Five meters? Is that I think that's what we tested. What is that? Yeah,
+[01:06:20.060 --> 01:06:26.780]   it's about 13, 14, 15 feet. You don't want to extend that and put the infinity block.
+[01:06:28.060 --> 01:06:35.340]   I would say you can probably go up to six meters at least, but maybe you just want
+[01:06:35.340 --> 01:06:42.620]   to keep it at five meters too. We honestly haven't tested anything larger than five meters. So my
+[01:06:42.620 --> 01:06:50.860]   guess that it would not be a problem, but I just don't know. Okay, so just say recommended max
+[01:06:50.860 --> 01:06:57.260]   distance is going to be 15 feet for both, just as a precaution, just so that, you know, it's what
+[01:06:57.260 --> 01:07:01.900]   we know, I guess is, right? Okay, so that's important to know, everybody is, you know, 15 feet, which
+[01:07:01.900 --> 01:07:08.220]   is big enough to, I mean, it's far enough apart where you could charge a car, not vertically or
+[01:07:08.220 --> 01:07:12.860]   not lengthwise, but sideways. Okay, so then the idea here, so I just want to, by the way, in regards
+[01:07:12.860 --> 01:07:18.700]   to a car, if you want to charge a car, put a picture of your car in the block and see what it does.
+[01:07:18.700 --> 01:07:26.060]   It's pretty cool. Again, it's not as if you're doing the physical charging, but you get stuff out
+[01:07:26.060 --> 01:07:31.420]   there, energies out there from the production process and stuff like that. And it's nice.
+[01:07:31.420 --> 01:07:35.420]   It's really nice. Oh, so okay, I totally forgot about that. You're right. Okay, so,
+[01:07:35.420 --> 01:07:40.620]   yeah, instead of going through the hassle of trying to physically charge your car or your house
+[01:07:40.620 --> 01:07:48.620]   or your office, put a picture of it. There you go. Okay, so I pulled some picture out. I pulled
+[01:07:48.620 --> 01:07:53.100]   some photos out of the chat. I just wanted to share what people are doing so that, you know,
+[01:07:53.100 --> 01:07:58.860]   because the only problem with T.G. or Telegram is that any time you post anything, it's gone in
+[01:07:58.860 --> 01:08:03.660]   five minutes, right? So I wanted to share some stuff, which is like, this is one of my favorite
+[01:08:03.660 --> 01:08:09.340]   photos. I think it was Desiree and her dogs, and it's so cute, but she's got her dogs here,
+[01:08:09.340 --> 01:08:13.340]   and you see how she's got her two plates, and they're vertically, you know, they're aligned,
+[01:08:13.340 --> 01:08:17.260]   and then they just got the dog sitting there. So that's one way to do it. We had another individual
+[01:08:17.260 --> 01:08:25.180]   post this picture right here, where they built some kind of PVC pipe contraption by their window,
+[01:08:25.180 --> 01:08:29.180]   and they've got a plate down here, and then right above it, which is aligned, right?
+[01:08:29.180 --> 01:08:33.660]   They've got their other plate, and they go in there. It's like a little shower or a little
+[01:08:33.660 --> 01:08:38.700]   closet, and it's their charging station for a full-body charge. So that's one way to keeping
+[01:08:38.700 --> 01:08:43.900]   the plates aligned and then separating them. Other pictures are people who have, you know,
+[01:08:43.900 --> 01:08:49.660]   customize their own rods to give them more space, and then charging their bodies horizontally like
+[01:08:49.660 --> 01:08:56.300]   this, which is putting two rods on one side. Other folks are just taking off one plate,
+[01:08:56.300 --> 01:08:59.340]   you know, here you go, leaning against the pillow and the other ones on the coffee table,
+[01:08:59.340 --> 01:09:03.820]   and they just sit there, you know, and then so we've got these pictures as well. I think the key
+[01:09:03.820 --> 01:09:09.900]   thing to note is when you separate the plates on an I.B. is you need to maintain and keep these
+[01:09:09.900 --> 01:09:13.660]   nuts in between, you need a space between the plates, correct Phillip?
+[01:09:13.660 --> 01:09:19.580]   Yes, that's absolutely correct, and this was a very smart one here with, you know, the,
+[01:09:19.580 --> 01:09:26.460]   how do you call it the zip? Yeah, the zip ties. Zip ties, exactly, and so some people do
+[01:09:26.460 --> 01:09:31.820]   it like that, and then someone asks, "Hey, could you produce this screw?" That basically would cover
+[01:09:31.820 --> 01:09:40.940]   this area and would make things easier, and we're actually producing the first batch of those
+[01:09:40.940 --> 01:09:47.100]   currently, so we'll have those hopefully soon, and yeah, that should make it a little bit easier
+[01:09:47.100 --> 01:09:55.420]   really to do this. Okay, perfect. So until those, so it's going to be a bolt that'll hold the three
+[01:09:55.420 --> 01:10:01.740]   together without a rod, right? Yes. Okay, so the easiest way to do it right now is to use a zip
+[01:10:01.740 --> 01:10:07.500]   tie on one end, leave the rods on the other side, you have two rods on one,
+[01:10:07.500 --> 01:10:12.860]   you know, on one plate and two rods on the other plate to kind of like, you know, hold them up,
+[01:10:12.860 --> 01:10:16.700]   and then using zip ties, and so that way you can kind of put it on two different,
+[01:10:16.700 --> 01:10:21.900]   and here's an example of, you know, someone who put it on two stools, and then they sit in between
+[01:10:21.900 --> 01:10:26.780]   them, you know, so these are examples of how to separate the plates to charge, physically charge,
+[01:10:26.780 --> 01:10:31.740]   larger objects that don't fit into the eight centimeter space, or eight, I think it was eight,
+[01:10:31.740 --> 01:10:36.860]   right, or 16 centimeter space in between. So there you go. So that's how you would separate the plates,
+[01:10:36.860 --> 01:10:41.980]   and you know, what people are doing, and it works. Okay, so we're going to wrap this up. Thanks
+[01:10:41.980 --> 01:10:47.100]   to everyone, by the way, for being so creative and also sharing these pictures and how you do
+[01:10:47.100 --> 01:10:55.180]   things. It's valuable, it's fun, and for everyone, you know, everyone gets inspired by that, so keep
+[01:10:55.180 --> 01:10:59.900]   doing that. Yeah, yeah, keep caring. Please, please, please. So anyway, I know Phillips got a run,
+[01:10:59.900 --> 01:11:04.700]   so we're going to wrap up part two. Mahalo, thank you so much for your time. I think, you know,
+[01:11:04.700 --> 01:11:10.140]   these tutorials are going to be invaluable, and anytime someone buys a block, or before you even
+[01:11:10.140 --> 01:11:14.140]   buy one, you know, watch these tutorials, because we're going to go into a part three, where we're
+[01:11:14.140 --> 01:11:19.180]   going to talk about what we're going to get into EMF, and talk about frequencies, and so forth,
+[01:11:19.180 --> 01:11:24.860]   or how to copy frequencies to get really in depth about that. In part three, sorry, sorry, we couldn't
+[01:11:24.860 --> 01:11:30.380]   cover it now, but as you had just listened, there's so much content, and it's so valuable. I don't
+[01:11:30.380 --> 01:11:35.180]   want to skip anything. So thanks a lot for your time, Phillip. Thank you for watching everybody.
+[01:11:35.180 --> 01:11:39.900]   Now, for anyone who wants to get ahold of us, you know, we do have the Quantum Power Group on
+[01:11:39.900 --> 01:11:45.420]   Telegram. It's our private group, and the joint link will be in the video comments below. We've
+[01:11:45.420 --> 01:11:51.660]   got over 2,500 members now in our group, jumping in, sharing, asking questions, helping each other
+[01:11:51.660 --> 01:11:56.300]   out. It's like one of the best communities I've ever been on, and when it relates to social media,
+[01:11:56.300 --> 01:12:01.580]   it's just an amazing group of people. A lot of love, a lot of aloha. And then for me, I'm at
+[01:12:01.580 --> 01:12:06.060]   the Tinkers Academy. If you want to reach out, I've got a lot of content on Quantum Energy,
+[01:12:06.060 --> 01:12:13.340]   and a lot of information about Layla specifically. So come over to Tinkers Academy, link below.
+[01:12:13.340 --> 01:12:16.140]   If you want to get ahold of me, and if you want to get ahold of Phillip, just pop over at
+[01:12:16.140 --> 01:12:21.420]   Telegram at the Quantum Power Group. So that's how you reach us. Otherwise, Phillip, thank you
+[01:12:21.420 --> 01:12:26.460]   so much for your time this morning. I really appreciate it. Thank you, Kay. This was great,
+[01:12:26.460 --> 01:12:33.020]   and thanks everyone, listening. We're looking forward to part three. Okay. Thanks everybody.
+[01:12:33.020 --> 01:12:33.660]   A lot.
+

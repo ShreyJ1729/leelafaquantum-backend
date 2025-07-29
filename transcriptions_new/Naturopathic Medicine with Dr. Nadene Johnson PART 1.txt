@@ -1,0 +1,562 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:25.940",
+        "text": " Aloha, everyone and welcome to another Tinkers Academy video. I'm your host, Kay Elmer, and in this video, I would like to share with you a great discussion I just had with Dr. Nadine Johnson, who is a doctor of naturopathic medicine practicing in the state of Illinois here in the USA. She holds a doctorate in naturopathic medicine from the National University of Health Science."
+    },
+    {
+        "start": "00:00:26.240",
+        "end": "00:00:49.560",
+        "text": "She's also board-certified as a naturopathic physician in the state of Illinois, and also holds a master of science and acupuncture and a license to practice acupuncturists, or is a licensed acupuncturist, also in the state of Illinois. And we had the most fascinating discussion about what is naturopathic medicine? You know, how does it work? What's it all about?"
+    },
+    {
+        "start": "00:00:49.880",
+        "end": "00:01:17.720",
+        "text": "You know, how would you, you know, go ahead and and give it a try if you've never tried naturopathic medicine before, and what to expect, and all of that. And that's covered all in part one here. Now there's going to be a part two that goes off into another great series of topics that we chatted about, but I just wanted to kind of share with you a little bit about Nadine and just this wonderful human being who's made it her life's goal to help and help others, you know with their health and their"
+    },
+    {
+        "start": "00:01:17.720",
+        "end": "00:01:46.160",
+        "text": "wellness and and this discussion is part one is a great place to start if you're new to naturopathic medicine, and then to also hear some of these remarkable healing stories of some of the people that she's helped with on their healing journey. So, you know, so go ahead and let's go ahead and start the interview right now, and thanks for joining. Hello everyone, and welcome to another Tinkers Academy video. I'm your host, Kay Almer, and I have got the incredible privilege and just"
+    },
+    {
+        "start": "00:01:46.320",
+        "end": "00:02:11.520",
+        "text": "wonderful opportunity to interview Dr. Nadine Johnson, who is a doctor of natural path, or what I'm sorry, doctor of I'm so I didn't mean to butcher that, but natural pathic doctor, but how do you like describe your doctor of what's the phrase for that? Yeah, natural pathic medicine. Natural pathic medicine, and I just, you know, thank you for joining me."
+    },
+    {
+        "start": "00:02:12.280",
+        "end": "00:02:40.360",
+        "text": "Nadine's been a longtime member of our telegram chat group and a great contributor in terms of just when people have questions about, you know, I mean, you know, stuff that I can't even answer. I haven't done the research, but, you know, more so it's better to ask her and some of our other healers, and I just want to say thank you for joining me, and I'm taking this opportunity to learn about naturopathic medicine, and got my newbie at this. I'm learning each different segment, you know,"
+    },
+    {
+        "start": "00:02:40.360",
+        "end": "00:03:06.040",
+        "text": "I'm good at some and kind of a complete newbie at others, and just like kind of like what's your journey, and what is this all about? So I guess the first thing I'd like to do is just say, you know, welcome, Aloha, and thanks for joining me, and, you know, could you kind of explain, you know, like, you know, like, just overall general, what is naturopathic medicine? To someone who's just like, you know, that doesn't have a clue what that is."
+    },
+    {
+        "start": "00:03:06.840",
+        "end": "00:03:35.880",
+        "text": "Okay, yeah, so thank you so much, Kay, for this opportunity to talk to you. I really appreciate it. So naturopathic medicine is really just medicine without drugs or surgery. That's the basic thing. If you think of the medical profession and doctors along a continuum, you know, at the far, far one in, there's medical"
+    },
+    {
+        "start": "00:03:35.880",
+        "end": "00:04:03.720",
+        "text": "drug and medical doctors, then in the middle, there's kind of functional medical doctors, and then the far other end is naturopathic. And we are trained, I was trained in medical school, so I actually have the same training as a naturo, an NP or a physician's assistant or a nurse practitioner, but we get training in nutrition,"
+    },
+    {
+        "start": "00:04:04.440",
+        "end": "00:04:35.080",
+        "text": "homeopathy, physical therapy, all kinds of supplements, diet, and we get trained in all kinds of physical medicine. So all the modalities that we use are all natural, even though we may use a lot of supplements that maybe aren't, you know, you can't go out and find them, you know, in the ground, but compared to using drugs and surgery, they are natural."
+    },
+    {
+        "start": "00:04:35.080",
+        "end": "00:05:02.520",
+        "text": "So we can take, you know, a person who comes in with any kind of thing, usually they're really complicated and look at it and look at the body holistically. So we'll look at things with all the systems that are connected, whereas in allopathy, they, you know, it's always one system at a time. If you've got a heart problem and go to the cardiologist, if you've got a"
+    },
+    {
+        "start": "00:05:02.520",
+        "end": "00:05:29.000",
+        "text": "joint problem, you go to, you know, the joint doctor, you know, if you've got an endocrine problem, it's an endocrinologist, but we look at things holistically, I look at, well, so how's this endocrine issue affecting the joints? Because it is. How is this affected by their diet? How's their gut affecting, you know, their endocrine system? Because it is. Everything is connected. So"
+    },
+    {
+        "start": "00:05:29.000",
+        "end": "00:05:55.080",
+        "text": "we take like a really big vision and narrow it down to that one person and work through, you know, different methods that are very gentle to accomplish, really, you know, a total health. Does that kind of make sense? Yeah, that doesn't make sense. I mean, okay, so allopascis for folks that aren't familiar with"
+    },
+    {
+        "start": "00:05:55.080",
+        "end": "00:06:20.680",
+        "text": "the term is a standard American medical association, certified physician that you would find in a hospital or a medical practice, usually your GP, right? A general practitioner. And then, of course, that's the one those are the people that are tied to the health insurance system. And that is what is considered modern medical health care. But I think you bring up a really good"
+    },
+    {
+        "start": "00:06:20.680",
+        "end": "00:06:47.720",
+        "text": "point though, is, you know, first of all, a human being is an entirely, you know, complex system of different things going on. And you're right, you know, you just, it's not one thing. It's like, if you ever had to debug, debug any, I'm from a technology background, you know, whenever I had the debug technology, it was never what you thought it was. It was always because everything's connected and they're all talking to each other. So I'm sure, you know, certainly the body's the same way. But"
+    },
+    {
+        "start": "00:06:47.720",
+        "end": "00:07:12.040",
+        "text": "my point though is that the things you listed out, you know, understanding nutrition and diet and all of these other aspects of a person's health in addition, in terms of trying to, I guess, evaluate their health or their condition, right? Is I know that I know for a fact that allopaths come out of medical school with almost no education. I think they're nutrition if they"
+    },
+    {
+        "start": "00:07:12.040",
+        "end": "00:07:38.440",
+        "text": "they go to school for eight years on average, right? And how much of those eight years is spent understanding nutrition? Not even a few hours. Yeah, or the bioelectrics, you know, the concept of a biolectric. Oh, none. Right. None. Right. So they don't take classes in that. They take, I don't know. No, they get no education and vaccines either. Yeah. So you look at the whole person then. So,"
+    },
+    {
+        "start": "00:07:38.440",
+        "end": "00:08:04.920",
+        "text": "so like, I was kind of reading your website and understand that. So you're an actual board certified in your state, right? So you're actually not not only doctor from education, but I guess there's like 21 states in the country that certify natural paths. And so in some states that they may not necessarily be, quote, licensed, but you've actually gone the full route and you've got a"
+    },
+    {
+        "start": "00:08:04.920",
+        "end": "00:08:32.760",
+        "text": "practice and you're practicing in Illinois, is that correct? Yes, that's correct. So, so the tricky thing about the term naturopath is that there are two sections of naturopath. There's naturopathic physicians who are trained in a medical school and have gone through years of clinical work like I have, and they are licensable in a state that licenses those type of physicians."
+    },
+    {
+        "start": "00:08:32.760",
+        "end": "00:08:58.440",
+        "text": "And then there are traditional naturopaths who have not gone to medical school, but they still have good, you know, they still might have good training. It just may be online classes. It may be in-person classes, but it's not medical training. So it's a little confusing because you can be a natural path and not have gone through medical school. Okay. So like, so on your FAQ here, you kind of"
+    },
+    {
+        "start": "00:08:58.440",
+        "end": "00:09:27.800",
+        "text": "got there's a difference between a naturopathic doctor and a natural path. Okay. So when people are seeking out, let's say, you know, the majority of Americans are probably fed up with the health care system. I don't think anybody doesn't know that it's broken. Try to go get an appointment, try to get some help, you get five minutes with somebody, and they walk in, ask you three questions, give you drugs and walk away. So, you know, it's common sense that it's this, and then this whole"
+    },
+    {
+        "start": "00:09:27.800",
+        "end": "00:09:55.160",
+        "text": "concept of, okay, take these and if you're not better, come back the next week. Yes, you know, that's like, there's a joke, right? That's quite, quote, they call it a practice. They're experimenting on you. Yeah, try this and if it doesn't work. I mean, you know, it's like, hey, can you imagine taking your car in and they'll go, okay, try this, give me some money and see if this works. Sure. If the car doesn't work next week, bring it back. Oh, car doesn't work again"
+    },
+    {
+        "start": "00:09:55.160",
+        "end": "00:10:21.960",
+        "text": "next week. Give me some more money. Try this and, you know, would you put how many times would you go back to the car repair shop before you start wondering, maybe you need another mechanic. And so, okay, so I'm really curious. So, like, I was looking here at your credentials, like, so what does it take? I mean, yeah, because you mentioned you had that you're at the same level of a PA, so that, so there's a lot of academics, so there's a bachelor's, the master's, and then you"
+    },
+    {
+        "start": "00:10:21.960",
+        "end": "00:10:48.520",
+        "text": "had to go to a separate school. Is that how that works? Yes. Because I see you got a master's of science and acupuncture as well. And so, is acupuncture required to be a naturopath? Or is that an extra thing that you added on to your credentials? So, that's, so that's, that's an extra thing that I added on. Okay. Some states, I don't know, I don't think anybody requires it, but it, it dovetails"
+    },
+    {
+        "start": "00:10:48.520",
+        "end": "00:11:14.200",
+        "text": "really well with naturopathic medicine. So, a lot of us do have acupuncture degrees, and we use that under our naturopathic doctor licensure. Okay. Because I'm not licensed as an actual physician in Illinois, I rely a little bit more on my acupuncture license. Okay. Okay. And so, and, and"
+    },
+    {
+        "start": "00:11:14.200",
+        "end": "00:11:43.640",
+        "text": "is that kind of, and so, you know, there's also doctors of chiropractic medicine and homeopathy, but I'm thinking homeopathy is not necessarily like a licensed thing. Is that, okay, and then chiropractic is, so that's another branch of, quote, healthcare, right, is chiropractic homeopathy. Okay. I'm sorry, naturopath. All right. So, yeah, it seems like there's, there's a lot of study in it, and how many years have you been in, in, in doing this line of work?"
+    },
+    {
+        "start": "00:11:43.640",
+        "end": "00:12:12.680",
+        "text": "Jeez. Well, since I graduated from school, it's been five years, but it was, I was like seven years in school. So, yeah, medical school is no joke. Yeah, I might, well, yeah, I guess I mentioned on my videos and stuff, my daughter's currently attending vet school. Oh, you know, and so she's, she's, I'm just so proud of her. I love to brag, but she's currently going to Mizzou"
+    },
+    {
+        "start": "00:12:12.680",
+        "end": "00:12:39.560",
+        "text": "as in a grad program there. And, you know, and it's funny that, you know, I'm, I'm kind of like anti-allopath, but here's my daughters and allopath for animals. But, you know, but, but she gets it. And then art, our running thing is that once she graduates and gets her, you know, whatever she's gonna do, we're definitely, she wants to open up a practice. And I said, well, give me, I said, give me a room in that, in that practice where I can then I'll be your, now be your"
+    },
+    {
+        "start": "00:12:39.560",
+        "end": "00:13:05.640",
+        "text": "alternative healing pet healing for pets, right? Because they've got acupuncture for pets. They've got all sorts of stuff. And I, I'm like, hey, I'll bring in the cold lasers. I'll bring in the, you know, the, you know, multi-wave oscillators. I'll come in with the seniors, you know, because I've actually treated my pets with those types of devices with great success. And she's like, yeah, I'll give you a room, dad, and you can be the office manager. Love it. You know, so yeah,"
+    },
+    {
+        "start": "00:13:05.640",
+        "end": "00:13:31.800",
+        "text": "absolutely. So she gets it. And she's, she's really, you know, in, you know, Hawaiian word is, there's a word called Akamai, which means you're, you know, you get it, right? She's really Akamai about that. But, you know, a couple of other interesting questions that I have, because I've never spoke before, you know, to a doctor of naturopathic medicine. But so, okay, so there's a lot of education, you're licensed in your state. And then so, but are you part of the insurance world?"
+    },
+    {
+        "start": "00:13:31.800",
+        "end": "00:14:01.800",
+        "text": "Because in the past, you know, like, I got, I guess I know many, many, many years ago, I just was fed up with having back problems my whole life. And I'd gone to chiropractics and I've gone to orthopedics and so forth. And at one point, I wanted to go to, I just wanted to try it. And this is how I was introduced to traditional Chinese medicine. And so, so I went to an acupuncturist in Honolulu. And then my insurance wouldn't cover it. I mean,"
+    },
+    {
+        "start": "00:14:01.800",
+        "end": "00:14:26.840",
+        "text": "so is that, is that a common problem for, for folks? I mean, is that like, when people have health insurance, can they go to you or, or it's it going to be out of pocket? Because I know sometimes chiropractics, you, you can cover. So how does that work? You know, in terms of health insurance and your, your profession? Yes, yes. So that's a no thing. So I have one toe in the insurance world,"
+    },
+    {
+        "start": "00:14:26.840",
+        "end": "00:14:57.560",
+        "text": "and it is a painful one. I can accept, accept, accept insurance for, for acupuncture with some plans. And they pay pretty well if they cover acupuncture. They don't cover naturopathic medicine, because it's not licensable in the state. So I get a lot of people who ask me, you know, does naturopathic medicine is that covered by insurance? And I have to say no,"
+    },
+    {
+        "start": "00:14:57.560",
+        "end": "00:15:26.520",
+        "text": "and thank goodness, because if it was, they would try to tell me how to what to do. Yeah. They would try to control the care. Now, in other states, where a naturopathic doctor is licensed, it often is covered by insurance. And I don't think there's really an issue with care, but you know, I'm a little bit absent and stubborn. And I want to do. Yeah, really."
+    },
+    {
+        "start": "00:15:26.520",
+        "end": "00:15:56.440",
+        "text": "And so I want to do what I want to do. And, you know, if I think somebody needs this particular care, you know, then that's what I'm going to prescribe for them. So, and I don't want anybody to tell me, no, you can't do that, or no, I'm not going to pay for it. So, so that's, so that's a really nice thing. So it's a hit or miss, right? Yeah. And people where you live. Yeah. And people, people don't under, you know, they, they don't like having to pay"
+    },
+    {
+        "start": "00:15:56.440",
+        "end": "00:16:25.000",
+        "text": "for their health care, or they're just not used to it. So it just depends on what state you're in, whether it may be covered by insurance or not. But it's not here in Illinois from naturopathic care, but it is for acupuncture. Oh, yeah, that's, you know, it's, it's, yeah, I don't want to go off on a tangent about how health care insurance is such a huge scam thing. But okay, I was just"
+    },
+    {
+        "start": "00:16:25.000",
+        "end": "00:16:53.880",
+        "text": "wondering, because I know that, you know, it's, it's problematic, right, for people, because of the expense. And I had to pay out of pocket. And I love this one question here on your FAQ about does acupuncture hurt? I've done it a lot. And I could tell you, you don't even feel it. It's just the strangest thing for someone to put little needles in you. And you don't, you don't even feel it. You were watching them do it. And you don't, you don't feel what they're doing. It's just really strange. I know. But yeah, I'm sure you get that. But people want to know they think,"
+    },
+    {
+        "start": "00:16:53.880",
+        "end": "00:17:22.760",
+        "text": "they think you're putting a big hypodermic needle into your body. You know, no. It was teeny tiny. Yeah, yeah, it is. It's really, really, really, really small. So okay, so now that we kind of got, you know, got that intro behind us, I just would, I'd like to understand the methodology. You know, I mean, you've kind of described it in general, in terms of looking at the, at the body as a whole living system, and everything's interconnected. So you evaluate the whole thing. But my, my first"
+    },
+    {
+        "start": "00:17:22.760",
+        "end": "00:17:47.720",
+        "text": "question is, I'm really such a nerd about how things work. But like, like, can we just start out, like, how do you diagnose, you know, because my experience with an acupuncturist, which, you know, was, was they just would look at, I mean, they had, there was this, this Chinese lady, and, and very respected, you know, in Honolulu, she was actually the dean of Chinese medicine at"
+    },
+    {
+        "start": "00:17:47.720",
+        "end": "00:18:13.080",
+        "text": "University of Hawaii. I don't know how I lucked out, but I ended up with her. And, and we got along great, because I was always asking tons of questions, I was so interested in what was going on. And she actually invited me to sit in and I did audit some classes, because I was so interested in what was going on. But she would basically, the whole tongue thing, you know, like stick your tongue up, you know, like, she would look at my, and she would talk about me in terms of like, heat and"
+    },
+    {
+        "start": "00:18:13.080",
+        "end": "00:18:42.120",
+        "text": "cold and, and dry and wet. And, you know, and I didn't really understand what she was talking about. But she did some amazing things to, to my body that helped me so many different ways. It was just unbelievable, which is what really sold me on. Hey, there is another way to seek out health care. And, but I think the thing was was, I don't know, like, are you guys like gifted, like, with a touch? Because she could touch me, and then start telling me about myself. Like, she, you know,"
+    },
+    {
+        "start": "00:18:42.120",
+        "end": "00:19:11.320",
+        "text": "touch the wrists and the neck. And, and that was so it's just like, how do you, is that, you know, like, what's that part about your, your diagnosis? Because I know if you go to a medical doctor, they're just going to quote run tests. And it's going to be like, jing, jing, jing, jing, jing, you know, and I always look at it like it's their cash cow. This is how they're getting, you know, it's like, like going to like, again, take your card and mechanic and I got to do this test and this test and this test is going to cost you, you know, 40, 30 bucks each. But you know, so, but"
+    },
+    {
+        "start": "00:19:11.320",
+        "end": "00:19:40.120",
+        "text": "that doesn't happen, right? When you, when you work with someone like yourself. So like, how is that diagnosis? Like, if you kind of describe, like, what do you do, you know, how do you find out what's wrong with someone? So are you talking mostly about Chinese medicine diagnosis versus, how about, how about this? Like, if you, if like, like myself, I've never actually consulted a naturopath. I've only done Chinese traditional medicine. And in terms of something that's an"
+    },
+    {
+        "start": "00:19:40.120",
+        "end": "00:20:03.560",
+        "text": "alternative. And of course, all the stuff that I do myself, I've never actually worked with anybody that does bioelectric, I know chiropractors build it into their, you know, practices like PMF and things like that. So I've done all that myself, did all the research, and I'm a big huge DIY guy. And the only time I've reached out, outside of alopas is with, with Chinese. But, and I was"
+    },
+    {
+        "start": "00:20:03.560",
+        "end": "00:20:33.160",
+        "text": "really just amazed at how she diagnosed me. So, and so I'm just kind of wondering, like, in the world of somebody comes to you, you know, because like, I'm a total noob at this. So if I come to you and say, look, pick a problem, you know, like, constipation, let's pick that up. And what, where do you start? Or like, Oh, kidney stones, I just had a kidney stone and that's a good one too, right? Or I can't sleep, you know, any of those kinds of issues, I guess they're all individually different,"
+    },
+    {
+        "start": "00:20:33.160",
+        "end": "00:21:02.760",
+        "text": "but like, what's what's the general approach? I'm trying to understand, like, what do you start with, and then how do you do it? So that's a great question. So technically, because I'm not licensed, I can't actually diagnose somebody with, you know, say an ACD, you know, 10 code or whatever it is. Not ICD 10, but, you know, I technically can't make a diagnosis, but I take what people bring"
+    },
+    {
+        "start": "00:21:02.760",
+        "end": "00:21:31.160",
+        "text": "in, like, they'll come in and they'll say, well, the doctor says I've got this, like, oh, okay. First, I will do an extremely detailed health history. I'll look at labs, although labs are not the most important thing to me, they're just like numbers. I ask a ton of questions, and I'm really, really good at listening, and plus, I'm really good at critical thinking and using my intuition"
+    },
+    {
+        "start": "00:21:31.160",
+        "end": "00:21:57.080",
+        "text": "to make connections that people don't realize. I have had things come up. I mean, it's just amazing. I really rely, I know this sounds kind of woo-woo, but I rely on my intuition with the universe to leave me where this particular patient needs to go, and it's never failed me yet,"
+    },
+    {
+        "start": "00:21:57.080",
+        "end": "00:22:27.960",
+        "text": "ever. And then, and I will always do a physical exam because, yes, touching a person, no matter what, because I've been a massage therapist for 16 or 17 years, I have intuition in my fingers, and I absolutely rely on that as well. It tells me things on a level that I don't even know. So, I know that sounds kind of out of the box, and woo-woo, but it actually works really,"
+    },
+    {
+        "start": "00:22:27.960",
+        "end": "00:22:50.920",
+        "text": "really well in practice, and things just come out, and I will pick up on something and let, let my intuition guide me with the questions. And typically, what I will look for is something where they have been never well since. You know, it's like, you know what,"
+    },
+    {
+        "start": "00:22:50.920",
+        "end": "00:23:17.480",
+        "text": "maybe an accident, it might be a trauma, it might be a childhood thing, but if I can find that, then that will inform treatment. You know, that will make a difference because we might focus on, oh, it might be something in the brain, it might be a PTSD thing. We might need to do primitive reflex exercises, you know, maybe they were traumatized as a baby."
+    },
+    {
+        "start": "00:23:17.480",
+        "end": "00:23:44.120",
+        "text": "So, it's just this wide open thing that, you know, I get scared when people come in, really, because I'm like, can I do it? What if I can't do it this time? You know, what if, what if I can't figure it out? But every time something leads me down a rabbit hole with that particular person. And it's just kind of like magic. So I pull together all the medical knowledge"
+    },
+    {
+        "start": "00:23:44.120",
+        "end": "00:24:11.880",
+        "text": "that I've got. All right, so sorry about that little interruption. You're right in the middle of explaining your diagnoses project process, and you're like, it's magic. And I think that's where we got cut off. Yeah, I was going to ask, yeah, you know, I was going to ask you those, like, because that's exactly what other people are, you know, because I'm really starting this, really focused on health and healing on the YouTube channel and blog. And, you know, as I speak to"
+    },
+    {
+        "start": "00:24:11.880",
+        "end": "00:24:39.880",
+        "text": "more and more healers, and I really want to keep doing this, because you folks are such amazing beings, it's the same. It's the same with so far, I've only done, you know, three interviews of other healers. And it's all the same. All of you are saying almost the same thing. And I think that's where the quantum aspect comes in, you know, this intuitive, you know, like when your bio fields combine, right, your bio fields connect with each other. We're all connected in the quantum"
+    },
+    {
+        "start": "00:24:39.880",
+        "end": "00:25:05.640",
+        "text": "field. But when you actually, you know, when your bio fields are in met, you know, immersed with each other is when the communication really starts happening and your intuition kicks off, and an intuition is definitely a gift. So it sounds like, you know, that's, that's kind of part of the process that you actually do have a gift. Yeah, it definitely is a big part of it. And it did take me a while, number one, to realize that and number two to actually"
+    },
+    {
+        "start": "00:25:05.640",
+        "end": "00:25:36.440",
+        "text": "use it and then to actually rely on it. And I now tell my patients upfront that I don't know everything. And so I asked the universe to bring in exactly what you need for a treatment. And it's never failed me. And they usually understand that because it's a form of prayer. So do people, do people seek you out after they've kind of like, I guess, had a negative experience"
+    },
+    {
+        "start": "00:25:36.440",
+        "end": "00:26:02.120",
+        "text": "or failed experience with their traditional doctors? Or are they, I mean, how many, like, what would be the percent of people who come to you straight off the bat, you know, with an issue as opposed to people who are just like, they can't get help. They just can't get what they need. And they're like seeking something and alternative anything, you know, because they're so frustrated or desperate. I mean, what's that percentage? The majority, the majority are the ones who are"
+    },
+    {
+        "start": "00:26:02.120",
+        "end": "00:26:31.560",
+        "text": "desperate and have been through the medical mill, and they can't find answers, or it's getting worse, or they're just at the end of their rope. There are a few, I'd probably say maybe a third who are natural, who've always been natural, but who just need more guidance. But the vast majority have been through, you know, or they've had an epiphany like you and said,"
+    },
+    {
+        "start": "00:26:31.560",
+        "end": "00:27:02.200",
+        "text": "I'm done with that system. I need more help, you know, in a natural way. Yeah, yeah, I can see that. I think that's a lot of it too. And I moderate different channels on Telegram, and they're all related to health one way or another. And it seems that the majority of people coming into those different chat groups or, you know, the different things are, they've kind of like seen the light, you know, like, I'm not going to get any help from these people. I need, you know, like other isn't there, you know, is there an alternative?"
+    },
+    {
+        "start": "00:27:02.200",
+        "end": "00:27:31.000",
+        "text": "And they're doing their own research. And so, yeah, I think I definitely see that. So, okay, so from a diagonal, because I just like, I'm just, I'm really curious about the diagnosis aspect. So thank you for explaining that. It does make a lot of sense to me, because, you know, what I've also been doing, you know, I think in one of my recent videos, I did a deep dive on meridian stress assessments, also known as bioranogenic diagnoses, right? And I found that to be quite"
+    },
+    {
+        "start": "00:27:31.000",
+        "end": "00:27:57.160",
+        "text": "fascinating because there's actually devices that can, can, you know, do diagnoses that are based on the actual Chinese traditional medicine, you know, the flow of meridians, you know, so they, you know, it's kind of interesting how Western doctors have adopted the concepts and practices of Chinese traditional medicine. And they've created devices to do with people like yourself can do naturally."
+    },
+    {
+        "start": "00:27:57.160",
+        "end": "00:28:25.000",
+        "text": "Right. Right. So, actually, I've always been interested in that particular one, the EAV. Yeah. Elic, Elic throws something something according to vol. I've just never settled on the machine. Yeah. Well, the actual, yeah, going off on a tangent, there's actually a deck, a deck of vol. Yeah, that was, yeah, I was doing one on the device that the BESA Institute uses and they have,"
+    },
+    {
+        "start": "00:28:25.000",
+        "end": "00:28:53.560",
+        "text": "they actually had their own created, they have their own proprietary machine that they use. There's other ones out there. I think there's another one called Bioscan. But yeah, these are kind of like quantum devices where they just tap into you and then using a, I guess, you know, just using electrical current trying and measuring the changes of the current through your meridians can determine positive, negative, or neutral health. And then, of course, depending on what"
+    },
+    {
+        "start": "00:28:53.560",
+        "end": "00:29:20.520",
+        "text": "meridian you're looking at, then tells them what the, you know, what, where in the body the issues are. And that's another approach. And I know that our good friend, Mandy, can't go this interview without just mentioning her, the lovely being, this beautiful soul on our planet. She's, she and I are really into the, you know, the tenant biomodulator, the, you know, Jerry, Jerry Tenant stuff. And her and I swap, you know, we're like swapping education materials"
+    },
+    {
+        "start": "00:29:20.520",
+        "end": "00:29:49.560",
+        "text": "because I got my whole setup and then she got her whole setup. And so we're kind of like trading materials. And she went to the conference, I think, and yeah, she didn't. And then she shared her stuff with me. And it's just, so that's another way to do it as well. It's measuring the body voltage. And I think Dr. Jerry Tenant has himself immersed himself deeply into the concepts of Chinese traditional medicine and using all of those concepts have kind of took off and created his whole healing, his voltage, you know, you know, concepts and things like that"
+    },
+    {
+        "start": "00:29:49.560",
+        "end": "00:30:18.760",
+        "text": "philosophy. So yeah, that's that's fascinating. It all ties together, right? Yeah, absolutely. Body is much more than just one thing at a time. It's an entire living breathing system. So now for people who have, have, let's say, never been to a naturopathic doctor, they go in, they get basically interviewed. I'm, do you encourage them, hey, bring in whatever you've got your lab tests, your extraction, you know, just, you know, it's just a tiny part of it,"
+    },
+    {
+        "start": "00:30:18.760",
+        "end": "00:30:46.040",
+        "text": "but you know, do you tell them to bring it in if they have it? Because I'm sure you probably get cancer patients who are kind of at their wit's end, right? And they probably all these numbers and reports and things like that. So, so do you, so you said that it's a little bit of what you do, it's not necessary, but do you ask, ask people to bring it in and just bring in whatever you got, or is that, or do you like to start from scratch? And you don't want to, you want to kind of just take it from, you know, just start from scratch and take it from there."
+    },
+    {
+        "start": "00:30:46.040",
+        "end": "00:31:13.960",
+        "text": "No, I like them to bring in the labs that they've got, the imaging that they've got, because I look at it a little more functionally than their doctor would. And I can almost always pick out things that their doctor is not addressing, didn't notice, or isn't concerned about. And you know, I'll often have people bring in imaging, like their MRI results, or x-ray results, and"
+    },
+    {
+        "start": "00:31:13.960",
+        "end": "00:31:39.320",
+        "text": "I can translate it for them from the doctor's, you know, and explain to them what's going on in their body, and what their doctor meant, and what it actually means, you know, with the imaging. And that's a huge thing, because people, you know, because the doctors don't explain, they don't take the time to talk about what's going on in your body, how could this have happened,"
+    },
+    {
+        "start": "00:31:39.320",
+        "end": "00:32:06.200",
+        "text": "and, you know, what might it be related to, and what does, what do those terms and that whole, you know, scenario there that's on that paper, what does that actually mean? And so that's a big relief and a comfort to people that I can kind of explain to them what's going on. So I just kind of offer a different bird's eye view, you know, than the medical profession"
+    },
+    {
+        "start": "00:32:06.200",
+        "end": "00:32:35.880",
+        "text": "might do. I just take way more time, I take way more energy, I actually listen to the people, and I'll talk to them, you know, on their level and say, you know, this is what's going on. If I have to pull out my anatomy books and show them, I will. It makes a huge difference. Oh, yeah. I mean, yeah, it's that man, that is literally a 180 degree difference from all the experiences I've had. I usually, you know, like in when I used to go to Alipass,"
+    },
+    {
+        "start": "00:32:35.880",
+        "end": "00:33:02.920",
+        "text": "I think maybe five minutes, maybe I think the longest I ever spent with anybody was maybe 10 minutes, and they basically, you know, it was just I didn't get any very little information, and, you know, a prescription, and here you go, kind of thing, come back later. So yeah, I think that's definitely makes so much sense to me. So let's just kind of from just an"
+    },
+    {
+        "start": "00:33:02.920",
+        "end": "00:33:31.480",
+        "text": "example for people who are maybe considering, you know, reaching out to a naturopath doctor. First thing is, is how do they find one? Because that was one of the big questions I would, I've been give asked because people who kind of watch some of the electoral healing videos that I make with all these credible, you know, these crazy devices, but then like, okay, well, if I can't afford to buy my own, you know, we're going to multi-wave oscillator, you know,"
+    },
+    {
+        "start": "00:33:31.480",
+        "end": "00:33:58.520",
+        "text": "seniors are not cheap. You know, where can I go and try it? Because that's what I always tell people right now for, you know, just I'm just, I'm more of an advice guy, education guy. But, you know, when people like, hey, I want to, I want to try using that device you just demonstrated. I don't want to try that on, you know, I got a bad knee or something like so, but I can't afford, I don't want to buy the thing. I just want to try it. So, you know, so I'm like, well, that's a good question. Because then how do you find people who are using rife machines, right,"
+    },
+    {
+        "start": "00:33:58.520",
+        "end": "00:34:25.960",
+        "text": "in their practices and things like that? Or how do you find someone who's got a Likovsky or, or whatever, right, or violet rays and all these different really incredible electrical devices. So that's been a challenge, I think, for, for bioelectric magnetics, you know, teaching people how to use that for health. But in your world, how do you find a natural path, you know, a doctor at your level? And where would they go? Is it something as simple as keep Googling until you get lucky or"
+    },
+    {
+        "start": "00:34:25.960",
+        "end": "00:34:53.160",
+        "text": "because, yeah, Google is not necessarily friendly now to anyone who's not a elephant in terms of finding information. I see that and I'm going to have to address that eventually. You can't actually find me by Googling it because I'm at the top of my thing in my area, because I'm one of the few ones in my area. But anywhere in the United States,"
+    },
+    {
+        "start": "00:34:53.160",
+        "end": "00:35:16.200",
+        "text": "you would probably start with the state professional naturopathic organization. Oh, okay. You know, you know, there's always, oh, almost always one in every single state. There's a national organization, AANP, National Association of Naturopathic Physicians,"
+    },
+    {
+        "start": "00:35:16.200",
+        "end": "00:35:47.480",
+        "text": "which can point you to your state. But not all naturopaths are registered with AANP. So it's kind of tricky in some cases, but, you know, you definitely start, you know, Googling with naturopathic physician, you know, or state licensed or, you know, so it is kind of tricky. Okay. Yeah. Okay. So I've got like, so there's an American Association of"
+    },
+    {
+        "start": "00:35:47.480",
+        "end": "00:36:14.520",
+        "text": "naturopathic physicians and they might have a, I guess they've got like a finder, find a doctor thing here. Okay. Okay. So that's one way to doing it. Yeah, because, okay, all right, that's good. And then so that's how you would find someone in your area and would you have any, you know, because you've been doing it so long and I'm sure as in any industry, right, there's good apples and bad apples and, you know, is there anything you want to kind of like, would share with someone"
+    },
+    {
+        "start": "00:36:14.520",
+        "end": "00:36:43.080",
+        "text": "and say, hey, you know, if you're in, if you're looking for someone, this is what you would look for to find someone who's qualified or experienced or reputable, you know, is there any kind of advice you would give someone along those lines on how to pick the right one or how to find the right person? Well, you're fine to doctor thing right here. So find a doctor. If they're on this list, does that kind of mean they're vetted? So that means that they have gone through actual medical"
+    },
+    {
+        "start": "00:36:43.080",
+        "end": "00:37:11.960",
+        "text": "school with the clinic and are licenseable, which means you've taken national boards. So the tricky thing is, is that some of the traditional naturopaths will call themselves board certified, and that's a clue that they've never gone through medical school. So the certification should be from, you know, the state and national level. There's, I forget what"
+    },
+    {
+        "start": "00:37:11.960",
+        "end": "00:37:41.720",
+        "text": "it's called, the College of National something, something that licenses all the naturopathic schools. So you kind of need to be able to see what their training is and what their credentials are, but that see, that doesn't mean that somebody who hasn't, hasn't been, you know, to medical school isn't good in their particular area. You know what I'm saying?"
+    },
+    {
+        "start": "00:37:41.720",
+        "end": "00:38:06.440",
+        "text": "Yeah. It's really kind of confusing. Right. Yeah, that's kind of what my first question always, you know, whenever I'm dealing with anybody is like, what's your credentials? Like, what do you really, you know, you know, just, but yeah, I just, I looked up my zip code and there's only one person in my whole town. Wow. Yeah, that's amazing. But at least there's the one I should reach out to that person. Yeah, absolutely. Yeah. So, you know, kind of joked about it once in our"
+    },
+    {
+        "start": "00:38:06.440",
+        "end": "00:38:34.680",
+        "text": "telegram chat group, where I wanted to start like a wellness center. And I'm still thinking about it, you know, I would just love to hook up with like-minded individuals and just and leverage each other's skills and talents, you know, just to help people. That's just my purpose at this point in life. But okay, so, so that's kind of how you find someone. So that website, again, is the American Association of naturopathic positions. There's a find a doctor"
+    },
+    {
+        "start": "00:38:35.560",
+        "end": "00:39:03.240",
+        "text": "section here. And then you would, again, you know, just take a look at their how long they've been doing it. And of course, their credentials and depending on what state don't get caught up and whether they're licensed, because some states don't, right? And so forth. Okay. All right, that's how you find someone. So then can we just talk about some, like, just some cases, you know, like, like, I would love to hear some of your success stories. Because I think that's the thing,"
+    },
+    {
+        "start": "00:39:03.240",
+        "end": "00:39:33.160",
+        "text": "but I think the biggest thing that I know from all the experiences I've had trying to help people, myself included is that the first step is overcoming that fear, you know, of having to take responsibility for my health when when you come to that realization where you get so frustrated because you haven't shown any improvement for so long with your doctor. And then usually, you know, what people normally do switch doctors, you know, so when I was in Honolulu, I had, I think"
+    },
+    {
+        "start": "00:39:33.160",
+        "end": "00:40:02.920",
+        "text": "maybe five different doctors through the my HMO where I just finally said, you know, and so this kind of like it's really silly where you just keep kind of, you know, it's like, it's, you go to, you go to it, you know, you just keep going back for more, you know, whatever you want to call it, but no results, no results, no results, whatever the problem might be. And then after a while, you just like, okay, I, you know, you want to just instead of switching doctors, quote, in that, in the medical field, why don't you switch different types of doctors, you know, doctors that are"
+    },
+    {
+        "start": "00:40:02.920",
+        "end": "00:40:31.320",
+        "text": "skilled and other things. So I, you know, I just want to hear like, what would be when that person finally makes that decision and says, you know, man, this is not working out. This is not working out. My child is not getting better. And you know, these terrified mothers, you know, they, that you, you talk with right there that they're just, you know, when your kid is not getting better of whatever their problem is, it's terrifying. And that's the worst feeling you could ever have as human being, is when your kid's sick, and you can't get help. I'm sure you see that a lot."
+    },
+    {
+        "start": "00:40:31.320",
+        "end": "00:41:00.040",
+        "text": "And so, so they overcome that fear, that fear of I'm going to try something outside of my, you know, just just absolute outside of my reference. So they would say, I'm going to try a different kind of doctor, a naturopathic doctor, or a Chinese traditional medicine doctor, or et cetera, right? When they come to you, and they've kind of crossed that, you know, that fear boundary of, I'm going to take responsibility for my own health. I'm going to go and check out something else,"
+    },
+    {
+        "start": "00:41:00.040",
+        "end": "00:41:27.400",
+        "text": "make that decision. Of course, everybody around them's going, no, that's not a good idea. Their health insurance is going, no, we don't cover it. You know, I mean, can you talk a little bit about I mean, do you, do you encounter that where people are just, you know, I mean, or is that just, is that's just I'm making that up in my own head? And that's not, that's, it's not that complicated. No, no, but what are you, what are you asking the question? My question is, is, you know, like, okay, first of all, what's that trigger that gets people to reach out to naturopathic doctors?"
+    },
+    {
+        "start": "00:41:27.400",
+        "end": "00:41:56.920",
+        "text": "And it's kind of, you know, like what draws them to you, we kind of covered that earlier, right? About two thirds of them are just frustrated. And it just takes that bit of courage. I'm just mentioning it because it really was a huge deal in my life when I took that stand and said, look, no more, no more of this and fired my doctor. And I went down the organic path. And then when they come to you, can we talk about like just some real life case studies of people that have come to you and they're just at their wit's end? And, and, and what did what happened? I mean, you know,"
+    },
+    {
+        "start": "00:41:56.920",
+        "end": "00:42:19.880",
+        "text": "like you have any stories that pop up in your head about certain things that were just at their wit's end, they came to you and, and then all of a sudden, you know, things just started getting better. Yeah, so one of my recent patients who came in a young man who has had diabetes for 30 years,"
+    },
+    {
+        "start": "00:42:19.880",
+        "end": "00:42:48.600",
+        "text": "had a heart attack. And he had open source on his feet. And he had been to the doctors, you know, and they tried to put him on all these meds. And he refused. And he basically dumped all the drugs and started going keto and fasting and looking at all the herbs. And he got himself pretty far."
+    },
+    {
+        "start": "00:42:48.600",
+        "end": "00:43:16.520",
+        "text": "But when he came to me, he couldn't get the blood flow. It was compromised to his feet. And so we're now working on the blood flow to his feet. And I'm using my ITERRA care wand, which is, you know, frequency. I'm using PEMF. We're using herbs and diet. And his, and he also"
+    },
+    {
+        "start": "00:43:16.520",
+        "end": "00:43:40.360",
+        "text": "went to a podiatrist. And because he threw some things that we talked about, figured out that he's not walking correctly on the bones of his feet. And so he got a boot. And it's made a huge difference. So we've only seen a little bit of progress so far, but he seemed to be well on his"
+    },
+    {
+        "start": "00:43:40.360",
+        "end": "00:44:00.680",
+        "text": "way to healing. So that's just one small part. So another young lady who came to see me was having huge migraines and really a lot of problems with her gut. And so"
+    },
+    {
+        "start": "00:44:00.680",
+        "end": "00:44:28.120",
+        "text": "we've been doing a lot of actually myofascial unwinding and some energy hands-on energy work. But, you know, things, so I gave her things like magnesium. We worked with hydration. We worked with diet a little bit. But then we reached a point where she was actually having more gut issues and"
+    },
+    {
+        "start": "00:44:28.120",
+        "end": "00:44:50.760",
+        "text": "things were happening. And we're not progressing. And right at the same time, I was studying oxalates and doing my little rabbit hole deep dive into that. And I just said to where I said, like, you know, let's start looking at oxalates, because he was eating a lot of tofu and citan. I think"
+    },
+    {
+        "start": "00:44:50.760",
+        "end": "00:45:18.280",
+        "text": "that's how you pronounce it. That weird meat substitute. Yeah, that weird meat thing. She's eating a lot of textured vegetable protein, which is soy. And I said, why don't? Yeah, I know right. I'm a meat girl. That's a massive endocrine disruptor, right? Yeah. And so I said, well, let's look at, let's just try, you know, getting off of those, get off as many of the really big"
+    },
+    {
+        "start": "00:45:18.280",
+        "end": "00:45:44.280",
+        "text": "oxalate things, you know, no spinach, no almonds, and no fake meat. And it was like, within a few weeks, her gut was perfect. And she felt, yeah, way more energy that headaches reduced. So she's, I mean, she's just like, almost, she's, I'd say 80%, 80, 85% better."
+    },
+    {
+        "start": "00:45:44.280",
+        "end": "00:46:14.120",
+        "text": "She refuses to get off her birth control, though. So I can't, I can't do anything with her, because her hormones are related, her migraines are related to our hormones. And I basically told her straight up, I can't, I can't adjust that until you get off of those. And you know, your hormones, your migraines, we're only going to be able to do so much about that, you know, because they're hormonal related, and you're on a drug for that. But that's one of,"
+    },
+    {
+        "start": "00:46:14.120",
+        "end": "00:46:42.760",
+        "text": "one of the best and fastest turnarounds I've seen diet-wise. Now, the other thing, so I'm a big mineral and full of a cuminic acid and dirt person. Any kind of clay, dirt, mud, minerals, I'm all about it. So I had this one, actually my massage therapist husband, she wanted him to come in and see me. Of course, you know, she had already mentioned a few things"
+    },
+    {
+        "start": "00:46:42.760",
+        "end": "00:47:07.800",
+        "text": "about me. And one of the things she said was, it's last naturopath fired him. Oh, I'm like, oh, great. Yeah, it's a good start. Yeah. I'm hard to work with on them. I want to let you know ahead. Right. Right. At least they have a warning. They should have a, you know. Yeah. Yeah, yeah. She had clued me in with some things about his family of origin and his birth that, you know,"
+    },
+    {
+        "start": "00:47:07.800",
+        "end": "00:47:32.760",
+        "text": "I stuck in the back of my head. And when we, he came in and we met, I went over all, that was a long, that was a two-hour appointment going over all the things and asking him every single question I could think of. And I started going down the rabbit hole of things that had happened. He was born with drugs in his system. And so I basically explained what happened to him neurologically when"
+    },
+    {
+        "start": "00:47:32.760",
+        "end": "00:47:57.000",
+        "text": "he was born and how that affected him and how that's affecting him now. And we pulled together all kinds of brain things, birth order things, you know, how you were born in that trauma, family of origin trauma, linked it to adrenaline, adrenals, a diet issues going on right now,"
+    },
+    {
+        "start": "00:47:57.000",
+        "end": "00:48:21.880",
+        "text": "along with mood disorder. And it was like, boom, light bulb. And I put him on minerals and some brain mushrooms and, you know, working on his diet some and the first appointment when he came in. Number one, it was a big win. He was actually taking the supplements. So I was thrilled."
+    },
+    {
+        "start": "00:48:21.880",
+        "end": "00:48:48.360",
+        "text": "Number two, he said, within days, he felt a shift. And I got to say, that's one of the best responses I've ever seen. And it was mainly to the minerals. He was so mineral deficient that just giving him minerals made a huge difference. Yeah, you're hitting on every single thing that"
+    },
+    {
+        "start": "00:48:48.360",
+        "end": "00:49:18.040",
+        "text": "I'm just passionate about. Yeah, the whole mineral thing. Well, that concludes part one of this remarkable discussion I had with Dr. Nadine Johnson. Thank you again for joining Nadine. And also, thank you everyone for staying and watching this video. It's just been, it was a remarkable discussion. And so now I want to say thank you. Thanks for watching. If you wanted to reach out to me, or you can find me at the Tinkers.academy, just type that into your URL window. And that"
+    },
+    {
+        "start": "00:49:18.040",
+        "end": "00:49:46.360",
+        "text": "goes right to my blog. Also, you know, really, if you like the content that I'm providing, then, you know, really appreciate it. If you'd like, subscribe to my YouTube channel. Now, again, you know, I did cover in the video on how to reach Dr. Johnson, you can reach her at thrivenaturallywellness.com. And also, you know, I'll put the links in the video description below, if you wanted to reach out to her. And again, you know, she's very much open to consultations. So if you had any questions specifically for her, just go to the video description to find"
+    },
+    {
+        "start": "00:49:46.360",
+        "end": "00:50:15.080",
+        "text": "contact information for her. And if you wanted to reach me, I got my contact info in there as well. So again, you know, thank you so much for spending time watching this video. And I hope you can go on and watch part two that's coming along here shortly, where we're going to really get into the part two of the discussion was where we really started talking about all of the really important things you should be doing for the core processes of your body that dictate your health. And we went into it in quite detail about, you know, everything from"
+    },
+    {
+        "start": "00:50:15.080",
+        "end": "00:50:42.840",
+        "text": "mineralization to thyroid glandular health and so forth. So, you know, I basically picked her mind on what it really takes to be at optimum health and wellness, you know, for your own basic, you know, survival. And so she was so gracious to share her time to, you know, just and give me her thoughts and her experience, you know, given all the years and years that she's been doing this and giving me her best tips and advice and what products that she uses and that she recommends"
+    },
+    {
+        "start": "00:50:42.840",
+        "end": "00:50:52.280",
+        "text": "to her patients. So really that was this part two, be sure to watch it. But thank you for watching part one. And have a great day. Aloha."
+    }
+]

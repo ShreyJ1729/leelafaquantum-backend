@@ -1,0 +1,362 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:27.440",
+        "text": " Aloha everyone and welcome to another Tinkers Academy video. I'm your host K Elmer and this video is a product review of Beck Zappers otherwise known as Bob Beck Zappers and/or Blood Electrifiers for the purpose of blood electrification. So I've got several of these things myself. I wanted to share with you the differences between them, explain the basics on how to use it and where you"
+    },
+    {
+        "start": "00:00:27.440",
+        "end": "00:00:55.600",
+        "text": "can get yours. So if you're interested in that material, let me just jump in real quick and throw some disclaimers at you. This video is absolutely not medical advice, blah, blah, blah, no affiliation. Oh, and I have no affiliation with any products mentioned. I don't sell them. I don't, I don't affiliate for them. But there are some cautions you should be aware if you're going to decide to do the Beck protocol and or just doing blood electrification all by itself. The first thing is,"
+    },
+    {
+        "start": "00:00:55.600",
+        "end": "00:01:24.240",
+        "text": "you know, it is a microcurrent device. So anytime you use anything that's going to put electrical current and voltage into your body, if you have electrical implants, don't do it. Okay, there's just absolutely no reason to take a risk. If you've got a device inside your body somewhere that runs on electricity, you certainly don't want to be zapping yourself with electricity in the event that you could possibly hurt and or damage whatever's in you. So just that's just absolutely not recommended."
+    },
+    {
+        "start": "00:01:24.240",
+        "end": "00:01:53.040",
+        "text": "The other thing too, there's just not enough research. And the fact there's no research that I've ever seen about using blood electrification devices and parasite zappers on pregnant people and people in super ill health who just don't have the ability to to manage a detox reaction. And now also too, the scars are problematic with current flow in the body. Just be aware of that. Now from a standpoint of probe placement, this only comes into play if you decide to get creative. But if you"
+    },
+    {
+        "start": "00:01:53.040",
+        "end": "00:02:16.240",
+        "text": "stick with the standard risk placement, you should be fine. And the other thing too about the zappers is that there's an issue called transfection that you really need to be aware about. Bob Beck was very adamant and very vocal about being cautious of this issue. And what that means simply is that when you pump electrical current into your body, specifically into your blood, I mean, even more so"
+    },
+    {
+        "start": "00:02:16.240",
+        "end": "00:02:40.880",
+        "text": "in your blood, what it does is it creates a situation called electroporation of your of your cells. And what that means is that it's it basically think about it this way, you know, a ping pong ball versus a golf ball. Okay, how a ping pong ball is completely smooth all the way around. That's that's an analogy of what any one of your cells is. And the and the exterior of the ping pong ball"
+    },
+    {
+        "start": "00:02:40.880",
+        "end": "00:03:08.400",
+        "text": "obviously is your cell wall now or membrane. Now the the thing about electricity is when it actually when you're subjecting your body to electricity, this thing, this this action called electroporation occurs. And it basically causes divots in your cellular membrane. Okay, and then so then it starts to look like a golf ball with all these little divots in it. And every one of those little divots"
+    },
+    {
+        "start": "00:03:08.400",
+        "end": "00:03:37.040",
+        "text": "in your cell membrane is a thinning of the membrane wall. And what that allows or what that causes is that anything that is in your blood or anything that's in your lymphatic system that's that's going to come into contact with that cell or those cells that have been electroprated is going to be able to get inside that cell a lot easier because the membranes are thinned out. That's that's my elevator pitch for that. In other words, what Bob Beck recommended was don't take pharmaceuticals,"
+    },
+    {
+        "start": "00:03:37.040",
+        "end": "00:04:03.920",
+        "text": "don't take strong supplements, don't take don't take anything within an hour before and several hours after zapping because it because your cells are able to absorb much more from their environment to give you an example that I believe he stated in one of his lectures that, you know, if you drink one beer and while you're zapping, it's like drinking 10 beers. And so in that goes with"
+    },
+    {
+        "start": "00:04:03.920",
+        "end": "00:04:30.400",
+        "text": "everything that's going to be in your bloodstream. So be very careful about pharmaceuticals, alcohol, anything else you could have in your body one hour before and two hours after until the electroporation effect of your cells diminishes and you go back to normal. So it's called transfection and take it seriously. Now for best results using microcurrent devices, which includes zappers is optimal hydration and mineralization is required. This is electricity."
+    },
+    {
+        "start": "00:04:30.400",
+        "end": "00:04:59.520",
+        "text": "And you know, if you're not well hydrated, you're not well mineralized, the electricity just won't flow very well or as well in your body. And so you just want to be an optimal condition for, you know, conductivity, electrical conductivity. And you just want to be hydrated and mineralized. Okay, last thing to is when you're using probes, electrodes on your skin in any form or any, you know, manner whatsoever, you want to have clean skin, you want the absolute less or the least"
+    },
+    {
+        "start": "00:04:59.520",
+        "end": "00:05:27.920",
+        "text": "amount of, you know, of, I guess, barrier between the probe and your skin. Okay, so just having it clean. And also having clean probes, make sure your electrodes are clean. If you have metal electrodes, it's really good just to take a scrubby and polish them up and get the, you know, get all that tarnish off of them. Other probes don't need that. But if you're using metal probes, definitely keep them clean and remove the tarnish. Again, you don't want anything, you want the"
+    },
+    {
+        "start": "00:05:27.920",
+        "end": "00:05:51.840",
+        "text": "least amount of stuff between the actual electrode and your skin. So make sure your probes are clean and your skin is clean. Now in terms of what is a back zapper, for those of you who aren't aren't familiar with it, I did an entire, I did two entire videos about the Bob Beck protocol and specifically about, and one that was specifically about blood electrification. And that's what it is."
+    },
+    {
+        "start": "00:05:51.840",
+        "end": "00:06:21.040",
+        "text": "A back zapper is a blood electrifier for the purposes of blood electrification. And what, and there's a whole science behind it. There's a couple of guys in the Einstein, some Einstein hospital or something in New York. I forget it's in the video. Anyway, these two guys discovered that in their, and they did a patent on it, and then Bob Beck took it and developed and commercialized it. But the idea was quite simply, is that, you know, these scientists discovered"
+    },
+    {
+        "start": "00:06:21.040",
+        "end": "00:06:46.800",
+        "text": "that when you subject your blood to a certain level of voltage, a certain level of milliamps current or like mill, you know, millicurrent, you know, microcurrent, right, and, and frequency, that the effect on pathogens was a, was it, it didn't kill them, it stunned them. And in, in this so that they were not able to then go and affect yourselves. In other words,"
+    },
+    {
+        "start": "00:06:46.800",
+        "end": "00:07:15.200",
+        "text": "it's like a stun gun on pathogens, it disables them, and then your, then your body then naturally then would flush it out, like it normally would, like, you know, your, your blood gets clean through your liver, etc, you know, your lymphatic system and urinary system and all that is going to then purge all that stuff out. So it was originally designed now to treat HIV. This is what Bob Beck decided to do was he originally designed this to treat HIV because this was back in the 80s,"
+    },
+    {
+        "start": "00:07:15.840",
+        "end": "00:07:42.320",
+        "text": "when HIV was the, you know, was the pandemic of the day, and it worked really, really, really well. He actually spent a lot of money. He went outside of the US, did clinical trials all by himself, came back a ton of data. Unfortunately, he never published that data, but he clearly stipulated that, you know, he had done multiple clinical trials with HIV patients to try to, you know, help them because at the time there was nothing to treat these guys, if you're, if you're old enough"
+    },
+    {
+        "start": "00:07:42.320",
+        "end": "00:08:09.200",
+        "text": "to remember. And so he was very successful at it. And numerous HIV patients were cured using the Bob Beck protocol as, as, as a whole protocol. But this particular thing, the zapper, is simply one step of the multiple steps of the protocol. But you can, and this is the thing about blood electrification is I use mine all the time just by itself. And I only do the whole protocol"
+    },
+    {
+        "start": "00:08:09.200",
+        "end": "00:08:36.960",
+        "text": "if I ever get sick, which I rarely get sick. So I just kind of just do just, I just do blood electrification all the time. And I do it specifically now, more so just to fight off an infection, if I were to have some small wound, or large wound as well. And I also do it for detoxing. So that's what it does. It eliminates the pathogens in your blood, and it does it, and it does it really well. And so when I mean pathogens, I mean bacteria, viruses, molds, fungi, you know, if you have ever"
+    },
+    {
+        "start": "00:08:36.960",
+        "end": "00:09:03.280",
+        "text": "looked at videos of people's bloods, you know, there's a lot more floating around in there than just the blood cells, right? There's a white blood cell and a red blood cell. Well, all that other stuff that you see in the video of, you know, when you're doing dark field microscopy, that's all pathogens. And so this is what will get rid of that. So a lot of people who have mold issues, this is a perfect modality to use in terms of blood electrification to detox from that mold."
+    },
+    {
+        "start": "00:09:03.280",
+        "end": "00:09:30.160",
+        "text": "I highly recommend that. Now, as I mentioned, fighting infections, I have been using Beck's zappers for almost 20 years. And I've used it every single time when I would have otherwise gone to an alopath and been prescribed antibiotics, which I do not take. And 100% of the time, I have absolutely cured any issue that I've had with an infected wound. And even an abscess,"
+    },
+    {
+        "start": "00:09:30.160",
+        "end": "00:09:59.440",
+        "text": "you know, like you'd get an abscess in your tooth or something, which I've done. And so, yeah, this works 100% of the time for me. I don't take antibiotics. Instead, I use the zapper. It's a drug free, no side effect approach towards fighting infections. And also, again, it's great for pathogen detox, which is what I primarily do now. So that's what this zapper does. It does blood electrification. It is one part of a multi step Beck protocol. And it is an incredible"
+    },
+    {
+        "start": "00:09:59.440",
+        "end": "00:10:24.160",
+        "text": "tool that I really highly recommend everybody look into and have one at home. They're not that expensive. And they do remarkable at what they're supposed to do. So now, let's talk about the different types of Beck zappers. Now, there's three basic types of zappers. And one is just the single purpose. All it does. And this is a couple of examples of single purpose Beck zappers."
+    },
+    {
+        "start": "00:10:24.160",
+        "end": "00:10:52.560",
+        "text": "And the prices you'll find today out there online. And what it does is what these devices do, their single purpose. They only do blood electrification. And using the schematic that Dr. Bob Beck had created, which by the way, he open sourced it. He didn't want the pharma companies to grab it, put a patent on it, and then, you know, and then hide it from the world and or charge people, you know, hundreds of dollars for the treatment. Instead, he open sourced it. He"
+    },
+    {
+        "start": "00:10:52.560",
+        "end": "00:11:17.680",
+        "text": "lists. He came up with the idea. He invented the device. He threw it out there on the internet for anyone to build. And so you've got a lot of independent people building them. And you've also got companies who completely commercialize it as a product. So if you get a quote, if you look at one of these things, and it's got a single jack and it just does Beck zapping, then that's all it does is blood electrification. It's a single purpose zapper. Now, there's a thing called a"
+    },
+    {
+        "start": "00:11:17.680",
+        "end": "00:11:47.120",
+        "text": "dual purpose zapper, which is what the Beck protocol, you know, it kind of was meant for the Beck protocol specifically, instead of just for blood electrification. And one really good example of that is a product that I'll show you in the demo video in a second called the soda instruments silver pulsor. Now that silver pulsor was the original one. It runs around 295, but they have now as of last year, they came out with a silver pulsor light model. And that sells for 150. So"
+    },
+    {
+        "start": "00:11:47.120",
+        "end": "00:12:12.480",
+        "text": "it's a really great bargain in terms of, you know, being able to get an actual Beck protocol zapper. And what I mean by that is that part of the protocol is to, you know, is to take total silver while you're zapping. And so what these dual purpose zappers do is it not only provides the blood electrification, you know, feature, but it also has a feature. So you can use the same zapper"
+    },
+    {
+        "start": "00:12:12.480",
+        "end": "00:12:41.200",
+        "text": "to create your clodal silver before you start zapping so you can combine the two. So you basically have a Beck zapper combined with a clodal silver maker. And that's the dual purpose. And there's also this other one called the combos. Now, because you know, it's it's open source, people have been building these things for years. And so they've combined it with other modalities. And so you get end up getting a Beck zapper. That's a con that's a combination of other types of modalities."
+    },
+    {
+        "start": "00:12:41.200",
+        "end": "00:13:09.760",
+        "text": "So here's one right here on the left side. It's this from altered states. Now they've built one. And that it's all a Beck zapper. It's a Bob Beck zapper. But it's also got hold a clock, Clark frequencies, if you're familiar with Dr. Hold a Clark, who's another very famous alternative doctor in the parasite, you know, you know, detox environment. And so she came up with her own modalities, her own she's written several books, all really great stuff, highly recommend."
+    },
+    {
+        "start": "00:13:09.760",
+        "end": "00:13:38.880",
+        "text": "And so her focus was completely on parasites. Whereas Beck was completely on pathogens, which is, you know, so they're they're on the same team, but they came at it from different perspectives. So the hold a Clark zapper has different features or different modes that are specific to parasites now. And that's parasites living everywhere else in your body outside of your blood. So now they've taken altered states is the maker of this model. It's called the bioelectric"
+    },
+    {
+        "start": "00:13:38.880",
+        "end": "00:14:03.840",
+        "text": "pulser. So it does Beck zapping hold a clock, Clark zapping. It does magnetic pulsing. And it also makes the collodal silver generator. And now this is a little bit more pricey. It's 350. For obvious reasons, it's got a lot more features in it. Now there's other combos out there. There's one by a guy they call his line of products is called the para zappers. And then there's this one"
+    },
+    {
+        "start": "00:14:03.840",
+        "end": "00:14:28.400",
+        "text": "here from a company from a guy, his name is Michael Forrester. And he's got three or four different models. And he combines the Beck zapping with other frequencies you can use, including up to and including Clark zapping frequencies. The para zapper is by far the most comprehensive combo out there. And I think it provides up to I think 30 or more. I mean, there's just a whole list of"
+    },
+    {
+        "start": "00:14:28.400",
+        "end": "00:14:52.560",
+        "text": "all of these different modes you could try in terms of zapping, including Beck. And so now you can see where the base model is 176. It goes up to 459 for the most, you know, a comprehensive, you know, device that they sell at that website at the pair zapper website. And then of course you got Mike Forrester is also kind of referred to as dragonfly. And the dragonfly zappers go from 125"
+    },
+    {
+        "start": "00:14:52.560",
+        "end": "00:15:18.320",
+        "text": "to 175. So, you know, it's all really relatively inexpensive, in my opinion. And you've got multiple choices on what you want to do. And so that's when you don't obviously when you're picking a zapper and you want to try one or buy one, you know, you just keep in mind what you know what you need it for. So real quick, though, I do want to point out there's this issue about electroplacement. And so really, you know, it's just this little box, right, you've got a little box or a little"
+    },
+    {
+        "start": "00:15:18.320",
+        "end": "00:15:46.800",
+        "text": "handheld unit. And the way you do it is you just take your, you take your probe, which is just a cord plugs into your zapper, and then you put the probes on either side of your wrist right above your main arteries going into your hand. And then one of the ways that the universe created us was we have two main arteries into our hand, in case one gets severed, your hand still works. It's one of those evolutionary things. And so you want to find both of them, you know, with like taking a pulse,"
+    },
+    {
+        "start": "00:15:46.800",
+        "end": "00:16:13.920",
+        "text": "find them, put the electrode above that, wet the sleeve that it's in, strap it on and turn on your zapper. That's really it. Now this is the way that Beck told everybody to use it. But there's also another way we can put the probe up, you know, just basically place it along this a single arterial, you know, company arterial artery coming into your hand. Okay, but the main thing is this,"
+    },
+    {
+        "start": "00:16:13.920",
+        "end": "00:16:42.640",
+        "text": "the reason he picked this area is it's because it's the closest place on your body, where you can put something on your skin, where the current will pulse through there, not pulse, but be, you know, basically broadcast through your bloodstream. Everywhere else, you know, we're all kind of thick. So right there on your wrist is the closest place where you're going to get the best optimal, you know, zapping of your bloodstream is on your wrist. Now there's also a main artery on,"
+    },
+    {
+        "start": "00:16:42.640",
+        "end": "00:17:11.680",
+        "text": "on your ankle that's also used by some people. So the whole idea though, is this is the basic way of doing it. This is how I do it. But other people have gotten creative over the years. So I wanted to just point that out in terms of they place two probes along along one artery. They place, there's people that do placing one probe on each wrist along the main artery, which is this big one right here near your thumb. There's also people that'll do one wrist and then one on their ankle"
+    },
+    {
+        "start": "00:17:11.680",
+        "end": "00:17:37.280",
+        "text": "at the other artery so that they're doing a pulsing across their entire body, you know. So there's different ways to do it. I just want to point out though that this is the, you know, the basic way, the mainstream way of doing it if you were to refer to that way. And the key thing about the probe placement, you know, obviously is like, hey, if you do one on your leg and one on your wrist, you're a mobile, you're not walking around. I mean, it's, you know, and this comes down to ease of use,"
+    },
+    {
+        "start": "00:17:37.280",
+        "end": "00:18:06.000",
+        "text": "but what's effective is this way. And I recommend it. It just works for me and I've never had an issue with it. So that's that there. Now in terms of trying to pick one out, you know, again, you want to just what's your objective? If you just want to do blood electrification, then, you know, go for a cheap single use model. If you want to do the back protocol, get to do a purpose one, of course, and if you want to do a lot more, you want to tinker around and figure out, you know, try different things, then definitely a combo model will work for you. And so that's there."
+    },
+    {
+        "start": "00:18:06.000",
+        "end": "00:18:33.120",
+        "text": "And then your budget, according, you know, is whatever you can afford. And then the last thing, too, I want to point out, and this is going to be in my demo video coming up, it's just the ease of use. Now all of these different devices, and I have four of them for different models. Now, all of these different devices, you know, they have different accessories, they have different types of probes, they have different conveniences, they have different, you know, model, you know, basically, you know, how to use them, how to use the device. And so there's a huge issue about,"
+    },
+    {
+        "start": "00:18:33.120",
+        "end": "00:19:02.880",
+        "text": "you know, ease of use and maintenance that, you know, that really is comes up. And I cover that in a video. And lastly, too, I do cover one more time, the quality of electrodes, you know, and so it really, really is important that you've got good electrodes. If you don't have good electrodes, they're not going to, you know, zap very well, and the machine and the device won't work as well for you. So there you go. So let's go ahead and go through the demo video and give you some, you know, idea of what the differences are. And then we'll take it from there."
+    },
+    {
+        "start": "00:19:04.080",
+        "end": "00:19:31.680",
+        "text": "Okay, let's talk Beck Zappers or otherwise known as blood electrification, which then resulted in Dr. Beck inventing what he called the blood electrification device. Also, then became the quote Beck Zapper. Its primary purpose is to purify your blood of pathogens. And I've got a whole video explaining how blood electrification works. So these are the devices"
+    },
+    {
+        "start": "00:19:31.680",
+        "end": "00:19:57.920",
+        "text": "that I that I own that I've been tinkering around with. And I just kind of want to walk you through the pluses and minuses of them. So you kind of have an idea if you're out there looking for a Beck Zapper for yourself. These are some choices. Okay. So the very first one here now, this is my oldest one. This goes back, I don't know, 15, 20 years. But this came from a company called Silver Smoke Research. They're no longer around. I'm just sharing this to kind of show"
+    },
+    {
+        "start": "00:19:57.920",
+        "end": "00:20:25.760",
+        "text": "you the evolution. But you know, these were all really designed before they got commercialized, like you'll see in the next couple of other devices. But you know, basically tinker's were basically creating these things at home and selling them on eBay. And so this year, your typical, you know, electronics project box. And he basically put the circuitry in here. And you can kind of see from inside this thing. But there's your breadboard and all the circuitry that the guy made. It"
+    },
+    {
+        "start": "00:20:25.760",
+        "end": "00:20:50.720",
+        "text": "runs on three nine volt batteries. And like I said, I've had this about, I don't know, 15, 20 years. And this is my go to, this is seriously my go to. I love this thing. It's a workhorse. It's never broken down ever. And so I ended up getting a couple of them. And so I took out the circuitry out of the box and I put it in this little satchel, this little bag. And then the reason I did it"
+    },
+    {
+        "start": "00:20:50.720",
+        "end": "00:21:15.360",
+        "text": "was that I could put an arm band on it. So right now, I pretty much use this one the most because I can strap it right to my arm with the electrodes coming to my wrist. And it just allows me to just, you know, keep doing chores and whatever I need to do while I'm zapping. So yeah, this is probably one of the best ones out there. But unfortunately, you can't buy one anymore. But I kind of wanted to show you that, you know, years and years and years have gone by, I've actually ended up making"
+    },
+    {
+        "start": "00:21:15.360",
+        "end": "00:21:40.560",
+        "text": "my own probes. So it just basically uses, and all of them use a, you know, the one eighth inch jack. Now you plug it in, this model itself had the zapper output. And then also it has the for making collodal silver outputs. You can, it's a dual purpose device for both purposes. I've made my own probes over time using just pure silver wire. And of course, you know, the"
+    },
+    {
+        "start": "00:21:40.560",
+        "end": "00:22:10.560",
+        "text": "cord, the, the strap. Now all of the, if you know, all of these electrodes need to be covered with this really disgusting, I probably need to watch cotton sleeve. So this is a piece of cotton, somebody's t-shirt, sewed up into a little sleeve, and you put the probe in the sleeve, wet it down, and then put it in, in, in, in place on your wrist. And then there's this little cheap nut, you know, strap to hold it in. So it's a real rinky dig, Mickey Mouse old school. I think I"
+    },
+    {
+        "start": "00:22:10.560",
+        "end": "00:22:37.200",
+        "text": "don't even, I don't remember paying more than 100 bucks for this, but it works and it works great. So then going to the next model now, this is from a guy, I believe in Slovakia or Romania or something like that. His name is Bosedar. And so when he originally came on the scene about a decade ago, he actually was selling Beck Zapper kits and you could buy the kit. And so I bought one, thinking that I was a electronically assembly gifted enough to go ahead and get a soldering"
+    },
+    {
+        "start": "00:22:37.200",
+        "end": "00:23:06.960",
+        "text": "iron and put it together. And of course, you can see this bag still sitting there after 10 plus years to show you how much I really care about electronic assembly. But anyway, eventually came out with this, which he started actually selling the device itself. And so I called this, you know, there's really no name for it, but the website is like, you know, electronic kit complete because that's how he started selling kits. But then he started selling the completed model. And so I just call this my Bosedar. Now this is a single purpose"
+    },
+    {
+        "start": "00:23:06.960",
+        "end": "00:23:35.920",
+        "text": "Beck Zapper. It's only got one output check and that's just to zap. It works fairly okay. The thing about this is whenever I buy anything, I usually buy two of them, one I keep and one I give to the kids so that, you know, she's been trained. And so I gave her one and hers didn't work. Mine worked. So, you know, this does zap, mind this. So it's got a 50/50 chance of it working. And the thing though, I don't like about this and I don't recommend is because he uses these."
+    },
+    {
+        "start": "00:23:35.920",
+        "end": "00:24:05.440",
+        "text": "So unless you're going to make your own probe, so he gives you these little rust, you know, they end up rusting because it's been 10 years, right? You can see the rest on it. But I guess it's kind of not totally stainless steel if it's rusting or tarnishing. But these are the probes that he uses. So he basically gives you the cord and the probe. And you can see right here that, you know, this is how it fits into the rear end of the little probe. And while it's nice that it's big, right? Because it's a lot easier to work with than just a fricking piece of wire in terms of,"
+    },
+    {
+        "start": "00:24:05.440",
+        "end": "00:24:33.920",
+        "text": "you know, placement on your wrist. The problem is if you notice, it falls out really easy. This thing pops out so easy. It drives me nuts trying to use it because it would constantly unplug and so I just really hate using this one. So I don't recommend the Bozadar. Even though it's cheap, it's like 89 bucks. But maybe that's why you get what you pay for, right? Again, it comes with the little cotton sleeves except he's using felt and the cheap old wrist snap. And that's kind of the"
+    },
+    {
+        "start": "00:24:33.920",
+        "end": "00:24:59.600",
+        "text": "Bozadar. Now, this other one here, this is from a guy called his name is Michael Forrester. And I forgot the name of his website, but it's it's dragonflies in the URL. I'll give all the links in the video description. This guy was interesting. He's another do I DIY build his own in in his house, and he then sells them online. And so the unique thing about this Beck zapper from, I would just"
+    },
+    {
+        "start": "00:24:59.600",
+        "end": "00:25:22.800",
+        "text": "call it dragonfly, Michael Forrester, was that he not only put in the four Hertz, it's 3.95 Hertz for Beck, right? So you get a X number of milliamps. So you just set it at four Hertz right here, DC on, and then turn up the volume, right? It's got those singular Jacks. So it's a single purpose"
+    },
+    {
+        "start": "00:25:22.800",
+        "end": "00:25:47.440",
+        "text": "Beck zapper. But then in this mode, it is a Beck zapper. But he also added on the AC converter in there. So you could try AC if you want it. You can also go 40 Hertz or 10 Hertz. So he kind of added a couple extra frequencies in there. If you want to play around with it, every one of these frequencies have different healing modalities, but four Hertz or 3.95 is is what the Beck zapper does. So this is"
+    },
+    {
+        "start": "00:25:47.440",
+        "end": "00:26:15.440",
+        "text": "what he put out. And for this puppy, geez, I don't remember what I paid for it, but it was it was like 200 bucks or something. The thing about this guy, and the reason that I don't recommend this one either, and it's not a bad device, is just unless you make your own probes. Okay, I recommend if you get this, you make your own probes, because this is what he provides for probes. It's just denim. It's just a square of denim. And look how big this is when compared to your"
+    },
+    {
+        "start": "00:26:15.440",
+        "end": "00:26:40.000",
+        "text": "wrist, right? And so because of this square of denim, you basically take these are the probes instead of using metal, right? You're using a piece of denim, you wet it, put it on your wrist, and then you plug this into the device, and then you then use your little alligator clips, and then you clamp onto that piece of denim, right? And that's it. Now, of course, he did provide"
+    },
+    {
+        "start": "00:26:40.000",
+        "end": "00:27:08.480",
+        "text": "two little denim sleeves if you want to go ahead and get probes, and or buy probes, make probes, right, to be able to use with the device. But if you don't do that, you're stuck with using these, and I'm telling you, I tried it once, and it sucked. It really, it was just, I don't recommend it, because it stings like L, because you are literally zapping your entire wrist instead of two places on your wrist, which is all Beck wanted you to do, and that's part of the protocol. So, yeah,"
+    },
+    {
+        "start": "00:27:08.480",
+        "end": "00:27:34.240",
+        "text": "really dropped the ball on the probe thing, Mike, sorry to say, but you know, it's a good device, this by itself, great device probe, and you need to think that one through, you need to, you know, and you need better, it needs to be better, way better. And then of course, it doesn't even come with a strap, it just, this is it. So, I'm not recommended this one either, because most people want to plug and play, which leads me to the best plug and play out there, the absolute pinnacle"
+    },
+    {
+        "start": "00:27:34.240",
+        "end": "00:27:57.600",
+        "text": "of Beck zappers that you want to get, is called the Soda Silver Pulsor. Now, these puppies back in the day, I think I paid, I don't know, like under 300, but it was up in the high 200s, right? Now, they actually have a silver pulsor light version, which I haven't looked into what the difference is, but it's a lot cheaper now, under 200, the light mop. So, this puppy right here is made by"
+    },
+    {
+        "start": "00:27:57.600",
+        "end": "00:28:26.240",
+        "text": "that guy, Rob, I forgot his last name, but from Soda Instruments, he's actually one of Bob Beck's, you know, you know, acquaintances back in the day, and so he was the one entrusted by Bob to go ahead and commercialize the blood electrifier. So, this is the commercialized blood electrifier that Bob designed, and Rob created. It is also a dual, it is a dual model, dual module, sorry,"
+    },
+    {
+        "start": "00:28:26.240",
+        "end": "00:28:56.160",
+        "text": "dual mode, dual purpose zapper. So, not only can you plug it in, so this is the input jack right here, like there, and that plugs right into this little jack right there, and that's where you get your probes. Their probes are really, really nice. They're basically some kind of plastic wrapped around the metal, so the metal is not touching your skin. Nice touch, comes with the little felt sleeves. Not so fancy wristband, I mean, everybody needs to work on their wristbands, but it works,"
+    },
+    {
+        "start": "00:28:56.160",
+        "end": "00:29:20.480",
+        "text": "but the nice part about it though is this guy right here. The probes are really, really nice, and they don't burn you. And then, of course, the other jack right here, if you wanted to, then this jack right there is for the power, if you want to connect the power, it's the only one that comes with an AC jack. So, if you don't want to use batteries, you can do that. And then this thing can zap and also make collodal silver, and you set it into silver mode, and you would need to"
+    },
+    {
+        "start": "00:29:20.480",
+        "end": "00:29:48.720",
+        "text": "get a different probe for that. It's somewhere in the bag. This is the, this is the little case that it comes in, and silver pulser. And somewhere in this little baggie right in here, I didn't pull it out, is the stuff that you would need to make collodal silver. And so, you can make collodal silver with this. You can do back zapping with this, and the thing that's great about this in addition to these really, really nice probes. And by the way, when you, and the, the reason that this thing is"
+    },
+    {
+        "start": "00:29:48.720",
+        "end": "00:30:15.040",
+        "text": "Velcro is that the sleeves stick to the, to the, to the strap. And I tell you, you know, it's really a silly little thing, but that's a huge deal. That way you're, you know, your, your sleeves aren't slipping around, and they just stay put. Once you fit it to your wrist where you know what you want to put stuff, it, it just stays there. And all you got to do is put it back on, slide the probes in, make sure they're wet, and off you go. It's so easy to use. But the thing again, the other thing I"
+    },
+    {
+        "start": "00:30:15.040",
+        "end": "00:30:40.240",
+        "text": "really love about it is this guy right here, this is the arm band. Now the silver pulser on the back, you see this little hook thing? It hooks right into the arm band. So you don't have to get super fancy like this. It's made for that. So you can wear it on your arm. And let me tell you, you know, when you're doing this thing for two hours, you're going to want to move around, you know, scratch your face, whatever. I mean, it's so helpful to have the ability to wear the zapper because you're"
+    },
+    {
+        "start": "00:30:40.240",
+        "end": "00:31:10.160",
+        "text": "wearing it. You're using it for so long. So I, you know, my go to recommend now that the, you know, the silver smokes are gone. They don't exist anymore. I recommend the soda silver pulser. They're a company in Canada. You can find it on eBay. You can find it on Amazon, shop around. Sometimes you get a really great deal on a used one for, you know, great price. So that's my recommend. They're also, you know, are, you know, there obviously are other manufacturers out there making zappers. These are the ones that I bought. These are the ones that I've tried. And so this"
+    },
+    {
+        "start": "00:31:10.160",
+        "end": "00:31:35.760",
+        "text": "is my opinion. Don't flame me if you, you're the rep for this company. I don't know. Anyway, there you go. That's Beck Zappers. All right. So there you go. So thank you very much for watching the video. Hope this was helpful and educational for you. I know, you know, all of this stuff is kind of confusing if you've never done it before. And probably most people have never even realized there's different types of big zappers. So anyway, I just want to say, hey, thanks. I hope you enjoyed"
+    },
+    {
+        "start": "00:31:35.760",
+        "end": "00:32:03.600",
+        "text": "this or at least got something out of it. If you want to learn more about me, I'm here at the Tingers Academy blog YouTube channel. That's pretty much where I basically put out my content is on my blog in here. I also have a health and healing telegram chat group where we discuss all of this kinds of stuff. I mean, in depth, everything from biological magnetics for healing to you name it. I mean, we covered that in chat group. Everyone's welcome to join. I do keep it private to keep the"
+    },
+    {
+        "start": "00:32:03.600",
+        "end": "00:32:19.760",
+        "text": "scammers out. So there's a link to the chat group below in the video description, along with a link to my blog. And if you do like this type of content, I'd appreciate it. If you would like and subscribe, it helps to support the channel. So anyway, thank you very much, guys. Have a great day. Aloha."
+    }
+]

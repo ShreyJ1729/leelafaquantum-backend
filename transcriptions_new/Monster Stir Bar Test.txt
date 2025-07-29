@@ -1,0 +1,22 @@
+[
+    {
+        "start": "00:00:00.000",
+        "end": "00:00:28.000",
+        "text": " Hey everybody, just want to give you a quick video. I bought this 2-inch monster stir bar, that's the one that comes with the stir, the little blue guy that I use, and I bought this monster one, the 2-inch one, and I'm discovering it's got some limitations. So watch what happens when you take this giant monster bar and you turn the dial. And so it looks like I normally run the dial, like right now I'm stirring some MCT at about"
+    },
+    {
+        "start": "00:00:28.000",
+        "end": "00:00:56.840",
+        "text": "11 o'clock, and you can actually turn it to about 2 p.m., you know, the 2 o'clock, and it'll still stir, but because it's MCT, you know, it's just, it's like water. But over here I've got MCT and coconut, and watch what happens. I mean, look, look, I got it up to 10, and it's got nothing happening. And then all of a sudden, it kicks in at 11, and I've done this several times now, and then this monster bar, boom, as soon as you hit 12 o'clock, it just falls, and it just does that."
+    },
+    {
+        "start": "00:00:56.840",
+        "end": "00:01:26.080",
+        "text": "And so then the only thing that's really interesting about this giant bar is that it only works at a somewhat like medium speed. So, ah, shoot, it's just driving me crazy. Trying to get the right speed. I don't want to go too high, but I want to get as fast as I can get on this thing. But that's about it for that monster bar. And then you can see right here, this is about, I'd say this is like 80% caprylic and about 20% regular coconut, and so, shoot, do you see that?"
+    },
+    {
+        "start": "00:01:26.080",
+        "end": "00:01:51.240",
+        "text": "It just flipped over again. So you have to turn it all the way back down, and all the way back up. And I'll tell you this, I thought it'd be a lot easier to work with this bar than this. You know, I mean, I'm going to have to keep an eye on it, and I'm at the babysit it. But the good news is, it does create a little bit of a vortex. Not as good as the one inch bar, which is what I thought would happen. So, hey, you know, what this means is bigger is not always better."
+    }
+]
