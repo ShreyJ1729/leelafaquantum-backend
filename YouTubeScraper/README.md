@@ -6,6 +6,7 @@ A Python script to download all videos, audio, and thumbnails from any YouTube c
 
 - Download all videos from any YouTube channel
 - Support for both video and audio-only downloads
+- **Channel releases/albums support** - Automatically organizes music releases into separate folders
 - Automatic thumbnail downloads in highest available quality
 - Metadata extraction and storage
 - Progress tracking with progress bars
@@ -64,6 +65,8 @@ python scraper.py "https://www.youtube.com/@ChannelName" \
 - `--output-dir`: Output directory (default: `downloads`)
 - `--no-thumbnails`: Skip downloading thumbnails
 - `--proxy-config`: Path to proxy configuration JSON file (default: `proxy_config.json`)
+- `--no-releases`: Skip downloading channel releases/albums
+- `--releases-only`: Download only releases, skip regular channel videos
 
 ## Output Structure
 
@@ -71,11 +74,22 @@ The script creates the following directory structure:
 
 ```
 output_dir/
-├── videos/          # Video files (.mp4)
-├── audio/           # Audio files (.m4a)
-├── thumbnails/      # Thumbnail images (.jpg)
-├── metadata/        # Video metadata (.json)
-└── scraper.log      # Logging output
+├── videos/              # Regular channel videos (.mp4)
+├── audio/               # Regular channel audio (.m4a)
+├── thumbnails/          # Regular thumbnails (.jpg)
+├── metadata/            # Regular metadata (.json)
+├── releases/            # Channel releases/albums
+│   ├── Album Name 1/    # Each release in separate folder
+│   │   ├── videos/      # Release videos
+│   │   ├── audio/       # Release audio files
+│   │   ├── thumbnails/  # Release thumbnails
+│   │   └── metadata/    # Release metadata
+│   └── Album Name 2/
+│       ├── videos/
+│       ├── audio/
+│       ├── thumbnails/
+│       └── metadata/
+└── scraper.log          # Logging output
 ```
 
 ## Examples
@@ -98,6 +112,21 @@ python scraper.py "https://www.youtube.com/@SomeChannel" --no-thumbnails
 ### Download with proxy
 ```bash
 python scraper.py "https://www.youtube.com/@SomeChannel" --proxy-config proxy_config.json
+```
+
+### Download only releases/albums (skip regular videos)
+```bash
+python scraper.py "https://www.youtube.com/@MusicArtist" --releases-only
+```
+
+### Download regular videos without releases
+```bash
+python scraper.py "https://www.youtube.com/@SomeChannel" --no-releases
+```
+
+### Download everything (videos + releases)
+```bash
+python scraper.py "https://www.youtube.com/@MusicArtist"
 ```
 
 ## Proxy Configuration
@@ -163,6 +192,65 @@ cp proxy_config.json.example proxy_config.json
 - If no proxy configuration is found, the scraper will proceed without proxy
 - Set `"enabled": false` to temporarily disable proxy without changing settings
 - Both thumbnail downloads and video/audio downloads will use the configured proxy
+
+## Channel Releases Support
+
+The scraper now supports downloading YouTube channel releases (albums, EPs, singles) which are automatically organized into separate folders.
+
+### What are Channel Releases?
+
+Channel releases correspond to YouTube's **Releases tab** which is available on Official Artist Channels and music-focused channels. These releases represent curated music collections like:
+
+- Albums
+- EPs (Extended Plays)
+- Singles
+- Compilations
+- Other music releases
+
+### How Releases are Organized
+
+Each release is downloaded into its own folder structure:
+
+```
+releases/
+├── Album Name/
+│   ├── audio/       # All tracks from this album
+│   ├── videos/      # Music videos from this album
+│   ├── thumbnails/  # Thumbnails for each track
+│   └── metadata/    # Metadata for each track (includes release info)
+```
+
+### Release Features
+
+- **Automatic Discovery**: Finds all releases from the channel's releases tab
+- **Organized Storage**: Each release gets its own folder with the release name
+- **Complete Metadata**: Includes release name in each track's metadata
+- **Progress Tracking**: Shows progress for each release separately
+- **Resume Support**: Skips already downloaded tracks, just like regular videos
+- **Error Handling**: Continues with other releases if one fails
+
+### Usage Examples
+
+```bash
+# Download everything (regular videos + releases)
+python scraper.py "https://www.youtube.com/@ArtistChannel"
+
+# Download only the releases/albums
+python scraper.py "https://www.youtube.com/@ArtistChannel" --releases-only
+
+# Skip releases, download only regular videos
+python scraper.py "https://www.youtube.com/@ArtistChannel" --no-releases
+
+# Download releases with video format
+python scraper.py "https://www.youtube.com/@ArtistChannel" --releases-only --format video
+```
+
+### Best For
+
+- **Music Artists**: Official artist channels with organized discographies
+- **Record Labels**: Channels with multiple album releases
+- **Music Archival**: Systematically organizing music collections
+- **Podcast Channels**: Some podcast channels organize content as releases
 
 ## Features in Detail
 
