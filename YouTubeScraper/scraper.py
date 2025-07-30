@@ -27,9 +27,6 @@ class YouTubeScraper:
         self.download_releases = download_releases
         self.releases_only = releases_only
         
-        # Load proxy configuration
-        self.proxies = self._load_proxy_config(proxy_config_path)
-        
         # Create output directories
         self.videos_dir = self.output_dir / "videos"
         self.audio_dir = self.output_dir / "audio"
@@ -42,7 +39,7 @@ class YouTubeScraper:
         for dir_path in base_dirs:
             dir_path.mkdir(parents=True, exist_ok=True)
         
-        # Setup logging
+        # Setup logging BEFORE loading proxy config (which uses logger)
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
@@ -52,6 +49,9 @@ class YouTubeScraper:
             ]
         )
         self.logger = logging.getLogger(__name__)
+        
+        # Load proxy configuration (after logger is initialized)
+        self.proxies = self._load_proxy_config(proxy_config_path)
         
         # Initialize PO token
         self.po_token_data = self._get_po_token()
